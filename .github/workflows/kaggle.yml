@@ -51,7 +51,18 @@ jobs:
         run: |
           [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
           SLUG="se-$(echo $JOB | tr '_' '-')"
-          mkdir -p /tmp/k && cp -r kaggle/jobs/$JOB/. /tmp/k/ && cp kaggle/common.py /tmp/k/ 2>/dev/null || true
+          mkdir -p /tmp/k && cp kaggle/jobs/$JOB/run.py /tmp/k/run.py
+          # Kaggle uploads only run.py: other .py files of the job are packed in front of it and written out at start
+          python - <<'PK'
+          import base64, glob, os
+          job = os.environ["JOB"]; extra = [f for f in glob.glob(f"kaggle/jobs/{job}/*.py") if not f.endswith("/run.py")]
+          if extra:
+              pre = "import base64 as _b, os as _o\n" + "".join(
+                  f"open({os.path.basename(f)!r}, 'wb').write(_b.b64decode({base64.b64encode(open(f, 'rb').read()).decode()!r}))\n" for f in extra)
+              body = open("/tmp/k/run.py").read(); open("/tmp/k/run.py", "w").write(pre + body)
+              print("packed:", [os.path.basename(f) for f in extra])
+          PK
+          cp kaggle/jobs/$JOB/sources.json /tmp/k/ 2>/dev/null || true
           GPU="${{ inputs.gpu }}"; EN=true; SHAPE=NvidiaTeslaT4
           case "$GPU" in none) EN=false;; P100) SHAPE=NvidiaTeslaP100;; esac
           python - <<PY
