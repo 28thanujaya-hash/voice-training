@@ -60,6 +60,11 @@ jobs:
                "kernel_type": "script", "is_private": True, "enable_gpu": "$EN" == "true",
                "enable_internet": True, "dataset_sources": [], "competition_sources": [], "kernel_sources": []}
           if "$EN" == "true": m["machine_shape"] = "$SHAPE"
+          import os
+          if os.path.exists("/tmp/k/sources.json"):   # outputs of earlier jobs this one reads
+              src = json.load(open("/tmp/k/sources.json"))
+              m["kernel_sources"] = ["$KUSER/se-" + s.replace("_", "-") for s in src.get("jobs", [])]
+              m["dataset_sources"] = src.get("datasets", [])
           json.dump(m, open("/tmp/k/kernel-metadata.json", "w"), indent=1)
           print(m)
           PY
