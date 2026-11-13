@@ -1,0 +1,31 @@
+[{"stream_name":"stderr","time":42.896804967,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":47.592477012,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":84.776017461,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:14\u003c00:14, 14.18s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:36\u003c00:00, 19.24s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:36\u003c00:00, 18.48s/it]\n"}
+,{"stream_name":"stderr","time":88.456743189,"data":"\rLoading weights:   0%|          | 0/254 [00:00\u003c?, ?it/s]\rLoading weights:   0%|          | 1/254 [00:01\u003c07:35,  1.80s/it]\rLoading weights:  47%|████▋     | 120/254 [00:01\u003c00:01, 87.74it/s]\rLoading weights:  74%|███████▍  | 188/254 [00:02\u003c00:00, 89.10it/s]\rLoading weights:  90%|█████████ | 229/254 [00:03\u003c00:00, 85.85it/s]\rLoading weights: 100%|██████████| 254/254 [00:03\u003c00:00, 74.90it/s]\n"}
+,{"stream_name":"stderr","time":93.316259136,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":104.71537107,"data":"\rLoading weights:   0%|          | 0/587 [00:00\u003c?, ?it/s]\rLoading weights:  40%|████      | 236/587 [00:00\u003c00:00, 2347.33it/s]\rLoading weights:  80%|████████  | 471/587 [00:00\u003c00:00, 2324.09it/s]\rLoading weights: 100%|██████████| 587/587 [00:00\u003c00:00, 2330.57it/s]\n"}
+,{"stream_name":"stdout","time":106.862395251,"data":"[  1.8 min] models loaded\n"}
+,{"stream_name":"stderr","time":107.072646195,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":159.30476607,"data":"[  2.6 min] batch 1/6 in 52 s\n"}
+,{"stream_name":"stderr","time":159.309845275,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":211.01440639,"data":"[  3.5 min] batch 2/6 in 52 s\n"}
+,{"stream_name":"stderr","time":211.018098782,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":254.499509863,"data":"[  4.2 min] batch 3/6 in 43 s\n"}
+,{"stream_name":"stderr","time":254.503038189,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":296.869136261,"data":"[  4.9 min] batch 4/6 in 42 s\n"}
+,{"stream_name":"stderr","time":296.872868537,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":345.324506544,"data":"[  5.7 min] batch 5/6 in 48 s\n"}
+,{"stream_name":"stderr","time":345.327458231,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":358.749984172,"data":"[  6.0 min] batch 6/6 in 13 s\n"}
+,{"stream_name":"stderr","time":379.085484461,"data":"[transformers] Passing `generation_config` together with generation-related arguments=({'suppress_tokens', 'begin_suppress_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.\n"}
+,{"stream_name":"stderr","time":379.86558571,"data":"[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer WhisperTokenizer. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.\n"}
+,{"stream_name":"stderr","time":383.08364073,"data":"[transformers] You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stderr","time":386.745431515,"data":"/usr/local/lib/python3.13/dist-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.\n"}
+,{"stream_name":"stderr","time":386.745484088,"data":"  warnings.warn(\"Possible clipped samples in output.\")\n"}
+,{"stream_name":"stderr","time":424.377931256,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":424.377977924,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":424.675425552,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":424.675456692,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":425.616689324,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":426.843684068,"data":"[NbConvertApp] Writing 336631 bytes to __results__.html\n"}
+]

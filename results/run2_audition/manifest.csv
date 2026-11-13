@@ -1,0 +1,89 @@
+id,who,voice,row,take,kept,fallback,ok,why,seconds,words_per_s,wer,file,text,heard
+s01,sam,leo,bright,1,,,True,,4.23,3.22,0.0,clips/s01_leo_t1.wav,No way! He's here! I have a little brother! His name is Thenuka!,No way. He's here. I have a little brother. His name is Stan Nuka.
+s01,sam,leo,bright,2,True,,True,,4.59,2.96,0.0,clips/s01_leo_t2.wav,No way! He's here! I have a little brother! His name is Thenuka!,No way. He's here. I have a little brother. His name is Danuka.
+s01,sam,zac,bright,1,True,,True,,7.09,1.89,0.0,clips/s01_zac_t1.wav,No way! He's here! I have a little brother! His name is Thenuka!,No way. He's here. I have a little brother. His name is Thanuka.
+s01,sam,zac,bright,2,,,True,,5.87,2.29,0.0,clips/s01_zac_t2.wav,No way! He's here! I have a little brother! His name is Thenuka!,No way. He's here. I have a little brother. His name is Seneca.
+s02,sam,leo,normal,1,True,,True,,2.99,3.58,0.0,clips/s02_leo_t1.wav,"So, how was your weekend? Did you do anything fun?","So, how was your weekend? Did you do anything fun?"
+s02,sam,leo,normal,2,,,False,words,3.02,3.55,0.1,clips/s02_leo_t2.wav,"So, how was your weekend? Did you do anything fun?","So, how was your weekend? Do you do anything fun?"
+s02,sam,zac,normal,1,True,,True,,3.44,3.08,0.0,clips/s02_zac_t1.wav,"So, how was your weekend? Did you do anything fun?","So, how was your weekend? Did you do anything fun?"
+s02,sam,zac,normal,2,,,False,words,3.85,2.74,0.1,clips/s02_zac_t2.wav,"So, how was your weekend? Did you do anything fun?",So... was your weekend? Did you do anything fun?
+s03,sam,leo,bright,1,,,True,,3.42,3.41,0.0,clips/s03_leo_t1.wav,You cooked? Okay… but did you burn the rice? Like me?,"You cooked? Okay. But did you burn the rice, like me?"
+s03,sam,leo,bright,2,True,,True,,4.64,2.48,0.0,clips/s03_leo_t2.wav,You cooked? Okay… but did you burn the rice? Like me?,"You cooked? Okay, but did you burn the rice like me?"
+s03,sam,zac,bright,1,True,,True,,6.69,1.7,0.0,clips/s03_zac_t1.wav,You cooked? Okay… but did you burn the rice? Like me?,"You cooked? Okay, but... Did you burn the rice? Like me?"
+s03,sam,zac,bright,2,,,True,,5.26,2.18,0.0,clips/s03_zac_t2.wav,You cooked? Okay… but did you burn the rice? Like me?,"You cooked? Okay, but did you burn the rice? Like me?"
+s04,sam,leo,low,1,True,,True,,3.55,3.58,0.0,clips/s04_leo_t1.wav,He cried all night… But then he smiled at me. Worth it.,"He cried all night, but then he smiled at me. Worth it."
+s04,sam,leo,low,2,,,True,,3.46,3.68,0.0,clips/s04_leo_t2.wav,He cried all night… But then he smiled at me. Worth it.,He cried all night. But then he smiled at me. Worth it.
+s04,sam,zac,low,1,,,True,,3.83,3.31,0.0,clips/s04_zac_t1.wav,He cried all night… But then he smiled at me. Worth it.,"He cried all night, but then he smiled at me. Worth it."
+s04,sam,zac,low,2,True,,True,,3.95,3.2,0.0,clips/s04_zac_t2.wav,He cried all night… But then he smiled at me. Worth it.,"He cried all night, but then he smiled at me. Worth it."
+s05,sam,leo,low,1,True,,True,,4.55,2.76,0.0,clips/s05_leo_t1.wav,Bruno died last night. He was old. I'm okay. Just… quiet today.,Bruno died last night. He was old. I'm okay. Just quiet today.
+s05,sam,leo,low,2,,,True,,4.34,2.9,0.0,clips/s05_leo_t2.wav,Bruno died last night. He was old. I'm okay. Just… quiet today.,Bruno died last night. He was old. I'm okay. Just quiet today.
+s05,sam,zac,low,1,True,,True,,7.52,1.64,0.0,clips/s05_zac_t1.wav,Bruno died last night. He was old. I'm okay. Just… quiet today.,Bruno died last night. He was old. I'm okay. Just quiet today.
+s05,sam,zac,low,2,,,True,,5.55,2.24,0.0,clips/s05_zac_t2.wav,Bruno died last night. He was old. I'm okay. Just… quiet today.,Bruno died last night. He was old. I'm okay. Just...quiet today.
+s06,sam,leo,tense,1,True,True,False,words,3.29,2.26,0.143,clips/s06_leo_t1.wav,I failed. The parking. Again. Don't laugh.,"I failed the parking. Again, they'll laugh."
+s06,sam,leo,tense,2,,,False,words,3.17,2.36,0.286,clips/s06_leo_t2.wav,I failed. The parking. Again. Don't laugh.,I failed the parking again at last.
+s06,sam,zac,tense,1,True,,True,,4.89,1.49,0.0,clips/s06_zac_t1.wav,I failed. The parking. Again. Don't laugh.,I failed the parking again. Don't laugh.
+s06,sam,zac,tense,2,,,True,,4.85,1.51,0.0,clips/s06_zac_t2.wav,I failed. The parking. Again. Don't laugh.,"I failed the parking. Again, don't laugh."
+s07,sam,leo,bright,1,True,True,False,words,2.93,2.56,0.143,clips/s07_leo_t1.wav,Wait. Seriously? He skipped the whole queue?,"Wait, seriously? You skipped the whole queue?"
+s07,sam,leo,bright,2,,,False,words,2.72,2.78,0.143,clips/s07_leo_t2.wav,Wait. Seriously? He skipped the whole queue?,"Wait, seriously? You skipped the whole queue?"
+s07,sam,zac,bright,1,True,,True,,5.11,1.43,0.0,clips/s07_zac_t1.wav,Wait. Seriously? He skipped the whole queue?,"Wait, seriously? He skipped the whole queue?"
+s07,sam,zac,bright,2,,,True,,4.51,1.62,0.0,clips/s07_zac_t2.wav,Wait. Seriously? He skipped the whole queue?,Wait... Seriously? He skipped the whole queue?
+s08,sam,leo,low,1,True,,True,,2.74,3.15,0.0,clips/s08_leo_t1.wav,"Hey… I'm really sorry, Maya. That's not fair.","Hey, I'm really sorry Maya, that's not fair."
+s08,sam,leo,low,2,,,False,words,2.99,2.86,0.125,clips/s08_leo_t2.wav,"Hey… I'm really sorry, Maya. That's not fair.","Hey, really sorry Maya, that's not fair."
+s08,sam,zac,low,1,True,,True,,4.64,1.8,0.0,clips/s08_zac_t1.wav,"Hey… I'm really sorry, Maya. That's not fair.","Hey. I'm really sorry, Maya. That's not fair."
+s08,sam,zac,low,2,,,True,,4.0,2.11,0.0,clips/s08_zac_t2.wav,"Hey… I'm really sorry, Maya. That's not fair.","Hey. I'm really sorry, Maya. That's not fair."
+s09,sam,leo,normal,1,,,True,,2.8,3.46,0.0,clips/s09_leo_t1.wav,Um… I don't know. Maybe I'm not that clever.,"Um, I don't know. Maybe I'm not that clever."
+s09,sam,leo,normal,2,True,,True,,2.91,3.32,0.0,clips/s09_leo_t2.wav,Um… I don't know. Maybe I'm not that clever.,"Um, I don't know. Maybe I'm not that clever."
+s09,sam,zac,normal,1,,,True,,4.19,2.26,0.0,clips/s09_zac_t1.wav,Um… I don't know. Maybe I'm not that clever.,Um... I don't know. Maybe I'm not that clever.
+s09,sam,zac,normal,2,True,,True,,4.27,2.21,0.0,clips/s09_zac_t2.wav,Um… I don't know. Maybe I'm not that clever.,Um... I don't know... Maybe I'm not that clever...
+s10,sam,leo,bright,1,True,,True,,1.12,4.36,0.0,clips/s10_leo_t1.wav,I can't believe it!,I can't believe it.
+s10,sam,leo,bright,2,,,True,,1.1,4.46,0.0,clips/s10_leo_t2.wav,I can't believe it!,I can't believe it.
+s10,sam,zac,bright,1,,,True,,1.33,3.54,0.0,clips/s10_zac_t1.wav,I can't believe it!,I can't believe it.
+s10,sam,zac,bright,2,True,,True,,2.01,2.21,0.0,clips/s10_zac_t2.wav,I can't believe it!,I can't believe it.
+m01,maya,tara,normal,1,True,,True,,7.09,2.61,0.0,clips/m01_tara_t1.wav,"The sea at Galle Face is so pretty tonight, and the air is cool. You should see it.",The sea at Dollface is so pretty tonight and the air is cool. You should see it.
+m01,maya,tara,normal,2,,,True,,6.56,2.83,0.0,clips/m01_tara_t2.wav,"The sea at Galle Face is so pretty tonight, and the air is cool. You should see it.",The sea at Galiface is so pretty tonight and the air is cool. You should see it.
+m01,maya,leah,normal,1,,,True,,5.21,3.59,0.0,clips/m01_leah_t1.wav,"The sea at Galle Face is so pretty tonight, and the air is cool. You should see it.","The sea at Dalaface is so pretty tonight, and the air is cool. You should see it."
+m01,maya,leah,normal,2,True,,True,,5.62,3.32,0.0,clips/m01_leah_t2.wav,"The sea at Galle Face is so pretty tonight, and the air is cool. You should see it.","The See It Gala face is so pretty tonight, and the air is cool. You should see it."
+m02,maya,tara,normal,1,,,True,,4.36,1.68,0.0,clips/m02_tara_t1.wav,"Okay, tell me everything. What happened next?","Okay, tell me everything. What happened next?"
+m02,maya,tara,normal,2,True,,True,,4.89,1.49,0.0,clips/m02_tara_t2.wav,"Okay, tell me everything. What happened next?","Okay, tell me everything. What happened next?"
+m02,maya,leah,normal,1,,,True,,3.83,1.93,0.0,clips/m02_leah_t1.wav,"Okay, tell me everything. What happened next?","Okay, tell me everything. What happened next?"
+m02,maya,leah,normal,2,True,,True,,4.47,1.64,0.0,clips/m02_leah_t2.wav,"Okay, tell me everything. What happened next?","Okay, tell me everything. What happened next?"
+m03,maya,tara,normal,1,True,,True,,3.04,1.76,0.0,clips/m03_tara_t1.wav,Marvel again? That's so you.,Marvel again? That's so you.
+m03,maya,tara,normal,2,,,True,,2.85,1.89,0.0,clips/m03_tara_t2.wav,Marvel again? That's so you.,Marvel again? That's so you.
+m03,maya,leah,normal,1,True,,True,,2.65,2.04,0.0,clips/m03_leah_t1.wav,Marvel again? That's so you.,Marvel again? That's so you.
+m03,maya,leah,normal,2,,,True,,2.63,2.06,0.0,clips/m03_leah_t2.wav,Marvel again? That's so you.,Marvel again? That's so you.
+m04,maya,tara,bright,1,,,True,,6.64,1.55,0.0,clips/m04_tara_t1.wav,So… I'm shift leader now. Me. Can you believe it?,"So, I'm shift leader now. Me. Can you believe it?"
+m04,maya,tara,bright,2,True,,True,,6.9,1.49,0.0,clips/m04_tara_t2.wav,So… I'm shift leader now. Me. Can you believe it?,"So, I'm shift leader now. Me. Can you believe it?"
+m04,maya,leah,bright,1,True,,True,,5.0,2.08,0.0,clips/m04_leah_t1.wav,So… I'm shift leader now. Me. Can you believe it?,"So, I'm shift leader now. Me. Can you believe it?"
+m04,maya,leah,bright,2,,,True,,4.42,2.37,0.0,clips/m04_leah_t2.wav,So… I'm shift leader now. Me. Can you believe it?,"So, I'm shift leader now. Me. Can you believe it?"
+m05,maya,tara,bright,1,True,,True,,5.41,2.31,0.0,clips/m05_tara_t1.wav,"First Chennai, and then Madurai. I've been saving for a whole year!","First Chennai, and then Madurai. I've been saving for a whole year."
+m05,maya,tara,bright,2,,,True,,5.26,2.37,0.0,clips/m05_tara_t2.wav,"First Chennai, and then Madurai. I've been saving for a whole year!","First Chennai, and then Madurai. I've been saving for a whole year."
+m05,maya,leah,bright,1,True,,True,,5.32,2.34,0.0,clips/m05_leah_t1.wav,"First Chennai, and then Madurai. I've been saving for a whole year!",First Chennai and then Madurai. I've been saving for a whole year.
+m05,maya,leah,bright,2,,,True,,4.85,2.58,0.0,clips/m05_leah_t2.wav,"First Chennai, and then Madurai. I've been saving for a whole year!","First Chennai, and then Madurai. I've been saving for a whole year."
+m06,maya,tara,low,1,True,,True,,4.23,3.97,0.0,clips/m06_tara_t1.wav,"He shouted at me in front of everyone, so I went to the back and cried.","He shouted at me in front of everyone, so I went to the back and cried."
+m06,maya,tara,low,2,,,True,,4.1,4.1,0.0,clips/m06_tara_t2.wav,"He shouted at me in front of everyone, so I went to the back and cried.","He shouted at me in front of everyone, so I went to the back and cried."
+m06,maya,leah,low,1,True,,True,,3.95,4.26,0.0,clips/m06_leah_t1.wav,"He shouted at me in front of everyone, so I went to the back and cried.","He shouted at me in front of everyone, so I went to the back and cried."
+m06,maya,leah,low,2,,,True,,3.68,4.6,0.0,clips/m06_leah_t2.wav,"He shouted at me in front of everyone, so I went to the back and cried.","He shouted at me in front of everyone, so I went to the back and cried."
+m07,maya,tara,tense,1,True,,True,,5.51,2.26,0.0,clips/m07_tara_t1.wav,No. That was not okay. You don't speak to people like that.,"No, that was not okay. You don't speak to people like that."
+m07,maya,tara,tense,2,,,True,,5.13,2.44,0.0,clips/m07_tara_t2.wav,No. That was not okay. You don't speak to people like that.,"No, that was not okay. You don't speak to people like that."
+m07,maya,leah,tense,1,True,,True,,5.47,2.28,0.0,clips/m07_leah_t1.wav,No. That was not okay. You don't speak to people like that.,No. That was not okay. You don't speak to people like that.
+m07,maya,leah,tense,2,,,True,,4.3,2.93,0.0,clips/m07_leah_t2.wav,No. That was not okay. You don't speak to people like that.,No. That was not okay. You don't speak to people like that.
+m08,maya,tara,low,1,True,,True,,7.3,1.97,0.0,clips/m08_tara_t1.wav,"Paati's in hospital, and I'm so far away… I just want to be there.",Patti's in hospital and I'm so far away. I just want to be there.
+m08,maya,tara,low,2,,,True,,5.92,2.45,0.0,clips/m08_tara_t2.wav,"Paati's in hospital, and I'm so far away… I just want to be there.",Patti's in hospital and I'm so far away. I just want to be there.
+m08,maya,leah,low,1,True,,True,,4.7,3.11,0.0,clips/m08_leah_t1.wav,"Paati's in hospital, and I'm so far away… I just want to be there.","Potty's in hospital, and I'm so far away. I just want to be there."
+m08,maya,leah,low,2,,,True,,4.57,3.2,0.0,clips/m08_leah_t2.wav,"Paati's in hospital, and I'm so far away… I just want to be there.",Pottie's in hospital and I'm so far away. I just want to be there.
+m09,maya,tara,low,1,True,,True,,5.75,1.44,0.0,clips/m09_tara_t1.wav,"Oh, Sam… Bruno was family. Take your time.","Oh, Sam. Bruno was family. Take your time."
+m09,maya,tara,low,2,,,True,,4.45,1.88,0.0,clips/m09_tara_t2.wav,"Oh, Sam… Bruno was family. Take your time.","Oh, Sam. Bruno is family. Take your time."
+m09,maya,leah,low,1,,,True,,4.57,1.83,0.0,clips/m09_leah_t1.wav,"Oh, Sam… Bruno was family. Take your time.","Oh, Sam. Bruno was family. Take your time."
+m09,maya,leah,low,2,True,,True,,5.21,1.6,0.0,clips/m09_leah_t2.wav,"Oh, Sam… Bruno was family. Take your time.","Oh, Sam. Bruno was family. Take your time."
+m10,maya,tara,normal,1,True,,True,,4.66,2.47,0.0,clips/m10_tara_t1.wav,"When I think about it, Colombo taught me to be brave.","When I think about it, Columbo taught me to be brave."
+m10,maya,tara,normal,2,,,True,,4.19,2.76,0.0,clips/m10_tara_t2.wav,"When I think about it, Colombo taught me to be brave.","When I think about it, Columbo taught me to be brave."
+m10,maya,leah,normal,1,,,True,,3.17,3.71,0.0,clips/m10_leah_t1.wav,"When I think about it, Colombo taught me to be brave.","When I think about it, Columbo taught me to be brave."
+m10,maya,leah,normal,2,True,,True,,3.38,3.46,0.0,clips/m10_leah_t2.wav,"When I think about it, Colombo taught me to be brave.","When I think about it, Columbo taught me to be brave."
+intro_leo,sam,leo,intro,1,True,,True,,1.54,2.98,0.0,clips/intro_leo_leo_t1.wav,Hi! This is Leo.,"Hi, this is Leo."
+intro_leo,sam,leo,intro,2,,,True,,1.46,3.18,0.0,clips/intro_leo_leo_t2.wav,Hi! This is Leo.,"Hi, this is Leo."
+intro_zac,sam,zac,intro,1,,,True,,1.82,2.47,0.0,clips/intro_zac_zac_t1.wav,Hi! This is Zac.,"Hi, this is Zach."
+intro_zac,sam,zac,intro,2,True,,True,,1.89,2.37,0.0,clips/intro_zac_zac_t2.wav,Hi! This is Zac.,"Hi, this is Zach."
+intro_tara,maya,tara,intro,1,True,,True,,2.99,1.43,0.0,clips/intro_tara_tara_t1.wav,Hi! This is Tara.,"Hi, this is Tara."
+intro_tara,maya,tara,intro,2,,,True,,2.8,1.54,0.0,clips/intro_tara_tara_t2.wav,Hi! This is Tara.,"Hi, this is Tara."
+intro_leah,maya,leah,intro,1,True,,True,,2.59,1.67,0.0,clips/intro_leah_leah_t1.wav,Hi! This is Leah.,Hi! This is Leah.
+intro_leah,maya,leah,intro,2,,,True,,1.78,2.53,0.0,clips/intro_leah_leah_t2.wav,Hi! This is Leah.,"Hi, this is Leah."
