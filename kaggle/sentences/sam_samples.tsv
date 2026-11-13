@@ -1,0 +1,101 @@
+id	who	row	area	group	source	text
+s_n01	sam	normal	1		sample	I take the 654 bus to college.
+s_n02	sam	normal	1		sample	I was nearly late. Again.
+s_n03	sam	normal	1		sample	So, how was your weekend?
+s_n04	sam	normal	1		sample	I work at my uncle's phone shop on Saturdays.
+s_n05	sam	normal	1		sample	Do you like kottu? I love it.
+s_n06	sam	normal	1		sample	It's hot today. Really hot.
+s_n07	sam	normal	1		sample	My little brothers took my phone again.
+s_n08	sam	normal	1		sample	What time does your class start?
+s_n09	sam	normal	1		sample	We have cricket practice on Sunday.
+s_n10	sam	normal	1		sample	Do you have any brothers or sisters?
+s_n11	sam	normal	1		sample	I had isso vadai for lunch.
+s_n12	sam	normal	1		sample	Anyway… what are you doing today?
+s_n13	sam	normal	2		sample	Oh, you went to Kandy? With who?
+s_n14	sam	normal	2		sample	Ah, I see. That makes sense.
+s_n15	sam	normal	2		sample	And you? What do you think?
+s_n16	sam	normal	2		sample	Nice shirt! Is it new?
+s_n17	sam	normal	2		sample	Thanks! I got it in Kandy.
+s_n18	sam	normal	3		sample	Good! Now say it again.
+s_n19	sam	normal	3		sample	Try it with "because".
+s_n20	sam	normal	3		sample	Listen first. Then say it back.
+s_n21	sam	normal	3		sample	Take your time. No rush.
+s_n22	sam	normal	3		sample	Oh, you ate rice? Nice. "Ate", not "eat".
+s_n23	sam	normal	3		sample	Now you ask me.
+s_n24	sam	normal	3		sample	One more time. A bit louder.
+s_n25	sam	normal	4		sample	The baby cries every night.
+s_n26	sam	normal	4		sample	Kavi is a bit jealous of Thenuka.
+s_n27	sam	normal	5		sample	Excuse me, is this seat free?
+s_n28	sam	normal	5		sample	Could you help me, please?
+s_n29	sam	normal	6		sample	I'm a fast bowler. Very fast.
+s_n30	sam	normal	6		sample	I tried to cook dinner yesterday.
+s_n31	sam	normal	6		sample	Marvel or Batman? Tell me.
+s_n32	sam	normal	7		sample	First I missed the bus. Then it rained.
+s_n33	sam	normal	7		sample	After that, I walked to college.
+s_n34	sam	normal	8		sample	Three thousand three hundred rupees. That's the price.
+s_n35	sam	normal	8		sample	I fixed the phone and watched the match.
+s_n36	sam	normal	8		sample	Seven twenty. The bus leaves at seven twenty.
+s_n37	sam	normal	8		sample	Peradeniya, then Kandy, then home.
+s_n38	sam	normal	rep	G2	sample	Seriously?
+s_n39	sam	normal	rep	G3	sample	Anyway. Let's go.
+s_n40	sam	normal	rep	G5	sample	Okay, okay.
+s_b41	sam	bright	4		sample	He's here! I have a little brother!
+s_b42	sam	bright	4		sample	His name is Thenuka! Isn't that cool?
+s_b43	sam	bright	4		sample	I passed! I passed my driving test!
+s_b44	sam	bright	4		sample	He smiled at me today! Thenuka smiled!
+s_b45	sam	bright	4		sample	Ella with the whole class? Let's go!
+s_b46	sam	bright	2		sample	Really? Congratulations!
+s_b47	sam	bright	2		sample	You did it! I knew it!
+s_b48	sam	bright	2		sample	Wow! That's brilliant!
+s_b49	sam	bright	2		sample	You cooked? Okay… but did you burn it? Ha!
+s_b50	sam	bright	3		sample	Yes! Perfect! That was so clear!
+s_b51	sam	bright	3		sample	Great answer! You used "but"!
+s_b52	sam	bright	6		sample	We won! Sri Lanka won!
+s_b53	sam	bright	6		sample	Six! He hit a six!
+s_b54	sam	bright	6		sample	I didn't burn the rice! First time!
+s_b55	sam	bright	6		sample	A motorbike! One day I'll buy a motorbike!
+s_b56	sam	bright	1		sample	No college tomorrow! Holiday!
+s_b57	sam	bright	1		sample	Kottu tonight! My treat!
+s_b58	sam	bright	5		sample	Thank you so much! You're the best!
+s_b59	sam	bright	7		sample	And then, suddenly, the dog jumped in the pool!
+s_b60	sam	bright	8		sample	Thirty overs! Three wickets! What a match!
+s_b61	sam	bright	rep	G1	sample	No way!
+s_b62	sam	bright	rep	G2	sample	Seriously?!
+s_b63	sam	bright	rep	G3	sample	Anyway, let's go!
+s_b64	sam	bright	rep	G4	sample	I can't believe it!
+s_b65	sam	bright	rep	G5	sample	Okay, okay!
+s_l66	sam	low	4		sample	Bruno died last night.
+s_l67	sam	low	4		sample	He was old. He was nine.
+s_l68	sam	low	4		sample	I'm okay. Just… quiet today.
+s_l69	sam	low	4		sample	He used to sleep by the door…
+s_l70	sam	low	4		sample	He stole my slippers. Every day.
+s_l71	sam	low	4		sample	I failed. The parking. Again.
+s_l72	sam	low	4		sample	I'm so tired. The baby cried all night.
+s_l73	sam	low	2		sample	Oh… I'm really sorry, Maya.
+s_l74	sam	low	2		sample	That's not fair. I'm sorry.
+s_l75	sam	low	1		sample	Um… I don't know.
+s_l76	sam	low	1		sample	Maybe I'm not that clever.
+s_l77	sam	low	3		sample	That's okay. It's hard. Try again.
+s_l78	sam	low	3		sample	Don't worry. Mistakes are fine.
+s_l79	sam	low	5		sample	Sorry. My bad. I didn't mean it.
+s_l80	sam	low	7		sample	I came home, and the house was so quiet…
+s_l81	sam	low	6		sample	We lost. By one run.
+s_l82	sam	low	8		sample	The thirtieth of the month… and no money left.
+s_l83	sam	low	rep	G1	sample	No way…
+s_l84	sam	low	rep	G3	sample	Anyway… let's go.
+s_l85	sam	low	rep	G4	sample	I can't believe it…
+s_t86	sam	tense	4		sample	Don't laugh. Seriously, don't.
+s_t87	sam	tense	4		sample	The examiner didn't even smile.
+s_t88	sam	tense	1		sample	The Wi-Fi is so slow. Again!
+s_t89	sam	tense	1		sample	He skipped the whole queue. Unbelievable.
+s_t90	sam	tense	1		sample	Kavi! Give me my phone. Now.
+s_t91	sam	tense	5		sample	Please wait your turn.
+s_t92	sam	tense	5		sample	No. I said no.
+s_t93	sam	tense	5		sample	That's my seat. Please move.
+s_t94	sam	tense	3		sample	Stop. Listen first. Then answer.
+s_t95	sam	tense	6		sample	That umpire was wrong. Totally wrong.
+s_t96	sam	tense	8		sample	Three hours late. Three hours!
+s_t97	sam	tense	rep	G1	sample	No way.
+s_t98	sam	tense	rep	G2	sample	Seriously.
+s_t99	sam	tense	rep	G4	sample	I can't believe it.
+s_t100	sam	tense	rep	G5	sample	Okay. Okay.

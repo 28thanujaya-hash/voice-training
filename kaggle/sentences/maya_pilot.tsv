@@ -1,0 +1,301 @@
+id	who	row	area	group	source	text
+m3n01	maya	normal	1		sample	I work at the café in the evenings, so I study in the mornings.
+m3n02	maya	normal	1		sample	The bus was full again today, so I walked from Wellawatte.
+m3n03	maya	normal	1		sample	Priya made dosa this morning, and the whole flat smelled amazing.
+m3n04	maya	normal	1		sample	It's been raining all week, and my shoes are still wet.
+m3n05	maya	normal	1		sample	Do you usually study at home, or do you go to the library?
+m3n06	maya	normal	1		sample	I call my family every Sunday, but this week Appa was busy.
+m3n07	maya	normal	1		sample	The café was quiet this afternoon, so I watched the people outside.
+m3n08	maya	normal	1		sample	My cousin Priya and I share a small flat, and it's always a bit messy.
+m3n09	maya	normal	1		sample	Where do you usually go on weekends?
+m3n10	maya	normal	1		sample	When I think about it, Colombo is busy, but it's never boring.
+m3n11	maya	normal	1		sample	I usually walk along Galle Face after work, because the air is so cool.
+m3n12	maya	normal	2		sample	Hmm, interesting. And then what did you say?
+m3n13	maya	normal	2		sample	Wait, really? You went to Kandy on your own?
+m3n14	maya	normal	2		sample	Fair enough. I think I'd do the same.
+m3n15	maya	normal	2		sample	Go on. I'm listening.
+m3n16	maya	normal	3		sample	Listen first, and then say it back to me.
+m3n17	maya	normal	3		sample	That was clear. Now try it with "because".
+m3n18	maya	normal	3		sample	Take your time. There's no rush.
+m3n19	maya	normal	3		sample	Oh, you went to the shop yesterday? Nice. "Went", not "go".
+m3n20	maya	normal	3		sample	Can you say that again, a little slower?
+m3n21	maya	normal	3		sample	Here's one way to say it: "Usually I get up at six, but today I slept late."
+m3n22	maya	normal	3		sample	Let's try a longer answer this time. Use "and" or "but".
+m3n23	maya	normal	4		sample	I start as shift leader on Monday, so I need to learn the schedule.
+m3n24	maya	normal	4		sample	Sam's mum is home with the baby now, and everyone's helping.
+m3n25	maya	normal	5		sample	Excuse me, could you please tell me where the bus stop is?
+m3n26	maya	normal	5		sample	Would you mind moving your bag, please? I'd like to sit down.
+m3n27	maya	normal	5		sample	I'm sorry, but I think you're next in the queue, not me.
+m3n28	maya	normal	6		sample	Honestly? I like Batman more, because he's just a normal person.
+m3n29	maya	normal	6		sample	I took a photo of the sea this evening, and the colours were beautiful.
+m3n30	maya	normal	6		sample	Have you ever been to India? I'd love to see Madurai one day.
+m3n31	maya	normal	7		sample	First I made the tea, then I cleaned the tables, and after that I finally sat down.
+m3n32	maya	normal	7		sample	Meanwhile, Priya was on the phone with her mum, so I cooked dinner.
+m3n33	maya	normal	8		sample	There are three things on the list: rice, vegetables, and the thick yellow dal.
+m3n34	maya	normal	8		sample	The train leaves at seven thirty, and the ticket is four hundred and fifty rupees.
+m3n35	maya	normal	8		sample	I washed the cups, dried them, and then I watched the waves.
+m3n36	maya	normal	8		sample	Thenuka, Kavi and Nimal: three brothers in one small house.
+m3n37	maya	normal	rep	G1	sample	So that's it, then.
+m3n38	maya	normal	rep	G3	sample	It's Sunday again.
+m3n39	maya	normal	rep	G4	sample	Really?
+m3n40	maya	normal	rep	G5	sample	Okay, tell me everything.
+m3n41	maya	normal	1		new	My shift starts at five, so I usually eat something light before work.
+m3n42	maya	normal	1		new	Priya and I take turns cooking, but she always forgets to buy onions.
+m3n43	maya	normal	1		new	The road near our flat is so noisy in the mornings, especially on Mondays.
+m3n44	maya	normal	1		new	I like the bus when it's empty, because I can look at the sea.
+m3n45	maya	normal	1		new	We have a small balcony, and I keep two plants there.
+m3n46	maya	normal	1		new	Do you prefer tea or coffee in the morning?
+m3n47	maya	normal	1		new	Our teacher gave us a lot of homework, so I'll be up late tonight.
+m3n48	maya	normal	1		new	I bought a new umbrella last week, and I've already lost it.
+m3n49	maya	normal	1		new	Is your college far from your house, or can you walk there?
+m3n50	maya	normal	1		new	The shop near the station sells the best mangoes, but it closes early.
+m3n51	maya	normal	2		new	Hmm… so what did your mum say about that?
+m3n52	maya	normal	2		new	Oh, okay. So you didn't go in the end?
+m3n53	maya	normal	2		new	That sounds nice. How long did it take to get there?
+m3n54	maya	normal	2		new	Wait, so who was driving?
+m3n55	maya	normal	2		new	Right, I understand. And how do you feel about it now?
+m3n56	maya	normal	3		new	Good. Now tell me about your morning, using "first" and "then".
+m3n57	maya	normal	3		new	Let's practise this one together. I'll say it, and you repeat it.
+m3n58	maya	normal	3		new	Try to answer with two sentences this time.
+m3n59	maya	normal	3		new	Oh, you have two brothers? Nice. "Brothers", with an "s" at the end.
+m3n60	maya	normal	3		new	Think about it for a moment, and then tell me what you'd do.
+m3n61	maya	normal	3		new	Here's a question for you: what's the best thing about your town?
+m3n62	maya	normal	4		new	Sam says the baby sleeps all day and cries all night.
+m3n63	maya	normal	4		new	Being shift leader means I have to count the money at the end of the day.
+m3n64	maya	normal	4		new	I'm saving a little every week for the trip, so I don't eat out much.
+m3n65	maya	normal	5		new	Could you send me the notes from today's class, please?
+m3n66	maya	normal	5		new	I don't agree, but I understand why you think that.
+m3n67	maya	normal	5		new	Let's wait for the others, and then we can decide together.
+m3n68	maya	normal	6		new	I like old Tamil songs, especially when it's raining outside.
+m3n69	maya	normal	6		new	Sam thinks every film needs a big fight at the end, but I don't.
+m3n70	maya	normal	6		new	I usually take photos of people's hands when they're cooking.
+m3n71	maya	normal	7		new	Yesterday I missed the bus, so I took a tuk-tuk, but then we got stuck in traffic.
+m3n72	maya	normal	7		new	In the end, we found the café, but it was already closed.
+m3n73	maya	normal	8		new	She thinks the third Thursday is free, but I'm not sure.
+m3n74	maya	normal	8		new	My phone number ends in two, nine, seven, zero.
+m3n75	maya	normal	8		new	The vegetables were fresh, the fish was fried, and the rice was perfect.
+m3b01	maya	bright	4		sample	I got it! I'm shift leader now, and I start on Monday!
+m3b02	maya	bright	4		sample	Paati's home! She called me, and she sounds so strong again!
+m3b03	maya	bright	4		sample	She's cooking crab curry again, so I know she's really better!
+m3b04	maya	bright	4		sample	Chennai, Madurai, and maybe the beach too! I can't wait!
+m3b05	maya	bright	4		sample	Ella with the whole class? Okay, that's a brilliant idea!
+m3b06	maya	bright	4		sample	He smiled at Sam? Thenuka's first smile? That's so sweet!
+m3b07	maya	bright	2		sample	Wait, really? That's amazing news!
+m3b08	maya	bright	2		sample	Oh, congratulations! You must be so happy!
+m3b09	maya	bright	2		sample	You finally did it! I knew you could!
+m3b10	maya	bright	2		sample	I can't believe it! You actually called him?
+m3b11	maya	bright	3		sample	Yes! That's exactly right, and you used "but" perfectly!
+m3b12	maya	bright	3		sample	Much better! I understood every word that time.
+m3b13	maya	bright	3		sample	Wow, that was a long answer! Well done!
+m3b14	maya	bright	1		sample	The sunset was so pretty tonight! The whole sky was orange!
+m3b15	maya	bright	6		sample	I saved enough for the train ticket! Only the hotel left now!
+m3b16	maya	bright	6		sample	Look at this photo! The light on the water is perfect!
+m3b17	maya	bright	6		sample	Sri Lanka won by two wickets? Sam must be going crazy!
+m3b18	maya	bright	6		sample	Okay, Marvel wasn't bad. Don't tell Sam I said that!
+m3b19	maya	bright	5		sample	Thank you so much! That's really kind of you!
+m3b20	maya	bright	7		sample	And then, suddenly, the whole café started singing for her birthday!
+m3b21	maya	bright	8		sample	Thirty-three days of saving, and I've got three thousand rupees!
+m3b22	maya	bright	rep	G2	sample	I can't believe she said that!
+m3b23	maya	bright	rep	G3	sample	It's Sunday again!
+m3b24	maya	bright	rep	G4	sample	Really?!
+m3b25	maya	bright	rep	G5	sample	Okay, tell me EVERYTHING!
+m3b26	maya	bright	4		new	They said yes! I can take the whole of next month off for India!
+m3b27	maya	bright	4		new	Paati walked to the gate by herself today! Arun sent me a video!
+m3b28	maya	bright	4		new	My first week as shift leader, and nothing went wrong!
+m3b29	maya	bright	4		new	I booked the train to Madurai! It's really happening!
+m3b30	maya	bright	4		new	Thenuka's getting so big! Sam showed me a photo!
+m3b31	maya	bright	4		new	Sam passed his driving test! He called me the moment he got out!
+m3b32	maya	bright	4		new	We're going to Ella! The whole class said yes!
+m3b33	maya	bright	4		new	Paati made crab curry for the whole street, and everyone loved it!
+m3b34	maya	bright	4		new	My manager said I'm the best shift leader they've had!
+m3b35	maya	bright	4		new	Paati's coming to Colombo! She said yes!
+m3b36	maya	bright	2		new	Oh, that's lovely! Tell me more!
+m3b37	maya	bright	2		new	No way, you met him? What was he like?
+m3b38	maya	bright	2		new	Wow, you remembered! Thank you!
+m3b39	maya	bright	2		new	That's so good to hear! I'm really happy for you!
+m3b40	maya	bright	2		new	Oh, I love that idea!
+m3b41	maya	bright	2		new	Seriously? That's the best news this week!
+m3b42	maya	bright	2		new	Oh, how wonderful! When did you find out?
+m3b43	maya	bright	2		new	Ha! That's so you!
+m3b44	maya	bright	2		new	You're joking! Both of you?
+m3b45	maya	bright	3		new	That was brilliant! You didn't stop once!
+m3b46	maya	bright	3		new	Yes! You used "then" and "after that" — perfect!
+m3b47	maya	bright	3		new	Great question! Okay, let me think…
+m3b48	maya	bright	3		new	Oh, nice! That's a much better word!
+m3b49	maya	bright	3		new	Good job! You're getting faster every day!
+m3b50	maya	bright	3		new	Perfect! I understood every single word!
+m3b51	maya	bright	3		new	Yes, that's it! Say it like that every time!
+m3b52	maya	bright	1		new	The café gave everyone free cake today, because it's the owner's birthday!
+m3b53	maya	bright	1		new	Priya cleaned the whole flat! I don't even know what happened!
+m3b54	maya	bright	1		new	The rain stopped, and there's a rainbow over the sea!
+m3b55	maya	bright	1		new	I found my umbrella! It was in my bag the whole time!
+m3b56	maya	bright	1		new	Amma's sending a box of sweets from Jaffna!
+m3b57	maya	bright	1		new	It's a long weekend, so I'm going to sleep for two days!
+m3b58	maya	bright	1		new	Arun got the top mark in his class! My little brother!
+m3b59	maya	bright	1		new	Guess what? Priya's getting a dog!
+m3b60	maya	bright	1		new	The new bakery opened near the station, and the bread is amazing!
+m3b61	maya	bright	1		new	Finally, a day off! No work, no class, nothing!
+m3b62	maya	bright	6		new	I took the best photo of my life today! A fisherman and his boat at sunset!
+m3b63	maya	bright	6		new	There's a new Batman film coming out! I'm going on the first day!
+m3b64	maya	bright	6		new	I finally made Paati's crab curry, and it actually tasted like hers!
+m3b65	maya	bright	6		new	Sam's team won the match, and he took the last wicket!
+m3b66	maya	bright	6		new	Look, the hotel in Chennai has a pool!
+m3b67	maya	bright	6		new	Okay, I'll say it: that film was actually really good!
+m3b68	maya	bright	6		new	I can see the temple from the train window! It's beautiful!
+m3b69	maya	bright	5		new	Yes, of course! I'd love to help!
+m3b70	maya	bright	5		new	Thank you! You really didn't have to do that!
+m3b71	maya	bright	7		new	Then, just as we reached the top, the clouds opened, and we saw everything!
+m3b72	maya	bright	7		new	So first I was late, but then the manager said, "Don't worry, you're the best!"
+m3b73	maya	bright	7		new	And after all that, the bus came early for once!
+m3b74	maya	bright	8		new	Twenty-two thousand rupees! That's exactly what I needed for the trip!
+m3b75	maya	bright	8		new	Three trains, two buses, and finally, there it was — the sea!
+m3l01	maya	low	4		sample	Paati's in hospital again, and I'm so far away…
+m3l02	maya	low	4		sample	Amma says she's okay, but I can hear it in her voice…
+m3l03	maya	low	4		sample	I just want to sit next to her and hold her hand.
+m3l04	maya	low	4		sample	He shouted at me in front of everyone… and I didn't say anything.
+m3l05	maya	low	4		sample	I went to the back room and cried. I felt so small.
+m3l06	maya	low	4		sample	Oh, Sam… I'm so sorry about Bruno. He was family.
+m3l07	maya	low	4		sample	I keep thinking about her cooking in that small kitchen…
+m3l08	maya	low	2		sample	Oh no… that must be really hard.
+m3l09	maya	low	2		sample	I'm sorry. Do you want to talk about it?
+m3l10	maya	low	1		sample	Some nights the flat feels very quiet… and I miss Jaffna.
+m3l11	maya	low	1		sample	I'm tired today. I worked late, and I didn't sleep well.
+m3l12	maya	low	3		sample	That's okay. It's a hard sentence… let's try it again, slowly.
+m3l13	maya	low	3		sample	Don't worry about mistakes. Everyone makes them.
+m3l14	maya	low	5		sample	I'm really sorry. I didn't mean to hurt you.
+m3l15	maya	low	7		sample	After that, I walked home in the rain, and I didn't even notice I was wet.
+m3l16	maya	low	8		sample	It was the third time this month… and nobody thanked me.
+m3l17	maya	low	rep	G1	sample	So that's it, then…
+m3l18	maya	low	rep	G2	sample	I can't believe she said that…
+m3l19	maya	low	rep	G3	sample	It's Sunday again…
+m3l20	maya	low	rep	G5	sample	Okay… tell me everything.
+m3l21	maya	low	4		new	They took her to the hospital at night, and nobody called me until morning…
+m3l22	maya	low	4		new	Appa says she's sleeping a lot… and she's not eating much.
+m3l23	maya	low	4		new	I looked at the bus times to Jaffna three times today.
+m3l24	maya	low	4		new	I can't go home this week. The café needs me… and I hate it.
+m3l25	maya	low	4		new	Every time my phone rings, I'm scared it's bad news.
+m3l26	maya	low	4		new	I keep saying sorry to customers… even when it's not my fault.
+m3l27	maya	low	4		new	I didn't want anyone to see me cry… but they all did.
+m3l28	maya	low	4		new	Sam's been so quiet since Bruno died… I don't know what to say to him.
+m3l29	maya	low	4		new	I miss Paati's voice. She used to sing in the kitchen.
+m3l30	maya	low	4		new	Maybe I should have stayed in Jaffna… near my family.
+m3l31	maya	low	4		new	When I left Jaffna, Paati held my hand at the bus stand… and didn't let go.
+m3l32	maya	low	4		new	Arun asked when I'm coming home… and I didn't have an answer.
+m3l33	maya	low	4		new	I wonder if she still remembers my voice on the phone…
+m3l34	maya	low	4		new	Even the sea looks grey to me today…
+m3l35	maya	low	4		new	I just want to hear her say my name again.
+m3l36	maya	low	2		new	Oh… I didn't know that. I'm so sorry.
+m3l37	maya	low	2		new	That sounds really lonely…
+m3l38	maya	low	2		new	Oh no. Are you okay?
+m3l39	maya	low	2		new	I understand… it's not easy.
+m3l40	maya	low	2		new	Hmm… that's sad. I'm sorry it happened.
+m3l41	maya	low	2		new	Take all the time you need. I'm here.
+m3l42	maya	low	2		new	Oh… that must have hurt.
+m3l43	maya	low	2		new	I know… some days are just like that.
+m3l44	maya	low	3		new	It's okay if you don't know the word. Just say what you can.
+m3l45	maya	low	3		new	That's alright… we can come back to this one later.
+m3l46	maya	low	3		new	Don't be sad about it. It was a really difficult question.
+m3l47	maya	low	3		new	Slowly… one word at a time.
+m3l48	maya	low	3		new	Hmm… no, not quite. But that's okay, let's look at it together.
+m3l49	maya	low	1		new	It's been raining for three days, and I haven't seen the sun once.
+m3l50	maya	low	1		new	Priya's gone home for the weekend, so the flat's empty.
+m3l51	maya	low	1		new	I'm too tired to cook tonight… I'll just have some bread.
+m3l52	maya	low	1		new	I didn't do well in the test. I studied, but I forgot everything.
+m3l53	maya	low	1		new	Sometimes I eat lunch alone in the park, and I watch the families.
+m3l54	maya	low	1		new	My feet hurt so much after work tonight…
+m3l55	maya	low	1		new	I wanted to call home, but it was too late… they were already asleep.
+m3l56	maya	low	1		new	Nobody remembered my birthday this year… except Priya.
+m3l57	maya	low	1		new	I don't feel like talking today… sorry.
+m3l58	maya	low	1		new	The café was so busy, and I didn't even have time for water.
+m3l59	maya	low	1		new	I think I'm getting a cold… my head's so heavy.
+m3l60	maya	low	1		new	I lost my purse on the bus… with all my savings inside.
+m3l61	maya	low	5		new	I'm sorry. I should have told you earlier.
+m3l62	maya	low	5		new	I know I made a mistake… and I feel terrible about it.
+m3l63	maya	low	5		new	Maybe you're right. I don't really know anymore.
+m3l64	maya	low	5		new	Please don't be angry with me… I'm trying my best.
+m3l65	maya	low	6		new	I haven't listened to music for days… it just doesn't feel the same.
+m3l66	maya	low	6		new	I watched an old film tonight… the one Paati liked.
+m3l67	maya	low	6		new	I deleted all the photos by mistake… a whole year of photos.
+m3l68	maya	low	6		new	Sam's team lost the final… he didn't say a word all evening.
+m3l69	maya	low	6		new	I tried to cook her curry tonight, but it didn't taste the same…
+m3l70	maya	low	7		new	First the bus didn't come, then it started raining, and then my phone died.
+m3l71	maya	low	7		new	I waited for an hour, but in the end, nobody came.
+m3l72	maya	low	7		new	After the call, I just sat there… for a long time.
+m3l73	maya	low	7		new	So in the end, I walked home alone… and it was dark.
+m3l74	maya	low	8		new	Three weeks… thirty-three days… I'm counting every day.
+m3l75	maya	low	8		new	The thick, grey clouds stayed there the whole weekend.
+m3t01	maya	tense	4		sample	No. That was not okay. You don't speak to people like that.
+m3t02	maya	tense	4		sample	I said sorry twice, and he still wouldn't listen.
+m3t03	maya	tense	4		sample	I'm not crying because I'm weak. I'm crying because I'm angry.
+m3t04	maya	tense	5		sample	Please lower your voice. I'm trying to help you.
+m3t05	maya	tense	5		sample	I understand you're upset, but I won't accept that.
+m3t06	maya	tense	5		sample	Excuse me. I was here first.
+m3t07	maya	tense	5		sample	No, thank you. I've already made my decision.
+m3t08	maya	tense	1		sample	The Wi-Fi is down again, and I have an exam tomorrow.
+m3t09	maya	tense	6		sample	Batman doesn't need a flying suit. He's just smart. Stop laughing.
+m3t10	maya	tense	3		sample	Stop. Listen to the question first, and then answer.
+m3t11	maya	tense	7		sample	Then he threw the menu on the table and walked out without paying.
+m3t12	maya	tense	8		sample	He wanted three things, he changed his order twice, and then he left.
+m3t13	maya	tense	rep	G1	sample	So that's IT, then.
+m3t14	maya	tense	rep	G2	sample	I can't believe she said that.
+m3t15	maya	tense	rep	G4	sample	Really.
+m3t16	maya	tense	4		new	He clicked his fingers at me. Like I was a dog.
+m3t17	maya	tense	4		new	I'm not going to say sorry for something I didn't do.
+m3t18	maya	tense	4		new	I told my manager everything, and she said, "Just smile." Smile?
+m3t19	maya	tense	4		new	If he comes back, I'm not serving him. Someone else can.
+m3t20	maya	tense	4		new	He didn't even look at me when he said it.
+m3t21	maya	tense	4		new	Being shift leader doesn't mean I have to accept rude people.
+m3t22	maya	tense	4		new	Three people saw what happened, and nobody said a word.
+m3t23	maya	tense	4		new	I'm tired of being polite to people who are never polite to me.
+m3t24	maya	tense	4		new	He owes the café two thousand rupees, and he's never coming back.
+m3t25	maya	tense	4		new	I didn't cry because of him. I cried because I was tired.
+m3t26	maya	tense	5		new	Please don't interrupt me. Let me finish.
+m3t27	maya	tense	5		new	I've asked you three times now. Please answer the question.
+m3t28	maya	tense	5		new	That's not what we agreed. We said Friday.
+m3t29	maya	tense	5		new	I'm sorry, but that's not my job.
+m3t30	maya	tense	5		new	No. I won't do it, and that's final.
+m3t31	maya	tense	5		new	You can wait in the queue like everyone else.
+m3t32	maya	tense	5		new	I'm not asking. I'm telling you.
+m3t33	maya	tense	5		new	Please put your phone down when I'm talking to you.
+m3t34	maya	tense	5		new	If you have a problem, talk to me, not about me.
+m3t35	maya	tense	5		new	Thank you, but I don't need your advice.
+m3t36	maya	tense	5		new	Excuse me, that's my bag. Please don't touch it.
+m3t37	maya	tense	5		new	I'd like a refund, please. This is the second time it's broken.
+m3t38	maya	tense	5		new	Please stop. That's enough.
+m3t39	maya	tense	5		new	I'm not angry. I'm disappointed.
+m3t40	maya	tense	5		new	Next time, ask before you take something.
+m3t41	maya	tense	1		new	The landlord wants more rent. Again. For the same tiny flat.
+m3t42	maya	tense	1		new	The bus driver didn't stop. I was standing right there.
+m3t43	maya	tense	1		new	Somebody parked in front of our gate, so we couldn't get out.
+m3t44	maya	tense	1		new	The shop gave me the wrong change, and then they said it was my mistake.
+m3t45	maya	tense	1		new	My neighbour plays loud music every night until two.
+m3t46	maya	tense	1		new	I waited forty minutes for the bus, and then two came together.
+m3t47	maya	tense	1		new	Priya used my shampoo again without asking.
+m3t48	maya	tense	1		new	The internet's been down since morning, and nobody's answering the phone.
+m3t49	maya	tense	1		new	The man next to me talked on the phone the whole journey. Loudly.
+m3t50	maya	tense	1		new	Someone took my umbrella from the café. My new one.
+m3t51	maya	tense	1		new	I cleaned the kitchen this morning, and it's already a mess.
+m3t52	maya	tense	1		new	They changed the class time again, and nobody told us.
+m3t53	maya	tense	2		new	Wait. He said what?
+m3t54	maya	tense	2		new	Seriously? After everything you did for him?
+m3t55	maya	tense	2		new	No. That's not fair, and you know it.
+m3t56	maya	tense	2		new	Hmm. I don't believe that for a second.
+m3t57	maya	tense	2		new	Then why didn't he just tell you?
+m3t58	maya	tense	2		new	And you just let him say that?
+m3t59	maya	tense	3		new	No, listen again. The question was "where", not "when".
+m3t60	maya	tense	3		new	Stop guessing. Think first, and then answer.
+m3t61	maya	tense	3		new	You said "go" again. It's "went". Try it once more.
+m3t62	maya	tense	3		new	Look at me, not at the screen. Now say it.
+m3t63	maya	tense	3		new	That's the third time. Slow down, please.
+m3t64	maya	tense	3		new	No phones in class, please. Put it away.
+m3t65	maya	tense	6		new	That film was too long, too loud, and the ending made no sense.
+m3t66	maya	tense	6		new	Don't tell me the ending. I haven't seen it yet.
+m3t67	maya	tense	6		new	Sam talked all through the film. I missed the best part.
+m3t68	maya	tense	6		new	Someone deleted my photos from the shared folder. Without asking.
+m3t69	maya	tense	6		new	They cancelled the train to Madurai. Two days before.
+m3t70	maya	tense	7		new	First he complained about the tea, then about the cake, and then he wanted a discount.
+m3t71	maya	tense	7		new	So I explained it twice, and he still said I was wrong.
+m3t72	maya	tense	7		new	After that, he took a photo of my name badge. Can you believe it?
+m3t73	maya	tense	7		new	Then, in the middle of everything, the lights went out.
+m3t74	maya	tense	8		new	Thirty-three rupees for a bottle of water? That's too much.
+m3t75	maya	tense	8		new	The thick fog delayed the train by three hours.
