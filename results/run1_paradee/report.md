@@ -4,17 +4,21 @@
 |---|---|---|
 | stage-2 teacher + voicepacks found | ✅ |  |
 | tools installed | ✅ |  |
-| Paradee text half trained (600 steps) | ✅ | held-out loss 6.724 → 0.399 |
-| Paradee decoder trained (600 steps) | ✅ | held-out loss 6.643 → 1.457; 7.1 min for stage 3 training, 610 teacher readings |
+| Paradee text half trained (600 steps) | ✅ | held-out loss 3.588 → 1.272 |
+| Paradee decoder trained (600 steps) | ✅ | held-out loss 1.731 → 1.143; 7.3 min for stage 3 training, 610 teacher readings |
 | exported as one int8 ONNX file | ✅ | 8.5 MB |
-| the phone's way works (misaki-g2p → ONNX Runtime int8) | ✅ | 25.5× real time on one CPU thread |
+| teacher is understood (Whisper) | ✅ | word errors [0.0, 0.14] |
+| the phone's way works (misaki-g2p → ONNX Runtime int8) | ✅ | 21.3× real time on one CPU thread |
+| trained Paradee is understood (Whisper) | ✅ | word errors [0.0, 0.0, 0.0, 0.0] (smoke run: needs 3 of 4 lines mostly right) |
 
+- teacher: “Hi! I'm Sam. Did you see the new Avengers film?” → heard “Hi, I'm Sam. Did you see the new Avengers film?”
+- teacher: “Hmm, interesting. Tell me more about it.” → heard “Hum interesting. Tell me more about it.”
 ## What the trained Paradee file said (Whisper)
 
-- sam_normal: “So, how was your weekend? Did you do anything fun?” → heard “Okay.”
-- sam_bright: “No way! That's amazing!” → heard “. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .”
-- maya_normal: “Hmm, interesting. Tell me more about it.” → heard “you”
-- maya_low: “Oh… I'm so sorry. Take your time.” → heard “. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .”
+- sam_normal: “So, how was your weekend? Did you do anything fun?” → heard “So, how was your weekend? Did you do anything fun?” (word errors 0.00)
+- sam_bright: “No way! That's amazing!” → heard “No way. That's amazing.” (word errors 0.00)
+- maya_normal: “Hmm, interesting. Tell me more about it.” → heard “Hmm, interesting. Tell me more about it.” (word errors 0.00)
+- maya_low: “Oh… I'm so sorry. Take your time.” → heard “Oh, I'm so sorry. Take your time.” (word errors 0.00)
 
 RESULT: PASS
 
@@ -25,16 +29,18 @@ RESULT: PASS
 [  0.0 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' 
 [  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/lex
 [  0.3 min] $ git clone -q --depth 1 https://github.com/sahilmahendrakar/paradee
-[  0.3 min] $ pip install -q --no-deps --ignore-requires-python 'kokoro==0.9.4' && pip install -q attrs loguru onnx onnxruntime
-[  0.4 min] STEP tools installed: OK 
-[  0.4 min] $ python paradee_run1.py --paradee /kaggle/tmp/paradee --teacher /kaggle/input/notebooks/thusharajayawardane/se-run1-kokoro/kokoro_run1.pth --kconfig /root/.cache
-[  7.5 min] STEP Paradee text half trained (600 steps): OK held-out loss 6.724 → 0.399
-[  7.5 min] STEP Paradee decoder trained (600 steps): OK held-out loss 6.643 → 1.457; 7.1 min for stage 3 training, 610 teacher readings
-[  7.5 min] STEP exported as one int8 ONNX file: OK 8.5 MB
-[  7.5 min] $ cp /kaggle/tmp/p3/config.json /kaggle/working/paradee_config.json
-[  7.5 min] $ cp /kaggle/tmp/p3/export_log.txt /kaggle/working/paradee_export_log.txt
-[  7.5 min] $ cp /kaggle/tmp/p3/stage3.json /kaggle/working/paradee_stage3.json
-[  7.5 min] $ cp /kaggle/tmp/p3/onnx/paradee_int8.onnx /kaggle/working/paradee_run1_int8.onnx
-[  8.1 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/l.wav -b:a 64k /kaggle/working/run1_paradee_listen.mp3
-[  8.1 min] STEP the phone's way works (misaki-g2p → ONNX Runtime int8): OK 25.5× real time on one CPU thread
+[  0.3 min] $ pip install -q --no-deps --ignore-requires-python 'kokoro==0.9.4' && pip install -q attrs loguru onnx onnxruntime jiwer
+[  0.5 min] STEP tools installed: OK 
+[  0.5 min] $ python paradee_run1.py --paradee /kaggle/tmp/paradee --teacher /kaggle/input/notebooks/thusharajayawardane/se-run1-kokoro/kokoro_run1.pth --kconfig /root/.cache
+[  7.8 min] STEP Paradee text half trained (600 steps): OK held-out loss 3.588 → 1.272
+[  7.8 min] STEP Paradee decoder trained (600 steps): OK held-out loss 1.731 → 1.143; 7.3 min for stage 3 training, 610 teacher readings
+[  7.8 min] STEP exported as one int8 ONNX file: OK 8.5 MB
+[  7.8 min] $ cp /kaggle/tmp/p3/config.json /kaggle/working/paradee_config.json
+[  7.8 min] $ cp /kaggle/tmp/p3/export_log.txt /kaggle/working/paradee_export_log.txt
+[  7.8 min] $ cp /kaggle/tmp/p3/stage3.json /kaggle/working/paradee_stage3.json
+[  7.8 min] $ cp /kaggle/tmp/p3/onnx/paradee_int8.onnx /kaggle/working/paradee_run1_int8.onnx
+[  8.2 min] STEP teacher is understood (Whisper): OK word errors [0.0, 0.14]
+[  8.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/l.wav -b:a 64k /kaggle/working/run1_paradee_listen.mp3
+[  8.2 min] STEP the phone's way works (misaki-g2p → ONNX Runtime int8): OK 21.3× real time on one CPU thread
+[  8.2 min] STEP trained Paradee is understood (Whisper): OK word errors [0.0, 0.0, 0.0, 0.0] (smoke run: needs 3 of 4 lines mostly right)
 ```

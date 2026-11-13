@@ -1,54 +1,56 @@
-[{"stream_name":"stdout","time":1.093477217,"data":"[  0.0 min] STEP stage-2 teacher + voicepacks found: OK \n"}
-,{"stream_name":"stdout","time":1.093518336,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
-,{"stream_name":"stdout","time":3.620391754,"data":"[  0.0 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
-,{"stream_name":"stdout","time":13.072359113,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
-,{"stream_name":"stdout","time":13.072385683,"data":"   [100%] Built target misaki-g2p-cli\n"}
-,{"stream_name":"stdout","time":13.07239155,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/lex\n"}
-,{"stream_name":"stdout","time":16.107602576,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
-,{"stream_name":"stdout","time":16.107635466,"data":"[  0.3 min] $ git clone -q --depth 1 https://github.com/sahilmahendrakar/paradee\n"}
-,{"stream_name":"stdout","time":17.023788599,"data":"[  0.3 min] $ pip install -q --no-deps --ignore-requires-python 'kokoro==0.9.4' \u0026\u0026 pip install -q attrs loguru onnx onnxruntime\n"}
-,{"stream_name":"stdout","time":22.791067359,"data":"   ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
-,{"stream_name":"stdout","time":22.791106171,"data":"   kokoro 0.9.4 requires misaki[en]\u003e=0.9.4, which is not installed.\n"}
-,{"stream_name":"stderr","time":24.004854866,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
-,{"stream_name":"stdout","time":24.01950353,"data":"[  0.4 min] STEP tools installed: OK \n"}
-,{"stream_name":"stdout","time":24.019524077,"data":"[  0.4 min] $ python paradee_run1.py --paradee /kaggle/tmp/paradee --teacher /kaggle/input/notebooks/thusharajayawardane/se-run1-kokoro/kokoro_run1.pth --kconfig /root/.cache\n"}
-,{"stream_name":"stdout","time":450.841124668,"data":"   [  5.5 min] decoder step 550 loss 1.4618\n"}
-,{"stream_name":"stdout","time":450.841205987,"data":"   [  5.5 min] decoder step 600 loss 1.4644\n"}
-,{"stream_name":"stdout","time":450.841223356,"data":"   [  5.5 min] decoder held-out spectrogram loss before 6.6433 after 1.4571\n"}
-,{"stream_name":"stdout","time":450.841228821,"data":"   [  7.0 min] export exit 0: : 212.1s audio in 7.56s -\u003e 28.1x realtime on 1 thread\n"}
-,{"stream_name":"stdout","time":450.841234106,"data":"   paradee_int8.onnx sam_normal: length 204000 vs torch 203400\n"}
-,{"stream_name":"stdout","time":450.841238644,"data":"   paradee_int8.onnx sam_bright: length 204000 vs torch 204000\n"}
-,{"stream_name":"stdout","time":450.841243291,"data":"   paradee_int8.onnx sam_low: length 204000 vs torch 204000\n"}
-,{"stream_name":"stdout","time":450.841247758,"data":"   paradee_int8.onnx sam_tense: length 204000 vs torch 204000\n"}
-,{"stream_name":"stdout","time":450.841252213,"data":"   paradee_int8.onnx maya_normal: length 205200 vs torch 204600\n"}
-,{"stream_name":"stdout","time":450.841256649,"data":"   paradee_int8.onnx maya_bright: length 207000 vs torch 206400\n"}
-,{"stream_name":"stdout","time":450.841261001,"data":"   paradee_int8.onnx maya_low: length 207000 vs torch 206400\n"}
-,{"stream_name":"stdout","time":450.84126557,"data":"   paradee_int8.onnx maya_tense: length 207000 vs torch 206400\n"}
-,{"stream_name":"stdout","time":450.841282292,"data":"   paradee_int8.onnx: 212.5s audio in 7.69s -\u003e 27.6x realtime on 1 thread\n"}
-,{"stream_name":"stdout","time":450.841286784,"data":"   /usr/local/lib/python3.13/dist-packages/torch/nn/modules/rnn.py:1013: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1\n"}
-,{"stream_name":"stdout","time":450.841292487,"data":"     super().__init__(\"LSTM\", *args, **kwargs)\n"}
-,{"stream_name":"stdout","time":450.841296575,"data":"   /usr/local/lib/python3.13/dist-packages/torch/nn/utils/weight_norm.py:144: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.\n"}
-,{"stream_name":"stdout","time":450.841300861,"data":"     WeightNorm.apply(module, name, dim)\n"}
-,{"stream_name":"stdout","time":450.841304753,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
-,{"stream_name":"stdout","time":450.841309084,"data":"   /usr/local/lib/python3.13/dist-packages/torch/nn/modules/rnn.py:1013: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.1 and num_layers=1\n"}
-,{"stream_name":"stdout","time":450.84131333,"data":"     super().__init__(\"LSTM\", *args, **kwargs)\n"}
-,{"stream_name":"stdout","time":450.84290664,"data":"[  7.5 min] STEP Paradee text half trained (600 steps): OK held-out loss 6.724 → 0.399\n"}
-,{"stream_name":"stdout","time":450.842925182,"data":"[  7.5 min] STEP Paradee decoder trained (600 steps): OK held-out loss 6.643 → 1.457; 7.1 min for stage 3 training, 610 teacher readings\n"}
-,{"stream_name":"stdout","time":450.842939099,"data":"[  7.5 min] STEP exported as one int8 ONNX file: OK 8.5 MB\n"}
-,{"stream_name":"stdout","time":450.842942939,"data":"[  7.5 min] $ cp /kaggle/tmp/p3/config.json /kaggle/working/paradee_config.json\n"}
-,{"stream_name":"stdout","time":450.858611467,"data":"[  7.5 min] $ cp /kaggle/tmp/p3/export_log.txt /kaggle/working/paradee_export_log.txt\n"}
-,{"stream_name":"stdout","time":450.861338632,"data":"[  7.5 min] $ cp /kaggle/tmp/p3/stage3.json /kaggle/working/paradee_stage3.json\n"}
-,{"stream_name":"stdout","time":450.863923144,"data":"[  7.5 min] $ cp /kaggle/tmp/p3/onnx/paradee_int8.onnx /kaggle/working/paradee_run1_int8.onnx\n"}
-,{"stream_name":"stderr","time":459.715230966,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
-,{"stream_name":"stderr","time":473.16056402,"data":"\rLoading weights:   0%|          | 0/587 [00:00\u003c?, ?it/s]\rLoading weights:  48%|████▊     | 281/587 [00:00\u003c00:00, 2785.13it/s]\rLoading weights:  95%|█████████▌| 560/587 [00:00\u003c00:00, 2765.43it/s]\rLoading weights: 100%|██████████| 587/587 [00:00\u003c00:00, 2799.40it/s]\n"}
-,{"stream_name":"stderr","time":478.733337918,"data":"[transformers] Passing `generation_config` together with generation-related arguments=({'begin_suppress_tokens', 'suppress_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.\n"}
-,{"stream_name":"stderr","time":479.862479081,"data":"[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer WhisperTokenizer. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.\n"}
-,{"stream_name":"stdout","time":488.707151983,"data":"[  8.1 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/l.wav -b:a 64k /kaggle/working/run1_paradee_listen.mp3\n"}
-,{"stream_name":"stdout","time":489.035250714,"data":"[  8.1 min] STEP the phone's way works (misaki-g2p → ONNX Runtime int8): OK 25.5× real time on one CPU thread\n"}
-,{"stream_name":"stderr","time":492.288946658,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
-,{"stream_name":"stderr","time":492.288974556,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
-,{"stream_name":"stderr","time":492.495133186,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
-,{"stream_name":"stderr","time":492.495159877,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
-,{"stream_name":"stderr","time":493.284706998,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
-,{"stream_name":"stderr","time":494.169086094,"data":"[NbConvertApp] Writing 324377 bytes to __results__.html\n"}
+[{"stream_name":"stdout","time":1.38353006,"data":"[  0.0 min] STEP stage-2 teacher + voicepacks found: OK \n"}
+,{"stream_name":"stdout","time":1.383580356,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":3.127813239,"data":"[  0.0 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":14.647190846,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":14.647222206,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":14.647227172000001,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/lex\n"}
+,{"stream_name":"stdout","time":18.147975028,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":18.148011347,"data":"[  0.3 min] $ git clone -q --depth 1 https://github.com/sahilmahendrakar/paradee\n"}
+,{"stream_name":"stdout","time":18.742205036,"data":"[  0.3 min] $ pip install -q --no-deps --ignore-requires-python 'kokoro==0.9.4' \u0026\u0026 pip install -q attrs loguru onnx onnxruntime jiwer\n"}
+,{"stream_name":"stdout","time":28.221321235,"data":"   ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stdout","time":28.221363412,"data":"   kokoro 0.9.4 requires misaki[en]\u003e=0.9.4, which is not installed.\n"}
+,{"stream_name":"stderr","time":29.228853198,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":29.263149407,"data":"[  0.5 min] STEP tools installed: OK \n"}
+,{"stream_name":"stdout","time":29.263178974,"data":"[  0.5 min] $ python paradee_run1.py --paradee /kaggle/tmp/paradee --teacher /kaggle/input/notebooks/thusharajayawardane/se-run1-kokoro/kokoro_run1.pth --kconfig /root/.cache\n"}
+,{"stream_name":"stdout","time":466.765827131,"data":"   [  5.8 min] decoder step 550 loss 1.0232\n"}
+,{"stream_name":"stdout","time":466.76588022,"data":"   [  5.8 min] decoder step 600 loss 1.0056\n"}
+,{"stream_name":"stdout","time":466.765885012,"data":"   [  5.8 min] decoder held-out spectrogram loss before 1.7312 after 1.1432\n"}
+,{"stream_name":"stdout","time":466.765888647,"data":"   [  7.1 min] export exit 0: : 205.8s audio in 8.79s -\u003e 23.4x realtime on 1 thread\n"}
+,{"stream_name":"stdout","time":466.765892637,"data":"   paradee_int8.onnx sam_normal: length 201600 vs torch 200400\n"}
+,{"stream_name":"stdout","time":466.765895869,"data":"   paradee_int8.onnx sam_bright: length 201000 vs torch 199200\n"}
+,{"stream_name":"stdout","time":466.765898947,"data":"   paradee_int8.onnx sam_low: length 201000 vs torch 199200\n"}
+,{"stream_name":"stdout","time":466.765901951,"data":"   paradee_int8.onnx sam_tense: length 201000 vs torch 199200\n"}
+,{"stream_name":"stdout","time":466.765904927,"data":"   paradee_int8.onnx maya_normal: length 202800 vs torch 202800\n"}
+,{"stream_name":"stdout","time":466.765907984,"data":"   paradee_int8.onnx maya_bright: length 203400 vs torch 204000\n"}
+,{"stream_name":"stdout","time":466.765910927,"data":"   paradee_int8.onnx maya_low: length 203400 vs torch 204000\n"}
+,{"stream_name":"stdout","time":466.765913866,"data":"   paradee_int8.onnx maya_tense: length 203400 vs torch 204000\n"}
+,{"stream_name":"stdout","time":466.765929336,"data":"   paradee_int8.onnx: 206.1s audio in 9.06s -\u003e 22.8x realtime on 1 thread\n"}
+,{"stream_name":"stdout","time":466.765932199,"data":"   /usr/local/lib/python3.13/dist-packages/torch/nn/modules/rnn.py:1013: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1\n"}
+,{"stream_name":"stdout","time":466.765935955,"data":"     super().__init__(\"LSTM\", *args, **kwargs)\n"}
+,{"stream_name":"stdout","time":466.765956667,"data":"   /usr/local/lib/python3.13/dist-packages/torch/nn/utils/weight_norm.py:144: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.\n"}
+,{"stream_name":"stdout","time":466.765959496,"data":"     WeightNorm.apply(module, name, dim)\n"}
+,{"stream_name":"stdout","time":466.765962156,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":466.76596494,"data":"   /usr/local/lib/python3.13/dist-packages/torch/nn/modules/rnn.py:1013: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.1 and num_layers=1\n"}
+,{"stream_name":"stdout","time":466.765967821,"data":"     super().__init__(\"LSTM\", *args, **kwargs)\n"}
+,{"stream_name":"stdout","time":466.766199003,"data":"[  7.8 min] STEP Paradee text half trained (600 steps): OK held-out loss 3.588 → 1.272\n"}
+,{"stream_name":"stdout","time":466.766209053,"data":"[  7.8 min] STEP Paradee decoder trained (600 steps): OK held-out loss 1.731 → 1.143; 7.3 min for stage 3 training, 610 teacher readings\n"}
+,{"stream_name":"stdout","time":466.76624593,"data":"[  7.8 min] STEP exported as one int8 ONNX file: OK 8.5 MB\n"}
+,{"stream_name":"stdout","time":466.766253491,"data":"[  7.8 min] $ cp /kaggle/tmp/p3/config.json /kaggle/working/paradee_config.json\n"}
+,{"stream_name":"stdout","time":466.785573046,"data":"[  7.8 min] $ cp /kaggle/tmp/p3/export_log.txt /kaggle/working/paradee_export_log.txt\n"}
+,{"stream_name":"stdout","time":466.788660416,"data":"[  7.8 min] $ cp /kaggle/tmp/p3/stage3.json /kaggle/working/paradee_stage3.json\n"}
+,{"stream_name":"stdout","time":466.791568956,"data":"[  7.8 min] $ cp /kaggle/tmp/p3/onnx/paradee_int8.onnx /kaggle/working/paradee_run1_int8.onnx\n"}
+,{"stream_name":"stderr","time":476.688442653,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":487.685263997,"data":"\rLoading weights:   0%|          | 0/587 [00:00\u003c?, ?it/s]\rLoading weights:  40%|███▉      | 234/587 [00:00\u003c00:00, 2324.94it/s]\rLoading weights:  80%|███████▉  | 467/587 [00:00\u003c00:00, 2324.29it/s]\rLoading weights: 100%|██████████| 587/587 [00:00\u003c00:00, 2348.24it/s]\n"}
+,{"stream_name":"stderr","time":491.11144219,"data":"[transformers] Passing `generation_config` together with generation-related arguments=({'begin_suppress_tokens', 'suppress_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.\n"}
+,{"stream_name":"stderr","time":492.554612865,"data":"[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer WhisperTokenizer. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.\n"}
+,{"stream_name":"stdout","time":492.843330239,"data":"[  8.2 min] STEP teacher is understood (Whisper): OK word errors [0.0, 0.14]\n"}
+,{"stream_name":"stdout","time":494.547811581,"data":"[  8.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/l.wav -b:a 64k /kaggle/working/run1_paradee_listen.mp3\n"}
+,{"stream_name":"stdout","time":494.949881952,"data":"[  8.2 min] STEP the phone's way works (misaki-g2p → ONNX Runtime int8): OK 21.3× real time on one CPU thread\n"}
+,{"stream_name":"stdout","time":494.949911586,"data":"[  8.2 min] STEP trained Paradee is understood (Whisper): OK word errors [0.0, 0.0, 0.0, 0.0] (smoke run: needs 3 of 4 lines mostly right)\n"}
+,{"stream_name":"stderr","time":499.097360129,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":499.097421214,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":499.38398494,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":499.384039584,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":500.297314573,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":501.539056501,"data":"[NbConvertApp] Writing 332827 bytes to __results__.html\n"}
 ]
