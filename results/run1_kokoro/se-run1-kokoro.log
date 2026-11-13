@@ -1,110 +1,197 @@
-[{"stream_name":"stdout","time":1.6528392090000001,"data":"[  0.0 min] stage-1 clips: 17 kept, from /kaggle/input/notebooks/thusharajayawardane/se-run1-record\n"}
-,{"stream_name":"stdout","time":1.652910704,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
-,{"stream_name":"stdout","time":6.5665027259999995,"data":"[  0.1 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
-,{"stream_name":"stdout","time":17.103924502,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
-,{"stream_name":"stdout","time":17.103959335,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
-,{"stream_name":"stdout","time":17.103964606,"data":"   [100%] Built target misaki-g2p-cli\n"}
-,{"stream_name":"stdout","time":17.103968902,"data":"[  0.3 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
-,{"stream_name":"stdout","time":20.298031344,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
-,{"stream_name":"stdout","time":20.298080737,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
-,{"stream_name":"stdout","time":20.310907288,"data":"[  0.3 min] STEP words → sounds (misaki-g2p): OK 17 lines; e.g. So, how was your weekend? Did you do anything fun? → sˌO, hˌW wʌz jʊɹ wˈikˌɛnd? dˈɪd ju dˈu ˈɛniθˌɪŋ fˈʌn?\n"}
-,{"stream_name":"stdout","time":20.310932911,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
-,{"stream_name":"stdout","time":37.74857839,"data":"[  0.6 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile\n"}
-,{"stream_name":"stdout","time":42.748928045,"data":"[  0.7 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
-,{"stream_name":"stdout","time":90.183944331,"data":"[  1.5 min] torch 2.11.0+cu130, GPUs 2\n"}
-,{"stream_name":"stdout","time":90.1839833,"data":"[  1.5 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
-,{"stream_name":"stdout","time":91.74769298,"data":"[  1.5 min] STEP recipe + tools installed: OK \n"}
-,{"stream_name":"stderr","time":92.957342353,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
-,{"stream_name":"stdout","time":97.707629189,"data":"[  1.6 min] STEP Kokoro base weights converted: OK \n"}
-,{"stream_name":"stdout","time":98.684932079,"data":"[  1.6 min] $ python train_first.py --config_path /kaggle/tmp/kt/configs/run1.yml\n"}
-,{"stream_name":"stdout","time":236.053462093,"data":"   \n"}
-,{"stream_name":"stdout","time":236.05351812,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053522841,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053526288,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053529575,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053532789,"data":"   Saving..\n"}
-,{"stream_name":"stdout","time":236.05353612,"data":"   Epochs: 2\n"}
-,{"stream_name":"stdout","time":236.053539397,"data":"   Validation loss: 0.475\n"}
-,{"stream_name":"stdout","time":236.053542782,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053545946,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053560641,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053563504,"data":"   \n"}
-,{"stream_name":"stdout","time":236.05356596,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053568363,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053570808,"data":"   \n"}
-,{"stream_name":"stdout","time":236.05357333,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053575794,"data":"   Saving..\n"}
-,{"stream_name":"stdout","time":236.05357829,"data":"   Saving..\n"}
-,{"stream_name":"stdout","time":236.053580833,"data":"   WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
-,{"stream_name":"stdout","time":236.05358367,"data":"   I0000 00:00:1794561159.407630     367 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
-,{"stream_name":"stdout","time":236.053586475,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
-,{"stream_name":"stdout","time":236.053589301,"data":"   \n"}
-,{"stream_name":"stdout","time":236.053591822,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
-,{"stream_name":"stdout","time":236.053595067,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 12532.98it/s]\n"}
-,{"stream_name":"stdout","time":236.05360079,"data":"   Could not load German G2P for TensorBoard inference: No module named 'misaki'\n"}
-,{"stream_name":"stdout","time":236.054189117,"data":"[  3.9 min] STEP Kokoro stage 1 (acoustic): OK 2.3 min, GPU peak 0.0 GB\n"}
-,{"stream_name":"stdout","time":236.054204373,"data":"[  3.9 min] $ python train_second.py --config_path /kaggle/tmp/kt/configs/run1.yml\n"}
-,{"stream_name":"stdout","time":369.595451447,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595510746,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595518329,"data":"   Saving..\n"}
-,{"stream_name":"stdout","time":369.595523216,"data":"   WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
-,{"stream_name":"stdout","time":369.59552837,"data":"   I0000 00:00:1794561257.296675     447 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
-,{"stream_name":"stdout","time":369.595533334,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
-,{"stream_name":"stdout","time":369.595538252,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595542539,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
-,{"stream_name":"stdout","time":369.595553146,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 15237.05it/s]\n"}
-,{"stream_name":"stdout","time":369.595557348,"data":"   Could not load German G2P for TensorBoard inference: No module named 'misaki'\n"}
-,{"stream_name":"stdout","time":369.595560395,"data":"   TensorBoard inference: no test sentences available (misaki/espeak not found?)\n"}
-,{"stream_name":"stdout","time":369.59556339,"data":"   Extracting Stage 1 baseline voicepack for TensorBoard...\n"}
-,{"stream_name":"stdout","time":369.595566352,"data":"     acoustic_norm=1.8783  prosodic_norm=1.8783\n"}
-,{"stream_name":"stdout","time":369.595569406,"data":"   Validation loss: 0.562, Dur loss: 4.043, F0 loss: 6.112\n"}
-,{"stream_name":"stdout","time":369.595573247,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595576182,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595579034,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595606194,"data":"   Epoch 0: extracting voicepack for TensorBoard inference...\n"}
-,{"stream_name":"stdout","time":369.595611521,"data":"     acoustic_norm=1.8753  prosodic_norm=5.8009\n"}
-,{"stream_name":"stdout","time":369.595615811,"data":"   Validation loss: 0.490, Dur loss: 1.725, F0 loss: 4.775\n"}
-,{"stream_name":"stdout","time":369.595619495,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595622806,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595626069,"data":"   \n"}
-,{"stream_name":"stdout","time":369.595629308,"data":"   Epoch 1: extracting voicepack for TensorBoard inference...\n"}
-,{"stream_name":"stdout","time":369.595632787,"data":"     acoustic_norm=2.5317  prosodic_norm=4.1442\n"}
-,{"stream_name":"stdout","time":369.595929295,"data":"[  6.1 min] STEP Kokoro stage 2 (prosody + adversarial): OK 2.2 min\n"}
-,{"stream_name":"stdout","time":369.596317686,"data":"[  6.1 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/run1/epoch_2nd_00001.pth --style-encoder-model /kaggle/tmp/logs/run1/epoch_1st_00001.pth --audio-di\n"}
-,{"stream_name":"stdout","time":376.785546514,"data":"   \n"}
-,{"stream_name":"stdout","time":376.785591205,"data":"   Voicepack shape: (510, 1, 256)\n"}
-,{"stream_name":"stdout","time":376.785596716,"data":"     Acoustic style norm: 1.8703\n"}
-,{"stream_name":"stdout","time":376.785600052,"data":"     Prosodic style norm: 4.1193\n"}
-,{"stream_name":"stdout","time":376.785603331,"data":"   \n"}
-,{"stream_name":"stdout","time":376.785606576,"data":"   Saved voicepack: /kaggle/working/sam_voicepack.pt (511.6 KB)\n"}
-,{"stream_name":"stdout","time":376.785615025,"data":"[  6.3 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/run1/epoch_2nd_00001.pth --style-encoder-model /kaggle/tmp/logs/run1/epoch_1st_00001.pth --audio-di\n"}
-,{"stream_name":"stdout","time":383.753015802,"data":"   \n"}
-,{"stream_name":"stdout","time":383.753048666,"data":"   Voicepack shape: (510, 1, 256)\n"}
-,{"stream_name":"stdout","time":383.75305582,"data":"     Acoustic style norm: 1.8872\n"}
-,{"stream_name":"stdout","time":383.753065382,"data":"     Prosodic style norm: 4.1584\n"}
-,{"stream_name":"stdout","time":383.753068377,"data":"   \n"}
-,{"stream_name":"stdout","time":383.753070888,"data":"   Saved voicepack: /kaggle/working/maya_voicepack.pt (511.6 KB)\n"}
-,{"stream_name":"stdout","time":383.75309864,"data":"[  6.4 min] STEP voicepacks (Sam, Maya): OK \n"}
-,{"stream_name":"stdout","time":388.029495824,"data":"[  6.4 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
-,{"stream_name":"stdout","time":399.856144395,"data":"Traceback (most recent call last):\n"}
-,{"stream_name":"stdout","time":399.856184642,"data":"  File \"/kaggle/src/script.py\", line 113, in \u003cmodule\u003e\n"}
-,{"stream_name":"stdout","time":399.856192304,"data":"    from kokoro.model import KModel\n"}
-,{"stream_name":"stdout","time":399.856197244,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/__init__.py\", line 23, in \u003cmodule\u003e\n"}
-,{"stream_name":"stdout","time":399.856201921,"data":"    from .pipeline import KPipeline\n"}
-,{"stream_name":"stdout","time":399.856206417,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/pipeline.py\", line 44, in \u003cmodule\u003e\n"}
-,{"stream_name":"stdout","time":399.856211747,"data":"    class KPipeline:\n"}
-,{"stream_name":"stdout","time":399.856215735,"data":"    ...\u003c406 lines\u003e...\n"}
-,{"stream_name":"stdout","time":399.85621965,"data":"                        yield self.Result(graphemes=chunk, phonemes=ps, output=output, text_index=graphemes_index)\n"}
-,{"stream_name":"stdout","time":399.856223789,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/pipeline.py\", line 189, in KPipeline\n"}
-,{"stream_name":"stdout","time":399.85623969,"data":"    def tokens_to_ps(tokens: List[en.MToken]) -\u003e str:\n"}
-,{"stream_name":"stdout","time":399.856243902,"data":"                                  ^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":399.856247604,"data":"AttributeError: module 'misaki.en' has no attribute 'MToken'\n"}
-,{"stream_name":"stdout","time":399.856251541,"data":"\n"}
-,{"stream_name":"stdout","time":399.856255256,"data":"[  6.6 min] STEP ERROR: FAILED \n"}
-,{"stream_name":"stderr","time":403.077678535,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
-,{"stream_name":"stderr","time":403.077713876,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
-,{"stream_name":"stderr","time":403.350940814,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
-,{"stream_name":"stderr","time":403.350971967,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
-,{"stream_name":"stderr","time":404.162697443,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
-,{"stream_name":"stderr","time":404.719720165,"data":"[NbConvertApp] Writing 335782 bytes to __results__.html\n"}
+[{"stream_name":"stdout","time":1.371834236,"data":"[  0.0 min] stage-1 clips: 17 kept, from /kaggle/input/notebooks/thusharajayawardane/se-run1-record\n"}
+,{"stream_name":"stdout","time":1.3719125970000001,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":3.149670033,"data":"[  0.0 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":13.653786972,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
+,{"stream_name":"stdout","time":13.653831043,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":13.653834865,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":13.653873773,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":16.394672524,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
+,{"stream_name":"stdout","time":16.39473334,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":16.407376775,"data":"[  0.3 min] STEP words → sounds (misaki-g2p): OK 17 lines; e.g. So, how was your weekend? Did you do anything fun? → sˌO, hˌW wʌz jʊɹ wˈikˌɛnd? dˈɪd ju dˈu ˈɛniθˌɪŋ fˈʌn?\n"}
+,{"stream_name":"stdout","time":16.407404457,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":25.01013099,"data":"[  0.4 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile\n"}
+,{"stream_name":"stdout","time":29.626967402,"data":"[  0.5 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":75.724091643,"data":"[  1.2 min] torch 2.11.0+cu130, GPUs 2\n"}
+,{"stream_name":"stdout","time":75.724134175,"data":"[  1.2 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stdout","time":77.323721744,"data":"[  1.3 min] STEP recipe + tools installed: OK \n"}
+,{"stream_name":"stderr","time":78.211405401,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":81.594460974,"data":"[  1.3 min] STEP Kokoro base weights converted: OK \n"}
+,{"stream_name":"stdout","time":82.737740063,"data":"[  1.4 min] $ python train_first.py --config_path /kaggle/tmp/kt/configs/run1.yml\n"}
+,{"stream_name":"stdout","time":207.183274819,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183341944,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183346992,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183350412,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183353732,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183356981,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":207.183360273,"data":"   Epochs: 2\n"}
+,{"stream_name":"stdout","time":207.18336356,"data":"   Validation loss: 0.572\n"}
+,{"stream_name":"stdout","time":207.183367019,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183370211,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183390761,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183393718,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183396162,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183398684,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183401191,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183403641,"data":"   \n"}
+,{"stream_name":"stdout","time":207.18340617,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":207.183409553,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":207.183413548,"data":"   WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stdout","time":207.18341678,"data":"   I0000 00:00:1794561754.483161     367 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":207.183419606,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":207.183422375,"data":"   \n"}
+,{"stream_name":"stdout","time":207.183424834,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":207.183427844,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 13097.79it/s]\n"}
+,{"stream_name":"stdout","time":207.183431632,"data":"   Could not load German G2P for TensorBoard inference: No module named 'misaki'\n"}
+,{"stream_name":"stdout","time":207.184021332,"data":"[  3.4 min] STEP Kokoro stage 1 (acoustic): OK 2.1 min, GPU peak 0.0 GB\n"}
+,{"stream_name":"stdout","time":207.184046713,"data":"[  3.4 min] $ python train_second.py --config_path /kaggle/tmp/kt/configs/run1.yml\n"}
+,{"stream_name":"stdout","time":342.95893248,"data":"   \n"}
+,{"stream_name":"stdout","time":342.958974945,"data":"   \n"}
+,{"stream_name":"stdout","time":342.958980522,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":342.958988808,"data":"   WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stdout","time":342.958995273,"data":"   I0000 00:00:1794561843.777303     447 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":342.958998778,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":342.959002084,"data":"   \n"}
+,{"stream_name":"stdout","time":342.959005352,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":342.959008844,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 13186.29it/s]\n"}
+,{"stream_name":"stdout","time":342.959012728,"data":"   Could not load German G2P for TensorBoard inference: No module named 'misaki'\n"}
+,{"stream_name":"stdout","time":342.959015923,"data":"   TensorBoard inference: no test sentences available (misaki/espeak not found?)\n"}
+,{"stream_name":"stdout","time":342.959019121,"data":"   Extracting Stage 1 baseline voicepack for TensorBoard...\n"}
+,{"stream_name":"stdout","time":342.959022282,"data":"     acoustic_norm=1.7013  prosodic_norm=1.7013\n"}
+,{"stream_name":"stdout","time":342.959025258,"data":"   Validation loss: 0.634, Dur loss: 2.138, F0 loss: 4.985\n"}
+,{"stream_name":"stdout","time":342.959028372,"data":"   \n"}
+,{"stream_name":"stdout","time":342.959031188,"data":"   \n"}
+,{"stream_name":"stdout","time":342.95903399,"data":"   \n"}
+,{"stream_name":"stdout","time":342.959053744,"data":"   Epoch 0: extracting voicepack for TensorBoard inference...\n"}
+,{"stream_name":"stdout","time":342.95905638199997,"data":"     acoustic_norm=1.6789  prosodic_norm=3.0461\n"}
+,{"stream_name":"stdout","time":342.959058722,"data":"   Validation loss: 0.539, Dur loss: 1.978, F0 loss: 4.212\n"}
+,{"stream_name":"stdout","time":342.959061084,"data":"   \n"}
+,{"stream_name":"stdout","time":342.959063384,"data":"   \n"}
+,{"stream_name":"stdout","time":342.959065667,"data":"   \n"}
+,{"stream_name":"stdout","time":342.959067922,"data":"   Epoch 1: extracting voicepack for TensorBoard inference...\n"}
+,{"stream_name":"stdout","time":342.959079245,"data":"     acoustic_norm=1.9230  prosodic_norm=1.5261\n"}
+,{"stream_name":"stdout","time":342.959679866,"data":"[  5.7 min] STEP Kokoro stage 2 (prosody + adversarial): OK 2.3 min\n"}
+,{"stream_name":"stdout","time":342.960413559,"data":"[  5.7 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/run1/epoch_2nd_00001.pth --style-encoder-model /kaggle/tmp/logs/run1/epoch_1st_00001.pth --audio-di\n"}
+,{"stream_name":"stdout","time":351.305839573,"data":"   \n"}
+,{"stream_name":"stdout","time":351.305877259,"data":"   Voicepack shape: (510, 1, 256)\n"}
+,{"stream_name":"stdout","time":351.305882614,"data":"     Acoustic style norm: 1.6943\n"}
+,{"stream_name":"stdout","time":351.305886729,"data":"     Prosodic style norm: 1.5196\n"}
+,{"stream_name":"stdout","time":351.305891558,"data":"   \n"}
+,{"stream_name":"stdout","time":351.305895769,"data":"   Saved voicepack: /kaggle/working/sam_voicepack.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":351.305899992,"data":"[  5.8 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/run1/epoch_2nd_00001.pth --style-encoder-model /kaggle/tmp/logs/run1/epoch_1st_00001.pth --audio-di\n"}
+,{"stream_name":"stdout","time":358.348381114,"data":"   \n"}
+,{"stream_name":"stdout","time":358.348453909,"data":"   Voicepack shape: (510, 1, 256)\n"}
+,{"stream_name":"stdout","time":358.34846024,"data":"     Acoustic style norm: 1.7092\n"}
+,{"stream_name":"stdout","time":358.348464149,"data":"     Prosodic style norm: 1.5331\n"}
+,{"stream_name":"stdout","time":358.34846805,"data":"   \n"}
+,{"stream_name":"stdout","time":358.348471382,"data":"   Saved voicepack: /kaggle/working/maya_voicepack.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":358.348475061,"data":"[  6.0 min] STEP voicepacks (Sam, Maya): OK \n"}
+,{"stream_name":"stdout","time":362.691022043,"data":"[  6.0 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
+,{"stream_name":"stdout","time":372.178168972,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":372.178197691,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/import_utils.py\", line 2600, in __getattr__\n"}
+,{"stream_name":"stdout","time":372.178203476,"data":"    module = self._get_module(self._class_to_module[name])\n"}
+,{"stream_name":"stdout","time":372.178208,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/import_utils.py\", line 2831, in _get_module\n"}
+,{"stream_name":"stdout","time":372.178212817,"data":"    raise e\n"}
+,{"stream_name":"stdout","time":372.178216797,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/import_utils.py\", line 2829, in _get_module\n"}
+,{"stream_name":"stdout","time":372.178221136,"data":"    return importlib.import_module(\".\" + module_name, self.__name__)\n"}
+,{"stream_name":"stdout","time":372.178225369,"data":"           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178229507,"data":"  File \"/usr/lib/python3.13/importlib/__init__.py\", line 88, in import_module\n"}
+,{"stream_name":"stdout","time":372.178242999,"data":"    return _bootstrap._gcd_import(name[level:], package, level)\n"}
+,{"stream_name":"stdout","time":372.178246815,"data":"           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178250582,"data":"  File \"\u003cfrozen importlib._bootstrap\u003e\", line 1404, in _gcd_import\n"}
+,{"stream_name":"stdout","time":372.178255317,"data":"  File \"\u003cfrozen importlib._bootstrap\u003e\", line 1369, in _find_and_load\n"}
+,{"stream_name":"stdout","time":372.178259349,"data":"  File \"\u003cfrozen importlib._bootstrap\u003e\", line 1340, in _find_and_load_unlocked\n"}
+,{"stream_name":"stdout","time":372.178263579,"data":"  File \"\u003cfrozen importlib._bootstrap\u003e\", line 935, in _load_unlocked\n"}
+,{"stream_name":"stdout","time":372.178267328,"data":"  File \"\u003cfrozen importlib._bootstrap_external\u003e\", line 1027, in exec_module\n"}
+,{"stream_name":"stdout","time":372.178271845,"data":"  File \"\u003cfrozen importlib._bootstrap\u003e\", line 488, in _call_with_frames_removed\n"}
+,{"stream_name":"stdout","time":372.178276718,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/models/albert/modeling_albert.py\", line 24, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178281227,"data":"    from ...activations import ACT2FN\n"}
+,{"stream_name":"stdout","time":372.178284722,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/activations.py\", line 22, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178288526,"data":"    from .integrations.hub_kernels import use_kernel_forward_from_hub\n"}
+,{"stream_name":"stdout","time":372.178292842,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/integrations/hub_kernels.py\", line 26, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178296857,"data":"    from ..conversion_mapping import get_checkpoint_conversion_mapping, register_checkpoint_conversion_mapping\n"}
+,{"stream_name":"stdout","time":372.178301053,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/conversion_mapping.py\", line 21, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178305587,"data":"    from .core_model_loading import (\n"}
+,{"stream_name":"stdout","time":372.178309444,"data":"    ...\u003c13 lines\u003e...\n"}
+,{"stream_name":"stdout","time":372.178313098,"data":"    )\n"}
+,{"stream_name":"stdout","time":372.178317335,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/core_model_loading.py\", line 33, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178322935,"data":"    from .distributed.sharding_utils import DtensorShardOperation, _dtensor_from_local_like\n"}
+,{"stream_name":"stdout","time":372.178327139,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/distributed/sharding_utils.py\", line 30, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178331407,"data":"    from torch.distributed.tensor import DTensor\n"}
+,{"stream_name":"stdout","time":372.178335224,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/distributed/tensor/__init__.py\", line 4, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178340147,"data":"    import torch.distributed.tensor._ops  # force import all built-in dtensor ops\n"}
+,{"stream_name":"stdout","time":372.178344351,"data":"    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178348083,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/distributed/tensor/_ops/__init__.py\", line 2, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178357609,"data":"    from ._conv_ops import *  # noqa: F403\n"}
+,{"stream_name":"stdout","time":372.178361655,"data":"    ^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.17836531,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/distributed/tensor/_ops/_conv_ops.py\", line 5, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178369978,"data":"    from torch.distributed.tensor._dtensor_spec import DTensorSpec, TensorMeta\n"}
+,{"stream_name":"stdout","time":372.178374081,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/distributed/tensor/_dtensor_spec.py\", line 9, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178378541,"data":"    from torch.distributed.tensor.placement_types import (\n"}
+,{"stream_name":"stdout","time":372.178382612,"data":"    ...\u003c6 lines\u003e...\n"}
+,{"stream_name":"stdout","time":372.178386759,"data":"    )\n"}
+,{"stream_name":"stdout","time":372.178390714,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/distributed/tensor/placement_types.py\", line 10, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178395164,"data":"    import torch.distributed._functional_collectives as funcol\n"}
+,{"stream_name":"stdout","time":372.178399248,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/distributed/_functional_collectives.py\", line 1246, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178403866,"data":"    @torch.library.custom_op(\n"}
+,{"stream_name":"stdout","time":372.178408139,"data":"     ~~~~~~~~~~~~~~~~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":372.178412065,"data":"        \"_c10d_functional::_wrap_tensor_autograd\",\n"}
+,{"stream_name":"stdout","time":372.178416374,"data":"        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178420527,"data":"        mutates_args=(),\n"}
+,{"stream_name":"stdout","time":372.178424476,"data":"        ^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178428407,"data":"        schema=\"(Tensor input) -\u003e Tensor\",\n"}
+,{"stream_name":"stdout","time":372.178432687,"data":"        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178436825,"data":"    )\n"}
+,{"stream_name":"stdout","time":372.178440745,"data":"    ^\n"}
+,{"stream_name":"stdout","time":372.178444595,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/_library/custom_ops.py\", line 157, in inner\n"}
+,{"stream_name":"stdout","time":372.178449013,"data":"    result = CustomOpDef(namespace, opname, schema_str, fn, tags)\n"}
+,{"stream_name":"stdout","time":372.178453139,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/_library/custom_ops.py\", line 215, in __init__\n"}
+,{"stream_name":"stdout","time":372.178457507,"data":"    self._register_to_dispatcher(self._tags)\n"}
+,{"stream_name":"stdout","time":372.178461383,"data":"    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178465967,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/_library/custom_ops.py\", line 638, in _register_to_dispatcher\n"}
+,{"stream_name":"stdout","time":372.178470263,"data":"    lib._register_fake(self._name, fake_impl, _stacklevel=4)\n"}
+,{"stream_name":"stdout","time":372.178474294,"data":"    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178478347,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/library.py\", line 183, in _register_fake\n"}
+,{"stream_name":"stdout","time":372.178482575,"data":"    source = torch._library.utils.get_source(_stacklevel + 1)\n"}
+,{"stream_name":"stdout","time":372.178486692,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/_library/utils.py\", line 45, in get_source\n"}
+,{"stream_name":"stdout","time":372.178494309,"data":"    frame = inspect.getframeinfo(sys._getframe(stacklevel))\n"}
+,{"stream_name":"stdout","time":372.178498517,"data":"  File \"/usr/lib/python3.13/inspect.py\", line 1707, in getframeinfo\n"}
+,{"stream_name":"stdout","time":372.178502707,"data":"    lines, lnum = findsource(frame)\n"}
+,{"stream_name":"stdout","time":372.178506612,"data":"                  ~~~~~~~~~~^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178510631,"data":"  File \"/usr/lib/python3.13/inspect.py\", line 1083, in findsource\n"}
+,{"stream_name":"stdout","time":372.178514835,"data":"    module = getmodule(object, file)\n"}
+,{"stream_name":"stdout","time":372.178518746,"data":"  File \"/usr/lib/python3.13/inspect.py\", line 1037, in getmodule\n"}
+,{"stream_name":"stdout","time":372.178522793,"data":"    f = getabsfile(module)\n"}
+,{"stream_name":"stdout","time":372.178526812,"data":"  File \"/usr/lib/python3.13/inspect.py\", line 1005, in getabsfile\n"}
+,{"stream_name":"stdout","time":372.178530916,"data":"    _filename = getsourcefile(object) or getfile(object)\n"}
+,{"stream_name":"stdout","time":372.178534673,"data":"                ~~~~~~~~~~~~~^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178549552,"data":"  File \"/usr/lib/python3.13/inspect.py\", line 977, in getsourcefile\n"}
+,{"stream_name":"stdout","time":372.178553323,"data":"    if any(filename.endswith(s) for s in all_bytecode_suffixes):\n"}
+,{"stream_name":"stdout","time":372.178556803,"data":"       ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178561979,"data":"  File \"/usr/lib/python3.13/inspect.py\", line 977, in \u003cgenexpr\u003e\n"}
+,{"stream_name":"stdout","time":372.178570783,"data":"    if any(filename.endswith(s) for s in all_bytecode_suffixes):\n"}
+,{"stream_name":"stdout","time":372.178573639,"data":"           ^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":372.178575965,"data":"AttributeError: type object '__file__' has no attribute 'endswith'\n"}
+,{"stream_name":"stdout","time":372.178578449,"data":"\n"}
+,{"stream_name":"stdout","time":372.178580675,"data":"The above exception was the direct cause of the following exception:\n"}
+,{"stream_name":"stdout","time":372.178583031,"data":"\n"}
+,{"stream_name":"stdout","time":372.178585275,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":372.178661921,"data":"  File \"/kaggle/src/script.py\", line 115, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178667185,"data":"    from kokoro.model import KModel\n"}
+,{"stream_name":"stdout","time":372.178670878,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/__init__.py\", line 22, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178674594,"data":"    from .model import KModel\n"}
+,{"stream_name":"stdout","time":372.178678097,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/model.py\", line 2, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178681993,"data":"    from .modules import CustomAlbert, ProsodyPredictor, TextEncoder\n"}
+,{"stream_name":"stdout","time":372.178691085,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/modules.py\", line 4, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":372.178694955,"data":"    from transformers import AlbertModel\n"}
+,{"stream_name":"stdout","time":372.178698455,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/import_utils.py\", line 2688, in __getattr__\n"}
+,{"stream_name":"stdout","time":372.178701036,"data":"    raise ModuleNotFoundError(import_error_message) from e\n"}
+,{"stream_name":"stdout","time":372.178707819,"data":"ModuleNotFoundError: Could not import module 'AlbertModel'. Are this object's requirements defined correctly? Set the logging verbosity to DEBUG for the original import error.\n"}
+,{"stream_name":"stdout","time":372.178710593,"data":"\n"}
+,{"stream_name":"stdout","time":372.178712801,"data":"[  6.2 min] STEP ERROR: FAILED \n"}
+,{"stream_name":"stderr","time":374.791259905,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":374.791292277,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":375.030667404,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":375.030691143,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":375.815094514,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":376.349932959,"data":"[NbConvertApp] Writing 336853 bytes to __results__.html\n"}
 ]
