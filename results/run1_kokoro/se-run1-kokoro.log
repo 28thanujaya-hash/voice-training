@@ -1,0 +1,110 @@
+[{"stream_name":"stdout","time":1.6528392090000001,"data":"[  0.0 min] stage-1 clips: 17 kept, from /kaggle/input/notebooks/thusharajayawardane/se-run1-record\n"}
+,{"stream_name":"stdout","time":1.652910704,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":6.5665027259999995,"data":"[  0.1 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":17.103924502,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
+,{"stream_name":"stdout","time":17.103959335,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":17.103964606,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":17.103968902,"data":"[  0.3 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":20.298031344,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
+,{"stream_name":"stdout","time":20.298080737,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":20.310907288,"data":"[  0.3 min] STEP words → sounds (misaki-g2p): OK 17 lines; e.g. So, how was your weekend? Did you do anything fun? → sˌO, hˌW wʌz jʊɹ wˈikˌɛnd? dˈɪd ju dˈu ˈɛniθˌɪŋ fˈʌn?\n"}
+,{"stream_name":"stdout","time":20.310932911,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":37.74857839,"data":"[  0.6 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile\n"}
+,{"stream_name":"stdout","time":42.748928045,"data":"[  0.7 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":90.183944331,"data":"[  1.5 min] torch 2.11.0+cu130, GPUs 2\n"}
+,{"stream_name":"stdout","time":90.1839833,"data":"[  1.5 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stdout","time":91.74769298,"data":"[  1.5 min] STEP recipe + tools installed: OK \n"}
+,{"stream_name":"stderr","time":92.957342353,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":97.707629189,"data":"[  1.6 min] STEP Kokoro base weights converted: OK \n"}
+,{"stream_name":"stdout","time":98.684932079,"data":"[  1.6 min] $ python train_first.py --config_path /kaggle/tmp/kt/configs/run1.yml\n"}
+,{"stream_name":"stdout","time":236.053462093,"data":"   \n"}
+,{"stream_name":"stdout","time":236.05351812,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053522841,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053526288,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053529575,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053532789,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":236.05353612,"data":"   Epochs: 2\n"}
+,{"stream_name":"stdout","time":236.053539397,"data":"   Validation loss: 0.475\n"}
+,{"stream_name":"stdout","time":236.053542782,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053545946,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053560641,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053563504,"data":"   \n"}
+,{"stream_name":"stdout","time":236.05356596,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053568363,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053570808,"data":"   \n"}
+,{"stream_name":"stdout","time":236.05357333,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053575794,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":236.05357829,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":236.053580833,"data":"   WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stdout","time":236.05358367,"data":"   I0000 00:00:1794561159.407630     367 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":236.053586475,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":236.053589301,"data":"   \n"}
+,{"stream_name":"stdout","time":236.053591822,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":236.053595067,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 12532.98it/s]\n"}
+,{"stream_name":"stdout","time":236.05360079,"data":"   Could not load German G2P for TensorBoard inference: No module named 'misaki'\n"}
+,{"stream_name":"stdout","time":236.054189117,"data":"[  3.9 min] STEP Kokoro stage 1 (acoustic): OK 2.3 min, GPU peak 0.0 GB\n"}
+,{"stream_name":"stdout","time":236.054204373,"data":"[  3.9 min] $ python train_second.py --config_path /kaggle/tmp/kt/configs/run1.yml\n"}
+,{"stream_name":"stdout","time":369.595451447,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595510746,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595518329,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":369.595523216,"data":"   WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stdout","time":369.59552837,"data":"   I0000 00:00:1794561257.296675     447 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":369.595533334,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":369.595538252,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595542539,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":369.595553146,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 15237.05it/s]\n"}
+,{"stream_name":"stdout","time":369.595557348,"data":"   Could not load German G2P for TensorBoard inference: No module named 'misaki'\n"}
+,{"stream_name":"stdout","time":369.595560395,"data":"   TensorBoard inference: no test sentences available (misaki/espeak not found?)\n"}
+,{"stream_name":"stdout","time":369.59556339,"data":"   Extracting Stage 1 baseline voicepack for TensorBoard...\n"}
+,{"stream_name":"stdout","time":369.595566352,"data":"     acoustic_norm=1.8783  prosodic_norm=1.8783\n"}
+,{"stream_name":"stdout","time":369.595569406,"data":"   Validation loss: 0.562, Dur loss: 4.043, F0 loss: 6.112\n"}
+,{"stream_name":"stdout","time":369.595573247,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595576182,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595579034,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595606194,"data":"   Epoch 0: extracting voicepack for TensorBoard inference...\n"}
+,{"stream_name":"stdout","time":369.595611521,"data":"     acoustic_norm=1.8753  prosodic_norm=5.8009\n"}
+,{"stream_name":"stdout","time":369.595615811,"data":"   Validation loss: 0.490, Dur loss: 1.725, F0 loss: 4.775\n"}
+,{"stream_name":"stdout","time":369.595619495,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595622806,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595626069,"data":"   \n"}
+,{"stream_name":"stdout","time":369.595629308,"data":"   Epoch 1: extracting voicepack for TensorBoard inference...\n"}
+,{"stream_name":"stdout","time":369.595632787,"data":"     acoustic_norm=2.5317  prosodic_norm=4.1442\n"}
+,{"stream_name":"stdout","time":369.595929295,"data":"[  6.1 min] STEP Kokoro stage 2 (prosody + adversarial): OK 2.2 min\n"}
+,{"stream_name":"stdout","time":369.596317686,"data":"[  6.1 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/run1/epoch_2nd_00001.pth --style-encoder-model /kaggle/tmp/logs/run1/epoch_1st_00001.pth --audio-di\n"}
+,{"stream_name":"stdout","time":376.785546514,"data":"   \n"}
+,{"stream_name":"stdout","time":376.785591205,"data":"   Voicepack shape: (510, 1, 256)\n"}
+,{"stream_name":"stdout","time":376.785596716,"data":"     Acoustic style norm: 1.8703\n"}
+,{"stream_name":"stdout","time":376.785600052,"data":"     Prosodic style norm: 4.1193\n"}
+,{"stream_name":"stdout","time":376.785603331,"data":"   \n"}
+,{"stream_name":"stdout","time":376.785606576,"data":"   Saved voicepack: /kaggle/working/sam_voicepack.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":376.785615025,"data":"[  6.3 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/run1/epoch_2nd_00001.pth --style-encoder-model /kaggle/tmp/logs/run1/epoch_1st_00001.pth --audio-di\n"}
+,{"stream_name":"stdout","time":383.753015802,"data":"   \n"}
+,{"stream_name":"stdout","time":383.753048666,"data":"   Voicepack shape: (510, 1, 256)\n"}
+,{"stream_name":"stdout","time":383.75305582,"data":"     Acoustic style norm: 1.8872\n"}
+,{"stream_name":"stdout","time":383.753065382,"data":"     Prosodic style norm: 4.1584\n"}
+,{"stream_name":"stdout","time":383.753068377,"data":"   \n"}
+,{"stream_name":"stdout","time":383.753070888,"data":"   Saved voicepack: /kaggle/working/maya_voicepack.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":383.75309864,"data":"[  6.4 min] STEP voicepacks (Sam, Maya): OK \n"}
+,{"stream_name":"stdout","time":388.029495824,"data":"[  6.4 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
+,{"stream_name":"stdout","time":399.856144395,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":399.856184642,"data":"  File \"/kaggle/src/script.py\", line 113, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":399.856192304,"data":"    from kokoro.model import KModel\n"}
+,{"stream_name":"stdout","time":399.856197244,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/__init__.py\", line 23, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":399.856201921,"data":"    from .pipeline import KPipeline\n"}
+,{"stream_name":"stdout","time":399.856206417,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/pipeline.py\", line 44, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":399.856211747,"data":"    class KPipeline:\n"}
+,{"stream_name":"stdout","time":399.856215735,"data":"    ...\u003c406 lines\u003e...\n"}
+,{"stream_name":"stdout","time":399.85621965,"data":"                        yield self.Result(graphemes=chunk, phonemes=ps, output=output, text_index=graphemes_index)\n"}
+,{"stream_name":"stdout","time":399.856223789,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/pipeline.py\", line 189, in KPipeline\n"}
+,{"stream_name":"stdout","time":399.85623969,"data":"    def tokens_to_ps(tokens: List[en.MToken]) -\u003e str:\n"}
+,{"stream_name":"stdout","time":399.856243902,"data":"                                  ^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":399.856247604,"data":"AttributeError: module 'misaki.en' has no attribute 'MToken'\n"}
+,{"stream_name":"stdout","time":399.856251541,"data":"\n"}
+,{"stream_name":"stdout","time":399.856255256,"data":"[  6.6 min] STEP ERROR: FAILED \n"}
+,{"stream_name":"stderr","time":403.077678535,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":403.077713876,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":403.350940814,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":403.350971967,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":404.162697443,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":404.719720165,"data":"[NbConvertApp] Writing 335782 bytes to __results__.html\n"}
+]
