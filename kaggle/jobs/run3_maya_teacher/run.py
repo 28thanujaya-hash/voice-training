@@ -9,10 +9,19 @@ import csv, glob, json, os, random, re, shutil, subprocess, sys, time, traceback
 sys.path.insert(0, os.getcwd())
 from test_data import TEST
 T0 = time.time(); LOG = []; W = "/kaggle/working"; TMP = "/kaggle/tmp"; os.makedirs(TMP, exist_ok=True)
-EPOCHS_1, EPOCHS_2, JOINT = 10, 8, 4
+EPOCHS_1, EPOCHS_2, JOINT = 10, 6, 3
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"   # 13 Nov: stage 2 ran out of memory (T4, SLM adversarial)
 ROWS = ["normal", "bright", "low", "tense"]
 def log(s):
     s = f"[{(time.time()-T0)/60:5.1f} min] {s}"; print(s, flush=True); LOG.append(s)
+def sh_log(c, cwd, logfile):
+    """Long training: stream everything to a file in /kaggle/working (kept even if it fails); return code."""
+    log("$ " + c[:160] + f"  (log: {os.path.basename(logfile)})")
+    with open(logfile, "w") as fh: rc = subprocess.run(c, shell=True, cwd=cwd, stdout=fh, stderr=subprocess.STDOUT).returncode
+    tail = open(logfile).read().splitlines()[-15:]; [print("   " + l) for l in tail]
+    ep = [l for l in open(logfile).read().splitlines() if "Epoch [" in l]
+    if ep: log("last progress: " + ep[-1][:160])
+    return rc
 def sh(c, cwd=None, tail=40):
     log("$ " + c[:160])
     p = subprocess.run(c, shell=True, cwd=cwd, capture_output=True, text=True)
@@ -87,12 +96,20 @@ try:
     cfg["data_params"].update(train_data=f"{K}/training/train_list.txt", val_data=f"{K}/training/val_list.txt",
                               root_path=AUD, OOD_data=f"{K}/training/OOD_texts.txt", min_length=10, num_workers=2)
     cfg["loss_params"]["joint_epoch"] = JOINT
+    cfg["save_freq"] = 1
+    cfg.setdefault("slmadv_params", {}).update(max_len=250, batch_percentage=0.5)   # was 500: out of memory on a T4
     yaml.safe_dump(cfg, open(f"{K}/configs/run3.yml", "w"), sort_keys=False)
 
-    t = time.time(); sh(f"python train_first.py --config_path {K}/configs/run3.yml", cwd=S, tail=25)
-    c1 = sorted(glob.glob(f"{TMP}/logs/run3/epoch_1st_*.pth")); step("Kokoro stage 1 (acoustic)", bool(c1), f"{EPOCHS_1} epochs, {(time.time()-t)/60:.1f} min")
-    t = time.time(); sh(f"python train_second.py --config_path {K}/configs/run3.yml", cwd=S, tail=25)
-    c2 = sorted(glob.glob(f"{TMP}/logs/run3/epoch_2nd_*.pth")); step("Kokoro stage 2 (prosody + adversarial)", bool(c2), f"{EPOCHS_2} epochs, {(time.time()-t)/60:.1f} min")
+    t = time.time(); rc = sh_log(f"python train_first.py --config_path {K}/configs/run3.yml", S, f"{W}/train_first_log.txt")
+    c1 = sorted(glob.glob(f"{TMP}/logs/run3/epoch_1st_*.pth")); step("Kokoro stage 1 (acoustic)", rc == 0 and bool(c1), f"{EPOCHS_1} epochs, {(time.time()-t)/60:.1f} min")
+    if not c1: raise RuntimeError("stage 1 produced no checkpoint")
+    shutil.copy(c1[-1], f"{W}/kokoro_maya_v01_stage1.pth")   # kept: a restart can skip stage 1
+    t = time.time(); rc = sh_log(f"python train_second.py --config_path {K}/configs/run3.yml", S, f"{W}/train_second_log.txt")
+    c2 = sorted(glob.glob(f"{TMP}/logs/run3/epoch_2nd_*.pth"))
+    step("Kokoro stage 2 (prosody + adversarial)", rc == 0 and bool(c2), f"{EPOCHS_2} epochs, {(time.time()-t)/60:.1f} min; " +
+         (f"{len(c2)} checkpoints" if c2 else "no checkpoint") + ("" if rc == 0 else " — FAILED, continuing with the last checkpoint"))
+    if not c2: raise RuntimeError("stage 2 produced no checkpoint")
+    report.append(f"Teacher = stage-2 checkpoint {os.path.basename(c2[-1])}"); report.append("")
     for f in glob.glob(f"{TMP}/logs/run3/train.log"): shutil.copy(f, f"{W}/kokoro_train_log.txt")
 
     for row in ROWS:
