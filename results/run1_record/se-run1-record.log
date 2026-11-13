@@ -1,59 +1,45 @@
-[{"stream_name":"stdout","time":60.769106523,"data":"[  1.0 min] loading Orpheus (unsloth/orpheus-3b-0.1-ft, fp16) + SNAC\n"}
-,{"stream_name":"stderr","time":61.022387082,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
-,{"stream_name":"stderr","time":65.580338106,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
-,{"stream_name":"stderr","time":100.35908379,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:25\u003c00:25, 25.19s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:34\u003c00:00, 15.88s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:34\u003c00:00, 17.28s/it]\n"}
-,{"stream_name":"stderr","time":103.748681436,"data":"\rLoading weights:   0%|          | 0/254 [00:00\u003c?, ?it/s]\rLoading weights:   0%|          | 1/254 [00:01\u003c05:44,  1.36s/it]\rLoading weights:  37%|███▋      | 95/254 [00:01\u003c00:01, 86.80it/s]\rLoading weights:  54%|█████▎    | 136/254 [00:01\u003c00:01, 96.96it/s]\rLoading weights:  65%|██████▍   | 164/254 [00:02\u003c00:00, 96.02it/s]\rLoading weights:  73%|███████▎  | 185/254 [00:02\u003c00:00, 90.32it/s]\rLoading weights:  79%|███████▉  | 201/254 [00:02\u003c00:00, 91.24it/s]\rLoading weights:  85%|████████▍ | 215/254 [00:02\u003c00:00, 97.67it/s]\rLoading weights:  90%|█████████ | 229/254 [00:02\u003c00:00, 92.89it/s]\rLoading weights:  95%|█████████▍| 241/254 [00:02\u003c00:00, 94.46it/s]\rLoading weights: 100%|██████████| 254/254 [00:03\u003c00:00, 82.90it/s]\n"}
-,{"stream_name":"stdout","time":108.205139393,"data":"[  1.8 min] loaded; GPU memory 6.7 GB\n"}
-,{"stream_name":"stdout","time":108.205180036,"data":"[  1.8 min] loading Whisper large-v3-turbo\n"}
-,{"stream_name":"stderr","time":108.42735227,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
-,{"stream_name":"stderr","time":118.272717665,"data":"\rLoading weights:   0%|          | 0/587 [00:00\u003c?, ?it/s]\rLoading weights:  46%|████▌     | 269/587 [00:00\u003c00:00, 2673.71it/s]\rLoading weights:  91%|█████████▏| 537/587 [00:00\u003c00:00, 2674.48it/s]\rLoading weights: 100%|██████████| 587/587 [00:00\u003c00:00, 2714.20it/s]\n"}
-,{"stream_name":"stderr","time":120.663938815,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stderr","time":168.133699277,"data":"[transformers] Passing `generation_config` together with generation-related arguments=({'suppress_tokens', 'begin_suppress_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.\n"}
-,{"stream_name":"stderr","time":168.993024909,"data":"[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer WhisperTokenizer. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.\n"}
-,{"stream_name":"stdout","time":169.014851025,"data":"[  2.8 min] s01 sam/bright: 2 takes in 29 s → NONE passed\n"}
-,{"stream_name":"stderr","time":169.017280261,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":180.04318511,"data":"[  3.0 min] s02 sam/normal: 2 takes in 11 s → kept take 1\n"}
-,{"stream_name":"stderr","time":180.045395998,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":194.513890126,"data":"[  3.2 min] s03 sam/bright: 2 takes in 14 s → kept take 1\n"}
-,{"stream_name":"stderr","time":194.516039302,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":206.561372494,"data":"[  3.4 min] s04 sam/low: 2 takes in 12 s → kept take 2\n"}
-,{"stream_name":"stderr","time":206.563505897,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":223.630074936,"data":"[  3.7 min] s05 sam/low: 2 takes in 16 s → kept take 1\n"}
-,{"stream_name":"stderr","time":223.632194061,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":235.192844765,"data":"[  3.9 min] s06 sam/tense: 2 takes in 11 s → kept take 1\n"}
-,{"stream_name":"stderr","time":235.194978737,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":246.86201633,"data":"[  4.1 min] s07 sam/bright: 2 takes in 11 s → kept take 2\n"}
-,{"stream_name":"stderr","time":246.864037328,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":258.551132143,"data":"[  4.3 min] s08 sam/low: 2 takes in 11 s → NONE passed\n"}
-,{"stream_name":"stderr","time":258.553566465,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":270.7856599,"data":"[  4.5 min] s09 sam/normal: 2 takes in 12 s → kept take 2\n"}
-,{"stream_name":"stderr","time":270.787776799,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stderr","time":276.243716216,"data":"[transformers] You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
-,{"stream_name":"stdout","time":276.554755975,"data":"[  4.6 min] s10 sam/bright: 2 takes in 5 s → kept take 2\n"}
-,{"stream_name":"stderr","time":276.556836287,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":302.316328695,"data":"[  5.0 min] m01 maya/normal: 2 takes in 25 s → NONE passed\n"}
-,{"stream_name":"stderr","time":302.318430126,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":322.647435259,"data":"[  5.4 min] m02 maya/normal: 2 takes in 20 s → kept take 2\n"}
-,{"stream_name":"stderr","time":322.649527006,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":335.372873982,"data":"[  5.6 min] m03 maya/normal: 2 takes in 12 s → kept take 1\n"}
-,{"stream_name":"stderr","time":335.374893858,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":356.566737299,"data":"[  5.9 min] m04 maya/bright: 2 takes in 21 s → kept take 2\n"}
-,{"stream_name":"stderr","time":356.568932662,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":379.928695267,"data":"[  6.3 min] m05 maya/bright: 2 takes in 23 s → NONE passed\n"}
-,{"stream_name":"stderr","time":379.932012532,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":401.527096845,"data":"[  6.7 min] m06 maya/low: 2 takes in 21 s → kept take 2\n"}
-,{"stream_name":"stderr","time":401.529237866,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":428.049511282,"data":"[  7.1 min] m07 maya/tense: 2 takes in 26 s → kept take 1\n"}
-,{"stream_name":"stderr","time":428.051852987,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":453.56048929,"data":"[  7.5 min] m08 maya/low: 2 takes in 25 s → NONE passed\n"}
-,{"stream_name":"stderr","time":453.562736019,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":477.497282597,"data":"[  7.9 min] m09 maya/low: 2 takes in 24 s → kept take 2\n"}
-,{"stream_name":"stderr","time":477.499596441,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
-,{"stream_name":"stdout","time":494.25334141,"data":"[  8.2 min] m10 maya/normal: 2 takes in 16 s → NONE passed\n"}
-,{"stream_name":"stderr","time":508.897823645,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
-,{"stream_name":"stderr","time":508.897863114,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
-,{"stream_name":"stderr","time":509.28430917,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
-,{"stream_name":"stderr","time":509.284338081,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
-,{"stream_name":"stderr","time":510.191775797,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
-,{"stream_name":"stderr","time":511.609156865,"data":"[NbConvertApp] Writing 325097 bytes to __results__.html\n"}
+[{"stream_name":"stdout","time":31.235192719,"data":"[  0.5 min] loading Orpheus (unsloth/orpheus-3b-0.1-ft, fp16) + SNAC\n"}
+,{"stream_name":"stderr","time":31.337272184,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":34.835819429,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":70.12670665,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:29\u003c00:29, 29.12s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:35\u003c00:00, 15.58s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:35\u003c00:00, 17.61s/it]\n"}
+,{"stream_name":"stderr","time":73.369840736,"data":"\rLoading weights:   0%|          | 0/254 [00:00\u003c?, ?it/s]\rLoading weights:   0%|          | 1/254 [00:01\u003c05:45,  1.37s/it]\rLoading weights:  40%|████      | 102/254 [00:01\u003c00:01, 91.23it/s]\rLoading weights:  55%|█████▌    | 140/254 [00:01\u003c00:01, 94.34it/s]\rLoading weights:  65%|██████▍   | 165/254 [00:02\u003c00:00, 93.87it/s]\rLoading weights:  72%|███████▏  | 184/254 [00:02\u003c00:00, 96.10it/s]\rLoading weights:  79%|███████▉  | 201/254 [00:02\u003c00:00, 95.11it/s]\rLoading weights:  85%|████████▍ | 215/254 [00:02\u003c00:00, 100.40it/s]\rLoading weights:  90%|█████████ | 229/254 [00:02\u003c00:00, 95.72it/s] \rLoading weights:  97%|█████████▋| 246/254 [00:03\u003c00:00, 94.61it/s]\rLoading weights: 100%|██████████| 254/254 [00:03\u003c00:00, 84.50it/s]\n"}
+,{"stream_name":"stdout","time":77.286385082,"data":"[  1.3 min] loaded; GPU memory 6.7 GB\n"}
+,{"stream_name":"stdout","time":77.286420196,"data":"[  1.3 min] loading Whisper large-v3-turbo\n"}
+,{"stream_name":"stderr","time":77.353866029,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":88.314408125,"data":"\rLoading weights:   0%|          | 0/587 [00:00\u003c?, ?it/s]\rLoading weights:  44%|████▍     | 258/587 [00:00\u003c00:00, 2566.88it/s]\rLoading weights:  88%|████████▊ | 515/587 [00:00\u003c00:00, 2556.06it/s]\rLoading weights: 100%|██████████| 587/587 [00:00\u003c00:00, 2583.69it/s]\n"}
+,{"stream_name":"stderr","time":89.729950427,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":120.601227772,"data":"[  2.0 min] batch of 8 lines × 2 takes in 31 s\n"}
+,{"stream_name":"stderr","time":120.604189051,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":159.932295747,"data":"[  2.7 min] batch of 8 lines × 2 takes in 39 s\n"}
+,{"stream_name":"stderr","time":159.934812518,"data":"[transformers] Both `max_new_tokens` (=1600) and `max_length`(=131072) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":188.763907237,"data":"[  3.1 min] batch of 4 lines × 2 takes in 29 s\n"}
+,{"stream_name":"stderr","time":205.087103584,"data":"[transformers] Passing `generation_config` together with generation-related arguments=({'begin_suppress_tokens', 'suppress_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.\n"}
+,{"stream_name":"stderr","time":205.760284078,"data":"[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer WhisperTokenizer. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.\n"}
+,{"stream_name":"stdout","time":206.148319883,"data":"[  3.4 min] s01 sam/bright: NONE passed\n"}
+,{"stream_name":"stdout","time":206.74332708,"data":"[  3.4 min] s02 sam/normal: kept take 1\n"}
+,{"stream_name":"stdout","time":207.373469205,"data":"[  3.4 min] s03 sam/bright: kept take 2\n"}
+,{"stream_name":"stdout","time":207.985269119,"data":"[  3.5 min] s04 sam/low: kept take 1\n"}
+,{"stream_name":"stdout","time":208.674710537,"data":"[  3.5 min] s05 sam/low: kept take 2\n"}
+,{"stream_name":"stderr","time":208.67886126,"data":"[transformers] You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":209.251417926,"data":"[  3.5 min] s06 sam/tense: kept take 2\n"}
+,{"stream_name":"stdout","time":209.794958752,"data":"[  3.5 min] s07 sam/bright: kept take 2\n"}
+,{"stream_name":"stdout","time":210.412161981,"data":"[  3.5 min] s08 sam/low: kept take 1\n"}
+,{"stream_name":"stdout","time":211.023356827,"data":"[  3.5 min] s09 sam/normal: kept take 2\n"}
+,{"stream_name":"stdout","time":211.553604409,"data":"[  3.5 min] s10 sam/bright: kept take 2\n"}
+,{"stream_name":"stdout","time":212.309119113,"data":"[  3.5 min] m01 maya/normal: NONE passed\n"}
+,{"stream_name":"stdout","time":212.852962108,"data":"[  3.5 min] m02 maya/normal: kept take 2\n"}
+,{"stream_name":"stdout","time":213.392467476,"data":"[  3.5 min] m03 maya/normal: kept take 2\n"}
+,{"stream_name":"stdout","time":214.032354819,"data":"[  3.6 min] m04 maya/bright: kept take 2\n"}
+,{"stream_name":"stdout","time":214.731813988,"data":"[  3.6 min] m05 maya/bright: kept take 2\n"}
+,{"stream_name":"stdout","time":215.430398157,"data":"[  3.6 min] m06 maya/low: kept take 2\n"}
+,{"stream_name":"stdout","time":216.091546831,"data":"[  3.6 min] m07 maya/tense: kept take 2\n"}
+,{"stream_name":"stdout","time":216.83722578,"data":"[  3.6 min] m08 maya/low: NONE passed\n"}
+,{"stream_name":"stdout","time":217.436527044,"data":"[  3.6 min] m09 maya/low: kept take 1\n"}
+,{"stream_name":"stdout","time":218.087525218,"data":"[  3.6 min] m10 maya/normal: kept take 2\n"}
+,{"stream_name":"stderr","time":226.506016069,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":226.506044655,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":226.711379161,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":226.711420034,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":227.477096278,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":228.382927608,"data":"[NbConvertApp] Writing 333680 bytes to __results__.html\n"}
 ]

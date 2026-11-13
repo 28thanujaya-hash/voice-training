@@ -1,41 +1,41 @@
-id,who,row,take,kept,ok,why,seconds,words_per_s,wer,peak,lufs_before,file,text,heard
-s01,sam,bright,1,,False,words,4.68,2.9,0.077,0.761,-18.5,clips/s01_t1.wav,No way! He's here! I have a little brother! His name is Thenuka!,No way! He's here. I have a little brother. His name is Tanuka.
-s01,sam,bright,2,,False,no audio,,,,,,,No way! He's here! I have a little brother! His name is Thenuka!,
-s02,sam,normal,1,True,True,,2.95,3.63,0.0,0.766,-18.5,clips/s02_t1.wav,"So, how was your weekend? Did you do anything fun?","So, how was your weekend? Did you do anything fun?"
-s02,sam,normal,2,,False,no audio,,,,,,,"So, how was your weekend? Did you do anything fun?",
-s03,sam,bright,1,True,True,,4.04,2.86,0.0,0.598,-21.5,clips/s03_t1.wav,You cooked? Okay… but did you burn the rice? Like me?,You cooked? Okay. But did you burn the rice? Like me?
-s03,sam,bright,2,,False,no audio,,,,,,,You cooked? Okay… but did you burn the rice? Like me?,
-s04,sam,low,1,,False,no audio,,,,,,,He cried all night… But then he smiled at me. Worth it.,
-s04,sam,low,2,True,True,,3.21,3.99,0.0,0.607,-19.7,clips/s04_t2.wav,He cried all night… But then he smiled at me. Worth it.,"He cried all night, but then he smiled at me. Worth it."
-s05,sam,low,1,True,True,,4.47,2.81,0.0,0.714,-21.3,clips/s05_t1.wav,Bruno died last night. He was old. I'm okay. Just… quiet today.,Bruno died last night. He was old. I'm okay. Just quiet today.
-s05,sam,low,2,,True,,4.45,2.83,0.0,0.602,-23.6,clips/s05_t2.wav,Bruno died last night. He was old. I'm okay. Just… quiet today.,Bruno died last night. He was old. I'm okay. Just quiet today.
-s06,sam,tense,1,True,True,,2.99,2.5,0.0,0.776,-20.4,clips/s06_t1.wav,I failed. The parking. Again. Don't laugh.,I failed the parking again. Don't laugh.
-s06,sam,tense,2,,False,no audio,,,,,,,I failed. The parking. Again. Don't laugh.,
-s07,sam,bright,1,,False,no audio,,,,,,,Wait. Seriously? He skipped the whole queue?,
-s07,sam,bright,2,True,True,,3.19,2.34,0.0,0.632,-21.5,clips/s07_t2.wav,Wait. Seriously? He skipped the whole queue?,"Wait, seriously? He skipped the whole queue?"
-s08,sam,low,1,,False,words,3.04,2.82,0.125,0.411,-23.6,clips/s08_t1.wav,"Hey… I'm really sorry, Maya. That's not fair.","Hey, really sorry Maya, that's not fair."
-s08,sam,low,2,,False,no audio,,,,,,,"Hey… I'm really sorry, Maya. That's not fair.",
-s09,sam,normal,1,,False,no audio,,,,,,,Um… I don't know. Maybe I'm not that clever.,
-s09,sam,normal,2,True,True,,3.27,2.93,0.0,0.683,-20.0,clips/s09_t2.wav,Um… I don't know. Maybe I'm not that clever.,"Um, I don't know. Maybe I'm not that clever."
-s10,sam,bright,1,,False,no audio,,,,,,,I can't believe it!,
-s10,sam,bright,2,True,True,,1.44,3.23,0.0,0.665,-18.8,clips/s10_t2.wav,I can't believe it!,I can't believe it.
-m01,maya,normal,1,,False,no audio,,,,,,,"The sea at Galle Face is so pretty tonight, and the air is cool. You should see it.",
-m01,maya,normal,2,,False,words,6.81,2.72,0.222,0.301,-26.2,clips/m01_t2.wav,"The sea at Galle Face is so pretty tonight, and the air is cool. You should see it.",Basia gal face is so pretty tonight and the air is cool. You should see it.
-m02,maya,normal,1,,False,no audio,,,,,,,"Okay, tell me everything. What happened next?",
-m02,maya,normal,2,True,True,,5.21,1.4,0.0,0.372,-26.0,clips/m02_t2.wav,"Okay, tell me everything. What happened next?","Okay, tell me everything. What happened next?"
-m03,maya,normal,1,True,True,,3.42,1.55,0.0,0.255,-26.6,clips/m03_t1.wav,Marvel again? That's so you.,Marvel again? That's so you.
-m03,maya,normal,2,,False,no audio,,,,,,,Marvel again? That's so you.,
-m04,maya,bright,1,,False,no audio,,,,,,,So… I'm shift leader now. Me. Can you believe it?,
-m04,maya,bright,2,True,True,,5.53,1.88,0.0,0.311,-26.4,clips/m04_t2.wav,So… I'm shift leader now. Me. Can you believe it?,"So, I'm shift leader now. Me. Can you believe it?"
-m05,maya,bright,1,,False,no audio,,,,,,,"First Chennai, and then Madurai. I've been saving for a whole year!",
-m05,maya,bright,2,,False,words,6.15,2.02,0.083,0.322,-23.9,clips/m05_t2.wav,"First Chennai, and then Madurai. I've been saving for a whole year!","First Chennai, and then Notarai. I've been saving for a whole year."
-m06,maya,low,1,,False,no audio,,,,,,,"He shouted at me in front of everyone, so I went to the back and cried.",
-m06,maya,low,2,True,True,,5.32,3.12,0.0,0.228,-29.3,clips/m06_t2.wav,"He shouted at me in front of everyone, so I went to the back and cried.",He shouted at me in front of everyone. So I went to the back and cried.
-m07,maya,tense,1,True,True,,6.58,1.88,0.0,0.321,-26.0,clips/m07_t1.wav,No. That was not okay. You don't speak to people like that.,"No, that was not okay. You don't speak to people like that."
-m07,maya,tense,2,,False,no audio,,,,,,,No. That was not okay. You don't speak to people like that.,
-m08,maya,low,1,,False,words,6.79,2.12,0.143,0.193,-28.6,clips/m08_t1.wav,"Paati's in hospital, and I'm so far away… I just want to be there.",Poddy's in the hospital and I'm so far away. I just want to be there.
-m08,maya,low,2,,False,no audio,,,,,,,"Paati's in hospital, and I'm so far away… I just want to be there.",
-m09,maya,low,1,,False,no audio,,,,,,,"Oh, Sam… Bruno was family. Take your time.",
-m09,maya,low,2,True,True,,6.24,1.33,0.0,0.264,-25.8,clips/m09_t2.wav,"Oh, Sam… Bruno was family. Take your time.","Oh, Sam. Bruno was family. Take your time."
-m10,maya,normal,1,,False,no audio,,,,,,,"When I think about it, Colombo taught me to be brave.",
-m10,maya,normal,2,,False,words,4.32,2.67,0.091,0.18,-28.6,clips/m10_t2.wav,"When I think about it, Colombo taught me to be brave.","When I think about it, Columbo taught me to be brave."
+id,who,row,take,kept,ok,why,names_misheard,seconds,words_per_s,wer,peak,lufs_before,file,text,heard
+s01,sam,bright,1,,False,words,thenuka,4.1,3.33,0.083,0.719,-18.5,clips/s01_t1.wav,No way! He's here! I have a little brother! His name is Thenuka!,No way. He's here. I have a little brother. His name is Thanoka.
+s01,sam,bright,2,,False,words,thenuka,4.36,3.12,0.083,0.691,-18.5,clips/s01_t2.wav,No way! He's here! I have a little brother! His name is Thenuka!,No way. He's here. I have a little brother. His name is Thanuka.
+s02,sam,normal,1,True,True,,,2.89,3.72,0.0,0.523,-19.9,clips/s02_t1.wav,"So, how was your weekend? Did you do anything fun?","So, how was your weekend? Did you do anything fun?"
+s02,sam,normal,2,,True,,,2.63,4.11,0.0,0.536,-19.1,clips/s02_t2.wav,"So, how was your weekend? Did you do anything fun?","So, how was your weekend? Did you do anything fun?"
+s03,sam,bright,1,,True,,,3.66,3.18,0.0,0.689,-21.8,clips/s03_t1.wav,You cooked? Okay… but did you burn the rice? Like me?,You cooked? Okay. But did you burn the rice like me?
+s03,sam,bright,2,True,True,,,3.74,3.11,0.0,0.646,-19.5,clips/s03_t2.wav,You cooked? Okay… but did you burn the rice? Like me?,You cooked? Okay. But did you burn the rice? Like me.
+s04,sam,low,1,True,True,,,3.12,4.11,0.0,0.762,-20.1,clips/s04_t1.wav,He cried all night… But then he smiled at me. Worth it.,"He cried all night, but then he smiled at me. Worth it."
+s04,sam,low,2,,True,,,3.08,4.17,0.0,0.657,-19.6,clips/s04_t2.wav,He cried all night… But then he smiled at me. Worth it.,"He cried all night, but then he smiled at me. Worth it."
+s05,sam,low,1,,False,words,bruno,4.87,2.57,0.091,0.619,-21.1,clips/s05_t1.wav,Bruno died last night. He was old. I'm okay. Just… quiet today.,Brillo died last night. He was old. I'm okay. Just quiet today.
+s05,sam,low,2,True,True,,,4.89,2.56,0.0,0.56,-22.2,clips/s05_t2.wav,Bruno died last night. He was old. I'm okay. Just… quiet today.,Bruno died last night. He was old. I'm okay. Just quiet today.
+s06,sam,tense,1,,True,,,3.49,2.13,0.0,0.603,-21.5,clips/s06_t1.wav,I failed. The parking. Again. Don't laugh.,I failed the parking again. Don't laugh.
+s06,sam,tense,2,True,True,,,3.19,2.34,0.0,0.69,-20.1,clips/s06_t2.wav,I failed. The parking. Again. Don't laugh.,I failed. The parking. Again. Don't laugh.
+s07,sam,bright,1,,False,words,,2.82,2.67,0.143,0.671,-19.0,clips/s07_t1.wav,Wait. Seriously? He skipped the whole queue?,"Wait, seriously? You skipped the whole queue?"
+s07,sam,bright,2,True,True,,,3.04,2.47,0.0,0.649,-20.1,clips/s07_t2.wav,Wait. Seriously? He skipped the whole queue?,"Wait, seriously? He skipped the whole queue?"
+s08,sam,low,1,True,True,,,3.31,2.57,0.0,0.736,-19.4,clips/s08_t1.wav,"Hey… I'm really sorry, Maya. That's not fair.","Hey, I'm really sorry, Maya. That's not fair."
+s08,sam,low,2,,True,,,3.27,2.6,0.0,0.593,-21.5,clips/s08_t2.wav,"Hey… I'm really sorry, Maya. That's not fair.","Hey, I'm really sorry, Maya. That's not fair."
+s09,sam,normal,1,,True,,,2.63,3.7,0.0,0.567,-20.5,clips/s09_t1.wav,Um… I don't know. Maybe I'm not that clever.,"Um, I don't know. Maybe I'm not that clever."
+s09,sam,normal,2,True,True,,,3.1,3.1,0.0,0.762,-19.5,clips/s09_t2.wav,Um… I don't know. Maybe I'm not that clever.,"Um, I don't know. Maybe I'm not that clever."
+s10,sam,bright,1,,True,,,1.05,4.69,0.0,0.565,-18.9,clips/s10_t1.wav,I can't believe it!,I can't believe it.
+s10,sam,bright,2,True,True,,,1.05,4.69,0.0,0.664,-19.8,clips/s10_t2.wav,I can't believe it!,I can't believe it.
+m01,maya,normal,1,,False,words,galle,5.7,3.27,0.118,0.172,-28.9,clips/m01_t1.wav,"The sea at Galle Face is so pretty tonight, and the air is cool. You should see it.","The scenic owl face is so pretty tonight, and the air is cool. You should see it."
+m01,maya,normal,2,,False,words,galle,6.71,2.77,0.059,0.162,-30.3,clips/m01_t2.wav,"The sea at Galle Face is so pretty tonight, and the air is cool. You should see it.",The sea at Galiface is so pretty tonight and the air is cool. You should see it.
+m02,maya,normal,1,,True,,,5.09,1.43,0.0,0.186,-28.7,clips/m02_t1.wav,"Okay, tell me everything. What happened next?","Okay, tell me everything. What happened next?"
+m02,maya,normal,2,True,True,,,4.55,1.61,0.0,0.306,-27.6,clips/m02_t2.wav,"Okay, tell me everything. What happened next?","Okay, tell me everything. What happened next?"
+m03,maya,normal,1,,False,words,,4.0,1.32,0.4,0.355,-25.2,clips/m03_t1.wav,Marvel again? That's so you.,Marvel-a-den? That's so you.
+m03,maya,normal,2,True,True,,,4.0,1.32,0.0,0.254,-26.0,clips/m03_t2.wav,Marvel again? That's so you.,Marvel again? That's so you.
+m04,maya,bright,1,,True,,,5.66,1.83,0.0,0.313,-26.3,clips/m04_t1.wav,So… I'm shift leader now. Me. Can you believe it?,So... I'm shift leader now. Me. Can you believe it?
+m04,maya,bright,2,True,True,,,5.34,1.95,0.0,0.264,-27.7,clips/m04_t2.wav,So… I'm shift leader now. Me. Can you believe it?,"So, I'm shift leader now. Me. Can you believe it?"
+m05,maya,bright,1,,False,words,madurai,5.62,2.21,0.1,0.24,-26.6,clips/m05_t1.wav,"First Chennai, and then Madurai. I've been saving for a whole year!","First Chennai, and then Matarai. I've been saving for a whole year."
+m05,maya,bright,2,True,True,,,5.51,2.26,0.0,0.274,-25.6,clips/m05_t2.wav,"First Chennai, and then Madurai. I've been saving for a whole year!","First Chennai, and then Madurai. I've been saving for a whole year."
+m06,maya,low,1,,True,,,4.72,3.54,0.0,0.194,-28.7,clips/m06_t1.wav,"He shouted at me in front of everyone, so I went to the back and cried.","He shouted at me in front of everyone, so I went to the back and cried."
+m06,maya,low,2,True,True,,,5.53,3.0,0.0,0.189,-29.6,clips/m06_t2.wav,"He shouted at me in front of everyone, so I went to the back and cried.","He shouted at me in front of everyone, so I went to the back and cried."
+m07,maya,tense,1,,True,,,5.6,2.22,0.0,0.297,-27.3,clips/m07_t1.wav,No. That was not okay. You don't speak to people like that.,"No, that was not okay. You don't speak to people like that."
+m07,maya,tense,2,True,True,,,5.45,2.29,0.0,0.413,-25.1,clips/m07_t2.wav,No. That was not okay. You don't speak to people like that.,"No, that was not okay. You don't speak to people like that."
+m08,maya,low,1,,False,words,paati's,5.96,2.43,0.231,0.204,-28.9,clips/m08_t1.wav,"Paati's in hospital, and I'm so far away… I just want to be there.",Patti's in the hospital. I'm so far away. I just want to be there.
+m08,maya,low,2,,False,words,paati's,4.62,3.17,0.077,0.207,-29.1,clips/m08_t2.wav,"Paati's in hospital, and I'm so far away… I just want to be there.",Potty's in hospital and I'm so far away. I just want to be there.
+m09,maya,low,1,True,True,,,6.11,1.35,0.0,0.288,-24.6,clips/m09_t1.wav,"Oh, Sam… Bruno was family. Take your time.","Oh, Sam. Bruno was family. Take your time."
+m09,maya,low,2,,True,,,6.45,1.28,0.0,0.247,-28.3,clips/m09_t2.wav,"Oh, Sam… Bruno was family. Take your time.","Oh, Sam. Bruno was family. Take your time."
+m10,maya,normal,1,,False,words,colombo,3.95,2.93,0.1,0.242,-27.0,clips/m10_t1.wav,"When I think about it, Colombo taught me to be brave.","When I think about it, Columbo taught me to be brave."
+m10,maya,normal,2,True,True,,,4.3,2.69,0.0,0.154,-30.2,clips/m10_t2.wav,"When I think about it, Colombo taught me to be brave.","When I think about it, Colombo taught me to be brave."
