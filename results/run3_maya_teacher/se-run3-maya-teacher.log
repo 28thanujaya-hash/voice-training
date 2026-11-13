@@ -1,0 +1,111 @@
+[{"stream_name":"stdout","time":1.981597153,"data":"[  0.0 min] kept clips: 291 from /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-rejudge\n"}
+,{"stream_name":"stdout","time":1.9816340590000001,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":4.256890427,"data":"[  0.0 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":15.236070691,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
+,{"stream_name":"stdout","time":15.236096664,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":15.236101458,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":15.236105052,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":18.396822135,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
+,{"stream_name":"stdout","time":18.396851511,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":18.445206242,"data":"[  0.3 min] STEP words → sounds (misaki-g2p): OK 291 lines\n"}
+,{"stream_name":"stdout","time":18.445231305,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":29.625726216,"data":"[  0.5 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile jiwer funasr modelscope\n"}
+,{"stream_name":"stdout","time":58.032503632,"data":"[  0.9 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":109.710593754,"data":"[  1.8 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stderr","time":112.424645223,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":116.036383991,"data":"[  1.9 min] STEP recipe + Kokoro base ready: OK torch 2.11.0+cu130\n"}
+,{"stream_name":"stdout","time":137.395850136,"data":"[  2.3 min] $ python train_first.py --config_path /kaggle/tmp/kt/configs/run3.yml\n"}
+,{"stream_name":"stdout","time":4400.457620292,"data":"   Time elasped: 323.3100917339325\n"}
+,{"stream_name":"stdout","time":4400.457681213,"data":"   Epoch [10/10], Step [120/140], Mel Loss: 0.41320, Gen Loss: 2.90857, Disc Loss: 4.03455, Mono Loss: 0.12683, S2S Loss: 2.82401, SLM Loss: 1.91108\n"}
+,{"stream_name":"stdout","time":4400.457686545,"data":"   Time elasped: 352.5569899082184\n"}
+,{"stream_name":"stdout","time":4400.457710237,"data":"   Epoch [10/10], Step [130/140], Mel Loss: 0.40475, Gen Loss: 2.81499, Disc Loss: 3.94914, Mono Loss: 0.08308, S2S Loss: 3.13115, SLM Loss: 1.97722\n"}
+,{"stream_name":"stdout","time":4400.457716541,"data":"   Time elasped: 381.8886458873749\n"}
+,{"stream_name":"stdout","time":4400.457721987,"data":"   Epoch [10/10], Step [140/140], Mel Loss: 0.43474, Gen Loss: 3.28294, Disc Loss: 4.01206, Mono Loss: 0.15227, S2S Loss: 1.87345, SLM Loss: 1.94421\n"}
+,{"stream_name":"stdout","time":4400.457727957,"data":"   Time elasped: 411.09146547317505\n"}
+,{"stream_name":"stdout","time":4400.457750318,"data":"   Epochs: 10\n"}
+,{"stream_name":"stdout","time":4400.45775537,"data":"   Validation loss: 0.418\n"}
+,{"stream_name":"stdout","time":4400.45775956,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.45776398,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.457767846,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.457772114,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.457776414,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.45778144,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.457785792,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.457790134,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.457794549,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":4400.457800635,"data":"   WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stdout","time":4400.457822517,"data":"   I0000 00:00:1794581155.956495     433 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":4400.457827431,"data":"   Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":4400.457831857,"data":"   \n"}
+,{"stream_name":"stdout","time":4400.457835564,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":4400.457843324,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 15028.57it/s]\n"}
+,{"stream_name":"stdout","time":4400.457849114,"data":"   Could not load German G2P for TensorBoard inference: No module named 'misaki'\n"}
+,{"stream_name":"stdout","time":4400.458598392,"data":"[ 73.3 min] STEP Kokoro stage 1 (acoustic): OK 10 epochs, 71.1 min\n"}
+,{"stream_name":"stdout","time":4400.458608481,"data":"[ 73.3 min] $ python train_second.py --config_path /kaggle/tmp/kt/configs/run3.yml\n"}
+,{"stream_name":"stdout","time":16698.70040162,"data":"       return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":16698.700464435,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/parallel/data_parallel.py\", line 197, in forward\n"}
+,{"stream_name":"stdout","time":16698.700470736,"data":"       outputs = self.parallel_apply(replicas, inputs, module_kwargs)\n"}
+,{"stream_name":"stdout","time":16698.700495492,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/parallel/data_parallel.py\", line 214, in parallel_apply\n"}
+,{"stream_name":"stdout","time":16698.700501527,"data":"       return parallel_apply(\n"}
+,{"stream_name":"stdout","time":16698.700506231,"data":"           replicas, inputs, kwargs, self.device_ids[: len(replicas)]\n"}
+,{"stream_name":"stdout","time":16698.70051087,"data":"       )\n"}
+,{"stream_name":"stdout","time":16698.700515284,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/parallel/parallel_apply.py\", line 144, in parallel_apply\n"}
+,{"stream_name":"stdout","time":16698.700520412,"data":"       output.reraise()\n"}
+,{"stream_name":"stdout","time":16698.700525133,"data":"       ~~~~~~~~~~~~~~^^\n"}
+,{"stream_name":"stdout","time":16698.700529502,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/_utils.py\", line 785, in reraise\n"}
+,{"stream_name":"stdout","time":16698.700534134,"data":"       raise exception\n"}
+,{"stream_name":"stdout","time":16698.700538997,"data":"   torch.OutOfMemoryError: Caught OutOfMemoryError in replica 0 on device 0.\n"}
+,{"stream_name":"stdout","time":16698.700543619,"data":"   Original Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":16698.700560164,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/parallel/parallel_apply.py\", line 114, in _worker\n"}
+,{"stream_name":"stdout","time":16698.700564059,"data":"       output = module(*input, **kwargs)\n"}
+,{"stream_name":"stdout","time":16698.700567525,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":16698.700571232,"data":"       return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":16698.700574753,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":16698.700578222,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":16698.700581966,"data":"       return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":16698.700585285,"data":"     File \"/kaggle/tmp/kt/StyleTTS2/losses.py\", line 210, in forward\n"}
+,{"stream_name":"stdout","time":16698.70058884,"data":"       floss += torch.mean(torch.abs(er - eg))\n"}
+,{"stream_name":"stdout","time":16698.700592173,"data":"                           ~~~~~~~~~^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":16698.700604231,"data":"   torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 14.56 GiB of which 2.81 MiB is free. Including non-PyTorch memory, this process has 14.56 GiB memory in use. Of the allocated memory 13.36 GiB is allocated by PyTorch, and 598.01 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)\n"}
+,{"stream_name":"stdout","time":16698.702439333,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":16698.702464359,"data":"  File \"/kaggle/src/script.py\", line 96, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":16698.702469932,"data":"    t = time.time(); sh(f\"python train_second.py --config_path {K}/configs/run3.yml\", cwd=S, tail=25)\n"}
+,{"stream_name":"stdout","time":16698.702474249,"data":"                     ~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":16698.702478826,"data":"  File \"/kaggle/src/script.py\", line 23, in sh\n"}
+,{"stream_name":"stdout","time":16698.702483192,"data":"    if p.returncode: raise RuntimeError(f\"failed ({p.returncode}): {c[:120]}\\n\" + \"\\n\".join(out[-tail:]))\n"}
+,{"stream_name":"stdout","time":16698.702487651,"data":"                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":16698.702491565,"data":"RuntimeError: failed (1): python train_second.py --config_path /kaggle/tmp/kt/configs/run3.yml\n"}
+,{"stream_name":"stdout","time":16698.702495966,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":16698.702513298,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/parallel/data_parallel.py\", line 197, in forward\n"}
+,{"stream_name":"stdout","time":16698.702517333,"data":"    outputs = self.parallel_apply(replicas, inputs, module_kwargs)\n"}
+,{"stream_name":"stdout","time":16698.70252132,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/parallel/data_parallel.py\", line 214, in parallel_apply\n"}
+,{"stream_name":"stdout","time":16698.702525112,"data":"    return parallel_apply(\n"}
+,{"stream_name":"stdout","time":16698.70252912,"data":"        replicas, inputs, kwargs, self.device_ids[: len(replicas)]\n"}
+,{"stream_name":"stdout","time":16698.702542588,"data":"    )\n"}
+,{"stream_name":"stdout","time":16698.70254635,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/parallel/parallel_apply.py\", line 144, in parallel_apply\n"}
+,{"stream_name":"stdout","time":16698.702550462,"data":"    output.reraise()\n"}
+,{"stream_name":"stdout","time":16698.702553776,"data":"    ~~~~~~~~~~~~~~^^\n"}
+,{"stream_name":"stdout","time":16698.702557529,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/_utils.py\", line 785, in reraise\n"}
+,{"stream_name":"stdout","time":16698.702561677,"data":"    raise exception\n"}
+,{"stream_name":"stdout","time":16698.702564962,"data":"torch.OutOfMemoryError: Caught OutOfMemoryError in replica 0 on device 0.\n"}
+,{"stream_name":"stdout","time":16698.702569141,"data":"Original Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":16698.702572905,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/parallel/parallel_apply.py\", line 114, in _worker\n"}
+,{"stream_name":"stdout","time":16698.702576574,"data":"    output = module(*input, **kwargs)\n"}
+,{"stream_name":"stdout","time":16698.70257991,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":16698.702583736,"data":"    return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":16698.702587202,"data":"           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":16698.70259068,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":16698.702594283,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":16698.702597658,"data":"  File \"/kaggle/tmp/kt/StyleTTS2/losses.py\", line 210, in forward\n"}
+,{"stream_name":"stdout","time":16698.702602366,"data":"    floss += torch.mean(torch.abs(er - eg))\n"}
+,{"stream_name":"stdout","time":16698.702606046,"data":"                        ~~~~~~~~~^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":16698.70260954,"data":"torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 14.56 GiB of which 2.81 MiB is free. Including non-PyTorch memory, this process has 14.56 GiB memory in use. Of the allocated memory 13.36 GiB is allocated by PyTorch, and 598.01 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)\n"}
+,{"stream_name":"stdout","time":16698.702614414,"data":"\n"}
+,{"stream_name":"stdout","time":16698.702617768,"data":"[278.3 min] STEP ERROR: FAILED \n"}
+,{"stream_name":"stderr","time":16701.466543065,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":16701.466571034,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":16701.819885929,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":16701.819911751,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":16702.769487175,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":16703.408813805,"data":"[NbConvertApp] Writing 405216 bytes to __results__.html\n"}
+]
