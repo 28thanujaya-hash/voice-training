@@ -21,7 +21,7 @@ try:
     sh(f"cmake -S {M} -B {TMP}/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' && cmake --build {TMP}/mb -j4", tail=2)
     sh(f"python {M}/convert_misaki_lexicon.py --fetch {TMP}/lexc -o {TMP}/lex", tail=1)
     sh("git clone -q --depth 1 https://github.com/sahilmahendrakar/paradee", cwd=TMP)
-    sh("pip install -q --no-deps --ignore-requires-python 'kokoro==0.9.4' && pip install -q attrs loguru onnx onnxruntime", tail=2)
+    sh("pip install -q --no-deps --ignore-requires-python 'kokoro==0.9.4' && pip install -q attrs loguru onnx onnxruntime jiwer", tail=2)
     from huggingface_hub import hf_hub_download
     kc = hf_hub_download("hexgrad/Kokoro-82M", "config.json")
     step("tools installed", True)
@@ -45,14 +45,24 @@ try:
     phs = [l.replace(" | ", " ") for l in p.stdout.rstrip("\n").split("\n")]
     from transformers import pipeline as hfp
     asr = hfp("automatic-speech-recognition", "openai/whisper-large-v3-turbo", torch_dtype=torch.float16, device="cuda")
-    pieces = []; heard = []; tt = 0; au = 0
+    import jiwer, re as _re
+    norm = lambda t: " ".join(_re.sub(r"[^a-z' ]", " ", t.lower().replace("’", "'")).split()) or "x"
+    # 1. the teacher must be understood, or nothing after it can be
+    tw = []
+    for i, text in enumerate(["Hi! I'm Sam. Did you see the new Avengers film?", "Hmm, interesting. Tell me more about it."]):
+        a, _ = sf.read(f"{TMP}/p3/teacher_{i}.wav"); h = asr(a.astype(np.float32), generate_kwargs={"language": "en"})["text"].strip()
+        tw.append(jiwer.wer(norm(text), norm(h))); report.append(f"- teacher: “{text}” → heard “{h[:120]}”")
+    step("teacher is understood (Whisper)", max(tw) <= 0.3, f"word errors {[round(x, 2) for x in tw]}")
+    pieces = []; heard = []; tt = 0; au = 0; errs = []
     for (row, text), ph in zip(lines.items(), phs):
         ids = np.array([[0, *[vocab[c] for c in ph if c in vocab], 0]], np.int64)
         t = time.time(); y = sess.run(None, {"input_ids": ids, "speed": np.ones(1, np.float32), "voice": np.array([rows.index(row)], np.int64)})[0][0]; tt += time.time() - t; au += len(y) / 24000
         h = asr(y.astype(np.float32).copy(), generate_kwargs={"language": "en"})["text"].strip()
-        heard.append(f"- {row}: “{text}” → heard “{h}”"); pieces += [y, np.zeros(16800, np.float32)]
+        e = jiwer.wer(norm(text), norm(h)); errs.append(e)
+        heard.append(f"- {row}: “{text}” → heard “{h[:160]}” (word errors {e:.2f})"); pieces += [y, np.zeros(16800, np.float32)]
     sf.write(f"{TMP}/l.wav", np.clip(np.concatenate(pieces), -1, 1), 24000); sh(f"ffmpeg -loglevel error -y -i {TMP}/l.wav -b:a 64k {W}/run1_paradee_listen.mp3")
     step("the phone's way works (misaki-g2p → ONNX Runtime int8)", True, f"{au/tt:.1f}× real time on one CPU thread")
+    step("trained Paradee is understood (Whisper)", sum(e <= 0.3 for e in errs) >= 3, f"word errors {[round(e, 2) for e in errs]} (smoke run: needs 3 of 4 lines mostly right)")
     report += ["## What the trained Paradee file said (Whisper)", ""] + heard + [""]
 except Exception:
     tb = traceback.format_exc(); print(tb); step("ERROR", False); report += ["```", tb[-3000:], "```", ""]

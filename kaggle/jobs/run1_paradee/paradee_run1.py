@@ -40,8 +40,25 @@ def g2p(texts):
 phs = g2p(sents); log(f"{len(sents)} sentences → sounds")
 
 # ---- teacher readings (same intermediates as Paradee's gen_teacher.py), Sam → row 0, Maya → row 4
-try: km = KModel(repo_id="hexgrad/Kokoro-82M", config=A.kconfig, model=A.teacher)
-except TypeError: km = KModel(config=A.kconfig, model=A.teacher)   # older kokoro package
+# The retrained teacher comes from the kikiri recipe, which saves weight-normed layers in the newer "parametrizations"
+# form (…parametrizations.weight.original0/1). kokoro 0.9.4 expects …weight_g / …weight_v, and its loader silently skips
+# keys it doesn't know. So: strip "module.", rename, and load every part STRICTLY (a mismatch stops the run).
+def to_kokoro094(sd):
+    out = {}
+    for k, v in sd.items():
+        k = k[7:] if k.startswith("module.") else k
+        k = k.replace(".parametrizations.weight.original0", ".weight_g").replace(".parametrizations.weight.original1", ".weight_v")
+        out[k] = v
+    return out
+try: km = KModel(repo_id="hexgrad/Kokoro-82M", config=A.kconfig, model=False)
+except TypeError: km = KModel(config=A.kconfig, model=False)   # older kokoro package
+raw = torch.load(A.teacher, map_location="cpu", weights_only=False)
+for part in ("bert", "bert_encoder", "predictor", "text_encoder", "decoder"):
+    res = getattr(km, part).load_state_dict(to_kokoro094(raw[part]), strict=False)
+    bad_missing = [k for k in res.missing_keys if not re.search(r"\.norm\.(weight|bias)$", k)]   # Kokoro's own file omits these (neutral defaults)
+    if res.unexpected_keys or bad_missing:
+        raise RuntimeError(f"teacher {part}: unexpected {res.unexpected_keys[:5]} missing {bad_missing[:5]}")
+log("teacher weights loaded (every part checked)")
 km = km.to(DEV).eval()
 packs = {w: torch.load(p, map_location="cpu", weights_only=True) for w, p in PACK.items()}
 @torch.no_grad()
@@ -62,6 +79,8 @@ for who, row in (("sam", 0), ("maya", 4)):
         if not ps or len(ps) > 400: continue
         r = teach(ps, packs[who]); r.update(text=text, voice=row); rows.append(r); secs += len(r["audio"]) / 24000
 log(f"teacher read {len(rows)} sentences, {secs/60:.1f} min of audio in {time.time()-t:.0f} s")
+import soundfile as sf
+for i, r in enumerate([r for r in rows if r["text"] in ours[:2]]): sf.write(f"{A.out}/teacher_{i}.wav", r["audio"].numpy(), 24000)
 random.seed(0); held = [r for r in rows if r["text"] in ours[:2]]; train = [r for r in rows if r["text"] not in ours[:2]]
 
 # ---- released 1.3 weights, 8-row tables: Sam rows start from am_puck, Maya rows from af_heart
