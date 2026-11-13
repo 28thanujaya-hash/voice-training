@@ -27,13 +27,24 @@ jobs:
         with: { python-version: '3.12' }
       - name: Kaggle login check
         run: |
-          pip install -q --upgrade kaggle
+          pip install -q --upgrade kaggle six
           if [ -z "$KAGGLE_KEY" ] && [ -z "$KAGGLE_API_TOKEN" ]; then echo "::error::No Kaggle secret set"; exit 1; fi
           [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY
           [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
           kaggle --version
           kaggle kernels list --mine --page-size 5 || { echo "::error::Kaggle login failed"; exit 1; }
-          U="$KAGGLE_USERNAME"; [ -z "$U" ] && U=$(kaggle config view 2>/dev/null | awk -F': ' '/username/{print $2}')
+          U="$KAGGLE_USERNAME"
+          if [ -z "$U" ]; then U=$(python -c "
+          from kaggle.api.kaggle_api_extended import KaggleApi
+          a=KaggleApi(); a.authenticate()
+          u=a.get_config_value('username') or ''
+          if not u:
+              try: u=a.get_current_user().username
+              except Exception: pass
+          print(u or '')" 2>/dev/null | tail -1); fi
+          [ -z "$U" ] && U=$(kaggle config view 2>/dev/null | awk -F': ' '/username/{print $2}' | tr -d ' ')
+          echo "Kaggle user: ${U:-(unknown)}"
+          if [ -z "$U" ] || [ "$U" = "None" ]; then echo "::error::Could not find the Kaggle username"; exit 1; fi
           echo "KUSER=$U" >> $GITHUB_ENV
       - name: Start
         if: inputs.action == 'start'
