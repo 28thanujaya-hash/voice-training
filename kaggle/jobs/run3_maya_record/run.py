@@ -4,6 +4,7 @@
 # Option B v1: pauses heard in the acting correct the pause marks (… ,) in the training text -> text_b.
 # Outputs: clips/ (kept + rejected), manifest.csv, train.csv (kept: file|row|text_b), report.md, spot-listen pack (20 kept + 5 rejected).
 import csv, json, os, random, re, subprocess, time, traceback
+import sys; sys.path.insert(0, os.getcwd())
 from lines_data import LINES
 T0 = time.time(); LOG = []; OUT = "/kaggle/working"; os.makedirs(f"{OUT}/clips", exist_ok=True)
 def log(s):
