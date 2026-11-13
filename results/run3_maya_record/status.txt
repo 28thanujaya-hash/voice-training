@@ -1,1 +1,1 @@
-thusharajayawardane/se-run3-maya-record has status "KernelWorkerStatus.ERROR"
+thusharajayawardane/se-run3-maya-record has status "KernelWorkerStatus.COMPLETE"
