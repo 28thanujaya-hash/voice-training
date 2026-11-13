@@ -1,0 +1,22 @@
+[{"stream_name":"stdout","time":10.297300514,"data":"# Kaggle connection check\n"}
+,{"stream_name":"stdout","time":10.297345807,"data":"\n"}
+,{"stream_name":"stdout","time":10.297349757,"data":"GPU:\n"}
+,{"stream_name":"stdout","time":10.297352079,"data":"```\n"}
+,{"stream_name":"stdout","time":10.297354306999999,"data":"name, memory.total [MiB]\n"}
+,{"stream_name":"stdout","time":10.29735654,"data":"Tesla T4, 15360 MiB\n"}
+,{"stream_name":"stdout","time":10.297358802,"data":"Tesla T4, 15360 MiB\n"}
+,{"stream_name":"stdout","time":10.297360938,"data":"```\n"}
+,{"stream_name":"stdout","time":10.297363096,"data":"Python: 3.13.16\n"}
+,{"stream_name":"stdout","time":10.297365335,"data":"torch 2.11.0+cu130, cuda True, devices 2\n"}
+,{"stream_name":"stdout","time":10.297367729,"data":"Internet: OK (Hugging Face in 0.2 s)\n"}
+,{"stream_name":"stdout","time":10.297369958,"data":"Disk:\n"}
+,{"stream_name":"stdout","time":10.297372134,"data":"```\n"}
+,{"stream_name":"stdout","time":10.297374271,"data":"/dev/loop2       20G  104K   20G   1% /kaggle/working\n"}
+,{"stream_name":"stdout","time":10.297376641,"data":"```\n"}
+,{"stream_name":"stderr","time":15.417404082000001,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":15.417430031,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":15.708118311,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":15.70814216,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":16.490674679,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":17.507948042,"data":"[NbConvertApp] Writing 279798 bytes to __results__.html\n"}
+]
