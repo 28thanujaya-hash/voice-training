@@ -1,32 +1,32 @@
-WARNING:2026-11-13 09:22:48,242: [RANK 0] TensorBoard inference: no test sentences available (misaki/espeak not found?)
-INFO:2026-11-13 09:22:48,249: [RANK 0] Extracting pretrained baseline voicepack for TensorBoard...
-INFO:2026-11-13 09:22:54,382: [RANK 0]   acoustic_norm=0.3675  prosodic_norm=0.4536
-INFO:2026-11-13 09:23:15,019: [RANK 0] Validation loss: 0.711
+WARNING:2026-11-13 09:29:59,710: [RANK 0] TensorBoard inference: no test sentences available (misaki/espeak not found?)
+INFO:2026-11-13 09:29:59,716: [RANK 0] Extracting pretrained baseline voicepack for TensorBoard...
+INFO:2026-11-13 09:30:05,352: [RANK 0]   acoustic_norm=0.3708  prosodic_norm=0.4012
+INFO:2026-11-13 09:30:26,140: [RANK 0] Validation loss: 0.621
 
 
 
 
-INFO:2026-11-13 09:23:16,732: [RANK 0] Epoch 0: extracting voicepack for TensorBoard inference...
-INFO:2026-11-13 09:23:17,041: [RANK 0]   acoustic_norm=1.8438  prosodic_norm=0.4536
-INFO:2026-11-13 09:23:35,269: [RANK 0] Validation loss: 0.572
+INFO:2026-11-13 09:30:27,881: [RANK 0] Epoch 0: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 09:30:28,191: [RANK 0]   acoustic_norm=1.8858  prosodic_norm=0.4012
+INFO:2026-11-13 09:30:46,675: [RANK 0] Validation loss: 0.460
 
 
 
 
-INFO:2026-11-13 09:23:36,902: [RANK 0] Epoch 1: extracting voicepack for TensorBoard inference...
-INFO:2026-11-13 09:23:37,217: [RANK 0]   acoustic_norm=1.7013  prosodic_norm=0.4536
-WARNING:2026-11-13 09:24:16,472: TensorBoard inference: no test sentences available (misaki/espeak not found?)
-INFO:2026-11-13 09:24:16,479: Extracting Stage 1 baseline voicepack for TensorBoard...
-INFO:2026-11-13 09:24:18,027:   acoustic_norm=1.7013  prosodic_norm=1.7013
-INFO:2026-11-13 09:25:06,837: Validation loss: 0.634, Dur loss: 2.138, F0 loss: 4.985
+INFO:2026-11-13 09:30:48,308: [RANK 0] Epoch 1: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 09:30:48,636: [RANK 0]   acoustic_norm=1.8944  prosodic_norm=0.4012
+WARNING:2026-11-13 09:31:24,814: TensorBoard inference: no test sentences available (misaki/espeak not found?)
+INFO:2026-11-13 09:31:24,819: Extracting Stage 1 baseline voicepack for TensorBoard...
+INFO:2026-11-13 09:31:26,239:   acoustic_norm=1.8944  prosodic_norm=1.8944
+INFO:2026-11-13 09:32:11,556: Validation loss: 0.635, Dur loss: 2.442, F0 loss: 5.361
 
 
 
-INFO:2026-11-13 09:25:07,767: Epoch 0: extracting voicepack for TensorBoard inference...
-INFO:2026-11-13 09:25:08,181:   acoustic_norm=1.6789  prosodic_norm=3.0461
-INFO:2026-11-13 09:26:09,692: Validation loss: 0.539, Dur loss: 1.978, F0 loss: 4.212
+INFO:2026-11-13 09:32:12,522: Epoch 0: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 09:32:12,936:   acoustic_norm=1.8195  prosodic_norm=2.7024
+INFO:2026-11-13 09:33:13,737: Validation loss: 0.618, Dur loss: 2.504, F0 loss: 5.641
 
 
 
-INFO:2026-11-13 09:26:11,369: Epoch 1: extracting voicepack for TensorBoard inference...
-INFO:2026-11-13 09:26:11,788:   acoustic_norm=1.9230  prosodic_norm=1.5261
+INFO:2026-11-13 09:33:15,491: Epoch 1: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 09:33:15,983:   acoustic_norm=2.7473  prosodic_norm=3.0194
