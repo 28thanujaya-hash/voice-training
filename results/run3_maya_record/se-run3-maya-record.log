@@ -1,0 +1,11 @@
+[{"stream_name":"stderr","time":0.846775347,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":0.849080844,"data":"  File \"/kaggle/src/script.py\", line 9, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":0.849100865,"data":"    from lines_data import LINES\n"}
+,{"stream_name":"stderr","time":0.849104184,"data":"ModuleNotFoundError: No module named 'lines_data'\n"}
+,{"stream_name":"stderr","time":3.546723397,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":3.5467621620000003,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":3.933573796,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":3.9336149430000003,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":5.739197494,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6.869427634,"data":"[NbConvertApp] Writing 409069 bytes to __results__.html\n"}
+]
