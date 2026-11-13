@@ -1,0 +1,73 @@
+name: Kaggle run
+# Starts a Kaggle notebook (kaggle/jobs/<job>/run.py) on Kaggle's free GPU, or collects its results.
+# Secrets: KAGGLE_USERNAME + KAGGLE_KEY (kaggle.json), or KAGGLE_API_TOKEN (newer single token).
+# action=start  : pushes the job and returns (Kaggle keeps running for up to 12 h without us).
+# action=collect: waits until it has finished (max ~5 h here), downloads the outputs, and commits the small
+#                 ones (report, listening pack, logs) to results/<job>/ so Claude can read them.
+on:
+  workflow_dispatch:
+    inputs:
+      job: { description: 'job folder under kaggle/jobs', required: true, default: 'hello' }
+      action: { description: 'start or collect', required: true, default: 'start' }
+      gpu: { description: 'T4 (two T4s), P100, or none', required: false, default: 'T4' }
+permissions:
+  contents: write
+jobs:
+  kaggle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+      KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+      JOB: ${{ inputs.job }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Kaggle login check
+        run: |
+          pip install -q --upgrade kaggle
+          if [ -z "$KAGGLE_KEY" ] && [ -z "$KAGGLE_API_TOKEN" ]; then echo "::error::No Kaggle secret set"; exit 1; fi
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY
+          [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          kaggle --version
+          kaggle kernels list --mine --page-size 5 || { echo "::error::Kaggle login failed"; exit 1; }
+          U="$KAGGLE_USERNAME"; [ -z "$U" ] && U=$(kaggle config view 2>/dev/null | awk -F': ' '/username/{print $2}')
+          echo "KUSER=$U" >> $GITHUB_ENV
+      - name: Start
+        if: inputs.action == 'start'
+        run: |
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          SLUG="se-$(echo $JOB | tr '_' '-')"
+          mkdir -p /tmp/k && cp -r kaggle/jobs/$JOB/. /tmp/k/ && cp kaggle/common.py /tmp/k/ 2>/dev/null || true
+          GPU="${{ inputs.gpu }}"; EN=true; SHAPE=NvidiaTeslaT4
+          case "$GPU" in none) EN=false;; P100) SHAPE=NvidiaTeslaP100;; esac
+          python - <<PY
+          import json
+          m = {"id": "$KUSER/$SLUG", "title": "$SLUG", "code_file": "run.py", "language": "python",
+               "kernel_type": "script", "is_private": True, "enable_gpu": "$EN" == "true",
+               "enable_internet": True, "dataset_sources": [], "competition_sources": [], "kernel_sources": []}
+          if "$EN" == "true": m["machine_shape"] = "$SHAPE"
+          json.dump(m, open("/tmp/k/kernel-metadata.json", "w"), indent=1)
+          print(m)
+          PY
+          kaggle kernels push -p /tmp/k
+          sleep 20; kaggle kernels status "$KUSER/$SLUG" || true
+      - name: Collect
+        if: inputs.action == 'collect'
+        run: |
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          SLUG="se-$(echo $JOB | tr '_' '-')"
+          for i in $(seq 1 330); do
+            S=$(kaggle kernels status "$KUSER/$SLUG" 2>&1 | tail -1); echo "$(date +%H:%M) $S"
+            echo "$S" | grep -qiE 'complete|error|cancel' && break; sleep 60
+          done
+          mkdir -p /tmp/out && kaggle kernels output "$KUSER/$SLUG" -p /tmp/out || true
+          D=results/$JOB; rm -rf $D; mkdir -p $D
+          echo "$S" > $D/status.txt
+          # keep only small files (reports, logs, listening packs); big ones stay on Kaggle
+          find /tmp/out -type f -size -15M \( -name '*.md' -o -name '*.txt' -o -name '*.json' -o -name '*.log' -o -name '*.mp3' -o -name '*.csv' \) -exec cp {} $D/ \;
+          ls -la $D
+          git config user.name "kaggle-bot"; git config user.email "actions@github.com"
+          git add $D && git commit -m "Kaggle results: $JOB ($S) [skip ci]" && git push || echo "nothing new"
