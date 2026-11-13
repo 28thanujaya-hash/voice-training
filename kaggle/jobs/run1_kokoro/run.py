@@ -107,7 +107,9 @@ try:
     # the kokoro package imports misaki (Python <3.13 only) for its text pipeline; we pass sounds directly, so stub it
     import types
     class _Stub(types.ModuleType):
-        def __getattr__(self, n): return type(n, (), {})   # any name → a dummy class (only used in type hints)
+        def __getattr__(self, n):   # any public name → a dummy class (only used in type hints); internals stay missing
+            if n.startswith("__"): raise AttributeError(n)
+            return type(n, (), {})
     mk = _Stub("misaki"); mk.en = _Stub("misaki.en"); mk.espeak = _Stub("misaki.espeak")
     sys.modules.update({"misaki": mk, "misaki.en": mk.en, "misaki.espeak": mk.espeak})
     sh(f"pip install -q --no-deps -e {K}/kokoro", tail=2)
