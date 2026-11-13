@@ -45,8 +45,9 @@ try:
 
     def to_audio(ids):
         ids = ids.tolist()
+        if 128258 in ids: ids = ids[:ids.index(128258)]          # stop at the end-of-speech token (padding follows)
         if 128257 in ids: ids = ids[len(ids) - ids[::-1].index(128257):]
-        ids = [t for t in ids if t != 128258]
+        ids = [t for t in ids if t >= 128266]
         ids = ids[: len(ids) // 7 * 7]
         c = [t - 128266 for t in ids]
         l1, l2, l3 = [], [], []
@@ -59,23 +60,38 @@ try:
         codes = [torch.tensor(x, device=dev).unsqueeze(0) for x in (l1, l2, l3)]
         with torch.inference_mode(): return snac.decode(codes).squeeze().float().cpu().numpy()
 
-    def record(text, voice, n=2):
-        p = tok(f"{voice}: {text}", return_tensors="pt").input_ids
-        ids = torch.cat([torch.tensor([[128259]]), p, torch.tensor([[128009, 128260]])], 1).to(dev)
+    def record_batch(items, n=2):
+        """items: list of (text, voice). Returns, per item, n audio arrays (or None)."""
+        prompts = []
+        for text, voice in items:
+            p = tok(f"{voice}: {text}").input_ids
+            prompts.append([128259] + p + [128009, 128260])
+        L = max(map(len, prompts))
+        ids = torch.tensor([[128263] * (L - len(p)) + p for p in prompts], device=dev)
+        att = torch.tensor([[0] * (L - len(p)) + [1] * len(p) for p in prompts], device=dev)
         with torch.inference_mode():
-            g = model.generate(ids, attention_mask=torch.ones_like(ids), max_new_tokens=1600, do_sample=True,
+            g = model.generate(ids, attention_mask=att, max_new_tokens=1600, do_sample=True,
                                temperature=0.6, top_p=0.95, repetition_penalty=1.1, num_return_sequences=n,
                                eos_token_id=128258, pad_token_id=128263)
-        return [to_audio(x[ids.shape[1]:]) for x in g]
+        outs = [to_audio(x[L:]) for x in g]
+        return [outs[i * n:(i + 1) * n] for i in range(len(items))]
 
     log("loading Whisper large-v3-turbo")
     asr = pipeline("automatic-speech-recognition", "openai/whisper-large-v3-turbo", torch_dtype=torch.float16, device="cuda:1" if torch.cuda.device_count() > 1 else dev)
     meter = pyloudnorm.Meter(24000)
     norm = lambda s: re.sub(r"[^a-z' ]", " ", s.lower().replace("’", "'")).split()
+    NAMES = {"thenuka", "galle", "paati", "paati's", "madurai", "chennai", "colombo", "bruno", "maya", "sam", "jaffna", "kottu"}
+    plain = lambda s: [w for w in norm(s) if w not in NAMES]
 
     rows = []; gen_s = 0.0; audio_s = 0.0
+    B = 8; batches = [lines[i:i + B] for i in range(0, len(lines), B)]
+    results = {}
+    for b in batches:
+        t = time.time(); got = record_batch([(text, VOICE[who]) for _, who, _, text in b]); gen = time.time() - t; gen_s += gen
+        log(f"batch of {len(b)} lines × 2 takes in {gen:.0f} s")
+        for line, takes in zip(b, got): results[line[0]] = takes
     for lid, who, row, text in lines:
-        t = time.time(); takes = record(text, VOICE[who]); gen = time.time() - t; gen_s += gen
+        takes = results[lid]
         best = None
         for k, a in enumerate(takes):
             r = dict(id=lid, who=who, row=row, take=k + 1, text=text)
@@ -87,20 +103,21 @@ try:
             lufs = meter.integrated_loudness(a) if dur > 0.5 else -70
             a = pyloudnorm.normalize.loudness(a, lufs, -20.0) if lufs > -60 else a
             heard = asr(a.copy(), generate_kwargs={"language": "en"})["text"].strip()
-            wer = jiwer.wer(" ".join(norm(text)), " ".join(norm(heard)) or "x")
+            wer = jiwer.wer(" ".join(plain(text)), " ".join(plain(heard)) or "x")   # names aside (Whisper doesn't know them)
+            names_heard = [w for w in norm(text) if w in NAMES and w not in norm(heard)]
             wps = len(norm(text)) / max(dur - 0.2, 0.1)
             f = f"clips/{lid}_t{k+1}.wav"; sf.write(f"{OUT}/{f}", np.clip(a, -1, 1), 24000)
             ok = wer == 0 and peak < 0.99 and dur > 0.5
             why = [] if ok else [w for w, bad in (("words", wer > 0), ("clipped", peak >= 0.99), ("too short", dur <= 0.5)) if bad]
-            r.update(ok=ok, why=",".join(why), file=f, seconds=round(dur, 2), words_per_s=round(wps, 2), peak=round(peak, 3), lufs_before=round(lufs, 1), wer=round(wer, 3), heard=heard)
+            r.update(ok=ok, why=",".join(why), names_misheard=" ".join(names_heard), file=f, seconds=round(dur, 2), words_per_s=round(wps, 2), peak=round(peak, 3), lufs_before=round(lufs, 1), wer=round(wer, 3), heard=heard)
             rows.append(r)
             if ok and (best is None or abs(wps - 2.5) < abs(best["words_per_s"] - 2.5)): best = r
         if best: best["kept"] = True
-        log(f"{lid} {who}/{row}: {len(takes)} takes in {gen:.0f} s → {'kept take ' + str(best['take']) if best else 'NONE passed'}")
+        log(f"{lid} {who}/{row}: {'kept take ' + str(best['take']) if best else 'NONE passed'}")
 
     # manifest + report + listening file (kept takes, in order)
     import csv
-    keys = ["id", "who", "row", "take", "kept", "ok", "why", "seconds", "words_per_s", "wer", "peak", "lufs_before", "file", "text", "heard"]
+    keys = ["id", "who", "row", "take", "kept", "ok", "why", "names_misheard", "seconds", "words_per_s", "wer", "peak", "lufs_before", "file", "text", "heard"]
     with open(f"{OUT}/manifest.csv", "w", newline="") as fh:
         w = csv.DictWriter(fh, keys, extrasaction="ignore"); w.writeheader(); [w.writerow(r) for r in rows]
     kept = [r for r in rows if r.get("kept")]
@@ -113,11 +130,13 @@ try:
         sh(f"ffmpeg -loglevel error -y -i {OUT}/listen.wav -b:a 64k {OUT}/run1_orpheus_listen.mp3 && rm {OUT}/listen.wav")
     sam = [r["words_per_s"] for r in kept if r["who"] == "sam"]; maya = [r["words_per_s"] for r in kept if r["who"] == "maya"]
     report += [f"- Lines: {len(lines)} · takes made: {takes_n} · passed Gate 1 (words exact, no clipping): **{passed}** · lines with a kept take: **{len(kept)}/{len(lines)}**",
-               f"- Recording time: {gen_s/60:.1f} min for {audio_s/60:.1f} min of audio ({audio_s/max(gen_s,1):.2f}× real time on one T4)",
+               f"- Recording time: {gen_s/60:.1f} min for {audio_s/60:.1f} min of audio ({audio_s/max(gen_s,1):.2f}× real time on one T4, 8 lines × 2 takes per batch)",
                f"- Pace (words per second, kept): Sam {np.mean(sam) if sam else 0:.2f} · Maya {np.mean(maya) if maya else 0:.2f}",
                f"- GPU memory peak: {torch.cuda.max_memory_allocated(0)/1e9:.1f} GB (GPU 0)", "",
                "## Failed takes", ""]
     report += [f"- {r['id']} take {r.get('take')}: {r.get('why')} · heard: “{r.get('heard','')}”" for r in rows if not r.get("ok")] or ["(none)"]
+    report += ["", "## Names Whisper heard differently (not counted as failures)", ""]
+    report += [f"- {r['id']} take {r['take']}: {r['names_misheard']} · heard: “{r['heard']}”" for r in rows if r.get("names_misheard")] or ["(none)"]
     report += ["", "## Kept", "", "| id | who | row | s | words/s | text |", "|---|---|---|---|---|---|"]
     report += [f"| {r['id']} | {r['who']} | {r['row']} | {r['seconds']} | {r['words_per_s']} | {r['text']} |" for r in kept]
     report += ["", "RESULT: PASS (stage 1 code works)" if kept else "RESULT: FAIL (no clip passed)"]
