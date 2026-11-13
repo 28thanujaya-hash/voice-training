@@ -103,15 +103,17 @@ try:
 
     # ---- Kokoro-format weights + speak test lines (KModel only; misaki stubbed, we pass sounds directly)
     kw = {k: {("module." + a if not a.startswith("module.") else a): b for a, b in torch.load(c2[-1], map_location="cpu", weights_only=False)["net"][k].items()} for k in ["bert", "bert_encoder", "predictor", "text_encoder", "decoder"]}
-    torch.save(kw, f"{TMP}/kokoro_run1.pth")
+    torch.save(kw, f"{TMP}/kokoro_run1.pth"); shutil.copy(f"{TMP}/kokoro_run1.pth", f"{W}/kokoro_run1.pth")   # the teacher, for stage 3
     # the kokoro package imports misaki (Python <3.13 only) for its text pipeline; we pass sounds directly, so stub it
     import types
-    mk = types.ModuleType("misaki"); mk.en = types.ModuleType("misaki.en"); mk.espeak = types.ModuleType("misaki.espeak")
+    class _Stub(types.ModuleType):
+        def __getattr__(self, n): return type(n, (), {})   # any name → a dummy class (only used in type hints)
+    mk = _Stub("misaki"); mk.en = _Stub("misaki.en"); mk.espeak = _Stub("misaki.espeak")
     sys.modules.update({"misaki": mk, "misaki.en": mk.en, "misaki.espeak": mk.espeak})
     sh(f"pip install -q --no-deps -e {K}/kokoro", tail=2)
     sys.path.insert(0, f"{K}/kokoro")
     from kokoro.model import KModel
-    km = KModel(repo_id="hexgrad/Kokoro-82M", config=kc, model=f"{TMP}/kokoro_run1.pth").to("cuda").eval()
+    km = KModel(repo_id="hexgrad/Kokoro-82M", config=kc, model=f"{W}/kokoro_run1.pth").to("cuda").eval()
     import numpy as np, soundfile as sf
     tests = {"sam": ["Hey! How was your day? Did you watch the match?", "Oh no… I'm so sorry. That's really sad."],
              "maya": ["Hmm, interesting. Tell me more about it.", "Wait, really? I didn't know that!"]}
