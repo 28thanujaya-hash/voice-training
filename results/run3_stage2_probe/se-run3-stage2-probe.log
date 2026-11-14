@@ -1,103 +1,111 @@
-[{"stream_name":"stdout","time":1.5114239459999999,"data":"[  0.0 min] kept clips: 291 from /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-rejudge\n"}
-,{"stream_name":"stdout","time":1.5114787490000001,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
-,{"stream_name":"stdout","time":2.590180888,"data":"[  0.0 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
-,{"stream_name":"stdout","time":13.47847593,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
-,{"stream_name":"stdout","time":13.478508478,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
-,{"stream_name":"stdout","time":13.478512103,"data":"   [100%] Built target misaki-g2p-cli\n"}
-,{"stream_name":"stdout","time":13.47851476,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
-,{"stream_name":"stdout","time":16.188692846,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
-,{"stream_name":"stdout","time":16.188725431,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
-,{"stream_name":"stdout","time":16.237386308,"data":"[  0.3 min] STEP words → sounds (misaki-g2p): OK 291 lines\n"}
-,{"stream_name":"stdout","time":16.23741763,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
-,{"stream_name":"stdout","time":23.693960501,"data":"[  0.4 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile jiwer funasr modelscope\n"}
-,{"stream_name":"stdout","time":49.601274126,"data":"[  0.8 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
-,{"stream_name":"stdout","time":96.633166332,"data":"[  1.6 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
-,{"stream_name":"stderr","time":99.103428972,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
-,{"stream_name":"stdout","time":102.277600175,"data":"[  1.7 min] STEP recipe + Kokoro base ready: OK torch 2.11.0+cu130\n"}
-,{"stream_name":"stdout","time":121.719747182,"data":"[  2.0 min] stage-1 checkpoint: /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-teacher/kokoro_maya_v01_stage1.pth\n"}
-,{"stream_name":"stdout","time":121.719977097,"data":"[  2.0 min] $ python /kaggle/tmp/diag.py\n"}
-,{"stream_name":"stdout","time":159.291668501,"data":"   \n"}
-,{"stream_name":"stdout","time":159.291711676,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
-,{"stream_name":"stdout","time":159.291724287,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 10694.69it/s]\n"}
-,{"stream_name":"stdout","time":159.291736078,"data":"[  2.6 min] WavLM diagnosis (as installed): {'transformers': '5.20.2', 'class': 'WavLMModel', 'num_hidden_layers': 12, '2d': {'n': 13, 'shapes': ['(2, 49, 768)']}, '3d': 'error: Expected 2D (unbatched) or 3D (batched) input to conv1d, but got input of size: [2, 1, 1, 16000]'}\n"}
-,{"stream_name":"stdout","time":159.291776934,"data":"[  2.6 min] STEP WavLM returns 13 layers: OK transformers 5.20.2\n"}
-,{"stream_name":"stdout","time":159.292479391,"data":"[  2.6 min] losses.py: 6 WavLM calls; 6 lines patched\n"}
-,{"stream_name":"stdout","time":163.927855648,"data":"[  2.7 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop200_slm500.yml  (log: probe_crop200_slm500.txt)\n"}
-,{"stream_name":"stdout","time":231.22403944,"data":"       return self._call_impl(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":231.224089506,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":231.224096116,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
-,{"stream_name":"stdout","time":231.224101903,"data":"       return forward_call(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":231.224113067,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
-,{"stream_name":"stdout","time":231.224117042,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
-,{"stream_name":"stdout","time":231.224120344,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":231.224123684,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
-,{"stream_name":"stdout","time":231.224127217,"data":"       return F.conv1d(\n"}
-,{"stream_name":"stdout","time":231.224130357,"data":"              ~~~~~~~~^\n"}
-,{"stream_name":"stdout","time":231.224133527,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
-,{"stream_name":"stdout","time":231.224136897,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":231.224140158,"data":"       )\n"}
-,{"stream_name":"stdout","time":231.224158976,"data":"       ^\n"}
-,{"stream_name":"stdout","time":231.224165065,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 72] to have 9984 channels, but got 28416 channels instead\n"}
-,{"stream_name":"stdout","time":231.224380899,"data":"[  3.8 min] PROBE RESULT {'name': 'crop200_slm500', 'crop': 200, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [7.6, 6.52], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 1.1}\n"}
-,{"stream_name":"stdout","time":231.224394418,"data":"[  3.8 min] STEP probe crop200_slm500: FAILED 1 steps, peak GB [7.6, 6.52], None s/step, adversarial steps 0\n"}
-,{"stream_name":"stdout","time":231.961265016,"data":"[  3.9 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop200_slm250.yml  (log: probe_crop200_slm250.txt)\n"}
-,{"stream_name":"stdout","time":271.423296354,"data":"       return self._call_impl(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":271.423329518,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":271.423336076,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
-,{"stream_name":"stdout","time":271.423341807,"data":"       return forward_call(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":271.423347049,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
-,{"stream_name":"stdout","time":271.423353052,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
-,{"stream_name":"stdout","time":271.423358333,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":271.423363257,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
-,{"stream_name":"stdout","time":271.423377652,"data":"       return F.conv1d(\n"}
-,{"stream_name":"stdout","time":271.423382198,"data":"              ~~~~~~~~^\n"}
-,{"stream_name":"stdout","time":271.42338612,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
-,{"stream_name":"stdout","time":271.423389975,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":271.423393974,"data":"       )\n"}
-,{"stream_name":"stdout","time":271.423398132,"data":"       ^\n"}
-,{"stream_name":"stdout","time":271.423402162,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 73] to have 9984 channels, but got 28416 channels instead\n"}
-,{"stream_name":"stdout","time":271.423776464,"data":"[  4.5 min] PROBE RESULT {'name': 'crop200_slm250', 'crop': 200, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [7.62, 6.53], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.7}\n"}
-,{"stream_name":"stdout","time":271.423793003,"data":"[  4.5 min] STEP probe crop200_slm250: FAILED 1 steps, peak GB [7.62, 6.53], None s/step, adversarial steps 0\n"}
-,{"stream_name":"stdout","time":272.035223003,"data":"[  4.5 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop150_slm250.yml  (log: probe_crop150_slm250.txt)\n"}
-,{"stream_name":"stdout","time":311.983460761,"data":"       return self._call_impl(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":311.983508579,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":311.983514394,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
-,{"stream_name":"stdout","time":311.983519739,"data":"       return forward_call(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":311.983524833,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
-,{"stream_name":"stdout","time":311.983529811,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
-,{"stream_name":"stdout","time":311.98353461,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":311.983538864,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
-,{"stream_name":"stdout","time":311.98354406,"data":"       return F.conv1d(\n"}
-,{"stream_name":"stdout","time":311.983548749,"data":"              ~~~~~~~~^\n"}
-,{"stream_name":"stdout","time":311.983554013,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
-,{"stream_name":"stdout","time":311.983559616,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":311.983564701,"data":"       )\n"}
-,{"stream_name":"stdout","time":311.983568984,"data":"       ^\n"}
-,{"stream_name":"stdout","time":311.983574655,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 83] to have 9984 channels, but got 28416 channels instead\n"}
-,{"stream_name":"stdout","time":311.983890673,"data":"[  5.2 min] PROBE RESULT {'name': 'crop150_slm250', 'crop': 150, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [6.55, 5.4], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.7}\n"}
-,{"stream_name":"stdout","time":311.983957403,"data":"[  5.2 min] STEP probe crop150_slm250: FAILED 1 steps, peak GB [6.55, 5.4], None s/step, adversarial steps 0\n"}
-,{"stream_name":"stdout","time":312.600305349,"data":"[  5.2 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop120_slm250.yml  (log: probe_crop120_slm250.txt)\n"}
-,{"stream_name":"stdout","time":352.168191168,"data":"       return self._call_impl(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":352.168221194,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":352.168226368,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
-,{"stream_name":"stdout","time":352.168231239,"data":"       return forward_call(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":352.168235544,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
-,{"stream_name":"stdout","time":352.168244486,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
-,{"stream_name":"stdout","time":352.168247413,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":352.168250333,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
-,{"stream_name":"stdout","time":352.168253381,"data":"       return F.conv1d(\n"}
-,{"stream_name":"stdout","time":352.168261121,"data":"              ~~~~~~~~^\n"}
-,{"stream_name":"stdout","time":352.168264012,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
-,{"stream_name":"stdout","time":352.168266878,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":352.168270034,"data":"       )\n"}
-,{"stream_name":"stdout","time":352.168272739,"data":"       ^\n"}
-,{"stream_name":"stdout","time":352.168275538,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 62] to have 9984 channels, but got 28416 channels instead\n"}
-,{"stream_name":"stdout","time":352.168617245,"data":"[  5.9 min] PROBE RESULT {'name': 'crop120_slm250', 'crop': 120, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [5.77, 4.72], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.7}\n"}
-,{"stream_name":"stdout","time":352.168627024,"data":"[  5.9 min] STEP probe crop120_slm250: FAILED 1 steps, peak GB [5.77, 4.72], None s/step, adversarial steps 0\n"}
-,{"stream_name":"stderr","time":354.657657764,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
-,{"stream_name":"stderr","time":354.657691877,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
-,{"stream_name":"stderr","time":354.90443265,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
-,{"stream_name":"stderr","time":354.904460035,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
-,{"stream_name":"stderr","time":355.751732643,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
-,{"stream_name":"stderr","time":356.636897921,"data":"[NbConvertApp] Writing 352394 bytes to __results__.html\n"}
+[{"stream_name":"stdout","time":2.133331087,"data":"[  0.0 min] kept clips: 291 from /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-rejudge\n"}
+,{"stream_name":"stdout","time":2.133379745,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":5.0412281310000004,"data":"[  0.1 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":16.256226673,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
+,{"stream_name":"stdout","time":16.256250606,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":16.256255845,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":16.256263612,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":19.488878538,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
+,{"stream_name":"stdout","time":19.488905231,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":19.536496191,"data":"[  0.3 min] STEP words → sounds (misaki-g2p): OK 291 lines\n"}
+,{"stream_name":"stdout","time":19.536521868,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":27.646457281,"data":"[  0.4 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile jiwer funasr modelscope\n"}
+,{"stream_name":"stdout","time":55.825500192,"data":"[  0.9 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":108.530125828,"data":"[  1.8 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stderr","time":111.20614851,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":114.789222298,"data":"[  1.9 min] STEP recipe + Kokoro base ready: OK torch 2.11.0+cu130\n"}
+,{"stream_name":"stdout","time":135.634147811,"data":"[  2.2 min] stage-1 checkpoint: /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-teacher/kokoro_maya_v01_stage1.pth\n"}
+,{"stream_name":"stdout","time":135.63418033,"data":"[  2.2 min] $ pip install -q 'transformers==4.57.6'\n"}
+,{"stream_name":"stdout","time":154.502455272,"data":"   gradio 6.30.0 requires huggingface-hub\u003c3.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":154.502496554,"data":"   gradio 6.30.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stdout","time":154.502503141,"data":"   diffusers 0.42.0 requires huggingface-hub\u003c3.0,\u003e=1.32.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":154.502508597,"data":"[  2.6 min] $ python /kaggle/tmp/diag.py\n"}
+,{"stream_name":"stdout","time":222.260616814,"data":"   DIAG {\"transformers\": \"4.57.6\", \"class\": \"WavLMModel\", \"num_hidden_layers\": 12, \"eval\": [13, 13, 13, 13, 13, 13, 13, 13], \"train\": [13, 13, 13, 13, 13, 13, 13, 13]}\n"}
+,{"stream_name":"stdout","time":222.26068629,"data":"   WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stdout","time":222.260692801,"data":"   I0000 00:00:1794659273.762096     452 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":222.260696658,"data":"[  3.7 min] WavLM diagnosis (transformers 4.57.6, eval and train mode, 8 calls each): {'transformers': '4.57.6', 'class': 'WavLMModel', 'num_hidden_layers': 12, 'eval': [13, 13, 13, 13, 13, 13, 13, 13], 'train': [13, 13, 13, 13, 13, 13, 13, 13]}\n"}
+,{"stream_name":"stdout","time":222.260704998,"data":"[  3.7 min] STEP WavLM returns 13 layers in eval and train mode: OK transformers 4.57.6\n"}
+,{"stream_name":"stdout","time":222.261474002,"data":"[  3.7 min] losses.py: 6 WavLM calls; 6 lines patched\n"}
+,{"stream_name":"stdout","time":228.584031765,"data":"[  3.8 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop200_slm500.yml  (log: probe_crop200_slm500.txt)\n"}
+,{"stream_name":"stdout","time":466.134091303,"data":"   PROBE {\"where\": \"slm\", \"step\": 15, \"peak_gb\": [8.84, 6.55], \"t\": 1794659492.1204429, \"gen\": 5.428718566894531, \"slm\": 0.9306560754776001, \"dslm\": 0.0, \"disc\": 5.283528804779053}\n"}
+,{"stream_name":"stdout","time":466.134145447,"data":"   PROBE {\"where\": \"main\", \"step\": 16, \"peak_gb\": [8.84, 6.55], \"t\": 1794659498.488001, \"gen\": 4.9590253829956055, \"slm\": 0.9306560754776001, \"dslm\": 0.0, \"disc\": 5.2191362380981445}\n"}
+,{"stream_name":"stdout","time":466.134152677,"data":"   PROBE {\"where\": \"slm\", \"step\": 16, \"peak_gb\": [8.84, 6.55], \"t\": 1794659501.4449527, \"gen\": 4.9590253829956055, \"slm\": 0.929594874382019, \"dslm\": 0.0, \"disc\": 5.2191362380981445}\n"}
+,{"stream_name":"stdout","time":466.134158024,"data":"   PROBE {\"where\": \"main\", \"step\": 17, \"peak_gb\": [8.84, 6.55], \"t\": 1794659507.8296793, \"gen\": 5.286795139312744, \"slm\": 0.929594874382019, \"dslm\": 0.0, \"disc\": 5.110332489013672}\n"}
+,{"stream_name":"stdout","time":466.134163453,"data":"   PROBE {\"where\": \"slm\", \"step\": 17, \"peak_gb\": [8.84, 6.55], \"t\": 1794659510.7053795, \"gen\": 5.286795139312744, \"slm\": 0.929341733455658, \"dslm\": 0.0, \"disc\": 5.110332489013672}\n"}
+,{"stream_name":"stdout","time":466.134176605,"data":"   PROBE {\"where\": \"main\", \"step\": 18, \"peak_gb\": [8.84, 6.55], \"t\": 1794659517.1241841, \"gen\": 4.843373775482178, \"slm\": 0.929341733455658, \"dslm\": 0.0, \"disc\": 5.0771355628967285}\n"}
+,{"stream_name":"stdout","time":466.134181992,"data":"   PROBE {\"where\": \"slm\", \"step\": 18, \"peak_gb\": [8.84, 6.55], \"t\": 1794659520.3552468, \"gen\": 4.843373775482178, \"slm\": 0.929252028465271, \"dslm\": 0.0, \"disc\": 5.0771355628967285}\n"}
+,{"stream_name":"stdout","time":466.134187154,"data":"   PROBE {\"where\": \"main\", \"step\": 19, \"peak_gb\": [8.84, 6.55], \"t\": 1794659526.8275383, \"gen\": 4.835799217224121, \"slm\": 0.929252028465271, \"dslm\": 0.0, \"disc\": 4.993101119995117}\n"}
+,{"stream_name":"stdout","time":466.134192466,"data":"   PROBE {\"where\": \"slm\", \"step\": 19, \"peak_gb\": [8.84, 6.55], \"t\": 1794659530.0510569, \"gen\": 4.835799217224121, \"slm\": 0.9315792322158813, \"dslm\": 0.0, \"disc\": 4.993101119995117}\n"}
+,{"stream_name":"stdout","time":466.13419752,"data":"   PROBE {\"where\": \"main\", \"step\": 20, \"peak_gb\": [8.84, 6.55], \"t\": 1794659536.4694457, \"gen\": 5.005681991577148, \"slm\": 0.9315792322158813, \"dslm\": 0.0, \"disc\": 4.958561897277832}\n"}
+,{"stream_name":"stdout","time":466.134203132,"data":"   PROBE {\"where\": \"slm\", \"step\": 20, \"peak_gb\": [8.84, 6.55], \"t\": 1794659539.391346, \"gen\": 5.005681991577148, \"slm\": 0.9308872818946838, \"dslm\": 0.9357438683509827, \"disc\": 4.958561897277832}\n"}
+,{"stream_name":"stdout","time":466.134223561,"data":"   Epoch [1/1], Step [20/140], Loss: 0.38491, Disc Loss: 4.95856, Dur Loss: 1.01302, CE Loss: 0.06725, Norm Loss: 1.35104, F0 Loss: 4.95258, LM Loss: 1.80206, Gen Loss: 5.00568, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.93574, GenLM Loss: 0.93089\n"}
+,{"stream_name":"stdout","time":466.134227732,"data":"   INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.38491, Disc Loss: 4.95856, Dur Loss: 1.01302, CE Loss: 0.06725, Norm Loss: 1.35104, F0 Loss: 4.95258, LM Loss: 1.80206, Gen Loss: 5.00568, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.93574, GenLM Loss: 0.93089\n"}
+,{"stream_name":"stdout","time":466.134231406,"data":"   Time elasped: 195.9790599346161\n"}
+,{"stream_name":"stdout","time":466.134234754,"data":"   PROBE {\"where\": \"main\", \"step\": 21, \"peak_gb\": [8.84, 6.55], \"t\": 1794659545.9226675, \"gen\": 4.407517433166504, \"slm\": 0.9308872818946838, \"dslm\": 0.9357438683509827, \"disc\": 4.96293830871582}\n"}
+,{"stream_name":"stdout","time":466.134253775,"data":"[  7.7 min] last progress: INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.38491, Disc Loss: 4.95856, Dur Loss: 1.01302, CE Loss: 0.06725, Norm Loss: 1.35104, F0 Loss: 4.95258, LM Loss:\n"}
+,{"stream_name":"stdout","time":466.134719109,"data":"[  7.7 min] PROBE RESULT {'name': 'crop200_slm500', 'crop': 200, 'batch': 2, 'rc': 0, 'oom': False, 'steps': 21, 'peak': [8.84, 6.55], 's_per_step': 9.5, 'slm_steps': 20, 'gen_steps': 21, 'minutes': 4.0}\n"}
+,{"stream_name":"stdout","time":466.13473894,"data":"[  7.7 min] STEP probe crop200_slm500: OK 21 steps, peak GB [8.84, 6.55], 9.5 s/step, adversarial steps 20\n"}
+,{"stream_name":"stdout","time":466.797697272,"data":"[  7.8 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop200_slm250.yml  (log: probe_crop200_slm250.txt)\n"}
+,{"stream_name":"stdout","time":687.482933271,"data":"   PROBE {\"where\": \"slm\", \"step\": 15, \"peak_gb\": [8.81, 6.54], \"t\": 1794659713.0638368, \"gen\": 5.725323677062988, \"slm\": 0.9551753401756287, \"dslm\": 0.0, \"disc\": 5.093303680419922}\n"}
+,{"stream_name":"stdout","time":687.482978041,"data":"   PROBE {\"where\": \"main\", \"step\": 16, \"peak_gb\": [8.81, 6.54], \"t\": 1794659719.4581232, \"gen\": 5.272147178649902, \"slm\": 0.9551753401756287, \"dslm\": 0.0, \"disc\": 5.047389030456543}\n"}
+,{"stream_name":"stdout","time":687.482986338,"data":"   PROBE {\"where\": \"slm\", \"step\": 16, \"peak_gb\": [8.81, 6.54], \"t\": 1794659722.4566548, \"gen\": 5.272147178649902, \"slm\": 0.9559693932533264, \"dslm\": 0.0, \"disc\": 5.047389030456543}\n"}
+,{"stream_name":"stdout","time":687.482992739,"data":"   PROBE {\"where\": \"main\", \"step\": 17, \"peak_gb\": [8.81, 6.54], \"t\": 1794659728.8604279, \"gen\": 5.210464000701904, \"slm\": 0.9559693932533264, \"dslm\": 0.0, \"disc\": 5.001544952392578}\n"}
+,{"stream_name":"stdout","time":687.482998694,"data":"   PROBE {\"where\": \"slm\", \"step\": 17, \"peak_gb\": [8.81, 6.54], \"t\": 1794659732.039534, \"gen\": 5.210464000701904, \"slm\": 0.9552693963050842, \"dslm\": 0.0, \"disc\": 5.001544952392578}\n"}
+,{"stream_name":"stdout","time":687.483004571,"data":"   PROBE {\"where\": \"main\", \"step\": 18, \"peak_gb\": [8.81, 6.56], \"t\": 1794659738.5870857, \"gen\": 5.151393890380859, \"slm\": 0.9552693963050842, \"dslm\": 0.0, \"disc\": 4.895657539367676}\n"}
+,{"stream_name":"stdout","time":687.48301052,"data":"   PROBE {\"where\": \"slm\", \"step\": 18, \"peak_gb\": [8.81, 6.56], \"t\": 1794659741.4465446, \"gen\": 5.151393890380859, \"slm\": 0.9555433988571167, \"dslm\": 0.0, \"disc\": 4.895657539367676}\n"}
+,{"stream_name":"stdout","time":687.483032924,"data":"   PROBE {\"where\": \"main\", \"step\": 19, \"peak_gb\": [8.81, 6.56], \"t\": 1794659748.4452574, \"gen\": 4.612478733062744, \"slm\": 0.9555433988571167, \"dslm\": 0.0, \"disc\": 4.919820785522461}\n"}
+,{"stream_name":"stdout","time":687.483071851,"data":"   PROBE {\"where\": \"slm\", \"step\": 19, \"peak_gb\": [8.81, 6.56], \"t\": 1794659751.2880933, \"gen\": 4.612478733062744, \"slm\": 0.9559614062309265, \"dslm\": 0.0, \"disc\": 4.919820785522461}\n"}
+,{"stream_name":"stdout","time":687.483078467,"data":"   PROBE {\"where\": \"main\", \"step\": 20, \"peak_gb\": [8.81, 6.56], \"t\": 1794659757.660512, \"gen\": 4.548989295959473, \"slm\": 0.9559614062309265, \"dslm\": 0.0, \"disc\": 4.8571577072143555}\n"}
+,{"stream_name":"stdout","time":687.483084026,"data":"   PROBE {\"where\": \"slm\", \"step\": 20, \"peak_gb\": [8.81, 6.56], \"t\": 1794659760.6019065, \"gen\": 4.548989295959473, \"slm\": 0.953889787197113, \"dslm\": 0.9544947147369385, \"disc\": 4.8571577072143555}\n"}
+,{"stream_name":"stdout","time":687.483091852,"data":"   Epoch [1/1], Step [20/140], Loss: 0.41250, Disc Loss: 4.85716, Dur Loss: 0.96570, CE Loss: 0.06283, Norm Loss: 0.84469, F0 Loss: 4.91634, LM Loss: 1.68539, Gen Loss: 4.54899, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.95449, GenLM Loss: 0.95389\n"}
+,{"stream_name":"stdout","time":687.48309685,"data":"   INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.41250, Disc Loss: 4.85716, Dur Loss: 0.96570, CE Loss: 0.06283, Norm Loss: 0.84469, F0 Loss: 4.91634, LM Loss: 1.68539, Gen Loss: 4.54899, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.95449, GenLM Loss: 0.95389\n"}
+,{"stream_name":"stdout","time":687.483101618,"data":"   Time elasped: 192.55275225639343\n"}
+,{"stream_name":"stdout","time":687.483105594,"data":"   PROBE {\"where\": \"main\", \"step\": 21, \"peak_gb\": [8.81, 6.56], \"t\": 1794659767.271347, \"gen\": 4.232887268066406, \"slm\": 0.953889787197113, \"dslm\": 0.9544947147369385, \"disc\": 4.840210437774658}\n"}
+,{"stream_name":"stdout","time":687.483110529,"data":"[ 11.4 min] last progress: INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.41250, Disc Loss: 4.85716, Dur Loss: 0.96570, CE Loss: 0.06283, Norm Loss: 0.84469, F0 Loss: 4.91634, LM Loss:\n"}
+,{"stream_name":"stdout","time":687.483731274,"data":"[ 11.4 min] PROBE RESULT {'name': 'crop200_slm250', 'crop': 200, 'batch': 2, 'rc': 0, 'oom': False, 'steps': 21, 'peak': [8.81, 6.56], 's_per_step': 9.5, 'slm_steps': 20, 'gen_steps': 21, 'minutes': 3.7}\n"}
+,{"stream_name":"stdout","time":687.483743034,"data":"[ 11.4 min] STEP probe crop200_slm250: OK 21 steps, peak GB [8.81, 6.56], 9.5 s/step, adversarial steps 20\n"}
+,{"stream_name":"stdout","time":688.057830979,"data":"[ 11.4 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop150_slm250.yml  (log: probe_crop150_slm250.txt)\n"}
+,{"stream_name":"stdout","time":903.64525344,"data":"   PROBE {\"where\": \"slm\", \"step\": 15, \"peak_gb\": [7.77, 5.42], \"t\": 1794659931.2928147, \"gen\": 4.9486846923828125, \"slm\": 1.0394748449325562, \"dslm\": 0.0, \"disc\": 5.036581039428711}\n"}
+,{"stream_name":"stdout","time":903.645324582,"data":"   PROBE {\"where\": \"main\", \"step\": 16, \"peak_gb\": [7.77, 5.42], \"t\": 1794659937.6266887, \"gen\": 5.11035680770874, \"slm\": 1.0394748449325562, \"dslm\": 0.0, \"disc\": 4.956573486328125}\n"}
+,{"stream_name":"stdout","time":903.645332035,"data":"   PROBE {\"where\": \"slm\", \"step\": 16, \"peak_gb\": [7.77, 5.42], \"t\": 1794659940.4240866, \"gen\": 5.11035680770874, \"slm\": 1.0402759313583374, \"dslm\": 0.0, \"disc\": 4.956573486328125}\n"}
+,{"stream_name":"stdout","time":903.645337601,"data":"   PROBE {\"where\": \"main\", \"step\": 17, \"peak_gb\": [7.77, 5.42], \"t\": 1794659946.5509207, \"gen\": 4.93703031539917, \"slm\": 1.0402759313583374, \"dslm\": 0.0, \"disc\": 4.910251617431641}\n"}
+,{"stream_name":"stdout","time":903.645343113,"data":"   PROBE {\"where\": \"slm\", \"step\": 17, \"peak_gb\": [7.77, 5.42], \"t\": 1794659949.471583, \"gen\": 4.93703031539917, \"slm\": 1.0415769815444946, \"dslm\": 0.0, \"disc\": 4.910251617431641}\n"}
+,{"stream_name":"stdout","time":903.645360817,"data":"   PROBE {\"where\": \"main\", \"step\": 18, \"peak_gb\": [7.77, 5.42], \"t\": 1794659955.8426995, \"gen\": 4.417597770690918, \"slm\": 1.0415769815444946, \"dslm\": 0.0, \"disc\": 4.902065277099609}\n"}
+,{"stream_name":"stdout","time":903.645365561,"data":"   PROBE {\"where\": \"slm\", \"step\": 18, \"peak_gb\": [7.77, 5.42], \"t\": 1794659959.1436634, \"gen\": 4.417597770690918, \"slm\": 1.03856360912323, \"dslm\": 0.0, \"disc\": 4.902065277099609}\n"}
+,{"stream_name":"stdout","time":903.645369686,"data":"   PROBE {\"where\": \"main\", \"step\": 19, \"peak_gb\": [7.77, 5.42], \"t\": 1794659965.2837956, \"gen\": 5.118877410888672, \"slm\": 1.03856360912323, \"dslm\": 0.0, \"disc\": 4.806255340576172}\n"}
+,{"stream_name":"stdout","time":903.645373827,"data":"   PROBE {\"where\": \"slm\", \"step\": 19, \"peak_gb\": [7.77, 5.42], \"t\": 1794659968.0228612, \"gen\": 5.118877410888672, \"slm\": 1.039878249168396, \"dslm\": 0.0, \"disc\": 4.806255340576172}\n"}
+,{"stream_name":"stdout","time":903.645378582,"data":"   PROBE {\"where\": \"main\", \"step\": 20, \"peak_gb\": [7.77, 5.42], \"t\": 1794659974.4356363, \"gen\": 4.688610076904297, \"slm\": 1.039878249168396, \"dslm\": 0.0, \"disc\": 4.7695159912109375}\n"}
+,{"stream_name":"stdout","time":903.645383528,"data":"   PROBE {\"where\": \"slm\", \"step\": 20, \"peak_gb\": [7.77, 5.42], \"t\": 1794659977.2411542, \"gen\": 4.688610076904297, \"slm\": 1.0396127700805664, \"dslm\": 1.0367412567138672, \"disc\": 4.7695159912109375}\n"}
+,{"stream_name":"stdout","time":903.645389944,"data":"   Epoch [1/1], Step [20/140], Loss: 0.44252, Disc Loss: 4.76952, Dur Loss: 1.00377, CE Loss: 0.05971, Norm Loss: 1.74113, F0 Loss: 5.72136, LM Loss: 1.80579, Gen Loss: 4.68861, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 1.03674, GenLM Loss: 1.03961\n"}
+,{"stream_name":"stdout","time":903.645394371,"data":"   INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.44252, Disc Loss: 4.76952, Dur Loss: 1.00377, CE Loss: 0.05971, Norm Loss: 1.74113, F0 Loss: 5.72136, LM Loss: 1.80579, Gen Loss: 4.68861, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 1.03674, GenLM Loss: 1.03961\n"}
+,{"stream_name":"stdout","time":903.645398322,"data":"   Time elasped: 187.5621793270111\n"}
+,{"stream_name":"stdout","time":903.645401819,"data":"   PROBE {\"where\": \"main\", \"step\": 21, \"peak_gb\": [7.77, 5.42], \"t\": 1794659983.4336116, \"gen\": 4.884081840515137, \"slm\": 1.0396127700805664, \"dslm\": 1.0367412567138672, \"disc\": 4.73801851272583}\n"}
+,{"stream_name":"stdout","time":903.645407174,"data":"[ 15.0 min] last progress: INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.44252, Disc Loss: 4.76952, Dur Loss: 1.00377, CE Loss: 0.05971, Norm Loss: 1.74113, F0 Loss: 5.72136, LM Loss:\n"}
+,{"stream_name":"stdout","time":903.645991556,"data":"[ 15.0 min] PROBE RESULT {'name': 'crop150_slm250', 'crop': 150, 'batch': 2, 'rc': 0, 'oom': False, 'steps': 21, 'peak': [7.77, 5.42], 's_per_step': 9.3, 'slm_steps': 20, 'gen_steps': 21, 'minutes': 3.6}\n"}
+,{"stream_name":"stdout","time":903.646007231,"data":"[ 15.0 min] STEP probe crop150_slm250: OK 21 steps, peak GB [7.77, 5.42], 9.3 s/step, adversarial steps 20\n"}
+,{"stream_name":"stdout","time":904.219273133,"data":"[ 15.0 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop120_slm250.yml  (log: probe_crop120_slm250.txt)\n"}
+,{"stream_name":"stdout","time":1116.718627393,"data":"   PROBE {\"where\": \"slm\", \"step\": 15, \"peak_gb\": [6.98, 4.73], \"t\": 1794660145.0769577, \"gen\": 6.198701858520508, \"slm\": 0.8950209617614746, \"dslm\": 0.0, \"disc\": 5.282045364379883}\n"}
+,{"stream_name":"stdout","time":1116.718674839,"data":"   PROBE {\"where\": \"main\", \"step\": 16, \"peak_gb\": [6.98, 4.73], \"t\": 1794660151.0336058, \"gen\": 5.379096031188965, \"slm\": 0.8950209617614746, \"dslm\": 0.0, \"disc\": 5.2194743156433105}\n"}
+,{"stream_name":"stdout","time":1116.718688916,"data":"   PROBE {\"where\": \"slm\", \"step\": 16, \"peak_gb\": [6.98, 4.73], \"t\": 1794660153.8483508, \"gen\": 5.379096031188965, \"slm\": 0.8962540626525879, \"dslm\": 0.0, \"disc\": 5.2194743156433105}\n"}
+,{"stream_name":"stdout","time":1116.718692254,"data":"   PROBE {\"where\": \"main\", \"step\": 17, \"peak_gb\": [6.98, 4.73], \"t\": 1794660160.0545316, \"gen\": 4.960995674133301, \"slm\": 0.8962540626525879, \"dslm\": 0.0, \"disc\": 5.147333145141602}\n"}
+,{"stream_name":"stdout","time":1116.718695083,"data":"   PROBE {\"where\": \"slm\", \"step\": 17, \"peak_gb\": [6.98, 4.73], \"t\": 1794660162.9709625, \"gen\": 4.960995674133301, \"slm\": 0.8939502239227295, \"dslm\": 0.0, \"disc\": 5.147333145141602}\n"}
+,{"stream_name":"stdout","time":1116.718697825,"data":"   PROBE {\"where\": \"main\", \"step\": 18, \"peak_gb\": [6.98, 4.73], \"t\": 1794660169.271995, \"gen\": 4.610060214996338, \"slm\": 0.8939502239227295, \"dslm\": 0.0, \"disc\": 5.076033115386963}\n"}
+,{"stream_name":"stdout","time":1116.71870059,"data":"   PROBE {\"where\": \"slm\", \"step\": 18, \"peak_gb\": [6.98, 4.73], \"t\": 1794660172.106564, \"gen\": 4.610060214996338, \"slm\": 0.8939774036407471, \"dslm\": 0.0, \"disc\": 5.076033115386963}\n"}
+,{"stream_name":"stdout","time":1116.718703392,"data":"   PROBE {\"where\": \"main\", \"step\": 19, \"peak_gb\": [6.98, 4.73], \"t\": 1794660178.3034937, \"gen\": 4.790523529052734, \"slm\": 0.8939774036407471, \"dslm\": 0.0, \"disc\": 5.050091743469238}\n"}
+,{"stream_name":"stdout","time":1116.718706105,"data":"   PROBE {\"where\": \"slm\", \"step\": 19, \"peak_gb\": [6.98, 4.73], \"t\": 1794660181.2232845, \"gen\": 4.790523529052734, \"slm\": 0.8947778344154358, \"dslm\": 0.0, \"disc\": 5.050091743469238}\n"}
+,{"stream_name":"stdout","time":1116.718708853,"data":"   PROBE {\"where\": \"main\", \"step\": 20, \"peak_gb\": [6.98, 4.73], \"t\": 1794660187.2085829, \"gen\": 4.343630790710449, \"slm\": 0.8947778344154358, \"dslm\": 0.0, \"disc\": 4.975342750549316}\n"}
+,{"stream_name":"stdout","time":1116.71871174,"data":"   PROBE {\"where\": \"slm\", \"step\": 20, \"peak_gb\": [6.98, 4.73], \"t\": 1794660190.2402928, \"gen\": 4.343630790710449, \"slm\": 0.89412522315979, \"dslm\": 0.9033581614494324, \"disc\": 4.975342750549316}\n"}
+,{"stream_name":"stdout","time":1116.718721222,"data":"   Epoch [1/1], Step [20/140], Loss: 0.40951, Disc Loss: 4.97534, Dur Loss: 1.06049, CE Loss: 0.11116, Norm Loss: 0.72301, F0 Loss: 3.73626, LM Loss: 1.87019, Gen Loss: 4.34363, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.90336, GenLM Loss: 0.89413\n"}
+,{"stream_name":"stdout","time":1116.718738231,"data":"   INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.40951, Disc Loss: 4.97534, Dur Loss: 1.06049, CE Loss: 0.11116, Norm Loss: 0.72301, F0 Loss: 3.73626, LM Loss: 1.87019, Gen Loss: 4.34363, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.90336, GenLM Loss: 0.89413\n"}
+,{"stream_name":"stdout","time":1116.718742727,"data":"   Time elasped: 184.81350660324097\n"}
+,{"stream_name":"stdout","time":1116.718746134,"data":"   PROBE {\"where\": \"main\", \"step\": 21, \"peak_gb\": [6.98, 4.73], \"t\": 1794660196.5069823, \"gen\": 4.417057037353516, \"slm\": 0.89412522315979, \"dslm\": 0.9033581614494324, \"disc\": 4.999037742614746}\n"}
+,{"stream_name":"stdout","time":1116.718781044,"data":"[ 18.6 min] last progress: INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.40951, Disc Loss: 4.97534, Dur Loss: 1.06049, CE Loss: 0.11116, Norm Loss: 0.72301, F0 Loss: 3.73626, LM Loss:\n"}
+,{"stream_name":"stdout","time":1116.719491144,"data":"[ 18.6 min] PROBE RESULT {'name': 'crop120_slm250', 'crop': 120, 'batch': 2, 'rc': 0, 'oom': False, 'steps': 21, 'peak': [6.98, 4.73], 's_per_step': 9.1, 'slm_steps': 20, 'gen_steps': 21, 'minutes': 3.5}\n"}
+,{"stream_name":"stdout","time":1116.719512919,"data":"[ 18.6 min] STEP probe crop120_slm250: OK 21 steps, peak GB [6.98, 4.73], 9.1 s/step, adversarial steps 20\n"}
+,{"stream_name":"stderr","time":1119.525148609,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1119.52518775,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1119.944578298,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1119.944622169,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1120.989624182,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1121.614394105,"data":"[NbConvertApp] Writing 352818 bytes to __results__.html\n"}
 ]

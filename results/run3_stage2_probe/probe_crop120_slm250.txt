@@ -1,6 +1,12 @@
 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
-I0000 00:00:1794657436.753232     759 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+I0000 00:00:1794659988.628569    3001 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+WARNING:kokoro_tb_utils:Could not load German G2P for TensorBoard inference: No module named 'misaki'
+TensorBoard inference: no test sentences available (misaki/espeak not found?)
+WARNING:__main__:TensorBoard inference: no test sentences available (misaki/espeak not found?)
+Extracting Stage 1 baseline voicepack for TensorBoard...
+INFO:__main__:Extracting Stage 1 baseline voicepack for TensorBoard...
+  acoustic_norm=2.6730  prosodic_norm=2.6730
+INFO:__main__:  acoustic_norm=2.6730  prosodic_norm=2.6730
 Loading the first stage model at /kaggle/tmp/logs/crop120_slm250/first_stage.pth ...
 bert loaded
 bert_encoder loaded
@@ -10,11 +16,6 @@ text_encoder loaded
 style_encoder loaded
 text_aligner loaded
 pitch_extractor loaded
-Loading weights:   0%|          | 0/248 [00:00<?, ?it/s]Loading weights: 100%|██████████| 248/248 [00:00<00:00, 9363.55it/s]
-Could not load German G2P for TensorBoard inference: No module named 'misaki'
-TensorBoard inference: no test sentences available (misaki/espeak not found?)
-Extracting Stage 1 baseline voicepack for TensorBoard...
-  acoustic_norm=2.6730  prosodic_norm=2.6730
 BERT AdamW (
 Parameter Group 0
     amsgrad: False
@@ -53,56 +54,50 @@ Parameter Group 0
     min_lr: 0
     weight_decay: 0.0001
 )
-PROBE {"where": "main", "step": 1, "peak_gb": [5.77, 4.72], "t": 1794657465.9316657, "gen": 8.189252853393555, "slm": 0.0, "dslm": 0.0, "disc": 7.799746990203857}
-Traceback (most recent call last):
-  File "/kaggle/tmp/kt/StyleTTS2/train_second_probe.py", line 963, in <module>
-    main()
-    ~~~~^^
-  File "/usr/local/lib/python3.13/dist-packages/click/core.py", line 1631, in __call__
-    return self.main(*args, **kwargs)
-           ~~~~~~~~~^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/dist-packages/click/core.py", line 1552, in main
-    rv = self.invoke(ctx)
-  File "/usr/local/lib/python3.13/dist-packages/click/core.py", line 1415, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/dist-packages/click/core.py", line 910, in invoke
-    return callback(*args, **kwargs)
-  File "/kaggle/tmp/kt/StyleTTS2/train_second_probe.py", line 650, in main
-    slm_out = slmadv(
-        i,
-    ...<8 lines>...
-        ref if multispeaker else None,
-    )
-  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
-    return self._call_impl(*args, **kwargs)
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1790, in _call_impl
-    return forward_call(*args, **kwargs)
-  File "/kaggle/tmp/kt/StyleTTS2/Modules/slmadv.py", line 244, in forward
-    gen_loss = self.wl.generator(y_pred.squeeze())
-  File "/kaggle/tmp/kt/StyleTTS2/losses.py", line 218, in generator
-    y_df_hat_g = self.wd(y_rec_embeddings)
-  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
-    return self._call_impl(*args, **kwargs)
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1790, in _call_impl
-    return forward_call(*args, **kwargs)
-  File "/kaggle/tmp/kt/StyleTTS2/Modules/discriminators.py", line 259, in forward
-    x = self.pre(x)
-  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
-    return self._call_impl(*args, **kwargs)
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1790, in _call_impl
-    return forward_call(*args, **kwargs)
-  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py", line 375, in forward
-    return self._conv_forward(input, self.weight, self.bias)
-           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py", line 370, in _conv_forward
-    return F.conv1d(
-           ~~~~~~~~^
-        input, weight, bias, self.stride, self.padding, self.dilation, self.groups
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 62] to have 9984 channels, but got 28416 channels instead
+PROBE {"where": "main", "step": 1, "peak_gb": [5.8, 4.71], "t": 1794660013.757654, "gen": 8.881973266601562, "slm": 0.0, "dslm": 0.0, "disc": 8.226677894592285}
+PROBE {"where": "slm", "step": 1, "peak_gb": [5.8, 4.71], "t": 1794660016.7136142, "gen": 8.881973266601562, "slm": 0.9298308491706848, "dslm": 0.0, "disc": 8.226677894592285}
+PROBE {"where": "main", "step": 2, "peak_gb": [6.95, 4.72], "t": 1794660022.7274604, "gen": 7.895107269287109, "slm": 0.9298308491706848, "dslm": 0.0, "disc": 7.543765068054199}
+PROBE {"where": "slm", "step": 2, "peak_gb": [6.95, 4.72], "t": 1794660025.7148597, "gen": 7.895107269287109, "slm": 0.9301953911781311, "dslm": 0.0, "disc": 7.543765068054199}
+PROBE {"where": "main", "step": 3, "peak_gb": [6.95, 4.72], "t": 1794660032.407264, "gen": 7.386298179626465, "slm": 0.9301953911781311, "dslm": 0.0, "disc": 6.921091079711914}
+PROBE {"where": "slm", "step": 3, "peak_gb": [6.95, 4.72], "t": 1794660035.9584584, "gen": 7.386298179626465, "slm": 0.9289569854736328, "dslm": 0.0, "disc": 6.921091079711914}
+PROBE {"where": "main", "step": 4, "peak_gb": [6.95, 4.73], "t": 1794660042.3383162, "gen": 6.319101333618164, "slm": 0.9289569854736328, "dslm": 0.0, "disc": 6.302734375}
+PROBE {"where": "slm", "step": 4, "peak_gb": [6.95, 4.73], "t": 1794660045.2870066, "gen": 6.319101333618164, "slm": 0.9306290149688721, "dslm": 0.0, "disc": 6.302734375}
+PROBE {"where": "main", "step": 5, "peak_gb": [6.95, 4.73], "t": 1794660051.5028791, "gen": 4.947281837463379, "slm": 0.9306290149688721, "dslm": 0.0, "disc": 5.7964186668396}
+PROBE {"where": "slm", "step": 5, "peak_gb": [6.95, 4.73], "t": 1794660054.3261864, "gen": 4.947281837463379, "slm": 0.9309605360031128, "dslm": 0.0, "disc": 5.7964186668396}
+PROBE {"where": "main", "step": 6, "peak_gb": [6.95, 4.73], "t": 1794660060.275248, "gen": 4.7594428062438965, "slm": 0.9309605360031128, "dslm": 0.0, "disc": 5.672179222106934}
+PROBE {"where": "slm", "step": 6, "peak_gb": [6.95, 4.73], "t": 1794660063.2640681, "gen": 4.7594428062438965, "slm": 0.929368793964386, "dslm": 0.0, "disc": 5.672179222106934}
+PROBE {"where": "main", "step": 7, "peak_gb": [6.95, 4.73], "t": 1794660069.3867967, "gen": 4.417150497436523, "slm": 0.929368793964386, "dslm": 0.0, "disc": 5.919364929199219}
+PROBE {"where": "slm", "step": 7, "peak_gb": [6.95, 4.73], "t": 1794660072.2794662, "gen": 4.417150497436523, "slm": 0.9307389259338379, "dslm": 0.0, "disc": 5.919364929199219}
+PROBE {"where": "main", "step": 8, "peak_gb": [6.95, 4.73], "t": 1794660078.3433375, "gen": 5.010022163391113, "slm": 0.9307389259338379, "dslm": 0.0, "disc": 5.871033668518066}
+PROBE {"where": "slm", "step": 8, "peak_gb": [6.95, 4.73], "t": 1794660081.2539306, "gen": 5.010022163391113, "slm": 0.9300609827041626, "dslm": 0.0, "disc": 5.871033668518066}
+PROBE {"where": "main", "step": 9, "peak_gb": [6.95, 4.73], "t": 1794660087.8415444, "gen": 5.432077407836914, "slm": 0.9300609827041626, "dslm": 0.0, "disc": 5.619856834411621}
+PROBE {"where": "slm", "step": 9, "peak_gb": [6.95, 4.73], "t": 1794660090.859238, "gen": 5.432077407836914, "slm": 0.9312670826911926, "dslm": 0.0, "disc": 5.619856834411621}
+PROBE {"where": "main", "step": 10, "peak_gb": [6.95, 4.73], "t": 1794660097.2338104, "gen": 5.725990295410156, "slm": 0.9312670826911926, "dslm": 0.0, "disc": 5.469049453735352}
+PROBE {"where": "slm", "step": 10, "peak_gb": [6.95, 4.73], "t": 1794660100.129834, "gen": 5.725990295410156, "slm": 0.9308433532714844, "dslm": 0.9330064654350281, "disc": 5.469049453735352}
+Epoch [1/1], Step [10/140], Loss: 0.45600, Disc Loss: 5.46905, Dur Loss: 1.72210, CE Loss: 0.12110, Norm Loss: 0.88849, F0 Loss: 5.29264, LM Loss: 1.67434, Gen Loss: 5.72599, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.93301, GenLM Loss: 0.93084
+INFO:__main__:Epoch [1/1], Step [10/140], Loss: 0.45600, Disc Loss: 5.46905, Dur Loss: 1.72210, CE Loss: 0.12110, Norm Loss: 0.88849, F0 Loss: 5.29264, LM Loss: 1.67434, Gen Loss: 5.72599, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.93301, GenLM Loss: 0.93084
+Time elasped: 94.70346212387085
+PROBE {"where": "main", "step": 11, "peak_gb": [6.95, 4.73], "t": 1794660106.137833, "gen": 5.787166118621826, "slm": 0.9308433532714844, "dslm": 0.9330064654350281, "disc": 5.427411079406738}
+PROBE {"where": "slm", "step": 11, "peak_gb": [6.95, 4.73], "t": 1794660109.031815, "gen": 5.787166118621826, "slm": 0.8951122760772705, "dslm": 0.0, "disc": 5.427411079406738}
+PROBE {"where": "main", "step": 12, "peak_gb": [6.95, 4.73], "t": 1794660115.1340349, "gen": 6.2939982414245605, "slm": 0.8951122760772705, "dslm": 0.0, "disc": 5.457927703857422}
+PROBE {"where": "slm", "step": 12, "peak_gb": [6.95, 4.73], "t": 1794660117.882007, "gen": 6.2939982414245605, "slm": 0.8947988748550415, "dslm": 0.0, "disc": 5.457927703857422}
+PROBE {"where": "main", "step": 13, "peak_gb": [6.95, 4.73], "t": 1794660123.9067721, "gen": 5.787202835083008, "slm": 0.8947988748550415, "dslm": 0.0, "disc": 5.460587501525879}
+PROBE {"where": "slm", "step": 13, "peak_gb": [6.95, 4.73], "t": 1794660127.1851826, "gen": 5.787202835083008, "slm": 0.8957657814025879, "dslm": 0.0, "disc": 5.460587501525879}
+PROBE {"where": "main", "step": 14, "peak_gb": [6.98, 4.73], "t": 1794660133.2936869, "gen": 5.960879325866699, "slm": 0.8957657814025879, "dslm": 0.0, "disc": 5.36169958114624}
+PROBE {"where": "slm", "step": 14, "peak_gb": [6.98, 4.73], "t": 1794660136.2088418, "gen": 5.960879325866699, "slm": 0.8974241614341736, "dslm": 0.0, "disc": 5.36169958114624}
+PROBE {"where": "main", "step": 15, "peak_gb": [6.98, 4.73], "t": 1794660142.1213412, "gen": 6.198701858520508, "slm": 0.8974241614341736, "dslm": 0.0, "disc": 5.282045364379883}
+PROBE {"where": "slm", "step": 15, "peak_gb": [6.98, 4.73], "t": 1794660145.0769577, "gen": 6.198701858520508, "slm": 0.8950209617614746, "dslm": 0.0, "disc": 5.282045364379883}
+PROBE {"where": "main", "step": 16, "peak_gb": [6.98, 4.73], "t": 1794660151.0336058, "gen": 5.379096031188965, "slm": 0.8950209617614746, "dslm": 0.0, "disc": 5.2194743156433105}
+PROBE {"where": "slm", "step": 16, "peak_gb": [6.98, 4.73], "t": 1794660153.8483508, "gen": 5.379096031188965, "slm": 0.8962540626525879, "dslm": 0.0, "disc": 5.2194743156433105}
+PROBE {"where": "main", "step": 17, "peak_gb": [6.98, 4.73], "t": 1794660160.0545316, "gen": 4.960995674133301, "slm": 0.8962540626525879, "dslm": 0.0, "disc": 5.147333145141602}
+PROBE {"where": "slm", "step": 17, "peak_gb": [6.98, 4.73], "t": 1794660162.9709625, "gen": 4.960995674133301, "slm": 0.8939502239227295, "dslm": 0.0, "disc": 5.147333145141602}
+PROBE {"where": "main", "step": 18, "peak_gb": [6.98, 4.73], "t": 1794660169.271995, "gen": 4.610060214996338, "slm": 0.8939502239227295, "dslm": 0.0, "disc": 5.076033115386963}
+PROBE {"where": "slm", "step": 18, "peak_gb": [6.98, 4.73], "t": 1794660172.106564, "gen": 4.610060214996338, "slm": 0.8939774036407471, "dslm": 0.0, "disc": 5.076033115386963}
+PROBE {"where": "main", "step": 19, "peak_gb": [6.98, 4.73], "t": 1794660178.3034937, "gen": 4.790523529052734, "slm": 0.8939774036407471, "dslm": 0.0, "disc": 5.050091743469238}
+PROBE {"where": "slm", "step": 19, "peak_gb": [6.98, 4.73], "t": 1794660181.2232845, "gen": 4.790523529052734, "slm": 0.8947778344154358, "dslm": 0.0, "disc": 5.050091743469238}
+PROBE {"where": "main", "step": 20, "peak_gb": [6.98, 4.73], "t": 1794660187.2085829, "gen": 4.343630790710449, "slm": 0.8947778344154358, "dslm": 0.0, "disc": 4.975342750549316}
+PROBE {"where": "slm", "step": 20, "peak_gb": [6.98, 4.73], "t": 1794660190.2402928, "gen": 4.343630790710449, "slm": 0.89412522315979, "dslm": 0.9033581614494324, "disc": 4.975342750549316}
+Epoch [1/1], Step [20/140], Loss: 0.40951, Disc Loss: 4.97534, Dur Loss: 1.06049, CE Loss: 0.11116, Norm Loss: 0.72301, F0 Loss: 3.73626, LM Loss: 1.87019, Gen Loss: 4.34363, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.90336, GenLM Loss: 0.89413
+INFO:__main__:Epoch [1/1], Step [20/140], Loss: 0.40951, Disc Loss: 4.97534, Dur Loss: 1.06049, CE Loss: 0.11116, Norm Loss: 0.72301, F0 Loss: 3.73626, LM Loss: 1.87019, Gen Loss: 4.34363, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.90336, GenLM Loss: 0.89413
+Time elasped: 184.81350660324097
+PROBE {"where": "main", "step": 21, "peak_gb": [6.98, 4.73], "t": 1794660196.5069823, "gen": 4.417057037353516, "slm": 0.89412522315979, "dslm": 0.9033581614494324, "disc": 4.999037742614746}
