@@ -1,0 +1,84 @@
+[{"stream_name":"stdout","time":0.736895658,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6'\n"}
+,{"stream_name":"stdout","time":18.212245278,"data":"   gradio 6.30.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stdout","time":18.212285783,"data":"   diffusers 0.42.0 requires huggingface-hub\u003c3.0,\u003e=1.32.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":18.971898838,"data":"[  0.3 min] kept clips: 291 from /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-rejudge\n"}
+,{"stream_name":"stdout","time":18.971933953,"data":"[  0.3 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":20.043622826,"data":"[  0.3 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":30.271262717,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
+,{"stream_name":"stdout","time":30.271290861,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":30.271296786,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":30.271303226,"data":"[  0.5 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":33.337143126,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
+,{"stream_name":"stdout","time":33.33717621,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":33.385206746,"data":"[  0.5 min] STEP words → sounds (misaki-g2p): OK 291 lines\n"}
+,{"stream_name":"stdout","time":33.385256326,"data":"[  0.5 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":40.833107005,"data":"[  0.7 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile jiwer funasr modelscope\n"}
+,{"stream_name":"stdout","time":66.473049215,"data":"[  1.1 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":113.048076513,"data":"[  1.9 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stdout","time":117.262102758,"data":"[  1.9 min] STEP recipe + Kokoro base ready: OK torch 2.11.0+cu130\n"}
+,{"stream_name":"stdout","time":144.284705429,"data":"[  2.4 min] $ python train_second_part.py --config_path /kaggle/tmp/kt/configs/s2.yml  (log: train_second_log.txt)\n"}
+,{"stream_name":"stdout","time":1608.949806515,"data":"   Time elasped: 702.5134525299072\n"}
+,{"stream_name":"stdout","time":1608.949870186,"data":"   Time elasped: 801.0394949913025\n"}
+,{"stream_name":"stdout","time":1608.949876949,"data":"   Time elasped: 900.5757250785828\n"}
+,{"stream_name":"stdout","time":1608.949882236,"data":"   Time elasped: 1000.4286346435547\n"}
+,{"stream_name":"stdout","time":1608.949887976,"data":"   Time elasped: 1099.9448330402374\n"}
+,{"stream_name":"stdout","time":1608.949893366,"data":"   Time elasped: 1199.1279356479645\n"}
+,{"stream_name":"stdout","time":1608.949898748,"data":"   Time elasped: 1298.870127916336\n"}
+,{"stream_name":"stdout","time":1608.949916578,"data":"   Time elasped: 1397.9404447078705\n"}
+,{"stream_name":"stdout","time":1608.949921114,"data":"   Epochs: 2\n"}
+,{"stream_name":"stdout","time":1608.949925461,"data":"   \n"}
+,{"stream_name":"stdout","time":1608.949929297,"data":"   \n"}
+,{"stream_name":"stdout","time":1608.949932824,"data":"   \n"}
+,{"stream_name":"stdout","time":1608.94993696,"data":"   \n"}
+,{"stream_name":"stdout","time":1608.949940558,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":1608.949944766,"data":"   PEAK_GB [9.02, 6.56] saved /kaggle/tmp/logs/s2/epoch_2nd_00001.pth\n"}
+,{"stream_name":"stdout","time":1608.950047062,"data":"[ 26.8 min] last progress: INFO:__main__:Epoch [2/99], Step [140/140], Loss: 0.35441, Disc Loss: 3.97619, Dur Loss: 0.61944, CE Loss: 0.03506, Norm Loss: 0.52817, F0 Loss: 2.56750, LM Los\n"}
+,{"stream_name":"stdout","time":1608.950373451,"data":"[ 26.8 min] STEP resume loaded every module completely: OK 13 modules, 0 with missing/unexpected keys\n"}
+,{"stream_name":"stdout","time":1608.952075426,"data":"[ 26.8 min] STEP stage 2 part 3 (1 epochs): OK 24.4 min; peaks ['PEAK_GB [9.02, 6.56] saved /kaggle/tmp/logs/s2/epoch_2nd_00001.pth']; log lines with GenLM\u003e0: 28/28, Gen\u003e0: 28/28\n"}
+,{"stream_name":"stdout","time":1614.735792886,"data":"[ 26.9 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00001.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-run3-ma\n"}
+,{"stream_name":"stdout","time":1630.282736409,"data":"   \n"}
+,{"stream_name":"stdout","time":1630.282829771,"data":"   Saved voicepack: /kaggle/tmp/vp_normal.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":1630.282834809,"data":"[ 27.2 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00001.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-run3-ma\n"}
+,{"stream_name":"stdout","time":1638.970900767,"data":"   \n"}
+,{"stream_name":"stdout","time":1638.970946691,"data":"   Saved voicepack: /kaggle/tmp/vp_bright.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":1638.970952213,"data":"[ 27.3 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00001.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-run3-ma\n"}
+,{"stream_name":"stdout","time":1647.62971376,"data":"   \n"}
+,{"stream_name":"stdout","time":1647.629770997,"data":"   Saved voicepack: /kaggle/tmp/vp_low.pt (511.5 KB)\n"}
+,{"stream_name":"stdout","time":1647.629800731,"data":"[ 27.4 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00001.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-run3-ma\n"}
+,{"stream_name":"stdout","time":1656.436519904,"data":"   \n"}
+,{"stream_name":"stdout","time":1656.436566893,"data":"   Saved voicepack: /kaggle/tmp/vp_tense.pt (511.5 KB)\n"}
+,{"stream_name":"stdout","time":1656.436875434,"data":"[ 27.6 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
+,{"stream_name":"stderr","time":1669.200595329,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":1669.20064058,"data":"I0000 00:00:1794690756.626404       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":1680.686977797,"data":"[ 28.0 min] $ python scripts/extract_voicepack.py --model /kaggle/input/notebooks/thusharajayawardane/se-run3-s2-p1/s2_part1.pth --style-encoder-model /kaggle/input/notebooks\n"}
+,{"stream_name":"stdout","time":1690.268101111,"data":"   \n"}
+,{"stream_name":"stdout","time":1690.26815764,"data":"   Saved voicepack: /kaggle/tmp/vpp_normal.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":1690.268184866,"data":"[ 28.2 min] $ python scripts/extract_voicepack.py --model /kaggle/input/notebooks/thusharajayawardane/se-run3-s2-p1/s2_part1.pth --style-encoder-model /kaggle/input/notebooks\n"}
+,{"stream_name":"stdout","time":1698.53868007,"data":"   \n"}
+,{"stream_name":"stdout","time":1698.538721374,"data":"   Saved voicepack: /kaggle/tmp/vpp_bright.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":1698.538756471,"data":"[ 28.3 min] $ python scripts/extract_voicepack.py --model /kaggle/input/notebooks/thusharajayawardane/se-run3-s2-p1/s2_part1.pth --style-encoder-model /kaggle/input/notebooks\n"}
+,{"stream_name":"stdout","time":1706.857673432,"data":"   \n"}
+,{"stream_name":"stdout","time":1706.85771426,"data":"   Saved voicepack: /kaggle/tmp/vpp_low.pt (511.5 KB)\n"}
+,{"stream_name":"stdout","time":1706.85772161,"data":"[ 28.4 min] $ python scripts/extract_voicepack.py --model /kaggle/input/notebooks/thusharajayawardane/se-run3-s2-p1/s2_part1.pth --style-encoder-model /kaggle/input/notebooks\n"}
+,{"stream_name":"stdout","time":1715.10389175,"data":"   \n"}
+,{"stream_name":"stdout","time":1715.103929269,"data":"   Saved voicepack: /kaggle/tmp/vpp_tense.pt (511.6 KB)\n"}
+,{"stream_name":"stderr","time":1716.442396725,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":1728.065554807,"data":"Device set to use cuda\n"}
+,{"stream_name":"stdout","time":1729.039322623,"data":"Downloading: \"https://github.com/tarepan/SpeechMOS/zipball/v1.2.0\" to /root/.cache/torch/hub/v1.2.0.zip\n"}
+,{"stream_name":"stderr","time":1729.421515353,"data":"/usr/local/lib/python3.13/dist-packages/torch/nn/utils/weight_norm.py:144: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.\n"}
+,{"stream_name":"stderr","time":1729.421544502,"data":"  WeightNorm.apply(module, name, dim)\n"}
+,{"stream_name":"stdout","time":1729.959783851,"data":"Downloading: \"https://github.com/tarepan/SpeechMOS/releases/download/v1.0.0/utmos22_strong_step7459_v1.pt\" to /root/.cache/torch/hub/checkpoints/utmos22_strong_step7459_v1.pt\n"}
+,{"stream_name":"stderr","time":1731.790755593,"data":"\r  0%|          | 0.00/392M [00:00\u003c?, ?B/s]\r  4%|▍         | 14.8M/392M [00:00\u003c00:02, 154MB/s]\r  9%|▊         | 33.9M/392M [00:00\u003c00:02, 181MB/s]\r 15%|█▌        | 60.1M/392M [00:00\u003c00:01, 224MB/s]\r 21%|██        | 81.5M/392M [00:00\u003c00:01, 220MB/s]\r 26%|██▌       | 102M/392M [00:00\u003c00:01, 214MB/s] \r 34%|███▎      | 132M/392M [00:00\u003c00:01, 245MB/s]\r 43%|████▎     | 170M/392M [00:00\u003c00:00, 296MB/s]\r 51%|█████     | 199M/392M [00:00\u003c00:00, 228MB/s]\r 62%|██████▏   | 243M/392M [00:01\u003c00:00, 287MB/s]\r 70%|██████▉   | 273M/392M [00:01\u003c00:00, 293MB/s]\r 77%|███████▋  | 303M/392M [00:01\u003c00:00, 253MB/s]\r 84%|████████▍ | 329M/392M [00:01\u003c00:00, 248MB/s]\r 90%|█████████ | 354M/392M [00:01\u003c00:00, 249MB/s]\r 97%|█████████▋| 381M/392M [00:01\u003c00:00, 258MB/s]\r100%|██████████| 392M/392M [00:01\u003c00:00, 249MB/s]\n"}
+,{"stream_name":"stderr","time":1753.859546037,"data":"/usr/local/lib/python3.13/dist-packages/torch/nn/functional.py:6409: UserWarning: Support for mismatched key_padding_mask and attn_mask is deprecated. Use same type for both instead.\n"}
+,{"stream_name":"stderr","time":1753.859613566,"data":"  key_padding_mask = _canonical_mask(\n"}
+,{"stream_name":"stderr","time":1756.540605294,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":1763.876066884,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":1780.002207367,"data":"[ 29.7 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/l.wav -b:a 64k /kaggle/working/s2_part3_listen.mp3\n"}
+,{"stream_name":"stdout","time":1781.124499758,"data":"[ 29.7 min] STEP quick check + listening pack (15 clips): OK \n"}
+,{"stream_name":"stderr","time":1786.554638365,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1786.554670812,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1786.802376355,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1786.80240334,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1787.698138163,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1788.327176434,"data":"[NbConvertApp] Writing 391129 bytes to __results__.html\n"}
+]
