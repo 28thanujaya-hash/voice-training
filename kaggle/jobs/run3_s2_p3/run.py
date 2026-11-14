@@ -104,10 +104,19 @@ try:
 
     from part import PART
     EPOCHS_PER_PART = 1   # part 1 took >4 h for 2 epochs: 1 epoch per job keeps jobs short
-    report[0] = f"# Run 3 · stage 2, part {PART} ({EPOCHS_PER_PART} epoch, resumed from part {PART-1})"
+    report[0] = f"# Run 3 · stage 2, part {PART} ({EPOCHS_PER_PART} epoch, resumed from part 1 with the loader fix)"
     st1 = glob.glob("/kaggle/input/**/kokoro_maya_v01_stage1.pth", recursive=True)[0]
-    prev = glob.glob(f"/kaggle/input/**/s2_part{PART-1}.pth", recursive=True) if PART > 1 else []
-    if PART > 1 and not prev: raise RuntimeError(f"part {PART-1} checkpoint not found")
+    PREV = 1   # part 2 was broken by the resume bug (keys with "module." silently not loaded) -> part 3 continues from part 1
+    prev = glob.glob(f"/kaggle/input/**/s2_part{PREV}.pth", recursive=True) if PART > 1 else []
+    if PART > 1 and not prev: raise RuntimeError(f"part {PREV} checkpoint not found")
+    # resume fix: kikiri's load_checkpoint uses strict=False, but stage-2 checkpoints are saved from DataParallel ("module." keys)
+    msrc = open(f"{S}/models.py").read(); la = "            model[key].load_state_dict(params[key], strict=False)\n"
+    assert msrc.count(la) == 1, "loader line not found"
+    open(f"{S}/models.py", "w").write(msrc.replace(la, """            _sd = {(k[7:] if k.startswith("module.") else k): v for k, v in params[key].items()}
+            _tgt = model[key].module if hasattr(model[key], "module") else model[key]
+            _res = _tgt.load_state_dict(_sd, strict=False)
+            print("LOADCHECK %s missing %d unexpected %d" % (key, len(_res.missing_keys), len(_res.unexpected_keys)), flush=True)
+"""))
     ld = f"{TMP}/logs/s2"; os.makedirs(ld, exist_ok=True); shutil.copy(st1, f"{ld}/first_stage.pth")
     cfg.update(epochs=99, epochs_2nd=99, log_dir=ld, save_freq=1, max_len=200, batch_size=2)
     cfg["loss_params"]["joint_epoch"] = 0
@@ -125,6 +134,9 @@ try:
     open(f"{S}/train_second_part.py", "w").write(tsrc)
     t = time.time(); rc = sh_log(f"python train_second_part.py --config_path {K}/configs/s2.yml", S, f"{W}/train_second_log.txt")
     lg = open(f"{W}/train_second_log.txt").read()
+    lc = [l for l in lg.splitlines() if l.startswith("LOADCHECK")]; bad = [l for l in lc if not l.endswith("missing 0 unexpected 0")]
+    report += ["Resume load check:", "```", *lc, "```", ""]
+    step("resume loaded every module completely", bool(lc) and not bad, f"{len(lc)} modules, {len(bad)} with missing/unexpected keys")
     c2 = sorted(glob.glob(f"{ld}/epoch_2nd_*.pth"), key=os.path.getmtime)
     peaks = [l for l in lg.splitlines() if l.startswith("PEAK_GB")]
     ep = [l for l in lg.splitlines() if "Epoch [" in l]
@@ -161,7 +173,7 @@ try:
         torch.save(kwp, f"{TMP}/prev.pth")
         for row in ROWS:
             sh(f"python scripts/extract_voicepack.py --model {prev[0]} --style-encoder-model {st1} --audio-dir {TMP}/by/{row} --output {TMP}/vpp_{row}.pt --device cuda", cwd=K, tail=2)
-        models[f"stage 2 part {PART-1}"] = (KModel(repo_id="hexgrad/Kokoro-82M", config=kc, model=f"{TMP}/prev.pth").to("cuda").eval(),
+        models[f"stage 2 part {PREV}"] = (KModel(repo_id="hexgrad/Kokoro-82M", config=kc, model=f"{TMP}/prev.pth").to("cuda").eval(),
                                             {r: torch.load(f"{TMP}/vpp_{r}.pt", map_location="cpu", weights_only=True) for r in ROWS})
     byfile = {os.path.basename(r["file"]): r for r in rows}
     VAL = [byfile[l.split("|")[0]] for l in val]
