@@ -1,0 +1,401 @@
+id,row,kind,who,text,heard,bad,n,mos,spk,row_guess,secs
+mtn01,normal,lesson,teacher,Hi! You must be new in this class.,"Hi, you must be new in this class.",0,8,4.07,0.96,normal,3.55
+mtn01,normal,lesson,baseline,Hi! You must be new in this class.,"Hi, you must be new in this class.",0,8,4.4,0.859,bright,2.4
+mtn02,normal,lesson,teacher,Your English is good!,Your English is good.,0,4,3.82,0.893,tense,2.52
+mtn02,normal,lesson,baseline,Your English is good!,Your English is good.,0,4,4.42,0.832,normal,1.82
+mtn03,normal,lesson,teacher,You look tired.,You look tired.,0,3,3.46,0.805,normal,2.2
+mtn03,normal,lesson,baseline,You look tired.,You look tired.,0,3,4.42,0.811,normal,1.68
+mtn04,normal,lesson,teacher,Long time no see!,Long time no see.,0,4,3.86,0.945,tense,2.6
+mtn04,normal,lesson,baseline,Long time no see!,Long time no see.,0,4,4.49,0.807,normal,1.8
+mtn05,normal,lesson,teacher,Late again?,"Later then,",2,2,3.58,0.894,tense,1.93
+mtn05,normal,lesson,baseline,Late again?,Late again.,0,2,4.35,0.879,tense,1.52
+mtn06,normal,lesson,teacher,What movies do you love? Thor? Batman? Mad Max? What else?,What movies do you love? Thor? Batman? Mad Max? What else?,0,11,3.73,0.948,normal,6.78
+mtn06,normal,lesson,baseline,What movies do you love? Thor? Batman? Mad Max? What else?,"What movies do you love? Thor, Batman, Mad Max, what else?",0,11,4.47,0.815,bright,4.15
+mtn07,normal,lesson,teacher,Last Saturday I went to see a film…,Last Saturday I went to see a film.,0,8,3.71,0.97,normal,3.3
+mtn07,normal,lesson,baseline,Last Saturday I went to see a film…,"Last Saturday, I went to see a film.",0,8,4.5,0.889,normal,2.6
+mtn08,normal,lesson,teacher,"Try again with ""because"".",Try again with because...,0,4,3.99,0.934,normal,2.8
+mtn08,normal,lesson,baseline,"Try again with ""because"".",Try again with because.,0,4,4.45,0.839,normal,2.02
+mtn09,normal,lesson,teacher,"Oh, Kandy? What did you do there?","Oh Candy, what did you do there?",1,6,3.86,0.942,tense,3.67
+mtn09,normal,lesson,baseline,"Oh, Kandy? What did you do there?","Oh, Candy, what did you do there?",1,6,4.48,0.865,normal,2.5
+mtn10,normal,lesson,teacher,"Oh, The Dark Knight? How many times have you seen it?","Oh, the dark night. How many times have you seen it?",1,10,4.19,0.964,low,4.62
+mtn10,normal,lesson,baseline,"Oh, The Dark Knight? How many times have you seen it?","Oh, the dark night, how many times have you seen it?",1,10,4.53,0.873,bright,3.33
+mtn11,normal,lesson,teacher,How have you been this week? What did you watch?,How have you been this week? What did you watch?,0,10,4.11,0.952,tense,4.15
+mtn11,normal,lesson,baseline,How have you been this week? What did you watch?,How have you been this week? What did you watch?,0,10,4.5,0.852,normal,2.85
+mtn12,normal,lesson,teacher,"Say ""uh-huh"" or ""really?"" while I'm talking.","Say aha, or really, while I'm talking.",1,8,3.22,0.957,tense,4.72
+mtn12,normal,lesson,baseline,"Say ""uh-huh"" or ""really?"" while I'm talking.",Say aha or really while I'm talking.,1,8,4.45,0.863,normal,3.0
+mtn13,normal,lesson,teacher,"Sorry, could you speak a little more slowly?","Sorry, could you speak a little more slowly?",0,8,4.12,0.955,tense,3.67
+mtn13,normal,lesson,baseline,"Sorry, could you speak a little more slowly?","Sorry, could you speak a little more slowly?",0,8,4.45,0.811,normal,2.67
+mtn14,normal,lesson,teacher,"Anyway, I'd better go. It was nice talking to you!","Anyway, I'd better go. It was nice talking to you.",0,11,4.12,0.977,bright,4.85
+mtn14,normal,lesson,baseline,"Anyway, I'd better go. It was nice talking to you!","Anyway, I'd better go. It was nice talking to you.",0,11,4.52,0.841,bright,3.55
+mtn15,normal,lesson,teacher,Tell me about yourself and the movies you love.,Tell me about yourself and the movies you love.,0,9,3.97,0.95,normal,3.95
+mtn15,normal,lesson,baseline,Tell me about yourself and the movies you love.,Tell me about yourself and the movies you love.,0,9,4.46,0.811,bright,3.05
+mtn16,normal,live,teacher,"That's a good point. I think a lot of people feel the same way, especially when they're new in a city.","That's a good point. I think a lot of people feel the same way, especially when they're new in a city.",0,23,4.07,0.97,normal,7.38
+mtn16,normal,live,baseline,"That's a good point. I think a lot of people feel the same way, especially when they're new in a city.","That's a good point. I think a lot of people feel the same way, especially when they're new in a city.",0,23,4.53,0.853,normal,6.22
+mtn17,normal,live,teacher,So you went with your cousins? Nice. What did you eat there?,So you went with your cousins? Nice. What did you eat there?,0,12,4.06,0.942,normal,5.35
+mtn17,normal,live,baseline,So you went with your cousins? Nice. What did you eat there?,So you went with your cousins. Nice. What did you eat there?,0,12,4.46,0.821,bright,3.77
+mtn18,normal,live,teacher,"Hmm, I'm not sure I agree, but tell me why you think so.","Hmm, I'm not sure I agree, but tell me why you think so.",0,13,3.87,0.979,low,5.42
+mtn18,normal,live,baseline,"Hmm, I'm not sure I agree, but tell me why you think so.","Hmm, I'm not sure I agree, but tell me why you think so.",0,13,4.49,0.819,normal,3.52
+mtn19,normal,live,teacher,"You said ""I go to Kandy yesterday"". We say ""I went to Kandy yesterday"". Can you try it?","You said, I go to candy yesterday. We say, I went to candy yesterday. Can you try it?",2,18,4.02,0.964,normal,7.78
+mtn19,normal,live,baseline,"You said ""I go to Kandy yesterday"". We say ""I went to Kandy yesterday"". Can you try it?",You said I go to candy yesterday. We say I went to candy yesterday. Can you try it?,2,18,4.51,0.9,normal,5.88
+mtn20,normal,live,teacher,"Okay, so you like action films. Which one did you watch most recently?","Okay, so you like action films. Which one did you watch most recently?",0,13,4.3,0.983,normal,6.12
+mtn20,normal,live,baseline,"Okay, so you like action films. Which one did you watch most recently?","Okay, so you like action films. Which one did you watch most recently?",0,13,4.52,0.865,normal,4.7
+mtn21,normal,live,teacher,"I didn't quite catch that. Could you say it again, a bit slower?",I didn't quite catch that. Could you say it again? A bit slower.,0,14,4.25,0.957,low,5.45
+mtn21,normal,live,baseline,"I didn't quite catch that. Could you say it again, a bit slower?",I didn't quite catch that. Could you say it again a bit slower?,0,14,4.48,0.873,normal,3.98
+mtn22,normal,live,teacher,"That's interesting, because Sam said the exact opposite this morning.","That's interesting, because Sam said the exact opposite this morning.",0,11,4.21,0.964,tense,5.2
+mtn22,normal,live,baseline,"That's interesting, because Sam said the exact opposite this morning.","That's interesting, because Sam said the exact opposite this morning.",0,11,4.52,0.881,normal,4.45
+mtn23,normal,live,teacher,"Right, so first you finished your homework, and then you went out. What happened after that?","Right? So first you finished your homework, and then you went out. What happened after that?",0,16,4.13,0.969,tense,6.8
+mtn23,normal,live,baseline,"Right, so first you finished your homework, and then you went out. What happened after that?","Right, so first you finished your homework and then you went out. What happened after that?",0,16,4.5,0.831,normal,5.28
+mtn24,normal,live,teacher,"You can say it in Sinhala if you need to, and I'll help you with the English.","You can say it in SINHALA if you need to, and I'll help you with the English.",0,18,3.72,0.958,tense,6.0
+mtn24,normal,live,baseline,"You can say it in Sinhala if you need to, and I'll help you with the English.","You can say it in S-I-N-H-A-L-A if you need to, and I'll help you with the English.",7,18,4.5,0.902,normal,5.17
+mtn25,normal,live,teacher,"Good question. I usually take the bus, but sometimes I walk if the weather is nice.","Good question. I usually take the bus, but sometimes I walk if the weather is nice.",0,16,4.35,0.955,normal,6.88
+mtn25,normal,live,baseline,"Good question. I usually take the bus, but sometimes I walk if the weather is nice.","Good question. I usually take the bus, but sometimes I walk if the weather is nice.",0,16,4.54,0.888,bright,5.5
+mtn26,normal,live,teacher,Let's talk about something else. What do you usually do on Sunday mornings?,Let's talk about something else. What do you usually do on Sunday mornings?,0,14,3.9,0.957,normal,5.55
+mtn26,normal,live,baseline,Let's talk about something else. What do you usually do on Sunday mornings?,Let's talk about something else. What do you usually do on Sunday mornings?,0,14,4.46,0.841,normal,4.55
+mtn27,normal,gen,teacher,"I've lived in Colombo for two years now, but I still get lost sometimes.","I've lived in Colombo for two years now, but I still get lost sometimes.",0,15,4.24,0.955,low,5.78
+mtn27,normal,gen,baseline,"I've lived in Colombo for two years now, but I still get lost sometimes.","I've lived in Colombo for two years now, but I still get lost sometimes.",0,15,4.51,0.849,tense,4.6
+mtn28,normal,gen,teacher,"The café gets really busy after six, when people finish work.",but gets really busy after six when people finish work.,2,11,4.36,0.924,normal,4.8
+mtn28,normal,gen,baseline,"The café gets really busy after six, when people finish work.","It gets really busy after six, when people finish work.",2,11,4.52,0.832,normal,3.77
+mtn29,normal,gen,teacher,Do you think it's better to study in the morning or at night?,Do you think it's better to study in the morning or at night?,0,14,3.98,0.947,normal,4.25
+mtn29,normal,gen,baseline,Do you think it's better to study in the morning or at night?,Do you think it's better to study in the morning or at night?,0,14,4.48,0.851,normal,3.42
+mtn30,normal,gen,teacher,"Priya says I talk in my sleep, but I don't believe her.","Priya says I talk in my sleep, but I don't believe her.",0,13,4.01,0.951,low,4.75
+mtn30,normal,gen,baseline,"Priya says I talk in my sleep, but I don't believe her.","Priya says I talk in my sleep, but I don't believe her.",0,13,4.49,0.821,tense,3.45
+mtn31,normal,gen,teacher,"My brother Arun wants to be a doctor, so he studies all the time.","My brother A.R.U.N. wants to be a doctor, so he studies all the time.",0,14,4.17,0.943,tense,5.6
+mtn31,normal,gen,baseline,"My brother Arun wants to be a doctor, so he studies all the time.","My brother ARUN wants to be a doctor, so he studies all the time.",0,14,4.51,0.808,normal,4.62
+mtn32,normal,gen,teacher,"I don't usually eat breakfast, but today I was really hungry.","I don't usually eat breakfast, but today I was really hungry.",0,12,4.05,0.97,low,5.0
+mtn32,normal,gen,baseline,"I don't usually eat breakfast, but today I was really hungry.","I don't usually eat breakfast, but today I was really hungry.",0,12,4.49,0.909,tense,3.98
+mtn33,normal,gen,teacher,What's the first thing you do when you wake up?,What's the first thing you do when you wake up?,0,11,4.12,0.932,normal,3.35
+mtn33,normal,gen,baseline,What's the first thing you do when you wake up?,What's the first thing you do when you wake up?,0,11,4.48,0.849,normal,2.6
+mtn34,normal,gen,teacher,Hmm… I think the blue one looks better.,Hmm... I think the blue one looks better.,0,7,3.59,0.94,normal,3.88
+mtn34,normal,gen,baseline,Hmm… I think the blue one looks better.,"Him, I think the blue one looks better.",1,7,4.39,0.823,normal,2.65
+mtn35,normal,gen,teacher,"Okay, so here's the plan: we meet at the station at nine.","Okay, so here's the plan. We meet at the station at 9.",0,13,4.24,0.952,tense,5.28
+mtn35,normal,gen,baseline,"Okay, so here's the plan: we meet at the station at nine.","Okay, so here's the plan. We meet at the station at 9.",0,13,4.53,0.876,normal,3.8
+mtn36,normal,gen,teacher,"I see what you mean, but it's a bit expensive.","I see what you mean, but it's a bit expensive.",0,11,4.11,0.977,tense,4.35
+mtn36,normal,gen,baseline,"I see what you mean, but it's a bit expensive.","I see what you mean, but it's a bit expensive.",0,11,4.51,0.818,tense,3.1
+mtn37,normal,gen,teacher,"Good. Now say the whole answer, from the beginning.",Good. Now say the whole answer from the beginning.,0,9,4.03,0.947,normal,4.4
+mtn37,normal,gen,baseline,"Good. Now say the whole answer, from the beginning.","Good, now say the whole answer from the beginning.",0,9,4.49,0.833,normal,3.12
+mtn38,normal,gen,teacher,Can you give me one more reason?,Can you give me one more reason?,0,7,3.49,0.932,tense,3.1
+mtn38,normal,gen,baseline,Can you give me one more reason?,"""'Can you give me one more reason?'",0,7,4.48,0.813,normal,2.2
+mtn39,normal,gen,teacher,"Listen to the way I say it, and then copy the rhythm.","Listen to the way I say it, and then copy the rhythm.",0,12,4.26,0.958,normal,4.38
+mtn39,normal,gen,baseline,"Listen to the way I say it, and then copy the rhythm.",listen to the way i say it and then copy the rhythm,0,12,4.5,0.879,normal,3.42
+mtn40,normal,gen,teacher,"When I was a child, we went to the beach every Sunday.","When I was a child, we went to the beach every Sunday.",0,12,4.22,0.973,tense,4.53
+mtn40,normal,gen,baseline,"When I was a child, we went to the beach every Sunday.","When I was a child, we went to the beach every Sunday.",0,12,4.52,0.873,normal,3.7
+mtn41,normal,gen,teacher,"She works in a bank, and her husband teaches at a school.",She works in a bank and her husband teaches at a school.,0,12,4.28,0.956,tense,4.35
+mtn41,normal,gen,baseline,"She works in a bank, and her husband teaches at a school.","She works in a bank, and her husband teaches at a school.",0,12,4.5,0.826,normal,3.45
+mtn42,normal,gen,teacher,"Could you pass me the salt, please?","Could you pass me the salt, please?",0,7,3.98,0.894,normal,3.6
+mtn42,normal,gen,baseline,"Could you pass me the salt, please?","Could you pass me the salt, please?",0,7,4.48,0.838,normal,2.3
+mtn43,normal,gen,teacher,"I'd rather stay in tonight, if that's okay with you.","I'd rather stay in tonight, if that's okay with you.",0,12,4.0,0.936,tense,4.25
+mtn43,normal,gen,baseline,"I'd rather stay in tonight, if that's okay with you.","I'd rather stay in tonight, if that's okay with you.",0,12,4.5,0.863,normal,3.3
+mtn44,normal,gen,teacher,"We could take the train, or we could ask Sam's uncle to drive us.","We could take the train, or we could ask Sam's uncle to drive us.",0,15,4.01,0.954,tense,5.05
+mtn44,normal,gen,baseline,"We could take the train, or we could ask Sam's uncle to drive us.","We could take the train, or we could ask Sam's uncle to drive us.",0,15,4.5,0.829,normal,4.1
+mtn45,normal,gen,teacher,"First we bought the tickets, then we found our seats, and after that the film started.","First we bought the tickets, then we found our seats, and after that the film started.",0,16,4.16,0.968,normal,6.15
+mtn45,normal,gen,baseline,"First we bought the tickets, then we found our seats, and after that the film started.","First we bought the tickets, then we found our seats, and after that the film started.",0,16,4.51,0.843,bright,5.3
+mtn46,normal,gen,teacher,That's why I always carry an umbrella in my bag.,That's why I always carry an umbrella in my bag.,0,11,3.72,0.955,tense,3.9
+mtn46,normal,gen,baseline,That's why I always carry an umbrella in my bag.,That's why I always carry an umbrella in my bag.,0,11,4.46,0.831,tense,3.2
+mtn47,normal,gen,teacher,"I don't know much about cricket, but I like watching the crowd.","I don't know much about cricket, but I like watching the crowd.",0,13,3.81,0.954,normal,4.9
+mtn47,normal,gen,baseline,"I don't know much about cricket, but I like watching the crowd.","I don't know much about cricket, but I like watching the crowd.",0,13,4.47,0.836,bright,3.6
+mtn48,normal,gen,teacher,"Batman is better, and that's not an opinion, it's a fact.","Batman is better, and that's not an opinion, it's a fact.",0,13,3.92,0.97,normal,4.85
+mtn48,normal,gen,baseline,"Batman is better, and that's not an opinion, it's a fact.","Batman is better, and that's not an opinion, it's a fact.",0,13,4.45,0.881,normal,3.75
+mtn49,normal,gen,teacher,My favourite time of day is just before sunset.,My favorite time of day is just before sunset.,0,9,4.25,0.97,normal,4.05
+mtn49,normal,gen,baseline,My favourite time of day is just before sunset.,My favorite time of day is just before sunset.,0,9,4.5,0.866,bright,3.48
+mtn50,normal,gen,teacher,Are you free on Saturday afternoon?,Are you free on Saturday afternoon?,0,6,3.82,0.953,normal,3.3
+mtn50,normal,gen,baseline,Are you free on Saturday afternoon?,Are you free on Saturday afternoon?,0,6,4.5,0.878,normal,2.58
+mtn51,normal,hard,teacher,"Nineteen ninety-nine, two thousand and five, and twenty twenty-six.","1999, 2005, and 2026",2,3,4.28,0.969,normal,5.55
+mtn51,normal,hard,baseline,"Nineteen ninety-nine, two thousand and five, and twenty twenty-six.","1999, 2005, and 2026",2,3,4.55,0.881,normal,4.42
+mtn52,normal,hard,teacher,The meeting is at 3:45 on the 21st of March.,The meeting is at 3.45 on the 21st of March.,2,11,4.33,0.976,normal,4.65
+mtn52,normal,hard,baseline,The meeting is at 3:45 on the 21st of March.,The meeting is at 3.45 on the 21st of March.,2,11,4.52,0.851,normal,4.12
+mtn53,normal,hard,teacher,"It costs Rs. 2,500, but students pay only Rs. 1,250.","It costs R.S. $2,500, but students pay only R.S. $1,250.",6,10,4.24,0.968,tense,8.68
+mtn53,normal,hard,baseline,"It costs Rs. 2,500, but students pay only Rs. 1,250.","It costs R.S. $2,500, but students pay only R.S. $1,250.",6,10,4.52,0.862,normal,6.92
+mtn54,normal,hard,teacher,Call me on 077 123 4567 after eight.,Call me on 77-123-4567 after 8.,3,8,4.36,0.968,normal,6.47
+mtn54,normal,hard,baseline,Call me on 077 123 4567 after eight.,Call me on 77-123-4567 after 8.,3,8,4.55,0.859,normal,5.92
+mtn55,normal,hard,teacher,"Room 12B is on the 3rd floor, next to the lift.","Room 12B is on the third floor, next to the lift.",0,12,4.26,0.962,normal,4.4
+mtn55,normal,hard,baseline,"Room 12B is on the 3rd floor, next to the lift.","Room 12B is on the third floor, next to the lift.",0,12,4.51,0.787,normal,3.67
+mtn56,normal,hard,teacher,"Thenuka, Thusitha, Dhananjaya and Chathurika are all in the same class.","TANUKA, THSITHA, DHNANJAYAWAE and CHTHRKA are all in the same class.",0,11,3.91,0.953,normal,7.85
+mtn56,normal,hard,baseline,"Thenuka, Thusitha, Dhananjaya and Chathurika are all in the same class.","TANUKA THSI EHA, DA Chanan JYA, and CHAT HRKA are all in the same class.",0,11,4.49,0.909,normal,6.85
+mtn57,normal,hard,teacher,"We went from Wellawatte to Bambalapitiya, then to Kollupitiya and Fort.","We went from WELLAWATT to BAMBALAPITIYA, then to KOLLUPITIYA and FORT.",0,11,3.44,0.957,normal,8.88
+mtn57,normal,hard,baseline,"We went from Wellawatte to Bambalapitiya, then to Kollupitiya and Fort.","We went from W-E-L-L-A-W-A-T-T-E to B-A-M-B-L-A-Pateau-Y-A, then to K-O-L-L-U-Pateau-Y-A and Fort.",0,11,4.44,0.903,normal,7.65
+mtn58,normal,hard,teacher,"Paati makes appam, idiyappam, and pittu for breakfast.","Potty makes APPAM, IDIY APPAM, and PITTU for breakfast.",0,8,4.22,0.955,normal,6.78
+mtn58,normal,hard,baseline,"Paati makes appam, idiyappam, and pittu for breakfast.","Potty makes APPAM, IDIY APPAM, and PITTU for breakfast.",0,8,4.53,0.926,normal,5.88
+mtn59,normal,hard,teacher,You're coming tomorrow,You're coming tomorrow.,0,4,3.53,0.939,tense,2.52
+mtn59,normal,hard,baseline,You're coming tomorrow,You're coming tomorrow.,0,4,4.47,0.833,bright,1.8
+mtn60,normal,hard,teacher,So the bus leaves at six and you'll be there at seven,So the bus leaves at 6 and you'll be there at 7.,0,13,4.24,0.92,normal,4.1
+mtn60,normal,hard,baseline,So the bus leaves at six and you'll be there at seven,So the bus leaves at 6 and you'll be there at 7.,0,13,4.48,0.867,normal,3.23
+mtn61,normal,hard,teacher,"He said, ""Wait — what?"" and then he just… left.","He said, wait, what? And then he just left.",0,9,3.71,0.946,low,5.7
+mtn61,normal,hard,baseline,"He said, ""Wait — what?"" and then he just… left.","He said, wait, what? And then he just left.",0,9,4.5,0.876,tense,3.33
+mtn62,normal,hard,teacher,"I bought apples, oranges, bananas, mangoes, papayas, and a pineapple, because Priya's family was visiting, and they love fruit, especially in the hot months.","I bought apples, oranges, bananas, mangoes, papayas, and a pineapple, because Pure IYAS family was visiting, and they love fruit, especially in the hot months.",0,25,4.17,0.98,bright,12.65
+mtn62,normal,hard,baseline,"I bought apples, oranges, bananas, mangoes, papayas, and a pineapple, because Priya's family was visiting, and they love fruit, especially in the hot months.","I bought apples, oranges, bananas, mangoes, papayas, and a pineapple because P-R-I-Y-A-S family was visiting, and they love fruit, especially in the hot months.",0,25,4.53,0.874,bright,10.93
+mtn63,normal,hard,teacher,The three thin threads were thicker than they thought.,The three thin threads were thicker than they thought.,0,9,3.93,0.925,normal,3.73
+mtn63,normal,hard,baseline,The three thin threads were thicker than they thought.,"The three thin threads were thicker than they thought,",0,9,4.4,0.81,normal,3.05
+mtn64,normal,hard,teacher,"Very well, we'll walk with Vicky to the village.",Very well. We'll walk with V.I.C.K.Y. to the village.,5,10,4.11,0.937,normal,4.5
+mtn64,normal,hard,baseline,"Very well, we'll walk with Vicky to the village.","Very well, we'll walk with V.I.C.K.Y. to the village.",5,10,4.49,0.782,normal,3.55
+mtn65,normal,hard,teacher,"She asked, she watched, she waited, and she finished.","She asked, she watched, she waited, and she finished.",0,9,4.14,0.936,normal,4.92
+mtn65,normal,hard,baseline,"She asked, she watched, she waited, and she finished.","She asked, she watched, she waited, and she finished.",0,9,4.52,0.874,normal,3.33
+mtn66,normal,hard,teacher,"It's the 2nd, not the 22nd.","It's the second, not the 22nd.",0,7,4.21,0.959,normal,3.7
+mtn66,normal,hard,baseline,"It's the 2nd, not the 22nd.","It's the second, not the 22nd.",0,7,4.5,0.86,normal,2.75
+mtn67,normal,hard,teacher,Mr. Silva and Dr. Fernando arrived at 10 a.m.,Mr. SILVA and Dr. F.E.R.N.A.N.D.O. arrived at 10 a.m.,0,10,4.06,0.973,normal,5.65
+mtn67,normal,hard,baseline,Mr. Silva and Dr. Fernando arrived at 10 a.m.,Mr. SILVA and Dr. F.E.R.N.A.N.D.O. arrived at 10 a.m.,0,10,4.49,0.888,normal,5.08
+mtn68,normal,hard,teacher,Ayubowan! Kohomada? That's all the Sinhala I know.,AYUBOWN KOHRMADA That's all the SINHALA I know.,0,9,3.62,0.972,tense,6.9
+mtn68,normal,hard,baseline,Ayubowan! Kohomada? That's all the Sinhala I know.,A-Y-U-B-O-W-E-N. K-O-H-O-M-E-D-A. That's all the S-I-N-H-A-L-A I know.,7,9,4.48,0.919,normal,5.28
+mtn69,normal,hard,teacher,"The WiFi password is ""maya2024"", all small letters.","The WAFI password is Maya2024, all small letters.",1,9,4.3,0.961,normal,6.38
+mtn69,normal,hard,baseline,"The WiFi password is ""maya2024"", all small letters.","The WIFI password is Maya2024, all small letters.",0,9,4.53,0.828,normal,4.85
+mtn70,normal,hard,teacher,Hmm.,I won't.,0,0,1.7,0.586,tense,1.65
+mtn70,normal,hard,baseline,Hmm.,Emerald.,0,0,3.17,0.765,tense,1.32
+mtn71,normal,hard,teacher,Okay.,Okay.,0,1,2.46,0.867,tense,1.95
+mtn71,normal,hard,baseline,Okay.,Okay.,0,1,4.11,0.774,normal,1.45
+mtn72,normal,hard,teacher,Me? No.,Me? No.,0,2,2.64,0.863,tense,2.4
+mtn72,normal,hard,baseline,Me? No.,me now,1,2,4.31,0.812,tense,1.77
+mtn73,normal,hard,teacher,Is it Tuesday or Thursday?,Is it Tuesday or Thursday?,0,5,3.9,0.898,normal,3.05
+mtn73,normal,hard,baseline,Is it Tuesday or Thursday?,Is it Tuesday or Thursday?,0,5,4.43,0.82,normal,2.17
+mtn74,normal,hard,teacher,"Twenty-five per cent off, so it's only seventy-five dollars.","25% off, so it's only $75.",0,7,4.27,0.964,normal,4.95
+mtn74,normal,hard,baseline,"Twenty-five per cent off, so it's only seventy-five dollars.","25% off, so it's only $75.",0,7,4.51,0.825,bright,4.03
+mtn75,normal,hard,teacher,NOT the red one. The GREEN one.,"N.O.T. the red one, the green one.",3,7,4.12,0.923,normal,3.8
+mtn75,normal,hard,baseline,NOT the red one. The GREEN one.,"N.O.T. the red one, the green one,",3,7,4.53,0.799,normal,2.7
+mtn76,normal,hard,teacher,"I mean… well, let me think.","I mean, well, let me think.",0,6,3.74,0.853,tense,3.25
+mtn76,normal,hard,baseline,"I mean… well, let me think.","I mean, well, let me think.",0,6,4.39,0.81,normal,2.15
+mtn77,normal,hard,teacher,"Ah, I see.","Ah, I see.",0,2,2.75,0.919,tense,2.38
+mtn77,normal,hard,baseline,"Ah, I see.","Ah, I see.",0,2,3.36,0.848,bright,1.55
+mtn78,normal,hard,teacher,"One, two, three, four, five, six, seven, eight, nine, ten.","1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",10,1,4.2,0.965,normal,7.92
+mtn78,normal,hard,baseline,"One, two, three, four, five, six, seven, eight, nine, ten.","1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",10,1,4.54,0.86,tense,3.77
+mtb01,bright,lesson,teacher,"Oh, nice! Which film?","Oh, nice. Which film?",0,3,3.88,0.912,normal,3.4
+mtb01,bright,lesson,baseline,"Oh, nice! Which film?","Oh, nice, which film?",0,3,4.46,0.893,normal,1.95
+mtb02,bright,lesson,teacher,"Oh, really? I didn't know that!","Oh, really? I didn't know that.",0,6,2.97,0.91,low,3.83
+mtb02,bright,lesson,baseline,"Oh, really? I didn't know that!","Oh, really? I didn't know that.",0,6,4.41,0.86,tense,2.38
+mtb03,bright,lesson,teacher,Wow! That's great!,"Wow, that's great.",0,4,3.59,0.89,bright,2.83
+mtb03,bright,lesson,baseline,Wow! That's great!,"Wow, that's great.",0,4,4.49,0.802,bright,1.8
+mtb04,bright,lesson,teacher,Aww! That's so sweet!,"Aww, that's so sweet.",0,5,3.74,0.818,bright,2.98
+mtb04,bright,lesson,baseline,Aww! That's so sweet!,"Ah, that's so sweet.",1,5,4.37,0.871,bright,1.82
+mtb05,bright,lesson,teacher,Haha! No way!,"Haha, no way.",0,3,2.67,0.891,tense,2.98
+mtb05,bright,lesson,baseline,Haha! No way!,"Ha ha, no way.",2,3,3.67,0.857,normal,1.88
+mtb06,bright,live,teacher,"Oh, that's wonderful! Congratulations! How did your family react?","Oh, that's wonderful. Congratulations. How did your family react?",0,9,4.19,0.948,bright,6.03
+mtb06,bright,live,baseline,"Oh, that's wonderful! Congratulations! How did your family react?","Oh, that's wonderful. Congratulations. How did your family react?",0,9,4.5,0.879,bright,4.42
+mtb07,bright,live,teacher,"Yes! That was a great answer, and you used ""meanwhile"" without even thinking!","Yes, that was a great answer, and you used meanwhile without even thinking.",0,13,4.04,0.968,low,6.42
+mtb07,bright,live,baseline,"Yes! That was a great answer, and you used ""meanwhile"" without even thinking!","Yes, that was a great answer, and you used meanwhile without even thinking.",0,13,4.49,0.821,normal,4.88
+mtb08,bright,live,teacher,"Ha! I knew you'd say Marvel. Okay, okay, tell me your favourite one.","Ha, I knew you'd say Marvel. Okay, okay, tell me your favorite one.",0,14,4.12,0.969,normal,6.45
+mtb08,bright,live,baseline,"Ha! I knew you'd say Marvel. Okay, okay, tell me your favourite one.","Ha, I knew you'd say Marvel. Okay, okay, tell me your favorite one.",0,14,4.49,0.867,normal,4.15
+mtb09,bright,live,teacher,"That's brilliant! You spoke for a whole minute, and I understood everything!","That's brilliant. You spoke for a whole minute, and I understood everything.",0,13,3.98,0.949,bright,5.72
+mtb09,bright,live,baseline,"That's brilliant! You spoke for a whole minute, and I understood everything!",That's brilliant. You spoke for a whole minute and I understood everything.,0,13,4.5,0.84,bright,4.42
+mtb10,bright,live,teacher,"Oh, I love that place! Did you try the ice cream?","Oh, I love that place. Did you try the ice cream?",0,10,3.88,0.937,bright,5.1
+mtb10,bright,live,baseline,"Oh, I love that place! Did you try the ice cream?","Oh, I love that place. Did you try the ice cream?",0,10,4.48,0.855,bright,3.48
+mtb11,bright,gen,teacher,Guess what? I got the day off tomorrow!,Guess what? I got the day off tomorrow.,0,8,3.77,0.948,low,3.83
+mtb11,bright,gen,baseline,Guess what? I got the day off tomorrow!,Guess what? I got the day off tomorrow.,0,8,4.47,0.87,normal,2.7
+mtb12,bright,gen,teacher,The train was on time! For the first time ever!,"The train was on time, for the first time ever.",0,10,4.25,0.926,normal,4.45
+mtb12,bright,gen,baseline,The train was on time! For the first time ever!,The train was on time for the first time ever.,0,10,4.49,0.847,bright,3.3
+mtb13,bright,gen,teacher,"Oh, I love this song! Turn it up!","Oh, I love this song. Turn it up.",0,7,3.74,0.937,bright,4.0
+mtb13,bright,gen,baseline,"Oh, I love this song! Turn it up!","Oh, I love this song. Turn it up.",0,7,4.45,0.831,bright,2.38
+mtb14,bright,gen,teacher,You remembered my birthday! Thank you so much!,You remembered my birthday. Thank you so much.,0,8,4.12,0.961,bright,4.25
+mtb14,bright,gen,baseline,You remembered my birthday! Thank you so much!,You remembered my birthday. Thank you so much.,0,8,4.49,0.857,bright,2.95
+mtb15,bright,gen,teacher,We're going to the beach on Sunday! Are you coming?,We're going to the beach on Sunday. Are you coming?,0,11,4.15,0.95,normal,4.67
+mtb15,bright,gen,baseline,We're going to the beach on Sunday! Are you coming?,We're going to the beach on Sunday. Are you coming?,0,11,4.53,0.841,normal,3.17
+mtb16,bright,gen,teacher,Look! The baby's waving at us!,"Look, the baby's waving at us.",0,7,4.04,0.903,low,3.4
+mtb16,bright,gen,baseline,Look! The baby's waving at us!,"Look, the baby's waving at us.",0,7,4.45,0.828,tense,2.3
+mtb17,bright,gen,teacher,I passed! I actually passed the business exam!,I passed. I actually passed the business exam.,0,8,4.24,0.975,normal,4.33
+mtb17,bright,gen,baseline,I passed! I actually passed the business exam!,I passed. I actually passed the business exam.,0,8,4.52,0.908,bright,3.38
+mtb18,bright,gen,teacher,"Arun called, and he's coming to Colombo next month!",ARUN called and he's coming to Colombo next month.,0,10,4.07,0.942,tense,4.8
+mtb18,bright,gen,baseline,"Arun called, and he's coming to Colombo next month!","ARUN called, and he's coming to Colombo next month.",0,10,4.5,0.819,normal,3.92
+mtb19,bright,gen,teacher,This is the best kottu I've ever had!,This is the best KOTU I've ever had.,0,9,4.25,0.932,normal,3.4
+mtb19,bright,gen,baseline,This is the best kottu I've ever had!,This is the best KOTU I've ever had.,0,9,4.5,0.869,normal,2.67
+mtb20,bright,gen,teacher,Yes! That's the word I was looking for!,"Yes, that's the word I was looking for.",0,9,3.95,0.93,bright,3.73
+mtb20,bright,gen,baseline,Yes! That's the word I was looking for!,"Yes, that's the word I was looking for.",0,9,4.49,0.707,normal,2.8
+mtb21,bright,gen,teacher,"Oh, you're so good at this now!","Oh, you're so good at this now.",0,7,3.96,0.936,low,3.3
+mtb21,bright,gen,baseline,"Oh, you're so good at this now!","Oh, you're so good at this now.",0,7,4.44,0.792,normal,2.17
+mtb22,bright,gen,teacher,"Wow, your room looks amazing!","Wow, your room looks amazing.",0,5,3.17,0.923,bright,3.38
+mtb22,bright,gen,baseline,"Wow, your room looks amazing!","Wow, your room looks amazing.",0,5,4.46,0.833,bright,2.08
+mtb23,bright,gen,teacher,"Okay, now THAT was a good film!","Okay, now THAT was a good film.",0,7,4.34,0.957,normal,4.38
+mtb23,bright,gen,baseline,"Okay, now THAT was a good film!","Okay, now THAT was a good film.",0,7,4.51,0.893,normal,3.08
+mtb24,bright,gen,teacher,Ha! I told you it would work!,"Ha, I told you it would work.",0,7,3.89,0.865,normal,3.25
+mtb24,bright,gen,baseline,Ha! I told you it would work!,"Huh, I told you it would work.",1,7,4.4,0.763,bright,2.15
+mtb25,bright,gen,teacher,The photos came out perfectly! Come and see!,The photos came out perfectly. Come and see.,0,8,4.2,0.945,bright,4.47
+mtb25,bright,gen,baseline,The photos came out perfectly! Come and see!,The photos came out perfectly. Come and see.,0,8,4.52,0.806,bright,3.2
+mtb26,bright,gen,teacher,"And then, suddenly, Paati started dancing!","And then, suddenly, Patti started dancing.",0,6,4.24,0.926,tense,4.75
+mtb26,bright,gen,baseline,"And then, suddenly, Paati started dancing!","And then suddenly, Potty started dancing.",0,6,4.49,0.876,normal,3.05
+mtb27,bright,gen,teacher,She said yes! We're going together!,She said yes. We're going together.,0,7,4.25,0.927,low,3.73
+mtb27,bright,gen,baseline,She said yes! We're going together!,"She said, yes, we're going together.",0,7,4.51,0.81,normal,2.65
+mtb28,bright,gen,teacher,It's snowing in the hills? Really? In Sri Lanka?,"It's snowing in the hills, really, in Sri L.A.N.K.A.",5,10,3.88,0.915,normal,5.58
+mtb28,bright,gen,baseline,It's snowing in the hills? Really? In Sri Lanka?,"It's snowing in the hills, really, in Sri L.A. and K.A.",5,10,4.49,0.855,normal,3.9
+mtb29,bright,gen,teacher,My first pay as shift leader! Dinner's on me!,My first pay is shift leader. Dinner's on me.,1,10,4.22,0.948,normal,4.35
+mtb29,bright,gen,baseline,My first pay as shift leader! Dinner's on me!,"My first pay as shift leader, dinner's on me.",0,10,4.52,0.892,normal,3.3
+mtb30,bright,gen,teacher,You did all of that by yourself? Amazing!,You did all of that by yourself. Amazing.,0,8,3.55,0.918,bright,4.25
+mtb30,bright,gen,baseline,You did all of that by yourself? Amazing!,You did all of that by yourself. Amazing.,0,8,4.44,0.841,bright,2.98
+mtb31,bright,gen,teacher,"Oh, good morning! You're early today!","Oh, good morning. You're early today.",0,6,3.46,0.937,tense,3.92
+mtb31,bright,gen,baseline,"Oh, good morning! You're early today!","Oh, good morning. You're early today.",0,6,4.46,0.887,tense,2.52
+mtb32,bright,gen,teacher,I can't wait to see everyone!,I can't wait to see everyone.,0,7,3.77,0.963,bright,2.88
+mtb32,bright,gen,baseline,I can't wait to see everyone!,I can't wait to see everyone.,0,7,4.49,0.871,bright,2.12
+mtb33,bright,hard,teacher,Seventy-seven thousand! We won seventy-seven thousand rupees!,"77,000. We won 77,000 rupees.",0,5,4.29,0.959,normal,5.38
+mtb33,bright,hard,baseline,Seventy-seven thousand! We won seventy-seven thousand rupees!,"77,000. We won 77,000 rupees.",0,5,4.51,0.819,normal,4.5
+mtb34,bright,hard,teacher,Wow!,Wow.,0,1,2.33,0.717,tense,1.62
+mtb34,bright,hard,baseline,Wow!,Wow.,0,1,3.86,0.842,bright,1.25
+mtb35,bright,hard,teacher,"Yes, yes, YES!","Yes, yes, yes.",0,3,3.2,0.901,tense,3.35
+mtb35,bright,hard,baseline,"Yes, yes, YES!","Yes, yes, yes.",0,3,4.45,0.882,normal,1.88
+mtb36,bright,hard,teacher,"Wait, what?! Both of them?","Wait, what? Both of them?",0,5,3.69,0.929,tense,3.55
+mtb36,bright,hard,baseline,"Wait, what?! Both of them?","Wait, what's both of them?",1,5,4.42,0.828,tense,2.02
+mtb37,bright,hard,teacher,"Oh, wow — look at that!","Oh, wow, look at that.",0,4,2.69,0.878,tense,2.92
+mtb37,bright,hard,baseline,"Oh, wow — look at that!","Oh, wow, look at that.",0,4,4.42,0.822,tense,1.8
+mtb38,bright,hard,teacher,We fly on the 14th at 6:30 a.m.!,We fly on the 14th at 6.30 a.m.,2,10,4.11,0.971,normal,3.9
+mtb38,bright,hard,baseline,We fly on the 14th at 6:30 a.m.!,We fly on the 14th at 6.30 a.m.,2,10,4.51,0.836,normal,3.2
+mtb39,bright,hard,teacher,"Happy birthday, Chathurika!","Happy birthday, C-H-A-T-H-U-R-K-A.",0,3,4.2,0.909,bright,3.9
+mtb39,bright,hard,baseline,"Happy birthday, Chathurika!","Happy birthday, C-H-A-T-H-R-K-A.",0,3,4.5,0.896,bright,2.95
+mtb40,bright,hard,teacher,"Three, two, one… go!","Three, two, one, go.",0,2,3.8,0.912,normal,3.75
+mtb40,bright,hard,baseline,"Three, two, one… go!","Three, two, one, go.",0,2,4.47,0.849,normal,1.9
+mtb41,bright,hard,teacher,It's a girl! Her name's Thilini!,It's a girl. Her name's T-H-I-L-I-N-I.,0,8,3.79,0.941,normal,4.17
+mtb41,bright,hard,baseline,It's a girl! Her name's Thilini!,It's a girl. Her name's THLNI.,0,8,4.5,0.887,normal,2.83
+mtb42,bright,hard,teacher,Best. Day. Ever!,Best. Day. Ever.,0,3,3.81,0.906,normal,3.35
+mtb42,bright,hard,baseline,Best. Day. Ever!,Best day ever.,0,3,4.47,0.903,bright,2.05
+mtb43,bright,hard,teacher,"We're going to Nuwara Eliya, Haputale and Ella!","We're going to N-U-W-A-R-A-E-L-I-Y-A, H-A-P-U-T-A-L-E-N-A-L-I.",0,9,3.56,0.965,normal,5.97
+mtb43,bright,hard,baseline,"We're going to Nuwara Eliya, Haputale and Ella!","We're going to N-U-W-A-R-A, E-L-I-Y-A, H-A-P-U-T-A-L-E, and A-L-A.",3,9,4.38,0.86,normal,4.72
+mtb44,bright,hard,teacher,"Oh my goodness, it's beautiful!","Oh my goodness, it's beautiful.",0,5,4.14,0.947,normal,3.33
+mtb44,bright,hard,baseline,"Oh my goodness, it's beautiful!","Oh my goodness, it's beautiful.",0,5,4.49,0.822,normal,2.35
+mtb45,bright,hard,teacher,Ha ha! You should see your face!,"Haha, you should see your face.",2,7,3.63,0.889,normal,3.62
+mtb45,bright,hard,baseline,Ha ha! You should see your face!,"Ha ha, you should see your face.",0,7,4.38,0.819,normal,2.23
+mtb46,bright,hard,teacher,"Thank you, thank you, thank you!","Thank you, thank you, thank you.",0,6,3.76,0.906,tense,3.52
+mtb46,bright,hard,baseline,"Thank you, thank you, thank you!","Thank you, thank you, thank you.",0,6,4.41,0.85,normal,2.2
+mtb47,bright,hard,teacher,"The vegan cake was very, very good!","The vegan cake was very, very good.",0,7,3.87,0.95,normal,3.95
+mtb47,bright,hard,baseline,"The vegan cake was very, very good!","The vegan cake was very, very good.",0,7,4.36,0.888,normal,2.65
+mtl01,low,lesson,teacher,Oh no! I'm sorry to hear that.,"Oh no, I'm sorry to hear that.",0,7,3.7,0.926,low,3.65
+mtl01,low,lesson,baseline,Oh no! I'm sorry to hear that.,"Oh no, I'm sorry to hear that.",0,7,4.43,0.869,low,2.38
+mtl02,low,lesson,teacher,Oh no! What happened next?,Oh no. What happened next?,0,4,3.91,0.97,low,3.42
+mtl02,low,lesson,baseline,Oh no! What happened next?,"Oh no, what happened next?",0,4,4.44,0.895,normal,2.12
+mtl03,low,live,teacher,Oh… I'm really sorry. That must have been hard for you. Do you want to talk about it?,"Oh, I'm really sorry. That must have been hard for you. Do you want to talk about it?",0,18,3.62,0.976,low,6.28
+mtl03,low,live,baseline,Oh… I'm really sorry. That must have been hard for you. Do you want to talk about it?,"""'Oh, I'm really sorry. That must have been hard for you. Do you want to talk about it?'",0,18,4.49,0.836,tense,5.05
+mtl04,low,live,teacher,"That's okay. It's a difficult sentence. Let's try it one more time, slowly.","That's okay. It's a difficult sentence. Let's try it one more time, slowly.",0,16,4.22,0.961,tense,7.03
+mtl04,low,live,baseline,"That's okay. It's a difficult sentence. Let's try it one more time, slowly.",That's okay. It's a difficult sentence. Let's try it one more time slowly.,0,16,4.51,0.863,normal,4.97
+mtl05,low,live,teacher,I understand. Some days are harder than others. We can take it easy today.,I understand. Some days are harder than others. We can take it easy today.,0,14,3.92,0.947,low,6.22
+mtl05,low,live,baseline,I understand. Some days are harder than others. We can take it easy today.,I understand. Some days are harder than others. We can take it easy today.,0,14,4.53,0.874,tense,4.88
+mtl06,low,live,teacher,Hmm… I think I said that too fast. Sorry. Let me say it again.,"Hmm, I think I said that too fast. Sorry, let me say it again.",0,13,3.72,0.958,low,6.7
+mtl06,low,live,baseline,Hmm… I think I said that too fast. Sorry. Let me say it again.,"Hmm, I think I said that too fast. Sorry, let me say it again.",0,13,4.49,0.866,low,4.4
+mtl07,low,gen,teacher,I didn't get the job. They chose someone with more experience.,I didn't get the job. They chose someone with more experience.,0,12,3.95,0.977,low,5.05
+mtl07,low,gen,baseline,I didn't get the job. They chose someone with more experience.,I didn't get the job. They chose someone with more experience.,0,12,4.51,0.821,normal,3.9
+mtl08,low,gen,teacher,"My phone fell in the water, and I lost all my messages.",My phone fell in the water and I lost all my messages.,0,12,4.05,0.974,tense,4.8
+mtl08,low,gen,baseline,"My phone fell in the water, and I lost all my messages.","My phone fell in the water, and I lost all my messages.",0,12,4.49,0.87,normal,3.8
+mtl09,low,gen,teacher,I miss the old house… we had a mango tree in the garden.,I miss the old house. We had a mango tree in the garden.,0,13,3.82,0.977,tense,4.35
+mtl09,low,gen,baseline,I miss the old house… we had a mango tree in the garden.,I miss the old house. We had a mango tree in the garden.,0,13,4.51,0.839,bright,3.67
+mtl10,low,gen,teacher,He didn't even say goodbye.,He didn't even say goodbye.,0,6,3.65,0.922,normal,2.9
+mtl10,low,gen,baseline,He didn't even say goodbye.,He didn't even say goodbye.,0,6,4.37,0.864,normal,2.12
+mtl11,low,gen,teacher,I'm sorry I'm late. It's been a really long day.,I'm sorry I'm late. It's been a really long day.,0,13,3.83,0.979,low,4.62
+mtl11,low,gen,baseline,I'm sorry I'm late. It's been a really long day.,I'm sorry I'm late. It's been a really long day.,0,13,4.49,0.862,low,3.17
+mtl12,low,gen,teacher,I tried my best… but it wasn't enough.,"I tried my best to, but it wasn't enough.",1,9,3.93,0.958,low,3.62
+mtl12,low,gen,baseline,I tried my best… but it wasn't enough.,"I tried my best, but it wasn't enough.",0,9,4.46,0.873,tense,2.7
+mtl13,low,gen,teacher,The doctor said she needs to rest for a few weeks.,The doctor said she needs to rest for a few weeks.,0,11,4.29,0.937,normal,3.98
+mtl13,low,gen,baseline,The doctor said she needs to rest for a few weeks.,The doctor said she needs to rest for a few weeks.,0,11,4.5,0.809,normal,3.05
+mtl14,low,gen,teacher,Nobody came to the party… just me and Priya.,"Nobody came to the party, just me and Priya.",0,9,4.18,0.966,normal,4.2
+mtl14,low,gen,baseline,Nobody came to the party… just me and Priya.,"Nobody came to the party, just me and Priya.",0,9,4.52,0.855,normal,3.33
+mtl15,low,gen,teacher,I don't think I can do this anymore.,I don't think I can do this anymore.,0,9,4.04,0.945,low,3.3
+mtl15,low,gen,baseline,I don't think I can do this anymore.,I don't think I can do this anymore.,0,9,4.47,0.819,tense,2.48
+mtl16,low,gen,teacher,It's okay. You don't have to say anything.,It's okay. You don't have to say anything.,0,10,3.77,0.931,low,4.15
+mtl16,low,gen,baseline,It's okay. You don't have to say anything.,It's okay. You don't have to say anything.,0,10,4.45,0.884,normal,2.85
+mtl17,low,gen,teacher,I wish I could go back and do it again.,I wish I could go back and do it again.,0,10,4.21,0.944,low,3.27
+mtl17,low,gen,baseline,I wish I could go back and do it again.,I wish I could go back and do it again.,0,10,4.52,0.83,normal,2.58
+mtl18,low,gen,teacher,We used to talk every day… now we don't talk at all.,We used to talk every day. Now we don't talk at all.,0,13,4.16,0.945,low,4.67
+mtl18,low,gen,baseline,We used to talk every day… now we don't talk at all.,We used to talk every day. Now we don't talk at all.,0,13,4.5,0.833,tense,3.4
+mtl19,low,gen,teacher,"I waited and waited, but the phone never rang.","I waited and waited, but the phone never rang.",0,9,3.91,0.947,normal,4.25
+mtl19,low,gen,baseline,"I waited and waited, but the phone never rang.","I waited and waited, but the phone never rang.",0,9,4.47,0.833,normal,3.33
+mtl20,low,gen,teacher,Maybe next time… maybe.,"Maybe next time, maybe.",0,4,4.01,0.948,normal,2.98
+mtl20,low,gen,baseline,Maybe next time… maybe.,"Maybe next time, maybe.",0,4,4.47,0.921,normal,1.9
+mtl21,low,gen,teacher,I'm not hungry. I'll eat later.,I'm not hungry. I'll eat later.,0,8,3.62,0.935,low,3.6
+mtl21,low,gen,baseline,I'm not hungry. I'll eat later.,I'm not hungry. I'll eat later.,0,8,4.34,0.852,tense,2.52
+mtl22,low,gen,teacher,I keep thinking about what I said to her.,I keep thinking about what I said to her.,0,9,4.05,0.907,low,3.33
+mtl22,low,gen,baseline,I keep thinking about what I said to her.,I keep thinking about what I said to her.,0,9,4.51,0.836,normal,2.62
+mtl23,low,gen,teacher,The old cat died this morning. She was fifteen.,The old cat died this morning. She was 15.,0,9,4.22,0.929,low,4.67
+mtl23,low,gen,baseline,The old cat died this morning. She was fifteen.,the old cat died this morning she was fifteen,0,9,4.51,0.862,low,3.35
+mtl24,low,gen,teacher,It's raining again… and I forgot my umbrella.,"It's raining again, and I forgot my umbrella.",0,9,3.79,0.96,tense,4.15
+mtl24,low,gen,baseline,It's raining again… and I forgot my umbrella.,"It's raining again, and I forgot my umbrella.",0,9,4.49,0.884,bright,3.17
+mtl25,low,gen,teacher,I'm so tired… I just want to sleep.,I'm so tired. I just want to sleep.,0,9,4.07,0.951,low,4.08
+mtl25,low,gen,baseline,I'm so tired… I just want to sleep.,I'm so tired. I just want to sleep.,0,9,4.52,0.848,normal,2.83
+mtl26,low,gen,teacher,"Then the lights went off, and everything was quiet.",Then the lights went off and everything was quiet.,0,9,3.92,0.976,tense,4.25
+mtl26,low,gen,baseline,"Then the lights went off, and everything was quiet.","Then the lights went off, and everything was quiet.",0,9,4.49,0.915,bright,3.25
+mtl27,low,gen,teacher,I really thought he was my friend.,I really thought he was my friend.,0,7,3.73,0.92,normal,3.0
+mtl27,low,gen,baseline,I really thought he was my friend.,I really thought he was my friend.,0,7,4.46,0.819,normal,2.33
+mtl28,low,gen,teacher,Don't worry about me. I'll be fine… I think.,"Don't worry about me. I'll be fine, I think.",0,11,3.88,0.969,low,4.2
+mtl28,low,gen,baseline,Don't worry about me. I'll be fine… I think.,"Don't worry about me. I'll be fine, I think.",0,11,4.46,0.821,tense,3.05
+mtl29,low,hard,teacher,Oh.,Oh.,0,0,2.11,0.764,tense,1.62
+mtl29,low,hard,baseline,Oh.,Oh.,0,0,3.51,0.789,tense,1.25
+mtl30,low,hard,teacher,No…,No.,0,1,2.33,0.843,low,1.6
+mtl30,low,hard,baseline,No…,No.,0,1,4.17,0.812,tense,1.32
+mtl31,low,hard,teacher,I… I don't know.,I... I don't know.,0,5,2.78,0.859,bright,2.5
+mtl31,low,hard,baseline,I… I don't know.,I don't know.,1,5,3.76,0.855,tense,1.57
+mtl32,low,hard,teacher,"Sorry. Sorry, sorry.","Sorry, sorry, sorry.",0,3,2.9,0.936,tense,3.38
+mtl32,low,hard,baseline,"Sorry. Sorry, sorry.","Sorry, sorry, sorry.",0,3,4.41,0.834,tense,2.1
+mtl33,low,hard,teacher,It was the 3rd of June… three years ago.,"It was the 3rd of June, three years ago.",0,9,3.78,0.923,normal,3.73
+mtl33,low,hard,baseline,It was the 3rd of June… three years ago.,"It was the 3rd of June, three years ago.",0,9,4.48,0.778,normal,2.9
+mtl34,low,hard,teacher,"Paati, Amma, Appa, Arun… I miss them all.","Potty, AMMA, APPA, ARUN. I miss them all.",0,8,3.68,0.952,normal,6.67
+mtl34,low,hard,baseline,"Paati, Amma, Appa, Arun… I miss them all.","Potty, A-M-M-A, A-P-P-A, A-R-U-N, I miss them all.",0,8,4.42,0.911,normal,4.3
+mtl35,low,hard,teacher,"Well… it doesn't matter now, does it?","Well, it doesn't matter now, does it?",0,8,3.44,0.918,low,4.0
+mtl35,low,hard,baseline,"Well… it doesn't matter now, does it?","Well, it doesn't matter now, does it?",0,8,4.44,0.829,normal,2.42
+mtl36,low,hard,teacher,Two hundred and twelve days since I left home.,212 days since I left home.,0,6,4.1,0.952,tense,3.75
+mtl36,low,hard,baseline,Two hundred and twelve days since I left home.,Two hundred and twelve days since I left home.,0,6,4.52,0.871,normal,3.27
+mtl37,low,hard,teacher,Is it… is it serious?,"As in, is it serious?",2,5,2.91,0.865,low,2.77
+mtl37,low,hard,baseline,Is it… is it serious?,Is it? Is it serious?,0,5,4.29,0.822,tense,1.88
+mtl38,low,hard,teacher,I just… I needed someone to listen.,I just... I needed someone to listen.,0,7,4.19,0.976,low,3.83
+mtl38,low,hard,baseline,I just… I needed someone to listen.,I just... I needed someone to listen.,0,7,4.49,0.849,tense,2.73
+mtl39,low,hard,teacher,It's fine. Really. It's fine.,"It's fine. Really, it's fine.",0,7,3.69,0.878,normal,4.33
+mtl39,low,hard,baseline,It's fine. Really. It's fine.,"It's fine, really, it's fine.",0,7,4.47,0.846,normal,2.42
+mtl40,low,hard,teacher,The last bus left at 10:15… and I missed it.,"The last bus left at 10.15, and I missed it.",2,11,4.12,0.969,low,4.85
+mtl40,low,hard,baseline,The last bus left at 10:15… and I missed it.,The last bus left at 10.15 and I missed it.,2,11,4.51,0.874,tense,3.62
+mtt01,tense,live,teacher,"No, I don't think that's fair, and I'll tell you why.","No, I don't think that's fair, and I'll tell you why.",0,14,3.86,0.948,tense,4.9
+mtt01,tense,live,baseline,"No, I don't think that's fair, and I'll tell you why.","No, I don't think that's fair, and I'll tell you why.",0,14,4.46,0.894,tense,3.27
+mtt02,tense,live,teacher,"Let's stop there. Listen to the question again, and then answer it properly.","Let's stop there. Listen to the question again, and then answer it properly.",0,14,4.28,0.977,normal,6.15
+mtt02,tense,live,baseline,"Let's stop there. Listen to the question again, and then answer it properly.","Let's stop there, listen to the question again, and then answer it properly.",0,14,4.51,0.874,normal,4.72
+mtt03,tense,live,teacher,I asked you a question. Please answer it in English this time.,I asked you a question. Please answer it in English this time.,0,12,4.26,0.966,normal,4.97
+mtt03,tense,live,baseline,I asked you a question. Please answer it in English this time.,I asked you a question. Please answer it in English this time.,0,12,4.53,0.901,tense,3.98
+mtt04,tense,gen,teacher,I've told you twice already. Please listen.,I've told you twice already. Please listen.,0,8,4.27,0.943,normal,4.1
+mtt04,tense,gen,baseline,I've told you twice already. Please listen.,I've told you twice already. Please listen.,0,8,4.53,0.808,normal,2.98
+mtt05,tense,gen,teacher,That's not my problem. Talk to the manager.,That's not my problem. Talk to the manager.,0,9,4.13,0.963,low,4.17
+mtt05,tense,gen,baseline,That's not my problem. Talk to the manager.,That's not my problem. Talk to the manager.,0,9,4.48,0.868,tense,3.12
+mtt06,tense,gen,teacher,You promised you'd be here at six.,You promised you'd be here at six.,0,8,4.1,0.947,normal,3.12
+mtt06,tense,gen,baseline,You promised you'd be here at six.,You promised you'd be here at six.,0,8,4.51,0.811,tense,2.27
+mtt07,tense,gen,teacher,Don't touch that. It's not yours.,Don't touch that. It's not yours.,0,8,4.03,0.971,tense,3.67
+mtt07,tense,gen,baseline,Don't touch that. It's not yours.,Don't touch that. It's not yours.,0,8,4.43,0.865,tense,2.42
+mtt08,tense,gen,teacher,I'm not going to argue about this.,I'm not going to argue about this.,0,8,4.12,0.941,low,3.1
+mtt08,tense,gen,baseline,I'm not going to argue about this.,I'm not going to argue about this.,0,8,4.48,0.823,tense,2.3
+mtt09,tense,gen,teacher,"He took the last seat, and he didn't even ask.","He took the last seat, and he didn't even ask.",0,11,4.08,0.949,low,4.1
+mtt09,tense,gen,baseline,"He took the last seat, and he didn't even ask.",He took the last seat and he didn't even ask.,0,11,4.39,0.862,normal,3.0
+mtt10,tense,gen,teacher,"We waited two hours, and then they said it was closed.","We waited two hours, and then they said it was closed.",0,11,4.19,0.925,normal,4.72
+mtt10,tense,gen,baseline,"We waited two hours, and then they said it was closed.","We waited two hours, and then they said it was closed.",0,11,4.52,0.829,normal,3.48
+mtt11,tense,gen,teacher,Stop. Just stop talking for a second.,Stop. Just stop talking for a second.,0,7,4.19,0.944,low,3.9
+mtt11,tense,gen,baseline,Stop. Just stop talking for a second.,"Stop, just stop talking for a second.",0,7,4.47,0.86,normal,2.67
+mtt12,tense,gen,teacher,"No, thank you. I said no.","No, thank you. I said no.",0,6,3.78,0.966,low,3.9
+mtt12,tense,gen,baseline,"No, thank you. I said no.","No, thank you. I said no.",0,6,4.49,0.905,normal,2.3
+mtt13,tense,gen,teacher,This is the third time this week.,This is the third time this week.,0,7,4.25,0.927,normal,3.0
+mtt13,tense,gen,baseline,This is the third time this week.,This is the third time this week.,0,7,4.41,0.878,normal,2.27
+mtt14,tense,gen,teacher,Why didn't you tell me before?,Why didn't you tell me before?,0,7,3.83,0.934,low,2.88
+mtt14,tense,gen,baseline,Why didn't you tell me before?,Why didn't you tell me before?,0,7,4.37,0.847,tense,2.05
+mtt15,tense,gen,teacher,"I paid for it, so I'd like it to work.","I paid for it, so I'd like it to work.",0,11,4.06,0.927,low,3.77
+mtt15,tense,gen,baseline,"I paid for it, so I'd like it to work.","I paid for it, so I'd like it to work.",0,11,4.51,0.83,normal,2.67
+mtt16,tense,gen,teacher,Please be quiet. People are trying to study.,Please be quiet. People are trying to study.,0,8,4.14,0.948,tense,4.25
+mtt16,tense,gen,baseline,Please be quiet. People are trying to study.,Please be quiet. People are trying to study.,0,8,4.53,0.846,normal,3.23
+mtt17,tense,gen,teacher,That's not funny. Not at all.,That's not funny. Not at all.,0,7,3.96,0.949,low,3.58
+mtt17,tense,gen,baseline,That's not funny. Not at all.,"That's not funny, not at all.",0,7,4.47,0.876,tense,2.42
+mtt18,tense,gen,teacher,I don't care who started it. It stops now.,I don't care who started it. It stops now.,0,10,3.83,0.947,low,4.22
+mtt18,tense,gen,baseline,I don't care who started it. It stops now.,I don't care who started it. It stops now.,0,10,4.45,0.83,tense,2.92
+mtt19,tense,gen,teacher,You can't just walk in without knocking.,You can't just walk in without knocking.,0,8,4.04,0.958,tense,3.38
+mtt19,tense,gen,baseline,You can't just walk in without knocking.,You can't just walk in without knocking.,0,8,4.49,0.862,tense,2.52
+mtt20,tense,gen,teacher,Fine. Do it your way.,Fine. Do it your way.,0,5,3.53,0.917,tense,3.02
+mtt20,tense,gen,baseline,Fine. Do it your way.,Fine. Do it your way.,0,5,4.4,0.835,tense,1.93
+mtt21,tense,gen,teacher,"First he was late, then he was rude, and then he blamed me.","First he was late, then he was rude, and then he blamed me.",0,13,4.15,0.961,low,5.45
+mtt21,tense,gen,baseline,"First he was late, then he was rude, and then he blamed me.","First he was late, then he was rude, and then he blamed me.",0,13,4.5,0.862,tense,3.83
+mtt22,tense,gen,teacher,"Excuse me, the line starts back there.","Excuse me, the line starts back there.",0,7,4.33,0.949,tense,3.75
+mtt22,tense,gen,baseline,"Excuse me, the line starts back there.","Excuse me, the line starts back there.",0,7,4.53,0.814,tense,2.98
+mtt23,tense,hard,teacher,No.,No.,0,1,2.26,0.844,low,1.6
+mtt23,tense,hard,baseline,No.,No.,0,1,4.09,0.826,tense,1.3
+mtt24,tense,hard,teacher,Enough.,Enough.,0,1,2.94,0.725,tense,1.8
+mtt24,tense,hard,baseline,Enough.,Enough.,0,1,4.16,0.807,tense,1.38
+mtt25,tense,hard,teacher,Are you serious?,Are you serious?,0,3,3.55,0.891,tense,2.3
+mtt25,tense,hard,baseline,Are you serious?,Are you serious?,0,3,4.37,0.879,normal,1.68
+mtt26,tense,hard,teacher,"I said TUESDAY, not Thursday.","I said Tuesday, not Thursday.",0,5,4.2,0.944,tense,3.52
+mtt26,tense,hard,baseline,"I said TUESDAY, not Thursday.","I said Tuesday, not Thursday.",0,5,4.48,0.809,normal,2.4
+mtt27,tense,hard,teacher,"Rs. 4,750 for one shirt? No way.","RS, $4,750 for one shirt. No way.",1,7,4.2,0.958,tense,6.1
+mtt27,tense,hard,baseline,"Rs. 4,750 for one shirt? No way.","RS, 4750 for one shirt. No way.",0,7,4.51,0.86,normal,4.58
+mtt28,tense,hard,teacher,Wait. Wait. Let me finish.,"Wait, wait, let me finish.",0,5,3.69,0.918,normal,3.85
+mtt28,tense,hard,baseline,Wait. Wait. Let me finish.,"Wait, wait, let me finish.",0,5,4.4,0.875,normal,2.17
+mtt29,tense,hard,teacher,You — you just don't listen!,You... you just don't listen.,0,6,3.45,0.896,tense,3.1
+mtt29,tense,hard,baseline,You — you just don't listen!,"You, you just don't listen.",0,6,4.47,0.854,tense,2.05
+mtt30,tense,hard,teacher,Three times. Three. Times.,Three times. Three. Times.,0,4,3.87,0.949,normal,3.92
+mtt30,tense,hard,baseline,Three times. Three. Times.,"Three times, three times.",0,4,4.46,0.819,normal,2.55
+mtt31,tense,hard,teacher,Don't call me after 11 p.m. again.,Don't call me after 11 p.m. again.,0,9,3.78,0.94,tense,3.6
+mtt31,tense,hard,baseline,Don't call me after 11 p.m. again.,Don't call me after 11 p.m. again.,0,9,4.47,0.832,tense,2.9
+mtt32,tense,hard,teacher,"Mr. Perera, this is the last warning.","Mr. P-R-E-R-A, this is the last warning.",0,7,4.17,0.953,low,4.4
+mtt32,tense,hard,baseline,"Mr. Perera, this is the last warning.","Mr. P-E-R-E-R-A, this is the last warning.",0,7,4.52,0.887,normal,3.35
+mtt33,tense,hard,teacher,Who said that? Who?,Who said that? Who?,0,4,3.34,0.869,normal,2.9
+mtt33,tense,hard,baseline,Who said that? Who?,Who said that who?,0,4,4.46,0.848,normal,1.85
+mtt34,tense,gen,teacher,Put it back. Now.,Put it back. Now.,0,4,3.33,0.907,low,3.05
+mtt34,tense,gen,baseline,Put it back. Now.,Put it back now.,0,4,4.46,0.847,tense,1.8
+mtt35,tense,gen,teacher,I'm done. Goodbye.,I'm done. Goodbye.,0,4,3.26,0.885,low,3.1
+mtt35,tense,gen,baseline,I'm done. Goodbye.,I'm done. Goodbye.,0,4,4.45,0.872,tense,2.08

@@ -1,0 +1,282 @@
+WARNING:2026-11-13 20:27:02,373: [RANK 0] TensorBoard inference: no test sentences available (misaki/espeak not found?)
+INFO:2026-11-13 20:27:02,379: [RANK 0] Extracting pretrained baseline voicepack for TensorBoard...
+INFO:2026-11-13 20:27:11,489: [RANK 0]   acoustic_norm=0.3274  prosodic_norm=0.3782
+INFO:2026-11-13 20:27:40,297: [RANK 0] Epoch [1/10], Step [10/140], Mel Loss: 0.67517, Gen Loss: 5.34635, Disc Loss: 5.65552, Mono Loss: 0.12322, S2S Loss: 5.84381, SLM Loss: 2.71946
+INFO:2026-11-13 20:28:07,165: [RANK 0] Epoch [1/10], Step [20/140], Mel Loss: 0.55695, Gen Loss: 4.77264, Disc Loss: 5.44620, Mono Loss: 0.22936, S2S Loss: 6.40631, SLM Loss: 2.22486
+INFO:2026-11-13 20:28:35,046: [RANK 0] Epoch [1/10], Step [30/140], Mel Loss: 0.52904, Gen Loss: 4.57683, Disc Loss: 5.06583, Mono Loss: 0.12016, S2S Loss: 5.17740, SLM Loss: 2.28311
+INFO:2026-11-13 20:29:03,714: [RANK 0] Epoch [1/10], Step [40/140], Mel Loss: 0.45555, Gen Loss: 4.24513, Disc Loss: 4.74598, Mono Loss: 0.23831, S2S Loss: 5.42669, SLM Loss: 2.21844
+INFO:2026-11-13 20:29:32,479: [RANK 0] Epoch [1/10], Step [50/140], Mel Loss: 0.50032, Gen Loss: 3.96120, Disc Loss: 4.43004, Mono Loss: 0.15083, S2S Loss: 5.51154, SLM Loss: 1.96287
+INFO:2026-11-13 20:30:00,780: [RANK 0] Epoch [1/10], Step [60/140], Mel Loss: 0.51012, Gen Loss: 3.96847, Disc Loss: 4.36413, Mono Loss: 0.17890, S2S Loss: 5.24295, SLM Loss: 2.14088
+INFO:2026-11-13 20:30:29,324: [RANK 0] Epoch [1/10], Step [70/140], Mel Loss: 0.44027, Gen Loss: 3.76302, Disc Loss: 4.33234, Mono Loss: 0.16337, S2S Loss: 4.72650, SLM Loss: 2.19767
+INFO:2026-11-13 20:30:57,821: [RANK 0] Epoch [1/10], Step [80/140], Mel Loss: 0.48626, Gen Loss: 3.99420, Disc Loss: 4.18806, Mono Loss: 0.17750, S2S Loss: 4.91130, SLM Loss: 2.20172
+INFO:2026-11-13 20:31:26,392: [RANK 0] Epoch [1/10], Step [90/140], Mel Loss: 0.45483, Gen Loss: 3.42900, Disc Loss: 4.16199, Mono Loss: 0.15682, S2S Loss: 3.53294, SLM Loss: 2.00417
+INFO:2026-11-13 20:31:54,900: [RANK 0] Epoch [1/10], Step [100/140], Mel Loss: 0.45248, Gen Loss: 3.15711, Disc Loss: 4.02133, Mono Loss: 0.13195, S2S Loss: 4.68972, SLM Loss: 1.89804
+INFO:2026-11-13 20:32:23,338: [RANK 0] Epoch [1/10], Step [110/140], Mel Loss: 0.44894, Gen Loss: 3.73121, Disc Loss: 3.97363, Mono Loss: 0.16146, S2S Loss: 3.57378, SLM Loss: 1.88754
+INFO:2026-11-13 20:32:51,912: [RANK 0] Epoch [1/10], Step [120/140], Mel Loss: 0.45127, Gen Loss: 3.44309, Disc Loss: 3.96499, Mono Loss: 0.13195, S2S Loss: 4.29432, SLM Loss: 1.87722
+INFO:2026-11-13 20:33:20,570: [RANK 0] Epoch [1/10], Step [130/140], Mel Loss: 0.42119, Gen Loss: 3.23166, Disc Loss: 4.01041, Mono Loss: 0.11968, S2S Loss: 3.30226, SLM Loss: 2.14364
+INFO:2026-11-13 20:33:49,061: [RANK 0] Epoch [1/10], Step [140/140], Mel Loss: 0.37442, Gen Loss: 3.17380, Disc Loss: 3.99926, Mono Loss: 0.20109, S2S Loss: 3.90007, SLM Loss: 1.67958
+INFO:2026-11-13 20:33:50,831: [RANK 0] Validation loss: 0.391
+
+
+
+
+INFO:2026-11-13 20:33:52,476: [RANK 0] Epoch 0: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 20:33:56,535: [RANK 0]   acoustic_norm=3.2928  prosodic_norm=0.3782
+INFO:2026-11-13 20:34:25,417: [RANK 0] Epoch [2/10], Step [10/140], Mel Loss: 0.45152, Gen Loss: 3.23769, Disc Loss: 4.01253, Mono Loss: 0.11025, S2S Loss: 3.39988, SLM Loss: 1.94056
+INFO:2026-11-13 20:34:54,019: [RANK 0] Epoch [2/10], Step [20/140], Mel Loss: 0.42732, Gen Loss: 3.16887, Disc Loss: 3.96082, Mono Loss: 0.14933, S2S Loss: 3.67595, SLM Loss: 1.72902
+INFO:2026-11-13 20:35:22,487: [RANK 0] Epoch [2/10], Step [30/140], Mel Loss: 0.44357, Gen Loss: 3.48465, Disc Loss: 3.97387, Mono Loss: 0.15692, S2S Loss: 3.64321, SLM Loss: 1.98211
+INFO:2026-11-13 20:35:51,023: [RANK 0] Epoch [2/10], Step [40/140], Mel Loss: 0.41995, Gen Loss: 3.02735, Disc Loss: 4.08026, Mono Loss: 0.19508, S2S Loss: 3.81980, SLM Loss: 1.87619
+INFO:2026-11-13 20:36:19,508: [RANK 0] Epoch [2/10], Step [50/140], Mel Loss: 0.42266, Gen Loss: 3.12750, Disc Loss: 4.01324, Mono Loss: 0.25612, S2S Loss: 3.27041, SLM Loss: 1.78633
+INFO:2026-11-13 20:36:47,892: [RANK 0] Epoch [2/10], Step [60/140], Mel Loss: 0.40864, Gen Loss: 3.64279, Disc Loss: 4.04597, Mono Loss: 0.19079, S2S Loss: 3.69135, SLM Loss: 2.09353
+INFO:2026-11-13 20:37:16,256: [RANK 0] Epoch [2/10], Step [70/140], Mel Loss: 0.39214, Gen Loss: 3.34306, Disc Loss: 3.97356, Mono Loss: 0.12607, S2S Loss: 3.17168, SLM Loss: 1.72920
+INFO:2026-11-13 20:37:44,692: [RANK 0] Epoch [2/10], Step [80/140], Mel Loss: 0.38510, Gen Loss: 3.03145, Disc Loss: 4.02348, Mono Loss: 0.15080, S2S Loss: 3.79948, SLM Loss: 1.70679
+INFO:2026-11-13 20:38:13,291: [RANK 0] Epoch [2/10], Step [90/140], Mel Loss: 0.40946, Gen Loss: 3.40758, Disc Loss: 3.97180, Mono Loss: 0.15385, S2S Loss: 3.76423, SLM Loss: 2.08092
+INFO:2026-11-13 20:38:41,738: [RANK 0] Epoch [2/10], Step [100/140], Mel Loss: 0.41707, Gen Loss: 3.01071, Disc Loss: 4.01829, Mono Loss: 0.17310, S2S Loss: 3.64826, SLM Loss: 1.96558
+INFO:2026-11-13 20:39:10,170: [RANK 0] Epoch [2/10], Step [110/140], Mel Loss: 0.38088, Gen Loss: 3.17798, Disc Loss: 4.06427, Mono Loss: 0.17353, S2S Loss: 3.00445, SLM Loss: 1.81232
+INFO:2026-11-13 20:39:38,655: [RANK 0] Epoch [2/10], Step [120/140], Mel Loss: 0.37524, Gen Loss: 2.98799, Disc Loss: 3.99075, Mono Loss: 0.18349, S2S Loss: 3.37047, SLM Loss: 1.66548
+INFO:2026-11-13 20:40:07,133: [RANK 0] Epoch [2/10], Step [130/140], Mel Loss: 0.36617, Gen Loss: 3.63031, Disc Loss: 3.91166, Mono Loss: 0.19359, S2S Loss: 4.01745, SLM Loss: 1.69921
+INFO:2026-11-13 20:40:35,664: [RANK 0] Epoch [2/10], Step [140/140], Mel Loss: 0.38009, Gen Loss: 3.34095, Disc Loss: 3.95160, Mono Loss: 0.10877, S2S Loss: 3.38118, SLM Loss: 1.95475
+INFO:2026-11-13 20:40:37,392: [RANK 0] Validation loss: 0.403
+
+
+
+
+INFO:2026-11-13 20:40:39,040: [RANK 0] Epoch 1: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 20:40:43,085: [RANK 0]   acoustic_norm=3.4428  prosodic_norm=0.3782
+INFO:2026-11-13 20:41:11,823: [RANK 0] Epoch [3/10], Step [10/140], Mel Loss: 0.41418, Gen Loss: 3.43761, Disc Loss: 3.95705, Mono Loss: 0.15187, S2S Loss: 3.56231, SLM Loss: 1.90221
+INFO:2026-11-13 20:41:40,430: [RANK 0] Epoch [3/10], Step [20/140], Mel Loss: 0.39329, Gen Loss: 3.01773, Disc Loss: 4.01608, Mono Loss: 0.12132, S2S Loss: 2.37902, SLM Loss: 1.57478
+INFO:2026-11-13 20:42:08,892: [RANK 0] Epoch [3/10], Step [30/140], Mel Loss: 0.37212, Gen Loss: 2.99874, Disc Loss: 3.99665, Mono Loss: 0.16771, S2S Loss: 3.32103, SLM Loss: 1.72210
+INFO:2026-11-13 20:42:37,386: [RANK 0] Epoch [3/10], Step [40/140], Mel Loss: 0.37257, Gen Loss: 2.99584, Disc Loss: 3.99050, Mono Loss: 0.13644, S2S Loss: 3.03220, SLM Loss: 1.68464
+INFO:2026-11-13 20:43:05,795: [RANK 0] Epoch [3/10], Step [50/140], Mel Loss: 0.40713, Gen Loss: 2.75093, Disc Loss: 4.04950, Mono Loss: 0.12201, S2S Loss: 3.77210, SLM Loss: 1.52508
+INFO:2026-11-13 20:43:34,177: [RANK 0] Epoch [3/10], Step [60/140], Mel Loss: 0.35407, Gen Loss: 3.51759, Disc Loss: 3.90080, Mono Loss: 0.14066, S2S Loss: 2.57926, SLM Loss: 1.55539
+INFO:2026-11-13 20:44:02,597: [RANK 0] Epoch [3/10], Step [70/140], Mel Loss: 0.40473, Gen Loss: 3.31179, Disc Loss: 4.00657, Mono Loss: 0.21130, S2S Loss: 3.63406, SLM Loss: 1.73942
+INFO:2026-11-13 20:44:31,074: [RANK 0] Epoch [3/10], Step [80/140], Mel Loss: 0.35673, Gen Loss: 3.02074, Disc Loss: 3.96744, Mono Loss: 0.12645, S2S Loss: 3.23855, SLM Loss: 1.51903
+INFO:2026-11-13 20:44:59,587: [RANK 0] Epoch [3/10], Step [90/140], Mel Loss: 0.37968, Gen Loss: 3.51110, Disc Loss: 3.95390, Mono Loss: 0.11298, S2S Loss: 3.90695, SLM Loss: 1.61553
+INFO:2026-11-13 20:45:28,078: [RANK 0] Epoch [3/10], Step [100/140], Mel Loss: 0.36072, Gen Loss: 3.27790, Disc Loss: 4.01014, Mono Loss: 0.17666, S2S Loss: 2.47094, SLM Loss: 1.79212
+INFO:2026-11-13 20:45:56,535: [RANK 0] Epoch [3/10], Step [110/140], Mel Loss: 0.36910, Gen Loss: 2.95203, Disc Loss: 4.06681, Mono Loss: 0.12934, S2S Loss: 3.29121, SLM Loss: 1.61200
+INFO:2026-11-13 20:46:24,962: [RANK 0] Epoch [3/10], Step [120/140], Mel Loss: 0.36274, Gen Loss: 3.37245, Disc Loss: 3.94583, Mono Loss: 0.17055, S2S Loss: 2.70567, SLM Loss: 1.83610
+INFO:2026-11-13 20:46:53,444: [RANK 0] Epoch [3/10], Step [130/140], Mel Loss: 0.38403, Gen Loss: 3.30159, Disc Loss: 4.02683, Mono Loss: 0.12851, S2S Loss: 3.54502, SLM Loss: 1.85711
+INFO:2026-11-13 20:47:21,858: [RANK 0] Epoch [3/10], Step [140/140], Mel Loss: 0.36151, Gen Loss: 3.48443, Disc Loss: 3.92571, Mono Loss: 0.15401, S2S Loss: 3.09611, SLM Loss: 1.70314
+INFO:2026-11-13 20:47:23,570: [RANK 0] Validation loss: 0.352
+
+
+
+
+INFO:2026-11-13 20:47:25,149: [RANK 0] Epoch 2: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 20:47:29,213: [RANK 0]   acoustic_norm=3.5567  prosodic_norm=0.3782
+INFO:2026-11-13 20:48:00,085: [RANK 0] Epoch [4/10], Step [10/140], Mel Loss: 0.35750, Gen Loss: 3.16970, Disc Loss: 3.97465, Mono Loss: 0.15794, S2S Loss: 3.47968, SLM Loss: 1.70349
+INFO:2026-11-13 20:48:28,675: [RANK 0] Epoch [4/10], Step [20/140], Mel Loss: 0.37630, Gen Loss: 3.43524, Disc Loss: 3.94654, Mono Loss: 0.18128, S2S Loss: 2.31327, SLM Loss: 1.77717
+INFO:2026-11-13 20:48:57,075: [RANK 0] Epoch [4/10], Step [30/140], Mel Loss: 0.35518, Gen Loss: 3.22685, Disc Loss: 3.99236, Mono Loss: 0.16559, S2S Loss: 2.67178, SLM Loss: 1.50124
+INFO:2026-11-13 20:49:25,489: [RANK 0] Epoch [4/10], Step [40/140], Mel Loss: 0.38361, Gen Loss: 2.82387, Disc Loss: 4.06897, Mono Loss: 0.14255, S2S Loss: 2.29061, SLM Loss: 1.82400
+INFO:2026-11-13 20:49:54,015: [RANK 0] Epoch [4/10], Step [50/140], Mel Loss: 0.34760, Gen Loss: 3.30446, Disc Loss: 4.01102, Mono Loss: 0.13018, S2S Loss: 3.35011, SLM Loss: 1.80932
+INFO:2026-11-13 20:50:22,486: [RANK 0] Epoch [4/10], Step [60/140], Mel Loss: 0.36909, Gen Loss: 3.84029, Disc Loss: 3.92657, Mono Loss: 0.16214, S2S Loss: 2.61564, SLM Loss: 1.59440
+INFO:2026-11-13 20:50:50,837: [RANK 0] Epoch [4/10], Step [70/140], Mel Loss: 0.34465, Gen Loss: 3.18732, Disc Loss: 3.95808, Mono Loss: 0.13310, S2S Loss: 2.37932, SLM Loss: 1.59022
+INFO:2026-11-13 20:51:19,376: [RANK 0] Epoch [4/10], Step [80/140], Mel Loss: 0.36625, Gen Loss: 2.99738, Disc Loss: 4.00252, Mono Loss: 0.10727, S2S Loss: 2.36130, SLM Loss: 1.78678
+INFO:2026-11-13 20:51:47,816: [RANK 0] Epoch [4/10], Step [90/140], Mel Loss: 0.33767, Gen Loss: 3.00595, Disc Loss: 4.01341, Mono Loss: 0.18760, S2S Loss: 2.72684, SLM Loss: 1.59054
+INFO:2026-11-13 20:52:16,293: [RANK 0] Epoch [4/10], Step [100/140], Mel Loss: 0.35375, Gen Loss: 3.23598, Disc Loss: 3.98687, Mono Loss: 0.11058, S2S Loss: 2.60644, SLM Loss: 1.71032
+INFO:2026-11-13 20:52:44,784: [RANK 0] Epoch [4/10], Step [110/140], Mel Loss: 0.35074, Gen Loss: 3.66402, Disc Loss: 3.95872, Mono Loss: 0.13135, S2S Loss: 2.94207, SLM Loss: 1.69271
+INFO:2026-11-13 20:53:13,370: [RANK 0] Epoch [4/10], Step [120/140], Mel Loss: 0.35852, Gen Loss: 3.08820, Disc Loss: 3.98802, Mono Loss: 0.10241, S2S Loss: 3.00499, SLM Loss: 1.78745
+INFO:2026-11-13 20:53:41,921: [RANK 0] Epoch [4/10], Step [130/140], Mel Loss: 0.35658, Gen Loss: 3.50220, Disc Loss: 3.96218, Mono Loss: 0.12273, S2S Loss: 2.77102, SLM Loss: 1.77158
+INFO:2026-11-13 20:54:10,422: [RANK 0] Epoch [4/10], Step [140/140], Mel Loss: 0.35044, Gen Loss: 3.35050, Disc Loss: 3.97778, Mono Loss: 0.12809, S2S Loss: 3.18115, SLM Loss: 1.89135
+INFO:2026-11-13 20:54:12,146: [RANK 0] Validation loss: 0.359
+
+
+
+
+INFO:2026-11-13 20:54:13,756: [RANK 0] Epoch 3: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 20:54:17,817: [RANK 0]   acoustic_norm=3.2359  prosodic_norm=0.3782
+INFO:2026-11-13 20:54:46,601: [RANK 0] Epoch [5/10], Step [10/140], Mel Loss: 0.34896, Gen Loss: 3.12254, Disc Loss: 3.95589, Mono Loss: 0.16125, S2S Loss: 1.96005, SLM Loss: 1.26469
+INFO:2026-11-13 20:55:15,279: [RANK 0] Epoch [5/10], Step [20/140], Mel Loss: 0.33367, Gen Loss: 3.17817, Disc Loss: 3.99739, Mono Loss: 0.13146, S2S Loss: 2.95309, SLM Loss: 1.71142
+INFO:2026-11-13 20:55:43,705: [RANK 0] Epoch [5/10], Step [30/140], Mel Loss: 0.33379, Gen Loss: 3.68488, Disc Loss: 3.90786, Mono Loss: 0.11447, S2S Loss: 2.48877, SLM Loss: 1.76927
+INFO:2026-11-13 20:56:12,179: [RANK 0] Epoch [5/10], Step [40/140], Mel Loss: 0.32151, Gen Loss: 3.44130, Disc Loss: 3.94337, Mono Loss: 0.22412, S2S Loss: 2.77084, SLM Loss: 1.62473
+INFO:2026-11-13 20:56:40,622: [RANK 0] Epoch [5/10], Step [50/140], Mel Loss: 0.32057, Gen Loss: 3.14069, Disc Loss: 3.98329, Mono Loss: 0.12536, S2S Loss: 2.16097, SLM Loss: 1.63812
+INFO:2026-11-13 20:57:09,051: [RANK 0] Epoch [5/10], Step [60/140], Mel Loss: 0.32786, Gen Loss: 3.40003, Disc Loss: 3.98498, Mono Loss: 0.17377, S2S Loss: 3.04083, SLM Loss: 2.07613
+INFO:2026-11-13 20:57:37,486: [RANK 0] Epoch [5/10], Step [70/140], Mel Loss: 0.34957, Gen Loss: 3.24518, Disc Loss: 3.96636, Mono Loss: 0.11753, S2S Loss: 2.66839, SLM Loss: 1.50982
+INFO:2026-11-13 20:58:06,054: [RANK 0] Epoch [5/10], Step [80/140], Mel Loss: 0.34681, Gen Loss: 3.45046, Disc Loss: 3.92203, Mono Loss: 0.14146, S2S Loss: 1.84558, SLM Loss: 1.59742
+INFO:2026-11-13 20:58:34,575: [RANK 0] Epoch [5/10], Step [90/140], Mel Loss: 0.32909, Gen Loss: 3.02501, Disc Loss: 3.99020, Mono Loss: 0.12577, S2S Loss: 2.08680, SLM Loss: 1.51215
+INFO:2026-11-13 20:59:03,107: [RANK 0] Epoch [5/10], Step [100/140], Mel Loss: 0.33054, Gen Loss: 2.84681, Disc Loss: 4.03729, Mono Loss: 0.11730, S2S Loss: 2.22156, SLM Loss: 1.55108
+INFO:2026-11-13 20:59:31,569: [RANK 0] Epoch [5/10], Step [110/140], Mel Loss: 0.34121, Gen Loss: 3.46300, Disc Loss: 3.92966, Mono Loss: 0.12108, S2S Loss: 2.72183, SLM Loss: 1.55272
+INFO:2026-11-13 20:59:59,973: [RANK 0] Epoch [5/10], Step [120/140], Mel Loss: 0.34434, Gen Loss: 3.37277, Disc Loss: 3.99638, Mono Loss: 0.10826, S2S Loss: 2.15288, SLM Loss: 1.64114
+INFO:2026-11-13 21:00:28,340: [RANK 0] Epoch [5/10], Step [130/140], Mel Loss: 0.34198, Gen Loss: 3.20624, Disc Loss: 3.98968, Mono Loss: 0.15363, S2S Loss: 2.53903, SLM Loss: 1.51504
+INFO:2026-11-13 21:00:56,642: [RANK 0] Epoch [5/10], Step [140/140], Mel Loss: 0.33111, Gen Loss: 2.85436, Disc Loss: 4.01223, Mono Loss: 0.15944, S2S Loss: 1.76904, SLM Loss: 1.21690
+INFO:2026-11-13 21:00:58,355: [RANK 0] Validation loss: 0.354
+
+
+
+
+INFO:2026-11-13 21:00:59,931: [RANK 0] Epoch 4: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 21:01:03,939: [RANK 0]   acoustic_norm=2.9202  prosodic_norm=0.3782
+INFO:2026-11-13 21:01:32,607: [RANK 0] Epoch [6/10], Step [10/140], Mel Loss: 0.30301, Gen Loss: 2.95476, Disc Loss: 3.98275, Mono Loss: 0.21096, S2S Loss: 1.73659, SLM Loss: 1.29889
+INFO:2026-11-13 21:02:01,246: [RANK 0] Epoch [6/10], Step [20/140], Mel Loss: 0.33498, Gen Loss: 3.00742, Disc Loss: 3.99820, Mono Loss: 0.21081, S2S Loss: 2.84459, SLM Loss: 1.42810
+INFO:2026-11-13 21:02:29,769: [RANK 0] Epoch [6/10], Step [30/140], Mel Loss: 0.31652, Gen Loss: 3.17391, Disc Loss: 3.97228, Mono Loss: 0.11841, S2S Loss: 2.70429, SLM Loss: 1.71249
+INFO:2026-11-13 21:02:58,262: [RANK 0] Epoch [6/10], Step [40/140], Mel Loss: 0.33658, Gen Loss: 3.34560, Disc Loss: 4.00376, Mono Loss: 0.12839, S2S Loss: 2.13480, SLM Loss: 1.51758
+INFO:2026-11-13 21:03:26,677: [RANK 0] Epoch [6/10], Step [50/140], Mel Loss: 0.34385, Gen Loss: 3.06759, Disc Loss: 3.97886, Mono Loss: 0.21638, S2S Loss: 2.50010, SLM Loss: 1.48821
+INFO:2026-11-13 21:03:55,202: [RANK 0] Epoch [6/10], Step [60/140], Mel Loss: 0.33893, Gen Loss: 3.17315, Disc Loss: 3.97685, Mono Loss: 0.16883, S2S Loss: 1.63961, SLM Loss: 1.55725
+INFO:2026-11-13 21:04:23,636: [RANK 0] Epoch [6/10], Step [70/140], Mel Loss: 0.32103, Gen Loss: 3.52489, Disc Loss: 4.00512, Mono Loss: 0.13272, S2S Loss: 2.45487, SLM Loss: 1.58064
+INFO:2026-11-13 21:04:52,046: [RANK 0] Epoch [6/10], Step [80/140], Mel Loss: 0.33200, Gen Loss: 2.72413, Disc Loss: 3.98871, Mono Loss: 0.16015, S2S Loss: 1.99975, SLM Loss: 1.43042
+INFO:2026-11-13 21:05:20,596: [RANK 0] Epoch [6/10], Step [90/140], Mel Loss: 0.33478, Gen Loss: 3.46951, Disc Loss: 3.93370, Mono Loss: 0.15797, S2S Loss: 2.30094, SLM Loss: 1.71523
+INFO:2026-11-13 21:05:49,577: [RANK 0] Epoch [6/10], Step [100/140], Mel Loss: 0.31427, Gen Loss: 3.06348, Disc Loss: 3.99977, Mono Loss: 0.11244, S2S Loss: 1.99736, SLM Loss: 1.48904
+INFO:2026-11-13 21:06:17,990: [RANK 0] Epoch [6/10], Step [110/140], Mel Loss: 0.31301, Gen Loss: 2.90820, Disc Loss: 4.00074, Mono Loss: 0.33296, S2S Loss: 2.02193, SLM Loss: 1.51718
+INFO:2026-11-13 21:06:46,472: [RANK 0] Epoch [6/10], Step [120/140], Mel Loss: 0.32527, Gen Loss: 3.43522, Disc Loss: 3.96356, Mono Loss: 0.11740, S2S Loss: 1.79068, SLM Loss: 1.61057
+INFO:2026-11-13 21:07:14,887: [RANK 0] Epoch [6/10], Step [130/140], Mel Loss: 0.31937, Gen Loss: 2.89428, Disc Loss: 4.02216, Mono Loss: 0.12709, S2S Loss: 1.71651, SLM Loss: 1.47734
+INFO:2026-11-13 21:07:43,142: [RANK 0] Epoch [6/10], Step [140/140], Mel Loss: 0.34778, Gen Loss: 3.81291, Disc Loss: 3.89957, Mono Loss: 0.15431, S2S Loss: 1.94322, SLM Loss: 1.55463
+INFO:2026-11-13 21:07:44,845: [RANK 0] Validation loss: 0.309
+
+
+
+
+INFO:2026-11-13 21:07:46,576: [RANK 0] Epoch 5: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 21:07:50,570: [RANK 0]   acoustic_norm=2.8454  prosodic_norm=0.3782
+INFO:2026-11-13 21:08:19,369: [RANK 0] Epoch [7/10], Step [10/140], Mel Loss: 0.32191, Gen Loss: 2.86444, Disc Loss: 3.96021, Mono Loss: 0.13188, S2S Loss: 2.86885, SLM Loss: 1.52998
+INFO:2026-11-13 21:08:47,929: [RANK 0] Epoch [7/10], Step [20/140], Mel Loss: 0.30470, Gen Loss: 2.95638, Disc Loss: 3.99819, Mono Loss: 0.14282, S2S Loss: 2.02519, SLM Loss: 1.48437
+INFO:2026-11-13 21:09:16,477: [RANK 0] Epoch [7/10], Step [30/140], Mel Loss: 0.32476, Gen Loss: 3.17593, Disc Loss: 3.97331, Mono Loss: 0.15857, S2S Loss: 1.87965, SLM Loss: 1.68233
+INFO:2026-11-13 21:09:45,002: [RANK 0] Epoch [7/10], Step [40/140], Mel Loss: 0.33325, Gen Loss: 3.12711, Disc Loss: 3.97075, Mono Loss: 0.18210, S2S Loss: 2.11684, SLM Loss: 1.41192
+INFO:2026-11-13 21:10:13,571: [RANK 0] Epoch [7/10], Step [50/140], Mel Loss: 0.32439, Gen Loss: 3.32594, Disc Loss: 3.96236, Mono Loss: 0.15549, S2S Loss: 2.22546, SLM Loss: 1.30984
+INFO:2026-11-13 21:10:42,069: [RANK 0] Epoch [7/10], Step [60/140], Mel Loss: 0.31100, Gen Loss: 3.25263, Disc Loss: 3.98850, Mono Loss: 0.14208, S2S Loss: 1.59420, SLM Loss: 1.43732
+INFO:2026-11-13 21:11:10,514: [RANK 0] Epoch [7/10], Step [70/140], Mel Loss: 0.31940, Gen Loss: 3.22975, Disc Loss: 4.01419, Mono Loss: 0.13664, S2S Loss: 1.50419, SLM Loss: 1.60366
+INFO:2026-11-13 21:11:38,985: [RANK 0] Epoch [7/10], Step [80/140], Mel Loss: 0.30454, Gen Loss: 3.12015, Disc Loss: 3.97844, Mono Loss: 0.14992, S2S Loss: 1.43531, SLM Loss: 1.48834
+INFO:2026-11-13 21:12:07,509: [RANK 0] Epoch [7/10], Step [90/140], Mel Loss: 0.33149, Gen Loss: 3.06045, Disc Loss: 4.00655, Mono Loss: 0.11220, S2S Loss: 1.82506, SLM Loss: 1.26532
+INFO:2026-11-13 21:12:35,883: [RANK 0] Epoch [7/10], Step [100/140], Mel Loss: 0.31108, Gen Loss: 2.87800, Disc Loss: 4.01872, Mono Loss: 0.20586, S2S Loss: 2.00007, SLM Loss: 1.57166
+INFO:2026-11-13 21:13:04,325: [RANK 0] Epoch [7/10], Step [110/140], Mel Loss: 0.31038, Gen Loss: 3.13681, Disc Loss: 4.00427, Mono Loss: 0.14566, S2S Loss: 1.97569, SLM Loss: 1.43912
+INFO:2026-11-13 21:13:32,802: [RANK 0] Epoch [7/10], Step [120/140], Mel Loss: 0.31957, Gen Loss: 2.97881, Disc Loss: 4.02575, Mono Loss: 0.14265, S2S Loss: 1.79044, SLM Loss: 1.47920
+INFO:2026-11-13 21:14:01,304: [RANK 0] Epoch [7/10], Step [130/140], Mel Loss: 0.31258, Gen Loss: 2.83796, Disc Loss: 3.99356, Mono Loss: 0.19899, S2S Loss: 1.11499, SLM Loss: 1.39219
+INFO:2026-11-13 21:14:29,708: [RANK 0] Epoch [7/10], Step [140/140], Mel Loss: 0.30869, Gen Loss: 3.29283, Disc Loss: 3.97023, Mono Loss: 0.16198, S2S Loss: 1.61748, SLM Loss: 1.50259
+INFO:2026-11-13 21:14:31,423: [RANK 0] Validation loss: 0.303
+
+
+
+
+INFO:2026-11-13 21:14:33,177: [RANK 0] Epoch 6: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 21:14:37,234: [RANK 0]   acoustic_norm=3.0129  prosodic_norm=0.3782
+INFO:2026-11-13 21:15:06,211: [RANK 0] Epoch [8/10], Step [10/140], Mel Loss: 0.30936, Gen Loss: 3.49489, Disc Loss: 3.95027, Mono Loss: 0.12166, S2S Loss: 2.32044, SLM Loss: 1.89747
+INFO:2026-11-13 21:15:34,818: [RANK 0] Epoch [8/10], Step [20/140], Mel Loss: 0.30088, Gen Loss: 3.11600, Disc Loss: 3.95012, Mono Loss: 0.13191, S2S Loss: 1.43261, SLM Loss: 1.41760
+INFO:2026-11-13 21:16:03,330: [RANK 0] Epoch [8/10], Step [30/140], Mel Loss: 0.31655, Gen Loss: 3.08191, Disc Loss: 3.99579, Mono Loss: 0.11427, S2S Loss: 1.48699, SLM Loss: 1.37481
+INFO:2026-11-13 21:16:31,776: [RANK 0] Epoch [8/10], Step [40/140], Mel Loss: 0.29785, Gen Loss: 3.36320, Disc Loss: 3.95309, Mono Loss: 0.14805, S2S Loss: 1.70856, SLM Loss: 1.37857
+INFO:2026-11-13 21:17:00,132: [RANK 0] Epoch [8/10], Step [50/140], Mel Loss: 0.29919, Gen Loss: 3.17441, Disc Loss: 3.97420, Mono Loss: 0.21325, S2S Loss: 1.84592, SLM Loss: 1.58094
+INFO:2026-11-13 21:17:28,568: [RANK 0] Epoch [8/10], Step [60/140], Mel Loss: 0.31671, Gen Loss: 2.93256, Disc Loss: 4.02963, Mono Loss: 0.17459, S2S Loss: 1.32860, SLM Loss: 1.27038
+INFO:2026-11-13 21:17:57,178: [RANK 0] Epoch [8/10], Step [70/140], Mel Loss: 0.32140, Gen Loss: 3.79241, Disc Loss: 4.01312, Mono Loss: 0.14269, S2S Loss: 1.68672, SLM Loss: 1.55014
+INFO:2026-11-13 21:18:25,638: [RANK 0] Epoch [8/10], Step [80/140], Mel Loss: 0.30553, Gen Loss: 3.32495, Disc Loss: 3.95200, Mono Loss: 0.16243, S2S Loss: 1.70323, SLM Loss: 1.48023
+INFO:2026-11-13 21:18:53,963: [RANK 0] Epoch [8/10], Step [90/140], Mel Loss: 0.28685, Gen Loss: 3.48838, Disc Loss: 3.95013, Mono Loss: 0.16191, S2S Loss: 1.32018, SLM Loss: 1.48730
+INFO:2026-11-13 21:19:22,564: [RANK 0] Epoch [8/10], Step [100/140], Mel Loss: 0.32822, Gen Loss: 3.24274, Disc Loss: 3.96572, Mono Loss: 0.13121, S2S Loss: 2.25281, SLM Loss: 1.49805
+INFO:2026-11-13 21:19:51,075: [RANK 0] Epoch [8/10], Step [110/140], Mel Loss: 0.30804, Gen Loss: 3.51801, Disc Loss: 3.91834, Mono Loss: 0.10294, S2S Loss: 1.56630, SLM Loss: 1.64811
+INFO:2026-11-13 21:20:19,583: [RANK 0] Epoch [8/10], Step [120/140], Mel Loss: 0.29418, Gen Loss: 3.04528, Disc Loss: 3.94442, Mono Loss: 0.14819, S2S Loss: 1.08811, SLM Loss: 1.38071
+INFO:2026-11-13 21:20:48,190: [RANK 0] Epoch [8/10], Step [130/140], Mel Loss: 0.32371, Gen Loss: 3.25917, Disc Loss: 3.96747, Mono Loss: 0.13651, S2S Loss: 1.37520, SLM Loss: 1.43718
+INFO:2026-11-13 21:21:16,783: [RANK 0] Epoch [8/10], Step [140/140], Mel Loss: 0.32217, Gen Loss: 3.02950, Disc Loss: 3.97114, Mono Loss: 0.14492, S2S Loss: 1.36355, SLM Loss: 1.20002
+INFO:2026-11-13 21:21:18,496: [RANK 0] Validation loss: 0.322
+
+
+
+
+INFO:2026-11-13 21:21:20,161: [RANK 0] Epoch 7: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 21:21:24,170: [RANK 0]   acoustic_norm=2.8375  prosodic_norm=0.3782
+INFO:2026-11-13 21:21:52,958: [RANK 0] Epoch [9/10], Step [10/140], Mel Loss: 0.28026, Gen Loss: 3.20303, Disc Loss: 3.97733, Mono Loss: 0.11055, S2S Loss: 1.40022, SLM Loss: 1.19538
+INFO:2026-11-13 21:22:21,740: [RANK 0] Epoch [9/10], Step [20/140], Mel Loss: 0.30792, Gen Loss: 3.72490, Disc Loss: 3.92381, Mono Loss: 0.14758, S2S Loss: 1.53839, SLM Loss: 1.45803
+INFO:2026-11-13 21:22:50,328: [RANK 0] Epoch [9/10], Step [30/140], Mel Loss: 0.30513, Gen Loss: 2.91150, Disc Loss: 3.99304, Mono Loss: 0.12854, S2S Loss: 1.33063, SLM Loss: 1.42817
+INFO:2026-11-13 21:23:18,886: [RANK 0] Epoch [9/10], Step [40/140], Mel Loss: 0.31533, Gen Loss: 3.25051, Disc Loss: 3.98125, Mono Loss: 0.11967, S2S Loss: 1.63777, SLM Loss: 1.38474
+INFO:2026-11-13 21:23:47,442: [RANK 0] Epoch [9/10], Step [50/140], Mel Loss: 0.31735, Gen Loss: 3.63396, Disc Loss: 4.02954, Mono Loss: 0.15653, S2S Loss: 1.43822, SLM Loss: 1.54681
+INFO:2026-11-13 21:24:15,735: [RANK 0] Epoch [9/10], Step [60/140], Mel Loss: 0.28345, Gen Loss: 2.87639, Disc Loss: 3.96109, Mono Loss: 0.26497, S2S Loss: 1.30731, SLM Loss: 1.51631
+INFO:2026-11-13 21:24:44,271: [RANK 0] Epoch [9/10], Step [70/140], Mel Loss: 0.31657, Gen Loss: 2.79561, Disc Loss: 4.00415, Mono Loss: 0.14715, S2S Loss: 1.83873, SLM Loss: 1.38835
+INFO:2026-11-13 21:25:12,720: [RANK 0] Epoch [9/10], Step [80/140], Mel Loss: 0.29402, Gen Loss: 3.26911, Disc Loss: 3.96750, Mono Loss: 0.10146, S2S Loss: 1.46831, SLM Loss: 1.28872
+INFO:2026-11-13 21:25:41,409: [RANK 0] Epoch [9/10], Step [90/140], Mel Loss: 0.31486, Gen Loss: 3.57733, Disc Loss: 3.94031, Mono Loss: 0.13142, S2S Loss: 2.28805, SLM Loss: 1.56765
+INFO:2026-11-13 21:26:09,982: [RANK 0] Epoch [9/10], Step [100/140], Mel Loss: 0.29863, Gen Loss: 3.25664, Disc Loss: 3.95426, Mono Loss: 0.13561, S2S Loss: 2.38236, SLM Loss: 1.53147
+INFO:2026-11-13 21:26:38,615: [RANK 0] Epoch [9/10], Step [110/140], Mel Loss: 0.29022, Gen Loss: 3.24291, Disc Loss: 3.97962, Mono Loss: 0.10693, S2S Loss: 1.19177, SLM Loss: 1.37383
+INFO:2026-11-13 21:27:07,254: [RANK 0] Epoch [9/10], Step [120/140], Mel Loss: 0.30358, Gen Loss: 3.53674, Disc Loss: 3.93051, Mono Loss: 0.19221, S2S Loss: 1.86381, SLM Loss: 1.61741
+INFO:2026-11-13 21:27:35,774: [RANK 0] Epoch [9/10], Step [130/140], Mel Loss: 0.30156, Gen Loss: 2.84420, Disc Loss: 4.00151, Mono Loss: 0.14737, S2S Loss: 2.29465, SLM Loss: 1.63264
+INFO:2026-11-13 21:28:04,284: [RANK 0] Epoch [9/10], Step [140/140], Mel Loss: 0.31315, Gen Loss: 3.19639, Disc Loss: 3.99659, Mono Loss: 0.15601, S2S Loss: 1.20709, SLM Loss: 1.49683
+INFO:2026-11-13 21:28:06,009: [RANK 0] Validation loss: 0.289
+
+
+
+
+INFO:2026-11-13 21:28:07,736: [RANK 0] Epoch 8: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 21:28:11,850: [RANK 0]   acoustic_norm=2.7296  prosodic_norm=0.3781
+INFO:2026-11-13 21:28:40,790: [RANK 0] Epoch [10/10], Step [10/140], Mel Loss: 0.27751, Gen Loss: 3.07782, Disc Loss: 3.95611, Mono Loss: 0.14100, S2S Loss: 1.13894, SLM Loss: 1.16260
+INFO:2026-11-13 21:29:09,391: [RANK 0] Epoch [10/10], Step [20/140], Mel Loss: 0.28477, Gen Loss: 3.38353, Disc Loss: 3.96606, Mono Loss: 0.15545, S2S Loss: 1.53221, SLM Loss: 1.37815
+INFO:2026-11-13 21:29:37,997: [RANK 0] Epoch [10/10], Step [30/140], Mel Loss: 0.32172, Gen Loss: 3.20289, Disc Loss: 3.96571, Mono Loss: 0.13604, S2S Loss: 1.66401, SLM Loss: 1.40941
+INFO:2026-11-13 21:30:06,548: [RANK 0] Epoch [10/10], Step [40/140], Mel Loss: 0.29548, Gen Loss: 3.15320, Disc Loss: 3.95983, Mono Loss: 0.10456, S2S Loss: 2.64323, SLM Loss: 1.57658
+INFO:2026-11-13 21:30:35,311: [RANK 0] Epoch [10/10], Step [50/140], Mel Loss: 0.31029, Gen Loss: 3.11150, Disc Loss: 3.95778, Mono Loss: 0.16057, S2S Loss: 1.28143, SLM Loss: 1.30978
+INFO:2026-11-13 21:31:03,901: [RANK 0] Epoch [10/10], Step [60/140], Mel Loss: 0.30647, Gen Loss: 3.16170, Disc Loss: 3.99285, Mono Loss: 0.12764, S2S Loss: 0.98021, SLM Loss: 1.26383
+INFO:2026-11-13 21:31:32,282: [RANK 0] Epoch [10/10], Step [70/140], Mel Loss: 0.30253, Gen Loss: 3.13882, Disc Loss: 3.98632, Mono Loss: 0.13771, S2S Loss: 1.29167, SLM Loss: 1.39521
+INFO:2026-11-13 21:32:00,821: [RANK 0] Epoch [10/10], Step [80/140], Mel Loss: 0.29792, Gen Loss: 3.18119, Disc Loss: 4.00330, Mono Loss: 0.14437, S2S Loss: 0.87070, SLM Loss: 1.22119
+INFO:2026-11-13 21:32:29,273: [RANK 0] Epoch [10/10], Step [90/140], Mel Loss: 0.29898, Gen Loss: 2.90822, Disc Loss: 3.98099, Mono Loss: 0.10258, S2S Loss: 1.81633, SLM Loss: 1.23192
+INFO:2026-11-13 21:32:57,681: [RANK 0] Epoch [10/10], Step [100/140], Mel Loss: 0.29102, Gen Loss: 3.39593, Disc Loss: 3.91220, Mono Loss: 0.16257, S2S Loss: 1.78236, SLM Loss: 1.43261
+INFO:2026-11-13 21:33:26,255: [RANK 0] Epoch [10/10], Step [110/140], Mel Loss: 0.32194, Gen Loss: 3.30519, Disc Loss: 4.00735, Mono Loss: 0.23244, S2S Loss: 1.29451, SLM Loss: 1.43063
+INFO:2026-11-13 21:33:54,918: [RANK 0] Epoch [10/10], Step [120/140], Mel Loss: 0.28788, Gen Loss: 3.47945, Disc Loss: 3.93906, Mono Loss: 0.10537, S2S Loss: 1.84828, SLM Loss: 1.49599
+INFO:2026-11-13 21:34:23,573: [RANK 0] Epoch [10/10], Step [130/140], Mel Loss: 0.29949, Gen Loss: 3.18990, Disc Loss: 3.99312, Mono Loss: 0.15617, S2S Loss: 1.74332, SLM Loss: 1.47041
+INFO:2026-11-13 21:34:52,088: [RANK 0] Epoch [10/10], Step [140/140], Mel Loss: 0.30841, Gen Loss: 3.11139, Disc Loss: 4.02968, Mono Loss: 0.11179, S2S Loss: 1.36517, SLM Loss: 1.50233
+INFO:2026-11-13 21:34:53,816: [RANK 0] Validation loss: 0.314
+
+
+
+
+INFO:2026-11-13 21:34:55,599: [RANK 0] Epoch 9: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 21:34:59,665: [RANK 0]   acoustic_norm=2.6742  prosodic_norm=0.3782
+WARNING:2026-11-13 21:35:40,020: TensorBoard inference: no test sentences available (misaki/espeak not found?)
+INFO:2026-11-13 21:35:40,026: Extracting Stage 1 baseline voicepack for TensorBoard...
+INFO:2026-11-13 21:35:46,578:   acoustic_norm=2.6730  prosodic_norm=2.6730
+INFO:2026-11-13 21:36:46,704: Epoch [1/6], Step [10/140], Loss: 0.36362, Disc Loss: 0.00000, Dur Loss: 1.50138, CE Loss: 0.12985, Norm Loss: 1.38817, F0 Loss: 4.47661, LM Loss: 23.24739, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:37:48,580: Epoch [1/6], Step [20/140], Loss: 0.28311, Disc Loss: 0.00000, Dur Loss: 0.76864, CE Loss: 0.04015, Norm Loss: 1.45020, F0 Loss: 4.20976, LM Loss: 51.61427, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:38:56,862: Epoch [1/6], Step [30/140], Loss: 0.28857, Disc Loss: 0.00000, Dur Loss: 1.00803, CE Loss: 0.08970, Norm Loss: 1.03117, F0 Loss: 5.05905, LM Loss: 69.18090, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:40:10,469: Epoch [1/6], Step [40/140], Loss: 0.27989, Disc Loss: 0.00000, Dur Loss: 0.70075, CE Loss: 0.03981, Norm Loss: 0.82629, F0 Loss: 3.10615, LM Loss: 73.93532, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:41:29,930: Epoch [1/6], Step [50/140], Loss: 0.32326, Disc Loss: 0.00000, Dur Loss: 1.12952, CE Loss: 0.06647, Norm Loss: 1.96539, F0 Loss: 8.94017, LM Loss: 144.24876, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:42:55,365: Epoch [1/6], Step [60/140], Loss: 0.27744, Disc Loss: 0.00000, Dur Loss: 1.17178, CE Loss: 0.09087, Norm Loss: 1.28773, F0 Loss: 5.25713, LM Loss: 148.68954, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:44:26,452: Epoch [1/6], Step [70/140], Loss: 0.26367, Disc Loss: 0.00000, Dur Loss: 0.71607, CE Loss: 0.06345, Norm Loss: 0.68084, F0 Loss: 2.37741, LM Loss: 114.76376, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:46:02,410: Epoch [1/6], Step [80/140], Loss: 0.27323, Disc Loss: 0.00000, Dur Loss: 1.83931, CE Loss: 0.21409, Norm Loss: 0.96964, F0 Loss: 2.71211, LM Loss: 176.26173, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:47:45,096: Epoch [1/6], Step [90/140], Loss: 0.27594, Disc Loss: 0.00000, Dur Loss: 1.49328, CE Loss: 0.08034, Norm Loss: 1.26684, F0 Loss: 4.99715, LM Loss: 205.14111, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:49:33,323: Epoch [1/6], Step [100/140], Loss: 0.28783, Disc Loss: 0.00000, Dur Loss: 0.89156, CE Loss: 0.04944, Norm Loss: 0.84489, F0 Loss: 5.20262, LM Loss: 211.13525, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:51:25,716: Epoch [1/6], Step [110/140], Loss: 0.25963, Disc Loss: 0.00000, Dur Loss: 1.10056, CE Loss: 0.09581, Norm Loss: 0.61492, F0 Loss: 1.98336, LM Loss: 218.02910, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:53:23,680: Epoch [1/6], Step [120/140], Loss: 0.28402, Disc Loss: 0.00000, Dur Loss: 0.92229, CE Loss: 0.05784, Norm Loss: 0.77425, F0 Loss: 3.56437, LM Loss: 265.24579, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:55:29,582: Epoch [1/6], Step [130/140], Loss: 0.28273, Disc Loss: 0.00000, Dur Loss: 1.66517, CE Loss: 0.11777, Norm Loss: 0.54883, F0 Loss: 5.11977, LM Loss: 264.96332, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:57:39,580: Epoch [1/6], Step [140/140], Loss: 0.27422, Disc Loss: 0.00000, Dur Loss: 0.80485, CE Loss: 0.03772, Norm Loss: 0.73808, F0 Loss: 3.17634, LM Loss: 301.43683, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 21:57:42,519: Validation loss: 0.401, Dur loss: 1.068, F0 loss: 3.868
+
+
+
+INFO:2026-11-13 21:57:43,519: Epoch 0: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 21:57:48,685:   acoustic_norm=2.6708  prosodic_norm=3.1989
+INFO:2026-11-13 22:00:05,038: Epoch [2/6], Step [10/140], Loss: 0.27016, Disc Loss: 0.00000, Dur Loss: 0.83669, CE Loss: 0.04700, Norm Loss: 1.01480, F0 Loss: 4.85219, LM Loss: 285.26471, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:02:24,412: Epoch [2/6], Step [20/140], Loss: 0.27658, Disc Loss: 0.00000, Dur Loss: 1.45836, CE Loss: 0.11363, Norm Loss: 1.00055, F0 Loss: 5.45443, LM Loss: 322.46375, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:04:50,614: Epoch [2/6], Step [30/140], Loss: 0.26376, Disc Loss: 0.00000, Dur Loss: 1.09273, CE Loss: 0.05555, Norm Loss: 0.64518, F0 Loss: 3.95801, LM Loss: 332.29184, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:07:21,535: Epoch [2/6], Step [40/140], Loss: 0.26183, Disc Loss: 0.00000, Dur Loss: 1.04788, CE Loss: 0.04989, Norm Loss: 0.95831, F0 Loss: 4.72482, LM Loss: 399.22882, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:09:57,368: Epoch [2/6], Step [50/140], Loss: 0.26733, Disc Loss: 0.00000, Dur Loss: 0.82337, CE Loss: 0.03996, Norm Loss: 0.85081, F0 Loss: 2.76961, LM Loss: 371.99490, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:12:39,538: Epoch [2/6], Step [60/140], Loss: 0.27105, Disc Loss: 0.00000, Dur Loss: 0.89650, CE Loss: 0.06343, Norm Loss: 0.65297, F0 Loss: 3.06716, LM Loss: 466.06760, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:15:27,665: Epoch [2/6], Step [70/140], Loss: 0.28135, Disc Loss: 0.00000, Dur Loss: 1.31394, CE Loss: 0.09522, Norm Loss: 1.27072, F0 Loss: 3.64528, LM Loss: 517.34485, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:18:20,987: Epoch [2/6], Step [80/140], Loss: 0.26798, Disc Loss: 0.00000, Dur Loss: 0.74830, CE Loss: 0.04023, Norm Loss: 0.65029, F0 Loss: 5.27222, LM Loss: 464.47888, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:21:18,426: Epoch [2/6], Step [90/140], Loss: 0.27719, Disc Loss: 0.00000, Dur Loss: 0.96139, CE Loss: 0.06286, Norm Loss: 0.75797, F0 Loss: 5.25339, LM Loss: 532.61444, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:24:21,444: Epoch [2/6], Step [100/140], Loss: 0.27575, Disc Loss: 0.00000, Dur Loss: 0.84342, CE Loss: 0.05121, Norm Loss: 0.78936, F0 Loss: 3.64305, LM Loss: 533.15704, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:27:31,678: Epoch [2/6], Step [110/140], Loss: 0.27673, Disc Loss: 0.00000, Dur Loss: 0.76727, CE Loss: 0.03924, Norm Loss: 1.11272, F0 Loss: 4.34607, LM Loss: 465.94186, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:30:46,292: Epoch [2/6], Step [120/140], Loss: 0.26600, Disc Loss: 0.00000, Dur Loss: 0.95758, CE Loss: 0.05328, Norm Loss: 1.80024, F0 Loss: 3.17051, LM Loss: 573.24414, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:34:05,385: Epoch [2/6], Step [130/140], Loss: 0.25192, Disc Loss: 0.00000, Dur Loss: 0.88234, CE Loss: 0.03992, Norm Loss: 0.71519, F0 Loss: 4.09431, LM Loss: 493.59750, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:37:28,849: Epoch [2/6], Step [140/140], Loss: 0.26113, Disc Loss: 0.00000, Dur Loss: 0.85164, CE Loss: 0.04043, Norm Loss: 0.48557, F0 Loss: 4.33232, LM Loss: 518.97009, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:37:31,884: Validation loss: 0.382, Dur loss: 1.085, F0 loss: 3.279
+
+
+
+INFO:2026-11-13 22:37:32,858: Epoch 1: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 22:37:38,029:   acoustic_norm=2.6730  prosodic_norm=2.6226
+INFO:2026-11-13 22:41:11,119: Epoch [3/6], Step [10/140], Loss: 0.26668, Disc Loss: 0.00000, Dur Loss: 1.02039, CE Loss: 0.05817, Norm Loss: 1.21862, F0 Loss: 2.66181, LM Loss: 587.75867, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:44:48,570: Epoch [3/6], Step [20/140], Loss: 0.26523, Disc Loss: 0.00000, Dur Loss: 0.74166, CE Loss: 0.03568, Norm Loss: 0.83045, F0 Loss: 4.44943, LM Loss: 618.90271, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:48:35,088: Epoch [3/6], Step [30/140], Loss: 0.25924, Disc Loss: 0.00000, Dur Loss: 1.16598, CE Loss: 0.11676, Norm Loss: 0.85964, F0 Loss: 2.44346, LM Loss: 607.16132, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:52:32,538: Epoch [3/6], Step [40/140], Loss: 0.27641, Disc Loss: 0.00000, Dur Loss: 0.97768, CE Loss: 0.06410, Norm Loss: 1.09294, F0 Loss: 2.38084, LM Loss: 755.65399, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 22:56:28,079: Epoch [3/6], Step [50/140], Loss: 0.25899, Disc Loss: 0.00000, Dur Loss: 1.74736, CE Loss: 0.09534, Norm Loss: 0.82116, F0 Loss: 3.84124, LM Loss: 652.98328, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:00:29,908: Epoch [3/6], Step [60/140], Loss: 0.24585, Disc Loss: 0.00000, Dur Loss: 1.24313, CE Loss: 0.07248, Norm Loss: 0.70551, F0 Loss: 3.61913, LM Loss: 689.83813, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:04:37,465: Epoch [3/6], Step [70/140], Loss: 0.23881, Disc Loss: 0.00000, Dur Loss: 1.05449, CE Loss: 0.06677, Norm Loss: 0.84490, F0 Loss: 2.59948, LM Loss: 791.62952, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:08:48,469: Epoch [3/6], Step [80/140], Loss: 0.24723, Disc Loss: 0.00000, Dur Loss: 1.16029, CE Loss: 0.05984, Norm Loss: 0.52114, F0 Loss: 3.32123, LM Loss: 610.94946, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:13:05,661: Epoch [3/6], Step [90/140], Loss: 0.29614, Disc Loss: 0.00000, Dur Loss: 0.98287, CE Loss: 0.04214, Norm Loss: 0.65592, F0 Loss: 3.79278, LM Loss: 911.44800, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:17:28,776: Epoch [3/6], Step [100/140], Loss: 0.27824, Disc Loss: 0.00000, Dur Loss: 0.93765, CE Loss: 0.05974, Norm Loss: 1.18181, F0 Loss: 5.50215, LM Loss: 801.13489, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:21:57,324: Epoch [3/6], Step [110/140], Loss: 0.24920, Disc Loss: 0.00000, Dur Loss: 0.88066, CE Loss: 0.04167, Norm Loss: 0.92534, F0 Loss: 2.81160, LM Loss: 706.35535, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:26:33,247: Epoch [3/6], Step [120/140], Loss: 0.24690, Disc Loss: 0.00000, Dur Loss: 1.17244, CE Loss: 0.06388, Norm Loss: 0.77017, F0 Loss: 4.96702, LM Loss: 723.66309, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:31:12,031: Epoch [3/6], Step [130/140], Loss: 0.26465, Disc Loss: 0.00000, Dur Loss: 0.82351, CE Loss: 0.04343, Norm Loss: 0.69071, F0 Loss: 4.09040, LM Loss: 780.48193, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:35:58,622: Epoch [3/6], Step [140/140], Loss: 0.27342, Disc Loss: 0.00000, Dur Loss: 1.28969, CE Loss: 0.05953, Norm Loss: 1.01631, F0 Loss: 3.01696, LM Loss: 830.55908, Gen Loss: 0.00000, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.00000, GenLM Loss: 0.00000
+INFO:2026-11-13 23:36:01,665: Validation loss: 0.377, Dur loss: 1.061, F0 loss: 3.479
+
+
+
+INFO:2026-11-13 23:36:02,611: Epoch 2: extracting voicepack for TensorBoard inference...
+INFO:2026-11-13 23:36:07,804:   acoustic_norm=2.6718  prosodic_norm=2.1501
+INFO:2026-11-14 00:57:34,426: Validation loss: 0.385, Dur loss: 0.955, F0 loss: 3.313
+
+
+
+INFO:2026-11-14 00:57:36,236: Epoch 3: extracting voicepack for TensorBoard inference...
+INFO:2026-11-14 00:57:41,607:   acoustic_norm=2.3662  prosodic_norm=2.4995
