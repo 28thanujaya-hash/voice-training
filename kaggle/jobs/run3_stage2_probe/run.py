@@ -5,7 +5,7 @@
 import csv, glob, json, os, random, re, shutil, subprocess, sys, time, traceback
 sys.path.insert(0, os.getcwd())
 T0 = time.time(); LOG = []; W = "/kaggle/working"; TMP = "/kaggle/tmp"; os.makedirs(TMP, exist_ok=True)
-PROBE_STEPS = 15
+PROBE_STEPS = 20
 EPOCHS_1, EPOCHS_2, JOINT = 10, 1, 0
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"   # 13 Nov: stage 2 ran out of memory (T4, SLM adversarial)
 ROWS = ["normal", "bright", "low", "tense"]
@@ -26,7 +26,7 @@ def sh(c, cwd=None, tail=40):
     for l in out[-tail:]: print("   " + l)
     if p.returncode: raise RuntimeError(f"failed ({p.returncode}): {c[:120]}\n" + "\n".join(out[-tail:]))
     return "\n".join(out)
-report = ["# Run 3 · stage-2 memory probe", ""]; steps = []
+report = ["# Run 3 · stage-2 memory probe v3 (SLM step enabled: batch_percentage 1.0)", ""]; steps = []
 def step(name, ok, note=""):
     steps.append((name, ok, note)); log(f"STEP {name}: {'OK' if ok else 'FAILED'} {note}")
 
@@ -102,29 +102,37 @@ try:
     if not st1: raise RuntimeError("try-2 stage-1 checkpoint not found under /kaggle/input")
     log(f"stage-1 checkpoint: {st1[0]}")
     tsrc = open(f"{S}/train_second.py").read()
-    anchor = "            iters = iters + 1\n"
-    assert tsrc.count(anchor) == 1, "probe anchor not found"
-    hook = anchor + """            _pm = [round(torch.cuda.max_memory_allocated(d) / 2**30, 2) for d in range(torch.cuda.device_count())]
+    # v3 hooks: A right after the main backward (every step), B before iters+=1 (only reached when the SLM step ran)
+    anchA = "            g_loss.backward()\n"; anchB = "            iters = iters + 1\n"
+    assert tsrc.count(anchA) == 1 and tsrc.count(anchB) == 1, "probe anchors not found"
+    rec = """            _pm = [round(torch.cuda.max_memory_allocated(d) / 2**30, 2) for d in range(torch.cuda.device_count())]
             _lv = {k: (float(v) if hasattr(v, "item") else float(v or 0)) for k, v in dict(gen=locals().get("loss_gen_all", 0), slm=locals().get("loss_gen_lm", 0), dslm=locals().get("d_loss_slm", 0), disc=locals().get("d_loss", 0)).items()}
-            print("PROBE " + __import__("json").dumps(dict(step=iters, peak_gb=_pm, t=__import__("time").time(), **_lv)), flush=True)
-            if iters >= PROBE_STEPS: __import__("sys").exit(0)
 """
-    open(f"{S}/train_second_probe.py", "w").write(tsrc.replace(anchor, hook).replace("import ", f"PROBE_STEPS = {PROBE_STEPS}\nimport ", 1))
-    SETTINGS = [("crop200_b2", 200, 2), ("crop150_b2", 150, 2), ("crop100_b2", 100, 2), ("crop200_b1", 200, 1), ("crop120_b2", 120, 2)]
+    hookA = anchA + rec + """            globals()["_PSTEP"] = globals().get("_PSTEP", 0) + 1
+            print("PROBE " + __import__("json").dumps(dict(where="main", step=globals()["_PSTEP"], peak_gb=_pm, t=__import__("time").time(), **_lv)), flush=True)
+            if globals()["_PSTEP"] > PROBE_STEPS: __import__("os")._exit(0)
+"""
+    hookB = rec + """            print("PROBE " + __import__("json").dumps(dict(where="slm", step=globals().get("_PSTEP", 0), peak_gb=_pm, t=__import__("time").time(), **_lv)), flush=True)
+""" + anchB
+    open(f"{S}/train_second_probe.py", "w").write(tsrc.replace(anchA, hookA).replace(anchB, hookB).replace("import ", f"PROBE_STEPS = {PROBE_STEPS}\nimport ", 1))
+    # v3: batch 2 with slmadv batch_percentage 1.0 (with 0.5 the SLM step needs >1 clip of 0.5*2=1 and always returns None)
+    SETTINGS = [("crop200_slm500", 200, 2, 500), ("crop200_slm250", 200, 2, 250), ("crop150_slm250", 150, 2, 250), ("crop120_slm250", 120, 2, 250)]
     results = []
-    for name, crop, bs in SETTINGS:
+    for name, crop, bs, slmlen in SETTINGS:
         ld = f"{TMP}/logs/{name}"; os.makedirs(ld, exist_ok=True); shutil.copy(st1[0], f"{ld}/first_stage.pth")
         c = json.loads(json.dumps(cfg)); c.update(batch_size=bs, max_len=crop, epochs=1, epochs_2nd=1, log_dir=ld, save_freq=99)
         c["loss_params"]["joint_epoch"] = 0
+        c["slmadv_params"].update(max_len=slmlen, batch_percentage=1.0)
         yaml.safe_dump(c, open(f"{K}/configs/{name}.yml", "w"), sort_keys=False)
         t = time.time(); rc = sh_log(f"python train_second_probe.py --config_path {K}/configs/{name}.yml", S, f"{W}/probe_{name}.txt")
-        txt = open(f"{W}/probe_{name}.txt").read(); pr = [json.loads(l[6:]) for l in txt.splitlines() if l.startswith("PROBE ")]
+        txt = open(f"{W}/probe_{name}.txt").read(); allp = [json.loads(l[6:]) for l in txt.splitlines() if l.startswith("PROBE ")]
+        pr = [p for p in allp if p["where"] == "main"]; ps = [p for p in allp if p["where"] == "slm"]
         oom = "OutOfMemoryError" in txt or "out of memory" in txt
         dt = [b["t"] - a["t"] for a, b in zip(pr, pr[1:])]
         r = dict(name=name, crop=crop, batch=bs, rc=rc, oom=oom, steps=len(pr),
-                 peak=[max(p["peak_gb"][d] for p in pr) for d in range(len(pr[0]["peak_gb"]))] if pr else None,
+                 peak=[max(p["peak_gb"][d] for p in allp) for d in range(len(allp[0]["peak_gb"]))] if allp else None,
                  s_per_step=round(sum(dt) / len(dt), 1) if dt else None,
-                 slm_steps=sum(1 for p in pr if p["slm"] != 0), gen_steps=sum(1 for p in pr if p["gen"] != 0),
+                 slm_steps=sum(1 for p in ps if p["slm"] != 0), gen_steps=sum(1 for p in pr if p["gen"] != 0),
                  minutes=round((time.time() - t) / 60, 1))
         results.append(r); log(f"PROBE RESULT {r}")
         step(f"probe {name}", rc == 0 and not oom and len(pr) >= PROBE_STEPS, f"{len(pr)} steps, peak GB {r['peak']}, {r['s_per_step']} s/step, adversarial steps {r['slm_steps']}")
