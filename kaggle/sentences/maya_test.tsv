@@ -379,3 +379,243 @@ mtp193	maya	normal	marks	Thanks…
 mtp201	maya	normal	marks	Sorry.
 mtp202	maya	normal	marks	Sorry?
 mtp203	maya	normal	marks	Sorry…
+mtq01np	maya	normal	marks2-plain:?	You're coming tonight.
+mtq01nm	maya	normal	marks2:?	You're coming tonight?
+mtq01bp	maya	bright	marks2-plain:?	You're coming tonight.
+mtq01bm	maya	bright	marks2:?	You're coming tonight?
+mtq01lp	maya	low	marks2-plain:?	You're coming tonight.
+mtq01lm	maya	low	marks2:?	You're coming tonight?
+mtq01tp	maya	tense	marks2-plain:?	You're coming tonight.
+mtq01tm	maya	tense	marks2:?	You're coming tonight?
+mtq02np	maya	normal	marks2-plain:?	She's at home.
+mtq02nm	maya	normal	marks2:?	She's at home?
+mtq02bp	maya	bright	marks2-plain:?	She's at home.
+mtq02bm	maya	bright	marks2:?	She's at home?
+mtq02lp	maya	low	marks2-plain:?	She's at home.
+mtq02lm	maya	low	marks2:?	She's at home?
+mtq02tp	maya	tense	marks2-plain:?	She's at home.
+mtq02tm	maya	tense	marks2:?	She's at home?
+mtq03np	maya	normal	marks2-plain:?	The shop is open.
+mtq03nm	maya	normal	marks2:?	The shop is open?
+mtq03bp	maya	bright	marks2-plain:?	The shop is open.
+mtq03bm	maya	bright	marks2:?	The shop is open?
+mtq03lp	maya	low	marks2-plain:?	The shop is open.
+mtq03lm	maya	low	marks2:?	The shop is open?
+mtq03tp	maya	tense	marks2-plain:?	The shop is open.
+mtq03tm	maya	tense	marks2:?	The shop is open?
+mtq04np	maya	normal	marks2-plain:?	He fixed it.
+mtq04nm	maya	normal	marks2:?	He fixed it?
+mtq04bp	maya	bright	marks2-plain:?	He fixed it.
+mtq04bm	maya	bright	marks2:?	He fixed it?
+mtq04lp	maya	low	marks2-plain:?	He fixed it.
+mtq04lm	maya	low	marks2:?	He fixed it?
+mtq04tp	maya	tense	marks2-plain:?	He fixed it.
+mtq04tm	maya	tense	marks2:?	He fixed it?
+mtq05np	maya	normal	marks2-plain:?	We're done.
+mtq05nm	maya	normal	marks2:?	We're done?
+mtq05bp	maya	bright	marks2-plain:?	We're done.
+mtq05bm	maya	bright	marks2:?	We're done?
+mtq05lp	maya	low	marks2-plain:?	We're done.
+mtq05lm	maya	low	marks2:?	We're done?
+mtq05tp	maya	tense	marks2-plain:?	We're done.
+mtq05tm	maya	tense	marks2:?	We're done?
+mtq06np	maya	normal	marks2-plain:!	That's the bus.
+mtq06nm	maya	normal	marks2:!	That's the bus!
+mtq06bp	maya	bright	marks2-plain:!	That's the bus.
+mtq06bm	maya	bright	marks2:!	That's the bus!
+mtq06lp	maya	low	marks2-plain:!	That's the bus.
+mtq06lm	maya	low	marks2:!	That's the bus!
+mtq06tp	maya	tense	marks2-plain:!	That's the bus.
+mtq06tm	maya	tense	marks2:!	That's the bus!
+mtq07np	maya	normal	marks2-plain:!	I found it.
+mtq07nm	maya	normal	marks2:!	I found it!
+mtq07bp	maya	bright	marks2-plain:!	I found it.
+mtq07bm	maya	bright	marks2:!	I found it!
+mtq07lp	maya	low	marks2-plain:!	I found it.
+mtq07lm	maya	low	marks2:!	I found it!
+mtq07tp	maya	tense	marks2-plain:!	I found it.
+mtq07tm	maya	tense	marks2:!	I found it!
+mtq08np	maya	normal	marks2-plain:!	We made it.
+mtq08nm	maya	normal	marks2:!	We made it!
+mtq08bp	maya	bright	marks2-plain:!	We made it.
+mtq08bm	maya	bright	marks2:!	We made it!
+mtq08lp	maya	low	marks2-plain:!	We made it.
+mtq08lm	maya	low	marks2:!	We made it!
+mtq08tp	maya	tense	marks2-plain:!	We made it.
+mtq08tm	maya	tense	marks2:!	We made it!
+mtq09np	maya	normal	marks2-plain:!	It's Friday.
+mtq09nm	maya	normal	marks2:!	It's Friday!
+mtq09bp	maya	bright	marks2-plain:!	It's Friday.
+mtq09bm	maya	bright	marks2:!	It's Friday!
+mtq09lp	maya	low	marks2-plain:!	It's Friday.
+mtq09lm	maya	low	marks2:!	It's Friday!
+mtq09tp	maya	tense	marks2-plain:!	It's Friday.
+mtq09tm	maya	tense	marks2:!	It's Friday!
+mtq10np	maya	normal	marks2-plain:!	They're here.
+mtq10nm	maya	normal	marks2:!	They're here!
+mtq10bp	maya	bright	marks2-plain:!	They're here.
+mtq10bm	maya	bright	marks2:!	They're here!
+mtq10lp	maya	low	marks2-plain:!	They're here.
+mtq10lm	maya	low	marks2:!	They're here!
+mtq10tp	maya	tense	marks2-plain:!	They're here.
+mtq10tm	maya	tense	marks2:!	They're here!
+mtq11np	maya	normal	marks2-plain:…	I don't know.
+mtq11nm	maya	normal	marks2:…	I don't know…
+mtq11bp	maya	bright	marks2-plain:…	I don't know.
+mtq11bm	maya	bright	marks2:…	I don't know…
+mtq11lp	maya	low	marks2-plain:…	I don't know.
+mtq11lm	maya	low	marks2:…	I don't know…
+mtq11tp	maya	tense	marks2-plain:…	I don't know.
+mtq11tm	maya	tense	marks2:…	I don't know…
+mtq12np	maya	normal	marks2-plain:…	Maybe tomorrow.
+mtq12nm	maya	normal	marks2:…	Maybe tomorrow…
+mtq12bp	maya	bright	marks2-plain:…	Maybe tomorrow.
+mtq12bm	maya	bright	marks2:…	Maybe tomorrow…
+mtq12lp	maya	low	marks2-plain:…	Maybe tomorrow.
+mtq12lm	maya	low	marks2:…	Maybe tomorrow…
+mtq12tp	maya	tense	marks2-plain:…	Maybe tomorrow.
+mtq12tm	maya	tense	marks2:…	Maybe tomorrow…
+mtq13np	maya	normal	marks2-plain:…	It's late.
+mtq13nm	maya	normal	marks2:…	It's late…
+mtq13bp	maya	bright	marks2-plain:…	It's late.
+mtq13bm	maya	bright	marks2:…	It's late…
+mtq13lp	maya	low	marks2-plain:…	It's late.
+mtq13lm	maya	low	marks2:…	It's late…
+mtq13tp	maya	tense	marks2-plain:…	It's late.
+mtq13tm	maya	tense	marks2:…	It's late…
+mtq14np	maya	normal	marks2-plain:…	She left early.
+mtq14nm	maya	normal	marks2:…	She left early…
+mtq14bp	maya	bright	marks2-plain:…	She left early.
+mtq14bm	maya	bright	marks2:…	She left early…
+mtq14lp	maya	low	marks2-plain:…	She left early.
+mtq14lm	maya	low	marks2:…	She left early…
+mtq14tp	maya	tense	marks2-plain:…	She left early.
+mtq14tm	maya	tense	marks2:…	She left early…
+mtq15np	maya	normal	marks2-plain:…	We could try.
+mtq15nm	maya	normal	marks2:…	We could try…
+mtq15bp	maya	bright	marks2-plain:…	We could try.
+mtq15bm	maya	bright	marks2:…	We could try…
+mtq15lp	maya	low	marks2-plain:…	We could try.
+mtq15lm	maya	low	marks2:…	We could try…
+mtq15tp	maya	tense	marks2-plain:…	We could try.
+mtq15tm	maya	tense	marks2:…	We could try…
+mtq16np	maya	normal	marks2-plain:—	I was going to tell you, but I forgot.
+mtq16nm	maya	normal	marks2:—	I was going to tell you — but I forgot.
+mtq16bp	maya	bright	marks2-plain:—	I was going to tell you, but I forgot.
+mtq16bm	maya	bright	marks2:—	I was going to tell you — but I forgot.
+mtq16lp	maya	low	marks2-plain:—	I was going to tell you, but I forgot.
+mtq16lm	maya	low	marks2:—	I was going to tell you — but I forgot.
+mtq16tp	maya	tense	marks2-plain:—	I was going to tell you, but I forgot.
+mtq16tm	maya	tense	marks2:—	I was going to tell you — but I forgot.
+mtq17np	maya	normal	marks2-plain:—	Take the red one, not the blue.
+mtq17nm	maya	normal	marks2:—	Take the red one — not the blue.
+mtq17bp	maya	bright	marks2-plain:—	Take the red one, not the blue.
+mtq17bm	maya	bright	marks2:—	Take the red one — not the blue.
+mtq17lp	maya	low	marks2-plain:—	Take the red one, not the blue.
+mtq17lm	maya	low	marks2:—	Take the red one — not the blue.
+mtq17tp	maya	tense	marks2-plain:—	Take the red one, not the blue.
+mtq17tm	maya	tense	marks2:—	Take the red one — not the blue.
+mtq18np	maya	normal	marks2-plain:—	We have one hour, so be quick.
+mtq18nm	maya	normal	marks2:—	We have one hour — so be quick.
+mtq18bp	maya	bright	marks2-plain:—	We have one hour, so be quick.
+mtq18bm	maya	bright	marks2:—	We have one hour — so be quick.
+mtq18lp	maya	low	marks2-plain:—	We have one hour, so be quick.
+mtq18lm	maya	low	marks2:—	We have one hour — so be quick.
+mtq18tp	maya	tense	marks2-plain:—	We have one hour, so be quick.
+mtq18tm	maya	tense	marks2:—	We have one hour — so be quick.
+mtq19np	maya	normal	marks2-plain:—	He called, and then he hung up.
+mtq19nm	maya	normal	marks2:—	He called — and then he hung up.
+mtq19bp	maya	bright	marks2-plain:—	He called, and then he hung up.
+mtq19bm	maya	bright	marks2:—	He called — and then he hung up.
+mtq19lp	maya	low	marks2-plain:—	He called, and then he hung up.
+mtq19lm	maya	low	marks2:—	He called — and then he hung up.
+mtq19tp	maya	tense	marks2-plain:—	He called, and then he hung up.
+mtq19tm	maya	tense	marks2:—	He called — and then he hung up.
+mtq20np	maya	normal	marks2-plain:—	It's not mine, it's Priya's.
+mtq20nm	maya	normal	marks2:—	It's not mine — it's Priya's.
+mtq20bp	maya	bright	marks2-plain:—	It's not mine, it's Priya's.
+mtq20bm	maya	bright	marks2:—	It's not mine — it's Priya's.
+mtq20lp	maya	low	marks2-plain:—	It's not mine, it's Priya's.
+mtq20lm	maya	low	marks2:—	It's not mine — it's Priya's.
+mtq20tp	maya	tense	marks2-plain:—	It's not mine, it's Priya's.
+mtq20tm	maya	tense	marks2:—	It's not mine — it's Priya's.
+mtq21np	maya	normal	marks2-plain:?!	You saw him?
+mtq21nm	maya	normal	marks2:?!	You saw him?!
+mtq21bp	maya	bright	marks2-plain:?!	You saw him?
+mtq21bm	maya	bright	marks2:?!	You saw him?!
+mtq21lp	maya	low	marks2-plain:?!	You saw him?
+mtq21lm	maya	low	marks2:?!	You saw him?!
+mtq21tp	maya	tense	marks2-plain:?!	You saw him?
+mtq21tm	maya	tense	marks2:?!	You saw him?!
+mtq22np	maya	normal	marks2-plain:?!	It's broken?
+mtq22nm	maya	normal	marks2:?!	It's broken?!
+mtq22bp	maya	bright	marks2-plain:?!	It's broken?
+mtq22bm	maya	bright	marks2:?!	It's broken?!
+mtq22lp	maya	low	marks2-plain:?!	It's broken?
+mtq22lm	maya	low	marks2:?!	It's broken?!
+mtq22tp	maya	tense	marks2-plain:?!	It's broken?
+mtq22tm	maya	tense	marks2:?!	It's broken?!
+mtq23np	maya	normal	marks2-plain:?!	She said yes?
+mtq23nm	maya	normal	marks2:?!	She said yes?!
+mtq23bp	maya	bright	marks2-plain:?!	She said yes?
+mtq23bm	maya	bright	marks2:?!	She said yes?!
+mtq23lp	maya	low	marks2-plain:?!	She said yes?
+mtq23lm	maya	low	marks2:?!	She said yes?!
+mtq23tp	maya	tense	marks2-plain:?!	She said yes?
+mtq23tm	maya	tense	marks2:?!	She said yes?!
+mtq24np	maya	normal	marks2-plain:?!	They left?
+mtq24nm	maya	normal	marks2:?!	They left?!
+mtq24bp	maya	bright	marks2-plain:?!	They left?
+mtq24bm	maya	bright	marks2:?!	They left?!
+mtq24lp	maya	low	marks2-plain:?!	They left?
+mtq24lm	maya	low	marks2:?!	They left?!
+mtq24tp	maya	tense	marks2-plain:?!	They left?
+mtq24tm	maya	tense	marks2:?!	They left?!
+mtq25np	maya	normal	marks2-plain:?!	You ate it all?
+mtq25nm	maya	normal	marks2:?!	You ate it all?!
+mtq25bp	maya	bright	marks2-plain:?!	You ate it all?
+mtq25bm	maya	bright	marks2:?!	You ate it all?!
+mtq25lp	maya	low	marks2-plain:?!	You ate it all?
+mtq25lm	maya	low	marks2:?!	You ate it all?!
+mtq25tp	maya	tense	marks2-plain:?!	You ate it all?
+mtq25tm	maya	tense	marks2:?!	You ate it all?!
+mtq26np	maya	normal	marks2-plain:CAPS	I want the green one.
+mtq26nm	maya	normal	marks2:CAPS	I want the GREEN one.
+mtq26bp	maya	bright	marks2-plain:CAPS	I want the green one.
+mtq26bm	maya	bright	marks2:CAPS	I want the GREEN one.
+mtq26lp	maya	low	marks2-plain:CAPS	I want the green one.
+mtq26lm	maya	low	marks2:CAPS	I want the GREEN one.
+mtq26tp	maya	tense	marks2-plain:CAPS	I want the green one.
+mtq26tm	maya	tense	marks2:CAPS	I want the GREEN one.
+mtq27np	maya	normal	marks2-plain:CAPS	She lives near the station.
+mtq27nm	maya	normal	marks2:CAPS	SHE lives near the station.
+mtq27bp	maya	bright	marks2-plain:CAPS	She lives near the station.
+mtq27bm	maya	bright	marks2:CAPS	SHE lives near the station.
+mtq27lp	maya	low	marks2-plain:CAPS	She lives near the station.
+mtq27lm	maya	low	marks2:CAPS	SHE lives near the station.
+mtq27tp	maya	tense	marks2-plain:CAPS	She lives near the station.
+mtq27tm	maya	tense	marks2:CAPS	SHE lives near the station.
+mtq28np	maya	normal	marks2-plain:CAPS	We start at nine.
+mtq28nm	maya	normal	marks2:CAPS	We start at NINE.
+mtq28bp	maya	bright	marks2-plain:CAPS	We start at nine.
+mtq28bm	maya	bright	marks2:CAPS	We start at NINE.
+mtq28lp	maya	low	marks2-plain:CAPS	We start at nine.
+mtq28lm	maya	low	marks2:CAPS	We start at NINE.
+mtq28tp	maya	tense	marks2-plain:CAPS	We start at nine.
+mtq28tm	maya	tense	marks2:CAPS	We start at NINE.
+mtq29np	maya	normal	marks2-plain:CAPS	He never called.
+mtq29nm	maya	normal	marks2:CAPS	He NEVER called.
+mtq29bp	maya	bright	marks2-plain:CAPS	He never called.
+mtq29bm	maya	bright	marks2:CAPS	He NEVER called.
+mtq29lp	maya	low	marks2-plain:CAPS	He never called.
+mtq29lm	maya	low	marks2:CAPS	He NEVER called.
+mtq29tp	maya	tense	marks2-plain:CAPS	He never called.
+mtq29tm	maya	tense	marks2:CAPS	He NEVER called.
+mtq30np	maya	normal	marks2-plain:CAPS	That's my cup.
+mtq30nm	maya	normal	marks2:CAPS	That's MY cup.
+mtq30bp	maya	bright	marks2-plain:CAPS	That's my cup.
+mtq30bm	maya	bright	marks2:CAPS	That's MY cup.
+mtq30lp	maya	low	marks2-plain:CAPS	That's my cup.
+mtq30lm	maya	low	marks2:CAPS	That's MY cup.
+mtq30tp	maya	tense	marks2-plain:CAPS	That's my cup.
+mtq30tm	maya	tense	marks2:CAPS	That's MY cup.
