@@ -101,8 +101,8 @@ try:
     yaml.safe_dump(cfg, open(f"{K}/configs/run3.yml", "w"), sort_keys=False)
 
     from part import PART
-    EPOCHS_PER_PART = 2
-    report[0] = f"# Run 3 · stage 2, part {PART} (epochs {2*PART-1}–{2*PART})"
+    EPOCHS_PER_PART = 1   # part 1 took >4 h for 2 epochs: 1 epoch per job keeps jobs short
+    report[0] = f"# Run 3 · stage 2, part {PART} ({EPOCHS_PER_PART} epoch, resumed from part {PART-1})"
     sh("pip install -q 'transformers==4.57.6'", tail=2)
     st1 = glob.glob("/kaggle/input/**/kokoro_maya_v01_stage1.pth", recursive=True)[0]
     prev = glob.glob(f"/kaggle/input/**/s2_part{PART-1}.pth", recursive=True) if PART > 1 else []
