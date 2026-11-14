@@ -6,7 +6,7 @@ import csv, glob, json, os, random, re, shutil, subprocess, sys, time, traceback
 sys.path.insert(0, os.getcwd())
 T0 = time.time(); LOG = []; W = "/kaggle/working"; TMP = "/kaggle/tmp"; os.makedirs(TMP, exist_ok=True)
 PROBE_STEPS = 15
-EPOCHS_1, EPOCHS_2 = 10, 1
+EPOCHS_1, EPOCHS_2, JOINT = 10, 1, 0
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"   # 13 Nov: stage 2 ran out of memory (T4, SLM adversarial)
 ROWS = ["normal", "bright", "low", "tense"]
 def log(s):
