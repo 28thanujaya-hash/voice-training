@@ -26,7 +26,7 @@ def sh(c, cwd=None, tail=40):
     for l in out[-tail:]: print("   " + l)
     if p.returncode: raise RuntimeError(f"failed ({p.returncode}): {c[:120]}\n" + "\n".join(out[-tail:]))
     return "\n".join(out)
-report = ["# Run 3 · stage-2 memory probe v3 (SLM step enabled: batch_percentage 1.0)", ""]; steps = []
+report = ["# Run 3 · stage-2 memory probe v4 (WavLM diagnosis + SLM step enabled: batch_percentage 1.0)", ""]; steps = []
 def step(name, ok, note=""):
     steps.append((name, ok, note)); log(f"STEP {name}: {'OK' if ok else 'FAILED'} {note}")
 
@@ -101,6 +101,37 @@ try:
     st1 = glob.glob("/kaggle/input/**/kokoro_maya_v01_stage1.pth", recursive=True)
     if not st1: raise RuntimeError("try-2 stage-1 checkpoint not found under /kaggle/input")
     log(f"stage-1 checkpoint: {st1[0]}")
+    # ---- v4: WavLM diagnosis (probe v3 crashed: the WavLM judge expects 13 layers x 768, got 28416 = 37 x 768)
+    DIAG = r"""
+import torch, transformers, json
+from transformers import AutoModel
+m = AutoModel.from_pretrained("microsoft/wavlm-base-plus").eval()
+out = {"transformers": transformers.__version__, "class": type(m).__name__, "num_hidden_layers": m.config.num_hidden_layers}
+for name, shape in (("2d", (2, 16000)), ("3d", (2, 1, 16000))):
+    try:
+        with torch.no_grad(): hs = m(input_values=torch.randn(*shape), output_hidden_states=True).hidden_states
+        out[name] = {"n": len(hs), "shapes": sorted({str(tuple(h.shape)) for h in hs})}
+    except Exception as e: out[name] = "error: " + str(e)[:200]
+print("DIAG " + json.dumps(out))
+"""
+    open(f"{TMP}/diag.py", "w").write(DIAG)
+    def diag(tag):
+        o = sh(f"python {TMP}/diag.py", tail=3); d = json.loads([l for l in o.splitlines() if l.startswith("DIAG ")][-1][5:])
+        log(f"WavLM diagnosis ({tag}): {d}"); report.extend([f"- WavLM diagnosis ({tag}): `{json.dumps(d)}`"]); return d
+    report += ["## WavLM diagnosis", ""]
+    d = diag("as installed")
+    ok = lambda d: isinstance(d.get("2d"), dict) and d["2d"]["n"] == 13
+    if not ok(d):
+        sh("pip install -q 'transformers>=4.46,<5'", tail=3); d = diag("after pinning transformers<5")
+    step("WavLM returns 13 layers", ok(d), f"transformers {d.get('transformers')}")
+    if not ok(d): raise RuntimeError("WavLM still does not return 13 hidden states; stopping before the probe (report to the mentor)")
+    report.append("")
+    # input-shape guard: every WavLM call gets (batch, samples); a (batch, 1, samples) input is flattened. Harmless if already 2-D.
+    lsrc = open(f"{S}/losses.py").read()
+    lnew = re.sub(r"self\.wavlm\(input_values=([^,]+), output_hidden_states=True\)",
+                  lambda m: f"self.wavlm(input_values=({m.group(1)}).reshape(-1, ({m.group(1)}).shape[-1]), output_hidden_states=True)", lsrc)
+    log(f"losses.py: {lsrc.count('self.wavlm(input_values=')} WavLM calls; {sum(1 for x, y in zip(lsrc.splitlines(), lnew.splitlines()) if x != y)} lines patched")
+    open(f"{S}/losses.py", "w").write(lnew)
     tsrc = open(f"{S}/train_second.py").read()
     # v3 hooks: A right after the main backward (every step), B before iters+=1 (only reached when the SLM step ran)
     anchA = "            g_loss.backward()\n"; anchB = "            iters = iters + 1\n"
