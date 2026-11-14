@@ -1,5 +1,5 @@
 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
-I0000 00:00:1794644615.524621     432 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+I0000 00:00:1794657302.294143     483 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 Loading the first stage model at /kaggle/tmp/logs/crop200_slm500/first_stage.pth ...
 bert loaded
@@ -10,7 +10,7 @@ text_encoder loaded
 style_encoder loaded
 text_aligner loaded
 pitch_extractor loaded
-Loading weights:   0%|          | 0/248 [00:00<?, ?it/s]Loading weights: 100%|██████████| 248/248 [00:00<00:00, 15854.10it/s]
+Loading weights:   0%|          | 0/248 [00:00<?, ?it/s]Loading weights: 100%|██████████| 248/248 [00:00<00:00, 10719.38it/s]
 Could not load German G2P for TensorBoard inference: No module named 'misaki'
 TensorBoard inference: no test sentences available (misaki/espeak not found?)
 Extracting Stage 1 baseline voicepack for TensorBoard...
@@ -53,7 +53,7 @@ Parameter Group 0
     min_lr: 0
     weight_decay: 0.0001
 )
-PROBE {"where": "main", "step": 1, "peak_gb": [7.62, 6.53], "t": 1794644685.618658, "gen": 8.42814826965332, "slm": 0.0, "dslm": 0.0, "disc": 8.003105163574219}
+PROBE {"where": "main", "step": 1, "peak_gb": [7.6, 6.52], "t": 1794657340.4625807, "gen": 7.957501411437988, "slm": 0.0, "dslm": 0.0, "disc": 7.855780601501465}
 Traceback (most recent call last):
   File "/kaggle/tmp/kt/StyleTTS2/train_second_probe.py", line 963, in <module>
     main()

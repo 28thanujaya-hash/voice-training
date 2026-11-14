@@ -1,5 +1,5 @@
 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
-I0000 00:00:1794644740.317663     645 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+I0000 00:00:1794657396.327764     667 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 Loading the first stage model at /kaggle/tmp/logs/crop150_slm250/first_stage.pth ...
 bert loaded
@@ -10,7 +10,7 @@ text_encoder loaded
 style_encoder loaded
 text_aligner loaded
 pitch_extractor loaded
-Loading weights:   0%|          | 0/248 [00:00<?, ?it/s]Loading weights: 100%|██████████| 248/248 [00:00<00:00, 17015.43it/s]
+Loading weights:   0%|          | 0/248 [00:00<?, ?it/s]Loading weights: 100%|██████████| 248/248 [00:00<00:00, 9225.77it/s]
 Could not load German G2P for TensorBoard inference: No module named 'misaki'
 TensorBoard inference: no test sentences available (misaki/espeak not found?)
 Extracting Stage 1 baseline voicepack for TensorBoard...
@@ -53,7 +53,7 @@ Parameter Group 0
     min_lr: 0
     weight_decay: 0.0001
 )
-PROBE {"where": "main", "step": 1, "peak_gb": [6.51, 5.39], "t": 1794644768.6683886, "gen": 8.387353897094727, "slm": 0.0, "dslm": 0.0, "disc": 7.984487056732178}
+PROBE {"where": "main", "step": 1, "peak_gb": [6.55, 5.4], "t": 1794657425.63901, "gen": 8.50495719909668, "slm": 0.0, "dslm": 0.0, "disc": 7.950506210327148}
 Traceback (most recent call last):
   File "/kaggle/tmp/kt/StyleTTS2/train_second_probe.py", line 963, in <module>
     main()
@@ -105,4 +105,4 @@ Traceback (most recent call last):
         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
     )
     ^
-RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 92] to have 9984 channels, but got 28416 channels instead
+RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 83] to have 9984 channels, but got 28416 channels instead

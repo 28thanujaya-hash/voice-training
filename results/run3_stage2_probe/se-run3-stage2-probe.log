@@ -1,96 +1,103 @@
-[{"stream_name":"stdout","time":1.820910033,"data":"[  0.0 min] kept clips: 291 from /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-rejudge\n"}
-,{"stream_name":"stdout","time":1.820967314,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
-,{"stream_name":"stdout","time":4.809438014,"data":"[  0.1 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
-,{"stream_name":"stdout","time":14.723007572,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
-,{"stream_name":"stdout","time":14.723046688,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
-,{"stream_name":"stdout","time":14.723052738,"data":"   [100%] Built target misaki-g2p-cli\n"}
-,{"stream_name":"stdout","time":14.72305762,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
-,{"stream_name":"stdout","time":17.996853874,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
-,{"stream_name":"stdout","time":17.996886034,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
-,{"stream_name":"stdout","time":18.044074314,"data":"[  0.3 min] STEP words → sounds (misaki-g2p): OK 291 lines\n"}
-,{"stream_name":"stdout","time":18.044117264,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
-,{"stream_name":"stdout","time":33.579518897,"data":"[  0.5 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile jiwer funasr modelscope\n"}
-,{"stream_name":"stdout","time":58.627699702,"data":"[  1.0 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
-,{"stream_name":"stdout","time":104.535696089,"data":"[  1.7 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
-,{"stream_name":"stderr","time":107.321604472,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
-,{"stream_name":"stdout","time":111.895606674,"data":"[  1.8 min] STEP recipe + Kokoro base ready: OK torch 2.11.0+cu130\n"}
-,{"stream_name":"stdout","time":130.955848822,"data":"[  2.2 min] stage-1 checkpoint: /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-teacher/kokoro_maya_v01_stage1.pth\n"}
-,{"stream_name":"stdout","time":136.229270215,"data":"[  2.3 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop200_slm500.yml  (log: probe_crop200_slm500.txt)\n"}
-,{"stream_name":"stdout","time":240.053354862,"data":"       return self._call_impl(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":240.053389427,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":240.05339447,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
-,{"stream_name":"stdout","time":240.053399208,"data":"       return forward_call(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":240.053403358,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
-,{"stream_name":"stdout","time":240.053408431,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
-,{"stream_name":"stdout","time":240.053428302,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":240.053433215,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
-,{"stream_name":"stdout","time":240.05343766,"data":"       return F.conv1d(\n"}
-,{"stream_name":"stdout","time":240.053440892,"data":"              ~~~~~~~~^\n"}
-,{"stream_name":"stdout","time":240.053444262,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
-,{"stream_name":"stdout","time":240.053456946,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":240.053478649,"data":"       )\n"}
-,{"stream_name":"stdout","time":240.053484923,"data":"       ^\n"}
-,{"stream_name":"stdout","time":240.05348982,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 72] to have 9984 channels, but got 28416 channels instead\n"}
-,{"stream_name":"stdout","time":240.053780358,"data":"[  4.0 min] PROBE RESULT {'name': 'crop200_slm500', 'crop': 200, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [7.62, 6.53], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 1.7}\n"}
-,{"stream_name":"stdout","time":240.053794658,"data":"[  4.0 min] STEP probe crop200_slm500: FAILED 1 steps, peak GB [7.62, 6.53], None s/step, adversarial steps 0\n"}
-,{"stream_name":"stdout","time":240.713157064,"data":"[  4.0 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop200_slm250.yml  (log: probe_crop200_slm250.txt)\n"}
-,{"stream_name":"stdout","time":278.825269476,"data":"       return self._call_impl(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":278.825332362,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":278.825339622,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
-,{"stream_name":"stdout","time":278.825344941,"data":"       return forward_call(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":278.8253496,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
-,{"stream_name":"stdout","time":278.825354594,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
-,{"stream_name":"stdout","time":278.825359257,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":278.825363905,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
-,{"stream_name":"stdout","time":278.825368723,"data":"       return F.conv1d(\n"}
-,{"stream_name":"stdout","time":278.825373143,"data":"              ~~~~~~~~^\n"}
-,{"stream_name":"stdout","time":278.825377632,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
-,{"stream_name":"stdout","time":278.825382288,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":278.825387,"data":"       )\n"}
-,{"stream_name":"stdout","time":278.825391554,"data":"       ^\n"}
-,{"stream_name":"stdout","time":278.82541411,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 91] to have 9984 channels, but got 28416 channels instead\n"}
-,{"stream_name":"stdout","time":278.825673648,"data":"[  4.6 min] PROBE RESULT {'name': 'crop200_slm250', 'crop': 200, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [7.62, 6.54], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.6}\n"}
-,{"stream_name":"stdout","time":278.825697299,"data":"[  4.6 min] STEP probe crop200_slm250: FAILED 1 steps, peak GB [7.62, 6.54], None s/step, adversarial steps 0\n"}
-,{"stream_name":"stdout","time":279.413714627,"data":"[  4.6 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop150_slm250.yml  (log: probe_crop150_slm250.txt)\n"}
-,{"stream_name":"stdout","time":317.46915592,"data":"       return self._call_impl(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":317.469189373,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":317.469195219,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
-,{"stream_name":"stdout","time":317.469200466,"data":"       return forward_call(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":317.469205148,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
-,{"stream_name":"stdout","time":317.469210074,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
-,{"stream_name":"stdout","time":317.469214492,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":317.469219013,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
-,{"stream_name":"stdout","time":317.469224193,"data":"       return F.conv1d(\n"}
-,{"stream_name":"stdout","time":317.469229486,"data":"              ~~~~~~~~^\n"}
-,{"stream_name":"stdout","time":317.469234783,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
-,{"stream_name":"stdout","time":317.469251275,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":317.469256005,"data":"       )\n"}
-,{"stream_name":"stdout","time":317.469260018,"data":"       ^\n"}
-,{"stream_name":"stdout","time":317.469265038,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 92] to have 9984 channels, but got 28416 channels instead\n"}
-,{"stream_name":"stdout","time":317.469284687,"data":"[  5.3 min] PROBE RESULT {'name': 'crop150_slm250', 'crop': 150, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [6.51, 5.39], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.6}\n"}
-,{"stream_name":"stdout","time":317.469291754,"data":"[  5.3 min] STEP probe crop150_slm250: FAILED 1 steps, peak GB [6.51, 5.39], None s/step, adversarial steps 0\n"}
-,{"stream_name":"stdout","time":318.052347143,"data":"[  5.3 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop120_slm250.yml  (log: probe_crop120_slm250.txt)\n"}
-,{"stream_name":"stdout","time":355.805224399,"data":"       return self._call_impl(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":355.805275484,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":355.805282774,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
-,{"stream_name":"stdout","time":355.805288939,"data":"       return forward_call(*args, **kwargs)\n"}
-,{"stream_name":"stdout","time":355.805293842,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
-,{"stream_name":"stdout","time":355.805298547,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
-,{"stream_name":"stdout","time":355.805302963,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":355.805307608,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
-,{"stream_name":"stdout","time":355.805328499,"data":"       return F.conv1d(\n"}
-,{"stream_name":"stdout","time":355.805331401,"data":"              ~~~~~~~~^\n"}
-,{"stream_name":"stdout","time":355.805333714,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
-,{"stream_name":"stdout","time":355.805336207,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
-,{"stream_name":"stdout","time":355.805338613,"data":"       )\n"}
-,{"stream_name":"stdout","time":355.805340864,"data":"       ^\n"}
-,{"stream_name":"stdout","time":355.805343139,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 76] to have 9984 channels, but got 28416 channels instead\n"}
-,{"stream_name":"stdout","time":355.805776336,"data":"[  5.9 min] PROBE RESULT {'name': 'crop120_slm250', 'crop': 120, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [5.84, 4.73], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.6}\n"}
-,{"stream_name":"stdout","time":355.805804862,"data":"[  5.9 min] STEP probe crop120_slm250: FAILED 1 steps, peak GB [5.84, 4.73], None s/step, adversarial steps 0\n"}
-,{"stream_name":"stderr","time":361.075987946,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
-,{"stream_name":"stderr","time":361.076015747,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
-,{"stream_name":"stderr","time":361.339964336,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
-,{"stream_name":"stderr","time":361.339990057,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
-,{"stream_name":"stderr","time":362.133511447,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
-,{"stream_name":"stderr","time":362.664437654,"data":"[NbConvertApp] Writing 342618 bytes to __results__.html\n"}
+[{"stream_name":"stdout","time":1.5114239459999999,"data":"[  0.0 min] kept clips: 291 from /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-rejudge\n"}
+,{"stream_name":"stdout","time":1.5114787490000001,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":2.590180888,"data":"[  0.0 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":13.47847593,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
+,{"stream_name":"stdout","time":13.478508478,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":13.478512103,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":13.47851476,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":16.188692846,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
+,{"stream_name":"stdout","time":16.188725431,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":16.237386308,"data":"[  0.3 min] STEP words → sounds (misaki-g2p): OK 291 lines\n"}
+,{"stream_name":"stdout","time":16.23741763,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":23.693960501,"data":"[  0.4 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile jiwer funasr modelscope\n"}
+,{"stream_name":"stdout","time":49.601274126,"data":"[  0.8 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":96.633166332,"data":"[  1.6 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stderr","time":99.103428972,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":102.277600175,"data":"[  1.7 min] STEP recipe + Kokoro base ready: OK torch 2.11.0+cu130\n"}
+,{"stream_name":"stdout","time":121.719747182,"data":"[  2.0 min] stage-1 checkpoint: /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-teacher/kokoro_maya_v01_stage1.pth\n"}
+,{"stream_name":"stdout","time":121.719977097,"data":"[  2.0 min] $ python /kaggle/tmp/diag.py\n"}
+,{"stream_name":"stdout","time":159.291668501,"data":"   \n"}
+,{"stream_name":"stdout","time":159.291711676,"data":"   Loading weights:   0%|          | 0/248 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":159.291724287,"data":"   Loading weights: 100%|██████████| 248/248 [00:00\u003c00:00, 10694.69it/s]\n"}
+,{"stream_name":"stdout","time":159.291736078,"data":"[  2.6 min] WavLM diagnosis (as installed): {'transformers': '5.20.2', 'class': 'WavLMModel', 'num_hidden_layers': 12, '2d': {'n': 13, 'shapes': ['(2, 49, 768)']}, '3d': 'error: Expected 2D (unbatched) or 3D (batched) input to conv1d, but got input of size: [2, 1, 1, 16000]'}\n"}
+,{"stream_name":"stdout","time":159.291776934,"data":"[  2.6 min] STEP WavLM returns 13 layers: OK transformers 5.20.2\n"}
+,{"stream_name":"stdout","time":159.292479391,"data":"[  2.6 min] losses.py: 6 WavLM calls; 6 lines patched\n"}
+,{"stream_name":"stdout","time":163.927855648,"data":"[  2.7 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop200_slm500.yml  (log: probe_crop200_slm500.txt)\n"}
+,{"stream_name":"stdout","time":231.22403944,"data":"       return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":231.224089506,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":231.224096116,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":231.224101903,"data":"       return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":231.224113067,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
+,{"stream_name":"stdout","time":231.224117042,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
+,{"stream_name":"stdout","time":231.224120344,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":231.224123684,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
+,{"stream_name":"stdout","time":231.224127217,"data":"       return F.conv1d(\n"}
+,{"stream_name":"stdout","time":231.224130357,"data":"              ~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":231.224133527,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
+,{"stream_name":"stdout","time":231.224136897,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":231.224140158,"data":"       )\n"}
+,{"stream_name":"stdout","time":231.224158976,"data":"       ^\n"}
+,{"stream_name":"stdout","time":231.224165065,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 72] to have 9984 channels, but got 28416 channels instead\n"}
+,{"stream_name":"stdout","time":231.224380899,"data":"[  3.8 min] PROBE RESULT {'name': 'crop200_slm500', 'crop': 200, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [7.6, 6.52], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 1.1}\n"}
+,{"stream_name":"stdout","time":231.224394418,"data":"[  3.8 min] STEP probe crop200_slm500: FAILED 1 steps, peak GB [7.6, 6.52], None s/step, adversarial steps 0\n"}
+,{"stream_name":"stdout","time":231.961265016,"data":"[  3.9 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop200_slm250.yml  (log: probe_crop200_slm250.txt)\n"}
+,{"stream_name":"stdout","time":271.423296354,"data":"       return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":271.423329518,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":271.423336076,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":271.423341807,"data":"       return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":271.423347049,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
+,{"stream_name":"stdout","time":271.423353052,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
+,{"stream_name":"stdout","time":271.423358333,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":271.423363257,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
+,{"stream_name":"stdout","time":271.423377652,"data":"       return F.conv1d(\n"}
+,{"stream_name":"stdout","time":271.423382198,"data":"              ~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":271.42338612,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
+,{"stream_name":"stdout","time":271.423389975,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":271.423393974,"data":"       )\n"}
+,{"stream_name":"stdout","time":271.423398132,"data":"       ^\n"}
+,{"stream_name":"stdout","time":271.423402162,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 73] to have 9984 channels, but got 28416 channels instead\n"}
+,{"stream_name":"stdout","time":271.423776464,"data":"[  4.5 min] PROBE RESULT {'name': 'crop200_slm250', 'crop': 200, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [7.62, 6.53], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.7}\n"}
+,{"stream_name":"stdout","time":271.423793003,"data":"[  4.5 min] STEP probe crop200_slm250: FAILED 1 steps, peak GB [7.62, 6.53], None s/step, adversarial steps 0\n"}
+,{"stream_name":"stdout","time":272.035223003,"data":"[  4.5 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop150_slm250.yml  (log: probe_crop150_slm250.txt)\n"}
+,{"stream_name":"stdout","time":311.983460761,"data":"       return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":311.983508579,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":311.983514394,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":311.983519739,"data":"       return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":311.983524833,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
+,{"stream_name":"stdout","time":311.983529811,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
+,{"stream_name":"stdout","time":311.98353461,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":311.983538864,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
+,{"stream_name":"stdout","time":311.98354406,"data":"       return F.conv1d(\n"}
+,{"stream_name":"stdout","time":311.983548749,"data":"              ~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":311.983554013,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
+,{"stream_name":"stdout","time":311.983559616,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":311.983564701,"data":"       )\n"}
+,{"stream_name":"stdout","time":311.983568984,"data":"       ^\n"}
+,{"stream_name":"stdout","time":311.983574655,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 83] to have 9984 channels, but got 28416 channels instead\n"}
+,{"stream_name":"stdout","time":311.983890673,"data":"[  5.2 min] PROBE RESULT {'name': 'crop150_slm250', 'crop': 150, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [6.55, 5.4], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.7}\n"}
+,{"stream_name":"stdout","time":311.983957403,"data":"[  5.2 min] STEP probe crop150_slm250: FAILED 1 steps, peak GB [6.55, 5.4], None s/step, adversarial steps 0\n"}
+,{"stream_name":"stdout","time":312.600305349,"data":"[  5.2 min] $ python train_second_probe.py --config_path /kaggle/tmp/kt/configs/crop120_slm250.yml  (log: probe_crop120_slm250.txt)\n"}
+,{"stream_name":"stdout","time":352.168191168,"data":"       return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":352.168221194,"data":"              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":352.168226368,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":352.168231239,"data":"       return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":352.168235544,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 375, in forward\n"}
+,{"stream_name":"stdout","time":352.168244486,"data":"       return self._conv_forward(input, self.weight, self.bias)\n"}
+,{"stream_name":"stdout","time":352.168247413,"data":"              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":352.168250333,"data":"     File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/conv.py\", line 370, in _conv_forward\n"}
+,{"stream_name":"stdout","time":352.168253381,"data":"       return F.conv1d(\n"}
+,{"stream_name":"stdout","time":352.168261121,"data":"              ~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":352.168264012,"data":"           input, weight, bias, self.stride, self.padding, self.dilation, self.groups\n"}
+,{"stream_name":"stdout","time":352.168266878,"data":"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":352.168270034,"data":"       )\n"}
+,{"stream_name":"stdout","time":352.168272739,"data":"       ^\n"}
+,{"stream_name":"stdout","time":352.168275538,"data":"   RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 62] to have 9984 channels, but got 28416 channels instead\n"}
+,{"stream_name":"stdout","time":352.168617245,"data":"[  5.9 min] PROBE RESULT {'name': 'crop120_slm250', 'crop': 120, 'batch': 2, 'rc': 1, 'oom': False, 'steps': 1, 'peak': [5.77, 4.72], 's_per_step': None, 'slm_steps': 0, 'gen_steps': 1, 'minutes': 0.7}\n"}
+,{"stream_name":"stdout","time":352.168627024,"data":"[  5.9 min] STEP probe crop120_slm250: FAILED 1 steps, peak GB [5.77, 4.72], None s/step, adversarial steps 0\n"}
+,{"stream_name":"stderr","time":354.657657764,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":354.657691877,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":354.90443265,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":354.904460035,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":355.751732643,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":356.636897921,"data":"[NbConvertApp] Writing 352394 bytes to __results__.html\n"}
 ]

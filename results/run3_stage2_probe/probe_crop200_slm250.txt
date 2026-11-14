@@ -1,5 +1,5 @@
 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
-I0000 00:00:1794644702.274389     553 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+I0000 00:00:1794657356.075236     575 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
 Loading the first stage model at /kaggle/tmp/logs/crop200_slm250/first_stage.pth ...
 bert loaded
 bert_encoder loaded
@@ -9,11 +9,11 @@ text_encoder loaded
 style_encoder loaded
 text_aligner loaded
 pitch_extractor loaded
-Loading weights:   0%|          | 0/248 [00:00<?, ?it/s]Loading weights: 100%|██████████| 248/248 [00:00<00:00, 14545.23it/s]
+Loading weights:   0%|          | 0/248 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|██████████| 248/248 [00:00<00:00, 10640.76it/s]
 Could not load German G2P for TensorBoard inference: No module named 'misaki'
 TensorBoard inference: no test sentences available (misaki/espeak not found?)
 Extracting Stage 1 baseline voicepack for TensorBoard...
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
   acoustic_norm=2.6730  prosodic_norm=2.6730
 BERT AdamW (
 Parameter Group 0
@@ -53,7 +53,7 @@ Parameter Group 0
     min_lr: 0
     weight_decay: 0.0001
 )
-PROBE {"where": "main", "step": 1, "peak_gb": [7.62, 6.54], "t": 1794644730.0736544, "gen": 8.363679885864258, "slm": 0.0, "dslm": 0.0, "disc": 7.822005271911621}
+PROBE {"where": "main", "step": 1, "peak_gb": [7.62, 6.53], "t": 1794657385.1575534, "gen": 8.314437866210938, "slm": 0.0, "dslm": 0.0, "disc": 8.044229507446289}
 Traceback (most recent call last):
   File "/kaggle/tmp/kt/StyleTTS2/train_second_probe.py", line 963, in <module>
     main()
@@ -105,4 +105,4 @@ Traceback (most recent call last):
         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
     )
     ^
-RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 91] to have 9984 channels, but got 28416 channels instead
+RuntimeError: Given groups=1, weight of size [64, 9984, 1], expected input[2, 28416, 73] to have 9984 channels, but got 28416 channels instead
