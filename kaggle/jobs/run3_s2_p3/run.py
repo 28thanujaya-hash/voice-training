@@ -47,6 +47,8 @@ def prepare(t):
     return re.sub(r"\b(" + "|".join(map(re.escape, names)) + r")(?![\w'])", lambda m: f"[{m.group(1)}](/{NAMES[m.group(1)]}/)", t)
 
 try:
+    # transformers 4.57.6 FIRST, before anything imports huggingface_hub (part 1's quick check crashed: hub already loaded in a newer version)
+    sh("pip install -q 'transformers==4.57.6'", tail=2)
     tr = glob.glob("/kaggle/input/**/train.csv", recursive=True)
     if not tr: raise RuntimeError("run3_maya_rejudge outputs not found under /kaggle/input")
     src = os.path.dirname(tr[0]); rows = list(csv.DictReader(open(tr[0])))
@@ -103,7 +105,6 @@ try:
     from part import PART
     EPOCHS_PER_PART = 1   # part 1 took >4 h for 2 epochs: 1 epoch per job keeps jobs short
     report[0] = f"# Run 3 · stage 2, part {PART} ({EPOCHS_PER_PART} epoch, resumed from part {PART-1})"
-    sh("pip install -q 'transformers==4.57.6'", tail=2)
     st1 = glob.glob("/kaggle/input/**/kokoro_maya_v01_stage1.pth", recursive=True)[0]
     prev = glob.glob(f"/kaggle/input/**/s2_part{PART-1}.pth", recursive=True) if PART > 1 else []
     if PART > 1 and not prev: raise RuntimeError(f"part {PART-1} checkpoint not found")
@@ -155,6 +156,13 @@ try:
                                 {r: torch.load(f"{T2d}/maya_{r}_voicepack.pt", map_location="cpu", weights_only=True) for r in ROWS}),
               f"stage 2 part {PART}": (KModel(repo_id="hexgrad/Kokoro-82M", config=kc, model=f"{TMP}/part.pth").to("cuda").eval(),
                                 {r: torch.load(f"{TMP}/vp_{r}.pt", map_location="cpu", weights_only=True) for r in ROWS})}
+    if prev:   # also the previous part, so every part is compared with the one before
+        kwp = {k: {("module." + a if not a.startswith("module.") else a): b for a, b in torch.load(prev[0], map_location="cpu", weights_only=False)["net"][k].items()} for k in ["bert", "bert_encoder", "predictor", "text_encoder", "decoder"]}
+        torch.save(kwp, f"{TMP}/prev.pth")
+        for row in ROWS:
+            sh(f"python scripts/extract_voicepack.py --model {prev[0]} --style-encoder-model {st1} --audio-dir {TMP}/by/{row} --output {TMP}/vpp_{row}.pt --device cuda", cwd=K, tail=2)
+        models[f"stage 2 part {PART-1}"] = (KModel(repo_id="hexgrad/Kokoro-82M", config=kc, model=f"{TMP}/prev.pth").to("cuda").eval(),
+                                            {r: torch.load(f"{TMP}/vpp_{r}.pt", map_location="cpu", weights_only=True) for r in ROWS})
     byfile = {os.path.basename(r["file"]): r for r in rows}
     VAL = [byfile[l.split("|")[0]] for l in val]
     def say(km, p, vp):
