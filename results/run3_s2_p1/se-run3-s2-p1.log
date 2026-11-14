@@ -1,0 +1,89 @@
+[{"stream_name":"stdout","time":1.223779414,"data":"[  0.0 min] kept clips: 291 from /kaggle/input/notebooks/thusharajayawardane/se-run3-maya-rejudge\n"}
+,{"stream_name":"stdout","time":1.223822671,"data":"[  0.0 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":3.117320376,"data":"[  0.0 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":12.832539975,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
+,{"stream_name":"stdout","time":12.832561689,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":12.832565903,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":12.832569736,"data":"[  0.2 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":15.361250399,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
+,{"stream_name":"stdout","time":15.361282217,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":15.406603197999999,"data":"[  0.2 min] STEP words → sounds (misaki-g2p): OK 291 lines\n"}
+,{"stream_name":"stdout","time":15.406626598,"data":"[  0.2 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":24.037662558,"data":"[  0.4 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile jiwer funasr modelscope\n"}
+,{"stream_name":"stdout","time":48.022623249,"data":"[  0.8 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":89.979513905,"data":"[  1.5 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stderr","time":92.248228491,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":95.34633647,"data":"[  1.6 min] STEP recipe + Kokoro base ready: OK torch 2.11.0+cu130\n"}
+,{"stream_name":"stdout","time":115.157631402,"data":"[  1.9 min] $ pip install -q 'transformers==4.57.6'\n"}
+,{"stream_name":"stdout","time":128.728202745,"data":"   gradio 6.30.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stdout","time":128.728241568,"data":"   diffusers 0.42.0 requires huggingface-hub\u003c3.0,\u003e=1.32.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":133.275757303,"data":"[  2.2 min] $ python train_second_part.py --config_path /kaggle/tmp/kt/configs/s2.yml  (log: train_second_log.txt)\n"}
+,{"stream_name":"stdout","time":2804.716910855,"data":"   Time elasped: 650.1300961971283\n"}
+,{"stream_name":"stdout","time":2804.716962967,"data":"   Time elasped: 742.9846839904785\n"}
+,{"stream_name":"stdout","time":2804.716968433,"data":"   Time elasped: 834.7838807106018\n"}
+,{"stream_name":"stdout","time":2804.717007928,"data":"   Time elasped: 926.5740475654602\n"}
+,{"stream_name":"stdout","time":2804.717012741,"data":"   Time elasped: 1018.9980058670044\n"}
+,{"stream_name":"stdout","time":2804.717026164,"data":"   Time elasped: 1112.5225265026093\n"}
+,{"stream_name":"stdout","time":2804.717029685,"data":"   Time elasped: 1204.5870807170868\n"}
+,{"stream_name":"stdout","time":2804.717032885,"data":"   Time elasped: 1296.7072002887726\n"}
+,{"stream_name":"stdout","time":2804.717036223,"data":"   Epochs: 2\n"}
+,{"stream_name":"stdout","time":2804.717039861,"data":"   \n"}
+,{"stream_name":"stdout","time":2804.717043576,"data":"   \n"}
+,{"stream_name":"stdout","time":2804.717047093,"data":"   \n"}
+,{"stream_name":"stdout","time":2804.717050055,"data":"   \n"}
+,{"stream_name":"stdout","time":2804.717053569,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":2804.717057528,"data":"   PEAK_GB [8.88, 6.56] saved /kaggle/tmp/logs/s2/epoch_2nd_00001.pth\n"}
+,{"stream_name":"stdout","time":2804.717118509,"data":"[ 46.7 min] last progress: INFO:__main__:Epoch [2/99], Step [140/140], Loss: 0.37484, Disc Loss: 3.94137, Dur Loss: 1.13666, CE Loss: 0.07623, Norm Loss: 0.81283, F0 Loss: 3.03467, LM Los\n"}
+,{"stream_name":"stdout","time":2804.718519815,"data":"[ 46.7 min] STEP stage 2 part 1 (2 epochs): OK 44.5 min; peaks ['PEAK_GB [8.88, 6.56] saved /kaggle/tmp/logs/s2/epoch_2nd_00000.pth', 'PEAK_GB [8.88, 6.56] saved /kaggle/tmp/logs/s2/epoch_2nd_00001.pth']; log lines with GenLM\u003e0: 56/56, Gen\u003e0: 56/56\n"}
+,{"stream_name":"stdout","time":2809.989775593,"data":"[ 46.8 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00001.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-run3-ma\n"}
+,{"stream_name":"stdout","time":2829.482672054,"data":"   \n"}
+,{"stream_name":"stdout","time":2829.482708974,"data":"   Saved voicepack: /kaggle/tmp/vp_normal.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":2829.482713665,"data":"[ 47.1 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00001.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-run3-ma\n"}
+,{"stream_name":"stdout","time":2837.738296695,"data":"   \n"}
+,{"stream_name":"stdout","time":2837.738328876,"data":"   Saved voicepack: /kaggle/tmp/vp_bright.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":2837.738335761,"data":"[ 47.3 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00001.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-run3-ma\n"}
+,{"stream_name":"stdout","time":2845.976773136,"data":"   \n"}
+,{"stream_name":"stdout","time":2845.976811321,"data":"   Saved voicepack: /kaggle/tmp/vp_low.pt (511.5 KB)\n"}
+,{"stream_name":"stdout","time":2845.976822256,"data":"[ 47.4 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00001.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-run3-ma\n"}
+,{"stream_name":"stdout","time":2853.920176338,"data":"   \n"}
+,{"stream_name":"stdout","time":2853.920214806,"data":"   Saved voicepack: /kaggle/tmp/vp_tense.pt (511.5 KB)\n"}
+,{"stream_name":"stdout","time":2853.920230923,"data":"[ 47.6 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
+,{"stream_name":"stdout","time":2859.508479634,"data":"Error importing huggingface_hub.hf_api: cannot import name 'XetAuthorizationError' from 'huggingface_hub.errors' (/usr/local/lib/python3.13/dist-packages/huggingface_hub/errors.py)\n"}
+,{"stream_name":"stdout","time":2859.514633852,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":2859.514653418,"data":"  File \"/kaggle/src/script.py\", line 154, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.514660044,"data":"    from kokoro.model import KModel\n"}
+,{"stream_name":"stdout","time":2859.51466455,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/__init__.py\", line 22, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.514680155,"data":"    from .model import KModel\n"}
+,{"stream_name":"stdout","time":2859.514683707,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/model.py\", line 2, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.514687321,"data":"    from .modules import CustomAlbert, ProsodyPredictor, TextEncoder\n"}
+,{"stream_name":"stdout","time":2859.514690695,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/modules.py\", line 4, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.514694276,"data":"    from transformers import AlbertModel\n"}
+,{"stream_name":"stdout","time":2859.514697592,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/__init__.py\", line 27, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.514701209,"data":"    from . import dependency_versions_check\n"}
+,{"stream_name":"stdout","time":2859.514704414,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/dependency_versions_check.py\", line 16, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.514708085,"data":"    from .utils.versions import require_version, require_version_core\n"}
+,{"stream_name":"stdout","time":2859.514711517,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/__init__.py\", line 19, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.51471667,"data":"    from huggingface_hub import get_full_repo_name  # for backward compatibility\n"}
+,{"stream_name":"stdout","time":2859.514724592,"data":"    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":2859.51472734,"data":"  File \"/usr/local/lib/python3.13/dist-packages/huggingface_hub/__init__.py\", line 1224, in __getattr__\n"}
+,{"stream_name":"stdout","time":2859.514729723,"data":"    delete_space_storage,  # noqa: F401\n"}
+,{"stream_name":"stdout","time":2859.51473214,"data":"                     ^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":2859.51473436,"data":"  File \"/usr/lib/python3.13/importlib/__init__.py\", line 88, in import_module\n"}
+,{"stream_name":"stdout","time":2859.514736739,"data":"    return _bootstrap._gcd_import(name[level:], package, level)\n"}
+,{"stream_name":"stdout","time":2859.514738998,"data":"           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":2859.51474132,"data":"  File \"/usr/local/lib/python3.13/dist-packages/huggingface_hub/hf_api.py\", line 56, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.514743758,"data":"    from ._commit_api import (\n"}
+,{"stream_name":"stdout","time":2859.51474595,"data":"    ...\u003c9 lines\u003e...\n"}
+,{"stream_name":"stdout","time":2859.514748221,"data":"    )\n"}
+,{"stream_name":"stdout","time":2859.514750471,"data":"  File \"/usr/local/lib/python3.13/dist-packages/huggingface_hub/_commit_api.py\", line 19, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":2859.514752906,"data":"    from .errors import EntryNotFoundError, HfHubHTTPError, XetAuthorizationError, XetRefreshTokenError\n"}
+,{"stream_name":"stdout","time":2859.51475536,"data":"ImportError: cannot import name 'XetAuthorizationError' from 'huggingface_hub.errors' (/usr/local/lib/python3.13/dist-packages/huggingface_hub/errors.py)\n"}
+,{"stream_name":"stdout","time":2859.514757837,"data":"\n"}
+,{"stream_name":"stdout","time":2859.51476006,"data":"[ 47.6 min] STEP ERROR: FAILED \n"}
+,{"stream_name":"stderr","time":2861.981464608,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":2861.981503392,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":2862.19064978,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":2862.190676132,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":2862.969310315,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":2863.518244305,"data":"[NbConvertApp] Writing 381218 bytes to __results__.html\n"}
+]
