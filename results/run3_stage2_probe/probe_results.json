@@ -1,0 +1,67 @@
+[
+ {
+  "name": "crop200_b2",
+  "crop": 200,
+  "batch": 2,
+  "rc": 0,
+  "oom": false,
+  "steps": 0,
+  "peak": null,
+  "s_per_step": null,
+  "slm_steps": 0,
+  "gen_steps": 0,
+  "minutes": 29.1
+ },
+ {
+  "name": "crop150_b2",
+  "crop": 150,
+  "batch": 2,
+  "rc": 0,
+  "oom": false,
+  "steps": 0,
+  "peak": null,
+  "s_per_step": null,
+  "slm_steps": 0,
+  "gen_steps": 0,
+  "minutes": 27.2
+ },
+ {
+  "name": "crop100_b2",
+  "crop": 100,
+  "batch": 2,
+  "rc": 0,
+  "oom": false,
+  "steps": 0,
+  "peak": null,
+  "s_per_step": null,
+  "slm_steps": 0,
+  "gen_steps": 0,
+  "minutes": 26.5
+ },
+ {
+  "name": "crop200_b1",
+  "crop": 200,
+  "batch": 1,
+  "rc": 1,
+  "oom": false,
+  "steps": 0,
+  "peak": null,
+  "s_per_step": null,
+  "slm_steps": 0,
+  "gen_steps": 0,
+  "minutes": 0.7
+ },
+ {
+  "name": "crop120_b2",
+  "crop": 120,
+  "batch": 2,
+  "rc": 0,
+  "oom": false,
+  "steps": 0,
+  "peak": null,
+  "s_per_step": null,
+  "slm_steps": 0,
+  "gen_steps": 0,
+  "minutes": 27.1
+ }
+]

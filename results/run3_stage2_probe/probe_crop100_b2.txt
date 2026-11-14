@@ -1,0 +1,67 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1794638391.330559   10827 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading the first stage model at /kaggle/tmp/logs/crop100_b2/first_stage.pth ...
+bert loaded
+bert_encoder loaded
+predictor loaded
+decoder loaded
+text_encoder loaded
+style_encoder loaded
+text_aligner loaded
+pitch_extractor loaded
+Loading weights:   0%|          | 0/248 [00:00<?, ?it/s]Loading weights: 100%|██████████| 248/248 [00:00<00:00, 11629.22it/s]
+Could not load German G2P for TensorBoard inference: No module named 'misaki'
+TensorBoard inference: no test sentences available (misaki/espeak not found?)
+Extracting Stage 1 baseline voicepack for TensorBoard...
+  acoustic_norm=2.6730  prosodic_norm=2.6730
+BERT AdamW (
+Parameter Group 0
+    amsgrad: False
+    base_momentum: 0.85
+    betas: (0.9, 0.99)
+    capturable: False
+    decoupled_weight_decay: True
+    differentiable: False
+    eps: 1e-09
+    foreach: None
+    fused: None
+    initial_lr: 1e-05
+    lr: 1e-05
+    max_lr: 2e-05
+    max_momentum: 0.95
+    maximize: False
+    min_lr: 0
+    weight_decay: 0.01
+)
+decoder AdamW (
+Parameter Group 0
+    amsgrad: False
+    base_momentum: 0.85
+    betas: (0.0, 0.99)
+    capturable: False
+    decoupled_weight_decay: True
+    differentiable: False
+    eps: 1e-09
+    foreach: None
+    fused: None
+    initial_lr: 0.0001
+    lr: 0.0001
+    max_lr: 0.0002
+    max_momentum: 0.95
+    maximize: False
+    min_lr: 0
+    weight_decay: 0.0001
+)
+Validation loss: 0.413, Dur loss: 1.147, F0 loss: 4.385
+
+
+
+Epoch 0: extracting voicepack for TensorBoard inference...
+  acoustic_norm=2.4575  prosodic_norm=2.2557
+Epochs: 1
+
+
+
+
+Saving..
