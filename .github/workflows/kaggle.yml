@@ -97,4 +97,4 @@ jobs:
           find /tmp/out -type f -size -15M \( -name '*.md' -o -name '*.txt' -o -name '*.json' -o -name '*.log' -o -name '*.mp3' -o -name '*.csv' \) -exec cp {} $D/ \;
           ls -la $D
           git config user.name "kaggle-bot"; git config user.email "actions@github.com"
-          git add $D && git commit -m "Kaggle results: $JOB ($S) [skip ci]" && git push || echo "nothing new"
+          git add $D && git commit -m "Kaggle results: $JOB ($S) [skip ci]" && { for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; sleep 5; done; } || echo "nothing new"
