@@ -26,7 +26,7 @@ def sh(c, cwd=None, tail=40):
     for l in out[-tail:]: print("   " + l)
     if p.returncode: raise RuntimeError(f"failed ({p.returncode}): {c[:120]}\n" + "\n".join(out[-tail:]))
     return "\n".join(out)
-report = ["# Run 3 · stage-2 memory probe v4 (WavLM diagnosis + SLM step enabled: batch_percentage 1.0)", ""]; steps = []
+report = ["# Run 3 · stage-2 memory probe v5 (transformers 4.57.6 + SLM step enabled: batch_percentage 1.0)", ""]; steps = []
 def step(name, ok, note=""):
     steps.append((name, ok, note)); log(f"STEP {name}: {'OK' if ok else 'FAILED'} {note}")
 
@@ -105,13 +105,16 @@ try:
     DIAG = r"""
 import torch, transformers, json
 from transformers import AutoModel
-m = AutoModel.from_pretrained("microsoft/wavlm-base-plus").eval()
+m = AutoModel.from_pretrained("microsoft/wavlm-base-plus")
+for p in m.parameters(): p.requires_grad = False
+m.feature_extractor._requires_grad = False
 out = {"transformers": transformers.__version__, "class": type(m).__name__, "num_hidden_layers": m.config.num_hidden_layers}
-for name, shape in (("2d", (2, 16000)), ("3d", (2, 1, 16000))):
+for mode in ("eval", "train"):
+    getattr(m, mode)()
     try:
-        with torch.no_grad(): hs = m(input_values=torch.randn(*shape), output_hidden_states=True).hidden_states
-        out[name] = {"n": len(hs), "shapes": sorted({str(tuple(h.shape)) for h in hs})}
-    except Exception as e: out[name] = "error: " + str(e)[:200]
+        ns = [len(m(input_values=torch.randn(2, 29000) * torch.ones(1, requires_grad=True), output_hidden_states=True).hidden_states) for _ in range(8)]
+        out[mode] = ns
+    except Exception as e: out[mode] = "error: " + str(e)[:200]
 print("DIAG " + json.dumps(out))
 """
     open(f"{TMP}/diag.py", "w").write(DIAG)
@@ -119,11 +122,11 @@ print("DIAG " + json.dumps(out))
         o = sh(f"python {TMP}/diag.py", tail=3); d = json.loads([l for l in o.splitlines() if l.startswith("DIAG ")][-1][5:])
         log(f"WavLM diagnosis ({tag}): {d}"); report.extend([f"- WavLM diagnosis ({tag}): `{json.dumps(d)}`"]); return d
     report += ["## WavLM diagnosis", ""]
-    d = diag("as installed")
-    ok = lambda d: isinstance(d.get("2d"), dict) and d["2d"]["n"] == 13
-    if not ok(d):
-        sh("pip install -q 'transformers>=4.46,<5'", tail=3); d = diag("after pinning transformers<5")
-    step("WavLM returns 13 layers", ok(d), f"transformers {d.get('transformers')}")
+    # v5: always pin transformers 4.57 (the 2023 recipe's era): 5.x drops layers in train mode (layerdrop) and its hook-based
+    # hidden-state capture appears to mix replicas under DataParallel (28416 = 37 x 768 channels in v3/v4)
+    sh("pip install -q 'transformers==4.57.6'", tail=3); d = diag("transformers 4.57.6, eval and train mode, 8 calls each")
+    ok = lambda d: all(isinstance(d.get(k), list) and set(d[k]) == {13} for k in ("eval", "train"))
+    step("WavLM returns 13 layers in eval and train mode", ok(d), f"transformers {d.get('transformers')}")
     if not ok(d): raise RuntimeError("WavLM still does not return 13 hidden states; stopping before the probe (report to the mentor)")
     report.append("")
     # input-shape guard: every WavLM call gets (batch, samples); a (batch, 1, samples) input is flattened. Harmless if already 2-D.
