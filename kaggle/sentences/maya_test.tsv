@@ -199,3 +199,183 @@ mtt32	maya	tense	hard	Mr. Perera, this is the last warning.
 mtt33	maya	tense	hard	Who said that? Who?
 mtt34	maya	tense	gen	Put it back. Now.
 mtt35	maya	tense	gen	I'm done. Goodbye.
+mtm01n	maya	normal	matched	We're going back to the café after class.
+mtm01b	maya	bright	matched	We're going back to the café after class.
+mtm01l	maya	low	matched	We're going back to the café after class.
+mtm01t	maya	tense	matched	We're going back to the café after class.
+mtm02n	maya	normal	matched	My cousin is coming to stay for a week.
+mtm02b	maya	bright	matched	My cousin is coming to stay for a week.
+mtm02l	maya	low	matched	My cousin is coming to stay for a week.
+mtm02t	maya	tense	matched	My cousin is coming to stay for a week.
+mtm03n	maya	normal	matched	The results came out this morning.
+mtm03b	maya	bright	matched	The results came out this morning.
+mtm03l	maya	low	matched	The results came out this morning.
+mtm03t	maya	tense	matched	The results came out this morning.
+mtm04n	maya	normal	matched	He called me three times last night.
+mtm04b	maya	bright	matched	He called me three times last night.
+mtm04l	maya	low	matched	He called me three times last night.
+mtm04t	maya	tense	matched	He called me three times last night.
+mtm05n	maya	normal	matched	They moved the exam to Friday.
+mtm05b	maya	bright	matched	They moved the exam to Friday.
+mtm05l	maya	low	matched	They moved the exam to Friday.
+mtm05t	maya	tense	matched	They moved the exam to Friday.
+mtm06n	maya	normal	matched	I saw your brother at the station today.
+mtm06b	maya	bright	matched	I saw your brother at the station today.
+mtm06l	maya	low	matched	I saw your brother at the station today.
+mtm06t	maya	tense	matched	I saw your brother at the station today.
+mtm07n	maya	normal	matched	The new manager starts on Monday.
+mtm07b	maya	bright	matched	The new manager starts on Monday.
+mtm07l	maya	low	matched	The new manager starts on Monday.
+mtm07t	maya	tense	matched	The new manager starts on Monday.
+mtm08n	maya	normal	matched	Priya says we can't use the kitchen after ten.
+mtm08b	maya	bright	matched	Priya says we can't use the kitchen after ten.
+mtm08l	maya	low	matched	Priya says we can't use the kitchen after ten.
+mtm08t	maya	tense	matched	Priya says we can't use the kitchen after ten.
+mtm09n	maya	normal	matched	Our teacher wants to talk to us after the lesson.
+mtm09b	maya	bright	matched	Our teacher wants to talk to us after the lesson.
+mtm09l	maya	low	matched	Our teacher wants to talk to us after the lesson.
+mtm09t	maya	tense	matched	Our teacher wants to talk to us after the lesson.
+mtm10n	maya	normal	matched	The train to Jaffna is full until Sunday.
+mtm10b	maya	bright	matched	The train to Jaffna is full until Sunday.
+mtm10l	maya	low	matched	The train to Jaffna is full until Sunday.
+mtm10t	maya	tense	matched	The train to Jaffna is full until Sunday.
+mtm11n	maya	normal	matched	She didn't come to work today.
+mtm11b	maya	bright	matched	She didn't come to work today.
+mtm11l	maya	low	matched	She didn't come to work today.
+mtm11t	maya	tense	matched	She didn't come to work today.
+mtm12n	maya	normal	matched	We have to finish the whole project by tomorrow.
+mtm12b	maya	bright	matched	We have to finish the whole project by tomorrow.
+mtm12l	maya	low	matched	We have to finish the whole project by tomorrow.
+mtm12t	maya	tense	matched	We have to finish the whole project by tomorrow.
+mtm13n	maya	normal	matched	My phone has been off since yesterday.
+mtm13b	maya	bright	matched	My phone has been off since yesterday.
+mtm13l	maya	low	matched	My phone has been off since yesterday.
+mtm13t	maya	tense	matched	My phone has been off since yesterday.
+mtm14n	maya	normal	matched	Arun got a letter from the school.
+mtm14b	maya	bright	matched	Arun got a letter from the school.
+mtm14l	maya	low	matched	Arun got a letter from the school.
+mtm14t	maya	tense	matched	Arun got a letter from the school.
+mtm15n	maya	normal	matched	There's nobody at the café tonight.
+mtm15b	maya	bright	matched	There's nobody at the café tonight.
+mtm15l	maya	low	matched	There's nobody at the café tonight.
+mtm15t	maya	tense	matched	There's nobody at the café tonight.
+mtm16n	maya	normal	matched	The doctor wants to see her again next week.
+mtm16b	maya	bright	matched	The doctor wants to see her again next week.
+mtm16l	maya	low	matched	The doctor wants to see her again next week.
+mtm16t	maya	tense	matched	The doctor wants to see her again next week.
+mtm17n	maya	normal	matched	I just read your message.
+mtm17b	maya	bright	matched	I just read your message.
+mtm17l	maya	low	matched	I just read your message.
+mtm17t	maya	tense	matched	I just read your message.
+mtm18n	maya	normal	matched	We waited for the bus for over an hour.
+mtm18b	maya	bright	matched	We waited for the bus for over an hour.
+mtm18l	maya	low	matched	We waited for the bus for over an hour.
+mtm18t	maya	tense	matched	We waited for the bus for over an hour.
+mtm19n	maya	normal	matched	They're closing the old bookshop next month.
+mtm19b	maya	bright	matched	They're closing the old bookshop next month.
+mtm19l	maya	low	matched	They're closing the old bookshop next month.
+mtm19t	maya	tense	matched	They're closing the old bookshop next month.
+mtm20n	maya	normal	matched	He gave me the job.
+mtm20b	maya	bright	matched	He gave me the job.
+mtm20l	maya	low	matched	He gave me the job.
+mtm20t	maya	tense	matched	He gave me the job.
+mtm21n	maya	normal	matched	I forgot my bag on the train.
+mtm21b	maya	bright	matched	I forgot my bag on the train.
+mtm21l	maya	low	matched	I forgot my bag on the train.
+mtm21t	maya	tense	matched	I forgot my bag on the train.
+mtm22n	maya	normal	matched	Everyone in the class is going to the party.
+mtm22b	maya	bright	matched	Everyone in the class is going to the party.
+mtm22l	maya	low	matched	Everyone in the class is going to the party.
+mtm22t	maya	tense	matched	Everyone in the class is going to the party.
+mtm23n	maya	normal	matched	The rain stopped just before we got there.
+mtm23b	maya	bright	matched	The rain stopped just before we got there.
+mtm23l	maya	low	matched	The rain stopped just before we got there.
+mtm23t	maya	tense	matched	The rain stopped just before we got there.
+mtm24n	maya	normal	matched	She sold her old phone to Sam.
+mtm24b	maya	bright	matched	She sold her old phone to Sam.
+mtm24l	maya	low	matched	She sold her old phone to Sam.
+mtm24t	maya	tense	matched	She sold her old phone to Sam.
+mtm25n	maya	normal	matched	My mum is cooking dinner for all of us.
+mtm25b	maya	bright	matched	My mum is cooking dinner for all of us.
+mtm25l	maya	low	matched	My mum is cooking dinner for all of us.
+mtm25t	maya	tense	matched	My mum is cooking dinner for all of us.
+mtm26n	maya	normal	matched	You told everyone about it.
+mtm26b	maya	bright	matched	You told everyone about it.
+mtm26l	maya	low	matched	You told everyone about it.
+mtm26t	maya	tense	matched	You told everyone about it.
+mtm27n	maya	normal	matched	The tickets are already sold out.
+mtm27b	maya	bright	matched	The tickets are already sold out.
+mtm27l	maya	low	matched	The tickets are already sold out.
+mtm27t	maya	tense	matched	The tickets are already sold out.
+mtm28n	maya	normal	matched	We're not going to India this year.
+mtm28b	maya	bright	matched	We're not going to India this year.
+mtm28l	maya	low	matched	We're not going to India this year.
+mtm28t	maya	tense	matched	We're not going to India this year.
+mtm29n	maya	normal	matched	I found the old photos from Jaffna.
+mtm29b	maya	bright	matched	I found the old photos from Jaffna.
+mtm29l	maya	low	matched	I found the old photos from Jaffna.
+mtm29t	maya	tense	matched	I found the old photos from Jaffna.
+mtm30n	maya	normal	matched	He wants to talk to me in his office.
+mtm30b	maya	bright	matched	He wants to talk to me in his office.
+mtm30l	maya	low	matched	He wants to talk to me in his office.
+mtm30t	maya	tense	matched	He wants to talk to me in his office.
+mtp011	maya	normal	marks	He's here.
+mtp012	maya	normal	marks	He's here?
+mtp013	maya	normal	marks	He's here…
+mtp021	maya	normal	marks	You finished it.
+mtp022	maya	normal	marks	You finished it?
+mtp023	maya	normal	marks	You finished it!
+mtp031	maya	normal	marks	It's raining again.
+mtp032	maya	normal	marks	It's raining again?
+mtp033	maya	normal	marks	It's raining again…
+mtp041	maya	normal	marks	She said no.
+mtp042	maya	normal	marks	She said no?
+mtp043	maya	normal	marks	She said no…
+mtp051	maya	normal	marks	That's the last one.
+mtp052	maya	normal	marks	That's the last one?
+mtp053	maya	normal	marks	That's the last one!
+mtp061	maya	normal	marks	We're late.
+mtp062	maya	normal	marks	We're late?
+mtp063	maya	normal	marks	We're late!
+mtp071	maya	normal	marks	I passed, so I'm going.
+mtp072	maya	normal	marks	I passed… so I'm going.
+mtp073	maya	normal	marks	I passed — so I'm going.
+mtp081	maya	normal	marks	Wait, what did you say?
+mtp082	maya	normal	marks	Wait… what did you say?
+mtp083	maya	normal	marks	Wait — what did you say?
+mtp091	maya	normal	marks	Okay, let's go.
+mtp092	maya	normal	marks	Okay… let's go.
+mtp093	maya	normal	marks	Okay, let's go!
+mtp101	maya	normal	marks	I know, I know.
+mtp102	maya	normal	marks	I know… I know.
+mtp103	maya	normal	marks	I know! I know!
+mtp111	maya	normal	marks	She bought the red one.
+mtp112	maya	normal	marks	She bought the RED one.
+mtp113	maya	normal	marks	SHE bought the red one.
+mtp121	maya	normal	marks	I didn't say that.
+mtp122	maya	normal	marks	I didn't SAY that.
+mtp123	maya	normal	marks	I didn't say THAT.
+mtp131	maya	normal	marks	We're meeting on Tuesday.
+mtp132	maya	normal	marks	We're meeting on TUESDAY.
+mtp133	maya	normal	marks	WE'RE meeting on Tuesday.
+mtp141	maya	normal	marks	He lives in Kandy.
+mtp142	maya	normal	marks	He LIVES in Kandy.
+mtp143	maya	normal	marks	He lives in KANDY.
+mtp151	maya	normal	marks	You can come with us.
+mtp152	maya	normal	marks	You CAN come with us.
+mtp153	maya	normal	marks	YOU can come with us.
+mtp161	maya	normal	marks	Tea or coffee?
+mtp162	maya	normal	marks	Tea, or coffee?
+mtp163	maya	normal	marks	Tea… or coffee?
+mtp171	maya	normal	marks	So you're moving to Colombo.
+mtp172	maya	normal	marks	So you're moving to Colombo?
+mtp173	maya	normal	marks	So you're moving to Colombo!
+mtp181	maya	normal	marks	It was good, but expensive.
+mtp182	maya	normal	marks	It was good… but expensive.
+mtp183	maya	normal	marks	It was good — but expensive.
+mtp191	maya	normal	marks	Thanks.
+mtp192	maya	normal	marks	Thanks!
+mtp193	maya	normal	marks	Thanks…
+mtp201	maya	normal	marks	Sorry.
+mtp202	maya	normal	marks	Sorry?
+mtp203	maya	normal	marks	Sorry…
