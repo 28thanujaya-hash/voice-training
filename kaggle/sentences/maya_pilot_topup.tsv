@@ -1,0 +1,190 @@
+id	who	row	area	group	source	text
+m3xl01	maya	low	topup		topup	Do you think she's okay?
+m3xl02	maya	low	topup		topup	Why didn't you tell me sooner?
+m3xl03	maya	low	topup		topup	Is it my fault?
+m3xl04	maya	low	topup		topup	Will you call me when you get there?
+m3xl05	maya	low	topup		topup	Can we talk tomorrow instead?
+m3xl06	maya	low	topup		topup	Did he ask about me?
+m3xt01	maya	tense	topup		topup	Who told you that you could take it?
+m3xt02	maya	tense	topup		topup	Do you know what time it is?
+m3xn01	maya	normal	topup		topup	Good morning, everyone!
+m3xn02	maya	normal	topup		topup	Nice!
+m3xn03	maya	normal	topup		topup	Here you go, one tea with milk!
+m3xn04	maya	normal	topup		topup	That's it for today!
+m3xn05	maya	normal	topup		topup	Okay, everyone, listen up!
+m3xn06	maya	normal	topup		topup	Your turn!
+m3xn07	maya	normal	topup		topup	Don't forget your umbrella!
+m3xn08	maya	normal	topup		topup	Lunch is ready!
+m3xl07	maya	low	topup		topup	I miss her so much!
+m3xl08	maya	low	topup		topup	I just wanted one good day!
+m3xl09	maya	low	topup		topup	Please, just call me back!
+m3xl10	maya	low	topup		topup	I tried so hard!
+m3xl11	maya	low	topup		topup	I wish I was home!
+m3xl12	maya	low	topup		topup	I'm so tired of being alone!
+m3xl13	maya	low	topup		topup	It's not fair!
+m3xl14	maya	low	topup		topup	I should have been there!
+m3xt03	maya	tense	topup		topup	Stop it. Right now!
+m3xt04	maya	tense	topup		topup	Give it back!
+m3xt05	maya	tense	topup		topup	That's enough!
+m3xt06	maya	tense	topup		topup	Don't you dare!
+m3xt07	maya	tense	topup		topup	Not again!
+m3xt08	maya	tense	topup		topup	Out of my way, please!
+m3xt09	maya	tense	topup		topup	I said no!
+m3xt10	maya	tense	topup		topup	Leave her alone!
+m3xn09	maya	normal	topup		topup	Let me think… maybe Thursday.
+m3xn10	maya	normal	topup		topup	So… what are we doing tonight?
+m3xn11	maya	normal	topup		topup	Well… it depends on the weather.
+m3xn12	maya	normal	topup		topup	The bus is usually here by now… let's wait a bit.
+m3xn13	maya	normal	topup		topup	Hmm… I'd say the second one.
+m3xn14	maya	normal	topup		topup	First the tea… then the cake.
+m3xn15	maya	normal	topup		topup	One more thing… bring your notes tomorrow.
+m3xb01	maya	bright	topup		topup	Wait… is that a cake?
+m3xb02	maya	bright	topup		topup	And the winner is… you!
+m3xb03	maya	bright	topup		topup	Guess what… I got the tickets!
+m3xb04	maya	bright	topup		topup	Oh… look at all the lights!
+m3xb05	maya	bright	topup		topup	So… I have some good news!
+m3xb06	maya	bright	topup		topup	Look… the sun's coming out!
+m3xb07	maya	bright	topup		topup	Close your eyes… okay, now open them!
+m3xt11	maya	tense	topup		topup	Fine… keep it, then.
+m3xt12	maya	tense	topup		topup	I'm waiting… still waiting.
+m3xt13	maya	tense	topup		topup	Really… again?
+m3xt14	maya	tense	topup		topup	I asked you… three times.
+m3xt15	maya	tense	topup		topup	Don't… just don't.
+m3xt16	maya	tense	topup		topup	So that's how it is… okay.
+m3xt17	maya	tense	topup		topup	You promised… and you didn't come.
+m3xt18	maya	tense	topup		topup	I'm not angry… I'm just done.
+m3xn16	maya	normal	topup		topup	I was going to call — sorry, I forgot.
+m3xn17	maya	normal	topup		topup	Take the bus — it's faster than walking.
+m3xn18	maya	normal	topup		topup	There's one rule — always say thank you.
+m3xn19	maya	normal	topup		topup	We need three things — milk, bread and eggs.
+m3xn20	maya	normal	topup		topup	My cousin — the one in Wellawatte — is coming over.
+m3xn21	maya	normal	topup		topup	Turn left at the shop — no, the second shop.
+m3xn22	maya	normal	topup		topup	The answer is simple — practise every day.
+m3xn23	maya	normal	topup		topup	I'll be there at six — maybe a bit later.
+m3xn24	maya	normal	topup		topup	Wait — which page are we on?
+m3xn25	maya	normal	topup		topup	It's not far — about ten minutes on foot.
+m3xb08	maya	bright	topup		topup	We won — we actually won!
+m3xb09	maya	bright	topup		topup	Look at this — it's perfect!
+m3xb10	maya	bright	topup		topup	I know what we'll do — let's go to the beach!
+m3xb11	maya	bright	topup		topup	She said yes — can you believe it?
+m3xb12	maya	bright	topup		topup	The best part — no work tomorrow!
+m3xb13	maya	bright	topup		topup	Oh — you're here already!
+m3xb14	maya	bright	topup		topup	I've got it — the perfect gift for Paati!
+m3xb15	maya	bright	topup		topup	Two weeks — just two weeks until the trip!
+m3xl15	maya	low	topup		topup	I wanted to say — never mind.
+m3xl16	maya	low	topup		topup	She was fine yesterday — and now this.
+m3xl17	maya	low	topup		topup	I tried to call — but nobody answered.
+m3xl18	maya	low	topup		topup	It's just — I really miss them.
+m3xl19	maya	low	topup		topup	We had plans — big plans.
+m3xl20	maya	low	topup		topup	I'm okay — really, I am.
+m3xl21	maya	low	topup		topup	He used to sing — every morning.
+m3xl22	maya	low	topup		topup	I didn't mean it — I'm sorry.
+m3xl23	maya	low	topup		topup	One more week — then I can go home.
+m3xl24	maya	low	topup		topup	I don't know — maybe I'm just tired.
+m3xt19	maya	tense	topup		topup	Listen to me — not to him.
+m3xt20	maya	tense	topup		topup	I'll say it once — don't touch my things.
+m3xt21	maya	tense	topup		topup	You can stay — but be quiet.
+m3xt22	maya	tense	topup		topup	That's not the point — you lied.
+m3xt23	maya	tense	topup		topup	No — that's not what happened.
+m3xt24	maya	tense	topup		topup	I've had enough — I'm leaving.
+m3xt25	maya	tense	topup		topup	Ask me first — every time.
+m3xt26	maya	tense	topup		topup	He knew — and he said nothing.
+m3xt27	maya	tense	topup		topup	Not now — I'm working.
+m3xt28	maya	tense	topup		topup	One more word — and I'm calling the manager.
+m3xn26	maya	normal	topup		topup	You walked all the way here?!
+m3xn27	maya	normal	topup		topup	It's Monday already?!
+m3xn28	maya	normal	topup		topup	You've never had kottu?!
+m3xn29	maya	normal	topup		topup	The shop's closed on a Tuesday?!
+m3xn30	maya	normal	topup		topup	Forty minutes for one bus?!
+m3xn31	maya	normal	topup		topup	You did all of that in one night?!
+m3xn32	maya	normal	topup		topup	We have a test tomorrow?!
+m3xn33	maya	normal	topup		topup	You know my cousin?!
+m3xn34	maya	normal	topup		topup	Is that the time?!
+m3xn35	maya	normal	topup		topup	He's your brother?!
+m3xb16	maya	bright	topup		topup	You got the job?!
+m3xb17	maya	bright	topup		topup	Paati's really coming?!
+m3xb18	maya	bright	topup		topup	You bought me flowers?!
+m3xb19	maya	bright	topup		topup	We're going to Ella this weekend?!
+m3xb20	maya	bright	topup		topup	You finally passed?!
+m3xb21	maya	bright	topup		topup	That's for me?!
+m3xb22	maya	bright	topup		topup	You made this yourself?!
+m3xb23	maya	bright	topup		topup	They gave us free tickets?!
+m3xb24	maya	bright	topup		topup	Sam actually cooked?!
+m3xl25	maya	low	topup		topup	You're leaving tomorrow?!
+m3xl26	maya	low	topup		topup	She didn't even say goodbye?!
+m3xl27	maya	low	topup		topup	You forgot again?!
+m3xl28	maya	low	topup		topup	He said that about me?!
+m3xl29	maya	low	topup		topup	They sold the old house?!
+m3xl30	maya	low	topup		topup	Nobody told me?!
+m3xl31	maya	low	topup		topup	It's closing for good?!
+m3xl32	maya	low	topup		topup	You knew all along?!
+m3xl33	maya	low	topup		topup	After all this time?!
+m3xl34	maya	low	topup		topup	She's moving away?!
+m3xt29	maya	tense	topup		topup	You read my messages?!
+m3xt30	maya	tense	topup		topup	You took my bag without asking?!
+m3xt31	maya	tense	topup		topup	He shouted at you too?!
+m3xt32	maya	tense	topup		topup	You told my manager?!
+m3xt33	maya	tense	topup		topup	They cancelled it again?!
+m3xt34	maya	tense	topup		topup	You call that an apology?!
+m3xt35	maya	tense	topup		topup	Who parked there?!
+m3xt36	maya	tense	topup		topup	You lost the keys?!
+m3xt37	maya	tense	topup		topup	He's late again?!
+m3xt38	maya	tense	topup		topup	You said that to her?!
+m3xn36	maya	normal	topup		topup	I meant the BLUE bag, not the black one.
+m3xn37	maya	normal	topup		topup	The bus stop is on the LEFT.
+m3xn38	maya	normal	topup		topup	Put the cups on the TOP shelf.
+m3xn39	maya	normal	topup		topup	I'd like the SMALL one, please.
+m3xn40	maya	normal	topup		topup	It's the THIRD house on the street.
+m3xn41	maya	normal	topup		topup	We meet BEFORE class, not after.
+m3xn42	maya	normal	topup		topup	Read the question FIRST.
+m3xn43	maya	normal	topup		topup	The café opens at SEVEN.
+m3xn44	maya	normal	topup		topup	Use your OWN words.
+m3xn45	maya	normal	topup		topup	This one is MINE.
+m3xb25	maya	bright	topup		topup	That was the BEST day!
+m3xb26	maya	bright	topup		topup	I LOVE this place!
+m3xb27	maya	bright	topup		topup	You were AMAZING today!
+m3xb28	maya	bright	topup		topup	It's FINALLY Friday!
+m3xb29	maya	bright	topup		topup	This is SO good!
+m3xb30	maya	bright	topup		topup	We did it TOGETHER!
+m3xb31	maya	bright	topup		topup	Look how BIG he's grown!
+m3xb32	maya	bright	topup		topup	I can't WAIT!
+m3xb33	maya	bright	topup		topup	That's EXACTLY what I wanted!
+m3xl35	maya	low	topup		topup	I really TRIED.
+m3xl36	maya	low	topup		topup	Nobody ASKED me.
+m3xl37	maya	low	topup		topup	I just wanted to say GOODBYE.
+m3xl38	maya	low	topup		topup	It was MY fault.
+m3xl39	maya	low	topup		topup	I miss her EVERY day.
+m3xl40	maya	low	topup		topup	She was ALWAYS there for me.
+m3xl41	maya	low	topup		topup	I didn't even get to SEE her.
+m3xl42	maya	low	topup		topup	It's been SO long.
+m3xl43	maya	low	topup		topup	I should have STAYED.
+m3xl44	maya	low	topup		topup	NOBODY called.
+m3xt39	maya	tense	topup		topup	I said NO.
+m3xt40	maya	tense	topup		topup	That is NOT okay.
+m3xt41	maya	tense	topup		topup	Ask BEFORE you take it.
+m3xt42	maya	tense	topup		topup	I was HERE first.
+m3xt43	maya	tense	topup		topup	It's MY job, not yours.
+m3xt44	maya	tense	topup		topup	You promised. TWICE.
+m3xt45	maya	tense	topup		topup	Don't EVER do that again.
+m3xt46	maya	tense	topup		topup	Put it BACK.
+m3xt47	maya	tense	topup		topup	WHO took my umbrella?
+m3xn46	maya	normal	topup	G6	topup	We're moving.
+m3xb34	maya	bright	topup	G6	topup	We're moving!
+m3xl45	maya	low	topup	G6	topup	We're moving…
+m3xt48	maya	tense	topup	G6	topup	We're moving?!
+m3xn47	maya	normal	topup	G7	topup	It's done.
+m3xb35	maya	bright	topup	G7	topup	It's done!
+m3xl46	maya	low	topup	G7	topup	It's done…
+m3xt49	maya	tense	topup	G7	topup	It's DONE.
+m3xn48	maya	normal	topup	G8	topup	You're back.
+m3xb36	maya	bright	topup	G8	topup	You're back!
+m3xl47	maya	low	topup	G8	topup	You're back…
+m3xt50	maya	tense	topup	G8	topup	You're back?
+m3xn49	maya	normal	topup	G9	topup	Tomorrow, then.
+m3xb37	maya	bright	topup	G9	topup	Tomorrow, then!
+m3xl48	maya	low	topup	G9	topup	Tomorrow, then…
+m3xt51	maya	tense	topup	G9	topup	Tomorrow — then.
+m3xn50	maya	normal	topup	G10	topup	No more classes.
+m3xb38	maya	bright	topup	G10	topup	No more classes!
+m3xl49	maya	low	topup	G10	topup	No more classes…
+m3xt52	maya	tense	topup	G10	topup	No more classes?!
