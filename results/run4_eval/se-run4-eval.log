@@ -1,24 +1,53 @@
-[{"stream_name":"stdout","time":1.326884244,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' jiwer soundfile librosa torchcrepe scikit-learn\n"}
-,{"stream_name":"stderr","time":73.826795071,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
-,{"stream_name":"stderr","time":73.826839191,"data":"I0000 00:00:1794778766.978341       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
-,{"stream_name":"stderr","time":87.171927623,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
-,{"stream_name":"stderr","time":87.171956274,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
-,{"stream_name":"stdout","time":92.6768544,"data":"[  1.5 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-check\n"}
-,{"stream_name":"stdout","time":100.253805449,"data":"[  1.6 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix M\n"}
-,{"stream_name":"stdout","time":110.780065691,"data":"[  1.8 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
-,{"stream_name":"stdout","time":113.733609748,"data":"[  1.9 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
-,{"stream_name":"stdout","time":125.769093915,"data":"[  2.1 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
-,{"stream_name":"stdout","time":131.165318376,"data":"Traceback (most recent call last):\n"}
-,{"stream_name":"stdout","time":131.165356354,"data":"  File \"/kaggle/src/script.py\", line 45, in \u003cmodule\u003e\n"}
-,{"stream_name":"stdout","time":131.165366171,"data":"    from kokoro.model import KModel\n"}
-,{"stream_name":"stdout","time":131.165370191,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/__init__.py\", line 3, in \u003cmodule\u003e\n"}
-,{"stream_name":"stdout","time":131.165373565,"data":"    from loguru import logger\n"}
-,{"stream_name":"stdout","time":131.165376907,"data":"ModuleNotFoundError: No module named 'loguru'\n"}
-,{"stream_name":"stdout","time":131.165380021,"data":"\n"}
-,{"stream_name":"stderr","time":140.336781388,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
-,{"stream_name":"stderr","time":140.336809128,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
-,{"stream_name":"stderr","time":140.690096974,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
-,{"stream_name":"stderr","time":140.690122326,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
-,{"stream_name":"stderr","time":141.54165894,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
-,{"stream_name":"stderr","time":142.187114696,"data":"[NbConvertApp] Writing 456132 bytes to __results__.html\n"}
+[{"stream_name":"stdout","time":0.939797264,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' jiwer soundfile librosa torchcrepe scikit-learn loguru munch einops einops-exts nltk pydub accelerate\n"}
+,{"stream_name":"stderr","time":56.742433477,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":56.742492276,"data":"I0000 00:00:1794781647.703021       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":66.013656823,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":66.013684215,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stdout","time":66.81001154,"data":"[  1.1 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-check\n"}
+,{"stream_name":"stdout","time":78.184194323,"data":"[  1.3 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix M\n"}
+,{"stream_name":"stdout","time":88.204750396,"data":"[  1.5 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":90.738240039,"data":"[  1.5 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":99.733527886,"data":"[  1.6 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
+,{"stream_name":"stdout","time":119.340605544,"data":"[  2.0 min] validation 38 · test 620 · models ['A', 'B', 'stock']\n"}
+,{"stream_name":"stderr","time":119.480468557,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":130.529249302,"data":"Device set to use cuda\n"}
+,{"stream_name":"stdout","time":131.440137827,"data":"Downloading: \"https://github.com/tarepan/SpeechMOS/zipball/v1.2.0\" to /root/.cache/torch/hub/v1.2.0.zip\n"}
+,{"stream_name":"stderr","time":131.624086835,"data":"/usr/local/lib/python3.13/dist-packages/torch/nn/utils/weight_norm.py:144: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.\n"}
+,{"stream_name":"stderr","time":131.624108025,"data":"  WeightNorm.apply(module, name, dim)\n"}
+,{"stream_name":"stdout","time":132.118751886,"data":"Downloading: \"https://github.com/tarepan/SpeechMOS/releases/download/v1.0.0/utmos22_strong_step7459_v1.pt\" to /root/.cache/torch/hub/checkpoints/utmos22_strong_step7459_v1.pt\n"}
+,{"stream_name":"stderr","time":133.674564043,"data":"\r  0%|          | 0.00/392M [00:00\u003c?, ?B/s]\r  8%|▊         | 30.1M/392M [00:00\u003c00:01, 300MB/s]\r 15%|█▍        | 58.8M/392M [00:00\u003c00:01, 283MB/s]\r 23%|██▎       | 90.1M/392M [00:00\u003c00:01, 279MB/s]\r 31%|███       | 121M/392M [00:00\u003c00:00, 294MB/s] \r 39%|███▉      | 152M/392M [00:00\u003c00:00, 306MB/s]\r 47%|████▋     | 182M/392M [00:00\u003c00:00, 310MB/s]\r 55%|█████▍    | 215M/392M [00:00\u003c00:00, 319MB/s]\r 63%|██████▎   | 246M/392M [00:00\u003c00:00, 311MB/s]\r 70%|███████   | 275M/392M [00:00\u003c00:00, 299MB/s]\r 78%|███████▊  | 304M/392M [00:01\u003c00:00, 269MB/s]\r 84%|████████▍ | 330M/392M [00:01\u003c00:00, 249MB/s]\r 92%|█████████▏| 360M/392M [00:01\u003c00:00, 266MB/s]\r100%|█████████▉| 391M/392M [00:01\u003c00:00, 281MB/s]\r100%|██████████| 392M/392M [00:01\u003c00:00, 287MB/s]\n"}
+,{"stream_name":"stderr","time":154.385543806,"data":"/usr/local/lib/python3.13/dist-packages/torch/nn/functional.py:6409: UserWarning: Support for mismatched key_padding_mask and attn_mask is deprecated. Use same type for both instead.\n"}
+,{"stream_name":"stderr","time":154.385621967,"data":"  key_padding_mask = _canonical_mask(\n"}
+,{"stream_name":"stderr","time":173.950215068,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":178.342484878,"data":"/usr/local/lib/python3.13/dist-packages/torch/nn/functional.py:6409: UserWarning: Support for mismatched key_padding_mask and attn_mask is deprecated. Use same type for both instead.\n"}
+,{"stream_name":"stderr","time":178.34251608,"data":"  key_padding_mask = _canonical_mask(\n"}
+,{"stream_name":"stderr","time":185.106272142,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":290.465541613,"data":"[  4.8 min] val done\n"}
+,{"stream_name":"stdout","time":1673.084025746,"data":"[ 27.9 min] test done\n"}
+,{"stream_name":"stdout","time":1674.296563764,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/01_question_normal_X.mp3\n"}
+,{"stream_name":"stdout","time":1674.637205572,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/01_question_normal_Y.mp3\n"}
+,{"stream_name":"stdout","time":1674.787005224,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/02_surprise-qx_bright_X.mp3\n"}
+,{"stream_name":"stdout","time":1674.929836799,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/02_surprise-qx_bright_Y.mp3\n"}
+,{"stream_name":"stdout","time":1675.079571537,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/03_exclaim_low_X.mp3\n"}
+,{"stream_name":"stdout","time":1675.224079893,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/03_exclaim_low_Y.mp3\n"}
+,{"stream_name":"stdout","time":1675.366586755,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/04_dots_tense_X.mp3\n"}
+,{"stream_name":"stdout","time":1675.51233664,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/04_dots_tense_Y.mp3\n"}
+,{"stream_name":"stdout","time":1675.657403487,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/05_dash_normal_X.mp3\n"}
+,{"stream_name":"stdout","time":1675.820548555,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/05_dash_normal_Y.mp3\n"}
+,{"stream_name":"stdout","time":1675.98219566,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/06_CAPS_bright_X.mp3\n"}
+,{"stream_name":"stdout","time":1676.131373571,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/06_CAPS_bright_Y.mp3\n"}
+,{"stream_name":"stdout","time":1676.284236828,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/07_mood_normal_X.mp3\n"}
+,{"stream_name":"stdout","time":1676.445788297,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/07_mood_normal_Y.mp3\n"}
+,{"stream_name":"stdout","time":1676.60973713,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/08_mood_bright_X.mp3\n"}
+,{"stream_name":"stdout","time":1676.770925835,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/08_mood_bright_Y.mp3\n"}
+,{"stream_name":"stdout","time":1676.935431454,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/09_mood_low_X.mp3\n"}
+,{"stream_name":"stdout","time":1677.098877049,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/09_mood_low_Y.mp3\n"}
+,{"stream_name":"stdout","time":1677.261991207,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/10_mood_tense_X.mp3\n"}
+,{"stream_name":"stdout","time":1677.422754823,"data":"[ 27.9 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/listen/10_mood_tense_Y.mp3\n"}
+,{"stream_name":"stderr","time":1686.743453921,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1686.743495744,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1686.985431069,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1686.985455477,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1687.783116665,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1688.356257693,"data":"[NbConvertApp] Writing 456186 bytes to __results__.html\n"}
 ]
