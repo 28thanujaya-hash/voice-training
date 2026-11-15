@@ -210,7 +210,8 @@ try:
     for r in takes: LINES.setdefault(r["id"], []).append(r)
     chosen = {}; need = []
     for lid, rs in LINES.items():
-        okr = [r for r in rs if r["ok"] == "True"] or [r for r in rs if r["kept"] == "True"]
+        # Gate 1 without run4_record's "mark not heard" (it used Whisper-turbo word times, unreliable; marks are re-measured here)
+        okr = [r for r in rs if not (set(r["why"].split(",")) - {"mark not heard", ""})] or [r for r in rs if r["kept"] == "True"]
         if not okr: continue
         best = max(okr, key=lambda r: (score(M[(r["id"], r["take"])])[0], r["kept"] == "True"))
         chosen[lid] = ("old", best, M[(best["id"], best["take"])])
