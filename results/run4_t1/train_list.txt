@@ -1,0 +1,902 @@
+m3b01.wav|ˌI ɡɑt ɪt! ˌIm ʃˈɪft lˈidəɹ nˈW, ænd ˌI stˈɑɹt ˌɔn mˈʌndˌA!|0
+m3b02.wav|pˈɑtiz hˈOm! ʃˌi kˈɔld mˌi, ænd ʃi sˈWndz sˌO stɹˈɔŋ əɡˈɛn!|0
+m3b03.wav|ʃˌiz kˈʊkɪŋ kɹˈæb kˈɜɹi əɡˈɛn, sˌO ˌI nˈO ʃiz ɹˈiᵊli bˈɛTəɹ!|0
+m3b04.wav|ʧɛnˈI, mˈɑdʊɹI, ænd mˈAbi ðə bˈiʧ tˈu! ˌI kˈænt wˈAt!|0
+m3b05.wav|ˈɛlə wɪð ðə hˈOl klˈæs? ˌOkˈA, ðˈæts ɐ bɹˈɪljənt Idˈiə!|0
+m3b05.wav|ˈɛlə wɪð ðə hˈOl klˈæs? ˌOkˈA, ðˈæts ɐ bɹˈɪljənt Idˈiə!|0
+m3b05.wav|ˈɛlə wɪð ðə hˈOl klˈæs? ˌOkˈA, ðˈæts ɐ bɹˈɪljənt Idˈiə!|0
+m3b06.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+m3b06.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+m3b06.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+m3b07.wav|wˈAt, ɹˈiᵊli? ðˈæts əmˈAzɪŋ nˈuz!|0
+m3b07.wav|wˈAt, ɹˈiᵊli? ðˈæts əmˈAzɪŋ nˈuz!|0
+m3b07.wav|wˈAt, ɹˈiᵊli? ðˈæts əmˈAzɪŋ nˈuz!|0
+m3b08.wav|ˈO, kənɡɹˌæʧəlˈAʃənz! jˌu mˈʌst bi sˌO hˈæpi!|0
+m3b09.wav|jˌu fˈInᵊli dˈɪd ɪt! ˌI nˈu ju kˈʊd!|0
+m3b10.wav|ˌI kˈænt bəlˈiv ɪt! jˌu ˈækʧəwəli kˈɔld hˌɪm?|0
+m3b10.wav|ˌI kˈænt bəlˈiv ɪt! jˌu ˈækʧəwəli kˈɔld hˌɪm?|0
+m3b10.wav|ˌI kˈænt bəlˈiv ɪt! jˌu ˈækʧəwəli kˈɔld hˌɪm?|0
+m3b11.wav|jˈɛs! ðˈæts ɪɡzˈæktli ɹˈIt, ænd ju jˈuzd “bˌʌt” pˈɜɹfəktli!|0
+m3b13.wav|wˈW, ðˈæt wʌz ɐ lˈɔŋ ˈænsəɹ! wˈɛl dˈʌn!|0
+m3b14.wav|ðə sˈʌnsˌɛt wʌz sˌO pɹˈɪTi tənˈIt! ðə hˈOl skˈI wʌz ˈɔɹᵊnʤ!|0
+m3b15.wav|ˌI sˈAvd ɪnˈʌf fɔɹ ðə tɹˈAn tˈɪkət! ˈOnli ðə hOtˈɛl lˈɛft nˈW!|0
+m3b16.wav|lˈʊk æt ðɪs fˈOTO! ðə lˈIt ˌɔn ðə wˈɔTəɹ ɪz pˈɜɹfəkt!|0
+m3b17.wav|sɹˌi ˌɛlˌAˌɛnkˌAˈA wˈʌn bI tˈu wˈɪkəts? sˈæm mˈʌst bi ɡˈOɪŋ kɹˈAzi!|0
+m3b17.wav|sɹˌi ˌɛlˌAˌɛnkˌAˈA wˈʌn bI tˈu wˈɪkəts? sˈæm mˈʌst bi ɡˈOɪŋ kɹˈAzi!|0
+m3b17.wav|sɹˌi ˌɛlˌAˌɛnkˌAˈA wˈʌn bI tˈu wˈɪkəts? sˈæm mˈʌst bi ɡˈOɪŋ kɹˈAzi!|0
+m3b18.wav|ˌOkˈA, mˈɑɹvəl wˈʌzᵊnt bˈæd. dˈOnt tˈɛl sˈæm ˌI sˈɛd ðˈæt!|0
+m3b19.wav|θˈæŋk ju sˌO mˈʌʧ! ðˈæts ɹˈiᵊli kˈInd ʌv ju!|0
+m3b20.wav|ˌænd ðˈɛn, sˈʌdᵊnli, ðə hˈOl  stˈɑɹTᵻd sˈɪŋɪŋ fɔɹ hɜɹ bˈɜɹθdˌA!|0
+m3b21.wav|θˈɜɹTiθɹˌi dˈAz ʌv sˈAvɪŋ, ænd ˌIv ɡɑt θɹˈi θˈWzᵊnd ɹupˈiz!|0
+m3b22.wav|ˌI kˈænt bəlˈiv ʃi sˈɛd ðˈæt!|0
+m3b24.wav|ɹˈiᵊli?!|0
+m3b24.wav|ɹˈiᵊli?!|0
+m3b24.wav|ɹˈiᵊli?!|0
+m3b25.wav|ˌOkˈA, tˈɛl mˌi ↗ˈɛvəɹiθˌɪŋ!|0
+m3b25.wav|ˌOkˈA, tˈɛl mˌi ↗ˈɛvəɹiθˌɪŋ!|0
+m3b25.wav|ˌOkˈA, tˈɛl mˌi ↗ˈɛvəɹiθˌɪŋ!|0
+m3b26.wav|ðˌA sˈɛd jˈɛs! ˌI kæn tˈAk ðə hˈOl ʌv nˈɛkst mˈʌnθ ˈɔf fɔɹ ˈɪndiə!|0
+m3b27.wav|pˈɑti wˈɔkt tə ðə ɡˈAt bI həɹsˈɛlf tədˈA! ˌAˌɑɹjˌuˈɛn sˈɛnt mˌi ɐ vˈɪdiO!|0
+m3b28.wav|mˌI fˈɜɹst wˈik æz ʃˈɪft lˈidəɹ, ænd nˈʌθɪŋ wˈɛnt ɹˈɔŋ!|0
+m3b29.wav|ˌI bˈʊkt ðə tɹˈAn tə mˈɑdʊɹI! ˌɪts ɹˈiᵊli hˈæpᵊnɪŋ!|0
+m3b30.wav|tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs ɡˈɛTɪŋ sˌO bˈɪɡ! sˈæm ʃˈOd mˌi ɐ fˈOTO!|0
+m3b31.wav|sˈæm pˈæst hɪz dɹˈIvɪŋ tˈɛst! hˌi kˈɔld mˌi ðə mˈOmᵊnt hi ɡɑt ˈWt!|0
+m3b32.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə! ðə hˈOl klˈæs sˈɛd jˈɛs!|0
+m3b33.wav|pˈɑti mˌAd kɹˈæb kˈɜɹi fɔɹ ðə hˈOl stɹˈit, ænd ˈɛvɹiwən lˈʌvd ɪt!|0
+m3b34.wav|mˌI mˈænɪʤəɹ sˈɛd ˌIm ðə bˈɛst ʃˈɪft lˈidəɹ ðAv hˌæd!|0
+m3b35.wav|pˈɑtiz kˈʌmɪŋ tə kəlˈʌmbO! ʃˌi sˈɛd jˈɛs!|0
+m3b36.wav|ˈO, ðˈæts lˈʌvli! tˈɛl mˌi mˈɔɹ!|0
+m3b38.wav|wˈW, ju ɹəmˈɛmbəɹd! θˈæŋk ju!|0
+m3b39.wav|ðˈæts sˌO ɡˈʊd tə hˈɪɹ! ˌIm ɹˈiᵊli hˈæpi fɔɹ ju!|0
+m3b40.wav|ˈO, ˌI lˈʌv ðˈæt Idˈiə!|0
+m3b41.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik!|0
+m3b41.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik!|0
+m3b41.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik!|0
+m3b42.wav|ˈO, hˌW wˈʌndəɹfᵊl! wˌɛn dˈɪd ju fˈInd ˈWt?|0
+m3b42.wav|ˈO, hˌW wˈʌndəɹfᵊl! wˌɛn dˈɪd ju fˈInd ˈWt?|0
+m3b42.wav|ˈO, hˌW wˈʌndəɹfᵊl! wˌɛn dˈɪd ju fˈInd ˈWt?|0
+m3b43.wav|hˈɑ! ðˈæts sˌO ju!|0
+m3b44.wav|jˌʊɹ ʤˈOkɪŋ! bˈOθ ʌv ju?|0
+m3b44.wav|jˌʊɹ ʤˈOkɪŋ! bˈOθ ʌv ju?|0
+m3b44.wav|jˌʊɹ ʤˈOkɪŋ! bˈOθ ʌv ju?|0
+m3b45.wav|ðˈæt wʌz bɹˈɪljənt! jˌu dˈɪdᵊnt stˈɑp wˈʌns!|0
+m3b46.wav|jˈɛs! jˌu jˈuzd “ðˈɛn” ænd “ˈæftəɹ ðæt” — pˈɜɹfəkt!|0
+m3b46.wav|jˈɛs! jˌu jˈuzd “ðˈɛn” ænd “ˈæftəɹ ðæt” — pˈɜɹfəkt!|0
+m3b46.wav|jˈɛs! jˌu jˈuzd “ðˈɛn” ænd “ˈæftəɹ ðæt” — pˈɜɹfəkt!|0
+m3b47.wav|ɡɹˈAt kwˈɛsʧᵊn! ˌOkˈA, lˈɛt mˌi θˈɪŋk…|0
+m3b47.wav|ɡɹˈAt kwˈɛsʧᵊn! ˌOkˈA, lˈɛt mˌi θˈɪŋk…|0
+m3b48.wav|ˈO, nˈIs! ðˈæts ɐ mˈʌʧ bˈɛTəɹ wˈɜɹd!|0
+m3b49.wav|ɡˈʊd ʤˈɑb! jˌʊɹ ɡˈɛTɪŋ fˈæstəɹ ˈɛvəɹi dˈA!|0
+m3b50.wav|pˈɜɹfəkt! ˌI ˌʌndəɹstˈʊd ˈɛvəɹi sˈɪŋɡᵊl wˈɜɹd!|0
+m3b51.wav|jˈɛs, ðˈæts ɪt! sˈA ɪt lˈIk ðæt ˈɛvəɹi tˈIm!|0
+m3b52.wav|ðə  ɡˈAv ˈɛvɹiwən fɹˈi kˈAk tədˈA, bəkˈʌz ɪts ði ˈOnəɹz bˈɜɹθdˌA!|0
+m3b53.wav|pɹˈiə klˈind ðə hˈOl flˈæt! ˌI dˈOnt ˈivən nˈO wˌʌt hˈæpənd!|0
+m3b54.wav|ðə ɹˈAn stˈɑpt, ænd ðɛɹz ɐ ɹˈAnbˌO ˈOvəɹ ðə sˈi!|0
+m3b55.wav|ˌI fˈWnd mI ˌʌmbɹˈɛlə! ˌɪt wʌz ɪn mI bˈæɡ ðə hˈOl tˈIm!|0
+m3b56.wav|ˌAˌɛmˌɛmˌAˈɛs sˈɛndɪŋ ɐ bˈɑks ʌv swˈits fɹʌm ʤˈɑfnə!|0
+m3b57.wav|ˌɪts ɐ lˈɔŋ wˈikˌɛnd, sˌO ˌIm ɡˈOɪŋ tə slˈip fɔɹ tˈu dˈAz!|0
+m3b58.wav|ˌAˌɑɹjˌuˈɛn ɡɑt ðə tˈɑp mˈɑɹk ɪn hɪz klˈæs! mˌI lˈɪTᵊl bɹˈʌðəɹ!|0
+m3b59.wav|ɡˈɛs wˌʌt? pˌiˌɑɹˌIwˌIˌAˈɛs ɡˈɛTɪŋ ɐ dˈɔɡ!|0
+m3b59.wav|ɡˈɛs wˌʌt? pˌiˌɑɹˌIwˌIˌAˈɛs ɡˈɛTɪŋ ɐ dˈɔɡ!|0
+m3b59.wav|ɡˈɛs wˌʌt? pˌiˌɑɹˌIwˌIˌAˈɛs ɡˈɛTɪŋ ɐ dˈɔɡ!|0
+m3b61.wav|fˈInᵊli, ɐ dˈA ˈɔf! nˈO wˈɜɹk, nˈO klˈæs, nˈʌθɪŋ!|0
+m3b62.wav|ˌI tˈʊk ðə bˈɛst fˈOTO ʌv mI lˈIf tədˈA! ɐ fˈɪʃəɹmən ænd hɪz bˈOt æt sˈʌnsˌɛt!|0
+m3b63.wav|ðˌɛɹz ɐ nˈu bˈætmən fˈɪlm kˈʌmɪŋ ˈWt! ˌIm ɡˈOɪŋ ˌɔn ðə fˈɜɹst dˈA!|0
+m3b64.wav|ˌI fˈInᵊli mˌAd pˈɑtiz kɹˈæb kˈɜɹi, ænd ɪt ˈækʧəwəli tˈAstᵻd lˈIk hˈɜɹz!|0
+m3b65.wav|sˈæmz tˈim wˈʌn ðə mˈæʧ, ænd hi tˈʊk ðə lˈæst wˈɪkət!|0
+m3b66.wav|lˈʊk, ðə hOtˈɛl ɪn ʧɛnˈI hæz ɐ pˈul!|0
+m3b67.wav|ˌOkˈA, ˌIl sˈA ɪt: ðˈæt fˈɪlm wʌz ˈækʧəwəli ɹˈiᵊli ɡˈʊd!|0
+m3b68.wav|ˌI kæn sˈi ðə tˈɛmpᵊl fɹʌm ðə tɹˈAn wˈɪndO! ˌɪts bjˈuTəfəl!|0
+m3b69.wav|jˈɛs, ʌv kˈɔɹs! ˌId lˈʌv tə hˈɛlp!|0
+m3b70.wav|θˈæŋk ju! jˌu ɹˈiᵊli dˈɪdᵊnt hæv tə dˈu ðˈæt!|0
+m3b71.wav|ðˈɛn, ʤˈʌst æz wi ɹˈiʧt ðə tˈɑp, ðə klˈWdz ˈOpᵊnd, ænd wi sˈɔ ˈɛvəɹiθˌɪŋ!|0
+m3b72.wav|sˌO fˈɜɹst ˌI wʌz lˈAt, bˌʌt ðˈɛn ðə mˈænɪʤəɹ sˈɛd, “dˈOnt wˈɜɹi, jʊɹ ðə bˈɛst!”|0
+m3b73.wav|ˌænd ˈæftəɹ ˈɔl ðˈæt, ðə bˈʌs kˈAm ˈɜɹli fɔɹ wˈʌns!|0
+m3b74.wav|twˈɛntitˌu θˈWzᵊnd ɹupˈiz! ðˈæts ɪɡzˈæktli wˌʌt ˌI nˈidᵻd fɔɹ ðə tɹˈɪp!|0
+m3b75.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+m3b75.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+m3b75.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+m3l01.wav|pˈɑtiz ɪn hˈɑspˌɪTᵊl əɡˈɛn, ænd ˌIm sˌO fˈɑɹ əwˈA…|0
+m3l02.wav|ˌAˌɛmˌɛmˈA sˈɛz ʃiz ˌOkˈA, bˌʌt ˌI kæn hˈɪɹ ɪt ɪn hɜɹ vˈYs…|0
+m3l03.wav|ˌI ʤˈʌst wˈɑnt tə sˈɪt nˈɛkst tə hɜɹ ænd hˈOld hɜɹ hˈænd.|0
+m3l04.wav|hˌi ʃˈWTᵻd æt mˌi ɪn fɹˈʌnt ʌv ˈɛvɹiwən… ænd ˌI dˈɪdᵊnt sˈA ˈɛniθˌɪŋ.|0
+m3l05.wav|ˌI wˈɛnt tə ðə bˈæk ɹˈum ænd kɹˈId. ˌI fˈɛlt sˌO smˈɔl.|0
+m3l06.wav|ˈO, sˈæm… ˌIm sˌO sˈɔɹi əbˈWt bˌiˌɑɹjˌuˌɛnˈO. hˌi wʌz fˈæmᵊli.|0
+m3l07.wav|ˌI kˈip θˈɪŋkɪŋ əbˈWt hɜɹ kˈʊkɪŋ ɪn ðˈæt smˈɔl kˈɪʧᵊn…|0
+m3l08.wav|ˈO nˈO… ðˈæt mˈʌst bi ɹˈiᵊli hˈɑɹd.|0
+m3l10.wav|sˌʌm nˈIts ðə flˈæt fˈilz vˈɛɹi kwˈIət… ænd ˌI mˈɪs ʤˈɑfnə.|0
+m3l12.wav|ðˈæts ˌOkˈA. ˌɪts ɐ hˈɑɹd sˈɛntᵊns… lˈɛts tɹˈI ɪt əɡˈɛn, slˈOli.|0
+m3l13.wav|dˈOnt wˈɜɹi əbˈWt məstˈAks. ˈɛvɹiwən mˌAks ðˌɛm.|0
+m3l14.wav|ˌIm ɹˈiᵊli sˈɔɹi. ˌI dˈɪdᵊnt mˈin tə hˈɜɹt ju.|0
+m3l15.wav|ˈæftəɹ ðˈæt, ˌI wˈɔkt hˈOm ɪn ðə ɹˈAn, ænd ˌI dˈɪdᵊnt ˈivən nˈOTəs ˌI wʌz wˈɛt.|0
+m3l16.wav|ˌɪt wʌz ðə θˈɜɹd tˈIm ðɪs mˈʌnθ… ænd nˈObˌɑdi θˈæŋkt mˌi.|0
+m3l17.wav|sˌO ðˈæts ɪt, ðˈɛn…|0
+m3l18.wav|ˌI kˈænt bəlˈiv ʃi sˈɛd ðˈæt…|0
+m3l20.wav|ˌOkˈA… tˈɛl mˌi ˈɛvəɹiθˌɪŋ.|0
+m3l21.wav|ðˌA tˈʊk hɜɹ tə ðə hˈɑspˌɪTᵊl æt nˈIt, ænd nˈObˌɑdi kˈɔld mˌi ˌʌntˈɪl mˈɔɹnɪŋ…|0
+m3l22.wav|ˌApˌipˌiˈA sˈɛz ʃiz slˈipɪŋ ɐ lˈɑt… ænd ʃiz nˌɑt ˈiTɪŋ mˈʌʧ.|0
+m3l23.wav|ˌI lˈʊkt æt ðə bˈʌs tˈImz tə ʤˈɑfnə θɹˈi tˈImz tədˈA.|0
+m3l24.wav|ˌI kˈænt ɡˌO hˈOm ðɪs wˈik. ðə  nˈidz mˌi… ænd ˌI hˈAt ɪt.|0
+m3l25.wav|ˈɛvəɹi tˈIm mI fˈOn ɹˈɪŋz, ˌIm skˈɛɹd ɪts bˈæd nˈuz.|0
+m3l26.wav|ˌI kˈip sˈAɪŋ sˈɔɹi tə kˈʌstəməɹz… ˈivən wˌɛn ɪts nˌɑt mI fˈɔlt.|0
+m3l27.wav|ˌI dˈɪdᵊnt wˈɑnt ˈɛniwˌʌn tə sˈi mˌi kɹˈI… bˌʌt ðA ˈɔl dˈɪd.|0
+m3l28.wav|sˈæmz bɪn sˌO kwˈIət sˈɪns bˌiˌɑɹjˌuˌɛnˈO dˈId… ˌI dˈOnt nˈO wˌʌt tə sˈA tə hˌɪm.|0
+m3l29.wav|ˌI mˈɪs pˈɑtiz vˈYs. ʃˌi jˈust tə sˈɪŋ ɪn ðə kˈɪʧᵊn.|0
+m3l30.wav|mˈAbi ˌI ʃˌʊd hæv stˈAd ɪn ʤˈɑfnə… nˌɪɹ mI fˈæmᵊli.|0
+m3l31.wav|wˌɛn ˌI lˈɛft ʤˈɑfnə, pˈɑti hˈɛld mI hˈænd æt ðə bˈʌs stˈænd… ænd dˈɪdᵊnt lˈɛt ɡˌO.|0
+m3l32.wav|ˌAˌɑɹjˌuˈɛn ˈæskt wˌɛn ˌIm kˈʌmɪŋ hˈOm… ænd ˌI dˈɪdᵊnt hæv ɐn ˈænsəɹ.|0
+m3l33.wav|ˌI wˈʌndəɹ ɪf ʃi stˈɪl ɹəmˈɛmbəɹz mI vˈYs ˌɔn ðə fˈOn…|0
+m3l34.wav|ˈivən ðə sˈi lˈʊks ɡɹˈA tə mˌi tədˈA…|0
+m3l35.wav|ˌI ʤˈʌst wˈɑnt tə hˈɪɹ hɜɹ sˈA mI nˈAm əɡˈɛn.|0
+m3l36.wav|ˈO… ˌI dˈɪdᵊnt nˈO ðˈæt. ˌIm sˌO sˈɔɹi.|0
+m3l37.wav|ðˌæt sˈWndz ɹˈiᵊli lˈOnli…|0
+m3l38.wav|ˈO nˈO. ˌɑɹ ju ˌOkˈA?|0
+m3l38.wav|ˈO nˈO. ˌɑɹ ju ˌOkˈA?|0
+m3l38.wav|ˈO nˈO. ˌɑɹ ju ˌOkˈA?|0
+m3l39.wav|ˌI ˌʌndəɹstˈænd… ɪts nˌɑt ˈizi.|0
+m3l40.wav|hmm… ðˈæts sˈæd. ˌIm sˈɔɹi ɪt hˈæpənd.|0
+m3l41.wav|tˈAk ˈɔl ðə tˈIm ju nˈid. ˌIm hˈɪɹ.|0
+m3l42.wav|ˈO… ðˈæt mˈʌst hæv hˈɜɹt.|0
+m3l43.wav|ˌI nˈO… sˌʌm dˈAz ɑɹ ʤˈʌst lˈIk ðˈæt.|0
+m3l44.wav|ˌɪts ˌOkˈA ɪf ju dˈOnt nˈO ðə wˈɜɹd. ʤˈʌst sˈA wˌʌt ju kˈæn.|0
+m3l45.wav|ðˈæts ɔlɹˈIt… wi kæn kˈʌm bˈæk tə ðɪs wˈʌn lˈATəɹ.|0
+m3l46.wav|dˈOnt bi sˈæd əbˈWt ɪt. ˌɪt wʌz ɐ ɹˈiᵊli dˈɪfəkəlt kwˈɛsʧᵊn.|0
+m3l47.wav|slˈOli… wˈʌn wˈɜɹd æt ɐ tˈIm.|0
+m3l48.wav|hmm… nˈO, nˌɑt kwˈIt. bˌʌt ðˈæts ˌOkˈA, lˈɛts lˈʊk æt ɪt təɡˈɛðəɹ.|0
+m3l49.wav|ˌɪts bɪn ɹˈAnɪŋ fɔɹ θɹˈi dˈAz, ænd ˌI hˈævᵊnt sˈin ðə sˈʌn wˈʌns.|0
+m3l50.wav|pˌiˌɑɹˌIwˌIˌAˈɛs ɡɔn hˈOm fɔɹ ðə wˈikˌɛnd, sˌO ðə flˈæts ˈɛmpti.|0
+m3l51.wav|ˌIm tˈu tˈIəɹd tə kˈʊk tənˈIt… ˌIl ʤˈʌst hæv sˌʌm bɹˈɛd.|0
+m3l52.wav|ˌI dˈɪdᵊnt dˈu wˈɛl ɪn ðə tˈɛst. ˌI stˈʌdid, bˌʌt ˌI fəɹɡˈɑt ˈɛvəɹiθˌɪŋ.|0
+m3l53.wav|sˈʌmtˌImz ˌI ˈit lˈʌnʧ əlˈOn ɪn ðə pˈɑɹk, ænd ˌI wˈɑʧ ðə fˈæmᵊliz.|0
+m3l54.wav|mˌI fˈit hˈɜɹt sˌO mˈʌʧ ˈæftəɹ wˈɜɹk tənˈIt…|0
+m3l55.wav|ˌI wˈɑntᵻd tə kˈɔl hˈOm, bˌʌt ɪt wʌz tˈu lˈAt… ðA wɜɹ ˌɔlɹˈɛdi əslˈip.|0
+m3l56.wav|nˈObˌɑdi ɹəmˈɛmbəɹd mI bˈɜɹθdˌA ðɪs jˈɪɹ… ɪksˈɛpt pɹˈiə.|0
+m3l57.wav|ˌI dˈOnt fˈil lˈIk tˈɔkɪŋ tədˈA… sˈɔɹi.|0
+m3l58.wav|ðə  wʌz sˌO bˈɪzi, ænd ˌI dˈɪdᵊnt ˈivən hæv tˈIm fɔɹ wˈɔTəɹ.|0
+m3l59.wav|ˌI θˈɪŋk ˌIm ɡˈɛTɪŋ ɐ kˈOld… mI hˈɛdz sˌO hˈɛvi.|0
+m3l62.wav|ˌI nˈO ˌI mˌAd ɐ məstˈAk… ænd ˌI fˈil tˈɛɹəbᵊl əbˈWt ɪt.|0
+m3l63.wav|mˈAbi jʊɹ ɹˈIt. ˌI dˈOnt ɹˈiᵊli nˈO ˌɛnimˈɔɹ.|0
+m3l64.wav|plˈiz dˈOnt bi ˈæŋɡɹi wɪð mˌi… ˌIm tɹˈIɪŋ mI bˈɛst.|0
+m3l65.wav|ˌI hˈævᵊnt lˈɪsᵊnd tə mjˈuzɪk fɔɹ dˈAz… ɪt ʤˈʌst dˈʌzᵊnt fˈil ðə sˈAm.|0
+m3l66.wav|ˌI wˈɑʧt ɐn ˈOld fˈɪlm tənˈIt… ðə wˈʌn pˈɑti lˈIkt.|0
+m3l67.wav|ˌI dəlˈiTᵻd ˈɔl ðə fˈOTOz bI məstˈAk… ɐ hˈOl jˈɪɹ ʌv fˈOTOz.|0
+m3l68.wav|sˈæmz tˈim lˈɔst ðə fˈInᵊl… hi dˈɪdᵊnt sˈA ɐ wˈɜɹd ˈɔl ˈivnɪŋ.|0
+m3l69.wav|ˌI tɹˈId tə kˈʊk hɜɹ kˈɜɹi tənˈIt, bˌʌt ɪt dˈɪdᵊnt tˈAst ðə sˈAm…|0
+m3l70.wav|fˈɜɹst ðə bˈʌs dˈɪdᵊnt kˈʌm, ðˈɛn ɪt stˈɑɹTᵻd ɹˈAnɪŋ, ænd ðˈɛn mI fˈOn dˈId.|0
+m3l71.wav|ˌI wˈATᵻd fɔɹ ɐn ˈWəɹ, bˌʌt ɪn ði ˈɛnd, nˈObˌɑdi kˈAm.|0
+m3l72.wav|ˈæftəɹ ðə kˈɔl, ˌI ʤˈʌst sˈæt ðˈɛɹ… fɔɹ ɐ lˈɔŋ tˈIm.|0
+m3l73.wav|sˌO ɪn ði ˈɛnd, ˌI wˈɔkt hˈOm əlˈOn… ænd ɪt wʌz dˈɑɹk.|0
+m3l74.wav|θɹˈi wˈiks… θˈɜɹTiθɹˌi dˈAz… ˌIm kˈWntɪŋ ˈɛvəɹi dˈA.|0
+m3l75.wav|ðə θˈɪk, ɡɹˈA klˈWdz stˈAd ðɛɹ ðə hˈOl wˈikˌɛnd.|0
+m3n01.wav|ˌI wˈɜɹk æt ði  ɪn ði ˈivnɪŋz, sˌO ˌI stˈʌdi ɪn ðə mˈɔɹnɪŋz.|0
+m3n02.wav|ðə bˈʌs wʌz fˈʊl əɡˈɛn tədˈA, sˌO ˌI wˈɔkt fɹʌm dˌʌbᵊljuˌiˌɛlˌɛlˌAdˌʌbᵊljuˌAtˌitˌiˈi.|0
+m3n03.wav|pɹˈiə mˌAd dˌiˌOˌɛsˈA ðɪs mˈɔɹnɪŋ, ænd ðə hˈOl flˈæt smˈɛld əmˈAzɪŋ.|0
+m3n04.wav|ˌɪts bɪn ɹˈAnɪŋ ˈɔl wˈik, ænd mI ʃˈuz ɑɹ stˈɪl wˈɛt.|0
+m3n05.wav|dˈu ju jˈuʒəwəli stˈʌdi æt hˈOm, ɔɹ dˈu ju ɡˌO tə ðə lˈIbɹˌɛɹi?|0
+m3n05.wav|dˈu ju jˈuʒəwəli stˈʌdi æt hˈOm, ɔɹ dˈu ju ɡˌO tə ðə lˈIbɹˌɛɹi?|0
+m3n06.wav|ˌI kˈɔl mI fˈæmᵊli ˈɛvəɹi sˈʌndˌA, bˌʌt ðɪs wˈik ˌApˌipˌiˈA wʌz bˈɪzi.|0
+m3n07.wav|ðə  wʌz kwˈIət ðɪs ˌæftəɹnˈun, sˌO ˌI wˈɑʧt ðə pˈipᵊl ˌWtsˈId.|0
+m3n09.wav|wˌɛɹ dˈu ju jˈuʒəwəli ɡˌO ˌɔn wˈikˌɛndz?|0
+m3n09.wav|wˌɛɹ dˈu ju jˈuʒəwəli ɡˌO ˌɔn wˈikˌɛndz?|0
+m3n10.wav|wˌɛn ˌI θˈɪŋk əbˈWt ɪt, kəlˈʌmbO ɪz bˈɪzi, bˌʌt ɪts nˈɛvəɹ bˈɔɹɪŋ.|0
+m3n11.wav|ˌI jˈuʒəwəli wˈɔk əlˈɔŋ ɡˈɑl fˈAs ˈæftəɹ wˈɜɹk, bəkˈʌz ði ˈɛɹ ɪz sˌO kˈul.|0
+m3n12.wav|hmm, ˈɪntɹəstɪŋ. ˌænd ðˈɛn wˌʌt dˈɪd ju sˈA?|0
+m3n12.wav|hmm, ˈɪntɹəstɪŋ. ˌænd ðˈɛn wˌʌt dˈɪd ju sˈA?|0
+m3n13.wav|wˈAt, ɹˈiᵊli? jˌu wˈɛnt tə kˈændi ˌɔn jʊɹ ˈOn?|0
+m3n13.wav|wˈAt, ɹˈiᵊli? jˌu wˈɛnt tə kˈændi ˌɔn jʊɹ ˈOn?|0
+m3n14.wav|fˈɛɹ ɪnˈʌf. ˌI θˈɪŋk ˌId dˈu ðə sˈAm.|0
+m3n15.wav|ɡˌO ˌɔn. ˌIm lˈɪsənɪŋ.|0
+m3n16.wav|lˈɪsᵊn fˈɜɹst, ænd ðˈɛn sˈA ɪt bˈæk tə mˌi.|0
+m3n17.wav|ðˈæt wʌz klˈɪɹ. nˈW tɹˈI ɪt wɪð “bəkˈʌz”.|0
+m3n18.wav|tˈAk jʊɹ tˈIm. ðˌɛɹz nˈO ɹˈʌʃ.|0
+m3n19.wav|ˈO, ju wˈɛnt tə ðə ʃˈɑp jˈɛstəɹdˌA? nˈIs. “wˈɛnt”, nˌɑt “ɡˌO”.|0
+m3n19.wav|ˈO, ju wˈɛnt tə ðə ʃˈɑp jˈɛstəɹdˌA? nˈIs. “wˈɛnt”, nˌɑt “ɡˌO”.|0
+m3n20.wav|kˌæn ju sˈA ðˈæt əɡˈɛn, ɐ lˈɪTᵊl slˈOəɹ?|0
+m3n20.wav|kˌæn ju sˈA ðˈæt əɡˈɛn, ɐ lˈɪTᵊl slˈOəɹ?|0
+m3n21.wav|hˈɪɹz wˈʌn wˈA tə sˈA ɪt: “jˈuʒəwəli ˌI ɡɛt ˌʌp æt sˈɪks, bˌʌt tədˈA ˌI slˈɛpt lˈAt.”|0
+m3n22.wav|lˈɛts tɹˈI ɐ lˈɔŋɡəɹ ˈænsəɹ ðɪs tˈIm. jˈuz “ænd” ɔɹ “bˌʌt”.|0
+m3n23.wav|ˌI stˈɑɹt æz ʃˈɪft lˈidəɹ ˌɔn mˈʌndˌA, sˌO ˌI nˈid tə lˈɜɹn ðə skˈɛʤˌul.|0
+m3n24.wav|sˈæmz mˈʌm ɪz hˈOm wɪð ðə bˈAbi nˈW, ænd ˈɛvɹiwənz hˈɛlpɪŋ.|0
+m3n25.wav|ɪkskjˈuz mˌi, kʊd ju plˈiz tˈɛl mˌi wˌɛɹ ðə bˈʌs stˈɑp ɪz?|0
+m3n25.wav|ɪkskjˈuz mˌi, kʊd ju plˈiz tˈɛl mˌi wˌɛɹ ðə bˈʌs stˈɑp ɪz?|0
+m3n26.wav|wˌʊd ju mˈInd mˈuvɪŋ jʊɹ bˈæɡ, plˈiz? ˌId lˈIk tə sˈɪt dˌWn.|0
+m3n26.wav|wˌʊd ju mˈInd mˈuvɪŋ jʊɹ bˈæɡ, plˈiz? ˌId lˈIk tə sˈɪt dˌWn.|0
+m3n27.wav|ˌIm sˈɔɹi, bˌʌt ˌI θˈɪŋk jʊɹ nˈɛkst ɪn ðə kjˈu, nˌɑt mˌi.|0
+m3n28.wav|ˈɑnəstli? ˌI lˈIk bˈætmən mˈɔɹ, bəkˈʌz hiz ʤˈʌst ɐ nˈɔɹmᵊl pˈɜɹsᵊn.|0
+m3n28.wav|ˈɑnəstli? ˌI lˈIk bˈætmən mˈɔɹ, bəkˈʌz hiz ʤˈʌst ɐ nˈɔɹmᵊl pˈɜɹsᵊn.|0
+m3n29.wav|ˌI tˈʊk ɐ fˈOTO ʌv ðə sˈi ðɪs ˈivnɪŋ, ænd ðə kˈʌləɹz wɜɹ bjˈuTəfəl.|0
+m3n30.wav|hˌæv ju ˈɛvəɹ bɪn tʊ ˈɪndiə? ˌId lˈʌv tə sˈi mˈɑdʊɹI wˈʌn dˈA.|0
+m3n30.wav|hˌæv ju ˈɛvəɹ bɪn tʊ ˈɪndiə? ˌId lˈʌv tə sˈi mˈɑdʊɹI wˈʌn dˈA.|0
+m3n31.wav|fˈɜɹst ˌI mˌAd ðə tˈi, ðˈɛn ˌI klˈind ðə tˈAbᵊlz, ænd ˈæftəɹ ðæt ˌI fˈInᵊli sˈæt dˌWn.|0
+m3n32.wav|mˈinhwˌIl, pɹˈiə wʌz ˌɔn ðə fˈOn wɪð hɜɹ mˈʌm, sˌO ˌI kˈʊkt dˈɪnəɹ.|0
+m3n33.wav|ðˌɛɹ ɑɹ θɹˈi θˈɪŋz ˌɔn ðə lˈɪst: ɹˈIs, vˈɛʤtəbəlz, ænd ðə θˈɪk jˈɛlO dˈɑl.|0
+m3n35.wav|ˌI wˈɔʃt ðə kˈʌps, dɹˈId ðˌɛm, ænd ðˈɛn ˌI wˈɑʧt ðə wˈAvz.|0
+m3n36.wav|tˈɛnʊkə, kˈʌvi ænd nˈɪməl: θɹˈi bɹˈʌðəɹz ɪn wˈʌn smˈɔl hˈWs.|0
+m3n37.wav|sˌO ðˈæts ɪt, ðˈɛn.|0
+m3n39.wav|ɹˈiᵊli?|0
+m3n39.wav|ɹˈiᵊli?|0
+m3n40.wav|ˌOkˈA, tˈɛl mˌi ˈɛvəɹiθˌɪŋ.|0
+m3n41.wav|mˌI ʃˈɪft stˈɑɹts æt fˈIv, sˌO ˌI jˈuʒəwəli ˈit sˈʌmθˌɪŋ lˈIt bəfˈɔɹ wˈɜɹk.|0
+m3n42.wav|pɹˈiə ænd ˌI tˈAk tˈɜɹnz kˈʊkɪŋ, bˌʌt ʃi ˈɔlwˌAz fəɹɡˈɛts tə bˈI ˈʌnjᵊnz.|0
+m3n43.wav|ðə ɹˈOd nˌɪɹ ˌWəɹ flˈæt ɪz sˌO nˈYzi ɪn ðə mˈɔɹnɪŋz, əspˈɛʃəli ˌɔn mˈʌndˌAz.|0
+m3n44.wav|ˌI lˈIk ðə bˈʌs wˌɛn ɪts ˈɛmpti, bəkˈʌz ˌI kæn lˈʊk æt ðə sˈi.|0
+m3n45.wav|wˌi hæv ɐ smˈɔl bˈælkəni, ænd ˌI kˈip tˈu plˈænts ðˈɛɹ.|0
+m3n46.wav|dˈu ju pɹifˈɜɹ tˈi ɔɹ kˈɔfi ɪn ðə mˈɔɹnɪŋ?|0
+m3n46.wav|dˈu ju pɹifˈɜɹ tˈi ɔɹ kˈɔfi ɪn ðə mˈɔɹnɪŋ?|0
+m3n47.wav|ˌWəɹ tˈiʧəɹ ɡˈAv ˌʌs ɐ lˈɑt ʌv hˈOmwˌɜɹk, sˌO ˌIl bi ˌʌp lˈAt tənˈIt.|0
+m3n48.wav|ˌI bˈɔt ɐ nˈu ˌʌmbɹˈɛlə lˈæst wˈik, ænd ˌIv ˌɔlɹˈɛdi lˈɔst ɪt.|0
+m3n49.wav|ˌɪz jʊɹ kˈɑlɪʤ fˈɑɹ fɹʌm jʊɹ hˈWs, ɔɹ kæn ju wˈɔk ðˈɛɹ?|0
+m3n49.wav|ˌɪz jʊɹ kˈɑlɪʤ fˈɑɹ fɹʌm jʊɹ hˈWs, ɔɹ kæn ju wˈɔk ðˈɛɹ?|0
+m3n50.wav|ðə ʃˈɑp nˌɪɹ ðə stˈAʃən sˈɛlz ðə bˈɛst mˈæŋɡOz, bˌʌt ɪt klˈOzᵻz ˈɜɹli.|0
+m3n51.wav|hmm… sˌO wˌʌt dˈɪd jʊɹ mˈʌm sˈA əbˈWt ðˈæt?|0
+m3n51.wav|hmm… sˌO wˌʌt dˈɪd jʊɹ mˈʌm sˈA əbˈWt ðˈæt?|0
+m3n52.wav|ˈO, ˌOkˈA. sˌO ju dˈɪdᵊnt ɡˌO ɪn ði ˈɛnd?|0
+m3n52.wav|ˈO, ˌOkˈA. sˌO ju dˈɪdᵊnt ɡˌO ɪn ði ˈɛnd?|0
+m3n53.wav|ðˌæt sˈWndz nˈIs. hˌW lˈɔŋ dˈɪd ɪt tˈAk tə ɡɛt ðˈɛɹ?|0
+m3n53.wav|ðˌæt sˈWndz nˈIs. hˌW lˈɔŋ dˈɪd ɪt tˈAk tə ɡɛt ðˈɛɹ?|0
+m3n54.wav|wˈAt, sˌO hˌu wʌz dɹˈIvɪŋ?|0
+m3n54.wav|wˈAt, sˌO hˌu wʌz dɹˈIvɪŋ?|0
+m3n55.wav|ɹˈIt, ˌI ˌʌndəɹstˈænd. ˌænd hˌW dˈu ju fˈil əbˈWt ɪt nˈW?|0
+m3n55.wav|ɹˈIt, ˌI ˌʌndəɹstˈænd. ˌænd hˌW dˈu ju fˈil əbˈWt ɪt nˈW?|0
+m3n56.wav|ɡˈʊd. nˈW tˈɛl mˌi əbˈWt jʊɹ mˈɔɹnɪŋ, jˈuzɪŋ “fˈɜɹst” ænd “ðˈɛn”.|0
+m3n57.wav|lˈɛts pɹˈæktəs ðɪs wˈʌn təɡˈɛðəɹ. ˌIl sˈA ɪt, ænd ju ɹəpˈit ɪt.|0
+m3n58.wav|tɹˈI tʊ ˈænsəɹ wɪð tˈu sˈɛntᵊnsᵻz ðɪs tˈIm.|0
+m3n59.wav|ˈO, ju hæv tˈu bɹˈʌðəɹz? nˈIs. “bɹˈʌðəɹz”, wɪð ɐn “ˈɛs” æt ði ˈɛnd.|0
+m3n59.wav|ˈO, ju hæv tˈu bɹˈʌðəɹz? nˈIs. “bɹˈʌðəɹz”, wɪð ɐn “ˈɛs” æt ði ˈɛnd.|0
+m3n62.wav|sˈæm sˈɛz ðə bˈAbi slˈips ˈɔl dˈA ænd kɹˈIz ˈɔl nˈIt.|0
+m3n63.wav|bˈiɪŋ ʃˈɪft lˈidəɹ mˈinz ˌI hæv tə kˈWnt ðə mˈʌni æt ði ˈɛnd ʌv ðə dˈA.|0
+m3n64.wav|ˌIm sˈAvɪŋ ɐ lˈɪTᵊl ˈɛvəɹi wˈik fɔɹ ðə tɹˈɪp, sˌO ˌI dˈOnt ˈit ˈWt mˈʌʧ.|0
+m3n65.wav|kˌʊd ju sˈɛnd mˌi ðə nˈOts fɹʌm tədˈAz klˈæs, plˈiz?|0
+m3n65.wav|kˌʊd ju sˈɛnd mˌi ðə nˈOts fɹʌm tədˈAz klˈæs, plˈiz?|0
+m3n66.wav|ˌI dˈOnt əɡɹˈi, bˌʌt ˌI ˌʌndəɹstˈænd wˌI ju θˈɪŋk ðˈæt.|0
+m3n67.wav|lˈɛts wˈAt fɔɹ ði ˈʌðəɹz, ænd ðˈɛn wi kæn dəsˈId təɡˈɛðəɹ.|0
+m3n68.wav|ˌI lˈIk ˈOld tˈæmᵊl sˈɔŋz, əspˈɛʃəli wˌɛn ɪts ɹˈAnɪŋ ˌWtsˈId.|0
+m3n69.wav|sˈæm θˈɪŋks ˈɛvəɹi fˈɪlm nˈidz ɐ bˈɪɡ fˈIt æt ði ˈɛnd, bˌʌt ˌI dˈOnt.|0
+m3n70.wav|ˌI jˈuʒəwəli tˈAk fˈOTOz ʌv pˈipᵊlz hˈændz wˌɛn ðɛɹ kˈʊkɪŋ.|0
+m3n71.wav|jˈɛstəɹdˌA ˌI mˈɪst ðə bˈʌs, sˌO ˌI tˈʊk ɐ tˈʊktʊk, bˌʌt ðˈɛn wi ɡɑt stˈʌk ɪn tɹˈæfɪk.|0
+m3n72.wav|ɪn ði ˈɛnd, wi fˈWnd ðə , bˌʌt ɪt wʌz ˌɔlɹˈɛdi klˈOzd.|0
+m3n73.wav|ʃˌi θˈɪŋks ðə θˈɜɹd θˈɜɹzdˌA ɪz fɹˈi, bˌʌt ˌIm nˌɑt ʃˈʊɹ.|0
+m3n74.wav|mˌI fˈOn nˈʌmbəɹ ˈɛndz ɪn tˈu, nˈIn, sˈɛvən, zˈɪɹO.|0
+m3n75.wav|ðə vˈɛʤtəbəlz wɜɹ fɹˈɛʃ, ðə fˈɪʃ wʌz fɹˈId, ænd ðə ɹˈIs wʌz pˈɜɹfəkt.|0
+m3t01.wav|nˈO. ðˈæt wʌz nˌɑt ˌOkˈA. jˌu dˈOnt spˈik tə pˈipᵊl lˈIk ðˈæt.|0
+m3t02.wav|ˌI sˈɛd sˈɔɹi twˈIs, ænd hi stˈɪl wˈʊdᵊnt lˈɪsᵊn.|0
+m3t03.wav|ˌIm nˌɑt kɹˈIɪŋ bəkˈʌz ˌIm wˈik. ˌIm kɹˈIɪŋ bəkˈʌz ˌIm ˈæŋɡɹi.|0
+m3t04.wav|plˈiz lˈOəɹ jʊɹ vˈYs. ˌIm tɹˈIɪŋ tə hˈɛlp ju.|0
+m3t05.wav|ˌI ˌʌndəɹstˈænd jʊɹ ˌʌpsˈɛt, bˌʌt ˌI wOnt əksˈɛpt ðˈæt.|0
+m3t07.wav|nˈO, θˈæŋk ju. ˌIv ˌɔlɹˈɛdi mˌAd mI dəsˈɪʒᵊn.|0
+m3t08.wav|ðə wˈIfˌI ɪz dˌWn əɡˈɛn, ænd ˌI hæv ɐn ɪɡzˈæm təmˈɑɹO.|0
+m3t09.wav|bˈætmən dˈʌzᵊnt nˈid ɐ flˈIɪŋ sˈut. hˌiz ʤˈʌst smˈɑɹt. stˈɑp lˈæfɪŋ.|0
+m3t10.wav|stˈɑp. lˈɪsᵊn tə ðə kwˈɛsʧᵊn fˈɜɹst, ænd ðˈɛn ˈænsəɹ.|0
+m3t11.wav|ðˈɛn hi θɹˈu ðə mˈɛnju ˌɔn ðə tˈAbᵊl ænd wˈɔkt ˈWt wɪðˈWt pˈAɪŋ.|0
+m3t12.wav|hˌi wˈɑntᵻd θɹˈi θˈɪŋz, hi ʧˈAnʤd hɪz ˈɔɹdəɹ twˈIs, ænd ðˈɛn hi lˈɛft.|0
+m3t13.wav|sˌO ðˈæts ↗ˈɪt, ðˈɛn.|0
+m3t13.wav|sˌO ðˈæts ↗ˈɪt, ðˈɛn.|0
+m3t13.wav|sˌO ðˈæts ↗ˈɪt, ðˈɛn.|0
+m3t14.wav|ˌI kˈænt bəlˈiv ʃi sˈɛd ðˈæt.|0
+m3t15.wav|ɹˈiᵊli.|0
+m3t16.wav|hˌi klˈɪkt hɪz fˈɪŋɡəɹz æt mˌi. lˈIk ˌI wʌz ɐ dˈɔɡ.|0
+m3t17.wav|ˌIm nˌɑt ɡˈOɪŋ tə sˈA sˈɔɹi fɔɹ sˈʌmθˌɪŋ ˌI dˈɪdᵊnt dˈu.|0
+m3t18.wav|ˌI tˈOld mI mˈænɪʤəɹ ˈɛvəɹiθˌɪŋ, ænd ʃi sˈɛd, “ʤˈʌst smˈIl.” smˈIl?|0
+m3t18.wav|ˌI tˈOld mI mˈænɪʤəɹ ˈɛvəɹiθˌɪŋ, ænd ʃi sˈɛd, “ʤˈʌst smˈIl.” smˈIl?|0
+m3t18.wav|ˌI tˈOld mI mˈænɪʤəɹ ˈɛvəɹiθˌɪŋ, ænd ʃi sˈɛd, “ʤˈʌst smˈIl.” smˈIl?|0
+m3t19.wav|ˌɪf hi kˈʌmz bˈæk, ˌIm nˌɑt sˈɜɹvɪŋ hˌɪm. sˈʌmwˌʌn ˈɛls kˈæn.|0
+m3t20.wav|hˌi dˈɪdᵊnt ˈivən lˈʊk æt mˌi wˌɛn hi sˈɛd ɪt.|0
+m3t21.wav|bˈiɪŋ ʃˈɪft lˈidəɹ dˈʌzᵊnt mˈin ˌI hæv tʊ əksˈɛpt ɹˈud pˈipᵊl.|0
+m3t22.wav|θɹˈi pˈipᵊl sˈɔ wˌʌt hˈæpənd, ænd nˈObˌɑdi sˈɛd ɐ wˈɜɹd.|0
+m3t23.wav|ˌIm tˈIəɹd ʌv bˈiɪŋ pəlˈIt tə pˈipᵊl hˌu ɑɹ nˈɛvəɹ pəlˈIt tə mˌi.|0
+m3t24.wav|hˌi ˈOz ðə  tˈu θˈWzᵊnd ɹupˈiz, ænd hiz nˈɛvəɹ kˈʌmɪŋ bˈæk.|0
+m3t25.wav|ˌI dˈɪdᵊnt kɹˈI bəkˈʌz ʌv hˌɪm. ˌI kɹˈId bəkˈʌz ˌI wʌz tˈIəɹd.|0
+m3t26.wav|plˈiz dˈOnt ˌɪntəɹˈʌpt mˌi. lˈɛt mˌi fˈɪnəʃ.|0
+m3t27.wav|ˌIv ˈæskt ju θɹˈi tˈImz nˈW. plˈiz ˈænsəɹ ðə kwˈɛsʧᵊn.|0
+m3t28.wav|ðˈæts nˌɑt wˌʌt wi əɡɹˈid. wˌi sˈɛd fɹˈIdˌA.|0
+m3t29.wav|ˌIm sˈɔɹi, bˌʌt ðˈæts nˌɑt mI ʤˈɑb.|0
+m3t30.wav|nˈO. ˌI wOnt dˈu ɪt, ænd ðˈæts fˈInᵊl.|0
+m3t31.wav|jˌu kæn wˈAt ɪn ðə kjˈu lˈIk ˈɛvɹiwən ˈɛls.|0
+m3t32.wav|ˌIm nˌɑt ˈæskɪŋ. ˌIm tˈɛlɪŋ ju.|0
+m3t33.wav|plˈiz pˌʊt jʊɹ fˈOn dˌWn wˌɛn ˌIm tˈɔkɪŋ tə ju.|0
+m3t34.wav|ˌɪf ju hæv ɐ pɹˈɑbləm, tˈɔk tə mˌi, nˌɑt əbˈWt mˌi.|0
+m3t35.wav|θˈæŋk ju, bˌʌt ˌI dˈOnt nˈid jʊɹ ədvˈIs.|0
+m3t36.wav|ɪkskjˈuz mˌi, ðˈæts mI bˈæɡ. plˈiz dˈOnt tˈʌʧ ɪt.|0
+m3t37.wav|ˌId lˈIk ɐ ɹˈifˌʌnd, plˈiz. ðˌɪs ɪz ðə sˈɛkənd tˈIm ɪts bɹˈOkən.|0
+m3t38.wav|plˈiz stˈɑp. ðˈæts ɪnˈʌf.|0
+m3t39.wav|ˌIm nˌɑt ˈæŋɡɹi. ˌIm dˌɪsəpˈYntᵻd.|0
+m3t40.wav|nˈɛkst tˈIm, ˈæsk bəfˈɔɹ ju tˈAk sˈʌmθˌɪŋ.|0
+m3t41.wav|ðə lˈændlˌɔɹd wˈɑnts mˈɔɹ ɹˈɛnt. əɡˈɛn. fˌɔɹ ðə sˈAm tˈIni flˈæt.|0
+m3t42.wav|ðə bˈʌs dɹˈIvəɹ dˈɪdᵊnt stˈɑp. ˌI wʌz stˈændɪŋ ɹˈIt ðˈɛɹ.|0
+m3t43.wav|sˈʌmbədi pˈɑɹkt ɪn fɹˈʌnt ʌv ˌWəɹ ɡˈAt, sˌO wi kˌʊdᵊnt ɡɛt ˈWt.|0
+m3t44.wav|ðə ʃˈɑp ɡˈAv mˌi ðə ɹˈɔŋ ʧˈAnʤ, ænd ðˈɛn ðA sˈɛd ɪt wʌz mI məstˈAk.|0
+m3t45.wav|mˌI nˈAbəɹ plˈAz lˈWd mjˈuzɪk ˈɛvəɹi nˈIt ˌʌntˈɪl tˈu.|0
+m3t46.wav|ˌI wˈATᵻd fˈɔɹTi mˈɪnəts fɔɹ ðə bˈʌs, ænd ðˈɛn tˈu kˈAm təɡˈɛðəɹ.|0
+m3t47.wav|pɹˈiə jˈuzd mI ʃæmpˈu əɡˈɛn wɪðˈWt ˈæskɪŋ.|0
+m3t48.wav|ði ˈɪntəɹnˌɛts bɪn dˌWn sˈɪns mˈɔɹnɪŋ, ænd nˈObˌɑdiz ˈænsəɹɪŋ ðə fˈOn.|0
+m3t49.wav|ðə mˈæn nˈɛkst tə mˌi tˈɔkt ˌɔn ðə fˈOn ðə hˈOl ʤˈɜɹni. lˈWdli.|0
+m3t50.wav|sˈʌmwˌʌn tˈʊk mI ˌʌmbɹˈɛlə fɹʌm ðə . mˌI nˈu wˈʌn.|0
+m3t51.wav|ˌI klˈind ðə kˈɪʧᵊn ðɪs mˈɔɹnɪŋ, ænd ɪts ˌɔlɹˈɛdi ɐ mˈɛs.|0
+m3t52.wav|ðˌA ʧˈAnʤd ðə klˈæs tˈIm əɡˈɛn, ænd nˈObˌɑdi tˈOld ˌʌs.|0
+m3t53.wav|wˈAt. hˌi sˈɛd wˌʌt?|0
+m3t53.wav|wˈAt. hˌi sˈɛd wˌʌt?|0
+m3t53.wav|wˈAt. hˌi sˈɛd wˌʌt?|0
+m3t54.wav|sˈɪɹiəsli? ˈæftəɹ ˈɛvəɹiθˌɪŋ ju dˈɪd fɔɹ hˌɪm?|0
+m3t54.wav|sˈɪɹiəsli? ˈæftəɹ ˈɛvəɹiθˌɪŋ ju dˈɪd fɔɹ hˌɪm?|0
+m3t54.wav|sˈɪɹiəsli? ˈæftəɹ ˈɛvəɹiθˌɪŋ ju dˈɪd fɔɹ hˌɪm?|0
+m3t55.wav|nˈO. ðˈæts nˌɑt fˈɛɹ, ænd ju nˈO ɪt.|0
+m3t56.wav|hmm. ˌI dˈOnt bəlˈiv ðæt fɔɹ ɐ sˈɛkənd.|0
+m3t58.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+m3t58.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+m3t58.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+m3t59.wav|nˈO, lˈɪsᵊn əɡˈɛn. ðə kwˈɛsʧᵊn wʌz “wˌɛɹ”, nˌɑt “wˌɛn”.|0
+m3t60.wav|stˈɑp ɡˈɛsɪŋ. θˈɪŋk fˈɜɹst, ænd ðˈɛn ˈænsəɹ.|0
+m3t61.wav|jˌu sˈɛd “ɡˌO” əɡˈɛn. ˌɪts “wˈɛnt”. tɹˈI ɪt wˈʌns mˈɔɹ.|0
+m3t62.wav|lˈʊk æt mˌi, nˌɑt æt ðə skɹˈin. nˈW sˈA ɪt.|0
+m3t63.wav|ðˈæts ðə θˈɜɹd tˈIm. slˈO dˌWn, plˈiz.|0
+m3t64.wav|nˈO fˈOnz ɪn klˈæs, plˈiz. pˌʊt ɪt əwˈA.|0
+m3t65.wav|ðˈæt fˈɪlm wʌz tˈu lˈɔŋ, tˈu lˈWd, ænd ði ˈɛndɪŋ mˌAd nˈO sˈɛns.|0
+m3t66.wav|dˈOnt tˈɛl mˌi ði ˈɛndɪŋ. ˌI hˈævᵊnt sˈin ɪt jˈɛt.|0
+m3t67.wav|sˈæm tˈɔkt ˈɔl θɹu ðə fˈɪlm. ˌI mˈɪst ðə bˈɛst pˈɑɹt.|0
+m3t69.wav|ðˌA kˈænsəld ðə tɹˈAn tə mˈɑdʊɹI. tˈu dˈAz bəfˈɔɹ.|0
+m3t70.wav|fˈɜɹst hi kəmplˈAnd əbˈWt ðə tˈi, ðˈɛn əbˈWt ðə kˈAk, ænd ðˈɛn hi wˈɑntᵻd ɐ dˈɪskˌWnt.|0
+m3t71.wav|sˌO ˌI ɪksplˈAnd ɪt twˈIs, ænd hi stˈɪl sˈɛd ˌI wʌz ɹˈɔŋ.|0
+m3t72.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+m3t72.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+m3t72.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+m3t73.wav|ðˈɛn, ɪn ðə mˈɪdᵊl ʌv ˈɛvəɹiθˌɪŋ, ðə lˈIts wˈɛnt ˈWt.|0
+m3t74.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+m3t74.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+m3t74.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+m3t75.wav|ðə θˈɪk fˈɔɡ dəlˈAd ðə tɹˈAn bI θɹˈi ˈWəɹz.|0
+m3xb02.wav|ˌænd ðə wˈɪnəɹ ɪz… ju!|0
+m3xb02.wav|ˌænd ðə wˈɪnəɹ ɪz… ju!|0
+m3xb03.wav|ɡˈɛs wˌʌt… ˌI ɡɑt ðə tˈɪkəts!|0
+m3xb03.wav|ɡˈɛs wˌʌt… ˌI ɡɑt ðə tˈɪkəts!|0
+m3xb04.wav|ˈO… lˈʊk æt ˈɔl ðə lˈIts!|0
+m3xb04.wav|ˈO… lˈʊk æt ˈɔl ðə lˈIts!|0
+m3xb05.wav|sˌO… ˌI hæv sˌʌm ɡˈʊd nˈuz!|0
+m3xb05.wav|sˌO… ˌI hæv sˌʌm ɡˈʊd nˈuz!|0
+m3xb06.wav|lˈʊk… ðə sˈʌnz kˈʌmɪŋ ˈWt!|0
+m3xb06.wav|lˈʊk… ðə sˈʌnz kˈʌmɪŋ ˈWt!|0
+m3xb07.wav|klˈOz jʊɹ ˈIz… ˌOkˈA, nˈW ˈOpᵊn ðˌɛm!|0
+m3xb07.wav|klˈOz jʊɹ ˈIz… ˌOkˈA, nˈW ˈOpᵊn ðˌɛm!|0
+m3xb08.wav|wˌi wˈʌn, — wi ˈækʧəwəli wˈʌn!|0
+m3xb08.wav|wˌi wˈʌn, — wi ˈækʧəwəli wˈʌn!|0
+m3xb08.wav|wˌi wˈʌn, — wi ˈækʧəwəli wˈʌn!|0
+m3xb10.wav|ˌI nˈO wˌʌt wil dˈu — lˈɛts ɡˌO tə ðə bˈiʧ!|0
+m3xb10.wav|ˌI nˈO wˌʌt wil dˈu — lˈɛts ɡˌO tə ðə bˈiʧ!|0
+m3xb10.wav|ˌI nˈO wˌʌt wil dˈu — lˈɛts ɡˌO tə ðə bˈiʧ!|0
+m3xb11.wav|ʃˌi sˈɛd jˈɛs — kæn ju bəlˈiv ɪt?|0
+m3xb11.wav|ʃˌi sˈɛd jˈɛs — kæn ju bəlˈiv ɪt?|0
+m3xb11.wav|ʃˌi sˈɛd jˈɛs — kæn ju bəlˈiv ɪt?|0
+m3xb12.wav|ðə bˈɛst pˈɑɹt — nˈO wˈɜɹk təmˈɑɹO!|0
+m3xb12.wav|ðə bˈɛst pˈɑɹt — nˈO wˈɜɹk təmˈɑɹO!|0
+m3xb12.wav|ðə bˈɛst pˈɑɹt — nˈO wˈɜɹk təmˈɑɹO!|0
+m3xb13.wav|ˈO — jʊɹ hˈɪɹ ˌɔlɹˈɛdi!|0
+m3xb13.wav|ˈO — jʊɹ hˈɪɹ ˌɔlɹˈɛdi!|0
+m3xb13.wav|ˈO — jʊɹ hˈɪɹ ˌɔlɹˈɛdi!|0
+m3xb14.wav|ˌIv ɡɑt ɪt — ðə pˈɜɹfəkt ɡˈɪft fɔɹ pˈɑti!|0
+m3xb14.wav|ˌIv ɡɑt ɪt — ðə pˈɜɹfəkt ɡˈɪft fɔɹ pˈɑti!|0
+m3xb14.wav|ˌIv ɡɑt ɪt — ðə pˈɜɹfəkt ɡˈɪft fɔɹ pˈɑti!|0
+m3xb15.wav|tˈu wˈiks — ʤˈʌst tˈu wˈiks ˌʌntˈɪl ðə tɹˈɪp!|0
+m3xb15.wav|tˈu wˈiks — ʤˈʌst tˈu wˈiks ˌʌntˈɪl ðə tɹˈɪp!|0
+m3xb15.wav|tˈu wˈiks — ʤˈʌst tˈu wˈiks ˌʌntˈɪl ðə tɹˈɪp!|0
+m3xb17.wav|pˈɑtiz ɹˈiᵊli kˈʌmɪŋ?!|0
+m3xb17.wav|pˈɑtiz ɹˈiᵊli kˈʌmɪŋ?!|0
+m3xb17.wav|pˈɑtiz ɹˈiᵊli kˈʌmɪŋ?!|0
+m3xb18.wav|jˌu bˈɔt mˌi flˈWəɹz?!|0
+m3xb18.wav|jˌu bˈɔt mˌi flˈWəɹz?!|0
+m3xb18.wav|jˌu bˈɔt mˌi flˈWəɹz?!|0
+m3xb19.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+m3xb19.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+m3xb19.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+m3xb20.wav|jˌu fˈInᵊli pˈæst?!|0
+m3xb20.wav|jˌu fˈInᵊli pˈæst?!|0
+m3xb20.wav|jˌu fˈInᵊli pˈæst?!|0
+m3xb21.wav|ðˈæts fɔɹ mˌi?!|0
+m3xb21.wav|ðˈæts fɔɹ mˌi?!|0
+m3xb21.wav|ðˈæts fɔɹ mˌi?!|0
+m3xb22.wav|jˌu mˌAd ðɪs jəɹsˈɛlf?!|0
+m3xb22.wav|jˌu mˌAd ðɪs jəɹsˈɛlf?!|0
+m3xb22.wav|jˌu mˌAd ðɪs jəɹsˈɛlf?!|0
+m3xb23.wav|ðˌA ɡˈAv ˌʌs fɹˈi tˈɪkəts?!|0
+m3xb23.wav|ðˌA ɡˈAv ˌʌs fɹˈi tˈɪkəts?!|0
+m3xb23.wav|ðˌA ɡˈAv ˌʌs fɹˈi tˈɪkəts?!|0
+m3xb24.wav|sˈæm ˈækʧəwəli kˈʊkt?!|0
+m3xb24.wav|sˈæm ˈækʧəwəli kˈʊkt?!|0
+m3xb24.wav|sˈæm ˈækʧəwəli kˈʊkt?!|0
+m3xb25.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+m3xb25.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+m3xb25.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+m3xb26.wav|ˌI ↗lˈʌv ðɪs plˈAs!|0
+m3xb26.wav|ˌI ↗lˈʌv ðɪs plˈAs!|0
+m3xb26.wav|ˌI ↗lˈʌv ðɪs plˈAs!|0
+m3xb27.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+m3xb27.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+m3xb27.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+m3xb28.wav|ˌɪts ↗fˈInᵊli fɹˈIdˌA!|0
+m3xb28.wav|ˌɪts ↗fˈInᵊli fɹˈIdˌA!|0
+m3xb28.wav|ˌɪts ↗fˈInᵊli fɹˈIdˌA!|0
+m3xb29.wav|ðˌɪs ɪz ↗sˈO ɡˈʊd!|0
+m3xb29.wav|ðˌɪs ɪz ↗sˈO ɡˈʊd!|0
+m3xb29.wav|ðˌɪs ɪz ↗sˈO ɡˈʊd!|0
+m3xb30.wav|wˌi dˈɪd ɪt ↗təɡˈɛðəɹ!|0
+m3xb30.wav|wˌi dˈɪd ɪt ↗təɡˈɛðəɹ!|0
+m3xb30.wav|wˌi dˈɪd ɪt ↗təɡˈɛðəɹ!|0
+m3xb31.wav|lˈʊk hˌW ↗bˈɪɡ hiz ɡɹˈOn!|0
+m3xb31.wav|lˈʊk hˌW ↗bˈɪɡ hiz ɡɹˈOn!|0
+m3xb31.wav|lˈʊk hˌW ↗bˈɪɡ hiz ɡɹˈOn!|0
+m3xb32.wav|ˌI kˈænt ↗wˈAt!|0
+m3xb32.wav|ˌI kˈænt ↗wˈAt!|0
+m3xb32.wav|ˌI kˈænt ↗wˈAt!|0
+m3xb34.wav|wˌɪɹ mˈuvɪŋ!|0
+m3xb35.wav|ˌɪts dˈʌn!|0
+m3xb36.wav|jˌʊɹ bˈæk!|0
+m3xb38.wav|nˈO mˈɔɹ klˈæsᵻz!|0
+m3xb39.wav|wˈAt… jʊɹ hˈɪɹ!|0
+m3xb39.wav|wˈAt… jʊɹ hˈɪɹ!|0
+m3xb40.wav|ˌɪz ðˈæt… ɐ pˈʌpi?|0
+m3xb40.wav|ˌɪz ðˈæt… ɐ pˈʌpi?|0
+m3xb41.wav|ˈO… ju ɹəmˈɛmbəɹd!|0
+m3xb41.wav|ˈO… ju ɹəmˈɛmbəɹd!|0
+m3xb42.wav|ˌænd nˈW… ðə bˈɛst pˈɑɹt!|0
+m3xb42.wav|ˌænd nˈW… ðə bˈɛst pˈɑɹt!|0
+m3xb43.wav|ɹˈɛdi… sˈɛt… ɡˌO!|0
+m3xb43.wav|ɹˈɛdi… sˈɛt… ɡˌO!|0
+m3xb44.wav|lˈʊk hˌuz bˈæk… ˌAˌɑɹjˌuˈɛn!|0
+m3xb44.wav|lˈʊk hˌuz bˈæk… ˌAˌɑɹjˌuˈɛn!|0
+m3xb45.wav|ɡˈɛs wˌɛɹ wɪɹ ɡˈOɪŋ… ˈɛlə!|0
+m3xb45.wav|ɡˈɛs wˌɛɹ wɪɹ ɡˈOɪŋ… ˈɛlə!|0
+m3xb46.wav|θɹˈi… tˈu… wˈʌn… hˈæpi nˈu jˈɪɹ!|0
+m3xb46.wav|θɹˈi… tˈu… wˈʌn… hˈæpi nˈu jˈɪɹ!|0
+m3xb47.wav|ˌɪts… pˈɜɹfəkt!|0
+m3xb47.wav|ˌɪts… pˈɜɹfəkt!|0
+m3xb48.wav|jˌu dˈɪd… ˈɔl ʌv ðˈɪs?|0
+m3xb48.wav|jˌu dˈɪd… ˈɔl ʌv ðˈɪs?|0
+m3xb49.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+m3xb49.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+m3xb49.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+m3xl01.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+m3xl01.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+m3xl01.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+m3xl02.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+m3xl02.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+m3xl02.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+m3xl03.wav|ˌɪz ɪt mI fˈɔlt?|0
+m3xl03.wav|ˌɪz ɪt mI fˈɔlt?|0
+m3xl03.wav|ˌɪz ɪt mI fˈɔlt?|0
+m3xl04.wav|wˌɪl ju kˈɔl mˌi wˌɛn ju ɡɛt ðˈɛɹ?|0
+m3xl04.wav|wˌɪl ju kˈɔl mˌi wˌɛn ju ɡɛt ðˈɛɹ?|0
+m3xl04.wav|wˌɪl ju kˈɔl mˌi wˌɛn ju ɡɛt ðˈɛɹ?|0
+m3xl05.wav|kˌæn wi tˈɔk təmˈɑɹO ɪnstˈɛd?|0
+m3xl05.wav|kˌæn wi tˈɔk təmˈɑɹO ɪnstˈɛd?|0
+m3xl05.wav|kˌæn wi tˈɔk təmˈɑɹO ɪnstˈɛd?|0
+m3xl06.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+m3xl06.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+m3xl06.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+m3xl07.wav|ˌI mˈɪs hɜɹ sˌO mˈʌʧ!|0
+m3xl08.wav|ˌI ʤˈʌst wˈɑntᵻd wˈʌn ɡˈʊd dˈA!|0
+m3xl09.wav|plˈiz, ʤˈʌst kˈɔl mˌi bˈæk!|0
+m3xl10.wav|ˌI tɹˈId sˌO hˈɑɹd!|0
+m3xl11.wav|ˌI wˈɪʃ ˌI wʌz hˈOm!|0
+m3xl12.wav|ˌIm sˌO tˈIəɹd ʌv bˈiɪŋ əlˈOn!|0
+m3xl13.wav|ˌɪts nˌɑt fˈɛɹ!|0
+m3xl14.wav|ˌI ʃˌʊd hæv bɪn ðˈɛɹ!|0
+m3xl15.wav|ˌI wˈɑntᵻd tə sˈA — nˈɛvəɹ mˈInd.|0
+m3xl15.wav|ˌI wˈɑntᵻd tə sˈA — nˈɛvəɹ mˈInd.|0
+m3xl15.wav|ˌI wˈɑntᵻd tə sˈA — nˈɛvəɹ mˈInd.|0
+m3xl17.wav|ˌI tɹˈId tə kˈɔl — bˌʌt nˈObˌɑdi ˈænsəɹd.|0
+m3xl17.wav|ˌI tɹˈId tə kˈɔl — bˌʌt nˈObˌɑdi ˈænsəɹd.|0
+m3xl17.wav|ˌI tɹˈId tə kˈɔl — bˌʌt nˈObˌɑdi ˈænsəɹd.|0
+m3xl18.wav|ˌɪts ʤˈʌst — ˌI ɹˈiᵊli mˈɪs ðˌɛm.|0
+m3xl18.wav|ˌɪts ʤˈʌst — ˌI ɹˈiᵊli mˈɪs ðˌɛm.|0
+m3xl18.wav|ˌɪts ʤˈʌst — ˌI ɹˈiᵊli mˈɪs ðˌɛm.|0
+m3xl19.wav|wˌi hæd plˈænz — bˈɪɡ plˈænz.|0
+m3xl19.wav|wˌi hæd plˈænz — bˈɪɡ plˈænz.|0
+m3xl19.wav|wˌi hæd plˈænz — bˈɪɡ plˈænz.|0
+m3xl20.wav|ˌIm ˌOkˈA — ɹˈiᵊli, ˌI æm.|0
+m3xl20.wav|ˌIm ˌOkˈA — ɹˈiᵊli, ˌI æm.|0
+m3xl20.wav|ˌIm ˌOkˈA — ɹˈiᵊli, ˌI æm.|0
+m3xl21.wav|hˌi jˈust tə sˈɪŋ — ˈɛvəɹi mˈɔɹnɪŋ.|0
+m3xl21.wav|hˌi jˈust tə sˈɪŋ — ˈɛvəɹi mˈɔɹnɪŋ.|0
+m3xl21.wav|hˌi jˈust tə sˈɪŋ — ˈɛvəɹi mˈɔɹnɪŋ.|0
+m3xl22.wav|ˌI dˈɪdᵊnt mˈin ɪt — ˌIm sˈɔɹi.|0
+m3xl22.wav|ˌI dˈɪdᵊnt mˈin ɪt — ˌIm sˈɔɹi.|0
+m3xl22.wav|ˌI dˈɪdᵊnt mˈin ɪt — ˌIm sˈɔɹi.|0
+m3xl23.wav|wˈʌn mˈɔɹ wˈik — ðˈɛn ˌI kæn ɡˌO hˈOm.|0
+m3xl23.wav|wˈʌn mˈɔɹ wˈik — ðˈɛn ˌI kæn ɡˌO hˈOm.|0
+m3xl23.wav|wˈʌn mˈɔɹ wˈik — ðˈɛn ˌI kæn ɡˌO hˈOm.|0
+m3xl24.wav|ˌI dˈOnt nˈO — mˈAbi ˌIm ʤˈʌst tˈIəɹd.|0
+m3xl24.wav|ˌI dˈOnt nˈO — mˈAbi ˌIm ʤˈʌst tˈIəɹd.|0
+m3xl24.wav|ˌI dˈOnt nˈO — mˈAbi ˌIm ʤˈʌst tˈIəɹd.|0
+m3xl25.wav|jˌʊɹ lˈivɪŋ təmˈɑɹO?!|0
+m3xl25.wav|jˌʊɹ lˈivɪŋ təmˈɑɹO?!|0
+m3xl25.wav|jˌʊɹ lˈivɪŋ təmˈɑɹO?!|0
+m3xl27.wav|jˌu fəɹɡˈɑt əɡˈɛn?!|0
+m3xl27.wav|jˌu fəɹɡˈɑt əɡˈɛn?!|0
+m3xl27.wav|jˌu fəɹɡˈɑt əɡˈɛn?!|0
+m3xl28.wav|hˌi sˈɛd ðæt əbˈWt mˌi?!|0
+m3xl28.wav|hˌi sˈɛd ðæt əbˈWt mˌi?!|0
+m3xl28.wav|hˌi sˈɛd ðæt əbˈWt mˌi?!|0
+m3xl29.wav|ðˌA sˈOld ði ˈOld hˈWs?!|0
+m3xl29.wav|ðˌA sˈOld ði ˈOld hˈWs?!|0
+m3xl29.wav|ðˌA sˈOld ði ˈOld hˈWs?!|0
+m3xl30.wav|nˈObˌɑdi tˈOld mˌi?!|0
+m3xl30.wav|nˈObˌɑdi tˈOld mˌi?!|0
+m3xl30.wav|nˈObˌɑdi tˈOld mˌi?!|0
+m3xl31.wav|ˌɪts klˈOzɪŋ fɔɹ ɡˈʊd?!|0
+m3xl31.wav|ˌɪts klˈOzɪŋ fɔɹ ɡˈʊd?!|0
+m3xl31.wav|ˌɪts klˈOzɪŋ fɔɹ ɡˈʊd?!|0
+m3xl32.wav|jˌu nˈu ˈɔl əlˈɔŋ?!|0
+m3xl32.wav|jˌu nˈu ˈɔl əlˈɔŋ?!|0
+m3xl32.wav|jˌu nˈu ˈɔl əlˈɔŋ?!|0
+m3xl33.wav|ˈæftəɹ ˈɔl ðɪs tˈIm?!|0
+m3xl33.wav|ˈæftəɹ ˈɔl ðɪs tˈIm?!|0
+m3xl33.wav|ˈæftəɹ ˈɔl ðɪs tˈIm?!|0
+m3xl34.wav|ʃˌiz mˈuvɪŋ əwˈA?!|0
+m3xl34.wav|ʃˌiz mˈuvɪŋ əwˈA?!|0
+m3xl34.wav|ʃˌiz mˈuvɪŋ əwˈA?!|0
+m3xl35.wav|ˌI ɹˈiᵊli ↗tɹˈId.|0
+m3xl35.wav|ˌI ɹˈiᵊli ↗tɹˈId.|0
+m3xl35.wav|ˌI ɹˈiᵊli ↗tɹˈId.|0
+m3xl36.wav|nˈObˌɑdi ↗ˈæskt mˌi.|0
+m3xl36.wav|nˈObˌɑdi ↗ˈæskt mˌi.|0
+m3xl36.wav|nˈObˌɑdi ↗ˈæskt mˌi.|0
+m3xl37.wav|ˌI ʤˈʌst wˈɑntᵻd tə sˈA ↗ɡˌʊdbˈI.|0
+m3xl37.wav|ˌI ʤˈʌst wˈɑntᵻd tə sˈA ↗ɡˌʊdbˈI.|0
+m3xl37.wav|ˌI ʤˈʌst wˈɑntᵻd tə sˈA ↗ɡˌʊdbˈI.|0
+m3xl39.wav|ˌI mˈɪs hɜɹ ↗ˈɛvəɹi dˈA.|0
+m3xl39.wav|ˌI mˈɪs hɜɹ ↗ˈɛvəɹi dˈA.|0
+m3xl39.wav|ˌI mˈɪs hɜɹ ↗ˈɛvəɹi dˈA.|0
+m3xl40.wav|ʃˌi wʌz ↗ˈɔlwˌAz ðɛɹ fɔɹ mˌi.|0
+m3xl40.wav|ʃˌi wʌz ↗ˈɔlwˌAz ðɛɹ fɔɹ mˌi.|0
+m3xl40.wav|ʃˌi wʌz ↗ˈɔlwˌAz ðɛɹ fɔɹ mˌi.|0
+m3xl41.wav|ˌI dˈɪdᵊnt ˈivən ɡɛt tə ↗sˈi hˌɜɹ.|0
+m3xl41.wav|ˌI dˈɪdᵊnt ˈivən ɡɛt tə ↗sˈi hˌɜɹ.|0
+m3xl41.wav|ˌI dˈɪdᵊnt ˈivən ɡɛt tə ↗sˈi hˌɜɹ.|0
+m3xl42.wav|ˌɪts bɪn ↗sˈO lˈɔŋ.|0
+m3xl42.wav|ˌɪts bɪn ↗sˈO lˈɔŋ.|0
+m3xl42.wav|ˌɪts bɪn ↗sˈO lˈɔŋ.|0
+m3xl43.wav|ˌI ʃˌʊd hæv ↗stˈAd.|0
+m3xl43.wav|ˌI ʃˌʊd hæv ↗stˈAd.|0
+m3xl43.wav|ˌI ʃˌʊd hæv ↗stˈAd.|0
+m3xl44.wav|↗nˈObˌɑdi kˈɔld.|0
+m3xl44.wav|↗nˈObˌɑdi kˈɔld.|0
+m3xl44.wav|↗nˈObˌɑdi kˈɔld.|0
+m3xl45.wav|wˌɪɹ mˈuvɪŋ…|0
+m3xl46.wav|ˌɪts dˈʌn…|0
+m3xl47.wav|jˌʊɹ bˈæk…|0
+m3xl49.wav|nˈO mˈɔɹ klˈæsᵻz…|0
+m3xl50.wav|ˌI ʤˈʌst wˈɑnt tə ɡˌO hˈOm!|0
+m3xl51.wav|ˌI kˈænt dˈu ðɪs ˌɛnimˈɔɹ!|0
+m3xl52.wav|nˈObˌɑdi lˈɪsᵊnz tə mˌi!|0
+m3xl53.wav|ˌI mˈɪs ʤˈɑfnə sˌO mˈʌʧ!|0
+m3xl54.wav|ˌIm sˌO sˈɔɹi, pˈɑti!|0
+m3xl56.wav|ˈɛvəɹiθˌɪŋ wˈɛnt ɹˈɔŋ!|0
+m3xl57.wav|ˌIm tˈIəɹd ʌv sˈAɪŋ ɡˌʊdbˈI!|0
+m3xl58.wav|ˌɪt wʌz mI lˈæst ʧˈæns!|0
+m3xl59.wav|ˌI ʃˌʊd nˈɛvəɹ hæv lˈɛft!|0
+m3xl60.wav|plˈiz dˈOnt ɡˌO!|0
+m3xl61.wav|ˌI lˈɔst ˈɛvəɹiθˌɪŋ!|0
+m3xl62.wav|ˌI ɹˈiᵊli θˈɔt hi kˈɛɹd!|0
+m3xl63.wav|nˌɑt hˌɜɹ, plˈiz!|0
+m3xl64.wav|ˌI ʤˈʌst nˈidᵻd ɐ hˈʌɡ!|0
+m3xl65.wav|ˌɪt hˈɜɹts sˌO mˈʌʧ!|0
+m3xl66.wav|ˌI wˈATᵻd ˈɔl dˈA fɔɹ nˈʌθɪŋ!|0
+m3xl67.wav|ˌɑɹ ju stˈɪl əwˈAk?|0
+m3xl67.wav|ˌɑɹ ju stˈɪl əwˈAk?|0
+m3xl67.wav|ˌɑɹ ju stˈɪl əwˈAk?|0
+m3xl68.wav|dˈɪd ju ˈit ˈɛniθˌɪŋ tədˈA?|0
+m3xl68.wav|dˈɪd ju ˈit ˈɛniθˌɪŋ tədˈA?|0
+m3xl68.wav|dˈɪd ju ˈit ˈɛniθˌɪŋ tədˈA?|0
+m3xl69.wav|ˌI ˈɔlmOst kˈɔld ju — bˌʌt ˌI kˈʊdᵊnt.|0
+m3xl69.wav|ˌI ˈɔlmOst kˈɔld ju — bˌʌt ˌI kˈʊdᵊnt.|0
+m3xl69.wav|ˌI ˈɔlmOst kˈɔld ju — bˌʌt ˌI kˈʊdᵊnt.|0
+m3xl70.wav|ˌI ˈOnli wˈɑntᵻd ↗wˈʌn θˈɪŋ.|0
+m3xl70.wav|ˌI ˈOnli wˈɑntᵻd ↗wˈʌn θˈɪŋ.|0
+m3xl70.wav|ˌI ˈOnli wˈɑntᵻd ↗wˈʌn θˈɪŋ.|0
+m3xl71.wav|hˌiz nˌɑt kˈʌmɪŋ bˈæk?!|0
+m3xl71.wav|hˌiz nˌɑt kˈʌmɪŋ bˈæk?!|0
+m3xl71.wav|hˌiz nˌɑt kˈʌmɪŋ bˈæk?!|0
+m3xn01.wav|ɡˈʊd mˈɔɹnɪŋ, ˈɛvɹiwən!|0
+m3xn02.wav|nˈIs!|0
+m3xn04.wav|ðˈæts ɪt fɔɹ tədˈA!|0
+m3xn05.wav|ˌOkˈA, ˈɛvɹiwən, lˈɪsᵊn ˌʌp!|0
+m3xn06.wav|jˌʊɹ tˈɜɹn!|0
+m3xn07.wav|dˈOnt fəɹɡˈɛt jʊɹ ˌʌmbɹˈɛlə!|0
+m3xn08.wav|lˈʌnʧ ɪz ɹˈɛdi!|0
+m3xn10.wav|sˌO… wˌʌt ɑɹ wi dˈuɪŋ tənˈIt?|0
+m3xn10.wav|sˌO… wˌʌt ɑɹ wi dˈuɪŋ tənˈIt?|0
+m3xn11.wav|wˈɛl… ɪt dəpˈɛndz ˌɔn ðə wˈɛðəɹ.|0
+m3xn11.wav|wˈɛl… ɪt dəpˈɛndz ˌɔn ðə wˈɛðəɹ.|0
+m3xn12.wav|ðə bˈʌs ɪz jˈuʒəwəli hˈɪɹ bI nˈW… lˈɛts wˈAt ɐ bˈɪt.|0
+m3xn12.wav|ðə bˈʌs ɪz jˈuʒəwəli hˈɪɹ bI nˈW… lˈɛts wˈAt ɐ bˈɪt.|0
+m3xn13.wav|hmm… ˌId sˈA ðə sˈɛkənd wˈʌn.|0
+m3xn13.wav|hmm… ˌId sˈA ðə sˈɛkənd wˈʌn.|0
+m3xn14.wav|fˈɜɹst ðə tˈi… ðˈɛn ðə kˈAk.|0
+m3xn14.wav|fˈɜɹst ðə tˈi… ðˈɛn ðə kˈAk.|0
+m3xn15.wav|wˈʌn mˈɔɹ θˈɪŋ… bɹˈɪŋ jʊɹ nˈOts təmˈɑɹO.|0
+m3xn15.wav|wˈʌn mˈɔɹ θˈɪŋ… bɹˈɪŋ jʊɹ nˈOts təmˈɑɹO.|0
+m3xn16.wav|ˌI wʌz ɡˈOɪŋ tə kˈɔl — sˈɔɹi, ˌI fəɹɡˈɑt.|0
+m3xn16.wav|ˌI wʌz ɡˈOɪŋ tə kˈɔl — sˈɔɹi, ˌI fəɹɡˈɑt.|0
+m3xn16.wav|ˌI wʌz ɡˈOɪŋ tə kˈɔl — sˈɔɹi, ˌI fəɹɡˈɑt.|0
+m3xn17.wav|tˈAk ðə bˈʌs — ɪts fˈæstəɹ ðən wˈɔkɪŋ.|0
+m3xn17.wav|tˈAk ðə bˈʌs — ɪts fˈæstəɹ ðən wˈɔkɪŋ.|0
+m3xn17.wav|tˈAk ðə bˈʌs — ɪts fˈæstəɹ ðən wˈɔkɪŋ.|0
+m3xn18.wav|ðˌɛɹz wˈʌn ɹˈul — ˈɔlwˌAz sˈA θˈæŋk ju.|0
+m3xn18.wav|ðˌɛɹz wˈʌn ɹˈul — ˈɔlwˌAz sˈA θˈæŋk ju.|0
+m3xn18.wav|ðˌɛɹz wˈʌn ɹˈul — ˈɔlwˌAz sˈA θˈæŋk ju.|0
+m3xn19.wav|wˌi nˈid θɹˈi θˈɪŋz, — mˈɪlk, bɹˈɛd ænd ˈɛɡz.|0
+m3xn19.wav|wˌi nˈid θɹˈi θˈɪŋz, — mˈɪlk, bɹˈɛd ænd ˈɛɡz.|0
+m3xn19.wav|wˌi nˈid θɹˈi θˈɪŋz, — mˈɪlk, bɹˈɛd ænd ˈɛɡz.|0
+m3xn20.wav|mˌI kˈʌzᵊn — ðə wˈʌn ɪn dˌʌbᵊljuˌiˌɛlˌɛlˌAdˌʌbᵊljuˌAtˌitˌiˈi — ɪz kˈʌmɪŋ ˈOvəɹ.|0
+m3xn20.wav|mˌI kˈʌzᵊn — ðə wˈʌn ɪn dˌʌbᵊljuˌiˌɛlˌɛlˌAdˌʌbᵊljuˌAtˌitˌiˈi — ɪz kˈʌmɪŋ ˈOvəɹ.|0
+m3xn20.wav|mˌI kˈʌzᵊn — ðə wˈʌn ɪn dˌʌbᵊljuˌiˌɛlˌɛlˌAdˌʌbᵊljuˌAtˌitˌiˈi — ɪz kˈʌmɪŋ ˈOvəɹ.|0
+m3xn21.wav|tˈɜɹn lˈɛft æt ðə ʃˈɑp — nˈO, ðə sˈɛkənd ʃˈɑp.|0
+m3xn21.wav|tˈɜɹn lˈɛft æt ðə ʃˈɑp — nˈO, ðə sˈɛkənd ʃˈɑp.|0
+m3xn21.wav|tˈɜɹn lˈɛft æt ðə ʃˈɑp — nˈO, ðə sˈɛkənd ʃˈɑp.|0
+m3xn23.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+m3xn23.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+m3xn23.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+m3xn24.wav|wˈAt — wˌɪʧ pˈAʤ ɑɹ wi ˌɔn?|0
+m3xn24.wav|wˈAt — wˌɪʧ pˈAʤ ɑɹ wi ˌɔn?|0
+m3xn24.wav|wˈAt — wˌɪʧ pˈAʤ ɑɹ wi ˌɔn?|0
+m3xn25.wav|ˌɪts nˌɑt fˈɑɹ — əbˈWt tˈɛn mˈɪnəts ˌɔn fˈʊt.|0
+m3xn25.wav|ˌɪts nˌɑt fˈɑɹ — əbˈWt tˈɛn mˈɪnəts ˌɔn fˈʊt.|0
+m3xn25.wav|ˌɪts nˌɑt fˈɑɹ — əbˈWt tˈɛn mˈɪnəts ˌɔn fˈʊt.|0
+m3xn26.wav|jˌu wˈɔkt ˈɔl ðə wˈA hˈɪɹ?!|0
+m3xn26.wav|jˌu wˈɔkt ˈɔl ðə wˈA hˈɪɹ?!|0
+m3xn26.wav|jˌu wˈɔkt ˈɔl ðə wˈA hˈɪɹ?!|0
+m3xn27.wav|ˌɪts mˈʌndˌA ˌɔlɹˈɛdi?!|0
+m3xn27.wav|ˌɪts mˈʌndˌA ˌɔlɹˈɛdi?!|0
+m3xn27.wav|ˌɪts mˈʌndˌA ˌɔlɹˈɛdi?!|0
+m3xn28.wav|jˌuv nˈɛvəɹ hæd kˈOtu?!|0
+m3xn28.wav|jˌuv nˈɛvəɹ hæd kˈOtu?!|0
+m3xn28.wav|jˌuv nˈɛvəɹ hæd kˈOtu?!|0
+m3xn29.wav|ðə ʃˈɑps klˈOzd ˌɔn ɐ tˈuzdˌA?!|0
+m3xn29.wav|ðə ʃˈɑps klˈOzd ˌɔn ɐ tˈuzdˌA?!|0
+m3xn29.wav|ðə ʃˈɑps klˈOzd ˌɔn ɐ tˈuzdˌA?!|0
+m3xn30.wav|fˈɔɹTi mˈɪnəts fɔɹ wˈʌn bˈʌs?!|0
+m3xn30.wav|fˈɔɹTi mˈɪnəts fɔɹ wˈʌn bˈʌs?!|0
+m3xn30.wav|fˈɔɹTi mˈɪnəts fɔɹ wˈʌn bˈʌs?!|0
+m3xn32.wav|wˌi hæv ɐ tˈɛst təmˈɑɹO?!|0
+m3xn32.wav|wˌi hæv ɐ tˈɛst təmˈɑɹO?!|0
+m3xn32.wav|wˌi hæv ɐ tˈɛst təmˈɑɹO?!|0
+m3xn33.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+m3xn33.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+m3xn33.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+m3xn34.wav|ˌɪz ðæt ðə tˈIm?!|0
+m3xn34.wav|ˌɪz ðæt ðə tˈIm?!|0
+m3xn34.wav|ˌɪz ðæt ðə tˈIm?!|0
+m3xn35.wav|hˌiz jʊɹ bɹˈʌðəɹ?!|0
+m3xn35.wav|hˌiz jʊɹ bɹˈʌðəɹ?!|0
+m3xn35.wav|hˌiz jʊɹ bɹˈʌðəɹ?!|0
+m3xn36.wav|ˌI mˈɛnt ðə ↗blˈu bˈæɡ, nˌɑt ðə blˈæk wˈʌn.|0
+m3xn36.wav|ˌI mˈɛnt ðə ↗blˈu bˈæɡ, nˌɑt ðə blˈæk wˈʌn.|0
+m3xn36.wav|ˌI mˈɛnt ðə ↗blˈu bˈæɡ, nˌɑt ðə blˈæk wˈʌn.|0
+m3xn37.wav|ðə bˈʌs stˈɑp ɪz ˌɔn ðə ↗lˈɛft.|0
+m3xn37.wav|ðə bˈʌs stˈɑp ɪz ˌɔn ðə ↗lˈɛft.|0
+m3xn37.wav|ðə bˈʌs stˈɑp ɪz ˌɔn ðə ↗lˈɛft.|0
+m3xn39.wav|ˌId lˈIk ðə ↗smˈɔl wˈʌn, plˈiz.|0
+m3xn39.wav|ˌId lˈIk ðə ↗smˈɔl wˈʌn, plˈiz.|0
+m3xn39.wav|ˌId lˈIk ðə ↗smˈɔl wˈʌn, plˈiz.|0
+m3xn40.wav|ˌɪts ðə ↗θˈɜɹd hˈWs ˌɔn ðə stɹˈit.|0
+m3xn40.wav|ˌɪts ðə ↗θˈɜɹd hˈWs ˌɔn ðə stɹˈit.|0
+m3xn40.wav|ˌɪts ðə ↗θˈɜɹd hˈWs ˌɔn ðə stɹˈit.|0
+m3xn41.wav|wˌi mˈit ↗bəfˈɔɹ klˈæs, nˌɑt ˈæftəɹ.|0
+m3xn41.wav|wˌi mˈit ↗bəfˈɔɹ klˈæs, nˌɑt ˈæftəɹ.|0
+m3xn41.wav|wˌi mˈit ↗bəfˈɔɹ klˈæs, nˌɑt ˈæftəɹ.|0
+m3xn42.wav|ɹˈid ðə kwˈɛsʧᵊn ↗fˈɜɹst.|0
+m3xn42.wav|ɹˈid ðə kwˈɛsʧᵊn ↗fˈɜɹst.|0
+m3xn42.wav|ɹˈid ðə kwˈɛsʧᵊn ↗fˈɜɹst.|0
+m3xn43.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+m3xn43.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+m3xn43.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+m3xn44.wav|jˈuz jʊɹ ↗ˈOn wˈɜɹdz.|0
+m3xn44.wav|jˈuz jʊɹ ↗ˈOn wˈɜɹdz.|0
+m3xn44.wav|jˈuz jʊɹ ↗ˈOn wˈɜɹdz.|0
+m3xn45.wav|ðˌɪs wˈʌn ɪz ↗mˈIn.|0
+m3xn45.wav|ðˌɪs wˈʌn ɪz ↗mˈIn.|0
+m3xn45.wav|ðˌɪs wˈʌn ɪz ↗mˈIn.|0
+m3xn46.wav|wˌɪɹ mˈuvɪŋ.|0
+m3xn47.wav|ˌɪts dˈʌn.|0
+m3xn48.wav|jˌʊɹ bˈæk.|0
+m3xn50.wav|nˈO mˈɔɹ klˈæsᵻz.|0
+m3xn51.wav|wˈɛlkəm bˈæk, ˈɛvɹiwən!|0
+m3xn52.wav|ɡˈʊd lˈʌk təmˈɑɹO!|0
+m3xn53.wav|sˈi ju ˌɔn mˈʌndˌA!|0
+m3xn54.wav|hˈæpi bˈɜɹθdˌA, pɹˈiə!|0
+m3xn55.wav|ɹˈIt, lˈɛts stˈɑɹt!|0
+m3xn56.wav|θˈæŋks fɔɹ kˈʌmɪŋ!|0
+m3xn57.wav|hˌæv ɐ ɡˈʊd wˈikˌɛnd!|0
+m3xn58.wav|tˈu tˈiz, plˈiz!|0
+m3xn59.wav|ˈOvəɹ hˈɪɹ!|0
+m3xn60.wav|kˈɛɹfᵊl, ðə flˈɔɹz wˈɛt!|0
+m3xn61.wav|lˈæst kwˈɛsʧᵊn!|0
+m3xn62.wav|ɹˈɛdi wˌɛn ju ɑɹ!|0
+m3xn63.wav|sˈA ɪt wˈʌns mˈɔɹ!|0
+m3xn64.wav|ðˈæts ðə wˈʌn!|0
+m3xn65.wav|ɪnʤˈY jʊɹ mˈil!|0
+m3xn66.wav|bˈæk tə pˈAʤ tˈɛn!|0
+m3xn67.wav|mˈɔɹnɪŋ, sˈæm!|0
+m3xn69.wav|ˌI θˈɪŋk… jˈɛs, ðˈæts ɹˈIt.|0
+m3xn69.wav|ˌI θˈɪŋk… jˈɛs, ðˈæts ɹˈIt.|0
+m3xn70.wav|ðə bˈʌs lˈivz æt… sˈɛvən, ˌI θˈɪŋk.|0
+m3xn70.wav|ðə bˈʌs lˈivz æt… sˈɛvən, ˌI θˈɪŋk.|0
+m3xn71.wav|lˈɛts sˈi… tˈu tˈiz ænd ɐ kˈɔfi.|0
+m3xn71.wav|lˈɛts sˈi… tˈu tˈiz ænd ɐ kˈɔfi.|0
+m3xn72.wav|hmm… mˈAbi ˈæftəɹ lˈʌnʧ.|0
+m3xn72.wav|hmm… mˈAbi ˈæftəɹ lˈʌnʧ.|0
+m3xn73.wav|wˌɛɹ dˈɪd ˌI pˌʊt… ˈɑ, hˈɪɹ ɪt ɪz.|0
+m3xn73.wav|wˌɛɹ dˈɪd ˌI pˌʊt… ˈɑ, hˈɪɹ ɪt ɪz.|0
+m3xn74.wav|sˌO ðə plˈæn ɪz… wi mˈit æt ðə stˈAʃən.|0
+m3xn74.wav|sˌO ðə plˈæn ɪz… wi mˈit æt ðə stˈAʃən.|0
+m3xn75.wav|ˌænd ðˈɛn… wi tˈAk ðə tɹˈAn.|0
+m3xn75.wav|ˌænd ðˈɛn… wi tˈAk ðə tɹˈAn.|0
+m3xn76.wav|jˌʊɹ ˈænsəɹ wʌz… ˈɔlmOst ɹˈIt.|0
+m3xn76.wav|jˌʊɹ ˈænsəɹ wʌz… ˈɔlmOst ɹˈIt.|0
+m3xn77.wav|wˈʌn… tˈu… θɹˈi.|0
+m3xn77.wav|wˈʌn… tˈu… θɹˈi.|0
+m3xn78.wav|tˈu ʃˈʊɡəɹz — nˈO, ʤˈʌst wˈʌn.|0
+m3xn78.wav|tˈu ʃˈʊɡəɹz — nˈO, ʤˈʌst wˈʌn.|0
+m3xn78.wav|tˈu ʃˈʊɡəɹz — nˈO, ʤˈʌst wˈʌn.|0
+m3xn79.wav|tˈɜɹn ↗ɹˈIt æt ðə tˈɛmpᵊl.|0
+m3xn79.wav|tˈɜɹn ↗ɹˈIt æt ðə tˈɛmpᵊl.|0
+m3xn79.wav|tˈɜɹn ↗ɹˈIt æt ðə tˈɛmpᵊl.|0
+m3xn80.wav|jˌʊɹ stˈɪl hˈɪɹ?!|0
+m3xn80.wav|jˌʊɹ stˈɪl hˈɪɹ?!|0
+m3xn80.wav|jˌʊɹ stˈɪl hˈɪɹ?!|0
+m3xt01.wav|hˌu tˈOld ju ðæt ju kʊd tˈAk ɪt?|0
+m3xt01.wav|hˌu tˈOld ju ðæt ju kʊd tˈAk ɪt?|0
+m3xt01.wav|hˌu tˈOld ju ðæt ju kʊd tˈAk ɪt?|0
+m3xt02.wav|dˈu ju nˈO wˌʌt tˈIm ɪt ɪz?|0
+m3xt02.wav|dˈu ju nˈO wˌʌt tˈIm ɪt ɪz?|0
+m3xt02.wav|dˈu ju nˈO wˌʌt tˈIm ɪt ɪz?|0
+m3xt03.wav|stˈɑp ɪt. ɹˈIt nˈW!|0
+m3xt05.wav|ðˈæts ɪnˈʌf!|0
+m3xt06.wav|dˈOnt ju dˈɛɹ!|0
+m3xt07.wav|nˌɑt əɡˈɛn!|0
+m3xt08.wav|ˈWt ʌv mI wˈA, plˈiz!|0
+m3xt10.wav|lˈiv hɜɹ əlˈOn!|0
+m3xt11.wav|fˈIn… kˈip ɪt, ðˈɛn.|0
+m3xt11.wav|fˈIn… kˈip ɪt, ðˈɛn.|0
+m3xt12.wav|ˌIm wˈATɪŋ… stˈɪl wˈATɪŋ.|0
+m3xt12.wav|ˌIm wˈATɪŋ… stˈɪl wˈATɪŋ.|0
+m3xt13.wav|ɹˈiᵊli… əɡˈɛn?|0
+m3xt13.wav|ɹˈiᵊli… əɡˈɛn?|0
+m3xt14.wav|ˌI ˈæskt ju… θɹˈi tˈImz.|0
+m3xt14.wav|ˌI ˈæskt ju… θɹˈi tˈImz.|0
+m3xt15.wav|dˈOnt… ʤˈʌst dˈOnt.|0
+m3xt15.wav|dˈOnt… ʤˈʌst dˈOnt.|0
+m3xt16.wav|sˌO ðˈæts hˌW ɪt ɪz… ˌOkˈA.|0
+m3xt16.wav|sˌO ðˈæts hˌW ɪt ɪz… ˌOkˈA.|0
+m3xt17.wav|jˌu pɹˈɑməst… ænd ju dˈɪdᵊnt kˈʌm.|0
+m3xt17.wav|jˌu pɹˈɑməst… ænd ju dˈɪdᵊnt kˈʌm.|0
+m3xt18.wav|ˌIm nˌɑt ˈæŋɡɹi… ˌIm ʤˈʌst dˈʌn.|0
+m3xt18.wav|ˌIm nˌɑt ˈæŋɡɹi… ˌIm ʤˈʌst dˈʌn.|0
+m3xt19.wav|lˈɪsᵊn tə mˌi — nˌɑt tə hˌɪm.|0
+m3xt19.wav|lˈɪsᵊn tə mˌi — nˌɑt tə hˌɪm.|0
+m3xt19.wav|lˈɪsᵊn tə mˌi — nˌɑt tə hˌɪm.|0
+m3xt20.wav|ˌIl sˈA ɪt wˈʌns — dˈOnt tˈʌʧ mI θˈɪŋz.|0
+m3xt20.wav|ˌIl sˈA ɪt wˈʌns — dˈOnt tˈʌʧ mI θˈɪŋz.|0
+m3xt20.wav|ˌIl sˈA ɪt wˈʌns — dˈOnt tˈʌʧ mI θˈɪŋz.|0
+m3xt21.wav|jˌu kæn stˈA — bˌʌt bi kwˈIət.|0
+m3xt21.wav|jˌu kæn stˈA — bˌʌt bi kwˈIət.|0
+m3xt21.wav|jˌu kæn stˈA — bˌʌt bi kwˈIət.|0
+m3xt22.wav|ðˈæts nˌɑt ðə pˈYnt — ju lˈId.|0
+m3xt22.wav|ðˈæts nˌɑt ðə pˈYnt — ju lˈId.|0
+m3xt22.wav|ðˈæts nˌɑt ðə pˈYnt — ju lˈId.|0
+m3xt23.wav|nˈO — ðˈæts nˌɑt wˌʌt hˈæpənd.|0
+m3xt23.wav|nˈO — ðˈæts nˌɑt wˌʌt hˈæpənd.|0
+m3xt23.wav|nˈO — ðˈæts nˌɑt wˌʌt hˈæpənd.|0
+m3xt24.wav|ˌIv hæd ɪnˈʌf — ˌIm lˈivɪŋ.|0
+m3xt24.wav|ˌIv hæd ɪnˈʌf — ˌIm lˈivɪŋ.|0
+m3xt24.wav|ˌIv hæd ɪnˈʌf — ˌIm lˈivɪŋ.|0
+m3xt25.wav|ˈæsk mˌi fˈɜɹst — ˈɛvəɹi tˈIm.|0
+m3xt25.wav|ˈæsk mˌi fˈɜɹst — ˈɛvəɹi tˈIm.|0
+m3xt25.wav|ˈæsk mˌi fˈɜɹst — ˈɛvəɹi tˈIm.|0
+m3xt26.wav|hˌi nˈu — ænd hi sˈɛd nˈʌθɪŋ.|0
+m3xt26.wav|hˌi nˈu — ænd hi sˈɛd nˈʌθɪŋ.|0
+m3xt26.wav|hˌi nˈu — ænd hi sˈɛd nˈʌθɪŋ.|0
+m3xt27.wav|nˌɑt nˈW — ˌIm wˈɜɹkɪŋ.|0
+m3xt27.wav|nˌɑt nˈW — ˌIm wˈɜɹkɪŋ.|0
+m3xt27.wav|nˌɑt nˈW — ˌIm wˈɜɹkɪŋ.|0
+m3xt29.wav|jˌu ɹˈɛd mI mˈɛsɪʤᵻz?!|0
+m3xt29.wav|jˌu ɹˈɛd mI mˈɛsɪʤᵻz?!|0
+m3xt29.wav|jˌu ɹˈɛd mI mˈɛsɪʤᵻz?!|0
+m3xt30.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+m3xt30.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+m3xt30.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+m3xt31.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+m3xt31.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+m3xt31.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+m3xt33.wav|ðˌA kˈænsəld ɪt əɡˈɛn?!|0
+m3xt33.wav|ðˌA kˈænsəld ɪt əɡˈɛn?!|0
+m3xt33.wav|ðˌA kˈænsəld ɪt əɡˈɛn?!|0
+m3xt34.wav|jˌu kˈɔl ðæt ɐn əpˈɑləʤi?!|0
+m3xt34.wav|jˌu kˈɔl ðæt ɐn əpˈɑləʤi?!|0
+m3xt34.wav|jˌu kˈɔl ðæt ɐn əpˈɑləʤi?!|0
+m3xt35.wav|hˌu pˈɑɹkt ðˈɛɹ?!|0
+m3xt35.wav|hˌu pˈɑɹkt ðˈɛɹ?!|0
+m3xt35.wav|hˌu pˈɑɹkt ðˈɛɹ?!|0
+m3xt36.wav|jˌu lˈɔst ðə kˈiz?!|0
+m3xt36.wav|jˌu lˈɔst ðə kˈiz?!|0
+m3xt36.wav|jˌu lˈɔst ðə kˈiz?!|0
+m3xt37.wav|hˌiz lˈAt əɡˈɛn?!|0
+m3xt37.wav|hˌiz lˈAt əɡˈɛn?!|0
+m3xt37.wav|hˌiz lˈAt əɡˈɛn?!|0
+m3xt38.wav|jˌu sˈɛd ðæt tə hˌɜɹ?!|0
+m3xt38.wav|jˌu sˈɛd ðæt tə hˌɜɹ?!|0
+m3xt38.wav|jˌu sˈɛd ðæt tə hˌɜɹ?!|0
+m3xt40.wav|ðˈæt ɪz ↗nˈɑt ˌOkˈA.|0
+m3xt40.wav|ðˈæt ɪz ↗nˈɑt ˌOkˈA.|0
+m3xt40.wav|ðˈæt ɪz ↗nˈɑt ˌOkˈA.|0
+m3xt41.wav|ˈæsk ↗bəfˈɔɹ ju tˈAk ɪt.|0
+m3xt41.wav|ˈæsk ↗bəfˈɔɹ ju tˈAk ɪt.|0
+m3xt41.wav|ˈæsk ↗bəfˈɔɹ ju tˈAk ɪt.|0
+m3xt42.wav|ˌI wʌz ↗hˈɪɹ fˈɜɹst.|0
+m3xt42.wav|ˌI wʌz ↗hˈɪɹ fˈɜɹst.|0
+m3xt42.wav|ˌI wʌz ↗hˈɪɹ fˈɜɹst.|0
+m3xt43.wav|ˌɪts ↗mˈI ʤˈɑb, nˌɑt jˈɔɹz.|0
+m3xt43.wav|ˌɪts ↗mˈI ʤˈɑb, nˌɑt jˈɔɹz.|0
+m3xt43.wav|ˌɪts ↗mˈI ʤˈɑb, nˌɑt jˈɔɹz.|0
+m3xt44.wav|jˌu pɹˈɑməst. ↗twˈIs.|0
+m3xt44.wav|jˌu pɹˈɑməst. ↗twˈIs.|0
+m3xt44.wav|jˌu pɹˈɑməst. ↗twˈIs.|0
+m3xt45.wav|dˈOnt ↗ˈɛvəɹ dˈu ðˈæt əɡˈɛn.|0
+m3xt45.wav|dˈOnt ↗ˈɛvəɹ dˈu ðˈæt əɡˈɛn.|0
+m3xt45.wav|dˈOnt ↗ˈɛvəɹ dˈu ðˈæt əɡˈɛn.|0
+m3xt46.wav|pˌʊt ɪt ↗bˈæk.|0
+m3xt46.wav|pˌʊt ɪt ↗bˈæk.|0
+m3xt46.wav|pˌʊt ɪt ↗bˈæk.|0
+m3xt47.wav|↗hˈu tˈʊk mI ˌʌmbɹˈɛlə?|0
+m3xt47.wav|↗hˈu tˈʊk mI ˌʌmbɹˈɛlə?|0
+m3xt47.wav|↗hˈu tˈʊk mI ˌʌmbɹˈɛlə?|0
+m3xt48.wav|wˌɪɹ mˈuvɪŋ?!|0
+m3xt48.wav|wˌɪɹ mˈuvɪŋ?!|0
+m3xt48.wav|wˌɪɹ mˈuvɪŋ?!|0
+m3xt49.wav|ˌɪts ↗dˈʌn.|0
+m3xt49.wav|ˌɪts ↗dˈʌn.|0
+m3xt49.wav|ˌɪts ↗dˈʌn.|0
+m3xt50.wav|jˌʊɹ bˈæk?|0
+m3xt50.wav|jˌʊɹ bˈæk?|0
+m3xt50.wav|jˌʊɹ bˈæk?|0
+m3xt52.wav|nˈO mˈɔɹ klˈæsᵻz?!|0
+m3xt52.wav|nˈO mˈɔɹ klˈæsᵻz?!|0
+m3xt52.wav|nˈO mˈɔɹ klˈæsᵻz?!|0
+m3xt53.wav|pˌʊt ðæt dˌWn!|0
+m3xt54.wav|wˈAt jʊɹ tˈɜɹn!|0
+m3xt55.wav|dˈOnt spˈik tə mˌi lˈIk ðˈæt!|0
+m3xt56.wav|ɪnˈʌf ɪkskjˈuzᵻz!|0
+m3xt57.wav|klˈOz ðə dˈɔɹ!|0
+m3xt58.wav|lˈʊk æt mˌi wˌɛn ˌIm tˈɔkɪŋ!|0
+m3xt59.wav|mˈuv jʊɹ bˈIk!|0
+m3xt60.wav|ðˈæts nˌɑt jˈɔɹz!|0
+m3xt61.wav|kˈip jʊɹ vˈYs dˌWn!|0
+m3xt62.wav|nˌɑt ɪn mˈI !|0
+m3xt63.wav|ˈænsəɹ ðə kwˈɛsʧᵊn!|0
+m3xt64.wav|stˈɑp ˌɪntəɹˈʌptɪŋ!|0
+m3xt65.wav|ɡˌɛt jʊɹ fˈit ˈɔf ðə tˈAbᵊl!|0
+m3xt66.wav|nˈO fˈOnz æt ðə kˈWntəɹ!|0
+m3xt67.wav|ˌIm stˈɪl tˈɔkɪŋ!|0
+m3xt68.wav|jˌul pˈA fɔɹ ðˈæt kˈʌp!|0
+m3xt69.wav|ˌIm kˈWntɪŋ… wˈʌn mˈɔɹ tˈIm.|0
+m3xt69.wav|ˌIm kˈWntɪŋ… wˈʌn mˈɔɹ tˈIm.|0
+m3xt70.wav|ʃˈʊɹ… wəTˈɛvəɹ ju sˈA.|0
+m3xt70.wav|ʃˈʊɹ… wəTˈɛvəɹ ju sˈA.|0
+m3xt71.wav|əɡˈɛn… ɹˈiᵊli?|0
+m3xt71.wav|əɡˈɛn… ɹˈiᵊli?|0
+m3xt72.wav|ˌIl wˈAt… bˌʌt nˌɑt fɔɹ lˈɔŋ.|0
+m3xt72.wav|ˌIl wˈAt… bˌʌt nˌɑt fɔɹ lˈɔŋ.|0
+m3xt74.wav|dˈOnt… tˈʌʧ ðˈæt.|0
+m3xt74.wav|dˈOnt… tˈʌʧ ðˈæt.|0
+m3xt75.wav|sˌO… ju lˈId tə mˌi.|0
+m3xt75.wav|sˌO… ju lˈId tə mˌi.|0
+m3xt76.wav|ˌIm lˈɪsənɪŋ… ɡˌO ˌɔn, ɪksplˈAn.|0
+m3xt76.wav|ˌIm lˈɪsənɪŋ… ɡˌO ˌɔn, ɪksplˈAn.|0
+m3xt77.wav|ɹˈIt… ænd hˌuz fˈɔlt ɪz ðˈæt?|0
+m3xt77.wav|ɹˈIt… ænd hˌuz fˈɔlt ɪz ðˈæt?|0
+m3xt78.wav|θˈæŋks… fɔɹ nˈʌθɪŋ.|0
+m3xt78.wav|θˈæŋks… fɔɹ nˈʌθɪŋ.|0
+m3xt79.wav|dˈOnt — ˌI mˈin ɪt.|0
+m3xt79.wav|dˈOnt — ˌI mˈin ɪt.|0
+m3xt79.wav|dˈOnt — ˌI mˈin ɪt.|0
+m3xt80.wav|ˌI tˈOld ju ↗jˈɛstəɹdˌA.|0
+m3xt80.wav|ˌI tˈOld ju ↗jˈɛstəɹdˌA.|0
+m3xt80.wav|ˌI tˈOld ju ↗jˈɛstəɹdˌA.|0

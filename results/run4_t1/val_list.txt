@@ -1,0 +1,38 @@
+m3b12.wav|mˈʌʧ bˈɛTəɹ! ˌI ˌʌndəɹstˈʊd ˈɛvəɹi wˈɜɹd ðˈæt tˈIm.|0
+m3b23.wav|ˌɪts sˈʌndˌA əɡˈɛn!|0
+m3b37.wav|nˈO wˈA, ju mˈɛt hˌɪm? wˌʌt wʌz hi lˈIk?|0
+m3b60.wav|ðə nˈu bˈAkəɹi ˈOpᵊnd nˌɪɹ ðə stˈAʃən, ænd ðə bɹˈɛd ɪz əmˈAzɪŋ!|0
+m3l09.wav|ˌIm sˈɔɹi. dˈu ju wˈɑnt tə tˈɔk əbˈWt ɪt?|0
+m3l11.wav|ˌIm tˈIəɹd tədˈA. ˌI wˈɜɹkt lˈAt, ænd ˌI dˈɪdᵊnt slˈip wˈɛl.|0
+m3l19.wav|ˌɪts sˈʌndˌA əɡˈɛn…|0
+m3l60.wav|ˌI lˈɔst mI pˈɜɹs ˌɔn ðə bˈʌs… wɪð ˈɔl mI sˈAvɪŋz ɪnsˈId.|0
+m3l61.wav|ˌIm sˈɔɹi. ˌI ʃˌʊd hæv tˈOld ju ˈɜɹliəɹ.|0
+m3n08.wav|mˌI kˈʌzᵊn pɹˈiə ænd ˌI ʃˈɛɹ ɐ smˈɔl flˈæt, ænd ɪts ˈɔlwˌAz ɐ bˈɪt mˈɛsi.|0
+m3n34.wav|ðə tɹˈAn lˈivz æt sˈɛvən θˈɜɹTi, ænd ðə tˈɪkət ɪz fˈɔɹ hˈʌndɹəd ænd fˈɪfti ɹupˈiz.|0
+m3n38.wav|ˌɪts sˈʌndˌA əɡˈɛn.|0
+m3n61.wav|hˈɪɹz ɐ kwˈɛsʧᵊn fɔɹ ju: wˌʌts ðə bˈɛst θˈɪŋ əbˈWt jʊɹ tˈWn?|0
+m3t06.wav|ɪkskjˈuz mˌi. ˌI wʌz hˈɪɹ fˈɜɹst.|0
+m3t57.wav|ðˈɛn wˌI dˈɪdᵊnt hi ʤˈʌst tˈɛl ju?|0
+m3t68.wav|sˈʌmwˌʌn dəlˈiTᵻd mI fˈOTOz fɹʌm ðə ʃˈɛɹd fˈOldəɹ. wɪðˈWt ˈæskɪŋ.|0
+m3xb01.wav|wˈAt… ɪz ðæt ɐ kˈAk?|0
+m3xb09.wav|lˈʊk æt ðˈɪs — ɪts pˈɜɹfəkt!|0
+m3xb16.wav|jˌu ɡɑt ðə ʤˈɑb?!|0
+m3xb33.wav|ðˈæts ↗ɪɡzˈæktli wˌʌt ˌI wˈɑntᵻd!|0
+m3xb37.wav|təmˈɑɹO, ðˈɛn!|0
+m3xl16.wav|ʃˌi wʌz fˈIn jˈɛstəɹdˌA — ænd nˈW ðˈɪs.|0
+m3xl26.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+m3xl38.wav|ˌɪt wʌz ↗mˈI fˈɔlt.|0
+m3xl48.wav|təmˈɑɹO, ðˈɛn…|0
+m3xl55.wav|ˌI wˈɑntᵻd tə bi ðɛɹ fɔɹ hˌɜɹ!|0
+m3xn03.wav|hˈɪɹ ju ɡˌO, wˈʌn tˈi wɪð mˈɪlk!|0
+m3xn09.wav|lˈɛt mˌi θˈɪŋk… mˈAbi θˈɜɹzdˌA.|0
+m3xn22.wav|ði ˈænsəɹ ɪz sˈɪmpəl — pɹˈæktəs ˈɛvəɹi dˈA.|0
+m3xn31.wav|jˌu dˈɪd ˈɔl ʌv ðˈæt ɪn wˈʌn nˈIt?!|0
+m3xn38.wav|pˌʊt ðə kˈʌps ˌɔn ðə ↗tˈɑp ʃˈɛlf.|0
+m3xn49.wav|təmˈɑɹO, ðˈɛn.|0
+m3xt04.wav|ɡˈɪv ɪt bˈæk!|0
+m3xt28.wav|wˈʌn mˈɔɹ wˈɜɹd — ænd ˌIm kˈɔlɪŋ ðə mˈænɪʤəɹ.|0
+m3xt32.wav|jˌu tˈOld mI mˈænɪʤəɹ?!|0
+m3xt39.wav|ˌI sˈɛd ↗nˈO.|0
+m3xt51.wav|təmˈɑɹO — ðˈɛn.|0
+m3xt73.wav|jˌu sˈɛd sˈɪks… ɪts ˈAt.|0
