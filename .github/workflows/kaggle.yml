@@ -93,12 +93,24 @@ jobs:
         if: inputs.action == 'probe'
         run: |
           [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
-          pip show kaggle kagglesdk 2>/dev/null | grep -E "Name|Version"
           python - <<'PY'
-          import kagglesdk, pkgutil, inspect, importlib
-          from kagglesdk.kernels.services import kernels_api_service as m
-          for n, c in inspect.getmembers(m, inspect.isclass):
-              print(n, [x for x in dir(c) if not x.startswith("_")])
+          import os, json
+          from kaggle.api.kaggle_api_extended import KaggleApi
+          from kagglesdk.kernels.types.kernels_api_service import ApiGetKernelSessionStatusRequest, ApiGetKernelRequest
+          api = KaggleApi(); api.authenticate(); U = os.environ["KUSER"]
+          print("fields", [f for f in ApiGetKernelSessionStatusRequest().to_dict().keys()] if hasattr(ApiGetKernelSessionStatusRequest(), "to_dict") else "")
+          with api.build_kaggle_client() as k:
+              for slug in ["se-run4-t1", "se-run4-t2a"]:
+                  r = ApiGetKernelRequest(); r.user_name = U; r.kernel_slug = slug
+                  try: print(slug, "META", json.dumps(k.kernels.kernels_api_client.get_kernel(r).metadata.to_dict(), default=str)[:1500])
+                  except Exception as e: print(slug, "get_kernel failed", e)
+                  for v in range(1, 5):
+                      q = ApiGetKernelSessionStatusRequest(); q.user_name = U; q.kernel_slug = slug
+                      try:
+                          q.version_number = v
+                      except Exception as e: print("no version_number", e)
+                      try: print(slug, v, k.kernels.kernels_api_client.get_kernel_session_status(q).to_dict())
+                      except Exception as e: print(slug, v, "status failed", str(e)[:200])
           PY
       - name: Collect
         if: inputs.action == 'collect'
