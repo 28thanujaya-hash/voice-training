@@ -2,7 +2,7 @@ name: Kaggle run
 # Starts a Kaggle notebook (kaggle/jobs/<job>/run.py) on Kaggle's free GPU, or collects its results.
 # Secrets: KAGGLE_USERNAME + KAGGLE_KEY (kaggle.json), or KAGGLE_API_TOKEN (newer single token).
 # action=start  : pushes the job and returns (Kaggle keeps running for up to 12 h without us).
-# action=collect: waits until it has finished (max ~5 h here), downloads the outputs, and commits the small
+# action=collect: checks (or waits up to 'wait' minutes) until it has finished, downloads the outputs, and commits the small
 #                 ones (report, listening pack, logs) to results/<job>/ so Claude can read them.
 on:
   workflow_dispatch:
@@ -10,6 +10,7 @@ on:
       job: { description: 'job folder under kaggle/jobs', required: true, default: 'hello' }
       action: { description: 'start or collect', required: true, default: 'start' }
       gpu: { description: 'T4 (two T4s), P100, or none', required: false, default: 'T4' }
+      wait: { description: 'collect: minutes to wait for the job (1 = check once; saves Actions minutes)', required: false, default: '1' }
 permissions:
   contents: write
 jobs:
@@ -86,10 +87,11 @@ jobs:
         run: |
           [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
           SLUG="se-$(echo $JOB | tr '_' '-')"
-          for i in $(seq 1 330); do
+          for i in $(seq 1 ${{ inputs.wait || '1' }}); do
             S=$(kaggle kernels status "$KUSER/$SLUG" 2>&1 | tail -1); echo "$(date +%H:%M) $S"
-            echo "$S" | grep -qiE 'complete|error|cancel' && break; sleep 60
+            echo "$S" | grep -qiE 'complete|error|cancel' && break; [ "$i" -lt "${{ inputs.wait || '1' }}" ] && sleep 60
           done
+          echo "$S" | grep -qiE 'complete|error|cancel' || { echo "still running: nothing collected"; exit 0; }
           mkdir -p /tmp/out && kaggle kernels output "$KUSER/$SLUG" -p /tmp/out || true
           D=results/$JOB; rm -rf $D; mkdir -p $D
           echo "$S" > $D/status.txt
