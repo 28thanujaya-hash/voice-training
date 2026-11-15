@@ -1,0 +1,26 @@
+[{"stream_name":"stdout","time":0.932283408,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac soundfile librosa\n"}
+,{"stream_name":"stderr","time":38.053974213,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":53.380313842,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":53.380343177,"data":"I0000 00:00:1794722464.077930       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":76.590562599,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:18\u003c00:18, 18.12s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:18\u003c00:00,  9.06s/it]\n"}
+,{"stream_name":"stderr","time":97.407736065,"data":"\rLoading checkpoint shards:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rLoading checkpoint shards:  50%|█████     | 1/2 [00:03\u003c00:03,  3.07s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  1.84s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  2.03s/it]\n"}
+,{"stream_name":"stdout","time":147.418975359,"data":"[  2.4 min] Orpheus done\n"}
+,{"stream_name":"stdout","time":147.419036455,"data":"[  2.4 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-check\n"}
+,{"stream_name":"stdout","time":148.830088751,"data":"[  2.5 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix M\n"}
+,{"stream_name":"stdout","time":159.117532786,"data":"[  2.6 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":162.197862995,"data":"[  2.7 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":170.231985082,"data":"[  2.8 min] $ pip install -q munch einops einops-exts nltk pydub accelerate loguru\n"}
+,{"stream_name":"stdout","time":172.583919143,"data":"[  2.9 min] $ pip install -q 'torchaudio==2.11.0' || true\n"}
+,{"stream_name":"stdout","time":194.978391024,"data":"[  3.2 min] $ python scripts/extract_voicepack.py --model /kaggle/input/notebooks/thusharajayawardane/se-run3-s2-p1/s2_part1.pth --style-encoder-model /kaggle/input\n"}
+,{"stream_name":"stdout","time":220.113421173,"data":"[  3.7 min] $ python scripts/extract_voicepack.py --model /kaggle/input/notebooks/thusharajayawardane/se-run3-s2-p1/s2_part1.pth --style-encoder-model /kaggle/input\n"}
+,{"stream_name":"stdout","time":228.584609988,"data":"[  3.8 min] $ python scripts/extract_voicepack.py --model /kaggle/input/notebooks/thusharajayawardane/se-run3-s2-p1/s2_part1.pth --style-encoder-model /kaggle/input\n"}
+,{"stream_name":"stdout","time":236.690213813,"data":"[  3.9 min] $ python scripts/extract_voicepack.py --model /kaggle/input/notebooks/thusharajayawardane/se-run3-s2-p1/s2_part1.pth --style-encoder-model /kaggle/input\n"}
+,{"stream_name":"stdout","time":248.642436868,"data":"[  4.1 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
+,{"stream_name":"stdout","time":258.707382074,"data":"[  4.3 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/d.wav -b:a 96k /kaggle/working/voice_demo.mp3\n"}
+,{"stream_name":"stderr","time":265.319167307,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":265.319197172,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":265.562275654,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":265.562301416,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":266.351906685,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":267.095234249,"data":"[NbConvertApp] Writing 327825 bytes to __results__.html\n"}
+]
