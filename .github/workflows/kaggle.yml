@@ -89,6 +89,17 @@ jobs:
           for k in $(kaggle kernels list --mine --page-size 40 --sort-by dateRun --csv | tail -n +2 | cut -d, -f1); do
             echo "$k: $(kaggle kernels status "$k" 2>&1 | tail -1)"
           done
+      - name: Probe API
+        if: inputs.action == 'probe'
+        run: |
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          pip show kaggle kagglesdk 2>/dev/null | grep -E "Name|Version"
+          python - <<'PY'
+          import kagglesdk, pkgutil, inspect, importlib
+          from kagglesdk.kernels.services import kernels_api_service as m
+          for n, c in inspect.getmembers(m, inspect.isclass):
+              print(n, [x for x in dir(c) if not x.startswith("_")])
+          PY
       - name: Collect
         if: inputs.action == 'collect'
         run: |
