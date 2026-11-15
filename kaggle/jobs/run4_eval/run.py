@@ -19,7 +19,7 @@ def sh(c, cwd=None, tail=20):
     if p.returncode: raise RuntimeError(c[:100] + "\n" + (p.stdout + p.stderr)[-2000:])
 report = ["# Run 4 · G2: teacher v0.2 A (with adversarial) vs B (without) vs stock Kokoro", ""]
 try:
-    sh("pip install -q 'transformers==4.57.6' jiwer soundfile librosa torchcrepe scikit-learn")
+    sh("pip install -q 'transformers==4.57.6' jiwer soundfile librosa torchcrepe scikit-learn loguru munch einops einops-exts nltk pydub accelerate")
     import numpy as np, torch, soundfile as sf, librosa, jiwer
     import marks as MK
     MK.setup("cuda")
