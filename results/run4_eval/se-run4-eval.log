@@ -1,0 +1,24 @@
+[{"stream_name":"stdout","time":1.326884244,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' jiwer soundfile librosa torchcrepe scikit-learn\n"}
+,{"stream_name":"stderr","time":73.826795071,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":73.826839191,"data":"I0000 00:00:1794778766.978341       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":87.171927623,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":87.171956274,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stdout","time":92.6768544,"data":"[  1.5 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-check\n"}
+,{"stream_name":"stdout","time":100.253805449,"data":"[  1.6 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix M\n"}
+,{"stream_name":"stdout","time":110.780065691,"data":"[  1.8 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":113.733609748,"data":"[  1.9 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":125.769093915,"data":"[  2.1 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
+,{"stream_name":"stdout","time":131.165318376,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":131.165356354,"data":"  File \"/kaggle/src/script.py\", line 45, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":131.165366171,"data":"    from kokoro.model import KModel\n"}
+,{"stream_name":"stdout","time":131.165370191,"data":"  File \"/kaggle/tmp/kt/kokoro/kokoro/__init__.py\", line 3, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":131.165373565,"data":"    from loguru import logger\n"}
+,{"stream_name":"stdout","time":131.165376907,"data":"ModuleNotFoundError: No module named 'loguru'\n"}
+,{"stream_name":"stdout","time":131.165380021,"data":"\n"}
+,{"stream_name":"stderr","time":140.336781388,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":140.336809128,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":140.690096974,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":140.690122326,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":141.54165894,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":142.187114696,"data":"[NbConvertApp] Writing 456132 bytes to __results__.html\n"}
+]
