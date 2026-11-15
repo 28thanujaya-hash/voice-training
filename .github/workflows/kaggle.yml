@@ -82,6 +82,13 @@ jobs:
           PY
           kaggle kernels push -p /tmp/k
           sleep 20; kaggle kernels status "$KUSER/$SLUG" || true
+      - name: Sessions
+        if: inputs.action == 'sessions'
+        run: |
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          for k in $(kaggle kernels list --mine --page-size 40 --sort-by dateRun --csv | tail -n +2 | cut -d, -f1); do
+            echo "$k: $(kaggle kernels status "$k" 2>&1 | tail -1)"
+          done
       - name: Collect
         if: inputs.action == 'collect'
         run: |
