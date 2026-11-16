@@ -8,7 +8,7 @@
 #   bright : higher than normal (≥ +1 st) and louder than normal (≥ +1 LU)
 #   groups : order rule per sentence — pitch low < normal < bright and normal ≤ tense; loudness low < normal < tense and bright;
 #            range normal ≤ bright and tense. Best combination of the kept takes.
-# Lines with no take meeting their mood's rule get up to 2 rounds × 6 new takes (lead-ins as before); still failing = reported.
+# One retake round (6 takes): lines with no usable take + low lines below the clip-14 standard; pace limit back to 3.2 (low 2.8) (lead-ins as before); still failing = reported.
 import csv, glob, itertools, os, random, re, shutil, subprocess, sys, time, traceback
 sys.path.insert(0, os.getcwd())
 from lines5 import build, LEAD
@@ -67,8 +67,8 @@ try:
             if r["pitch"] < N_P + 1: w.append("not high")
             if r["lufs"] < N_L + 1: w.append("not loud")
         return w
-    need = [i for i in LINES if not any(ok(r, LINES[i][1]) for r in C.get(i, []))]
-    report += [f"Lines with no take meeting the mood rule before retakes: {len(need)} (" + ", ".join(f"{m} {sum(1 for i in need if LINES[i][1] == m)}" for m in ROWS) + ")", ""]
+    need = [i for i in LINES if not C.get(i) or (LINES[i][1] == "low" and not any(ok(r, "low") for r in C[i]))]
+    report += [f"Lines retaken (no usable take, or low below the clip-14 standard): {len(need)} (" + ", ".join(f"{m} {sum(1 for i in need if LINES[i][1] == m)}" for m in ROWS) + ")", ""]
     # ---- retakes
     from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
     tok = AutoTokenizer.from_pretrained("unsloth/orpheus-3b-0.1-ft")
@@ -149,7 +149,7 @@ try:
         dur = len(y) / 24000 - 0.2; n = nw(text)
         heard = asr(y.copy(), generate_kwargs={"language": "en"})["text"]
         if word_errors(text, heard): return None, "words"
-        hi = 2.6 if mood == "low" else 3.0
+        hi = 2.8 if mood == "low" else 3.2   # mentor 16 Nov 21:04: back to the old limit; speed is set on the phone
         if (n <= 3 and not 0.3 <= dur <= 2.5) or (n > 3 and not 1.0 <= n / dur <= hi): return None, "pace"
         try: m = MK.measure(y, text)
         except Exception: m = None
@@ -157,7 +157,7 @@ try:
         mv = contour(y)
         return dict(a=y, body=m["body"], rng=m["rng"], move=mv if mv is not None else 0.0, wps=n / dur, lufs=loud(y), tilt=tilt(y), heard=heard), "ok"
     os.makedirs(f"{W}/retakes", exist_ok=True); why = {}
-    for rnd in (1, 2):
+    for rnd in (1,):
         if not need: break
         t = time.time(); lines = [LINES[i] for i in need]
         raw = record([f"{LEAD[l[1]]} {l[3]}" for l in lines], 6)
@@ -168,7 +168,7 @@ try:
                 f = f"retakes/{l[0]}_x{rnd}{k}.wav"; sf.write(f"{W}/{f}", x["a"], 24000)
                 C.setdefault(l[0], []).append(dict(id=l[0], row=l[1], group=l[2], split=l[4], file=f, path=f"{W}/{f}", text=l[3],
                                                     pitch=x["body"], range=x["rng"], move=x["move"], pace=x["wps"], lufs=x["lufs"], tilt=x["tilt"], score=0.0))
-        need = [i for i in need if not any(ok(r, LINES[i][1]) for r in C.get(i, []))]
+        need = [i for i in need if not C.get(i) or (LINES[i][1] == "low" and not any(ok(r, "low") for r in C[i]))]
         log(f"retake round {rnd}: {len(lines)} lines × 6 in {(time.time()-t)/60:.1f} min; still failing {len(need)}; rejects {why}")
     del om; torch.cuda.empty_cache()
     # ---- choose: rule-passing takes first; groups by the order rule
