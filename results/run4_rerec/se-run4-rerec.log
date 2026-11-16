@@ -1,0 +1,55 @@
+[{"stream_name":"stdout","time":0.625052099,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe\n"}
+,{"stream_name":"stderr","time":50.641741027,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":50.641766606,"data":"I0000 00:00:1794805312.074019       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":59.718663841,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":59.718706851,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stdout","time":66.432410079,"data":"[  1.1 min] 78 lines: 35 group lines + 43 extra\n"}
+,{"stream_name":"stderr","time":73.749424644,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":91.245634596,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:17\u003c00:17, 17.35s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:17\u003c00:00,  8.68s/it]\n"}
+,{"stream_name":"stderr","time":111.112320439,"data":"\rLoading checkpoint shards:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rLoading checkpoint shards:  50%|█████     | 1/2 [00:02\u003c00:02,  2.98s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  1.87s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  2.04s/it]\n"}
+,{"stream_name":"stdout","time":1224.001547375,"data":"[ 20.4 min] recorded 78 × 6 in 18.5 min\n"}
+,{"stream_name":"stderr","time":1224.341913953,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":1228.974257855,"data":"Device set to use cuda:0\n"}
+,{"stream_name":"stderr","time":1250.383902127,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":1258.374712219,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":1486.245126846,"data":"[ 24.8 min] 330 usable takes; rejected: {'words/pace': 131, 'measure': 6, 'no gap': 1}\n"}
+,{"stream_name":"stdout","time":1511.35652618,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_01.mp3\n"}
+,{"stream_name":"stdout","time":1511.636277701,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_02.mp3\n"}
+,{"stream_name":"stdout","time":1511.771667809,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_03.mp3\n"}
+,{"stream_name":"stdout","time":1511.907565475,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_04.mp3\n"}
+,{"stream_name":"stdout","time":1512.051961424,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_05.mp3\n"}
+,{"stream_name":"stdout","time":1512.191884119,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_06.mp3\n"}
+,{"stream_name":"stdout","time":1512.315789226,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_07.mp3\n"}
+,{"stream_name":"stdout","time":1512.44294524,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_08.mp3\n"}
+,{"stream_name":"stdout","time":1512.572482992,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_09.mp3\n"}
+,{"stream_name":"stdout","time":1512.696391086,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_10.mp3\n"}
+,{"stream_name":"stdout","time":1512.822444087,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_11.mp3\n"}
+,{"stream_name":"stdout","time":1512.965288815,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_12.mp3\n"}
+,{"stream_name":"stdout","time":1513.086855177,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_13.mp3\n"}
+,{"stream_name":"stdout","time":1513.211873942,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_14.mp3\n"}
+,{"stream_name":"stdout","time":1513.369484402,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_15.mp3\n"}
+,{"stream_name":"stdout","time":1513.505739007,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_16.mp3\n"}
+,{"stream_name":"stdout","time":1513.642979339,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_17.mp3\n"}
+,{"stream_name":"stdout","time":1513.764185734,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_18.mp3\n"}
+,{"stream_name":"stdout","time":1513.894054649,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_19.mp3\n"}
+,{"stream_name":"stdout","time":1514.020325176,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_20.mp3\n"}
+,{"stream_name":"stdout","time":1514.162491377,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_21.mp3\n"}
+,{"stream_name":"stdout","time":1514.282609729,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_22.mp3\n"}
+,{"stream_name":"stdout","time":1514.416686253,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_23.mp3\n"}
+,{"stream_name":"stdout","time":1514.542420865,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_24.mp3\n"}
+,{"stream_name":"stdout","time":1514.660359647,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_25.mp3\n"}
+,{"stream_name":"stdout","time":1514.817455847,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_26.mp3\n"}
+,{"stream_name":"stdout","time":1514.958063515,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_27.mp3\n"}
+,{"stream_name":"stdout","time":1515.116684624,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_28.mp3\n"}
+,{"stream_name":"stdout","time":1515.270952214,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_29.mp3\n"}
+,{"stream_name":"stdout","time":1515.399661323,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_30.mp3\n"}
+,{"stream_name":"stdout","time":1515.536950338,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_31.mp3\n"}
+,{"stream_name":"stdout","time":1515.667240002,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_32.mp3\n"}
+,{"stream_name":"stdout","time":1515.815663829,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/tmp/c.wav -b:a 64k /kaggle/working/blind2/actor_blind2_33.mp3\n"}
+,{"stream_name":"stderr","time":1524.667615763,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1524.667648535,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1524.913743584,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1524.913775046,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1525.683841708,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1526.433107349,"data":"[NbConvertApp] Writing 370600 bytes to __results__.html\n"}
+]

@@ -1,0 +1,72 @@
+id,row,group,take,file,text,pitch,range,pace,lufs,tilt
+m3b23,bright,G3,6,new/m3b23_lead_t6.wav,It's Sunday again!,12.43,8.7,2.42,-21.7,-7.3
+m3b24,bright,G4,6,new/m3b24_lead_t6.wav,Really?!,22.62,15.24,1.34,-18.5,-21.0
+m3b25,bright,G5,2,new/m3b25_lead_t2.wav,"Okay, tell me EVERYTHING!",13.58,8.59,1.63,-24.3,-9.6
+m3l17,low,G1,4,new/m3l17_lead_t4.wav,"So that's it, then…",9.7,5.92,2.29,-27.3,-12.1
+m3l19,low,G3,2,new/m3l19_lead_t2.wav,It's Sunday again…,9.36,3.63,2.34,-28.3,-9.9
+m3l20,low,G5,1,new/m3l20_lead_t1.wav,Okay… tell me everything.,9.11,2.54,1.49,-32.0,-12.7
+m3n37,normal,G1,4,new/m3n37_lead_t4.wav,"So that's it, then.",9.29,4.77,2.72,-26.6,-10.5
+m3n38,normal,G3,2,new/m3n38_lead_t2.wav,It's Sunday again.,10.62,2.97,2.76,-25.1,-5.5
+m3n39,normal,G4,6,new/m3n39_lead_t6.wav,Really?,11.51,6.4,1.51,-24.1,-19.4
+m3n40,normal,G5,1,new/m3n40_lead_t1.wav,"Okay, tell me everything.",9.89,3.86,2.16,-28.4,-13.9
+m3t13,tense,G1,1,new/m3t13_lead_t1.wav,"So that's IT, then.",13.4,4.74,2.47,-24.1,-10.4
+m3t14,tense,G2,3,new/m3t14_lead_t3.wav,I can't believe she said that.,13.0,5.59,2.38,-24.8,-10.1
+m3t15,tense,G4,1,new/m3t15_lead_t1.wav,Really.,12.55,3.73,2.13,-21.7,-14.4
+m3xb34,bright,G6,4,new/m3xb34_lead_t4.wav,We're moving!,14.08,8.25,2.53,-19.4,-20.0
+m3xb35,bright,G7,1,new/m3xb35_lead_t1.wav,It's done!,17.13,12.2,2.29,-19.9,-10.8
+m3xb36,bright,G8,3,new/m3xb36_lead_t3.wav,You're back!,17.75,4.48,2.29,-20.9,-5.6
+m3xb37,bright,G9,3,new/m3xb37_lead_t3.wav,"Tomorrow, then!",13.84,9.99,1.54,-21.0,-7.1
+m3xb38,bright,G10,3,new/m3xb38_lead_t3.wav,No more classes!,13.18,7.53,2.2,-24.1,-11.1
+m3xl45,low,G6,3,new/m3xl45_lead_t3.wav,We're moving…,12.58,1.1,2.13,-28.0,-26.9
+m3xl46,low,G7,4,new/m3xl46_lead_t4.wav,It's done…,9.17,3.72,2.34,-31.5,-5.7
+m3xl47,low,G8,5,new/m3xl47_lead_t5.wav,You're back…,9.4,3.22,1.95,-33.7,-9.2
+m3xl48,low,G9,6,new/m3xl48_lead_t6.wav,"Tomorrow, then…",10.53,3.39,1.02,-26.0,-18.0
+m3xl49,low,G10,2,new/m3xl49_lead_t2.wav,No more classes…,10.88,4.45,1.76,-30.0,-10.3
+m3xn46,normal,G6,4,new/m3xn46_lead_t4.wav,We're moving.,11.58,2.91,2.6,-25.0,-19.0
+m3xn47,normal,G7,3,new/m3xn47_lead_t3.wav,It's done.,8.36,5.36,3.13,-28.7,-8.4
+m3xn48,normal,G8,4,new/m3xn48_lead_t4.wav,You're back.,9.32,3.07,3.13,-28.9,-7.4
+m3xn49,normal,G9,5,new/m3xn49_lead_t5.wav,"Tomorrow, then.",8.26,7.01,1.36,-26.3,-10.3
+m3xn50,normal,G10,2,new/m3xn50_lead_t2.wav,No more classes.,10.26,3.81,2.6,-27.0,-7.8
+m3xt48,tense,G6,1,new/m3xt48_lead_t1.wav,We're moving?!,13.98,7.86,2.4,-16.8,-15.3
+m3xt49,tense,G7,1,new/m3xt49_lead_t1.wav,It's DONE.,8.39,8.05,2.23,-23.4,-6.1
+m3xt50,tense,G8,6,new/m3xt50_lead_t6.wav,You're back?,9.91,1.68,2.76,-20.1,-3.7
+m3xt51,tense,G9,5,new/m3xt51_lead_t5.wav,Tomorrow — then.,10.4,5.01,1.54,-23.5,-6.1
+m3xt52,tense,G10,5,new/m3xt52_lead_t5.wav,No more classes?!,16.63,5.97,2.76,-19.8,-5.9
+m3xl12,low,,3,new/m3xl12_lead_t3.wav,I'm so tired of being alone!,9.85,6.12,2.29,-28.8,-12.4
+m3l47,low,,2,new/m3l47_lead_t2.wav,Slowly… one word at a time.,9.79,4.57,1.71,-30.6,-11.9
+m3xl23,low,,5,new/m3xl23_lead_t5.wav,One more week — then I can go home.,11.47,5.58,2.6,-27.3,-20.3
+m3l25,low,,4,new/m3l25_lead_t4.wav,"Every time my phone rings, I'm scared it's bad news.",10.63,7.09,3.15,-28.6,-11.7
+m3xl57,low,,1,new/m3xl57_lead_t1.wav,I'm tired of saying goodbye!,11.34,6.74,2.86,-27.6,-9.8
+m3l38,low,,3,new/m3l38_lead_t3.wav,Oh no. Are you okay?,10.3,2.92,1.49,-30.2,-18.9
+m3xl19,low,,4,new/m3xl19_lead_t4.wav,We had plans — big plans.,9.69,4.96,1.82,-29.1,-8.6
+m3xl51,low,,1,new/m3xl51_lead_t1.wav,I can't do this anymore!,11.17,9.73,3.17,-27.2,-12.4
+m3l66,low,,2,new/m3l66_lead_t2.wav,I watched an old film tonight… the one Paati liked.,11.52,3.8,3.02,-27.9,-14.3
+m3l13,low,,5,new/m3l13_lead_t5.wav,Don't worry about mistakes. Everyone makes them.,11.4,8.25,1.99,-26.5,-14.5
+m3l37,low,,6,new/m3l37_lead_t6.wav,That sounds really lonely…,9.01,3.24,1.88,-30.5,-14.1
+m3xl32,low,,1,new/m3xl32_lead_t1.wav,You knew all along?!,12.52,6.99,3.02,-23.0,-14.1
+m3xl29,low,,4,new/m3xl29_lead_t4.wav,They sold the old house?!,12.35,4.73,3.17,-29.8,-10.6
+m3l34,low,,5,new/m3l34_lead_t5.wav,Even the sea looks grey to me today…,9.97,5.61,2.8,-27.2,-14.8
+m3xl01,low,,2,new/m3xl01_lead_t2.wav,Do you think she's okay?,14.18,6.64,3.12,-30.8,-11.1
+m3l14,low,,6,new/m3l14_lead_t6.wav,I'm really sorry. I didn't mean to hurt you.,10.79,4.32,2.5,-29.9,-14.4
+m3xl06,low,,1,new/m3xl06_lead_t1.wav,Did he ask about me?,10.69,4.8,2.6,-31.1,-8.3
+m3xl58,low,,3,new/m3xl58_lead_t3.wav,It was my last chance!,12.87,3.57,2.82,-27.4,-10.5
+m3l08,low,,3,new/m3l08_lead_t3.wav,Oh no… that must be really hard.,8.97,5.06,2.23,-30.7,-16.9
+m3t35,tense,,1,new/m3t35_lead_t1.wav,"Thank you, but I don't need your advice.",13.35,9.67,3.02,-24.4,-9.4
+m3t56,tense,,1,new/m3t56_lead_t1.wav,Hmm. I don't believe that for a second.,9.75,16.93,2.12,-27.3,-10.3
+m3xt70,tense,,3,new/m3xt70_lead_t3.wav,Sure… whatever you say.,10.45,3.95,2.84,-26.7,-7.6
+m3xt76,tense,,3,new/m3xt76_lead_t3.wav,"I'm listening… go on, explain.",13.32,6.05,2.13,-21.9,-11.8
+m3xt61,tense,,3,new/m3xt61_lead_t3.wav,Keep your voice down!,16.36,14.84,3.12,-20.6,-10.6
+m3t26,tense,,3,new/m3t26_lead_t3.wav,Please don't interrupt me. Let me finish.,12.58,5.74,3.04,-23.2,-13.0
+m3xt72,tense,,6,new/m3xt72_lead_t6.wav,I'll wait… but not for long.,9.72,3.82,2.65,-22.9,-6.4
+m3xt19,tense,,2,new/m3xt19_lead_t2.wav,Listen to me — not to him.,11.88,7.46,2.53,-24.2,-6.2
+m3t22,tense,,2,new/m3t22_lead_t2.wav,"Three people saw what happened, and nobody said a word.",13.88,6.9,3.13,-23.2,-13.8
+m3xt77,tense,,4,new/m3xt77_lead_t4.wav,Right… and whose fault is that?,13.21,13.91,2.7,-19.6,-10.5
+m3xt47,tense,,4,new/m3xt47_lead_t4.wav,WHO took my umbrella?,11.96,4.39,2.08,-18.3,-12.6
+m3t38,tense,,1,new/m3t38_lead_t1.wav,Please stop. That's enough.,11.89,6.89,2.02,-22.3,-6.8
+m3t69,tense,,6,new/m3t69_lead_t6.wav,They cancelled the train to Madurai. Two days before.,10.15,7.62,2.81,-23.4,-11.5
+m3xt22,tense,,1,new/m3xt22_lead_t1.wav,That's not the point — you lied.,11.11,7.82,2.96,-23.3,-5.1
+m3t39,tense,,3,new/m3t39_lead_t3.wav,I'm not angry. I'm disappointed.,11.38,5.41,1.83,-24.3,-8.2
+m3xt79,tense,,6,new/m3xt79_lead_t6.wav,Don't — I mean it.,11.15,4.3,2.23,-21.2,-8.3
+m3t75,tense,,1,new/m3t75_lead_t1.wav,The thick fog delayed the train by three hours.,10.74,4.15,3.06,-26.7,-11.4
+m3t50,tense,,4,new/m3t50_lead_t4.wav,Someone took my umbrella from the café. My new one.,9.49,8.05,2.95,-25.1,-11.9
+m3t32,tense,,5,new/m3t32_lead_t5.wav,I'm not asking. I'm telling you.,12.41,3.9,2.9,-21.8,-6.9
