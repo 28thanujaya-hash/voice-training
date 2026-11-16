@@ -1,0 +1,1 @@
+MOODS = ["low", "tense"]
