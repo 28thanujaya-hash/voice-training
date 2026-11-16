@@ -1,0 +1,112 @@
+[{"stream_name":"stdout","time":0.765336076,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe\n"}
+,{"stream_name":"stderr","time":53.487529685,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":53.487561123,"data":"I0000 00:00:1794819912.565885       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":68.057217499,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":68.057254763,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stdout","time":68.657065517,"data":"[  1.1 min] 306 lines: normal 172, bright 134\n"}
+,{"stream_name":"stderr","time":72.175320679,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":101.085324559,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:23\u003c00:23, 23.85s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:23\u003c00:00, 11.93s/it]\n"}
+,{"stream_name":"stderr","time":115.1321924,"data":"\rLoading checkpoint shards:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rLoading checkpoint shards:  50%|█████     | 1/2 [00:03\u003c00:03,  3.03s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  1.88s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  2.06s/it]\n"}
+,{"stream_name":"stderr","time":118.859052823,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":129.940326055,"data":"Device set to use cuda:1\n"}
+,{"stream_name":"stdout","time":333.25812977,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":333.25817713,"data":"  File \"/kaggle/src/script.py\", line 133, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":333.25818318,"data":"    run_round(LINES, 6)\n"}
+,{"stream_name":"stdout","time":333.258187404,"data":"    ~~~~~~~~~^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258193351,"data":"  File \"/kaggle/src/script.py\", line 126, in run_round\n"}
+,{"stream_name":"stdout","time":333.258201403,"data":"    t = time.time(); raw = record([f\"{LEAD[l[1]]} {l[3]}\" for l in lines], n)\n"}
+,{"stream_name":"stdout","time":333.258204743,"data":"                           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258207862,"data":"  File \"/kaggle/src/script.py\", line 63, in record\n"}
+,{"stream_name":"stdout","time":333.258210961,"data":"    g = om.generate(ids, attention_mask=att, max_new_tokens=2400, do_sample=True, temperature=0.6, top_p=0.95,\n"}
+,{"stream_name":"stdout","time":333.258214094,"data":"                    repetition_penalty=1.1, num_return_sequences=n, eos_token_id=128258, pad_token_id=128263)\n"}
+,{"stream_name":"stdout","time":333.258217004,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/utils/_contextlib.py\", line 124, in decorate_context\n"}
+,{"stream_name":"stdout","time":333.258220101,"data":"    return func(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258222886,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/generation/utils.py\", line 2566, in generate\n"}
+,{"stream_name":"stdout","time":333.258225877,"data":"    result = decoding_method(\n"}
+,{"stream_name":"stdout","time":333.25822865600003,"data":"        self,\n"}
+,{"stream_name":"stdout","time":333.258257381,"data":"    ...\u003c5 lines\u003e...\n"}
+,{"stream_name":"stdout","time":333.258262417,"data":"        **model_kwargs,\n"}
+,{"stream_name":"stdout","time":333.258266138,"data":"    )\n"}
+,{"stream_name":"stdout","time":333.258269301,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/generation/utils.py\", line 2789, in _sample\n"}
+,{"stream_name":"stdout","time":333.258272901,"data":"    outputs = model_forward(**model_inputs, return_dict=True)\n"}
+,{"stream_name":"stdout","time":333.2582762,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":333.258279764,"data":"    return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258282993,"data":"           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258286292,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":333.258291502,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258294938,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/generic.py\", line 918, in wrapper\n"}
+,{"stream_name":"stdout","time":333.258298552,"data":"    output = func(self, *args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258301869,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/models/llama/modeling_llama.py\", line 459, in forward\n"}
+,{"stream_name":"stdout","time":333.258305581,"data":"    outputs: BaseModelOutputWithPast = self.model(\n"}
+,{"stream_name":"stdout","time":333.258310727,"data":"                                       ~~~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":333.258318204,"data":"        input_ids=input_ids,\n"}
+,{"stream_name":"stdout","time":333.258320785,"data":"        ^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258322984,"data":"    ...\u003c6 lines\u003e...\n"}
+,{"stream_name":"stdout","time":333.258325255,"data":"        **kwargs,\n"}
+,{"stream_name":"stdout","time":333.258327438,"data":"        ^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258329967,"data":"    )\n"}
+,{"stream_name":"stdout","time":333.258344957,"data":"    ^\n"}
+,{"stream_name":"stdout","time":333.258350737,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":333.258354879,"data":"    return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258359029,"data":"           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258362594,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":333.258366099,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258369354,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/generic.py\", line 1072, in wrapper\n"}
+,{"stream_name":"stdout","time":333.258372809,"data":"    outputs = func(self, *args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258376702,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/models/llama/modeling_llama.py\", line 395, in forward\n"}
+,{"stream_name":"stdout","time":333.258380252,"data":"    hidden_states = decoder_layer(\n"}
+,{"stream_name":"stdout","time":333.258383411,"data":"        hidden_states,\n"}
+,{"stream_name":"stdout","time":333.258386596,"data":"    ...\u003c5 lines\u003e...\n"}
+,{"stream_name":"stdout","time":333.258389923,"data":"        **kwargs,\n"}
+,{"stream_name":"stdout","time":333.258397045,"data":"    )\n"}
+,{"stream_name":"stdout","time":333.258400446,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/modeling_layers.py\", line 94, in __call__\n"}
+,{"stream_name":"stdout","time":333.258403994,"data":"    return super().__call__(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258407271,"data":"           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258410498,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":333.258414021,"data":"    return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258418906,"data":"           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258425161,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":333.258439836,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258443671,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/deprecation.py\", line 172, in wrapped_func\n"}
+,{"stream_name":"stdout","time":333.258447969,"data":"    return func(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258451632,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/models/llama/modeling_llama.py\", line 294, in forward\n"}
+,{"stream_name":"stdout","time":333.258455647,"data":"    hidden_states, _ = self.self_attn(\n"}
+,{"stream_name":"stdout","time":333.258458892,"data":"                       ~~~~~~~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":333.258462168,"data":"        hidden_states=hidden_states,\n"}
+,{"stream_name":"stdout","time":333.258488212,"data":"        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258492409,"data":"    ...\u003c6 lines\u003e...\n"}
+,{"stream_name":"stdout","time":333.258495902,"data":"        **kwargs,\n"}
+,{"stream_name":"stdout","time":333.258499172,"data":"        ^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.25850239,"data":"    )\n"}
+,{"stream_name":"stdout","time":333.258505467,"data":"    ^\n"}
+,{"stream_name":"stdout","time":333.25850865,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":333.258512192,"data":"    return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258515521,"data":"           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.25851871,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":333.258522411,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.25852696,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/utils/deprecation.py\", line 172, in wrapped_func\n"}
+,{"stream_name":"stdout","time":333.258531289,"data":"    return func(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":333.258535261,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/models/llama/modeling_llama.py\", line 252, in forward\n"}
+,{"stream_name":"stdout","time":333.258539591,"data":"    attn_output, attn_weights = attention_interface(\n"}
+,{"stream_name":"stdout","time":333.258543384,"data":"                                ~~~~~~~~~~~~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":333.258546767,"data":"        self,\n"}
+,{"stream_name":"stdout","time":333.258550009,"data":"        ^^^^^\n"}
+,{"stream_name":"stdout","time":333.258557451,"data":"    ...\u003c6 lines\u003e...\n"}
+,{"stream_name":"stdout","time":333.258560819,"data":"        **kwargs,\n"}
+,{"stream_name":"stdout","time":333.258563969,"data":"        ^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258567167,"data":"    )\n"}
+,{"stream_name":"stdout","time":333.258570269,"data":"    ^\n"}
+,{"stream_name":"stdout","time":333.258573432,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/integrations/sdpa_attention.py\", line 68, in sdpa_attention_forward\n"}
+,{"stream_name":"stdout","time":333.258576908,"data":"    value = repeat_kv(value, module.num_key_value_groups)\n"}
+,{"stream_name":"stdout","time":333.258580312,"data":"  File \"/usr/local/lib/python3.13/dist-packages/transformers/integrations/sdpa_attention.py\", line 27, in repeat_kv\n"}
+,{"stream_name":"stdout","time":333.258583879,"data":"    return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)\n"}
+,{"stream_name":"stdout","time":333.258587309,"data":"           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":333.258593587,"data":"torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 282.00 MiB. GPU 0 has a total capacity of 14.56 GiB of which 280.81 MiB is free. Including non-PyTorch memory, this process has 14.29 GiB memory in use. Of the allocated memory 11.70 GiB is allocated by PyTorch, and 2.46 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)\n"}
+,{"stream_name":"stdout","time":333.258621842,"data":"\n"}
+,{"stream_name":"stderr","time":340.158688982,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":340.158720209,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":340.416743689,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":340.416768054,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":341.233942632,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":341.840115969,"data":"[NbConvertApp] Writing 434614 bytes to __results__.html\n"}
+]
