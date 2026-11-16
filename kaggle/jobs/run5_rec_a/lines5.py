@@ -9,7 +9,7 @@ def build():
         text = F.CHANGE.get(lid, F.CHANGE.get(key, text) if key else text)
         if lid in F.MOVE: row = F.MOVE[lid]
         out.append((lid, row, grp, text, split))
-    out += [tuple(a) for a in F.ADD]
+    out += [(lid, row, grp, text, split) for lid, row, text, grp, split in F.ADD]   # fixes.ADD is (id, row, text, group, split)
     return out
 LEAD = {"normal": "Hi, how was your day? Mine was fine.",
         "bright": "Oh wow, this is the best news ever!",
