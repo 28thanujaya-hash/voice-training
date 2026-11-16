@@ -1,0 +1,620 @@
+id,row,group,split,rank,file,text,pitch,range,move,pace,lufs,tilt,score,heard
+m3n02,normal,,train,1,takes/m3n02_r1.wav,"The bus was full again today, so I walked from Wellawatte.",9.85,5.07,-4.78,2.41,-27.5,-12.3,-2.5," The bus was full again today, so... I walked from Lilwane."
+m3n02,normal,,train,2,takes/m3n02_r2.wav,"The bus was full again today, so I walked from Wellawatte.",9.0,5.36,-5.31,2.67,-28.5,-9.0,-3.5," The bus was full again today, so... I walked from Walewate."
+m3n03,normal,,train,1,takes/m3n03_r1.wav,"Priya made dosa this morning, and the whole flat smelled amazing.",10.52,6.68,-4.27,2.91,-27.7,-10.0,-1.11," Priya made dosa this morning, and the whole flat smelled amazing."
+m3n03,normal,,train,2,takes/m3n03_r2.wav,"Priya made dosa this morning, and the whole flat smelled amazing.",9.6,6.41,-5.31,2.88,-26.4,-10.8,-2.42," Priya made dosa this morning, and the whole flat smelled amazing."
+m3n03,normal,,train,3,takes/m3n03_r3.wav,"Priya made dosa this morning, and the whole flat smelled amazing.",12.64,8.0,-7.82,2.49,-26.9,-13.2,-2.71, Priya made dosa this morning and the whole flat smelled amazing.
+m3n06,normal,,train,1,takes/m3n06_r1.wav,"I call my family every Sunday, but this week Appa was busy.",9.62,4.47,-3.51,2.9,-27.7,-10.9,-2.5," I call my family every Sunday, but this week Otto was busy."
+m3n06,normal,,train,2,takes/m3n06_r2.wav,"I call my family every Sunday, but this week Appa was busy.",9.82,4.1,-1.77,2.91,-27.5,-11.3,-3.5," I call my family every Sunday, but this week Appa was busy."
+m3n07,normal,,train,1,takes/m3n07_r1.wav,"The café was quiet this afternoon, so I watched the people outside.",9.91,4.26,-1.88,2.96,-29.2,-7.8,-2.5," The cafe was quiet this afternoon, so I watched the people outside."
+m3n07,normal,,train,2,takes/m3n07_r2.wav,"The café was quiet this afternoon, so I watched the people outside.",11.3,6.0,-3.58,2.99,-28.0,-10.3,-3.5," The cafe was quiet this afternoon, so I watched the people outside."
+m3n10,normal,,train,1,takes/m3n10_r1.wav,"When I think about it, Colombo is busy, but it's never boring.",12.21,5.83,-0.28,2.29,-27.3,-14.0,-1.07," When I think about it, Columbo is busy, but it's never boring."
+m3n10,normal,,train,2,takes/m3n10_r2.wav,"When I think about it, Colombo is busy, but it's never boring.",12.19,8.87,-2.94,2.36,-27.7,-16.0,-2.33," When I think about it, Palumbo is busy, but it's never boring."
+m3n10,normal,,train,3,takes/m3n10_r3.wav,"When I think about it, Colombo is busy, but it's never boring.",10.73,5.47,-1.0,2.86,-26.6,-13.5,-2.77," When I think about it, Columbo is busy, but it's never boring."
+m3n11,normal,,train,1,takes/m3n11_r1.wav,"I usually walk along Galle Face after work, because the air is so cool.",10.5,5.6,-4.81,2.94,-27.4,-11.5,-0.79, I usually walk along Galface after work because the air is so cool.
+m3n11,normal,,train,2,takes/m3n11_r2.wav,"I usually walk along Galle Face after work, because the air is so cool.",9.5,2.99,-2.46,2.5,-29.8,-12.4,-3.17, I usually walk a long gal face after work because the air is so cool.
+m3n11,normal,,train,3,takes/m3n11_r3.wav,"I usually walk along Galle Face after work, because the air is so cool.",11.43,7.64,-5.99,2.98,-26.5,-8.9,-3.79, I usually walk along Dalface after work because the air is so cool.
+m3n12,normal,,train,1,takes/m3n12_r1.wav,"Hmm, interesting. And then what did you say?",13.47,4.27,2.41,1.81,-28.2,-14.3,-2.09," Hmm, interesting. And then, what did you say?"
+m3n12,normal,,train,2,takes/m3n12_r2.wav,"Hmm, interesting. And then what did you say?",9.49,2.37,-1.58,1.94,-27.2,-14.2,-2.26," Hmm, interesting. And then what did you say?"
+m3n12,normal,,train,3,takes/m3n12_r3.wav,"Hmm, interesting. And then what did you say?",13.57,5.23,3.07,1.67,-25.1,-15.6,-2.42," Hmm, interesting. And then, what did you say?"
+m3n13,normal,,train,1,takes/m3n13_r1.wav,"Wait, really? You went to Kandy on your own?",12.59,7.44,3.89,2.4,-26.4,-14.6,-2.13," Wait, really? You went to candy on your own?"
+m3n13,normal,,train,2,takes/m3n13_r2.wav,"Wait, really? You went to Kandy on your own?",11.47,7.65,2.63,2.89,-26.7,-15.9,-3.08," Wait, really? You went to Candy on your own?"
+m3n13,normal,,train,3,takes/m3n13_r3.wav,"Wait, really? You went to Kandy on your own?",11.41,6.4,2.78,2.41,-24.5,-18.6,-3.22," Wait, really? You went to Candy on your own?"
+m3n14,normal,,train,1,takes/m3n14_r1.wav,Fair enough. I think I'd do the same.,9.84,7.65,0.65,2.39,-26.7,-11.7,-0.25, Fair enough. I think I'd do the same.
+m3n14,normal,,train,2,takes/m3n14_r2.wav,Fair enough. I think I'd do the same.,9.74,8.73,0.03,2.48,-28.6,-15.9,-1.2, Fair enough. I think I'd do the same.
+m3n14,normal,,train,3,takes/m3n14_r3.wav,Fair enough. I think I'd do the same.,10.26,8.54,-1.83,2.84,-28.2,-13.4,-1.82, Fair enough. I think I'd do the same.
+m3n15,normal,,train,1,takes/m3n15_r1.wav,Go on. I'm listening.,11.11,3.83,-3.69,1.7,-30.4,-13.4,-1.04, Go on. I'm listening.
+m3n15,normal,,train,2,takes/m3n15_r2.wav,Go on. I'm listening.,11.17,3.1,-2.15,1.66,-30.6,-12.9,-1.83, Go on. I'm listening.
+m3n15,normal,,train,3,takes/m3n15_r3.wav,Go on. I'm listening.,10.78,3.86,-3.21,1.89,-25.9,-10.9,-1.97, Go on. I'm listening.
+m3n17,normal,,train,1,takes/m3n17_r1.wav,"That was clear. Now try it with ""because"".",10.37,3.21,-1.4,2.84,-29.0,-11.1,-1.7, That was clear. Now try it with because.
+m3n17,normal,,train,2,takes/m3n17_r2.wav,"That was clear. Now try it with ""because"".",9.31,2.97,-0.61,2.21,-26.6,-5.9,-3.01, That was clear. Now try it with because.
+m3n17,normal,,train,3,takes/m3n17_r3.wav,"That was clear. Now try it with ""because"".",10.9,4.86,-0.36,2.34,-30.5,-4.3,-3.38," That was clear. Now try it with, because."
+m3n18,normal,,train,1,takes/m3n18_r1.wav,Take your time. There's no rush.,9.56,3.06,-2.83,2.73,-29.0,-12.7,-2.1, Take your time. There's no rush.
+m3n18,normal,,train,2,takes/m3n18_r2.wav,Take your time. There's no rush.,9.21,3.01,-3.02,2.49,-30.7,-10.2,-2.43, Take your time. There is no rush.
+m3n18,normal,,train,3,takes/m3n18_r3.wav,Take your time. There's no rush.,10.58,5.09,-2.49,2.36,-28.5,-13.0,-2.64, Take your time. There's no rush.
+m3n19,normal,,train,1,takes/m3n19_r1.wav,"Oh, you went to the shop yesterday? Nice. ""Went"", not ""go"".",10.35,7.34,-3.73,1.92,-27.4,-6.4,0.1," Oh, you went to the shop yesterday? Nice. Went. Not. Go."
+m3n19,normal,,train,2,takes/m3n19_r2.wav,"Oh, you went to the shop yesterday? Nice. ""Went"", not ""go"".",10.24,8.9,-2.47,1.95,-26.5,-9.6,-1.38," Oh, you went to the shop yesterday? Nice. Went, not go."
+m3n19,normal,,train,3,takes/m3n19_r3.wav,"Oh, you went to the shop yesterday? Nice. ""Went"", not ""go"".",9.42,7.2,-0.98,2.3,-28.0,-10.2,-3.03," Oh, you went to the shop yesterday? Nice. Went, not go."
+m3n20,normal,,train,1,takes/m3n20_r1.wav,"Can you say that again, a little slower?",14.31,3.67,-3.49,2.91,-25.7,-11.5,-2.5, Can you say that again? A little slower?
+m3n20,normal,,train,2,takes/m3n20_r2.wav,"Can you say that again, a little slower?",11.89,3.22,0.12,3.0,-28.1,-12.8,-3.5, Can you say that again? A little slower?
+m3n21,normal,,train,1,takes/m3n21_r1.wav,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",13.68,6.82,0.01,2.48,-27.0,-12.2,-2.5, Here's one way to say it. Usually I get up at 6. But today I slept late.
+m3n21,normal,,train,2,takes/m3n21_r2.wav,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",12.67,8.08,-2.58,2.94,-28.0,-11.2,-3.5," Here's one way to say it. Usually I get up at six, but today I slept late."
+m3n22,normal,,train,1,takes/m3n22_r1.wav,"Let's try a longer answer this time. Use ""and"" or ""but"".",10.6,6.7,-5.75,1.64,-28.4,-9.7,-0.77, Let's try a longer answer this time. Use and or but.
+m3n22,normal,,train,2,takes/m3n22_r2.wav,"Let's try a longer answer this time. Use ""and"" or ""but"".",10.19,8.11,-7.35,1.94,-27.6,-10.0,-0.96, Let's try a longer answer this time. Use and or but.
+m3n22,normal,,train,3,takes/m3n22_r3.wav,"Let's try a longer answer this time. Use ""and"" or ""but"".",9.66,6.39,-1.82,2.18,-27.8,-12.1,-2.54, Let's try a longer answer this time. Use and or but.
+m3n25,normal,,train,1,takes/m3n25_r1.wav,"Excuse me, could you please tell me where the bus stop is?",13.18,8.43,4.76,2.91,-25.5,-13.0,0.0," Excuse me, could you please tell me where the bus stop is?"
+m3n26,normal,,train,1,takes/m3n26_r1.wav,"Would you mind moving your bag, please? I'd like to sit down.",14.13,9.96,-9.14,2.87,-25.5,-13.5,0.0," Would you mind moving your bag, please? I'd like to sit down."
+m3n27,normal,,train,1,takes/m3n27_r1.wav,"I'm sorry, but I think you're next in the queue, not me.",9.72,6.33,-1.97,2.93,-27.7,-14.2,-2.5," I'm sorry, but I think you're next in the queue, not me."
+m3n27,normal,,train,2,takes/m3n27_r2.wav,"I'm sorry, but I think you're next in the queue, not me.",9.82,7.54,-4.68,2.96,-32.8,-8.9,-3.5," I'm sorry, but I think you're next in the queue, not me."
+m3n28,normal,,train,1,takes/m3n28_r1.wav,"Honestly? I like Batman more, because he's just a normal person.",11.98,6.48,-2.69,2.2,-28.3,-9.2,-1.4," Honestly, I like Batman more because he's just a normal person."
+m3n28,normal,,train,2,takes/m3n28_r2.wav,"Honestly? I like Batman more, because he's just a normal person.",11.24,7.07,-5.87,2.04,-28.2,-9.3,-1.68," Honestly, I like Batman more because he's just a normal person."
+m3n28,normal,,train,3,takes/m3n28_r3.wav,"Honestly? I like Batman more, because he's just a normal person.",11.69,7.67,-2.63,1.94,-29.5,-11.0,-2.01," Honestly, I like Batman more because he's just a normal person."
+m3n30,normal,,train,1,takes/m3n30_r1.wav,Have you ever been to India? I'd love to see Madurai one day.,11.5,9.24,-6.79,2.65,-28.1,-12.4,0.0, Have you ever been to India? I'd love to see Madurai one day.
+m3n31,normal,,train,1,takes/m3n31_r1.wav,"First I made the tea, then I cleaned the tables, and after that I finally sat down.",11.71,3.12,-1.17,2.96,-28.7,-12.9,0.0," First I made the tea, then I cleaned the tables, and after that I finally sat down."
+m3n32,normal,,train,1,takes/m3n32_r1.wav,"Meanwhile, Priya was on the phone with her mum, so I cooked dinner.",9.7,3.57,-0.6,2.99,-27.2,-11.6,0.0," Meanwhile, Priya was on the phone with her mom. So, I cooked dinner."
+m3n33,normal,,train,1,takes/m3n33_r1.wav,"There are three things on the list: rice, vegetables, and the thick yellow dal.",10.52,6.54,-4.22,2.39,-27.7,-10.1,-1.73," There are three things on the list. Rice, vegetables, and the thick yellow doll."
+m3n33,normal,,train,2,takes/m3n33_r2.wav,"There are three things on the list: rice, vegetables, and the thick yellow dal.",10.61,6.3,-3.95,2.97,-27.5,-7.5,-2.89," There are three things on the list. Rice, vegetables, and the thick yellow doll."
+m3n33,normal,,train,3,takes/m3n33_r3.wav,"There are three things on the list: rice, vegetables, and the thick yellow dal.",12.37,7.45,-3.88,2.32,-25.8,-10.5,-3.8," There are three things on the list. Rice, vegetables, and the fakiela doll."
+m3n36,normal,,train,1,takes/m3n36_r1.wav,"Thenuka, Kavi and Nimal: three brothers in one small house.",10.44,4.58,-3.83,2.55,-27.0,-12.6,-0.87," Tanuka, Kavi, and Nimal, three brothers in one small house."
+m3n36,normal,,train,2,takes/m3n36_r2.wav,"Thenuka, Kavi and Nimal: three brothers in one small house.",10.18,4.07,-1.22,2.01,-28.6,-9.1,-2.19," Lineka, Kavi, and them all. Three brothers in one small house."
+m3n36,normal,,train,3,takes/m3n36_r3.wav,"Thenuka, Kavi and Nimal: three brothers in one small house.",10.16,6.49,-6.18,2.73,-26.9,-13.1,-3.32," Benukra, Tavi, and Nimal, three brothers in one small house."
+m3n37,normal,G1,train,1,takes/m3n37_r1.wav,"So that's it, then.",10.2,2.64,-2.04,1.95,-30.5,-8.4,0.0," So, that's it then."
+m3n38,normal,G3,val,1,takes/m3n38_r1.wav,It's Sunday again.,9.7,5.71,-5.12,2.47,-27.2,-10.9,-0.11, It's Sunday again.
+m3n38,normal,G3,val,2,takes/m3n38_r2.wav,It's Sunday again.,10.56,5.81,-5.44,2.6,-27.9,-13.1,-2.07, It's Sunday again.
+m3n38,normal,G3,val,3,takes/m3n38_r3.wav,It's Sunday again.,10.84,5.52,-4.49,2.56,-26.0,-8.8,-2.11, It's Sunday again.
+m3n39,normal,G4,train,1,takes/m3n39_r1.wav,Really?,16.11,7.34,7.02,1.62,-28.3,-20.1,-1.26, Really?
+m3n39,normal,G4,train,2,takes/m3n39_r2.wav,Really?,10.8,2.26,1.8,1.34,-27.8,-16.4,-1.92, Really?
+m3n39,normal,G4,train,3,takes/m3n39_r3.wav,Really?,9.55,9.88,10.03,1.34,-28.7,-13.5,-2.46, Really?
+m3n40,normal,G5,train,1,takes/m3n40_r1.wav,"Okay, tell me everything.",10.54,6.67,-4.16,2.21,-25.6,-9.9,-1.96," Okay, tell me everything."
+m3n40,normal,G5,train,2,takes/m3n40_r2.wav,"Okay, tell me everything.",9.51,4.36,-3.37,2.47,-29.1,-14.8,-2.28," Okay, tell me everything."
+m3n40,normal,G5,train,3,takes/m3n40_r3.wav,"Okay, tell me everything.",10.58,2.42,0.47,2.29,-30.0,-15.3,-2.28," Okay, tell me everything."
+m3n41,normal,,train,1,takes/m3n41_r1.wav,"My shift starts at five, so I usually eat something light before work.",10.25,5.53,-3.88,2.82,-29.5,-7.9,0.0," My shift starts at 5, so I usually eat something light before work."
+m3n42,normal,,train,1,takes/m3n42_r1.wav,"Priya and I take turns cooking, but she always forgets to buy onions.",10.35,4.26,-2.23,2.6,-25.7,-12.1,-1.43," Priya and I take turns cooking, but she always forgets to buy onions."
+m3n42,normal,,train,2,takes/m3n42_r2.wav,"Priya and I take turns cooking, but she always forgets to buy onions.",10.32,4.81,-2.16,2.68,-25.3,-9.6,-2.31," Priya and I take turns cooking, but she always forgets to buy onions."
+m3n42,normal,,train,3,takes/m3n42_r3.wav,"Priya and I take turns cooking, but she always forgets to buy onions.",11.72,7.82,-4.13,2.71,-28.9,-10.5,-4.7," Priya and I take turns cooking, but she always forgets to buy onions."
+m3n51,normal,,train,1,takes/m3n51_r1.wav,Hmm… so what did your mum say about that?,11.29,6.05,-0.94,2.08,-27.8,-14.1,-1.4, So what did your mom say about that?
+m3n51,normal,,train,2,takes/m3n51_r2.wav,Hmm… so what did your mum say about that?,14.39,7.82,-5.27,1.6,-28.5,-10.2,-2.2, So what did your mom say about that?
+m3n51,normal,,train,3,takes/m3n51_r3.wav,Hmm… so what did your mum say about that?,12.35,5.49,-1.64,2.51,-30.3,-12.7,-2.82," So, what did your mom say about that?"
+m3n52,normal,,train,1,takes/m3n52_r1.wav,"Oh, okay. So you didn't go in the end?",9.31,4.81,-3.53,1.88,-25.5,-13.9,-1.74," Oh, okay. So... you didn't go in the end?"
+m3n52,normal,,train,2,takes/m3n52_r2.wav,"Oh, okay. So you didn't go in the end?",12.61,3.32,0.31,1.69,-24.5,-19.0,-1.8," Oh, okay. So... you didn't go in the end?"
+m3n52,normal,,train,3,takes/m3n52_r3.wav,"Oh, okay. So you didn't go in the end?",11.55,4.76,-0.86,2.19,-25.0,-14.0,-1.82," Oh, okay. So, you didn't go in the end."
+m3n54,normal,,train,1,takes/m3n54_r1.wav,"Wait, so who was driving?",10.59,7.79,2.29,2.0,-26.0,-11.8,-2.25," Wait, so... who was driving?"
+m3n54,normal,,train,2,takes/m3n54_r2.wav,"Wait, so who was driving?",10.73,4.74,1.05,2.09,-27.8,-11.2,-2.78," Wait, so who was driving?"
+m3n54,normal,,train,3,takes/m3n54_r3.wav,"Wait, so who was driving?",12.67,6.86,-5.54,2.25,-27.8,-16.2,-2.96," Wait, so who was driving?"
+m3n55,normal,,train,1,takes/m3n55_r1.wav,"Right, I understand. And how do you feel about it now?",9.95,4.34,-2.44,2.06,-25.1,-14.3,-1.93, Right. I understand. And how do you feel about it now?
+m3n55,normal,,train,2,takes/m3n55_r2.wav,"Right, I understand. And how do you feel about it now?",10.89,4.44,-0.58,2.52,-27.2,-12.2,-2.11, Right. I understand. And how do you feel about it now?
+m3n55,normal,,train,3,takes/m3n55_r3.wav,"Right, I understand. And how do you feel about it now?",10.84,3.19,0.57,2.63,-25.5,-12.3,-2.76, Right. I understand. And how do you feel about it now?
+m3n56,normal,,train,1,takes/m3n56_r1.wav,"Good. Now tell me about your morning, using ""first"" and ""then"".",10.2,5.22,-4.16,2.12,-27.9,-12.5,-0.94, Good. Now tell me about your morning. Using first and then.
+m3n56,normal,,train,2,takes/m3n56_r2.wav,"Good. Now tell me about your morning, using ""first"" and ""then"".",10.31,5.84,-0.04,2.23,-26.8,-12.2,-1.87," Good. Now tell me about your morning, using first and then."
+m3n56,normal,,train,3,takes/m3n56_r3.wav,"Good. Now tell me about your morning, using ""first"" and ""then"".",10.84,5.38,-3.71,2.04,-28.5,-13.4,-2.49, Good. Now tell me about your morning. Using first and then.
+m3n57,normal,,train,1,takes/m3n57_r1.wav,"Let's practise this one together. I'll say it, and you repeat it.",11.94,5.82,-4.07,2.73,-27.3,-7.3,-2.5, Let's practice this one together. I'll say it and you repeat it.
+m3n57,normal,,train,2,takes/m3n57_r2.wav,"Let's practise this one together. I'll say it, and you repeat it.",9.91,5.57,-3.13,2.83,-28.8,-6.7,-3.5," Let's practice this one together. I'll say it, and you repeat it."
+m3n59,normal,,train,1,takes/m3n59_r1.wav,"Oh, you have two brothers? Nice. ""Brothers"", with an ""s"" at the end.",10.22,6.78,-4.95,1.9,-27.6,-11.4,-0.69," Oh, you have two brothers? Nice. Brothers with an S at the end."
+m3n59,normal,,train,2,takes/m3n59_r2.wav,"Oh, you have two brothers? Nice. ""Brothers"", with an ""s"" at the end.",10.39,5.85,-0.5,2.0,-28.5,-7.7,-1.11," Oh, you have two brothers? Nice. Brothers, with an S at the end."
+m3n59,normal,,train,3,takes/m3n59_r3.wav,"Oh, you have two brothers? Nice. ""Brothers"", with an ""s"" at the end.",10.55,5.38,-3.09,1.95,-29.1,-4.5,-2.16," Oh, you have two brothers? Nice. Brothers with an S at the end."
+m3n61,normal,,val,1,takes/m3n61_r1.wav,Here's a question for you: what's the best thing about your town?,11.27,6.83,-5.68,2.76,-29.2,-11.3,-2.5, Here's a question for you. What's the best thing about your town?
+m3n61,normal,,val,2,takes/m3n61_r2.wav,Here's a question for you: what's the best thing about your town?,11.68,6.36,-5.16,2.77,-28.5,-11.9,-3.5, Here's a question for you. What's the best thing about your town?
+m3n64,normal,,train,1,takes/m3n64_r1.wav,"I'm saving a little every week for the trip, so I don't eat out much.",10.35,6.41,-4.74,2.97,-25.3,-13.3,0.0," I'm saving a little every week for the trip, so I don't eat out much."
+m3n65,normal,,train,1,takes/m3n65_r1.wav,"Could you send me the notes from today's class, please?",14.87,12.58,-10.19,2.79,-29.7,-11.2,0.0," Could you send me the notes from today's class, please?"
+m3n66,normal,,train,1,takes/m3n66_r1.wav,"I don't agree, but I understand why you think that.",10.0,3.5,-1.84,2.74,-26.0,-8.7,-2.38," I don't agree, but I understand why you think that."
+m3n66,normal,,train,2,takes/m3n66_r2.wav,"I don't agree, but I understand why you think that.",9.82,5.56,-4.83,2.82,-27.8,-15.3,-2.42," I don't agree, but I understand why you think that."
+m3n66,normal,,train,3,takes/m3n66_r3.wav,"I don't agree, but I understand why you think that.",9.83,6.07,-3.87,2.97,-24.7,-15.9,-3.37," I don't agree, but I understand why you think that."
+m3n67,normal,,train,1,takes/m3n67_r1.wav,"Let's wait for the others, and then we can decide together.",11.96,5.19,-0.46,3.0,-29.3,-10.9,0.0," Let's wait for the others, and then we can decide together."
+m3n68,normal,,train,1,takes/m3n68_r1.wav,"I like old Tamil songs, especially when it's raining outside.",10.17,4.04,-3.88,2.71,-25.1,-12.0,-2.5," I like old Tamil songs, especially when it's raining outside."
+m3n68,normal,,train,2,takes/m3n68_r2.wav,"I like old Tamil songs, especially when it's raining outside.",10.92,4.32,1.11,2.91,-26.2,-9.7,-3.5," I like old Tamil songs, especially when it's raining outside."
+m3n72,normal,,train,1,takes/m3n72_r1.wav,"In the end, we found the café, but it was already closed.",12.22,3.76,-3.41,2.58,-25.7,-16.0,-1.19," In the end, we found the cafe, but it was already closed."
+m3n72,normal,,train,2,takes/m3n72_r2.wav,"In the end, we found the café, but it was already closed.",10.35,3.71,-2.57,2.47,-27.0,-15.5,-1.94," In the end, we found the cafe, but it was already closed."
+m3n72,normal,,train,3,takes/m3n72_r3.wav,"In the end, we found the café, but it was already closed.",12.27,3.6,-2.07,2.73,-25.2,-14.3,-2.39," In the end, we found the cafe, but it was already closed."
+m3n73,normal,,train,1,takes/m3n73_r1.wav,"She thinks the third Thursday is free, but I'm not sure.",9.68,7.39,-4.51,2.91,-25.6,-11.8,-2.5," She thinks the third Thursday is free, but... I'm not sure."
+m3n73,normal,,train,2,takes/m3n73_r2.wav,"She thinks the third Thursday is free, but I'm not sure.",9.79,9.37,-10.15,3.0,-30.1,-11.4,-3.5," She thinks the third Thursday is free, but I'm not sure."
+m3n74,normal,,train,1,takes/m3n74_r1.wav,"My phone number ends in two, nine, seven, zero.",10.44,3.99,-0.37,2.51,-26.6,-11.5,-1.37, My phone number ends in 2970.
+m3n74,normal,,train,2,takes/m3n74_r2.wav,"My phone number ends in two, nine, seven, zero.",11.25,3.34,-2.62,2.76,-27.4,-15.5,-2.08, My phone number ends in 2970.
+m3n74,normal,,train,3,takes/m3n74_r3.wav,"My phone number ends in two, nine, seven, zero.",10.5,7.03,-5.63,2.11,-26.8,-12.0,-2.26, My phone number ends in 2970.
+m3n75,normal,,train,1,takes/m3n75_r1.wav,"The vegetables were fresh, the fish was fried, and the rice was perfect.",10.61,2.1,-1.37,2.76,-28.0,-9.7,-2.5," The vegetables were fresh, the fish was fried, and the rice was perfect."
+m3n75,normal,,train,2,takes/m3n75_r2.wav,"The vegetables were fresh, the fish was fried, and the rice was perfect.",10.84,2.21,-0.82,2.85,-28.7,-8.0,-3.5," The vegetables were fresh, the fish was fried, and the rice was perfect."
+m3b01,bright,,train,1,takes/m3b01_r1.wav,"I got it! I'm shift leader now, and I start on Monday!",10.7,9.13,-4.83,2.45,-23.3,-3.5,0.0, I got it. I'm shift leader now. And I start on Monday.
+m3b01,bright,,train,2,takes/m3b01_r2.wav,"I got it! I'm shift leader now, and I start on Monday!",10.75,6.13,-1.39,2.95,-25.9,-6.9,-0.0," I got it. I'm shift leader now, and I start on Monday."
+m3b02,bright,,train,1,takes/m3b02_r1.wav,"Paati's home! She called me, and she sounds so strong again!",12.32,7.82,-7.75,2.77,-26.7,-7.6,2.26, Potty's home. She called me and she sounds so strong again.
+m3b02,bright,,train,2,takes/m3b02_r2.wav,"Paati's home! She called me, and she sounds so strong again!",12.13,7.69,-7.85,2.69,-24.8,-9.2,1.86, Patti's home. She called me and she sounds so strong again.
+m3b02,bright,,train,3,takes/m3b02_r3.wav,"Paati's home! She called me, and she sounds so strong again!",11.78,7.12,-6.46,2.35,-25.9,-10.0,0.74, Patti's home. She called me and she sounds so strong again.
+m3b03,bright,,train,1,takes/m3b03_r1.wav,"She's cooking crab curry again, so I know she's really better!",10.85,7.37,-4.64,2.85,-24.3,-10.8,0.0," She's cooking crab curry again, so... I know she's really better."
+m3b03,bright,,train,2,takes/m3b03_r2.wav,"She's cooking crab curry again, so I know she's really better!",11.41,6.5,-5.78,2.76,-28.6,-11.7,-0.0," She's cooking crab curry again, so I know she's really better."
+m3b04,bright,,train,1,takes/m3b04_r1.wav,"Chennai, Madurai, and maybe the beach too! I can't wait!",12.97,6.43,-5.39,2.2,-23.9,-11.1,1.45," Chennai, Madurai, and maybe the beach too. I can't wait."
+m3b04,bright,,train,2,takes/m3b04_r2.wav,"Chennai, Madurai, and maybe the beach too! I can't wait!",13.3,5.98,0.88,2.13,-25.3,-10.9,1.19," Chennai, Matarai, and maybe the beach too. I can't wait."
+m3b04,bright,,train,3,takes/m3b04_r3.wav,"Chennai, Madurai, and maybe the beach too! I can't wait!",10.81,6.52,-0.52,1.94,-24.2,-7.1,-0.19," Chennai, Matarai, and maybe the beach too. I can't wait."
+m3b05,bright,,train,1,takes/m3b05_r1.wav,"Ella with the whole class? Okay, that's a brilliant idea!",11.75,7.18,-1.8,2.32,-26.3,-10.0,2.53," Ella with the whole class? Okay, that's a brilliant idea."
+m3b05,bright,,train,2,takes/m3b05_r2.wav,"Ella with the whole class? Okay, that's a brilliant idea!",11.56,6.79,-3.97,2.08,-22.3,-13.5,1.75, Ella with the whole class? Okay. That's a brilliant idea.
+m3b05,bright,,train,3,takes/m3b05_r3.wav,"Ella with the whole class? Okay, that's a brilliant idea!",10.9,6.81,-3.86,2.55,-25.4,-9.9,0.36, Ella with the whole class? Okay. That's a brilliant idea.
+m3b06,bright,,train,1,takes/m3b06_r1.wav,He smiled at Sam? Thenuka's first smile? That's so sweet!,13.77,7.62,2.81,2.16,-25.0,-8.8,2.54, He smiled at Sam. Banuka's first smile? That's so sweet.
+m3b06,bright,,train,2,takes/m3b06_r2.wav,He smiled at Sam? Thenuka's first smile? That's so sweet!,12.09,6.5,0.65,2.05,-24.1,-6.8,0.17, He smiled at Sam? Vanupa's first smile? That's so sweet.
+m3b06,bright,,train,3,takes/m3b06_r3.wav,He smiled at Sam? Thenuka's first smile? That's so sweet!,12.78,5.94,2.87,1.96,-27.8,-6.3,0.16, He smiled at Sam. The Nuka's first smile? That's so sweet.
+m3b07,bright,,train,1,takes/m3b07_r1.wav,"Wait, really? That's amazing news!",14.67,8.56,5.79,1.76,-22.5,-16.8,1.81," Wait, really? That's amazing news!"
+m3b07,bright,,train,2,takes/m3b07_r2.wav,"Wait, really? That's amazing news!",10.22,12.53,-0.88,2.09,-24.4,-15.4,0.54," Wait, really? That's amazing news."
+m3b07,bright,,train,3,takes/m3b07_r3.wav,"Wait, really? That's amazing news!",11.09,11.04,-5.01,1.42,-23.4,-14.4,0.46," Wait, really? That's amazing news!"
+m3b08,bright,,train,1,takes/m3b08_r1.wav,"Oh, congratulations! You must be so happy!",14.99,9.99,-10.33,2.36,-26.1,-10.4,3.71," Oh, congratulations! You must be so happy."
+m3b08,bright,,train,2,takes/m3b08_r2.wav,"Oh, congratulations! You must be so happy!",13.27,7.01,-6.25,2.41,-25.5,-11.1,1.1," Oh, congratulations. You must be so happy."
+m3b08,bright,,train,3,takes/m3b08_r3.wav,"Oh, congratulations! You must be so happy!",12.57,5.75,-4.31,2.19,-22.7,-9.7,0.01," Oh, congratulations. You must be so happy."
+m3b09,bright,,train,1,takes/m3b09_r1.wav,You finally did it! I knew you could!,14.8,8.87,-6.12,2.72,-21.1,-14.0,1.04, You finally did it. I knew you could.
+m3b09,bright,,train,2,takes/m3b09_r2.wav,You finally did it! I knew you could!,17.1,6.37,-5.66,2.8,-20.8,-20.6,0.48, You finally did it. I knew you could.
+m3b09,bright,,train,3,takes/m3b09_r3.wav,You finally did it! I knew you could!,14.44,7.97,-6.2,2.86,-19.8,-19.6,-0.34, You finally did it. I knew you could.
+m3b10,bright,,train,1,takes/m3b10_r1.wav,I can't believe it! You actually called him?,14.57,9.52,0.99,2.16,-23.2,-10.9,0.89, I can't believe it. You actually called him?
+m3b10,bright,,train,2,takes/m3b10_r2.wav,I can't believe it! You actually called him?,14.82,7.71,4.59,2.84,-25.4,-9.7,0.2, I can't believe it. You actually called him?
+m3b10,bright,,train,3,takes/m3b10_r3.wav,I can't believe it! You actually called him?,18.75,3.34,3.63,2.91,-25.2,-11.6,-0.06, I can't believe it. You actually called him?
+m3b11,bright,,train,1,takes/m3b11_r1.wav,"Yes! That's exactly right, and you used ""but"" perfectly!",10.61,6.84,3.65,1.77,-26.2,-6.4,0.0," Yes, that's exactly right, and you used but perfectly."
+m3b12,bright,,val,1,takes/m3b12_r1.wav,Much better! I understood every word that time.,14.34,11.16,-3.26,2.37,-25.4,-11.4,3.85, Much better. I understood every word that time.
+m3b12,bright,,val,2,takes/m3b12_r2.wav,Much better! I understood every word that time.,12.48,6.18,-4.58,2.48,-24.5,-9.5,0.32, Much better. I understood every word that time.
+m3b12,bright,,val,3,takes/m3b12_r3.wav,Much better! I understood every word that time.,10.54,6.75,-3.47,2.72,-24.7,-10.7,-0.5, Much better. I understood every word that time.
+m3b13,bright,,train,1,takes/m3b13_r1.wav,"Wow, that was a long answer! Well done!",10.23,5.56,-1.72,2.4,-26.5,-5.9,1.6," Wow, that was a long answer. Well done."
+m3b13,bright,,train,2,takes/m3b13_r2.wav,"Wow, that was a long answer! Well done!",9.76,5.6,-2.2,2.16,-26.9,-6.6,1.06," Wow, that was a long answer. Well done."
+m3b13,bright,,train,3,takes/m3b13_r3.wav,"Wow, that was a long answer! Well done!",10.19,5.14,-2.77,2.57,-26.6,-10.2,0.82," Wow, that was a long answer. Well done."
+m3b14,bright,,train,1,takes/m3b14_r1.wav,The sunset was so pretty tonight! The whole sky was orange!,13.42,8.8,-5.09,2.64,-24.2,-8.0,2.98, The sunset was so pretty tonight. The whole sky was orange.
+m3b14,bright,,train,2,takes/m3b14_r2.wav,The sunset was so pretty tonight! The whole sky was orange!,12.12,8.11,-3.46,2.6,-26.5,-8.3,1.08, The sunset was so pretty tonight. The whole sky was orange.
+m3b14,bright,,train,3,takes/m3b14_r3.wav,The sunset was so pretty tonight! The whole sky was orange!,11.13,7.52,-4.82,2.62,-27.2,-8.9,-0.43, The sunset was so pretty tonight. The whole sky was orange.
+m3b15,bright,,train,1,takes/m3b15_r1.wav,I saved enough for the train ticket! Only the hotel left now!,13.43,7.1,-6.91,2.96,-26.0,-9.3,0.0, I saved enough for the train ticket. Only the hotel left now.
+m3b16,bright,,train,1,takes/m3b16_r1.wav,Look at this photo! The light on the water is perfect!,12.97,12.3,-10.22,2.88,-24.4,-11.3,2.0, Look at this photo. The light on the water is perfect.
+m3b16,bright,,train,2,takes/m3b16_r2.wav,Look at this photo! The light on the water is perfect!,10.45,4.89,-3.37,3.0,-25.8,-10.9,-2.0, Look at this photo. The light on the water is perfect.
+m3b17,bright,,train,1,takes/m3b17_r1.wav,Sri Lanka won by two wickets? Sam must be going crazy!,12.34,7.5,-2.52,3.0,-25.1,-14.9,0.11, Sri Lanka won by two wickets? Sam must be going crazy.
+m3b17,bright,,train,2,takes/m3b17_r2.wav,Sri Lanka won by two wickets? Sam must be going crazy!,10.77,8.58,-0.69,2.58,-24.5,-13.3,0.1, Sri Lanka won by two wickets? Sam must be going crazy.
+m3b17,bright,,train,3,takes/m3b17_r3.wav,Sri Lanka won by two wickets? Sam must be going crazy!,11.5,7.94,-5.95,2.8,-23.5,-11.5,-0.2, Sri Lanka won by two wickets? Sam must be going crazy.
+m3b18,bright,,train,1,takes/m3b18_r1.wav,"Okay, Marvel wasn't bad. Don't tell Sam I said that!",13.08,10.19,-5.86,2.4,-25.4,-9.1,2.59," Okay, Marvel wasn't bad. Don't tell Sam I said that."
+m3b18,bright,,train,2,takes/m3b18_r2.wav,"Okay, Marvel wasn't bad. Don't tell Sam I said that!",12.05,8.93,-4.12,2.58,-25.5,-8.9,0.57," Okay, Marvel wasn't bad. Don't tell Sam I said that."
+m3b18,bright,,train,3,takes/m3b18_r3.wav,"Okay, Marvel wasn't bad. Don't tell Sam I said that!",10.68,8.95,-0.1,2.4,-26.6,-10.0,-0.92," Okay, Marvel wasn't bad. Don't tell Sam I said that."
+m3b19,bright,,train,1,takes/m3b19_r1.wav,Thank you so much! That's really kind of you!,14.25,9.69,-10.26,2.79,-27.3,-12.2,1.8, Thank you so much. That's really kind of you.
+m3b19,bright,,train,2,takes/m3b19_r2.wav,Thank you so much! That's really kind of you!,14.23,9.13,-9.4,2.69,-25.1,-13.0,1.39, Thank you so much. That's really kind of you.
+m3b19,bright,,train,3,takes/m3b19_r3.wav,Thank you so much! That's really kind of you!,14.14,9.1,-5.73,2.53,-27.5,-12.5,1.29, Thank you so much. That's really kind of you.
+m3b20,bright,,train,1,takes/m3b20_r1.wav,"And then, suddenly, the whole café started singing for her birthday!",12.88,4.28,-2.15,2.91,-26.7,-13.5,1.73, And then suddenly the whole cafe started singing for her birthday.
+m3b20,bright,,train,2,takes/m3b20_r2.wav,"And then, suddenly, the whole café started singing for her birthday!",11.88,4.82,-1.28,2.95,-27.7,-12.4,1.0," And then, suddenly, the whole cafe started singing for her birthday."
+m3b20,bright,,train,3,takes/m3b20_r3.wav,"And then, suddenly, the whole café started singing for her birthday!",12.18,4.0,-0.97,2.44,-24.1,-11.6,0.53," And then, suddenly, the whole cafe started singing for her birthday."
+m3b21,bright,,train,1,takes/m3b21_r1.wav,"Thirty-three days of saving, and I've got three thousand rupees!",13.99,6.04,-0.02,2.88,-25.7,-12.3,1.13," 33 days of saving, and I've got 3,000 rupees."
+m3b21,bright,,train,2,takes/m3b21_r2.wav,"Thirty-three days of saving, and I've got three thousand rupees!",12.97,7.34,-4.21,2.83,-23.4,-9.9,0.8, 33 days of saving and I've got 3000 rupees.
+m3b21,bright,,train,3,takes/m3b21_r3.wav,"Thirty-three days of saving, and I've got three thousand rupees!",11.9,8.67,-7.71,2.91,-24.2,-15.0,0.44," 33 days of saving and I've got 3,000 rupees."
+m3b23,bright,G3,val,1,takes/m3b23_r1.wav,It's Sunday again!,16.93,13.32,-8.49,2.01,-22.0,-7.3,3.4, It's Sunday again.
+m3b23,bright,G3,val,2,takes/m3b23_r2.wav,It's Sunday again!,12.2,11.96,-4.08,2.38,-23.3,-11.3,1.01, It's Sunday again.
+m3b23,bright,G3,val,3,takes/m3b23_r3.wav,It's Sunday again!,12.37,9.08,-6.4,2.42,-22.1,-6.4,-0.13, It's Sunday again.
+m3b24,bright,G4,train,1,takes/m3b24_r1.wav,Really?!,22.39,14.65,14.87,1.67,-25.4,-21.8,1.74, Really?
+m3b24,bright,G4,train,2,takes/m3b24_r2.wav,Really?!,21.41,16.56,15.82,1.42,-20.3,-21.6,1.4, Really?
+m3b24,bright,G4,train,3,takes/m3b24_r3.wav,Really?!,18.63,14.35,14.71,1.42,-21.8,-21.6,-0.9, Really?
+m3b25,bright,G5,train,1,takes/m3b25_r1.wav,"Okay, tell me EVERYTHING!",11.92,5.7,-6.22,1.97,-25.0,-9.8,1.32," Okay, tell me everything."
+m3b25,bright,G5,train,2,takes/m3b25_r2.wav,"Okay, tell me EVERYTHING!",12.75,4.41,-3.12,1.86,-22.4,-10.0,0.86," Okay, tell me everything."
+m3b25,bright,G5,train,3,takes/m3b25_r3.wav,"Okay, tell me EVERYTHING!",12.44,4.13,-2.77,1.79,-25.0,-13.3,0.4," Okay, tell me everything."
+m3b27,bright,,train,1,takes/m3b27_r1.wav,Paati walked to the gate by herself today! Arun sent me a video!,12.78,8.72,-2.71,2.57,-26.1,-11.0,2.0, Patti walked to the gate by herself today. Arun sent me a video.
+m3b27,bright,,train,2,takes/m3b27_r2.wav,Paati walked to the gate by herself today! Arun sent me a video!,11.79,6.2,-4.79,2.81,-25.2,-13.4,-2.0, Party walk to the gate by herself today. Arun sent me a video.
+m3b28,bright,,train,1,takes/m3b28_r1.wav,"My first week as shift leader, and nothing went wrong!",12.6,4.49,-4.48,2.97,-27.0,-10.3,0.0, My first week as shift leader and nothing went wrong.
+m3b28,bright,,train,2,takes/m3b28_r2.wav,"My first week as shift leader, and nothing went wrong!",10.63,5.16,-4.03,2.53,-28.1,-8.9,-0.0, My first week as shift leader and nothing went wrong.
+m3b29,bright,,train,1,takes/m3b29_r1.wav,I booked the train to Madurai! It's really happening!,13.91,6.82,-5.01,2.87,-26.4,-9.8,1.94, I booked the train to Matarai. It's really happening.
+m3b29,bright,,train,2,takes/m3b29_r2.wav,I booked the train to Madurai! It's really happening!,13.02,7.01,-6.48,2.78,-24.5,-12.2,1.5, I booked the train to Madurai. It's really happening.
+m3b29,bright,,train,3,takes/m3b29_r3.wav,I booked the train to Madurai! It's really happening!,9.84,7.96,-8.73,2.87,-26.3,-10.8,0.27, I booked the train to Matarai. It's really happening.
+m3b30,bright,,train,1,takes/m3b30_r1.wav,Thenuka's getting so big! Sam showed me a photo!,12.77,8.0,-2.23,2.79,-23.1,-12.9,1.92, The nuka is getting so big. Sam showed me a photo.
+m3b30,bright,,train,2,takes/m3b30_r2.wav,Thenuka's getting so big! Sam showed me a photo!,12.11,8.29,-1.95,2.81,-21.8,-13.7,1.28, The nuke is getting so big. Sam showed me a photo.
+m3b30,bright,,train,3,takes/m3b30_r3.wav,Thenuka's getting so big! Sam showed me a photo!,12.99,4.97,2.2,2.81,-25.3,-12.3,-0.02, The nuke is getting so big. Sam showed me a photo.
+m3b32,bright,,train,1,takes/m3b32_r1.wav,We're going to Ella! The whole class said yes!,15.93,11.29,-8.55,2.99,-20.2,-6.4,2.0, We're going to Ella. The whole class said yes.
+m3b32,bright,,train,2,takes/m3b32_r2.wav,We're going to Ella! The whole class said yes!,13.0,9.68,-1.79,2.89,-25.2,-11.0,-2.0, We're going to Ella. The whole class said yes.
+m3b33,bright,,train,1,takes/m3b33_r1.wav,"Paati made crab curry for the whole street, and everyone loved it!",11.99,6.1,-2.43,2.9,-25.5,-12.9,1.64, Paddy made crab curry for the whole street and everyone loved it.
+m3b33,bright,,train,2,takes/m3b33_r2.wav,"Paati made crab curry for the whole street, and everyone loved it!",12.61,5.57,1.97,2.87,-26.4,-11.4,0.82, Potty made crab curry for the whole street. And everyone loved it.
+m3b33,bright,,train,3,takes/m3b33_r3.wav,"Paati made crab curry for the whole street, and everyone loved it!",10.51,5.25,-3.98,2.98,-25.0,-14.8,-2.46," Patsy made crab curry for the whole street, and everyone loved it."
+m3b35,bright,,train,1,takes/m3b35_r1.wav,Paati's coming to Colombo! She said yes!,14.62,8.84,-0.53,2.1,-26.5,-9.9,1.52, Potty's coming to Columbo. She said yes.
+m3b35,bright,,train,2,takes/m3b35_r2.wav,Paati's coming to Colombo! She said yes!,13.7,9.39,0.22,2.52,-27.1,-8.1,1.15, Patti's coming to Columbo. She said yes.
+m3b35,bright,,train,3,takes/m3b35_r3.wav,Paati's coming to Colombo! She said yes!,15.99,5.42,-2.83,2.36,-24.8,-8.8,0.43, Patty's coming to Columbo. She said yes.
+m3b36,bright,,train,1,takes/m3b36_r1.wav,"Oh, that's lovely! Tell me more!",13.79,8.24,-3.69,1.91,-22.4,-13.0,3.25," Oh, that's lovely. Tell me more."
+m3b36,bright,,train,2,takes/m3b36_r2.wav,"Oh, that's lovely! Tell me more!",10.86,8.15,-4.78,1.81,-25.2,-11.9,0.59," Oh, that's lovely. Tell me more."
+m3b36,bright,,train,3,takes/m3b36_r3.wav,"Oh, that's lovely! Tell me more!",11.56,7.05,-6.91,2.45,-24.1,-14.6,-0.14," Oh, that's lovely. Tell me more."
+m3b37,bright,,val,1,takes/m3b37_r1.wav,"No way, you met him? What was he like?",14.37,10.41,3.71,2.26,-24.1,-14.9,2.0, No way! You met him? What was he like?
+m3b37,bright,,val,2,takes/m3b37_r2.wav,"No way, you met him? What was he like?",13.72,7.93,-3.06,2.48,-27.2,-17.6,-2.0, No way. You met him? What was he like?
+m3b38,bright,,train,1,takes/m3b38_r1.wav,"Wow, you remembered! Thank you!",11.59,7.13,-3.7,1.7,-26.1,-14.2,1.81," Wow, you remembered. Thank you."
+m3b38,bright,,train,2,takes/m3b38_r2.wav,"Wow, you remembered! Thank you!",10.32,7.46,3.41,1.7,-22.9,-10.6,0.99," Wow, you remembered. Thank you."
+m3b38,bright,,train,3,takes/m3b38_r3.wav,"Wow, you remembered! Thank you!",10.87,6.63,0.89,1.92,-24.6,-9.7,0.74," Wow, you remembered. Thank you."
+m3b39,bright,,train,1,takes/m3b39_r1.wav,That's so good to hear! I'm really happy for you!,12.07,7.5,-5.47,2.63,-23.4,-11.4,1.88, That's so good to hear. I'm really happy for you.
+m3b39,bright,,train,2,takes/m3b39_r2.wav,That's so good to hear! I'm really happy for you!,12.97,6.09,-3.5,2.86,-25.4,-9.8,1.07, That's so good to hear. I'm really happy for you.
+m3b39,bright,,train,3,takes/m3b39_r3.wav,That's so good to hear! I'm really happy for you!,10.82,7.32,-5.02,2.53,-26.3,-11.2,0.65, That's so good to hear. I'm really happy for you.
+m3b40,bright,,train,1,takes/m3b40_r1.wav,"Oh, I love that idea!",9.7,5.03,-3.15,2.63,-24.2,-7.5,0.0," Oh, I love that idea."
+m3b41,bright,,train,1,takes/m3b41_r1.wav,Seriously? That's the best news this week!,14.99,17.49,-12.17,2.14,-24.1,-10.1,3.32, Seriously? That's the best news this week.
+m3b41,bright,,train,2,takes/m3b41_r2.wav,Seriously? That's the best news this week!,14.75,9.21,-1.06,2.62,-27.0,-10.5,1.14, Seriously? That's the best news this week.
+m3b41,bright,,train,3,takes/m3b41_r3.wav,Seriously? That's the best news this week!,11.44,12.51,-4.85,2.52,-25.2,-9.1,-0.29, Seriously? That's the best news this week.
+m3b42,bright,,train,1,takes/m3b42_r1.wav,"Oh, how wonderful! When did you find out?",13.98,7.97,-1.41,2.39,-24.0,-12.2,1.44," Oh, how wonderful. When did you find out?"
+m3b42,bright,,train,2,takes/m3b42_r2.wav,"Oh, how wonderful! When did you find out?",12.96,10.47,-8.9,2.82,-23.4,-9.4,1.0," Oh, how wonderful! When did you find out?"
+m3b42,bright,,train,3,takes/m3b42_r3.wav,"Oh, how wonderful! When did you find out?",13.74,7.22,0.87,2.31,-24.5,-12.7,0.65," Oh, how wonderful. When did you find out?"
+m3b43,bright,,train,1,takes/m3b43_r1.wav,Ha! That's so you!,12.4,7.42,-5.11,2.08,-24.3,-3.8,2.0, Ha! That's so you!
+m3b43,bright,,train,2,takes/m3b43_r2.wav,Ha! That's so you!,12.08,4.84,-3.52,1.99,-23.7,-7.8,-2.0, Ha! That's so you!
+m3b44,bright,,train,1,takes/m3b44_r1.wav,You're joking! Both of you?,16.74,11.52,4.87,2.02,-23.7,-11.3,2.05, You're joking. Both of you?
+m3b44,bright,,train,2,takes/m3b44_r2.wav,You're joking! Both of you?,17.1,9.53,4.28,2.39,-24.8,-9.8,0.34, You're joking. Both of you?
+m3b44,bright,,train,3,takes/m3b44_r3.wav,You're joking! Both of you?,11.35,12.34,10.3,2.58,-23.7,-12.3,0.18, You're joking. Both of you?
+m3b45,bright,,train,1,takes/m3b45_r1.wav,That was brilliant! You didn't stop once!,15.24,10.66,7.72,2.23,-23.7,-12.2,2.16, That was brilliant. You didn't stop once.
+m3b45,bright,,train,2,takes/m3b45_r2.wav,That was brilliant! You didn't stop once!,15.92,7.4,1.56,2.47,-22.2,-7.7,0.92, That was brilliant. You didn't stop once.
+m3b45,bright,,train,3,takes/m3b45_r3.wav,That was brilliant! You didn't stop once!,16.5,5.65,2.14,2.5,-23.0,-9.7,0.34, That was brilliant. You didn't stop once.
+m3b46,bright,,train,1,takes/m3b46_r1.wav,"Yes! You used ""then"" and ""after that"" — perfect!",14.72,8.59,-2.14,1.71,-25.1,-5.4,3.54, Yes. You used then and after that? Perfect.
+m3b46,bright,,train,2,takes/m3b46_r2.wav,"Yes! You used ""then"" and ""after that"" — perfect!",14.01,6.77,-4.85,1.77,-22.1,-8.6,0.89," Yes, you used then and after that. Perfect."
+m3b46,bright,,train,3,takes/m3b46_r3.wav,"Yes! You used ""then"" and ""after that"" — perfect!",13.32,5.99,0.18,1.37,-26.7,-8.1,-0.55, Yes! You used then and after that. Perfect!
+m3b47,bright,,train,1,takes/m3b47_r1.wav,"Great question! Okay, let me think…",12.68,5.31,-0.47,1.85,-27.6,-10.5,1.88," Great question. Okay, let me think."
+m3b47,bright,,train,2,takes/m3b47_r2.wav,"Great question! Okay, let me think…",11.76,5.74,-5.68,2.11,-27.5,-11.0,1.48," Great question. Okay, let me think."
+m3b47,bright,,train,3,takes/m3b47_r3.wav,"Great question! Okay, let me think…",10.24,5.43,-1.87,1.78,-28.2,-10.0,-0.37," Great question. Okay, let me think."
+m3b48,bright,,train,1,takes/m3b48_r1.wav,"Oh, nice! That's a much better word!",10.5,7.54,-8.22,2.38,-25.6,-12.3,1.96, Oh nice. That's a much better word.
+m3b48,bright,,train,2,takes/m3b48_r2.wav,"Oh, nice! That's a much better word!",10.96,6.38,-5.12,2.67,-25.9,-9.2,1.82, Oh nice. That's a much better word.
+m3b48,bright,,train,3,takes/m3b48_r3.wav,"Oh, nice! That's a much better word!",8.3,7.11,-5.75,2.62,-27.0,-9.6,-0.3," Oh, nice. That's a much better word."
+m3b49,bright,,train,1,takes/m3b49_r1.wav,Good job! You're getting faster every day!,11.57,7.35,-6.77,2.49,-26.6,-8.3,1.32, Good job. You're getting faster every day.
+m3b49,bright,,train,2,takes/m3b49_r2.wav,Good job! You're getting faster every day!,14.43,5.52,-3.12,2.8,-25.5,-6.5,0.92, Good job. You're getting faster every day.
+m3b49,bright,,train,3,takes/m3b49_r3.wav,Good job! You're getting faster every day!,12.69,5.4,4.49,2.4,-23.3,-8.2,-0.48, Good job. You're getting faster every day.
+m3b50,bright,,train,1,takes/m3b50_r1.wav,Perfect! I understood every single word!,13.53,8.73,-8.34,1.69,-23.3,-10.9,1.85, Perfect. I understood every single word.
+m3b50,bright,,train,2,takes/m3b50_r2.wav,Perfect! I understood every single word!,12.57,8.23,-8.34,1.97,-27.5,-10.3,0.38, Perfect. I understood every single word.
+m3b50,bright,,train,3,takes/m3b50_r3.wav,Perfect! I understood every single word!,12.72,7.35,-6.39,2.02,-24.7,-8.4,-0.2, Perfect. I understood every single word.
+m3b51,bright,,train,1,takes/m3b51_r1.wav,"Yes, that's it! Say it like that every time!",15.13,13.7,-10.33,2.67,-25.3,-5.8,3.32, Yes! That's it! Say it like that every time.
+m3b51,bright,,train,2,takes/m3b51_r2.wav,"Yes, that's it! Say it like that every time!",13.98,7.75,-5.85,2.89,-23.7,-6.1,0.22," Yes, that's it. Say it like that every time."
+m3b51,bright,,train,3,takes/m3b51_r3.wav,"Yes, that's it! Say it like that every time!",13.81,8.21,-5.63,2.59,-22.4,-7.5,0.2," Yes, that's it. Say it like that every time."
+m3b52,bright,,train,1,takes/m3b52_r1.wav,"The café gave everyone free cake today, because it's the owner's birthday!",12.6,9.3,-8.45,2.84,-23.1,-13.1,0.0, The cafe gave everyone free cake today because it's the owner's birthday.
+m3b52,bright,,train,2,takes/m3b52_r2.wav,"The café gave everyone free cake today, because it's the owner's birthday!",12.89,4.85,-3.53,2.95,-25.1,-11.0,-0.0, The cafe gave everyone free cake today because it's the owner's birthday.
+m3b53,bright,,train,1,takes/m3b53_r1.wav,Priya cleaned the whole flat! I don't even know what happened!,15.45,8.59,-4.88,2.82,-26.1,-9.1,0.0, Priya cleaned the whole flat. I don't even know what happened.
+m3b53,bright,,train,2,takes/m3b53_r2.wav,Priya cleaned the whole flat! I don't even know what happened!,16.83,5.81,-5.41,2.66,-25.1,-12.4,-0.0, Priya cleaned the whole flat. I don't even know what happened.
+m3b54,bright,,train,1,takes/m3b54_r1.wav,"The rain stopped, and there's a rainbow over the sea!",11.79,8.47,-4.82,2.86,-24.0,-12.0,0.0, The rain stopped and there's a rainbow over the sea.
+m3b55,bright,,train,1,takes/m3b55_r1.wav,I found my umbrella! It was in my bag the whole time!,14.99,8.35,-3.27,2.84,-21.5,-10.1,0.0, I found my umbrella. It was in my bag the whole time.
+m3b58,bright,,train,1,takes/m3b58_r1.wav,Arun got the top mark in his class! My little brother!,13.05,6.47,-0.74,2.98,-24.9,-12.9,0.0, I wouldn't get the top mark in his class. My little brother.
+m3b59,bright,,train,1,takes/m3b59_r1.wav,Guess what? Priya's getting a dog!,15.67,9.4,-6.44,2.6,-22.8,-9.8,2.96, Guess what? Pre is getting a dog.
+m3b59,bright,,train,2,takes/m3b59_r2.wav,Guess what? Priya's getting a dog!,10.8,8.56,-5.51,2.58,-24.4,-10.1,-0.25, Guess what? Priya's getting a dog.
+m3b59,bright,,train,3,takes/m3b59_r3.wav,Guess what? Priya's getting a dog!,12.17,6.41,-4.71,2.34,-26.6,-10.7,-1.11, Guess what? Priya's getting a dog.
+m3b60,bright,,val,1,takes/m3b60_r1.wav,"The new bakery opened near the station, and the bread is amazing!",9.9,3.42,-2.0,2.56,-24.5,-13.3,0.0, The new bakery opened near the station and the bread is amazing.
+m3b61,bright,,train,1,takes/m3b61_r1.wav,"Finally, a day off! No work, no class, nothing!",12.58,6.99,-1.02,2.06,-23.4,-5.9,2.29," Finally a day off. No work, no class, nothing."
+m3b61,bright,,train,2,takes/m3b61_r2.wav,"Finally, a day off! No work, no class, nothing!",12.7,5.29,-2.5,2.01,-22.3,-11.0,1.05," Finally, a day off. No work, no class, nothing."
+m3b61,bright,,train,3,takes/m3b61_r3.wav,"Finally, a day off! No work, no class, nothing!",10.75,7.15,-5.13,2.14,-23.6,-12.9,0.09," Finally, a day off. No work, no class, nothing."
+m3b63,bright,,train,1,takes/m3b63_r1.wav,There's a new Batman film coming out! I'm going on the first day!,9.93,4.59,-2.53,2.82,-26.8,-13.1,0.0, There's a new Batman film coming out. I'm going on the first day.
+m3b64,bright,,train,1,takes/m3b64_r1.wav,"I finally made Paati's crab curry, and it actually tasted like hers!",14.53,7.56,-3.86,2.74,-27.4,-10.8,2.62, I finally made Patti's crab curry and it actually tasted like hers.
+m3b64,bright,,train,2,takes/m3b64_r2.wav,"I finally made Paati's crab curry, and it actually tasted like hers!",12.39,6.33,2.21,2.72,-27.8,-13.2,-0.39, I finally made Potty's crab curry and it actually tasted like hers.
+m3b64,bright,,train,3,takes/m3b64_r3.wav,"I finally made Paati's crab curry, and it actually tasted like hers!",11.15,5.54,1.99,2.18,-26.0,-11.1,-2.23, I finally made Pachi's crab curry and it actually tasted like hers.
+m3b65,bright,,train,1,takes/m3b65_r1.wav,"Sam's team won the match, and he took the last wicket!",14.77,4.61,-3.56,2.96,-23.5,-10.7,1.18," Sam's team won the match, and he took the last wicket."
+m3b65,bright,,train,2,takes/m3b65_r2.wav,"Sam's team won the match, and he took the last wicket!",12.22,6.89,-4.96,2.71,-25.3,-11.4,0.83, Sam's team won the match and he took the last wicket.
+m3b65,bright,,train,3,takes/m3b65_r3.wav,"Sam's team won the match, and he took the last wicket!",11.66,3.28,-2.05,2.63,-25.5,-10.6,-2.01, Sam's team won the match and he took the last wicket.
+m3b66,bright,,train,1,takes/m3b66_r1.wav,"Look, the hotel in Chennai has a pool!",13.81,7.2,1.19,2.91,-24.9,-11.9,1.57, Look! The hotel in Chennai has a pool.
+m3b66,bright,,train,2,takes/m3b66_r2.wav,"Look, the hotel in Chennai has a pool!",11.79,7.3,-4.6,2.82,-26.3,-14.6,-0.58," Look, the hotel in Chennai has a pool."
+m3b66,bright,,train,3,takes/m3b66_r3.wav,"Look, the hotel in Chennai has a pool!",13.33,6.13,-2.87,2.82,-24.3,-14.1,-1.0," Look, the hotel in Chennai has a pool."
+m3b67,bright,,train,1,takes/m3b67_r1.wav,"Okay, I'll say it: that film was actually really good!",14.29,8.66,2.08,2.45,-27.1,-11.1,3.54," Okay, I'll say it. That film was actually really good."
+m3b67,bright,,train,2,takes/m3b67_r2.wav,"Okay, I'll say it: that film was actually really good!",11.27,7.98,6.22,2.21,-26.3,-10.4,1.02," Okay, I'll say it. That film was actually really good."
+m3b67,bright,,train,3,takes/m3b67_r3.wav,"Okay, I'll say it: that film was actually really good!",10.51,6.91,1.37,2.55,-26.2,-9.3,-0.29," Okay, I'll say it. That film was actually really good."
+m3b68,bright,,train,1,takes/m3b68_r1.wav,I can see the temple from the train window! It's beautiful!,12.62,11.41,-9.07,2.73,-25.3,-12.2,0.04, I can see the temple from the train window. It's beautiful.
+m3b68,bright,,train,2,takes/m3b68_r2.wav,I can see the temple from the train window! It's beautiful!,13.96,8.92,-2.18,2.76,-24.3,-13.3,0.04, I can see the temple from the train window. It's beautiful.
+m3b68,bright,,train,3,takes/m3b68_r3.wav,I can see the temple from the train window! It's beautiful!,13.23,10.15,-7.79,2.73,-23.5,-13.9,-0.08, I can see the temple from the train window. It's beautiful.
+m3b69,bright,,train,1,takes/m3b69_r1.wav,"Yes, of course! I'd love to help!",13.6,7.01,-7.92,1.95,-28.0,-7.6,1.97," Yes, of course. I'd love to help."
+m3b69,bright,,train,2,takes/m3b69_r2.wav,"Yes, of course! I'd love to help!",12.26,7.98,-5.92,2.85,-23.6,-6.6,0.98," Yes, of course. I'd love to help."
+m3b69,bright,,train,3,takes/m3b69_r3.wav,"Yes, of course! I'd love to help!",10.81,9.56,-9.41,2.93,-25.6,-8.0,0.22," Yes, of course. I'd love to help."
+m3b70,bright,,train,1,takes/m3b70_r1.wav,Thank you! You really didn't have to do that!,14.21,9.86,-0.89,2.83,-22.8,-16.1,2.0, Thank you. You really didn't have to do that.
+m3b70,bright,,train,2,takes/m3b70_r2.wav,Thank you! You really didn't have to do that!,10.04,7.37,-3.9,2.59,-25.0,-17.5,-2.0, Thank you. You really didn't have to do that.
+m3b71,bright,,train,1,takes/m3b71_r1.wav,"Then, just as we reached the top, the clouds opened, and we saw everything!",12.03,6.65,-4.79,2.72,-24.3,-7.8,3.07," Then, just as we reached the top, the clouds opened and we saw everything."
+m3b71,bright,,train,2,takes/m3b71_r2.wav,"Then, just as we reached the top, the clouds opened, and we saw everything!",11.64,4.64,-4.11,2.43,-25.6,-9.3,0.64," Then, just as we reached the top, the clouds opened, and we saw everything."
+m3b71,bright,,train,3,takes/m3b71_r3.wav,"Then, just as we reached the top, the clouds opened, and we saw everything!",10.52,5.61,2.15,2.73,-25.2,-9.6,-0.18," Then, just as we reached the top, the clouds opened, and we saw everything."
+m3b72,bright,,train,1,takes/m3b72_r1.wav,"So first I was late, but then the manager said, ""Don't worry, you're the best!""",11.28,7.49,-5.07,2.93,-27.6,-11.7,2.81," So first I was late, but then the manager said, don't worry, you're the best."
+m3b72,bright,,train,2,takes/m3b72_r2.wav,"So first I was late, but then the manager said, ""Don't worry, you're the best!""",10.68,6.76,-3.21,2.63,-23.2,-10.9,0.48," So first I was late, but then the manager said, don't worry, you're the best."
+m3b72,bright,,train,3,takes/m3b72_r3.wav,"So first I was late, but then the manager said, ""Don't worry, you're the best!""",10.71,5.39,1.1,2.38,-24.1,-11.9,-0.79," So, first I was late, but then the manager said, don't worry, you're the best."
+m3b74,bright,,train,1,takes/m3b74_r1.wav,Twenty-two thousand rupees! That's exactly what I needed for the trip!,11.82,10.47,-9.96,2.96,-24.0,-10.8,0.61," 22,000 rupees. That's exactly what I needed for the trip."
+m3b74,bright,,train,2,takes/m3b74_r2.wav,Twenty-two thousand rupees! That's exactly what I needed for the trip!,16.17,5.38,-5.3,2.93,-23.9,-8.7,0.27," 22,000 rupees. That's exactly what I needed for the trip."
+m3b74,bright,,train,3,takes/m3b74_r3.wav,Twenty-two thousand rupees! That's exactly what I needed for the trip!,11.7,7.48,-5.8,2.77,-24.2,-9.2,-0.88," 22,000 rupees. That's exactly what I needed for the trip."
+m3b75,bright,,train,1,takes/m3b75_r1.wav,"Three trains, two buses, and finally, there it was — the sea!",14.57,5.56,-2.35,1.73,-23.6,-10.7,1.75," Three trains, two buses, and finally, there it was, the sea."
+m3b75,bright,,train,2,takes/m3b75_r2.wav,"Three trains, two buses, and finally, there it was — the sea!",12.24,6.73,-0.59,1.89,-25.7,-6.8,1.71," Three trains, two buses, and finally, there it was, the sea."
+m3b75,bright,,train,3,takes/m3b75_r3.wav,"Three trains, two buses, and finally, there it was — the sea!",12.97,5.55,2.38,2.0,-25.8,-8.9,0.72," Three trains, two buses, and finally, there it was! The sea!"
+m3l12,normal,,train,1,takes/m3l12_r1.wav,"That's okay. It's a hard sentence… let's try it again, slowly.",10.86,6.24,-1.33,2.14,-29.2,-9.0,-1.33, That's okay. It's a hard sentence. Let's try it again. Slowly.
+m3l12,normal,,train,2,takes/m3l12_r2.wav,"That's okay. It's a hard sentence… let's try it again, slowly.",10.08,4.99,-0.28,2.25,-29.3,-10.1,-1.58," That's okay. It's a hard sentence. Let's try it again, slowly."
+m3l12,normal,,train,3,takes/m3l12_r3.wav,"That's okay. It's a hard sentence… let's try it again, slowly.",10.26,3.6,-0.6,2.14,-29.4,-10.3,-1.93," That's okay. It's a hard sentence. Let's try it again, slowly."
+m3l13,normal,,train,1,takes/m3l13_r1.wav,Don't worry about mistakes. Everyone makes them.,10.06,4.66,-3.77,2.4,-28.3,-11.2,-1.09, Don't worry about mistakes. Everyone makes them.
+m3l13,normal,,train,2,takes/m3l13_r2.wav,Don't worry about mistakes. Everyone makes them.,10.62,5.24,-5.2,2.83,-26.6,-11.0,-2.27, Don't worry about mistakes. Everyone makes them.
+m3l13,normal,,train,3,takes/m3l13_r3.wav,Don't worry about mistakes. Everyone makes them.,10.26,3.3,-1.83,2.2,-28.9,-11.6,-2.31, Don't worry about mistakes. Everyone makes them.
+m3l47,normal,,train,1,takes/m3l47_r1.wav,Slowly… one word at a time.,11.5,2.92,-1.92,2.18,-28.8,-13.0,-0.82," Slowly, one word at a time."
+m3l47,normal,,train,2,takes/m3l47_r2.wav,Slowly… one word at a time.,9.9,3.34,-1.34,2.45,-27.0,-13.2,-2.27," Slowly, one word at a time."
+m3l47,normal,,train,3,takes/m3l47_r3.wav,Slowly… one word at a time.,11.58,4.59,-4.67,1.93,-29.5,-13.4,-2.42," Slowly, one word at a time."
+m3l48,normal,,train,1,takes/m3l48_r1.wav,"Hmm… no, not quite. But that's okay, let's look at it together.",10.19,6.2,0.75,1.67,-29.6,-13.1,0.47," No, not quite. But that's okay. Let's look at it together."
+m3l48,normal,,train,2,takes/m3l48_r2.wav,"Hmm… no, not quite. But that's okay, let's look at it together.",10.67,6.32,0.68,2.2,-31.2,-13.0,-1.31, Hmm. No. Not quite. But that's okay. Let's look at it together.
+m3l48,normal,,train,3,takes/m3l48_r3.wav,"Hmm… no, not quite. But that's okay, let's look at it together.",9.68,5.83,0.05,2.06,-28.3,-12.9,-1.93," Hmm. No, not quite. But that's okay. Let's look at it together."
+m3t09,bright,,train,1,takes/m3t09_r1.wav,Batman doesn't need a flying suit. He's just smart. Stop laughing.,11.46,5.98,-1.66,2.44,-29.0,-9.0,1.03, Batman doesn't need a flying suit. He's just smart. Stop laughing.
+m3t09,bright,,train,2,takes/m3t09_r2.wav,Batman doesn't need a flying suit. He's just smart. Stop laughing.,9.47,12.22,-9.32,2.58,-27.0,-6.1,0.26, Batman doesn't need a flying suit. He's just smart. Stop laughing.
+m3t09,bright,,train,3,takes/m3t09_r3.wav,Batman doesn't need a flying suit. He's just smart. Stop laughing.,10.19,8.62,-7.88,2.34,-26.7,-7.5,0.03, Batman doesn't need a flying suit. He's just smart. Stop laughing.
+m3t73,normal,,train,1,takes/m3t73_r1.wav,"Then, in the middle of everything, the lights went out.",13.42,9.38,-7.12,2.89,-26.4,-16.6,0.0," Then, in the middle of everything, the lights went out."
+m3xn01,normal,,train,1,takes/m3xn01_r1.wav,"Good morning, everyone!",10.63,7.5,-6.45,2.01,-20.9,-15.9,-0.86," Good morning, everyone."
+m3xn01,normal,,train,2,takes/m3xn01_r2.wav,"Good morning, everyone!",11.9,5.08,-0.68,2.34,-22.3,-17.0,-1.25," Good morning, everyone."
+m3xn01,normal,,train,3,takes/m3xn01_r3.wav,"Good morning, everyone!",10.52,4.96,-4.53,2.31,-21.4,-18.4,-1.32," Good morning, everyone."
+m3xn02,normal,,train,1,takes/m3xn02_r1.wav,Nice!,13.43,3.93,-3.46,1.2,-23.0,-12.2,-1.53, Nice!
+m3xn02,normal,,train,2,takes/m3xn02_r2.wav,Nice!,11.21,2.96,-1.98,1.14,-24.6,-8.9,-1.55, Nice!
+m3xn02,normal,,train,3,takes/m3xn02_r3.wav,Nice!,10.68,3.19,-2.56,1.17,-27.7,-9.1,-2.94, Nice.
+m3xn03,normal,,val,1,takes/m3xn03_r1.wav,"Here you go, one tea with milk!",11.54,4.59,-1.18,2.93,-24.3,-13.7,-1.2, Here you go. One tea with milk.
+m3xn03,normal,,val,2,takes/m3xn03_r2.wav,"Here you go, one tea with milk!",11.61,4.12,-0.86,2.78,-25.4,-15.9,-1.57, Here you go. One tea with milk.
+m3xn03,normal,,val,3,takes/m3xn03_r3.wav,"Here you go, one tea with milk!",12.18,5.51,2.66,2.93,-22.4,-9.7,-2.59, Here you go. One tea with milk.
+m3xn04,normal,,train,1,takes/m3xn04_r1.wav,That's it for today!,11.18,2.36,1.27,2.26,-29.5,-9.4,0.0, That's it for today.
+m3xn05,normal,,train,1,takes/m3xn05_r1.wav,"Okay, everyone, listen up!",12.55,4.89,0.52,1.72,-25.1,-12.2,-0.69," Okay, everyone, listen up."
+m3xn05,normal,,train,2,takes/m3xn05_r2.wav,"Okay, everyone, listen up!",11.98,3.62,-0.91,1.86,-24.9,-13.0,-0.72," Okay, everyone. Listen up."
+m3xn05,normal,,train,3,takes/m3xn05_r3.wav,"Okay, everyone, listen up!",12.78,3.34,-1.4,1.51,-25.4,-10.4,-1.2," Okay, everyone. Listen up."
+m3xn06,normal,,train,1,takes/m3xn06_r1.wav,Your turn!,12.75,2.68,1.01,2.68,-26.3,-12.3,-1.32, Your turn.
+m3xn06,normal,,train,2,takes/m3xn06_r2.wav,Your turn!,11.93,3.07,1.05,2.23,-27.7,-9.9,-2.43, Your turn.
+m3xn06,normal,,train,3,takes/m3xn06_r3.wav,Your turn!,12.66,3.38,2.37,2.47,-25.6,-10.7,-2.72, Your turn.
+m3xn07,normal,,train,1,takes/m3xn07_r1.wav,Don't forget your umbrella!,11.32,5.57,-5.51,2.8,-26.3,-13.7,-0.28, Don't forget your umbrella.
+m3xn07,normal,,train,2,takes/m3xn07_r2.wav,Don't forget your umbrella!,15.87,7.73,-5.05,2.88,-25.8,-15.0,-3.49, Don't forget your umbrella.
+m3xn07,normal,,train,3,takes/m3xn07_r3.wav,Don't forget your umbrella!,8.22,4.34,-3.85,2.98,-28.7,-11.2,-4.25, Don't forget your umbrella.
+m3xn08,normal,,train,1,takes/m3xn08_r1.wav,Lunch is ready!,15.26,4.03,2.64,2.65,-27.2,-9.6,-1.45, Lunch is ready.
+m3xn08,normal,,train,2,takes/m3xn08_r2.wav,Lunch is ready!,11.43,3.93,-2.74,3.35,-26.0,-11.9,-2.1, Lunch is ready.
+m3xn08,normal,,train,3,takes/m3xn08_r3.wav,Lunch is ready!,11.9,3.51,-0.85,3.52,-25.0,-7.4,-2.34, Lunch is ready.
+m3xn09,normal,,val,1,takes/m3xn09_r1.wav,Let me think… maybe Thursday.,12.75,4.58,-3.86,1.69,-28.3,-19.2,-1.09, Let me think. Maybe Thursday.
+m3xn09,normal,,val,2,takes/m3xn09_r2.wav,Let me think… maybe Thursday.,11.98,5.55,-4.09,1.52,-25.0,-15.9,-1.35, Let me think. Maybe Thursday.
+m3xn09,normal,,val,3,takes/m3xn09_r3.wav,Let me think… maybe Thursday.,13.13,5.87,-3.9,2.0,-28.3,-15.8,-2.14, Let me think. Maybe Thursday.
+m3xn10,normal,,train,1,takes/m3xn10_r1.wav,So… what are we doing tonight?,9.3,8.37,-2.25,2.51,-27.2,-15.0,-2.5, So... what are we doing tonight?
+m3xn10,normal,,train,2,takes/m3xn10_r2.wav,So… what are we doing tonight?,10.29,9.53,-1.5,2.84,-28.6,-12.3,-3.5," So, what are we doing tonight?"
+m3xn11,normal,,train,1,takes/m3xn11_r1.wav,Well… it depends on the weather.,11.36,5.52,-3.76,2.11,-26.8,-15.4,-0.71," Well, it depends on the weather."
+m3xn11,normal,,train,2,takes/m3xn11_r2.wav,Well… it depends on the weather.,9.72,5.26,-1.08,2.84,-26.7,-15.1,-3.01," Well, it depends on the weather."
+m3xn11,normal,,train,3,takes/m3xn11_r3.wav,Well… it depends on the weather.,14.93,5.76,-2.67,2.93,-25.1,-15.3,-3.03," Well, it depends on the weather."
+m3xn13,normal,,train,1,takes/m3xn13_r1.wav,Hmm… I'd say the second one.,10.67,8.23,-3.74,2.07,-32.1,-10.1,-2.03, I'd say the second one.
+m3xn13,normal,,train,2,takes/m3xn13_r2.wav,Hmm… I'd say the second one.,14.4,7.82,-4.61,1.76,-28.2,-11.1,-2.26, I'd say the second one.
+m3xn13,normal,,train,3,takes/m3xn13_r3.wav,Hmm… I'd say the second one.,9.68,4.76,-1.9,2.51,-29.1,-10.6,-2.37, I'd say the second one.
+m3xn14,normal,,train,1,takes/m3xn14_r1.wav,First the tea… then the cake.,9.13,2.83,-2.75,2.6,-27.7,-12.6,-0.47," First the tea, then the cake."
+m3xn14,normal,,train,2,takes/m3xn14_r2.wav,First the tea… then the cake.,9.78,1.9,-1.84,2.93,-26.0,-12.4,-3.37," First the tea, then the cake."
+m3xn14,normal,,train,3,takes/m3xn14_r3.wav,First the tea… then the cake.,11.49,3.58,-2.13,2.84,-29.2,-10.7,-3.92," First the tea, then the cake."
+m3xn15,normal,,train,1,takes/m3xn15_r1.wav,One more thing… bring your notes tomorrow.,11.44,6.63,-4.63,2.33,-25.0,-17.5,-1.56, One more thing. Bring your notes tomorrow.
+m3xn15,normal,,train,2,takes/m3xn15_r2.wav,One more thing… bring your notes tomorrow.,10.77,5.82,-3.27,2.67,-26.1,-15.1,-1.75, One more thing. Bring your notes tomorrow.
+m3xn15,normal,,train,3,takes/m3xn15_r3.wav,One more thing… bring your notes tomorrow.,11.88,6.54,-5.87,2.58,-25.7,-16.6,-2.62, One more thing. Bring your notes tomorrow.
+m3xb01,bright,,val,1,takes/m3xb01_r1.wav,Wait… is that a cake?,13.92,5.46,6.04,2.76,-25.9,-15.3,0.4," Wait, is that a cake?"
+m3xb01,bright,,val,2,takes/m3xb01_r2.wav,Wait… is that a cake?,19.91,2.69,-2.02,2.76,-26.3,-14.6,0.11," Wait, is that a cake?"
+m3xb01,bright,,val,3,takes/m3xb01_r3.wav,Wait… is that a cake?,14.0,4.38,-3.33,2.89,-28.3,-12.8,-0.51," Wait, is that a cake?"
+m3xb02,bright,,train,1,takes/m3xb02_r1.wav,And the winner is… you!,16.48,6.99,-1.78,2.23,-22.0,-16.7,3.06, And the winner is... you!
+m3xb02,bright,,train,2,takes/m3xb02_r2.wav,And the winner is… you!,11.41,7.09,6.01,2.15,-22.3,-14.6,0.76, And the winner is... you!
+m3xb02,bright,,train,3,takes/m3xb02_r3.wav,And the winner is… you!,10.51,6.79,-5.07,2.23,-25.2,-18.9,0.1, And the winner is... you.
+m3xb03,bright,,train,1,takes/m3xb03_r1.wav,Guess what… I got the tickets!,16.35,5.69,-11.29,2.68,-26.9,-5.3,3.0, Guess what? I got the tickets.
+m3xb03,bright,,train,2,takes/m3xb03_r2.wav,Guess what… I got the tickets!,14.91,3.91,4.04,2.68,-24.8,-8.4,0.87, Guess what? I got the tickets.
+m3xb03,bright,,train,3,takes/m3xb03_r3.wav,Guess what… I got the tickets!,10.74,4.56,-2.83,2.47,-28.9,-3.8,-0.58, Guess what? I got the tickets.
+m3xb04,bright,,train,1,takes/m3xb04_r1.wav,Oh… look at all the lights!,13.73,10.31,-5.98,2.38,-22.2,-12.5,1.64, Oh! Look at all the lights!
+m3xb04,bright,,train,2,takes/m3xb04_r2.wav,Oh… look at all the lights!,18.19,4.62,-2.34,2.99,-27.5,-10.7,0.46, Oh! Look at all the lights!
+m3xb04,bright,,train,3,takes/m3xb04_r3.wav,Oh… look at all the lights!,12.55,6.45,-4.29,2.84,-22.2,-11.9,-0.63," Oh, look at all the lights."
+m3xb05,bright,,train,1,takes/m3xb05_r1.wav,So… I have some good news!,12.45,11.82,-8.51,2.7,-21.1,-5.5,1.68," So, I have some good news."
+m3xb05,bright,,train,2,takes/m3xb05_r2.wav,So… I have some good news!,13.61,5.32,-1.59,2.65,-22.0,-9.8,0.24," So, I have some good news."
+m3xb05,bright,,train,3,takes/m3xb05_r3.wav,So… I have some good news!,14.69,3.26,3.33,2.32,-24.8,-11.2,0.21," So, I have some good news."
+m3xb06,bright,,train,1,takes/m3xb06_r1.wav,Look… the sun's coming out!,13.18,9.26,-9.95,2.66,-24.7,-11.1,1.94, Look! The sun's coming out.
+m3xb06,bright,,train,2,takes/m3xb06_r2.wav,Look… the sun's coming out!,12.72,9.74,-8.43,2.6,-25.4,-7.3,1.65," Look, the sun's coming out."
+m3xb06,bright,,train,3,takes/m3xb06_r3.wav,Look… the sun's coming out!,12.1,8.87,-8.69,2.44,-25.7,-6.6,-0.19, Look! The sun's coming out.
+m3xb07,bright,,train,1,takes/m3xb07_r1.wav,"Close your eyes… okay, now open them!",11.9,11.38,-11.36,1.89,-25.6,-7.9,3.37, Close your eyes. Okay. Now open them.
+m3xb07,bright,,train,2,takes/m3xb07_r2.wav,"Close your eyes… okay, now open them!",10.84,5.2,-4.64,2.16,-29.1,-8.8,0.18," Close your eyes. Okay, now open them."
+m3xb07,bright,,train,3,takes/m3xb07_r3.wav,"Close your eyes… okay, now open them!",10.54,6.26,-6.05,1.99,-27.7,-8.8,0.15," Close your eyes. Okay, now open them."
+m3xn16,normal,,train,1,takes/m3xn16_r1.wav,"I was going to call — sorry, I forgot.",9.25,6.11,-5.48,2.13,-27.8,-8.8,-2.04, I was gonna call. Sorry. I forgot.
+m3xn16,normal,,train,2,takes/m3xn16_r2.wav,"I was going to call — sorry, I forgot.",9.56,5.14,-4.74,2.78,-31.1,-11.7,-2.21," I was gonna call. Sorry, I forgot."
+m3xn16,normal,,train,3,takes/m3xn16_r3.wav,"I was going to call — sorry, I forgot.",10.09,2.84,-2.79,2.84,-30.3,-8.0,-3.23," I was gonna call. Sorry, I forgot."
+m3xn17,normal,,train,1,takes/m3xn17_r1.wav,Take the bus — it's faster than walking.,10.21,5.0,-3.87,2.83,-27.6,-9.5,-1.85, Take the bus. It's faster than walking.
+m3xn17,normal,,train,2,takes/m3xn17_r2.wav,Take the bus — it's faster than walking.,8.88,5.38,-5.39,2.8,-27.5,-8.8,-1.9, Take the bus. It's faster than walking.
+m3xn17,normal,,train,3,takes/m3xn17_r3.wav,Take the bus — it's faster than walking.,12.29,5.53,-3.1,2.88,-27.9,-6.5,-4.36, Take the bus. It's faster than walking.
+m3xn18,normal,,train,1,takes/m3xn18_r1.wav,There's one rule — always say thank you.,10.79,3.35,-1.67,1.83,-28.2,-11.1,-0.69, There's one rule. Always say thank you.
+m3xn18,normal,,train,2,takes/m3xn18_r2.wav,There's one rule — always say thank you.,9.86,3.38,-0.7,1.78,-27.2,-8.7,-1.88," There's one rule, always say thank you."
+m3xn18,normal,,train,3,takes/m3xn18_r3.wav,There's one rule — always say thank you.,10.32,3.46,-3.1,2.73,-28.2,-13.6,-2.1," There's one rule, always say thank you."
+m3xn19,normal,,train,1,takes/m3xn19_r1.wav,"We need three things — milk, bread and eggs.",11.65,4.85,-4.53,2.23,-27.5,-15.0,-0.55," We need three things. Milk, bread, and eggs."
+m3xn19,normal,,train,2,takes/m3xn19_r2.wav,"We need three things — milk, bread and eggs.",12.22,4.46,-3.6,2.14,-27.8,-13.8,-1.98," We need three things. Milk, bread, and eggs."
+m3xn19,normal,,train,3,takes/m3xn19_r3.wav,"We need three things — milk, bread and eggs.",11.39,4.55,-3.91,2.62,-26.2,-12.7,-2.21," We need three things. Milk, bread, and eggs."
+m3xn20,normal,,train,1,takes/m3xn20_r1.wav,My cousin — the one in Wellawatte — is coming over.,10.01,4.17,-0.29,2.6,-27.5,-10.7,-0.63," My cousin, the one in Willowate, is coming over."
+m3xn20,normal,,train,2,takes/m3xn20_r2.wav,My cousin — the one in Wellawatte — is coming over.,10.9,3.84,-2.77,2.76,-28.9,-11.8,-1.94," My cousin, the one in Willawate, is coming over."
+m3xn20,normal,,train,3,takes/m3xn20_r3.wav,My cousin — the one in Wellawatte — is coming over.,9.86,4.34,-2.25,2.87,-27.4,-11.7,-2.14," My cousin, the one in Molawate, is coming over."
+m3xn21,normal,,train,1,takes/m3xn21_r1.wav,"Turn left at the shop — no, the second shop.",10.96,5.12,-4.83,2.26,-28.5,-9.1,-1.31, Turn left at the shop. No. The second shop.
+m3xn21,normal,,train,2,takes/m3xn21_r2.wav,"Turn left at the shop — no, the second shop.",10.63,6.3,-4.43,2.89,-27.5,-11.3,-1.68," Turn left at the shop. No, the second shop."
+m3xn21,normal,,train,3,takes/m3xn21_r3.wav,"Turn left at the shop — no, the second shop.",11.35,6.54,-4.89,2.74,-27.8,-8.3,-2.95," Turn left at the shop. No, the second shop."
+m3xn22,normal,,val,1,takes/m3xn22_r1.wav,The answer is simple — practise every day.,11.12,4.97,-5.19,2.5,-28.7,-9.2,-0.71, The answer is simple. Practice every day.
+m3xn22,normal,,val,2,takes/m3xn22_r2.wav,The answer is simple — practise every day.,10.9,5.36,-4.58,2.71,-29.0,-8.6,-0.97, The answer is simple. Practice every day.
+m3xn22,normal,,val,3,takes/m3xn22_r3.wav,The answer is simple — practise every day.,10.23,4.92,-4.77,2.76,-28.7,-11.2,-1.52, The answer is simple. Practice every day.
+m3xn23,normal,,train,1,takes/m3xn23_r1.wav,I'll be there at six — maybe a bit later.,12.14,7.15,-7.38,2.91,-25.8,-8.5,0.0, I'll be there at 6. Maybe a bit later.
+m3xn24,normal,,train,1,takes/m3xn24_r1.wav,Wait — which page are we on?,10.97,5.3,-3.29,2.78,-26.8,-16.8,-2.13," Wait, which page are we on?"
+m3xn24,normal,,train,2,takes/m3xn24_r2.wav,Wait — which page are we on?,9.68,6.34,-0.71,2.58,-27.1,-15.1,-2.65," Wait, which page are we on?"
+m3xn24,normal,,train,3,takes/m3xn24_r3.wav,Wait — which page are we on?,11.4,9.37,-6.97,2.58,-26.5,-14.1,-3.2," Wait, which page are we on?"
+m3xn25,normal,,train,1,takes/m3xn25_r1.wav,It's not far — about ten minutes on foot.,11.18,7.08,-7.25,2.5,-26.9,-11.0,-1.32, It's not far. About 10 minutes on foot.
+m3xn25,normal,,train,2,takes/m3xn25_r2.wav,It's not far — about ten minutes on foot.,12.67,6.79,-6.37,2.7,-24.8,-8.0,-2.8, It's not far. About ten minutes on foot.
+m3xn25,normal,,train,3,takes/m3xn25_r3.wav,It's not far — about ten minutes on foot.,10.64,6.4,-6.95,2.76,-28.3,-9.5,-3.24, It's not far. About 10 minutes on foot.
+m3xb08,bright,,train,1,takes/m3xb08_r1.wav,We won — we actually won!,14.78,7.91,-7.39,2.06,-23.9,-8.0,3.51, We won. We actually won.
+m3xb08,bright,,train,2,takes/m3xb08_r2.wav,We won — we actually won!,11.04,7.08,-4.39,2.17,-22.6,-5.3,0.72, We won. We actually won.
+m3xb08,bright,,train,3,takes/m3xb08_r3.wav,We won — we actually won!,12.02,5.76,-4.08,2.13,-21.2,-10.5,0.54, We won. We actually won.
+m3xb09,bright,,val,1,takes/m3xb09_r1.wav,Look at this — it's perfect!,19.36,8.01,5.03,2.39,-26.7,-8.8,3.39, Look at this! It's perfect!
+m3xb09,bright,,val,2,takes/m3xb09_r2.wav,Look at this — it's perfect!,13.29,7.31,3.49,2.47,-28.0,-7.2,-0.08, Look at this. It's perfect.
+m3xb09,bright,,val,3,takes/m3xb09_r3.wav,Look at this — it's perfect!,14.92,5.73,-0.02,2.55,-29.0,-10.4,-0.18, Look at this. It's perfect.
+m3xb11,bright,,train,1,takes/m3xb11_r1.wav,She said yes — can you believe it?,16.9,7.54,2.52,2.9,-26.6,-12.1,1.68, She said yes. Can you believe it?
+m3xb11,bright,,train,2,takes/m3xb11_r2.wav,She said yes — can you believe it?,15.91,7.92,2.37,2.6,-26.7,-10.4,1.66, She said yes. Can you believe it?
+m3xb11,bright,,train,3,takes/m3xb11_r3.wav,She said yes — can you believe it?,13.8,8.29,4.42,2.78,-26.6,-10.7,0.85, She said yes. Can you believe it?
+m3xb12,bright,,train,1,takes/m3xb12_r1.wav,The best part — no work tomorrow!,13.95,9.3,-9.3,2.38,-21.3,-10.5,2.29," The best part, no work tomorrow."
+m3xb12,bright,,train,2,takes/m3xb12_r2.wav,The best part — no work tomorrow!,11.75,10.72,-4.51,2.49,-23.8,-10.9,1.33," The best part, no work tomorrow."
+m3xb12,bright,,train,3,takes/m3xb12_r3.wav,The best part — no work tomorrow!,12.71,7.34,-6.96,2.27,-24.0,-11.8,-0.1," The best part, no work tomorrow."
+m3xb13,bright,,train,1,takes/m3xb13_r1.wav,Oh — you're here already!,15.18,11.24,-9.2,2.16,-19.5,-4.2,3.31," Oh, you're here already."
+m3xb13,bright,,train,2,takes/m3xb13_r2.wav,Oh — you're here already!,10.9,10.75,-2.5,2.23,-24.4,-11.4,1.33," Oh, you're here already."
+m3xb13,bright,,train,3,takes/m3xb13_r3.wav,Oh — you're here already!,12.22,4.56,4.03,2.08,-20.7,-6.5,-0.46," Oh, you're here already."
+m3xb14,bright,,train,1,takes/m3xb14_r1.wav,I've got it — the perfect gift for Paati!,10.38,8.48,-0.57,2.95,-28.9,-7.5,0.0, I've got it. The perfect gift for Patsy.
+m3xb14,bright,,train,2,takes/m3xb14_r2.wav,I've got it — the perfect gift for Paati!,12.25,5.07,-3.55,2.64,-27.3,-9.1,-0.0, I've got it. The perfect gift for Patty.
+m3xb15,bright,,train,1,takes/m3xb15_r1.wav,Two weeks — just two weeks until the trip!,16.36,6.69,-4.08,3.0,-24.5,-9.8,1.11, Two weeks. Just two weeks until the trip.
+m3xb15,bright,,train,2,takes/m3xb15_r2.wav,Two weeks — just two weeks until the trip!,14.99,7.68,-5.45,2.31,-25.9,-10.4,0.8, Two weeks. Just two weeks until the trip.
+m3xb15,bright,,train,3,takes/m3xb15_r3.wav,Two weeks — just two weeks until the trip!,17.22,5.12,-1.69,2.74,-22.6,-13.1,0.43, Two weeks. Just two weeks until the trip.
+m3xn27,normal,,train,1,takes/m3xn27_r1.wav,It's Monday already?!,16.0,6.53,5.75,1.78,-25.3,-9.0,-0.47, It's Monday already?
+m3xn27,normal,,train,2,takes/m3xn27_r2.wav,It's Monday already?!,14.14,6.24,5.91,2.42,-25.1,-12.2,-1.08, It's Monday already?
+m3xn27,normal,,train,3,takes/m3xn27_r3.wav,It's Monday already?!,14.66,4.86,2.69,2.2,-25.0,-18.8,-1.44, It's Monday already?
+m3xn28,normal,,train,1,takes/m3xn28_r1.wav,You've never had kottu?!,14.04,7.07,6.63,2.72,-25.0,-15.0,-0.26, You've never had Kaatu?
+m3xn28,normal,,train,2,takes/m3xn28_r2.wav,You've never had kottu?!,14.79,4.64,0.67,2.68,-24.0,-11.3,-2.08, You've never had Katsu?
+m3xn28,normal,,train,3,takes/m3xn28_r3.wav,You've never had kottu?!,17.77,7.61,0.91,2.98,-24.3,-6.5,-3.51, You've never had Katu?
+m3xn30,normal,,train,1,takes/m3xn30_r1.wav,Forty minutes for one bus?!,11.82,4.98,3.18,2.28,-26.6,-11.8,-1.75, 40 minutes for one bus?
+m3xn30,normal,,train,2,takes/m3xn30_r2.wav,Forty minutes for one bus?!,11.89,5.64,2.44,2.66,-23.2,-13.4,-1.82, 40 minutes for one bus?
+m3xn30,normal,,train,3,takes/m3xn30_r3.wav,Forty minutes for one bus?!,14.24,5.31,2.27,2.93,-24.5,-8.1,-1.89, 40 minutes for one bus?
+m3xn32,normal,,train,1,takes/m3xn32_r1.wav,We have a test tomorrow?!,17.79,9.63,9.29,2.79,-25.2,-8.4,0.0, We have a test tomorrow?
+m3xn35,normal,,train,1,takes/m3xn35_r1.wav,He's your brother?!,14.8,9.9,5.09,2.38,-25.3,-13.7,-0.63, He's your brother?
+m3xn35,normal,,train,2,takes/m3xn35_r2.wav,He's your brother?!,12.98,9.9,5.52,2.38,-25.7,-9.7,-0.64, He's your brother?
+m3xn35,normal,,train,3,takes/m3xn35_r3.wav,He's your brother?!,14.33,13.41,8.03,2.87,-24.4,-12.3,-2.81, He's your brother?
+m3xb17,bright,,train,1,takes/m3xb17_r1.wav,Paati's really coming?!,14.01,9.32,6.83,2.1,-24.2,-13.2,1.58, Poxy is really coming?
+m3xb17,bright,,train,2,takes/m3xb17_r2.wav,Paati's really coming?!,12.67,8.38,2.75,1.8,-25.5,-11.7,0.3, Party's really coming?
+m3xb17,bright,,train,3,takes/m3xb17_r3.wav,Paati's really coming?!,17.65,5.6,2.21,1.78,-25.5,-15.2,0.23, Party's really coming?
+m3xb18,bright,,train,1,takes/m3xb18_r1.wav,You bought me flowers?!,14.22,10.05,4.08,2.88,-25.4,-6.8,2.0, You bought me flowers?
+m3xb18,bright,,train,2,takes/m3xb18_r2.wav,You bought me flowers?!,11.75,4.79,3.57,2.21,-25.9,-14.0,-2.0, You bought me flowers?
+m3xb20,bright,,train,1,takes/m3xb20_r1.wav,You finally passed?!,16.78,7.57,2.16,2.31,-24.5,-6.4,2.49, You finally passed?
+m3xb20,bright,,train,2,takes/m3xb20_r2.wav,You finally passed?!,15.79,6.79,2.58,2.65,-23.3,-7.1,1.49, You finally passed?
+m3xb20,bright,,train,3,takes/m3xb20_r3.wav,You finally passed?!,13.19,7.93,8.12,2.27,-22.5,-3.4,0.57, You finally passed?
+m3xb21,bright,,train,1,takes/m3xb21_r1.wav,That's for me?!,18.87,14.46,13.63,3.06,-23.8,-5.6,3.21, That's for me?
+m3xb21,bright,,train,2,takes/m3xb21_r2.wav,That's for me?!,16.09,9.81,11.52,3.61,-21.5,-7.5,0.86, That's for me?
+m3xb21,bright,,train,3,takes/m3xb21_r3.wav,That's for me?!,16.53,5.71,5.23,3.52,-23.8,-2.1,-0.1, That's for me?
+m3xb22,bright,,train,1,takes/m3xb22_r1.wav,You made this yourself?!,16.42,10.49,-9.41,2.93,-20.5,-11.5,2.0, You made this yourself?
+m3xb22,bright,,train,2,takes/m3xb22_r2.wav,You made this yourself?!,15.09,8.81,-0.82,2.98,-24.0,-9.2,-2.0, You made this yourself?
+m3xb23,bright,,train,1,takes/m3xb23_r1.wav,They gave us free tickets?!,12.5,4.19,4.18,2.76,-25.4,-15.3,0.0, They gave us free tickets?
+m3xb24,bright,,train,1,takes/m3xb24_r1.wav,Sam actually cooked?!,18.1,6.99,5.97,2.47,-25.6,-8.5,1.99, Sam actually cooked?
+m3xb24,bright,,train,2,takes/m3xb24_r2.wav,Sam actually cooked?!,18.81,6.47,-5.06,2.7,-25.6,-6.0,1.86, Sam actually cooked?
+m3xb24,bright,,train,3,takes/m3xb24_r3.wav,Sam actually cooked?!,13.79,7.26,-3.42,2.1,-26.1,-7.2,0.23, Sam actually cooked?
+m3xn36,normal,,train,1,takes/m3xn36_r1.wav,"I meant the BLUE bag, not the black one.",8.54,3.42,-2.72,2.99,-29.4,-14.6,0.0," I meant the blue bag, not the black one."
+m3xn39,normal,,train,1,takes/m3xn39_r1.wav,"I'd like the SMALL one, please.",12.93,9.65,-9.14,2.73,-27.7,-11.0,0.0," I'd like the small one, please."
+m3xn41,normal,,train,1,takes/m3xn41_r1.wav,"We meet BEFORE class, not after.",10.28,7.5,-6.96,2.4,-25.8,-12.9,-1.26," We meet before class, not after."
+m3xn41,normal,,train,2,takes/m3xn41_r2.wav,"We meet BEFORE class, not after.",10.43,5.97,-5.58,2.63,-25.7,-11.6,-2.08," We meet before class, not after."
+m3xn41,normal,,train,3,takes/m3xn41_r3.wav,"We meet BEFORE class, not after.",12.05,7.76,-5.62,2.6,-24.5,-15.5,-2.21," We meet before class, not after."
+m3xn42,normal,,train,1,takes/m3xn42_r1.wav,Read the question FIRST.,12.53,4.35,-2.32,2.18,-29.5,-7.2,-0.63, Read the question first.
+m3xn42,normal,,train,2,takes/m3xn42_r2.wav,Read the question FIRST.,10.8,5.58,-6.42,2.72,-28.6,-10.3,-1.37, Read the question first.
+m3xn42,normal,,train,3,takes/m3xn42_r3.wav,Read the question FIRST.,13.19,5.6,-3.67,2.98,-29.1,-9.8,-1.85, Read the question first.
+m3xn43,normal,,train,1,takes/m3xn43_r1.wav,The café opens at SEVEN.,8.75,3.17,-2.71,2.66,-26.3,-10.3,-2.5, The cafe opens at seven.
+m3xn43,normal,,train,2,takes/m3xn43_r2.wav,The café opens at SEVEN.,10.02,3.66,-3.81,2.97,-25.6,-5.8,-3.5, The cafe opens at seven.
+m3xn44,normal,,train,1,takes/m3xn44_r1.wav,Use your OWN words.,10.64,4.37,-4.36,2.6,-25.7,-13.3,-2.36, Use your own words.
+m3xn44,normal,,train,2,takes/m3xn44_r2.wav,Use your OWN words.,11.43,5.7,-5.83,2.72,-26.0,-13.3,-2.51, Use your own words.
+m3xn44,normal,,train,3,takes/m3xn44_r3.wav,Use your OWN words.,11.13,6.67,-6.95,2.72,-24.9,-15.7,-3.1, Use your own words.
+m3xn45,normal,,train,1,takes/m3xn45_r1.wav,This one is MINE.,9.03,4.8,-4.06,2.84,-26.5,-9.7,-1.37, This one is mine.
+m3xn45,normal,,train,2,takes/m3xn45_r2.wav,This one is MINE.,9.4,3.16,-2.57,2.98,-27.1,-12.8,-3.16, This one is mine.
+m3xn45,normal,,train,3,takes/m3xn45_r3.wav,This one is MINE.,9.82,5.42,-5.43,2.98,-26.3,-9.5,-3.49, This one is mine.
+m3xb25,bright,,train,1,takes/m3xb25_r1.wav,That was the BEST day!,12.22,8.31,-8.21,2.55,-25.6,-7.0,2.0, That was the best day.
+m3xb25,bright,,train,2,takes/m3xb25_r2.wav,That was the BEST day!,10.48,6.13,-3.1,2.66,-24.6,-6.3,-2.0, That was the best day.
+m3xb26,bright,,train,1,takes/m3xb26_r1.wav,I LOVE this place!,14.14,9.34,-6.52,2.64,-23.5,-9.6,3.11, I love this place.
+m3xb26,bright,,train,2,takes/m3xb26_r2.wav,I LOVE this place!,14.31,4.73,-4.18,2.72,-25.3,-10.6,0.61, I love this place.
+m3xb26,bright,,train,3,takes/m3xb26_r3.wav,I LOVE this place!,11.75,7.83,-8.14,2.23,-23.1,-9.0,0.23, I love this place.
+m3xb27,bright,,train,1,takes/m3xb27_r1.wav,You were AMAZING today!,12.63,9.41,-9.58,1.66,-22.6,-16.1,1.82, You were amazing today.
+m3xb27,bright,,train,2,takes/m3xb27_r2.wav,You were AMAZING today!,12.6,8.62,-8.08,2.16,-22.7,-17.1,1.36, You were amazing today.
+m3xb27,bright,,train,3,takes/m3xb27_r3.wav,You were AMAZING today!,13.25,5.81,-5.84,2.76,-20.0,-13.2,1.32, You were amazing today.
+m3xb28,bright,,train,1,takes/m3xb28_r1.wav,It's FINALLY Friday!,13.73,9.29,-5.73,2.16,-22.7,-12.5,1.02, It's finally Friday.
+m3xb28,bright,,train,2,takes/m3xb28_r2.wav,It's FINALLY Friday!,13.71,8.58,-6.56,2.01,-25.7,-9.9,0.61, It's finally Friday.
+m3xb28,bright,,train,3,takes/m3xb28_r3.wav,It's FINALLY Friday!,12.76,9.52,-6.22,1.85,-24.4,-13.7,0.58, It's finally Friday.
+m3xb29,bright,,train,1,takes/m3xb29_r1.wav,This is SO good!,13.53,5.6,-2.15,2.93,-19.4,-9.9,1.49, This is so good.
+m3xb29,bright,,train,2,takes/m3xb29_r2.wav,This is SO good!,11.72,9.03,-9.51,2.47,-24.6,-10.5,0.74, This is so good.
+m3xb29,bright,,train,3,takes/m3xb29_r3.wav,This is SO good!,12.26,4.17,-2.82,2.47,-22.3,-10.1,-1.09, This is so good.
+m3xb30,bright,,train,1,takes/m3xb30_r1.wav,We did it TOGETHER!,14.13,3.37,-1.49,2.93,-21.7,-13.2,0.0, We did it together.
+m3xb30,bright,,train,2,takes/m3xb30_r2.wav,We did it TOGETHER!,11.03,4.32,-3.65,2.44,-21.6,-12.1,-0.0, We did it together.
+m3xb31,bright,,train,1,takes/m3xb31_r1.wav,Look how BIG he's grown!,9.87,8.44,-8.44,2.32,-25.8,-14.2,0.0, Look how big he's grown.
+m3xb32,bright,,train,1,takes/m3xb32_r1.wav,I can't WAIT!,12.93,6.55,-2.7,2.6,-25.0,-14.1,2.33, I can't wait.
+m3xb32,bright,,train,2,takes/m3xb32_r2.wav,I can't WAIT!,13.14,4.68,-2.58,3.35,-20.8,-13.3,1.18, I can't wait.
+m3xb32,bright,,train,3,takes/m3xb32_r3.wav,I can't WAIT!,12.19,5.94,-0.7,2.65,-25.9,-13.4,1.09, I can't wait.
+m3xb33,bright,,val,1,takes/m3xb33_r1.wav,That's EXACTLY what I wanted!,12.53,5.32,4.39,2.6,-23.3,-8.6,1.75, That's exactly what I wanted.
+m3xb33,bright,,val,2,takes/m3xb33_r2.wav,That's EXACTLY what I wanted!,10.01,7.77,-7.79,2.76,-21.6,-5.4,1.09, That's exactly what I wanted.
+m3xb33,bright,,val,3,takes/m3xb33_r3.wav,That's EXACTLY what I wanted!,10.54,6.02,-6.07,2.52,-25.6,-5.4,0.27, That's exactly what I wanted.
+m3xn46,normal,G6,train,1,takes/m3xn46_r1.wav,We're moving.,9.54,1.36,-0.58,2.47,-26.7,-21.9,-0.81, We're moving.
+m3xn46,normal,G6,train,2,takes/m3xn46_r2.wav,We're moving.,9.71,1.1,-0.89,2.47,-26.0,-24.7,-1.74, We're moving.
+m3xn46,normal,G6,train,3,takes/m3xn46_r3.wav,We're moving.,9.12,2.01,-1.98,2.08,-28.9,-24.6,-2.41, We're moving.
+m3xb34,bright,G6,train,1,takes/m3xb34_r1.wav,We're moving!,14.55,7.94,-5.2,2.84,-20.6,-22.6,3.33, We're moving.
+m3xb34,bright,G6,train,2,takes/m3xb34_r2.wav,We're moving!,13.78,4.69,-1.14,2.4,-23.1,-21.8,0.68, We're moving.
+m3xb34,bright,G6,train,3,takes/m3xb34_r3.wav,We're moving!,11.7,5.04,-4.16,2.13,-22.1,-18.8,-0.92, We're moving.
+m3xn47,normal,G7,train,1,takes/m3xn47_r1.wav,It's done.,10.16,4.24,-4.05,2.29,-26.6,-13.5,-1.39, It's done.
+m3xn47,normal,G7,train,2,takes/m3xn47_r2.wav,It's done.,9.54,6.93,-6.95,2.29,-27.5,-12.0,-1.52, It's done.
+m3xn47,normal,G7,train,3,takes/m3xn47_r3.wav,It's done.,10.06,2.6,-2.71,2.08,-28.9,-10.3,-2.82, It's done.
+m3xb35,bright,G7,train,1,takes/m3xb35_r1.wav,It's done!,16.86,10.63,-10.19,2.29,-20.0,-8.7,3.12, It's done!
+m3xb35,bright,G7,train,2,takes/m3xb35_r2.wav,It's done!,14.73,9.88,-9.16,2.29,-20.4,-7.7,1.59, It's done!
+m3xb35,bright,G7,train,3,takes/m3xb35_r3.wav,It's done!,11.04,9.32,-9.7,2.29,-20.4,-12.2,-0.64, It's done!
+m3xn48,normal,G8,train,1,takes/m3xn48_r1.wav,You're back.,11.74,3.0,-2.48,2.76,-26.8,-7.4,-1.11, You're back.
+m3xn48,normal,G8,train,2,takes/m3xn48_r2.wav,You're back.,11.57,3.49,-1.11,2.6,-25.5,-7.0,-1.93, You're back.
+m3xn48,normal,G8,train,3,takes/m3xn48_r3.wav,You're back.,10.82,1.42,-1.52,2.76,-25.8,-4.9,-2.33, You're back.
+m3xb36,bright,G8,train,1,takes/m3xb36_r1.wav,You're back!,18.24,7.35,7.22,3.35,-19.8,-1.4,2.86, You're back!
+m3xb36,bright,G8,train,2,takes/m3xb36_r2.wav,You're back!,17.96,5.6,5.87,1.84,-24.9,-6.6,1.87, You're back!
+m3xb36,bright,G8,train,3,takes/m3xb36_r3.wav,You're back!,13.76,4.59,4.18,2.6,-22.9,-6.1,-0.05, You're back.
+m3xn49,normal,G9,val,1,takes/m3xn49_r1.wav,"Tomorrow, then.",8.52,2.28,-2.08,1.59,-27.8,-8.4,-0.96," Tomorrow, then."
+m3xn49,normal,G9,val,2,takes/m3xn49_r2.wav,"Tomorrow, then.",8.53,1.99,-0.89,1.7,-28.7,-6.7,-3.51," Tomorrow, then."
+m3xn49,normal,G9,val,3,takes/m3xn49_r3.wav,"Tomorrow, then.",9.46,4.5,-3.55,1.62,-27.2,-12.9,-3.75," Tomorrow, then."
+m3xb37,bright,G9,val,1,takes/m3xb37_r1.wav,"See you tomorrow, then!",11.84,10.12,-9.43,2.29,-20.9,-10.2,1.34," See you tomorrow, then."
+m3xb37,bright,G9,val,2,takes/m3xb37_r2.wav,"See you tomorrow, then!",12.0,9.49,-4.92,2.02,-21.4,-9.4,1.26," See you tomorrow, then."
+m3xb37,bright,G9,val,3,takes/m3xb37_r3.wav,"See you tomorrow, then!",10.84,9.87,-8.89,1.75,-23.4,-9.5,-1.07, See you tomorrow. Then.
+m3xn50,normal,G10,train,1,takes/m3xn50_r1.wav,No more classes.,10.3,3.02,-1.79,2.76,-27.9,-9.1,-0.42, No more classes.
+m3xn50,normal,G10,train,2,takes/m3xn50_r2.wav,No more classes.,11.09,3.02,-1.73,2.76,-28.5,-7.7,-1.45, No more classes.
+m3xn50,normal,G10,train,3,takes/m3xn50_r3.wav,No more classes.,11.44,2.91,-1.44,3.2,-26.1,-9.9,-3.11, No more classes.
+m3xb38,bright,G10,train,1,takes/m3xb38_r1.wav,No more classes!,14.43,11.81,-7.74,1.98,-23.8,-9.5,2.97, No more classes.
+m3xb38,bright,G10,train,2,takes/m3xb38_r2.wav,No more classes!,14.07,10.32,-6.07,2.34,-25.8,-8.5,2.14, No more classes.
+m3xb38,bright,G10,train,3,takes/m3xb38_r3.wav,No more classes!,13.15,5.35,0.71,2.34,-22.9,-6.8,-0.32, No more classes.
+m3xn51,normal,,train,1,takes/m3xn51_r1.wav,"Welcome back, everyone!",13.61,2.96,-2.33,1.58,-23.1,-12.8,-1.21, Welcome back everyone.
+m3xn51,normal,,train,2,takes/m3xn51_r2.wav,"Welcome back, everyone!",13.05,6.09,1.25,1.93,-23.1,-14.8,-1.74, Welcome back everyone.
+m3xn51,normal,,train,3,takes/m3xn51_r3.wav,"Welcome back, everyone!",12.97,3.8,-1.25,1.98,-25.0,-12.5,-2.04," Welcome back, everyone."
+m3xn52,normal,,train,1,takes/m3xn52_r1.wav,Good luck tomorrow!,10.79,5.02,-2.77,2.7,-23.7,-9.2,-1.19, Good luck tomorrow.
+m3xn52,normal,,train,2,takes/m3xn52_r2.wav,Good luck tomorrow!,12.88,4.03,-0.66,3.12,-23.3,-14.4,-1.47, Good luck tomorrow.
+m3xn52,normal,,train,3,takes/m3xn52_r3.wav,Good luck tomorrow!,12.32,1.42,-0.62,3.2,-23.8,-10.7,-2.92, Good luck tomorrow.
+m3xn53,normal,,train,1,takes/m3xn53_r1.wav,See you on Monday!,16.16,3.19,1.2,2.47,-28.1,-15.7,-2.5, See you on Monday.
+m3xn53,normal,,train,2,takes/m3xn53_r2.wav,See you on Monday!,12.91,2.75,0.16,2.88,-23.4,-18.0,-3.5, See you on Monday.
+m3xn54,normal,,train,1,takes/m3xn54_r1.wav,"Happy birthday, Priya!",14.34,3.8,2.17,2.16,-26.7,-10.4,-0.87," Happy birthday, Priya."
+m3xn54,normal,,train,2,takes/m3xn54_r2.wav,"Happy birthday, Priya!",12.92,5.95,-1.56,2.42,-26.4,-7.3,-1.65," Happy birthday, Priya!"
+m3xn54,normal,,train,3,takes/m3xn54_r3.wav,"Happy birthday, Priya!",15.08,4.42,-0.7,2.1,-23.6,-14.7,-2.53," Happy birthday, Priya."
+m3xn55,normal,,train,1,takes/m3xn55_r1.wav,"Right, let's start!",12.9,4.52,2.46,1.95,-26.4,-6.5,-0.6, Right. Let's start.
+m3xn55,normal,,train,2,takes/m3xn55_r2.wav,"Right, let's start!",12.93,6.14,6.54,1.95,-22.4,-4.9,-1.57, Right. Let's start.
+m3xn55,normal,,train,3,takes/m3xn55_r3.wav,"Right, let's start!",13.88,6.32,0.8,2.07,-23.9,-11.8,-2.0," Right, let's start."
+m3xn56,normal,,train,1,takes/m3xn56_r1.wav,Thanks for coming!,15.12,2.7,0.23,2.93,-26.6,-14.7,-1.02, Thanks for coming.
+m3xn56,normal,,train,2,takes/m3xn56_r2.wav,Thanks for coming!,14.87,3.96,3.84,2.7,-23.2,-12.7,-1.23, Thanks for coming.
+m3xn56,normal,,train,3,takes/m3xn56_r3.wav,Thanks for coming!,13.35,4.01,-3.21,3.12,-25.0,-15.4,-1.77, Thanks for coming.
+m3xn58,normal,,train,1,takes/m3xn58_r1.wav,"Two teas, please!",12.94,5.75,-5.01,2.2,-25.8,-12.3,-2.5," Two teas, please."
+m3xn58,normal,,train,2,takes/m3xn58_r2.wav,"Two teas, please!",11.55,8.36,-8.62,2.31,-24.0,-13.0,-3.5," Two teas, please."
+m3xn59,normal,,train,1,takes/m3xn59_r1.wav,Over here!,12.23,3.48,-1.37,2.34,-26.6,-15.5,-0.84, Over here
+m3xn59,normal,,train,2,takes/m3xn59_r2.wav,Over here!,12.56,4.82,-2.96,2.76,-24.1,-17.7,-1.95," Over here,"
+m3xn59,normal,,train,3,takes/m3xn59_r3.wav,Over here!,12.84,3.56,-2.89,2.84,-24.6,-9.9,-1.97," Over here,"
+m3xn60,normal,,train,1,takes/m3xn60_r1.wav,"Careful, the floor's wet!",10.99,4.56,-1.73,2.23,-27.0,-9.1,-0.54, Careful. The floor is wet.
+m3xn60,normal,,train,2,takes/m3xn60_r2.wav,"Careful, the floor's wet!",10.18,5.67,-4.21,1.88,-26.7,-10.1,-0.73," Careful, the floor is wet."
+m3xn60,normal,,train,3,takes/m3xn60_r3.wav,"Careful, the floor's wet!",9.2,4.46,-3.25,2.18,-27.8,-9.7,-2.22, Careful. The floor is wet.
+m3xn61,normal,,train,1,takes/m3xn61_r1.wav,Last question!,13.14,5.52,2.74,1.7,-29.4,-6.5,-1.32, Last question.
+m3xn61,normal,,train,2,takes/m3xn61_r2.wav,Last question!,12.58,5.56,-1.0,1.91,-30.0,-5.3,-2.16, Last question.
+m3xn61,normal,,train,3,takes/m3xn61_r3.wav,Last question!,10.3,2.08,-1.05,1.91,-26.9,-7.2,-2.62, Last question.
+m3xn63,normal,,train,1,takes/m3xn63_r1.wav,Say it once more!,11.74,5.58,-5.69,2.23,-22.6,-10.8,-1.42, Say it once more.
+m3xn63,normal,,train,2,takes/m3xn63_r2.wav,Say it once more!,14.21,6.24,-6.23,2.68,-23.0,-12.6,-2.28, Say it once more.
+m3xn63,normal,,train,3,takes/m3xn63_r3.wav,Say it once more!,18.92,1.94,0.33,2.76,-20.4,-9.9,-4.56, Say it once more.
+m3xn64,normal,,train,1,takes/m3xn64_r1.wav,That's the one!,11.52,4.26,-1.86,2.65,-26.2,-10.4,-0.52, That's the one.
+m3xn64,normal,,train,2,takes/m3xn64_r2.wav,That's the one!,11.35,5.95,2.86,2.81,-26.4,-8.9,-1.22, That's the one.
+m3xn64,normal,,train,3,takes/m3xn64_r3.wav,That's the one!,10.75,5.18,-4.59,3.06,-24.9,-7.1,-2.46, That's the one.
+m3xn65,normal,,train,1,takes/m3xn65_r1.wav,Enjoy your meal!,13.77,5.31,-4.19,3.43,-21.0,-18.5,-1.8, Enjoy your meal!
+m3xn65,normal,,train,2,takes/m3xn65_r2.wav,Enjoy your meal!,12.98,2.76,1.46,2.76,-24.1,-18.6,-2.04, Enjoy your meal.
+m3xn65,normal,,train,3,takes/m3xn65_r3.wav,Enjoy your meal!,12.74,4.27,-2.73,3.12,-25.0,-13.8,-2.37, Enjoy your meal.
+m3xn67,normal,,train,1,takes/m3xn67_r1.wav,"Morning, Sam!",14.59,2.2,1.27,1.88,-25.6,-10.9,-1.51," Morning, Sam."
+m3xn67,normal,,train,2,takes/m3xn67_r2.wav,"Morning, Sam!",15.49,2.31,-1.73,1.54,-23.9,-9.4,-2.34," Morning, Sam."
+m3xn67,normal,,train,3,takes/m3xn67_r3.wav,"Morning, Sam!",13.74,2.69,2.61,1.67,-27.4,-13.4,-2.68," Morning, Sam."
+m3xn68,normal,,train,1,takes/m3xn68_r1.wav,Okay… page twelve.,9.38,3.29,-0.27,1.34,-29.3,-9.5,-1.32, Okay. Page 12.
+m3xn68,normal,,train,2,takes/m3xn68_r2.wav,Okay… page twelve.,10.64,4.7,-3.54,1.38,-29.9,-11.3,-1.99, Okay. Page 12.
+m3xn68,normal,,train,3,takes/m3xn68_r3.wav,Okay… page twelve.,10.23,7.88,-3.75,1.23,-30.3,-8.3,-2.74, Okay. Page 12.
+m3xn69,normal,,train,1,takes/m3xn69_r1.wav,"I think… yes, that's right.",11.69,3.27,-2.5,1.5,-28.4,-10.3,-0.6," I think... Yes, that's right."
+m3xn69,normal,,train,2,takes/m3xn69_r2.wav,"I think… yes, that's right.",10.72,3.63,-2.53,2.3,-28.4,-7.6,-2.22," I think, yes, that's right."
+m3xn69,normal,,train,3,takes/m3xn69_r3.wav,"I think… yes, that's right.",11.73,3.34,-1.25,2.28,-26.2,-9.2,-2.9," I think, yes, that's right."
+m3xn70,normal,,train,1,takes/m3xn70_r1.wav,"The bus leaves at… seven, I think.",10.03,3.51,-3.29,2.58,-27.7,-8.1,-1.3," The bus leaves at 7, I think."
+m3xn70,normal,,train,2,takes/m3xn70_r2.wav,"The bus leaves at… seven, I think.",10.58,3.83,-3.79,2.9,-25.9,-9.9,-2.35," The bus leaves at 7, I think."
+m3xn70,normal,,train,3,takes/m3xn70_r3.wav,"The bus leaves at… seven, I think.",11.39,5.6,-5.58,2.23,-29.3,-7.0,-2.94," The bus leaves at 7, I think."
+m3xn71,normal,,train,1,takes/m3xn71_r1.wav,Let's see… two teas and a coffee.,10.13,5.27,-1.16,2.45,-28.3,-6.0,-1.13, Let's see. Two teas and a coffee.
+m3xn71,normal,,train,2,takes/m3xn71_r2.wav,Let's see… two teas and a coffee.,11.02,4.74,-4.09,2.67,-27.2,-10.8,-2.48, Let's see. Two teas and a coffee.
+m3xn71,normal,,train,3,takes/m3xn71_r3.wav,Let's see… two teas and a coffee.,10.75,3.68,-3.45,2.52,-29.4,-12.1,-2.81, Let's see... Two teas and a coffee.
+m3xn72,normal,,train,1,takes/m3xn72_r1.wav,Hmm… maybe after lunch.,14.88,5.56,1.79,1.46,-28.1,-14.0,-1.54, Hmm. Maybe after lunch.
+m3xn72,normal,,train,2,takes/m3xn72_r2.wav,Hmm… maybe after lunch.,12.61,8.82,0.14,1.56,-28.2,-12.7,-3.06, Mmm. Maybe after lunch.
+m3xn72,normal,,train,3,takes/m3xn72_r3.wav,Hmm… maybe after lunch.,12.61,4.59,-3.35,2.57,-28.0,-14.3,-3.54," Hmm, maybe after lunch."
+m3xn73,normal,,train,1,takes/m3xn73_r1.wav,"Where did I put… ah, here it is.",14.01,6.89,-6.91,2.76,-28.5,-15.3,-2.33," Where did I put... Ah, here it is."
+m3xn73,normal,,train,2,takes/m3xn73_r2.wav,"Where did I put… ah, here it is.",14.71,6.86,-5.78,2.76,-26.4,-3.1,-2.41," Where did I put... Ah, here it is."
+m3xn73,normal,,train,3,takes/m3xn73_r3.wav,"Where did I put… ah, here it is.",15.24,10.59,-10.55,2.33,-30.7,-10.4,-3.09," Where did I put... Ah, here it is."
+m3xn75,normal,,train,1,takes/m3xn75_r1.wav,And then… we take the train.,11.05,2.49,-2.35,2.07,-29.7,-14.3,-1.23, And then we take the train.
+m3xn75,normal,,train,2,takes/m3xn75_r2.wav,And then… we take the train.,10.74,2.51,-1.77,1.95,-28.1,-16.8,-2.8, And then... we take the train.
+m3xn75,normal,,train,3,takes/m3xn75_r3.wav,And then… we take the train.,11.35,2.82,-2.58,2.47,-29.8,-19.0,-4.08, And then... we take the train.
+m3xn76,normal,,train,1,takes/m3xn76_r1.wav,Your answer was… almost right.,9.77,3.07,-0.13,1.85,-30.0,-11.3,-1.6, Your answer was almost right.
+m3xn76,normal,,train,2,takes/m3xn76_r2.wav,Your answer was… almost right.,12.57,4.16,-2.3,1.78,-28.9,-8.0,-2.1, Your answer was almost right.
+m3xn76,normal,,train,3,takes/m3xn76_r3.wav,Your answer was… almost right.,9.52,2.63,4.17,2.04,-29.2,-10.2,-2.42, Your answer was... almost right.
+m3xn77,normal,,train,1,takes/m3xn77_r1.wav,One… two… three.,13.22,3.85,-0.44,1.48,-26.9,-15.8,-2.36," One, two, three..."
+m3xn77,normal,,train,2,takes/m3xn77_r2.wav,One… two… three.,9.71,4.58,4.94,1.27,-31.8,-15.4,-2.8," One, two, three."
+m3xn77,normal,,train,3,takes/m3xn77_r3.wav,One… two… three.,12.37,2.85,2.01,2.2,-26.4,-17.1,-2.82," One, two, three..."
+m3xb39,bright,,train,1,takes/m3xb39_r1.wav,Wait… you're here!,13.88,6.76,-5.9,1.85,-22.7,-13.6,1.68, Wait! You're here!
+m3xb39,bright,,train,2,takes/m3xb39_r2.wav,Wait… you're here!,14.1,4.88,4.73,2.34,-24.3,-11.8,0.9," Wait, you're here."
+m3xb39,bright,,train,3,takes/m3xb39_r3.wav,Wait… you're here!,13.03,5.45,3.12,2.04,-27.6,-14.8,0.6," Wait, you're here."
+m3xb40,bright,,train,1,takes/m3xb40_r1.wav,Is that… a puppy?,20.0,9.27,9.59,2.11,-26.7,-10.7,2.99, Is that... a puppy?
+m3xb40,bright,,train,2,takes/m3xb40_r2.wav,Is that… a puppy?,14.36,7.52,4.7,2.84,-28.7,-9.4,0.62, Is that a puppy?
+m3xb40,bright,,train,3,takes/m3xb40_r3.wav,Is that… a puppy?,12.01,9.04,7.57,1.69,-26.4,-8.7,0.47, Is that... a puppy?
+m3xb41,bright,,train,1,takes/m3xb41_r1.wav,Oh… you remembered!,15.15,7.46,-7.32,1.98,-23.5,-8.4,1.85," Oh, you remembered."
+m3xb41,bright,,train,2,takes/m3xb41_r2.wav,Oh… you remembered!,10.72,10.44,-5.82,1.41,-21.1,-9.2,1.48," Oh, you remembered."
+m3xb41,bright,,train,3,takes/m3xb41_r3.wav,Oh… you remembered!,11.62,7.36,2.05,1.85,-23.1,-13.9,-0.1," Oh, you remembered."
+m3xb42,bright,,train,1,takes/m3xb42_r1.wav,And now… the best part!,12.49,7.6,-7.02,2.32,-23.8,-9.6,1.46," And now, the best part."
+m3xb42,bright,,train,2,takes/m3xb42_r2.wav,And now… the best part!,10.7,9.13,-1.52,2.13,-25.9,-9.8,0.93," And now, the best part."
+m3xb42,bright,,train,3,takes/m3xb42_r3.wav,And now… the best part!,11.95,6.17,3.86,2.69,-21.3,-6.6,-0.01," And now, the best part."
+m3xb43,bright,,train,1,takes/m3xb43_r1.wav,Ready… set… go!,14.78,8.4,-4.59,1.42,-23.2,-11.4,0.94," Ready, Set, Go!"
+m3xb43,bright,,train,2,takes/m3xb43_r2.wav,Ready… set… go!,12.36,11.05,-4.21,1.65,-23.3,-10.7,0.59," Ready, set, go."
+m3xb43,bright,,train,3,takes/m3xb43_r3.wav,Ready… set… go!,14.89,6.86,-0.96,1.83,-21.9,-4.7,0.09," Ready, Set, Go!"
+m3xb44,bright,,train,1,takes/m3xb44_r1.wav,Look who's back… Arun!,15.9,8.78,-8.24,1.95,-22.0,-7.5,2.44, Look who's back. A room.
+m3xb44,bright,,train,2,takes/m3xb44_r2.wav,Look who's back… Arun!,13.13,10.78,-9.55,1.84,-21.3,-11.1,1.7, Look who's back. A room.
+m3xb44,bright,,train,3,takes/m3xb44_r3.wav,Look who's back… Arun!,14.05,7.62,-5.26,2.02,-22.5,-16.2,0.74, Look who's back! A room!
+m3xb45,bright,,train,1,takes/m3xb45_r1.wav,Guess where we're going… Ella!,12.95,9.13,-7.41,2.42,-22.4,-8.7,2.48, Guess where we're going? Ella?
+m3xb45,bright,,train,2,takes/m3xb45_r2.wav,Guess where we're going… Ella!,14.89,7.54,1.82,2.37,-23.7,-6.4,2.47, Guess where we're going? Ella.
+m3xb45,bright,,train,3,takes/m3xb45_r3.wav,Guess where we're going… Ella!,11.65,6.11,1.31,2.42,-23.2,-6.8,-0.41, Guess where we're going. Ella?
+m3xb46,bright,,train,1,takes/m3xb46_r1.wav,Three… two… one… happy new year!,14.67,7.0,-5.5,1.3,-23.2,-16.5,0.92," Three, two, one. Happy New Year."
+m3xb46,bright,,train,2,takes/m3xb46_r2.wav,Three… two… one… happy new year!,14.12,6.6,-6.23,1.43,-26.7,-14.7,0.4," Three, two, one. Happy New Year."
+m3xb46,bright,,train,3,takes/m3xb46_r3.wav,Three… two… one… happy new year!,14.19,6.14,-1.43,1.42,-26.5,-13.7,0.2," Three, two, one. Happy New Year."
+m3xb47,bright,,train,1,takes/m3xb47_r1.wav,It's… perfect!,16.98,6.13,4.38,1.4,-28.8,-5.8,2.41, It's perfect.
+m3xb47,bright,,train,2,takes/m3xb47_r2.wav,It's… perfect!,12.86,8.76,8.45,1.19,-27.3,-3.0,0.74, It's... perfect.
+m3xb47,bright,,train,3,takes/m3xb47_r3.wav,It's… perfect!,14.71,5.59,4.21,1.34,-25.9,-7.1,0.7, It's perfect.
+m3xb48,bright,,train,1,takes/m3xb48_r1.wav,You did… all of this?,16.74,14.24,9.98,2.66,-23.6,-10.6,2.33, You did... all of this?
+m3xb48,bright,,train,2,takes/m3xb48_r2.wav,You did… all of this?,17.41,11.42,11.52,2.32,-28.0,-9.1,1.37, You did all of this?
+m3xb48,bright,,train,3,takes/m3xb48_r3.wav,You did… all of this?,17.25,9.74,6.0,2.49,-22.1,-12.3,0.5, You did... all of this?
+m3xn78,normal,,train,1,takes/m3xn78_r1.wav,"Two sugars — no, just one.",10.34,6.59,-5.38,1.79,-27.2,-8.6,-1.9," Two sugars? No, just one."
+m3xn78,normal,,train,2,takes/m3xn78_r2.wav,"Two sugars — no, just one.",10.98,4.56,-4.4,1.59,-28.1,-11.0,-2.07," Two sugars. No, just one."
+m3xn78,normal,,train,3,takes/m3xn78_r3.wav,"Two sugars — no, just one.",9.98,5.13,-4.83,1.88,-27.4,-8.1,-2.33," Two sugars. No, just one."
+m3xb49,bright,,train,1,takes/m3xb49_r1.wav,Look — a rainbow!,19.43,7.85,1.11,1.38,-21.3,-17.4,1.66, Look! A rainbow!
+m3xb49,bright,,train,2,takes/m3xb49_r2.wav,Look — a rainbow!,13.4,11.07,-10.42,1.8,-21.8,-9.3,1.35, Look! A rainbow!
+m3xb49,bright,,train,3,takes/m3xb49_r3.wav,Look — a rainbow!,12.47,9.32,-9.17,1.67,-17.7,-18.8,0.01, Look! A rainbow!
+m3xn79,normal,,train,1,takes/m3xn79_r1.wav,Turn RIGHT at the temple.,10.41,3.59,-3.41,2.32,-28.1,-14.6,-2.06, Turn right at the temple.
+m3xn79,normal,,train,2,takes/m3xn79_r2.wav,Turn RIGHT at the temple.,10.5,5.5,-5.24,2.79,-28.6,-14.0,-2.62, Turn right at the temple.
+m3xn79,normal,,train,3,takes/m3xn79_r3.wav,Turn RIGHT at the temple.,12.43,5.14,-2.38,2.89,-23.7,-12.3,-3.75, Turn right at the temple.
+m3xn80,normal,,train,1,takes/m3xn80_r1.wav,You're still here?!,12.06,5.62,-1.62,2.93,-25.4,-7.0,-0.57, You're still here?
+m3xn80,normal,,train,2,takes/m3xn80_r2.wav,You're still here?!,11.33,6.8,6.45,2.93,-26.3,-10.5,-1.38, You're still here?
+m3xn80,normal,,train,3,takes/m3xn80_r3.wav,You're still here?!,11.51,4.85,2.55,2.65,-23.3,-12.0,-1.54, You're still here?
