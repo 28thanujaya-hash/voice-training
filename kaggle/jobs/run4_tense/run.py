@@ -62,7 +62,7 @@ try:
     t0 = open(f"{S}/train_second.py").read()
     a1 = "    for epoch in range(start_epoch, epochs):\n"; a2 = "            torch.save(state, save_path)\n"
     a3 = "            start_ds = True\n"; a4 = "                slm_out = slmadv(\n"
-    a5 = "        model.predictor_encoder = copy.deepcopy(model.style_encoder)\n"; a6 = "    n_down = model.text_aligner.n_down\n"
+    a5 = "        # (predictor_encoder is not trained in Stage 1)\n        model.predictor_encoder = copy.deepcopy(model.style_encoder)\n"; a6 = "    n_down = model.text_aligner.n_down\n"
     for a in (a1, a2, a3, a4, a5, a6): assert t0.count(a) == 1, f"anchor missing: {a!r}"
     def make(epochs, freeze, resume_s2):
         t = t0.replace(a1, a1 + "        torch.cuda.empty_cache()\n")
