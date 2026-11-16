@@ -1,0 +1,30 @@
+[{"stream_name":"stdout","time":1.043236855,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe\n"}
+,{"stream_name":"stderr","time":61.373571735,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":61.373605446,"data":"I0000 00:00:1794846737.203450       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":80.07051049,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":80.070566568,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stdout","time":86.738475538,"data":"[  1.4 min] takes for 446 of 625 lines\n"}
+,{"stream_name":"stderr","time":89.820311285,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":116.786533177,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:26\u003c00:26, 26.75s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:26\u003c00:00, 13.37s/it]\n"}
+,{"stream_name":"stderr","time":128.797081934,"data":"\rLoading checkpoint shards:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rLoading checkpoint shards:  50%|█████     | 1/2 [00:03\u003c00:03,  3.03s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  1.88s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  2.05s/it]\n"}
+,{"stream_name":"stderr","time":132.529801405,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":138.155420878,"data":"Device set to use cuda:1\n"}
+,{"stream_name":"stderr","time":5718.523582614,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":5723.248228655,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":6601.407027134,"data":"[110.0 min] retake round 1: 267 lines × 6 in 107.7 min; still failing 243; rejects {'pace': 857, 'words': 116, 'no words': 42, 'measure': 222}\n"}
+,{"stream_name":"stdout","time":6602.13353006,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":6602.133576944,"data":"  File \"/kaggle/src/script.py\", line 202, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":6602.133584397,"data":"    for gname, mem in sorted(G.items(), key=lambda x: int(x[0][1:])):\n"}
+,{"stream_name":"stdout","time":6602.133589581,"data":"                      ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":6602.133594887,"data":"  File \"/kaggle/src/script.py\", line 202, in \u003clambda\u003e\n"}
+,{"stream_name":"stdout","time":6602.133599731,"data":"    for gname, mem in sorted(G.items(), key=lambda x: int(x[0][1:])):\n"}
+,{"stream_name":"stdout","time":6602.133604941,"data":"                                                      ~~~^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":6602.133610016,"data":"ValueError: invalid literal for int() with base 10: \"t's Monday again…\"\n"}
+,{"stream_name":"stdout","time":6602.13361509,"data":"\n"}
+,{"stream_name":"stderr","time":6612.651900134,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":6612.651943495,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":6612.975944484,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":6612.975970108,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":6613.797152665,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6614.661883216,"data":"[NbConvertApp] Writing 473519 bytes to __results__.html\n"}
+]
