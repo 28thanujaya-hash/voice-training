@@ -1,0 +1,22 @@
+[{"stream_name":"stdout","time":1.23442931,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe\n"}
+,{"stream_name":"stderr","time":72.68778519,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":72.687823053,"data":"I0000 00:00:1794824630.529691       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":86.289673075,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":86.289708517,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stdout","time":91.87286802,"data":"[  1.5 min] 319 lines: low 156, tense 163\n"}
+,{"stream_name":"stderr","time":99.636947572,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":134.713892655,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:34\u003c00:34, 34.74s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:34\u003c00:00, 17.37s/it]\n"}
+,{"stream_name":"stderr","time":138.886058446,"data":"\rLoading checkpoint shards:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rLoading checkpoint shards:  50%|█████     | 1/2 [00:03\u003c00:03,  3.00s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  1.87s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  2.04s/it]\n"}
+,{"stream_name":"stderr","time":142.899211634,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":155.865622638,"data":"Device set to use cuda:1\n"}
+,{"stream_name":"stderr","time":6755.894755289,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":6768.459158252,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":8020.065314297,"data":"[133.6 min] round: 319 lines × 6 in 131.1 min\n"}
+,{"stream_name":"stdout","time":10704.388519346,"data":"[178.4 min] round: 155 lines × 4 in 44.7 min\n"}
+,{"stream_name":"stderr","time":10721.903140098,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":10721.903170788,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":10722.358318812,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":10722.358347528,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":10723.296659625,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":10724.335883905,"data":"[NbConvertApp] Writing 434863 bytes to __results__.html\n"}
+]

@@ -1,0 +1,545 @@
+id,row,group,split,rank,file,text,pitch,range,move,pace,lufs,tilt,score,heard
+m3l01,low,,train,1,takes/m3l01_r1.wav,"Paati's in hospital again, and I'm so far away…",9.29,2.01,-1.4,2.37,-30.6,-10.6,3.01," Paddy's in hospital again, and I'm so far away."
+m3l01,low,,train,2,takes/m3l01_r2.wav,"Paati's in hospital again, and I'm so far away…",9.92,3.27,-3.09,1.69,-29.3,-10.1,1.9," Patti's in hospital again, and I'm so far away."
+m3l01,low,,train,3,takes/m3l01_r3.wav,"Paati's in hospital again, and I'm so far away…",9.84,3.97,-3.64,2.47,-28.8,-10.3,-1.49," Patti's in hospital again, and I'm so far away."
+m3l05,low,,train,1,takes/m3l05_r1.wav,I went to the back room and cried. I felt so small.,12.0,6.7,-4.65,2.19,-29.9,-12.8,0.0, I went to the back room and cried. I felt so small.
+m3l06,low,,train,1,takes/m3l06_r1.wav,"Oh, Sam… I'm so sorry about Bruno. He was family.",9.52,4.58,-2.55,1.76,-30.7,-9.7,2.52," Oh, Sam. I'm so sorry about Bruno. He was family."
+m3l06,low,,train,2,takes/m3l06_r2.wav,"Oh, Sam… I'm so sorry about Bruno. He was family.",11.07,4.94,-2.3,1.69,-29.2,-9.0,0.53," Oh, Sam. I'm so sorry about Bruno. He was family."
+m3l06,low,,train,3,takes/m3l06_r3.wav,"Oh, Sam… I'm so sorry about Bruno. He was family.",10.53,3.97,-0.55,1.76,-29.8,-5.9,0.41," Oh, Sam. I'm so sorry about Bruno. He was family."
+m3l08,low,,train,1,takes/m3l08_r1.wav,Oh no… that must be really hard.,9.23,3.08,-3.5,1.83,-28.7,-14.1,2.66, Oh no. That must be really hard.
+m3l08,low,,train,2,takes/m3l08_r2.wav,Oh no… that must be really hard.,9.59,3.95,-1.51,2.41,-28.8,-15.6,-0.96, Oh no. That must be really hard.
+m3l08,low,,train,3,takes/m3l08_r3.wav,Oh no… that must be really hard.,9.18,3.37,-2.24,2.54,-27.9,-12.5,-1.53, Oh no. That must be really hard.
+m3l09,low,,val,1,takes/m3l09_r1.wav,I'm sorry. Do you want to talk about it?,11.48,6.61,3.27,1.7,-28.9,-9.1,1.5, I'm sorry. Do you want to talk about it?
+m3l09,low,,val,2,takes/m3l09_r2.wav,I'm sorry. Do you want to talk about it?,11.16,7.65,4.93,2.57,-26.7,-8.5,-3.5, I'm sorry... Do you want to talk about it?
+m3l10,low,,train,1,takes/m3l10_r1.wav,Some nights the flat feels very quiet… and I miss Jaffna.,10.65,3.77,-1.63,2.44,-30.2,-12.0,3.5, Some nights the flat feels very quiet and I miss Jaffna.
+m3l10,low,,train,2,takes/m3l10_r2.wav,Some nights the flat feels very quiet… and I miss Jaffna.,11.68,5.28,-2.18,2.58,-29.8,-11.4,-5.5, Some nights the flat feels very quiet. And I miss Chafna.
+m3l11,low,,val,1,takes/m3l11_r1.wav,"I'm tired today. I worked late, and I didn't sleep well.",9.79,2.32,-0.48,2.33,-30.3,-10.8,1.93, I'm tired today. I worked late and I didn't sleep well.
+m3l11,low,,val,2,takes/m3l11_r2.wav,"I'm tired today. I worked late, and I didn't sleep well.",10.43,3.24,-0.68,1.87,-30.1,-11.1,1.76, I'm tired today. I worked late and I didn't sleep well.
+m3l11,low,,val,3,takes/m3l11_r3.wav,"I'm tired today. I worked late, and I didn't sleep well.",9.0,2.3,-1.19,2.53,-28.5,-7.6,-0.15, I'm tired today. I worked late and I didn't sleep well.
+m3l14,low,,train,1,takes/m3l14_r1.wav,I'm really sorry. I didn't mean to hurt you.,10.61,3.83,-3.2,2.2,-26.1,-14.2,0.2, I'm really sorry. I didn't mean to hurt you.
+m3l14,low,,train,2,takes/m3l14_r2.wav,I'm really sorry. I didn't mean to hurt you.,11.17,3.45,-2.48,2.26,-25.9,-19.3,-0.97, I'm really sorry. I didn't mean to hurt you.
+m3l14,low,,train,3,takes/m3l14_r3.wav,I'm really sorry. I didn't mean to hurt you.,10.89,7.88,-2.67,1.99,-25.7,-14.9,-1.54, I'm really sorry. I didn't mean to hurt you.
+m3l17,low,G1,train,1,takes/m3l17_r1.wav,"So that's it, then…",8.76,2.08,-1.67,1.52,-27.8,-11.8,2.5," So, that's it then."
+m3l17,low,G1,train,2,takes/m3l17_r2.wav,"So that's it, then…",9.5,3.18,-0.35,1.88,-24.5,-12.7,-4.5," So, that's it then."
+m3l20,low,G5,train,1,takes/m3l20_r1.wav,Okay… tell me everything.,8.58,3.21,-2.52,1.58,-30.8,-13.6,3.39," Okay, tell me everything."
+m3l20,low,G5,train,2,takes/m3l20_r2.wav,Okay… tell me everything.,9.31,3.43,-2.77,1.4,-29.9,-15.9,2.54," Okay, tell me everything."
+m3l20,low,G5,train,3,takes/m3l20_r3.wav,Okay… tell me everything.,9.26,3.69,-0.39,1.86,-29.3,-15.1,-0.89," Okay, tell me everything."
+m3l24,low,,train,1,takes/m3l24_r1.wav,I can't go home this week. The café needs me… and I hate it.,9.28,4.35,-3.15,2.5,-28.6,-12.1,0.0, I can't go home this week. The cafe needs me. And I hate it.
+m3l30,low,,train,1,takes/m3l30_r1.wav,Maybe I should have stayed in Jaffna… near my family.,11.63,7.41,-6.81,2.42,-27.2,-14.8,0.0, Maybe I should have stayed in Jaffna near my family.
+m3l36,low,,train,1,takes/m3l36_r1.wav,Oh… I didn't know that. I'm so sorry.,9.44,3.72,-1.02,1.65,-29.5,-12.2,2.65," Oh, I didn't know that. I'm so sorry."
+m3l36,low,,train,2,takes/m3l36_r2.wav,Oh… I didn't know that. I'm so sorry.,9.78,2.81,-1.9,1.85,-27.7,-10.4,1.38," Oh, I didn't know that. I'm so sorry."
+m3l36,low,,train,3,takes/m3l36_r3.wav,Oh… I didn't know that. I'm so sorry.,9.06,4.18,-1.41,1.98,-28.8,-7.8,0.25," Oh, I didn't know that. I'm so sorry."
+m3l37,low,,train,1,takes/m3l37_r1.wav,That sounds really lonely…,8.35,1.42,-0.89,2.21,-29.1,-13.7,2.55, That sounds really lonely.
+m3l37,low,,train,2,takes/m3l37_r2.wav,That sounds really lonely…,10.35,3.58,-3.61,2.37,-29.1,-12.7,0.35, That sounds really lonely.
+m3l37,low,,train,3,takes/m3l37_r3.wav,That sounds really lonely…,10.76,7.93,-6.45,1.99,-28.4,-15.7,-1.2, That sounds really lonely.
+m3l38,low,,train,1,takes/m3l38_r1.wav,Oh no. Are you okay?,9.29,4.86,3.14,2.02,-29.6,-17.0,1.57, Oh no... Are you okay?
+m3l38,low,,train,2,takes/m3l38_r2.wav,Oh no. Are you okay?,11.49,4.98,1.71,1.58,-28.0,-21.8,0.0, Oh no. Are you okay?
+m3l38,low,,train,3,takes/m3l38_r3.wav,Oh no. Are you okay?,9.43,6.82,5.22,2.21,-31.2,-15.7,-0.18, Oh no... Are you okay?
+m3l39,low,,train,1,takes/m3l39_r1.wav,I understand… it's not easy.,9.13,2.68,-2.7,2.04,-29.4,-10.9,2.95, I understand. It's not easy.
+m3l39,low,,train,2,takes/m3l39_r2.wav,I understand… it's not easy.,9.04,5.3,-5.35,2.28,-27.5,-12.2,1.5, I understand. It's not easy.
+m3l39,low,,train,3,takes/m3l39_r3.wav,I understand… it's not easy.,10.12,6.01,-5.93,2.02,-27.1,-11.9,0.39, I understand. It's not easy.
+m3l40,low,,train,1,takes/m3l40_r1.wav,Hmm… that's sad. I'm sorry it happened.,9.61,2.53,-0.67,1.48,-31.8,-5.5,0.91, That's sad. I'm sorry it happened.
+m3l40,low,,train,2,takes/m3l40_r2.wav,Hmm… that's sad. I'm sorry it happened.,9.75,3.17,-0.57,1.32,-30.6,-7.3,-0.16, That's sad. I'm sorry it happened.
+m3l40,low,,train,3,takes/m3l40_r3.wav,Hmm… that's sad. I'm sorry it happened.,9.18,4.4,-0.62,1.7,-31.8,-8.2,-0.58," Hmm, that's sad. I'm sorry it happened."
+m3l41,low,,train,1,takes/m3l41_r1.wav,Take all the time you need. I'm here.,9.7,3.21,-2.73,2.45,-29.0,-18.1,3.5, Take all the time you need. I'm here.
+m3l41,low,,train,2,takes/m3l41_r2.wav,Take all the time you need. I'm here.,10.18,5.49,-5.2,2.57,-26.3,-15.8,-5.5, Take all the time you need. I'm here.
+m3l42,low,,train,1,takes/m3l42_r1.wav,Oh… that must have hurt.,8.86,3.28,-3.33,2.0,-31.9,-11.1,3.96," Oh, that must have hurt."
+m3l42,low,,train,2,takes/m3l42_r2.wav,Oh… that must have hurt.,10.01,6.6,-6.97,2.15,-32.0,-11.5,-1.11," Oh, that must have hurt."
+m3l42,low,,train,3,takes/m3l42_r3.wav,Oh… that must have hurt.,10.7,4.73,-5.26,2.47,-30.8,-11.8,-2.32," Oh, that must have hurt."
+m3l43,low,,train,1,takes/m3l43_r1.wav,I know… some days are just like that.,10.76,3.81,-2.89,2.37,-27.4,-13.8,-0.5, I know. Some days are just like that.
+m3l43,low,,train,2,takes/m3l43_r2.wav,I know… some days are just like that.,10.33,3.96,-2.21,2.45,-30.5,-10.7,-1.5, I know. Some days are just like that.
+m3l46,low,,train,1,takes/m3l46_r1.wav,Don't be sad about it. It was a really difficult question.,9.05,4.14,-3.11,2.52,-30.0,-12.3,0.0, Don't be sad about it. It was a really difficult question.
+m3l52,low,,train,1,takes/m3l52_r1.wav,"I didn't do well in the test. I studied, but I forgot everything.",10.59,5.22,-1.76,2.29,-29.3,-12.9,0.0," I didn't do well in the test. I studied, but I forgot everything."
+m3l56,low,,train,1,takes/m3l56_r1.wav,Nobody remembered my birthday this year… except Priya.,9.09,5.32,-1.98,2.34,-27.5,-12.9,0.83, Nobody remembered my birthday this year except Priya.
+m3l56,low,,train,2,takes/m3l56_r2.wav,Nobody remembered my birthday this year… except Priya.,9.3,5.97,-0.12,2.02,-26.1,-12.2,0.38, Nobody remembered my birthday this year. Except Priya.
+m3l56,low,,train,3,takes/m3l56_r3.wav,Nobody remembered my birthday this year… except Priya.,10.34,6.41,-5.95,2.16,-24.4,-14.4,-2.09," Nobody remembered my birthday this year, except Priya."
+m3l57,low,,train,1,takes/m3l57_r1.wav,I don't feel like talking today… sorry.,9.36,9.37,-8.92,2.08,-29.5,-12.1,1.37, I don't feel like talking today. Sorry.
+m3l57,low,,train,2,takes/m3l57_r2.wav,I don't feel like talking today… sorry.,9.95,7.73,-7.81,2.17,-25.5,-13.5,-0.82, I don't feel like talking today. Sorry.
+m3l57,low,,train,3,takes/m3l57_r3.wav,I don't feel like talking today… sorry.,9.6,8.6,-8.76,2.28,-26.5,-12.8,-1.28, I don't feel like talking today. Sorry.
+m3l58,low,,train,1,takes/m3l58_r1.wav,"The café was so busy, and I didn't even have time for water.",10.68,8.06,2.73,2.59,-27.5,-8.7,0.0, The cafe was so busy and I didn't even have time for water.
+m3l59,low,,train,1,takes/m3l59_r1.wav,I think I'm getting a cold… my head's so heavy.,10.71,7.5,-6.59,2.47,-26.8,-11.3,-0.43, I think I'm getting a cold. My head's so heavy.
+m3l59,low,,train,2,takes/m3l59_r2.wav,I think I'm getting a cold… my head's so heavy.,10.31,4.8,-4.02,2.59,-26.2,-11.4,-0.48, I think I'm getting a cold. My head's so heavy.
+m3l59,low,,train,3,takes/m3l59_r3.wav,I think I'm getting a cold… my head's so heavy.,10.97,7.43,-7.49,2.51,-30.4,-9.4,-1.83, I think I'm getting a cold. My head's so heavy.
+m3l61,low,,val,1,takes/m3l61_r1.wav,I'm sorry. I should have told you earlier.,8.88,3.7,-3.66,2.01,-30.5,-8.7,3.97, I'm sorry. I should have told you earlier.
+m3l61,low,,val,2,takes/m3l61_r2.wav,I'm sorry. I should have told you earlier.,9.21,3.63,-2.92,2.53,-29.1,-12.2,-1.46, I'm sorry. I should have told you earlier.
+m3l61,low,,val,3,takes/m3l61_r3.wav,I'm sorry. I should have told you earlier.,9.26,4.92,-4.69,2.3,-27.8,-9.4,-5.08, I'm sorry. I should have told you earlier.
+m3l62,low,,train,1,takes/m3l62_r1.wav,I know I made a mistake… and I feel terrible about it.,10.0,6.14,5.04,2.55,-27.8,-16.4,0.0, I know I made a mistake and I feel terrible about it.
+m3l63,low,,train,1,takes/m3l63_r1.wav,Maybe you're right. I don't really know anymore.,9.85,5.14,-1.92,2.08,-27.8,-20.1,-0.5, Maybe you're right. I don't really know anymore.
+m3l63,low,,train,2,takes/m3l63_r2.wav,Maybe you're right. I don't really know anymore.,10.37,4.13,-2.44,1.95,-27.8,-16.9,-1.5, Maybe you're right. I don't really know anymore.
+m3l64,low,,train,1,takes/m3l64_r1.wav,Please don't be angry with me… I'm trying my best.,11.1,5.17,-2.62,2.59,-27.8,-12.2,0.5, Please don't be angry with me. I'm trying my best.
+m3l64,low,,train,2,takes/m3l64_r2.wav,Please don't be angry with me… I'm trying my best.,11.32,7.46,-5.69,2.53,-25.8,-15.6,-2.5, Please don't be angry with me. I'm trying my best.
+m3l66,low,,train,1,takes/m3l66_r1.wav,I watched an old film tonight… the one Paati liked.,12.8,8.79,-6.13,2.56,-27.9,-14.4,0.0, I watched an old film tonight. The one Pottsy liked.
+m3l67,low,,train,1,takes/m3l67_r1.wav,I deleted all the photos by mistake… a whole year of photos.,10.92,4.65,-2.85,2.39,-27.6,-15.2,0.0, I deleted all the photos by mistake. A whole year of photos.
+m3l68,low,,train,1,takes/m3l68_r1.wav,Sam's team lost the final… he didn't say a word all evening.,10.59,5.0,-4.42,2.52,-26.8,-13.8,1.5, Sam's team lost the final. He didn't say a word all evening.
+m3l68,low,,train,2,takes/m3l68_r2.wav,Sam's team lost the final… he didn't say a word all evening.,12.75,5.24,-2.51,2.57,-27.0,-11.7,-3.5, Sam's team lost the final. He didn't say a word all evening.
+m3l71,low,,train,1,takes/m3l71_r1.wav,"I waited for an hour, but in the end, nobody came.",12.55,6.52,-2.36,2.17,-27.1,-14.1,0.0," I waited for an hour, but in the end, nobody came."
+m3l72,low,,train,1,takes/m3l72_r1.wav,"After the call, I just sat there… for a long time.",9.45,3.85,-3.45,2.44,-29.9,-8.9,0.0," After the call, I just sat there for a long time."
+m3l73,low,,train,1,takes/m3l73_r1.wav,"So in the end, I walked home alone… and it was dark.",9.98,2.26,-1.96,2.48,-29.7,-11.5,0.0," So in the end, I walked home alone and it was dark."
+m3l74,low,,train,1,takes/m3l74_r1.wav,Three weeks… thirty-three days… I'm counting every day.,10.65,3.57,-1.99,1.53,-26.4,-13.7,0.86, Three weeks. 33 days. I'm counting every day.
+m3l74,low,,train,2,takes/m3l74_r2.wav,Three weeks… thirty-three days… I'm counting every day.,10.02,3.55,-1.81,1.79,-28.4,-12.4,0.45, Three weeks. 33 days. I'm counting every day.
+m3l74,low,,train,3,takes/m3l74_r3.wav,Three weeks… thirty-three days… I'm counting every day.,10.85,4.13,-2.7,1.75,-27.0,-12.4,-1.63," Three weeks, 33 days. I'm counting every day."
+m3t01,tense,,train,1,takes/m3t01_r1.wav,No. That was not okay. You don't speak to people like that.,9.62,9.87,-3.73,2.68,-25.4,-7.6,0.41," No, that was not okay. You don't speak to people like that."
+m3t01,tense,,train,2,takes/m3t01_r2.wav,No. That was not okay. You don't speak to people like that.,11.6,8.46,-2.46,2.64,-23.2,-8.2,0.36," No, that was not okay. You don't speak to people like that."
+m3t01,tense,,train,3,takes/m3t01_r3.wav,No. That was not okay. You don't speak to people like that.,10.21,7.45,-2.99,2.62,-21.7,-9.4,-0.77," No, that was not okay. You don't speak to people like that."
+m3t02,tense,,train,1,takes/m3t02_r1.wav,"I said sorry twice, and he still wouldn't listen.",10.39,5.53,-1.92,2.93,-24.3,-7.0,0.0," I said sorry twice, and he still wouldn't listen."
+m3t03,tense,,train,1,takes/m3t03_r1.wav,I'm not crying because I'm weak. I'm crying because I'm angry.,10.48,5.46,-2.83,2.96,-22.9,-10.9,1.71, I'm not crying because I'm weak. I'm crying because I'm angry.
+m3t03,tense,,train,2,takes/m3t03_r2.wav,I'm not crying because I'm weak. I'm crying because I'm angry.,13.19,8.99,-3.82,2.62,-25.0,-9.2,0.04, I'm not crying because I'm weak. I'm crying because I'm angry.
+m3t03,tense,,train,3,takes/m3t03_r3.wav,I'm not crying because I'm weak. I'm crying because I'm angry.,10.45,6.87,-6.4,2.88,-25.2,-11.9,-1.75, I'm not crying because I'm weak. I'm crying because I'm angry.
+m3t04,tense,,train,1,takes/m3t04_r1.wav,Please lower your voice. I'm trying to help you.,11.41,6.81,-6.43,2.93,-23.8,-9.1,1.45, Please lower your voice. I'm trying to help you.
+m3t04,tense,,train,2,takes/m3t04_r2.wav,Please lower your voice. I'm trying to help you.,11.29,7.31,-2.63,2.97,-22.8,-12.6,1.4, Please lower your voice. I'm trying to help you.
+m3t04,tense,,train,3,takes/m3t04_r3.wav,Please lower your voice. I'm trying to help you.,11.57,7.58,-6.52,2.81,-24.6,-13.9,-2.85, Please lower your voice. I'm trying to help you.
+m3t05,tense,,train,1,takes/m3t05_r1.wav,"I understand you're upset, but I won't accept that.",10.14,6.26,-3.56,2.36,-23.8,-9.3,1.5," I understand you're upset, but I won't accept that."
+m3t05,tense,,train,2,takes/m3t05_r2.wav,"I understand you're upset, but I won't accept that.",10.32,6.72,-4.85,2.83,-24.3,-11.7,-1.5," I understand you're upset, but I won't accept that."
+m3t06,tense,,val,1,takes/m3t06_r1.wav,Excuse me. I was here first.,12.59,5.83,-2.04,2.65,-22.0,-4.8,3.07, Excuse me. I was here first.
+m3t06,tense,,val,2,takes/m3t06_r2.wav,Excuse me. I was here first.,14.24,7.82,-1.9,2.68,-22.8,-7.8,0.51, Excuse me. I was here first.
+m3t06,tense,,val,3,takes/m3t06_r3.wav,Excuse me. I was here first.,12.18,6.41,-5.19,2.51,-25.4,-5.0,-0.07, Excuse me. I was here first.
+m3t07,tense,,train,1,takes/m3t07_r1.wav,"No, thank you. I've already made my decision.",12.83,6.32,-5.57,2.95,-23.4,-9.4,2.5, No thank you. I've already made my decision.
+m3t07,tense,,train,2,takes/m3t07_r2.wav,"No, thank you. I've already made my decision.",10.39,3.94,-3.29,2.78,-24.8,-13.0,-2.5, No thank you. I've already made my decision.
+m3t10,tense,,train,1,takes/m3t10_r1.wav,"Stop. Listen to the question first, and then answer.",10.5,7.14,-3.86,2.7,-24.8,-8.2,0.84, Stop. Listen to the question first and then answer.
+m3t10,tense,,train,2,takes/m3t10_r2.wav,"Stop. Listen to the question first, and then answer.",10.53,6.27,5.52,2.62,-25.3,-6.5,0.83, Stop. Listen to the question first and then answer.
+m3t10,tense,,train,3,takes/m3t10_r3.wav,"Stop. Listen to the question first, and then answer.",12.26,8.29,-5.2,2.2,-25.3,-5.7,0.31, Stop. Listen to the question first and then answer.
+m3t12,tense,,train,1,takes/m3t12_r1.wav,"He wanted three things, he changed his order twice, and then he left.",14.15,8.36,-2.1,2.87,-24.3,-10.5,0.79," He wanted three things, he changed his order twice, and then he left."
+m3t12,tense,,train,2,takes/m3t12_r2.wav,"He wanted three things, he changed his order twice, and then he left.",16.42,10.84,-3.83,2.82,-21.6,-11.6,0.24," He wanted three things. He changed his order twice, and then he left."
+m3t12,tense,,train,3,takes/m3t12_r3.wav,"He wanted three things, he changed his order twice, and then he left.",12.74,9.46,-6.66,2.76,-23.2,-11.2,-1.03, He wanted three things. He changed his order twice and then he left.
+m3t13,tense,G1,train,1,takes/m3t13_r1.wav,"So that's IT, then.",10.63,5.16,-4.19,2.44,-23.1,-7.4,2.01, So that's it then.
+m3t13,tense,G1,train,2,takes/m3t13_r2.wav,"So that's IT, then.",10.95,6.48,-2.48,2.6,-25.1,-8.0,0.64, So that's it then.
+m3t13,tense,G1,train,3,takes/m3t13_r3.wav,"So that's IT, then.",10.26,4.35,-1.34,2.37,-24.7,-8.3,-0.23, So that's it then.
+m3t15,tense,G4,train,1,takes/m3t15_r1.wav,Really.,10.2,4.57,-2.51,1.88,-21.4,-16.0,1.26, Really?
+m3t15,tense,G4,train,2,takes/m3t15_r2.wav,Really.,11.15,2.68,-1.42,2.04,-21.2,-17.7,1.08, Really?
+m3t15,tense,G4,train,3,takes/m3t15_r3.wav,Really.,6.98,4.53,-3.02,2.23,-27.6,-13.7,0.66, Really?
+m3t18,tense,,train,1,takes/m3t18_r1.wav,"I told my manager everything, and she said, ""Just smile."" Smile?",11.38,8.65,-5.29,2.33,-24.3,-7.4,2.04, I told my manager everything and she said just smile. Smile?
+m3t18,tense,,train,2,takes/m3t18_r2.wav,"I told my manager everything, and she said, ""Just smile."" Smile?",9.54,7.31,-3.11,2.5,-25.5,-8.1,0.77, I told my manager everything and she said just smile. Smile?
+m3t18,tense,,train,3,takes/m3t18_r3.wav,"I told my manager everything, and she said, ""Just smile."" Smile?",10.07,6.8,-2.11,2.4,-24.6,-8.8,0.6, I told my manager everything and she said just smile. Smile?
+m3t19,tense,,train,1,takes/m3t19_r1.wav,"If he comes back, I'm not serving him. Someone else can.",11.91,6.76,-5.53,2.67,-20.0,-7.5,3.42," If he comes back, I'm not serving him. Someone else can."
+m3t19,tense,,train,2,takes/m3t19_r2.wav,"If he comes back, I'm not serving him. Someone else can.",10.77,9.42,-8.35,2.95,-24.4,-8.3,0.78," If he comes back, I'm not serving him. Someone else can."
+m3t19,tense,,train,3,takes/m3t19_r3.wav,"If he comes back, I'm not serving him. Someone else can.",11.33,6.36,-4.42,2.73,-27.0,-7.9,-0.5," If he comes back, I'm not serving him. Someone else can."
+m3t21,tense,,train,1,takes/m3t21_r1.wav,Being shift leader doesn't mean I have to accept rude people.,12.43,8.8,-8.68,2.95,-23.6,-16.2,0.0, Being shift leader doesn't mean I have to accept rude people.
+m3t22,tense,,train,1,takes/m3t22_r1.wav,"Three people saw what happened, and nobody said a word.",11.63,7.22,-7.15,2.63,-24.9,-11.6,0.0, Three people saw what happened and nobody said a word.
+m3t24,tense,,train,1,takes/m3t24_r1.wav,"He owes the café two thousand rupees, and he's never coming back.",11.08,6.01,-4.73,2.77,-23.7,-12.7,1.59," He owes the cafe 2,000 rupees and he's never coming back."
+m3t24,tense,,train,2,takes/m3t24_r2.wav,"He owes the café two thousand rupees, and he's never coming back.",11.1,5.15,-4.03,2.9,-25.0,-12.2,0.55," He owes the cafe 2,000 rupees and he's never coming back."
+m3t24,tense,,train,3,takes/m3t24_r3.wav,"He owes the café two thousand rupees, and he's never coming back.",12.34,5.39,-4.04,2.68,-24.5,-13.9,-2.14," He owes the cafe 2,000 rupees and he's never coming back."
+m3t25,tense,,train,1,takes/m3t25_r1.wav,I didn't cry because of him. I cried because I was tired.,10.54,9.44,-8.96,2.78,-26.8,-10.5,0.0, I didn't cry because of him. I cried because I was tired.
+m3t26,tense,,train,1,takes/m3t26_r1.wav,Please don't interrupt me. Let me finish.,12.85,6.57,-0.24,2.78,-22.4,-11.8,2.11, Please don't interrupt me. Let me finish.
+m3t26,tense,,train,2,takes/m3t26_r2.wav,Please don't interrupt me. Let me finish.,12.3,5.25,-3.61,2.65,-23.1,-11.6,1.63, Please don't interrupt me. Let me finish.
+m3t26,tense,,train,3,takes/m3t26_r3.wav,Please don't interrupt me. Let me finish.,9.05,6.04,1.54,2.62,-27.2,-11.0,0.31, Please don't interrupt me. Let me finish.
+m3t27,tense,,train,1,takes/m3t27_r1.wav,I've asked you three times now. Please answer the question.,13.71,7.25,-5.59,2.93,-23.5,-5.0,4.52, I've asked you three times now. Please answer the question.
+m3t27,tense,,train,2,takes/m3t27_r2.wav,I've asked you three times now. Please answer the question.,12.76,5.13,-0.12,2.66,-25.2,-9.2,0.05, I've asked you three times now. Please answer the question.
+m3t27,tense,,train,3,takes/m3t27_r3.wav,I've asked you three times now. Please answer the question.,11.96,7.96,-7.64,2.62,-25.7,-9.3,-0.68, I've asked you three times now. Please answer the question.
+m3t28,tense,,train,1,takes/m3t28_r1.wav,That's not what we agreed. We said Friday.,11.99,4.99,-3.72,2.5,-22.6,-8.5,1.81, That's not what we agreed. We said Friday.
+m3t28,tense,,train,2,takes/m3t28_r2.wav,That's not what we agreed. We said Friday.,10.98,3.18,-2.44,2.72,-24.2,-10.4,-0.56, That's not what we agreed. We said Friday.
+m3t28,tense,,train,3,takes/m3t28_r3.wav,That's not what we agreed. We said Friday.,12.71,5.61,-3.34,2.74,-26.4,-9.9,-1.25, That's not what we agreed. We said Friday.
+m3t29,tense,,train,1,takes/m3t29_r1.wav,"I'm sorry, but that's not my job.",10.33,6.52,-1.64,2.71,-26.3,-6.6,0.5," I'm sorry, but that's not my job."
+m3t29,tense,,train,2,takes/m3t29_r2.wav,"I'm sorry, but that's not my job.",10.14,8.51,-8.54,2.13,-25.1,-7.5,-0.5," I'm sorry, but that's not my job."
+m3t30,tense,,train,1,takes/m3t30_r1.wav,"No. I won't do it, and that's final.",9.19,3.51,-2.95,2.88,-24.4,-8.1,1.21," No, I won't do it and that's final."
+m3t30,tense,,train,2,takes/m3t30_r2.wav,"No. I won't do it, and that's final.",10.91,7.0,-0.27,2.25,-22.6,-10.7,0.29, No. I won't do it. And that's final.
+m3t30,tense,,train,3,takes/m3t30_r3.wav,"No. I won't do it, and that's final.",10.02,7.15,-3.9,2.59,-22.7,-12.3,-0.01," No, I won't do it and that's final."
+m3t32,tense,,train,1,takes/m3t32_r1.wav,I'm not asking. I'm telling you.,11.25,6.05,-6.64,2.47,-22.1,-5.4,3.2, I'm not asking. I'm telling you.
+m3t32,tense,,train,2,takes/m3t32_r2.wav,I'm not asking. I'm telling you.,10.19,3.51,-1.55,2.56,-23.9,-7.0,1.14, I'm not asking. I'm telling you.
+m3t32,tense,,train,3,takes/m3t32_r3.wav,I'm not asking. I'm telling you.,12.71,5.47,-4.07,2.6,-24.2,-7.6,0.77, I'm not asking. I'm telling you.
+m3t34,tense,,train,1,takes/m3t34_r1.wav,"If you have a problem, talk to me, not about me.",11.71,9.15,-8.63,2.96,-27.8,-12.1,0.0," If you have a problem, talk to me, not about me."
+m3t36,tense,,train,1,takes/m3t36_r1.wav,"Excuse me, that's my bag. Please don't touch it.",11.8,8.72,-0.56,2.53,-23.3,-8.6,2.59," Excuse me, that's my bag. Please don't touch it."
+m3t36,tense,,train,2,takes/m3t36_r2.wav,"Excuse me, that's my bag. Please don't touch it.",10.47,5.6,0.11,2.48,-25.5,-9.1,0.68," Excuse me, that's my bag. Please don't touch it."
+m3t36,tense,,train,3,takes/m3t36_r3.wav,"Excuse me, that's my bag. Please don't touch it.",10.59,5.96,-2.06,2.99,-26.8,-10.7,-0.61," Excuse me, that's my bag. Please don't touch it."
+m3t37,tense,,train,1,takes/m3t37_r1.wav,"I'd like a refund, please. This is the second time it's broken.",13.63,10.09,-8.58,2.87,-27.6,-7.1,0.54, I'd like a refund please. This is the second time it's broken.
+m3t37,tense,,train,2,takes/m3t37_r2.wav,"I'd like a refund, please. This is the second time it's broken.",10.76,9.54,-8.83,2.78,-26.0,-8.9,0.05," I'd like a refund, please. This is the second time it's broken."
+m3t37,tense,,train,3,takes/m3t37_r3.wav,"I'd like a refund, please. This is the second time it's broken.",10.5,5.65,-3.12,2.84,-26.5,-9.6,-0.6, I'd like a refund please. This is the second time it's broken.
+m3t38,tense,,train,1,takes/m3t38_r1.wav,Please stop. That's enough.,12.71,6.27,-4.39,1.69,-21.6,-7.0,2.13, Please stop. That's enough.
+m3t38,tense,,train,2,takes/m3t38_r2.wav,Please stop. That's enough.,12.43,7.87,-6.05,2.16,-22.7,-7.4,1.76, Please stop. That's enough.
+m3t38,tense,,train,3,takes/m3t38_r3.wav,Please stop. That's enough.,11.28,4.11,-4.66,1.69,-26.2,-6.7,0.19, Please stop. That's enough.
+m3t39,tense,,train,1,takes/m3t39_r1.wav,I'm not angry. I'm disappointed.,13.66,9.15,-1.99,1.95,-22.6,-7.4,1.46, I'm not angry. I'm disappointed.
+m3t39,tense,,train,2,takes/m3t39_r2.wav,I'm not angry. I'm disappointed.,12.05,5.27,-1.53,1.88,-22.6,-6.7,1.25, I'm not angry. I'm disappointed.
+m3t39,tense,,train,3,takes/m3t39_r3.wav,I'm not angry. I'm disappointed.,12.34,8.53,-6.07,1.67,-22.2,-8.0,0.45, I'm not angry. I'm disappointed.
+m3t40,tense,,train,1,takes/m3t40_r1.wav,"Next time, ask before you take something.",13.55,7.81,-4.33,2.56,-26.0,-4.7,1.76," Next time, ask before you take something."
+m3t40,tense,,train,2,takes/m3t40_r2.wav,"Next time, ask before you take something.",11.51,4.42,-0.39,2.65,-26.5,-4.1,1.66," Next time, ask before you take something."
+m3t40,tense,,train,3,takes/m3t40_r3.wav,"Next time, ask before you take something.",12.26,8.91,-1.83,2.98,-26.2,-5.9,1.07," Next time, ask before you take something."
+m3t41,tense,,train,1,takes/m3t41_r1.wav,The landlord wants more rent. Again. For the same tiny flat.,11.16,7.91,-7.61,2.62,-22.7,-8.7,2.56," The landlord wants more rent, again, for the same tiny flat."
+m3t41,tense,,train,2,takes/m3t41_r2.wav,The landlord wants more rent. Again. For the same tiny flat.,10.97,9.79,-6.56,2.74,-23.4,-9.3,1.84," The landlord wants more rent. Again, for the same tiny flat."
+m3t41,tense,,train,3,takes/m3t41_r3.wav,The landlord wants more rent. Again. For the same tiny flat.,10.54,6.92,-3.11,2.63,-24.5,-8.6,1.49, The landlord wants more rent. Again. For the same tiny flat.
+m3t42,tense,,train,1,takes/m3t42_r1.wav,The bus driver didn't stop. I was standing right there.,11.56,6.29,-5.97,2.91,-24.2,-10.0,2.5, The bus driver didn't stop. I was standing right there.
+m3t42,tense,,train,2,takes/m3t42_r2.wav,The bus driver didn't stop. I was standing right there.,13.62,8.25,-5.01,2.62,-25.8,-10.6,-2.5, The bus driver didn't stop. I was standing right there.
+m3t45,tense,,train,1,takes/m3t45_r1.wav,My neighbour plays loud music every night until two.,10.7,5.12,-3.34,2.99,-23.8,-12.7,2.5, My neighbor plays loud music every night until 2.
+m3t45,tense,,train,2,takes/m3t45_r2.wav,My neighbour plays loud music every night until two.,10.92,7.06,-4.53,2.79,-25.7,-14.1,-2.5, My neighbor plays loud music every night until 2.
+m3t47,tense,,train,1,takes/m3t47_r1.wav,Priya used my shampoo again without asking.,10.01,7.85,-7.78,2.96,-23.0,-15.7,0.68, Priya used my shampoo again without asking.
+m3t47,tense,,train,2,takes/m3t47_r2.wav,Priya used my shampoo again without asking.,10.9,7.27,-6.86,2.73,-24.6,-10.1,0.5, Priya used my shampoo again without asking.
+m3t47,tense,,train,3,takes/m3t47_r3.wav,Priya used my shampoo again without asking.,10.47,6.94,-6.79,2.83,-24.4,-12.0,0.47, Priya used my shampoo again without asking.
+m3t48,tense,,train,1,takes/m3t48_r1.wav,"The internet's been down since morning, and nobody's answering the phone.",10.06,6.55,-5.51,2.66,-24.6,-13.0,0.0, The internet's been down since morning. And nobody's answering the phone.
+m3t50,tense,,train,1,takes/m3t50_r1.wav,Someone took my umbrella from the café. My new one.,10.39,7.74,-6.09,2.93,-24.4,-13.1,0.0, Someone took my umbrella from the cafe. My new one.
+m3t52,tense,,train,1,takes/m3t52_r1.wav,"They changed the class time again, and nobody told us.",12.69,5.92,1.07,2.99,-24.9,-11.3,2.98, They changed the class time again and nobody told us.
+m3t52,tense,,train,2,takes/m3t52_r2.wav,"They changed the class time again, and nobody told us.",12.88,7.09,-1.66,2.81,-25.3,-11.6,0.13, They changed the class time again and nobody told us.
+m3t52,tense,,train,3,takes/m3t52_r3.wav,"They changed the class time again, and nobody told us.",11.1,6.49,-4.49,2.65,-25.9,-11.9,-3.11," They changed the class time again, and nobody told us."
+m3t53,tense,,train,1,takes/m3t53_r1.wav,Wait. He said what?,11.23,5.9,-1.23,2.93,-21.5,-9.5,3.7," Wait, he said what?"
+m3t53,tense,,train,2,takes/m3t53_r2.wav,Wait. He said what?,14.36,6.67,5.92,2.18,-26.1,-8.8,1.1," Wait, he said what?"
+m3t53,tense,,train,3,takes/m3t53_r3.wav,Wait. He said what?,11.41,5.32,-0.93,2.08,-24.0,-11.6,0.11," Wait, he said what?"
+m3t54,tense,,train,1,takes/m3t54_r1.wav,Seriously? After everything you did for him?,13.33,10.16,-3.73,2.12,-21.0,-8.1,2.74, Seriously? After everything you did for him?
+m3t54,tense,,train,2,takes/m3t54_r2.wav,Seriously? After everything you did for him?,13.08,6.76,-0.15,2.38,-23.3,-8.3,1.05, Seriously? After everything you did for him?
+m3t54,tense,,train,3,takes/m3t54_r3.wav,Seriously? After everything you did for him?,16.5,10.23,-0.36,2.41,-23.8,-9.5,0.05, Seriously? After everything you did for him?
+m3t55,tense,,train,1,takes/m3t55_r1.wav,"No. That's not fair, and you know it.",10.06,5.82,1.23,2.66,-21.2,-8.2,2.95," No, that's not fair and you know it."
+m3t55,tense,,train,2,takes/m3t55_r2.wav,"No. That's not fair, and you know it.",10.56,6.14,0.28,2.86,-21.8,-10.8,1.29," No, that's not fair, and you know it."
+m3t55,tense,,train,3,takes/m3t55_r3.wav,"No. That's not fair, and you know it.",11.58,7.29,-0.83,2.91,-23.0,-10.5,1.08," No, that's not fair and you know it."
+m3t56,tense,,train,1,takes/m3t56_r1.wav,Hmm. I don't believe that for a second.,9.67,6.64,-1.29,2.42,-26.4,-11.6,0.48, I don't believe that for a second.
+m3t56,tense,,train,2,takes/m3t56_r2.wav,Hmm. I don't believe that for a second.,8.76,3.97,-3.23,2.16,-26.5,-11.2,0.43, I don't believe that for a second.
+m3t56,tense,,train,3,takes/m3t56_r3.wav,Hmm. I don't believe that for a second.,9.97,6.42,-0.9,2.95,-27.1,-12.6,-0.23, I don't believe that for a second.
+m3t59,tense,,train,1,takes/m3t59_r1.wav,"No, listen again. The question was ""where"", not ""when"".",10.31,6.65,-3.06,1.74,-26.1,-8.4,1.41," No, listen again. The question was where, not when."
+m3t59,tense,,train,2,takes/m3t59_r2.wav,"No, listen again. The question was ""where"", not ""when"".",9.67,5.22,-1.55,2.17,-25.1,-12.5,0.53," No, listen again. The question was where, not when."
+m3t59,tense,,train,3,takes/m3t59_r3.wav,"No, listen again. The question was ""where"", not ""when"".",9.95,4.15,-1.89,1.82,-26.6,-9.7,0.42," No, listen again. The question was where, not when."
+m3t60,tense,,train,1,takes/m3t60_r1.wav,"Stop guessing. Think first, and then answer.",11.73,6.01,-0.3,1.88,-24.3,-6.4,1.92, Stop guessing. Think first and then answer.
+m3t60,tense,,train,2,takes/m3t60_r2.wav,"Stop guessing. Think first, and then answer.",11.14,10.82,-7.91,1.8,-23.6,-7.6,0.67," Stop guessing. Think first, and then answer."
+m3t60,tense,,train,3,takes/m3t60_r3.wav,"Stop guessing. Think first, and then answer.",11.67,6.43,-3.03,2.25,-25.0,-7.2,0.56," Stop guessing. Think first, and then answer."
+m3t61,tense,,train,1,takes/m3t61_r1.wav,"You said ""go"" again. It's ""went"". Try it once more.",10.31,6.46,-1.78,2.47,-26.8,-8.7,1.11, You said go again. It's went. Try it once more.
+m3t61,tense,,train,2,takes/m3t61_r2.wav,"You said ""go"" again. It's ""went"". Try it once more.",14.7,11.03,-2.92,1.77,-21.2,-10.1,0.76, You said go again. It's went. Try it once more.
+m3t61,tense,,train,3,takes/m3t61_r3.wav,"You said ""go"" again. It's ""went"". Try it once more.",10.83,6.17,-2.96,2.24,-24.5,-9.8,0.27, You said go again. It's went. Try it once more.
+m3t63,tense,,train,1,takes/m3t63_r1.wav,"That's the third time. Slow down, please.",13.57,9.18,-7.72,2.08,-21.4,-7.7,1.92," That's the third time. Slow down, please."
+m3t63,tense,,train,2,takes/m3t63_r2.wav,"That's the third time. Slow down, please.",10.99,6.82,-4.74,1.99,-23.9,-6.9,1.2," That's the third time. Slow down, please."
+m3t63,tense,,train,3,takes/m3t63_r3.wav,"That's the third time. Slow down, please.",12.25,6.16,-6.05,2.25,-25.0,-7.4,0.27," That's the third time. Slow down, please."
+m3t64,tense,,train,1,takes/m3t64_r1.wav,"No phones in class, please. Put it away.",11.72,7.67,-3.9,2.11,-22.3,-11.6,1.07, No phones in class. Please. Put it away.
+m3t64,tense,,train,2,takes/m3t64_r2.wav,"No phones in class, please. Put it away.",10.27,6.36,-1.91,2.39,-26.9,-11.3,0.17," No phones in class, please. Put it away."
+m3t64,tense,,train,3,takes/m3t64_r3.wav,"No phones in class, please. Put it away.",10.92,5.33,-5.15,2.72,-26.2,-12.3,-1.24," No phones in class, please. Put it away."
+m3t65,tense,,train,1,takes/m3t65_r1.wav,"That film was too long, too loud, and the ending made no sense.",12.22,7.78,-3.12,2.82,-23.5,-10.5,0.81," That film was too long, too loud, and the ending made no sense."
+m3t65,tense,,train,2,takes/m3t65_r2.wav,"That film was too long, too loud, and the ending made no sense.",12.61,4.94,-4.17,2.68,-24.2,-10.6,-0.23," That film was too long, too loud, and the ending made no sense."
+m3t65,tense,,train,3,takes/m3t65_r3.wav,"That film was too long, too loud, and the ending made no sense.",13.39,9.49,-5.81,2.59,-18.5,-14.1,-0.57," That film was too long, too loud, and the ending made no sense."
+m3t67,tense,,train,1,takes/m3t67_r1.wav,Sam talked all through the film. I missed the best part.,12.34,6.63,-4.85,2.96,-24.8,-9.4,2.94, Sam talked all through the film. I missed the best part.
+m3t67,tense,,train,2,takes/m3t67_r2.wav,Sam talked all through the film. I missed the best part.,10.76,6.49,-5.51,2.95,-26.9,-10.2,-0.75, Sam talked all through the film. I missed the best part.
+m3t67,tense,,train,3,takes/m3t67_r3.wav,Sam talked all through the film. I missed the best part.,11.71,4.83,-2.5,2.66,-26.2,-11.0,-2.19, Sam talked all through the film. I missed the best part.
+m3t68,tense,,val,1,takes/m3t68_r1.wav,Someone deleted my photos from the shared folder. Without asking.,10.91,4.64,-3.12,2.4,-23.5,-7.4,2.82, Someone deleted my photos from the shared folder without asking.
+m3t68,tense,,val,2,takes/m3t68_r2.wav,Someone deleted my photos from the shared folder. Without asking.,10.7,8.55,-5.49,2.6,-25.0,-10.6,0.98," Someone deleted my photos from the shared folder, without asking."
+m3t68,tense,,val,3,takes/m3t68_r3.wav,Someone deleted my photos from the shared folder. Without asking.,10.21,7.23,-5.13,2.62,-25.6,-12.5,-0.45," Someone deleted my photos from the shared folder, without asking."
+m3t69,tense,,train,1,takes/m3t69_r1.wav,They cancelled the train to Madurai. Two days before.,13.15,7.66,-5.27,2.83,-25.5,-11.9,0.76, They canceled the train to Manorai two days before.
+m3t69,tense,,train,2,takes/m3t69_r2.wav,They cancelled the train to Madurai. Two days before.,11.95,10.04,-7.37,2.78,-26.5,-10.9,0.14, They cancelled the train to Manorai two days before.
+m3t69,tense,,train,3,takes/m3t69_r3.wav,They cancelled the train to Madurai. Two days before.,11.25,6.91,-5.44,2.48,-25.1,-12.8,-0.9, They cancelled the train to Madurai two days before.
+m3t70,tense,,train,1,takes/m3t70_r1.wav,"First he complained about the tea, then about the cake, and then he wanted a discount.",11.47,7.57,-4.88,3.0,-25.3,-12.0,0.0," First he complained about the tea, then about the cake, and then he wanted a discount."
+m3t72,tense,,train,1,takes/m3t72_r1.wav,"After that, he took a photo of my name badge. Can you believe it?",14.38,9.5,5.18,2.88,-23.2,-13.4,0.0," After that, he took a photo of my name badge. Can you believe it?"
+m3t74,tense,,train,1,takes/m3t74_r1.wav,Thirty-three rupees for a bottle of water? That's too much.,12.56,9.96,-5.55,2.95,-22.5,-10.5,0.72, 33 rupees for a bottle of water? That's too much.
+m3t74,tense,,train,2,takes/m3t74_r2.wav,Thirty-three rupees for a bottle of water? That's too much.,12.16,7.73,-2.38,2.85,-24.6,-8.3,0.53, 33 rupees for a bottle of water? That's too much.
+m3t74,tense,,train,3,takes/m3t74_r3.wav,Thirty-three rupees for a bottle of water? That's too much.,11.9,8.14,-4.48,2.85,-23.1,-9.8,0.15, 33 rupees for a bottle of water? That's too much.
+m3t75,tense,,train,1,takes/m3t75_r1.wav,Three hours late. Because of fog. Again.,10.44,4.84,-4.38,1.51,-25.1,-8.7,1.09, Three hours late. Because of fog. Again.
+m3t75,tense,,train,2,takes/m3t75_r2.wav,Three hours late. Because of fog. Again.,10.05,4.61,-4.44,1.94,-26.1,-9.8,0.94, Three hours late. Because of fog. Again.
+m3t75,tense,,train,3,takes/m3t75_r3.wav,Three hours late. Because of fog. Again.,11.35,6.14,-2.55,1.8,-23.5,-12.5,0.34, Three hours late. Because of fog. Again.
+m3xl01,low,,train,1,takes/m3xl01_r1.wav,Do you think she's okay?,11.38,4.2,10.3,2.17,-29.0,-12.9,0.0, Do you think she's okay?
+m3xl03,low,,train,1,takes/m3xl03_r1.wav,Is it my fault?,10.6,0.99,7.15,1.66,-30.7,-12.7,0.0, Is it my fault?
+m3xl05,low,,train,1,takes/m3xl05_r1.wav,Can we talk tomorrow instead?,9.98,2.58,-2.48,1.94,-28.9,-12.7,-0.2, Can we talk tomorrow instead?
+m3xl05,low,,train,2,takes/m3xl05_r2.wav,Can we talk tomorrow instead?,12.72,1.73,-0.56,1.79,-28.2,-14.0,-1.08, Can we talk tomorrow instead?
+m3xl05,low,,train,3,takes/m3xl05_r3.wav,Can we talk tomorrow instead?,9.76,2.8,-2.4,2.23,-29.0,-13.0,-1.54, Can we talk tomorrow instead?
+m3xl07,low,,train,1,takes/m3xl07_r1.wav,I miss her so much!,12.34,4.43,-2.73,2.52,-27.1,-5.9,0.5, I miss her so much.
+m3xl07,low,,train,2,takes/m3xl07_r2.wav,I miss her so much!,13.63,1.88,-0.66,2.55,-26.8,-8.0,-2.5, I miss her so much.
+m3xl09,low,,train,1,takes/m3xl09_r1.wav,"Please, just call me back!",10.87,3.03,-7.63,2.34,-27.1,-7.9,1.86, Please just call me back
+m3xl09,low,,train,2,takes/m3xl09_r2.wav,"Please, just call me back!",15.42,2.86,0.09,2.21,-25.6,-9.9,-0.69," Please, just call me back."
+m3xl09,low,,train,3,takes/m3xl09_r3.wav,"Please, just call me back!",14.81,6.1,-5.15,2.52,-25.3,-11.1,-3.86," Please, just call me back."
+m3xl10,low,,train,1,takes/m3xl10_r1.wav,I tried so hard!,12.7,5.25,-5.35,2.47,-26.4,-8.3,0.56, I tried so hard.
+m3xl10,low,,train,2,takes/m3xl10_r2.wav,I tried so hard!,11.04,5.93,-4.57,2.47,-26.3,-6.8,-0.55, I tried so hard.
+m3xl10,low,,train,3,takes/m3xl10_r3.wav,I tried so hard!,11.32,6.65,-6.22,2.04,-25.3,-6.1,-2.51, I tried so hard.
+m3xl12,low,,train,1,takes/m3xl12_r1.wav,I'm so tired of being alone!,11.94,5.85,-4.67,2.29,-24.3,-10.2,0.0, I'm so tired of being alone.
+m3xl13,low,,train,1,takes/m3xl13_r1.wav,It's not fair!,11.8,9.06,-6.42,2.81,-26.8,-11.3,1.84, It's not fair.
+m3xl13,low,,train,2,takes/m3xl13_r2.wav,It's not fair!,14.8,6.5,-5.96,2.65,-25.6,-6.4,-0.22, It's not fair.
+m3xl13,low,,train,3,takes/m3xl13_r3.wav,It's not fair!,13.66,8.0,-6.71,2.87,-27.4,-7.8,-0.31, It's not fair.
+m3xt03,tense,,train,1,takes/m3xt03_r1.wav,Stop it. Right now!,10.86,7.55,-4.21,2.21,-19.0,-3.3,2.41, Stop it. Right now.
+m3xt03,tense,,train,2,takes/m3xt03_r2.wav,Stop it. Right now!,14.28,8.62,-8.77,1.82,-18.5,-2.0,2.01, Stop it. Right now.
+m3xt03,tense,,train,3,takes/m3xt03_r3.wav,Stop it. Right now!,12.5,4.75,-3.22,1.84,-20.5,-2.4,0.63, Stop it. Right now.
+m3xt04,tense,,val,1,takes/m3xt04_r1.wav,Give it back!,13.5,4.99,-5.22,4.14,-17.1,-6.0,2.35, Give it back.
+m3xt04,tense,,val,2,takes/m3xt04_r2.wav,Give it back!,13.61,4.57,-4.57,4.39,-18.9,-7.0,0.38, Give it back.
+m3xt04,tense,,val,3,takes/m3xt04_r3.wav,Give it back!,12.57,6.08,-6.76,4.85,-18.5,-9.1,0.18, Give it back.
+m3xt05,tense,,train,1,takes/m3xt05_r1.wav,That's enough!,14.08,2.04,1.18,2.53,-18.7,-5.1,1.93, That's enough.
+m3xt05,tense,,train,2,takes/m3xt05_r2.wav,That's enough!,14.59,4.69,-3.91,2.53,-19.8,-3.0,1.39, That's enough.
+m3xt05,tense,,train,3,takes/m3xt05_r3.wav,That's enough!,10.64,4.76,-3.39,1.8,-19.8,-2.1,0.57, That's enough.
+m3xt06,tense,,train,1,takes/m3xt06_r1.wav,Don't you dare!,14.19,5.16,-5.37,2.87,-20.3,-11.8,1.94, Don't you dare!
+m3xt06,tense,,train,2,takes/m3xt06_r2.wav,Don't you dare!,13.3,8.49,-7.04,2.65,-18.5,-14.4,0.89, Don't you dare.
+m3xt06,tense,,train,3,takes/m3xt06_r3.wav,Don't you dare!,13.43,4.69,-3.89,2.99,-21.7,-13.9,0.25, Don't you dare!
+m3xt07,tense,,train,1,takes/m3xt07_r1.wav,Not again!,11.68,4.74,-3.61,1.91,-17.9,-3.0,2.42, Not again.
+m3xt07,tense,,train,2,takes/m3xt07_r2.wav,Not again!,14.29,10.49,-5.78,1.8,-16.5,-4.6,2.1, Not again.
+m3xt07,tense,,train,3,takes/m3xt07_r3.wav,Not again!,13.2,8.6,-6.84,1.91,-17.9,-6.3,1.31, Not again!
+m3xt08,tense,,train,1,takes/m3xt08_r1.wav,"Out of my way, please!",9.5,6.34,-5.41,2.97,-21.8,-4.3,2.5," Out of my way, please."
+m3xt08,tense,,train,2,takes/m3xt08_r2.wav,"Out of my way, please!",12.17,7.68,-2.93,2.39,-22.8,-9.4,-2.5," Out of my way, please."
+m3xt09,tense,,val,1,takes/m3xt09_r1.wav,I said no!,11.19,8.14,-7.04,2.56,-20.3,-4.1,1.56, I said no.
+m3xt09,tense,,val,2,takes/m3xt09_r2.wav,I said no!,12.68,8.98,-8.49,2.7,-17.3,-8.4,1.16, I said no.
+m3xt09,tense,,val,3,takes/m3xt09_r3.wav,I said no!,12.02,3.98,-3.32,3.2,-21.5,-7.1,0.62, I said no.
+m3xt10,tense,,train,1,takes/m3xt10_r1.wav,Leave her alone!,12.7,8.23,-7.01,2.76,-16.5,-8.4,3.38, Leave her alone.
+m3xt10,tense,,train,2,takes/m3xt10_r2.wav,Leave her alone!,14.43,8.77,-8.74,3.06,-17.8,-13.0,1.39, Leave her alone.
+m3xt10,tense,,train,3,takes/m3xt10_r3.wav,Leave her alone!,12.78,8.09,-5.48,2.87,-21.7,-13.2,-0.65, Leave her alone.
+m3xt11,tense,,train,1,takes/m3xt11_r1.wav,"Fine… keep it, then.",10.01,3.35,-3.21,2.53,-23.4,-7.0,2.13, Fine. Keep it then.
+m3xt11,tense,,train,2,takes/m3xt11_r2.wav,"Fine… keep it, then.",10.03,4.83,-3.69,2.16,-24.7,-5.2,1.41, Fine. Keep it then.
+m3xt11,tense,,train,3,takes/m3xt11_r3.wav,"Fine… keep it, then.",13.45,8.61,-3.75,2.53,-24.5,-10.4,-0.32, Fine. Keep it then.
+m3xt12,tense,,train,1,takes/m3xt12_r1.wav,I'm waiting… still waiting.,11.04,7.18,-3.66,2.21,-20.9,-12.4,2.87, I'm waiting. Still waiting.
+m3xt12,tense,,train,2,takes/m3xt12_r2.wav,I'm waiting… still waiting.,9.94,4.2,-2.3,2.29,-21.9,-13.9,1.84, I'm waiting. Still waiting.
+m3xt12,tense,,train,3,takes/m3xt12_r3.wav,I'm waiting… still waiting.,9.32,3.91,-3.23,2.06,-24.7,-11.6,0.92," I'm waiting, still waiting."
+m3xt13,tense,,train,1,takes/m3xt13_r1.wav,Really… again?,14.78,7.16,0.48,1.19,-19.2,-18.8,1.39," Really, again..."
+m3xt13,tense,,train,2,takes/m3xt13_r2.wav,Really… again?,14.18,9.17,5.59,1.03,-21.2,-15.2,1.15, Really... again?
+m3xt13,tense,,train,3,takes/m3xt13_r3.wav,Really… again?,10.97,11.64,7.19,1.17,-25.0,-12.7,1.04, Really? Again?
+m3xt14,tense,,train,1,takes/m3xt14_r1.wav,I asked you… three times.,12.77,6.71,-3.6,2.0,-26.1,-8.1,0.72, I asked you three times.
+m3xt14,tense,,train,2,takes/m3xt14_r2.wav,I asked you… three times.,13.06,8.52,-6.54,2.39,-26.8,-8.6,0.65, I asked you three times.
+m3xt14,tense,,train,3,takes/m3xt14_r3.wav,I asked you… three times.,11.53,5.11,-1.85,2.19,-23.4,-10.4,0.3, I asked you three times.
+m3xt15,tense,,train,1,takes/m3xt15_r1.wav,Don't… just don't.,17.82,4.89,2.22,2.01,-20.2,-7.6,3.14, Don't. Just don't.
+m3xt15,tense,,train,2,takes/m3xt15_r2.wav,Don't… just don't.,12.82,5.2,-4.59,1.9,-21.0,-8.8,1.76, Don't. Just don't.
+m3xt15,tense,,train,3,takes/m3xt15_r3.wav,Don't… just don't.,11.84,3.5,-2.01,2.1,-26.6,-8.4,0.24, Don't just don't.
+m3xt16,tense,,train,1,takes/m3xt16_r1.wav,So that's how it is… okay.,13.14,5.45,-3.86,2.84,-26.0,-6.6,2.8," So, that's how it is. Okay."
+m3xt16,tense,,train,2,takes/m3xt16_r2.wav,So that's how it is… okay.,10.35,7.83,-2.33,2.87,-26.5,-10.1,-1.1, So that's how it is. Okay.
+m3xt16,tense,,train,3,takes/m3xt16_r3.wav,So that's how it is… okay.,12.13,7.78,-3.36,2.53,-26.8,-8.2,-1.7, So that's how it is. Okay.
+m3xt17,tense,,train,1,takes/m3xt17_r1.wav,You promised… and you didn't come.,11.4,4.52,-4.2,2.96,-24.7,-5.1,2.42," You promised, and you didn't come."
+m3xt17,tense,,train,2,takes/m3xt17_r2.wav,You promised… and you didn't come.,12.52,5.44,-3.61,2.68,-23.2,-10.2,0.61," You promised, and you didn't come."
+m3xt17,tense,,train,3,takes/m3xt17_r3.wav,You promised… and you didn't come.,11.48,7.25,-5.86,2.99,-26.9,-9.4,-0.25, You promised and you didn't come.
+m3xt18,tense,,train,1,takes/m3xt18_r1.wav,I'm not angry… I'm just done.,12.75,11.49,-11.1,2.63,-21.9,-9.0,2.26, I'm not angry. I'm just done.
+m3xt18,tense,,train,2,takes/m3xt18_r2.wav,I'm not angry… I'm just done.,11.8,6.93,-5.63,2.34,-23.6,-7.2,1.53, I'm not angry. I'm just done.
+m3xt18,tense,,train,3,takes/m3xt18_r3.wav,I'm not angry… I'm just done.,10.85,7.37,-6.3,2.68,-22.9,-11.8,0.57, I'm not angry. I'm just done.
+m3xl15,low,,train,1,takes/m3xl15_r1.wav,I wanted to say — never mind.,10.21,2.36,-2.23,1.97,-28.5,-13.0,3.81, I wanted to say... Never mind.
+m3xl15,low,,train,2,takes/m3xl15_r2.wav,I wanted to say — never mind.,10.05,4.39,-4.22,2.29,-28.4,-11.4,0.37, I wanted to say... Never mind.
+m3xl15,low,,train,3,takes/m3xl15_r3.wav,I wanted to say — never mind.,9.73,5.56,-5.34,2.08,-27.1,-9.2,-0.83, I wanted to say... Never mind.
+m3xl16,low,,val,1,takes/m3xl16_r1.wav,She was fine yesterday — and now this.,10.23,5.31,-5.37,2.45,-27.7,-8.1,0.5," She was fine yesterday, and now this."
+m3xl16,low,,val,2,takes/m3xl16_r2.wav,She was fine yesterday — and now this.,11.05,3.06,-3.14,2.54,-25.6,-11.1,-2.5," She was fine yesterday, and now this."
+m3xl17,low,,train,1,takes/m3xl17_r1.wav,I tried to call — but nobody answered.,10.46,3.46,-1.86,2.14,-31.2,-13.7,2.98," I tried to call, but nobody answered."
+m3xl17,low,,train,2,takes/m3xl17_r2.wav,I tried to call — but nobody answered.,10.31,7.3,-7.63,2.36,-30.6,-11.8,-1.79," I tried to call, but nobody answered."
+m3xl17,low,,train,3,takes/m3xl17_r3.wav,I tried to call — but nobody answered.,11.34,4.35,-2.66,2.52,-30.2,-13.9,-2.48," I tried to call, but nobody answered."
+m3xl18,low,,train,1,takes/m3xl18_r1.wav,It's just — I really miss them.,10.67,4.04,-3.85,2.38,-30.6,-7.0,2.53, It's just... I really miss them.
+m3xl18,low,,train,2,takes/m3xl18_r2.wav,It's just — I really miss them.,11.13,4.57,-3.77,1.9,-28.6,-8.7,0.82, It's just... I really miss them.
+m3xl18,low,,train,3,takes/m3xl18_r3.wav,It's just — I really miss them.,12.15,5.31,-5.27,1.97,-29.7,-6.6,-0.64, It's just... I really miss them.
+m3xl19,low,,train,1,takes/m3xl19_r1.wav,We had plans — big plans.,9.82,5.1,-5.01,1.91,-29.0,-12.4,1.66, We had plans. Big plans.
+m3xl19,low,,train,2,takes/m3xl19_r2.wav,We had plans — big plans.,9.58,5.18,-4.93,1.89,-27.7,-12.6,0.21, We had plans. Big plans.
+m3xl19,low,,train,3,takes/m3xl19_r3.wav,We had plans — big plans.,10.18,2.63,-2.06,2.44,-29.5,-12.7,-1.06, We had plans. Big plans.
+m3xl20,low,,train,1,takes/m3xl20_r1.wav,"I'm okay — really, I am.",8.82,1.9,-1.76,1.62,-29.2,-15.4,4.12," I'm okay. Really, I am."
+m3xl20,low,,train,2,takes/m3xl20_r2.wav,"I'm okay — really, I am.",9.72,5.75,-5.43,1.78,-25.9,-18.0,-0.28, I'm okay. Really. I am.
+m3xl20,low,,train,3,takes/m3xl20_r3.wav,"I'm okay — really, I am.",10.56,5.6,-4.06,1.76,-27.2,-14.0,-1.69," I'm okay, really. I am."
+m3xl21,low,,train,1,takes/m3xl21_r1.wav,He used to sing — every morning.,8.95,5.25,-4.95,2.58,-28.1,-11.6,1.5, He used to sing every morning.
+m3xl21,low,,train,2,takes/m3xl21_r2.wav,He used to sing — every morning.,10.66,6.18,-6.05,2.45,-26.6,-11.1,-3.5, He used to sing every morning.
+m3xl22,low,,train,1,takes/m3xl22_r1.wav,I didn't mean it — I'm sorry.,12.81,4.3,-4.55,1.22,-32.1,-8.1,1.17, I didn't mean it. I'm sorry.
+m3xl22,low,,train,2,takes/m3xl22_r2.wav,I didn't mean it — I'm sorry.,10.08,5.16,-4.73,2.36,-26.6,-13.7,-1.57, I didn't mean it. I'm sorry.
+m3xl22,low,,train,3,takes/m3xl22_r3.wav,I didn't mean it — I'm sorry.,8.41,9.49,0.31,1.79,-28.2,-7.9,-2.43, I didn't mean it. I'm sorry.
+m3xl24,low,,train,1,takes/m3xl24_r1.wav,I don't know — maybe I'm just tired.,11.62,8.05,-4.54,2.03,-30.5,-13.4,2.15, I don't know. Maybe I'm just tired.
+m3xl24,low,,train,2,takes/m3xl24_r2.wav,I don't know — maybe I'm just tired.,11.79,5.98,-4.86,2.36,-27.4,-16.7,-0.22, I don't know. Maybe I'm just tired.
+m3xl24,low,,train,3,takes/m3xl24_r3.wav,I don't know — maybe I'm just tired.,12.7,8.68,-8.82,2.13,-27.5,-9.8,-4.76, I don't know. Maybe I'm just tired.
+m3xt19,tense,,train,1,takes/m3xt19_r1.wav,Listen to me — not to him.,11.74,7.94,-7.5,2.9,-19.9,-6.0,2.7," Listen to me, not to him."
+m3xt19,tense,,train,2,takes/m3xt19_r2.wav,Listen to me — not to him.,14.04,8.15,-4.4,2.93,-20.5,-8.8,0.78," Listen to me, not to him."
+m3xt19,tense,,train,3,takes/m3xt19_r3.wav,Listen to me — not to him.,9.61,5.34,-5.17,2.63,-25.9,-5.5,-0.03," Listen to me, not to him."
+m3xt20,tense,,train,1,takes/m3xt20_r1.wav,I'll say it once — don't touch my things.,12.84,6.44,-3.84,2.98,-25.4,-8.9,0.0, I'll say it once. Don't touch my things.
+m3xt21,tense,,train,1,takes/m3xt21_r1.wav,You can stay — but be quiet.,10.61,6.36,-4.77,2.84,-23.4,-8.7,2.01," You can stay, but be quiet."
+m3xt21,tense,,train,2,takes/m3xt21_r2.wav,You can stay — but be quiet.,10.32,10.73,-10.28,2.96,-24.9,-8.4,1.69," You can stay, but be quiet."
+m3xt21,tense,,train,3,takes/m3xt21_r3.wav,You can stay — but be quiet.,11.67,5.69,-6.13,2.76,-25.0,-8.8,0.96," You can stay, but be quiet."
+m3xt22,tense,,train,1,takes/m3xt22_r1.wav,That's not the point — you lied.,11.69,4.03,-2.82,2.73,-23.2,-9.0,1.24, That's not the point. You lied.
+m3xt22,tense,,train,2,takes/m3xt22_r2.wav,That's not the point — you lied.,10.89,9.77,-7.12,2.9,-24.6,-7.8,1.14, That's not the point. You lied.
+m3xt22,tense,,train,3,takes/m3xt22_r3.wav,That's not the point — you lied.,15.39,4.62,-4.4,2.65,-25.3,-5.9,0.4, That's not the point. You lied.
+m3xt23,tense,,train,1,takes/m3xt23_r1.wav,No — that's not what happened.,10.31,2.1,-2.21,2.47,-24.0,-5.6,0.75," No, that's not what happened."
+m3xt23,tense,,train,2,takes/m3xt23_r2.wav,No — that's not what happened.,10.13,3.67,-4.0,1.36,-25.1,-4.3,0.14, No. That's not what happened.
+m3xt23,tense,,train,3,takes/m3xt23_r3.wav,No — that's not what happened.,12.22,6.19,-6.58,2.69,-22.1,-8.1,-0.01," No, that's not what happened."
+m3xt24,tense,,train,1,takes/m3xt24_r1.wav,I've had enough — I'm leaving.,10.71,4.84,-4.25,2.63,-22.7,-4.5,3.34, I've had enough. I'm leaving.
+m3xt24,tense,,train,2,takes/m3xt24_r2.wav,I've had enough — I'm leaving.,9.52,3.85,-1.77,2.6,-23.6,-9.8,0.19, I've had enough. I'm leaving.
+m3xt24,tense,,train,3,takes/m3xt24_r3.wav,I've had enough — I'm leaving.,11.39,3.72,-2.13,2.15,-24.0,-8.5,-0.53, I've had enough. I'm leaving.
+m3xt25,tense,,train,1,takes/m3xt25_r1.wav,Ask me first — every time.,13.71,7.93,-8.76,2.42,-23.0,-5.7,2.15," Ask me first, every time."
+m3xt25,tense,,train,2,takes/m3xt25_r2.wav,Ask me first — every time.,11.29,6.06,-6.41,2.34,-26.1,-3.6,0.72," Ask me first, every time."
+m3xt25,tense,,train,3,takes/m3xt25_r3.wav,Ask me first — every time.,12.17,7.36,-6.35,2.47,-25.7,-5.1,0.32, Ask me first. Every time.
+m3xt26,tense,,train,1,takes/m3xt26_r1.wav,He knew — and he said nothing.,10.67,6.32,-6.19,2.96,-19.7,-19.3,0.27," He knew, and he said nothing."
+m3xt26,tense,,train,2,takes/m3xt26_r2.wav,He knew — and he said nothing.,11.18,7.49,-7.37,2.58,-21.8,-16.1,0.15, He knew and he said nothing.
+m3xt26,tense,,train,3,takes/m3xt26_r3.wav,He knew — and he said nothing.,9.99,4.25,-4.41,2.99,-24.8,-16.1,-0.11," He knew, and he said nothing."
+m3xt27,tense,,train,1,takes/m3xt27_r1.wav,Not now — I'm working.,9.74,4.21,-1.36,2.5,-23.4,-5.2,2.27, Not now. I'm working.
+m3xt27,tense,,train,2,takes/m3xt27_r2.wav,Not now — I'm working.,10.18,1.7,-1.32,2.18,-23.5,-4.5,1.6, Not now. I'm working.
+m3xt27,tense,,train,3,takes/m3xt27_r3.wav,Not now — I'm working.,9.78,2.38,-0.49,2.37,-24.6,-6.8,-0.13, Not now. I'm working.
+m3xt28,tense,,val,1,takes/m3xt28_r1.wav,One more word — and I'm calling the manager.,10.29,7.58,-5.15,2.95,-21.2,-8.1,2.5, One more word and I'm calling the manager.
+m3xt28,tense,,val,2,takes/m3xt28_r2.wav,One more word — and I'm calling the manager.,9.48,7.09,-6.0,2.91,-22.4,-8.8,-2.5, One more word and I'm calling the manager.
+m3xl25,low,,train,1,takes/m3xl25_r1.wav,You're leaving tomorrow?!,11.75,5.79,-2.77,2.2,-22.5,-16.6,2.66, You're leaving tomorrow.
+m3xl25,low,,train,2,takes/m3xl25_r2.wav,You're leaving tomorrow?!,14.97,7.61,4.81,2.34,-23.6,-19.4,0.23, You're leaving tomorrow?
+m3xl25,low,,train,3,takes/m3xl25_r3.wav,You're leaving tomorrow?!,13.7,7.29,4.99,2.27,-23.3,-13.0,0.18, You're leaving tomorrow?
+m3xl27,low,,train,1,takes/m3xl27_r1.wav,You forgot again?!,12.99,4.42,2.97,2.13,-25.4,-12.4,5.91, You forgot again?
+m3xl27,low,,train,2,takes/m3xl27_r2.wav,You forgot again?!,12.79,6.51,4.98,2.34,-24.7,-13.4,0.5, You forgot again?
+m3xl27,low,,train,3,takes/m3xl27_r3.wav,You forgot again?!,13.15,6.6,4.63,2.38,-25.2,-13.4,0.44, You forgot again?
+m3xl29,low,,train,1,takes/m3xl29_r1.wav,They sold the old house?!,10.79,5.38,4.24,2.44,-28.6,-6.8,0.5, They sold the old house.
+m3xl29,low,,train,2,takes/m3xl29_r2.wav,They sold the old house?!,12.61,4.1,3.96,2.58,-26.7,-8.5,-2.5, They sold the old house?
+m3xl30,low,,train,1,takes/m3xl30_r1.wav,Nobody told me?!,13.19,7.67,6.51,2.87,-24.6,-21.3,1.28, Nobody told me.
+m3xl30,low,,train,2,takes/m3xl30_r2.wav,Nobody told me?!,13.68,8.9,6.92,2.81,-25.8,-17.9,0.39, Nobody told me?
+m3xl30,low,,train,3,takes/m3xl30_r3.wav,Nobody told me?!,15.58,7.59,7.44,2.34,-20.1,-20.9,0.21, Nobody told me.
+m3xl31,low,,train,1,takes/m3xl31_r1.wav,It's closing for good?!,12.45,7.61,7.05,2.44,-27.7,-13.6,0.0, It's closing for good.
+m3xl32,low,,train,1,takes/m3xl32_r1.wav,You knew all along?!,12.39,6.14,0.76,2.53,-21.9,-18.6,1.5, You knew all along?
+m3xl32,low,,train,2,takes/m3xl32_r2.wav,You knew all along?!,14.48,9.22,-7.69,2.37,-21.2,-16.0,-3.5, You knew all along.
+m3xl33,low,,train,1,takes/m3xl33_r1.wav,After all this time?!,11.69,6.97,5.59,2.31,-27.5,-9.7,1.5, After all this time?
+m3xl33,low,,train,2,takes/m3xl33_r2.wav,After all this time?!,11.86,8.84,7.5,2.44,-28.0,-7.7,-3.5, After all this time?
+m3xl34,low,,train,1,takes/m3xl34_r1.wav,She's moving away?!,11.67,4.67,3.74,2.31,-23.8,-17.2,2.37, She's moving away?
+m3xl34,low,,train,2,takes/m3xl34_r2.wav,She's moving away?!,12.66,5.89,2.1,2.76,-25.1,-16.1,0.15, She's moving away?
+m3xl34,low,,train,3,takes/m3xl34_r3.wav,She's moving away?!,11.73,8.51,6.2,2.31,-24.1,-17.6,0.01, She's moving away?
+m3xt29,tense,,train,1,takes/m3xt29_r1.wav,You read my messages?!,18.95,6.87,2.9,2.98,-19.5,-10.9,2.33, You read my messages?
+m3xt29,tense,,train,2,takes/m3xt29_r2.wav,You read my messages?!,12.04,11.87,11.02,2.31,-17.9,-11.5,1.46, You read my messages?
+m3xt29,tense,,train,3,takes/m3xt29_r3.wav,You read my messages?!,14.5,7.46,4.15,2.76,-19.4,-14.0,0.17, You read my messages?
+m3xt30,tense,,train,1,takes/m3xt30_r1.wav,You took my bag without asking?!,11.68,6.39,-6.32,2.18,-22.6,-4.6,1.5, You took my bag without asking.
+m3xt30,tense,,train,2,takes/m3xt30_r2.wav,You took my bag without asking?!,13.52,7.37,4.78,2.6,-24.4,-6.2,-1.5, You took my bag without asking?
+m3xt32,tense,,val,1,takes/m3xt32_r1.wav,You told my manager?!,15.53,9.2,3.25,2.88,-21.1,-13.6,2.5, You told my manager?
+m3xt32,tense,,val,2,takes/m3xt32_r2.wav,You told my manager?!,16.99,13.23,-3.5,2.84,-21.4,-16.3,-2.5, You told my manager?
+m3xt33,tense,,train,1,takes/m3xt33_r1.wav,They cancelled it again?!,16.04,7.2,4.63,2.88,-21.7,-13.8,1.1, They cancelled it again?
+m3xt33,tense,,train,2,takes/m3xt33_r2.wav,They cancelled it again?!,12.99,6.15,3.43,2.34,-21.2,-13.4,0.97, They cancelled it again?
+m3xt33,tense,,train,3,takes/m3xt33_r3.wav,They cancelled it again?!,12.92,9.93,9.18,2.16,-22.8,-10.4,0.71, They cancelled it again?
+m3xt35,tense,,train,1,takes/m3xt35_r1.wav,Who parked there?!,21.71,1.34,0.38,3.12,-21.5,-8.6,2.77, Who parked there?
+m3xt35,tense,,train,2,takes/m3xt35_r2.wav,Who parked there?!,18.42,3.8,4.16,3.61,-25.3,-9.8,0.51, Who parked there?
+m3xt35,tense,,train,3,takes/m3xt35_r3.wav,Who parked there?!,18.19,1.95,-0.55,2.99,-22.4,-14.0,-0.25, Who parked there?
+m3xt36,tense,,train,1,takes/m3xt36_r1.wav,You lost the keys?!,22.3,2.68,0.07,2.88,-21.0,-12.6,0.6, You lost the keys?
+m3xt36,tense,,train,2,takes/m3xt36_r2.wav,You lost the keys?!,12.72,6.17,4.96,2.4,-23.0,-8.0,0.27, You lost the keys?
+m3xt36,tense,,train,3,takes/m3xt36_r3.wav,You lost the keys?!,12.06,7.64,5.79,2.53,-24.2,-9.0,-0.87, You lost the keys?
+m3xt37,tense,,train,1,takes/m3xt37_r1.wav,He's late again?!,12.83,4.4,-3.35,2.1,-19.0,-12.4,2.58, He's late again?
+m3xt37,tense,,train,2,takes/m3xt37_r2.wav,He's late again?!,17.91,5.21,6.8,2.27,-19.7,-13.1,2.24, He's late again?
+m3xt37,tense,,train,3,takes/m3xt37_r3.wav,He's late again?!,12.77,7.66,4.96,2.01,-21.5,-14.0,-0.18, He's late again?
+m3xl35,low,,train,1,takes/m3xl35_r1.wav,I really TRIED.,9.77,4.15,-3.6,1.33,-27.2,-11.9,1.89, I really tried.
+m3xl35,low,,train,2,takes/m3xl35_r2.wav,I really TRIED.,8.62,2.14,-1.52,2.6,-28.9,-9.8,0.93, I really tried.
+m3xl35,low,,train,3,takes/m3xl35_r3.wav,I really TRIED.,9.92,1.98,-1.39,2.6,-29.6,-11.9,-0.14, I really tried.
+m3xl36,low,,train,1,takes/m3xl36_r1.wav,Nobody ASKED me.,10.16,6.2,-4.55,2.16,-25.4,-9.2,1.24, Nobody asked me
+m3xl36,low,,train,2,takes/m3xl36_r2.wav,Nobody ASKED me.,10.64,10.48,-6.36,2.1,-27.9,-7.4,0.68, Nobody asked me.
+m3xl36,low,,train,3,takes/m3xl36_r3.wav,Nobody ASKED me.,11.18,9.22,-2.91,2.2,-27.8,-9.9,-0.09, Nobody asked me.
+m3xl37,low,,train,1,takes/m3xl37_r1.wav,I just wanted to say GOODBYE.,10.17,4.15,-9.43,1.94,-30.6,-10.5,5.34, I just wanted to say goodbye.
+m3xl37,low,,train,2,takes/m3xl37_r2.wav,I just wanted to say GOODBYE.,10.51,7.29,-13.26,2.01,-29.2,-10.6,-3.35, I just wanted to say goodbye.
+m3xl37,low,,train,3,takes/m3xl37_r3.wav,I just wanted to say GOODBYE.,11.61,5.75,-5.65,1.99,-29.3,-6.0,-4.44, I just wanted to say... Goodbye.
+m3xl38,low,,val,1,takes/m3xl38_r1.wav,It was MY fault.,9.94,1.16,-0.45,2.57,-27.3,-13.5,0.5, It was my fault.
+m3xl38,low,,val,2,takes/m3xl38_r2.wav,It was MY fault.,9.6,1.88,-0.87,2.57,-27.1,-8.9,-2.5, It was my fault.
+m3xl39,low,,train,1,takes/m3xl39_r1.wav,I miss her EVERY day.,10.08,3.76,-1.38,2.23,-28.3,-11.2,0.5, I miss her every day.
+m3xl39,low,,train,2,takes/m3xl39_r2.wav,I miss her EVERY day.,15.19,8.19,-8.43,1.95,-25.2,-11.9,-2.5, I miss her... every day.
+m3xl40,low,,train,1,takes/m3xl40_r1.wav,She was ALWAYS there for me.,10.79,3.95,-3.06,2.1,-26.9,-9.4,0.0, She was always there for me.
+m3xl42,low,,train,1,takes/m3xl42_r1.wav,It's been SO long.,8.94,1.86,-1.42,2.23,-25.6,-8.2,0.67, It's been so long.
+m3xl42,low,,train,2,takes/m3xl42_r2.wav,It's been SO long.,10.41,5.07,-4.35,1.37,-28.4,-6.1,-0.29, It's been so long.
+m3xl42,low,,train,3,takes/m3xl42_r3.wav,It's been SO long.,11.81,2.11,-1.94,2.29,-28.8,-5.3,-1.32, It's been so long.
+m3xl43,low,,train,1,takes/m3xl43_r1.wav,I should have STAYED.,9.98,5.7,-5.07,2.26,-28.6,-6.5,-0.37, I should have stayed.
+m3xl43,low,,train,2,takes/m3xl43_r2.wav,I should have STAYED.,9.15,4.18,-2.1,2.29,-26.8,-5.2,-0.37, I should have stayed.
+m3xl43,low,,train,3,takes/m3xl43_r3.wav,I should have STAYED.,11.36,3.36,-0.6,2.34,-29.4,-5.3,-1.93, I should have stayed.
+m3xl44,low,,train,1,takes/m3xl44_r1.wav,NOBODY called.,8.78,1.04,-0.77,1.7,-28.4,-17.5,3.18, Nobody called.
+m3xl44,low,,train,2,takes/m3xl44_r2.wav,NOBODY called.,9.94,2.26,-2.28,1.67,-28.6,-16.6,1.27, Nobody called.
+m3xl44,low,,train,3,takes/m3xl44_r3.wav,NOBODY called.,9.38,3.84,-2.98,1.67,-25.1,-20.0,0.57, Nobody called.
+m3xt39,tense,,val,1,takes/m3xt39_r1.wav,I said NO.,9.7,6.98,-6.14,2.76,-21.5,-7.2,3.55, I said no.
+m3xt39,tense,,val,2,takes/m3xt39_r2.wav,I said NO.,12.6,3.03,-0.76,2.1,-21.8,-10.8,-0.03, I said no.
+m3xt39,tense,,val,3,takes/m3xt39_r3.wav,I said NO.,11.34,6.03,-5.59,2.1,-22.3,-10.4,-0.2, I said no.
+m3xt40,tense,,train,1,takes/m3xt40_r1.wav,That is NOT okay.,10.69,5.74,-6.23,2.68,-20.1,-2.1,2.6, That is not okay.
+m3xt40,tense,,train,2,takes/m3xt40_r2.wav,That is NOT okay.,10.78,8.02,-8.0,2.6,-19.3,-4.6,1.33, That is not okay.
+m3xt40,tense,,train,3,takes/m3xt40_r3.wav,That is NOT okay.,10.96,3.28,-2.07,2.98,-19.4,-7.1,0.66, That is not okay.
+m3xt41,tense,,train,1,takes/m3xt41_r1.wav,Ask BEFORE you take it.,12.19,3.09,-2.28,2.97,-22.2,-0.8,2.16, Ask before you take it.
+m3xt41,tense,,train,2,takes/m3xt41_r2.wav,Ask BEFORE you take it.,11.74,4.16,-1.95,2.79,-18.9,-6.9,-0.03, Ask before you take it.
+m3xt41,tense,,train,3,takes/m3xt41_r3.wav,Ask BEFORE you take it.,10.31,2.73,-2.48,2.66,-27.5,-4.8,-2.13, Ask before you take it.
+m3xt42,tense,,train,1,takes/m3xt42_r1.wav,I was HERE first.,10.5,3.41,-2.2,2.8,-22.2,-10.4,0.5, I was here first.
+m3xt42,tense,,train,2,takes/m3xt42_r2.wav,I was HERE first.,12.72,8.31,-7.02,2.57,-25.2,-6.0,-0.5, I was here first.
+m3xt43,tense,,train,1,takes/m3xt43_r1.wav,"It's MY job, not yours.",10.53,4.84,-2.62,2.23,-20.5,-2.6,2.33," It's my job, not yours."
+m3xt43,tense,,train,2,takes/m3xt43_r2.wav,"It's MY job, not yours.",10.44,6.35,-4.37,2.3,-20.9,-5.3,1.33," It's my job, not yours."
+m3xt43,tense,,train,3,takes/m3xt43_r3.wav,"It's MY job, not yours.",10.87,5.09,-4.95,2.89,-21.9,-9.7,0.44," It's my job, not yours."
+m3xt44,tense,,train,1,takes/m3xt44_r1.wav,You promised. TWICE.,10.01,8.92,-0.08,1.39,-20.2,-6.8,1.19, You promised. Twice.
+m3xt44,tense,,train,2,takes/m3xt44_r2.wav,You promised. TWICE.,10.34,4.71,-4.51,1.8,-25.9,-3.7,1.03, You promised. Twice.
+m3xt44,tense,,train,3,takes/m3xt44_r3.wav,You promised. TWICE.,10.72,5.22,-4.37,1.64,-23.6,-5.5,0.87, You promised. Twice.
+m3xt45,tense,,train,1,takes/m3xt45_r1.wav,Don't EVER do that again.,9.46,4.37,-2.18,2.89,-23.9,-9.6,0.5, Don't ever do that again.
+m3xt45,tense,,train,2,takes/m3xt45_r2.wav,Don't EVER do that again.,10.6,4.51,-3.24,2.55,-23.8,-13.5,-0.5, Don't ever do that again.
+m3xt46,tense,,train,1,takes/m3xt46_r1.wav,Put it BACK.,13.78,5.63,-5.69,3.61,-20.5,-5.7,2.72, Put it back.
+m3xt46,tense,,train,2,takes/m3xt46_r2.wav,Put it BACK.,14.0,3.69,-3.19,2.99,-20.8,-6.6,0.48, Put it back.
+m3xt46,tense,,train,3,takes/m3xt46_r3.wav,Put it BACK.,10.89,7.17,-7.33,3.06,-23.9,-5.7,-0.67, Put it back.
+m3xt47,tense,,train,1,takes/m3xt47_r1.wav,WHO took my umbrella?,9.37,3.05,-1.57,2.88,-23.2,-11.0,0.5, Who took my umbrella?
+m3xt47,tense,,train,2,takes/m3xt47_r2.wav,WHO took my umbrella?,11.57,9.83,-10.11,2.6,-22.4,-12.5,-0.5, Who took my umbrella?
+m3xl45,low,G6,train,1,takes/m3xl45_r1.wav,We're moving…,8.9,2.08,-1.38,2.53,-28.4,-24.0,4.35, We're moving.
+m3xl45,low,G6,train,2,takes/m3xl45_r2.wav,We're moving…,10.52,5.26,-2.81,2.6,-25.7,-21.5,-3.09, We're moving.
+m3xl45,low,G6,train,3,takes/m3xl45_r3.wav,We're moving…,10.31,5.54,-2.54,3.02,-26.4,-21.0,-4.05, We're moving.
+m3xt48,tense,G6,train,1,takes/m3xt48_r1.wav,We're moving?!,11.75,4.1,-3.78,2.93,-19.5,-14.0,2.27, We're moving.
+m3xt48,tense,G6,train,2,takes/m3xt48_r2.wav,We're moving?!,12.9,4.08,3.5,2.47,-18.6,-16.0,1.31, We're moving.
+m3xt48,tense,G6,train,3,takes/m3xt48_r3.wav,We're moving?!,13.36,7.16,6.17,2.34,-17.8,-17.7,1.01, We're moving?
+m3xl46,low,G7,train,1,takes/m3xl46_r1.wav,It's done…,7.92,4.23,-4.1,1.67,-32.4,-8.0,1.65, It's done.
+m3xl46,low,G7,train,2,takes/m3xl46_r2.wav,It's done…,8.64,4.6,-4.15,1.95,-30.4,-7.8,-0.84, It's done.
+m3xl46,low,G7,train,3,takes/m3xl46_r3.wav,It's done…,8.21,1.2,-0.76,2.47,-28.4,-7.6,-1.26, It's done.
+m3xt49,tense,G7,train,1,takes/m3xt49_r1.wav,It's DONE.,9.0,4.26,-4.47,2.4,-20.3,-7.9,1.69, It's done.
+m3xt49,tense,G7,train,2,takes/m3xt49_r2.wav,It's DONE.,9.36,3.34,-3.22,2.53,-24.2,-5.1,0.85, It's done.
+m3xt49,tense,G7,train,3,takes/m3xt49_r3.wav,It's DONE.,12.61,5.32,-5.6,2.47,-22.0,-7.9,0.46, It's done.
+m3xl47,low,G8,train,1,takes/m3xl47_r1.wav,Oh… you're back.,8.69,3.82,-3.68,1.6,-28.6,-10.4,1.29," Oh, you're back."
+m3xl47,low,G8,train,2,takes/m3xl47_r2.wav,Oh… you're back.,9.62,2.0,-1.31,1.55,-29.1,-8.2,1.23, Oh. You're back.
+m3xl47,low,G8,train,3,takes/m3xl47_r3.wav,Oh… you're back.,11.67,3.23,-9.57,1.53,-31.5,-7.8,-0.75, You're back.
+m3xt50,tense,G8,train,1,takes/m3xt50_r1.wav,You're back?,10.35,3.0,-2.93,3.47,-21.5,-3.8,3.44, You're back.
+m3xt50,tense,G8,train,2,takes/m3xt50_r2.wav,You're back?,9.4,2.24,-2.5,3.35,-26.8,-4.8,-0.17, You're back?
+m3xt50,tense,G8,train,3,takes/m3xt50_r3.wav,You're back?,10.2,2.31,1.65,3.23,-26.8,-5.0,-0.6, You're back.
+m3xl48,low,G9,val,1,takes/m3xl48_r1.wav,"Tomorrow, then…",9.34,1.15,-0.84,1.03,-28.2,-14.9,3.4, Tomorrow. Then.
+m3xl48,low,G9,val,2,takes/m3xl48_r2.wav,"Tomorrow, then…",9.71,2.5,-1.68,0.84,-27.3,-15.9,1.15," Tomorrow, then."
+m3xl48,low,G9,val,3,takes/m3xl48_r3.wav,"Tomorrow, then…",10.77,1.18,-0.36,1.34,-28.0,-9.4,0.11," Tomorrow, then..."
+m3xt51,tense,G9,val,1,takes/m3xt51_r1.wav,Tomorrow — then.,13.42,8.35,-2.8,1.49,-21.6,-4.8,3.13," Tomorrow, then."
+m3xt51,tense,G9,val,2,takes/m3xt51_r2.wav,Tomorrow — then.,18.75,7.33,8.22,1.38,-19.6,-8.4,2.36," Tomorrow, then."
+m3xt51,tense,G9,val,3,takes/m3xt51_r3.wav,Tomorrow — then.,12.99,7.95,-6.07,1.28,-21.5,-10.9,0.19, Tomorrow. Then.
+m3xl49,low,G10,train,1,takes/m3xl49_r1.wav,No more classes…,11.53,3.08,-1.99,2.34,-27.8,-10.8,0.73, No more classes.
+m3xl49,low,G10,train,2,takes/m3xl49_r2.wav,No more classes…,9.58,3.03,-1.91,2.47,-26.7,-11.4,-0.05, No more classes.
+m3xl49,low,G10,train,3,takes/m3xl49_r3.wav,No more classes…,9.81,3.85,-2.8,2.47,-27.5,-9.7,-0.89, No more classes.
+m3xt52,tense,G10,train,1,takes/m3xt52_r1.wav,No more classes?!,18.36,9.85,5.01,2.56,-19.1,-6.0,1.97, No more classes?
+m3xt52,tense,G10,train,2,takes/m3xt52_r2.wav,No more classes?!,10.43,5.61,-1.89,2.65,-21.2,-7.2,0.46, No more classes.
+m3xt52,tense,G10,train,3,takes/m3xt52_r3.wav,No more classes?!,13.26,5.98,-3.81,2.34,-16.0,-10.8,0.2, No more classes.
+m3xl53,low,,train,1,takes/m3xl53_r1.wav,I miss Jaffna so much!,11.02,3.39,-4.13,1.64,-27.5,-8.6,2.87, I miss Jaffa so much.
+m3xl53,low,,train,2,takes/m3xl53_r2.wav,I miss Jaffna so much!,12.9,2.63,-2.66,1.95,-27.0,-8.4,0.55, I miss Jaffna so much.
+m3xl53,low,,train,3,takes/m3xl53_r3.wav,I miss Jaffna so much!,10.77,3.51,-3.27,2.25,-26.3,-5.6,-0.84, I miss Jaffna so much.
+m3xl54,low,,train,1,takes/m3xl54_r1.wav,"I'm so sorry, Paati!",11.04,4.73,-4.56,2.08,-27.5,-6.7,2.78," I'm so sorry, potty."
+m3xl54,low,,train,2,takes/m3xl54_r2.wav,"I'm so sorry, Paati!",9.43,4.16,-3.87,2.53,-27.4,-8.6,1.9," I'm so sorry, potty."
+m3xl54,low,,train,3,takes/m3xl54_r3.wav,"I'm so sorry, Paati!",12.03,5.54,-4.53,2.13,-26.7,-10.2,-1.38," I'm so sorry, Potty."
+m3xl56,low,,train,1,takes/m3xl56_r1.wav,Everything went wrong!,8.69,6.44,-5.6,2.1,-25.1,-11.1,1.16, Everything went wrong.
+m3xl56,low,,train,2,takes/m3xl56_r2.wav,Everything went wrong!,10.39,5.96,-5.52,2.2,-25.7,-14.1,0.89, Everything went wrong.
+m3xl56,low,,train,3,takes/m3xl56_r3.wav,Everything went wrong!,9.44,4.33,-4.08,2.23,-25.1,-14.3,0.4, Everything went wrong.
+m3xl59,low,,train,1,takes/m3xl59_r1.wav,I should never have left!,12.34,4.55,-4.75,2.15,-25.7,-11.7,0.0, I should never have left.
+m3xl60,low,,train,1,takes/m3xl60_r1.wav,Please don't go!,10.11,6.55,-6.3,1.98,-26.3,-15.1,2.07, Please don't go.
+m3xl60,low,,train,2,takes/m3xl60_r2.wav,Please don't go!,10.19,6.02,-5.79,2.38,-26.6,-14.8,0.6, Please don't go.
+m3xl60,low,,train,3,takes/m3xl60_r3.wav,Please don't go!,8.97,11.6,-10.98,2.81,-24.2,-16.7,-1.49, Please don't go.
+m3xl61,low,,train,1,takes/m3xl61_r1.wav,I lost everything!,10.77,5.41,-4.78,1.43,-29.6,-9.9,4.93, I lost everything.
+m3xl61,low,,train,2,takes/m3xl61_r2.wav,I lost everything!,13.32,3.53,-3.63,2.23,-28.2,-9.8,-0.28, I lost everything.
+m3xl61,low,,train,3,takes/m3xl61_r3.wav,I lost everything!,13.4,5.0,-5.12,1.9,-27.4,-9.4,-0.35, I lost everything.
+m3xl63,low,,train,1,takes/m3xl63_r1.wav,"Not her, please!",9.46,4.45,-4.1,1.8,-26.3,-9.8,1.53," Not her, please."
+m3xl63,low,,train,2,takes/m3xl63_r2.wav,"Not her, please!",8.65,5.83,-5.46,1.9,-26.9,-6.5,1.18," Not her, please."
+m3xl63,low,,train,3,takes/m3xl63_r3.wav,"Not her, please!",12.51,6.06,-6.12,1.65,-26.2,-10.6,-0.31," Not her, please."
+m3xl64,low,,train,1,takes/m3xl64_r1.wav,I just needed a hug!,14.02,3.11,-1.25,2.39,-27.8,-15.5,3.5, I just needed a hug.
+m3xl64,low,,train,2,takes/m3xl64_r2.wav,I just needed a hug!,17.34,4.08,3.06,2.49,-26.7,-9.3,-5.5, I just needed a hug.
+m3xl65,low,,train,1,takes/m3xl65_r1.wav,It hurts so much!,9.76,2.02,-1.27,2.34,-26.6,-5.9,0.45, It hurts so much.
+m3xl65,low,,train,2,takes/m3xl65_r2.wav,It hurts so much!,12.32,6.44,-6.46,1.25,-29.9,-6.4,0.35, It hurts so much.
+m3xl65,low,,train,3,takes/m3xl65_r3.wav,It hurts so much!,11.1,2.73,-2.85,2.11,-26.1,-5.4,0.22, It hurts so much.
+m3xt53,tense,,train,1,takes/m3xt53_r1.wav,Put that down!,13.66,13.91,-12.74,2.81,-20.4,-7.7,2.02, Put that down.
+m3xt53,tense,,train,2,takes/m3xt53_r2.wav,Put that down!,15.52,11.37,-11.55,2.65,-21.2,-6.6,1.68, Put that down.
+m3xt53,tense,,train,3,takes/m3xt53_r3.wav,Put that down!,12.77,12.17,-12.13,2.76,-22.4,-6.8,0.81, Put that down.
+m3xt54,tense,,train,1,takes/m3xt54_r1.wav,Wait your turn!,14.68,4.23,0.31,2.81,-18.0,-9.4,2.37, Wait your turn.
+m3xt54,tense,,train,2,takes/m3xt54_r2.wav,Wait your turn!,13.99,5.57,-2.67,3.52,-21.8,-9.6,1.46, Wait your turn.
+m3xt54,tense,,train,3,takes/m3xt54_r3.wav,Wait your turn!,14.02,11.09,-10.38,3.06,-21.4,-9.8,0.74, Wait your turn.
+m3xt56,tense,,train,1,takes/m3xt56_r1.wav,Enough excuses!,14.84,3.19,-0.25,1.56,-17.5,-5.3,3.63, Enough excuses.
+m3xt56,tense,,train,2,takes/m3xt56_r2.wav,Enough excuses!,14.18,4.29,-3.41,1.64,-19.8,-7.6,0.76, Enough excuses.
+m3xt56,tense,,train,3,takes/m3xt56_r3.wav,Enough excuses!,12.8,2.49,-2.29,1.34,-21.2,-5.9,-0.2, Enough excuses.
+m3xt57,tense,,train,1,takes/m3xt57_r1.wav,Close the door!,13.55,7.24,-5.79,3.2,-20.4,-9.6,2.25, Close the door.
+m3xt57,tense,,train,2,takes/m3xt57_r2.wav,Close the door!,14.21,7.01,-6.36,2.87,-17.8,-14.2,1.14, Close the door.
+m3xt57,tense,,train,3,takes/m3xt57_r3.wav,Close the door!,14.83,8.93,-7.19,2.93,-19.5,-13.5,0.46, Close the door.
+m3xt59,tense,,train,1,takes/m3xt59_r1.wav,Move your bike!,16.42,2.4,1.24,3.52,-16.7,-3.8,1.78, Move your bike!
+m3xt59,tense,,train,2,takes/m3xt59_r2.wav,Move your bike!,17.26,6.91,-6.45,3.61,-14.6,-10.2,1.48, Move your bike!
+m3xt59,tense,,train,3,takes/m3xt59_r3.wav,Move your bike!,14.22,6.58,-0.79,3.52,-16.5,-6.2,1.29, Move your bike.
+m3xt60,tense,,train,1,takes/m3xt60_r1.wav,That's not yours!,14.92,3.56,2.53,2.51,-18.4,-6.5,1.18, That's not yours.
+m3xt60,tense,,train,2,takes/m3xt60_r2.wav,That's not yours!,11.45,5.57,-4.74,3.06,-23.5,-4.5,1.07, That's not yours.
+m3xt60,tense,,train,3,takes/m3xt60_r3.wav,That's not yours!,11.34,8.71,-4.19,2.87,-22.0,-5.9,0.65, That's not yours.
+m3xt61,tense,,train,1,takes/m3xt61_r1.wav,Keep your voice down!,17.79,9.75,-9.84,2.84,-20.2,-8.1,0.5, Keep your voice down.
+m3xt61,tense,,train,2,takes/m3xt61_r2.wav,Keep your voice down!,13.51,9.8,-9.16,2.72,-20.1,-12.9,-0.5, Keep your voice down.
+m3xt62,tense,,train,1,takes/m3xt62_r1.wav,Not in my café!,17.18,12.4,5.14,2.93,-17.6,-1.5,3.08, Not in my cafe.
+m3xt62,tense,,train,2,takes/m3xt62_r2.wav,Not in my café!,16.79,8.1,0.28,2.98,-21.1,-6.3,-1.11, Not in my cafe.
+m3xt62,tense,,train,3,takes/m3xt62_r3.wav,Not in my café!,11.7,5.5,-2.74,2.68,-21.1,-5.7,-1.97, Not in my cafe.
+m3xt63,tense,,train,1,takes/m3xt63_r1.wav,Answer the question!,17.23,6.3,-5.58,2.99,-21.3,-3.3,4.56, Answer the question.
+m3xt63,tense,,train,2,takes/m3xt63_r2.wav,Answer the question!,14.32,6.25,-4.33,2.99,-24.3,-9.4,-0.28, Answer the question.
+m3xt63,tense,,train,3,takes/m3xt63_r3.wav,Answer the question!,14.84,5.27,-4.83,2.56,-23.4,-11.0,-0.61, Answer the question.
+m3xt64,tense,,train,1,takes/m3xt64_r1.wav,Stop interrupting!,14.94,5.26,-5.97,1.74,-19.3,-4.1,2.52, Stop interrupting.
+m3xt64,tense,,train,2,takes/m3xt64_r2.wav,Stop interrupting!,12.36,4.55,-3.61,1.62,-19.8,-4.9,1.24, Stop interrupting.
+m3xt64,tense,,train,3,takes/m3xt64_r3.wav,Stop interrupting!,12.51,7.13,-6.88,1.62,-19.2,-5.4,1.05, Stop interrupting.
+m3xt67,tense,,train,1,takes/m3xt67_r1.wav,I'm still talking!,14.13,7.65,-2.97,2.87,-20.3,-3.5,2.66, I'm still talking.
+m3xt67,tense,,train,2,takes/m3xt67_r2.wav,I'm still talking!,13.5,7.56,-3.94,2.56,-21.5,-4.8,0.61, I'm still talking.
+m3xt67,tense,,train,3,takes/m3xt67_r3.wav,I'm still talking!,13.74,5.96,-5.25,3.12,-21.7,-7.1,0.18, I'm still talking.
+m3xt69,tense,,train,1,takes/m3xt69_r1.wav,I'm counting… one more time.,12.62,6.68,-7.03,2.32,-24.4,-7.1,1.7, I'm counting. One more time.
+m3xt69,tense,,train,2,takes/m3xt69_r2.wav,I'm counting… one more time.,8.74,4.5,-3.1,2.63,-25.4,-9.1,0.73, I'm counting one more time.
+m3xt69,tense,,train,3,takes/m3xt69_r3.wav,I'm counting… one more time.,11.28,8.46,-2.46,2.73,-23.7,-13.1,0.41, I'm counting one more time.
+m3xt70,tense,,train,1,takes/m3xt70_r1.wav,Sure… whatever you say.,12.48,7.54,-4.9,2.8,-21.1,-6.9,3.38, Sure. Whatever you say.
+m3xt70,tense,,train,2,takes/m3xt70_r2.wav,Sure… whatever you say.,9.3,5.31,-0.02,2.37,-23.7,-4.5,1.28," Sure, whatever you say."
+m3xt70,tense,,train,3,takes/m3xt70_r3.wav,Sure… whatever you say.,11.16,2.36,-1.01,2.6,-24.1,-6.2,0.67, Sure. Whatever you say.
+m3xt71,tense,,train,1,takes/m3xt71_r1.wav,Again… really?,10.57,12.19,6.25,1.59,-24.0,-12.2,1.88, Again? Really?
+m3xt71,tense,,train,2,takes/m3xt71_r2.wav,Again… really?,10.1,4.15,-3.08,1.19,-20.9,-13.8,1.61, Again. Really.
+m3xt71,tense,,train,3,takes/m3xt71_r3.wav,Again… really?,12.01,6.22,2.82,1.56,-24.0,-15.3,-0.16," Again, really?"
+m3xt72,tense,,train,1,takes/m3xt72_r1.wav,I'll wait… but not for long.,9.32,4.77,-4.01,2.84,-24.7,-6.4,2.5," I'll wait, but not for long."
+m3xt72,tense,,train,2,takes/m3xt72_r2.wav,I'll wait… but not for long.,9.3,4.46,-3.72,2.6,-29.8,-8.3,-2.5," I'll wait, but not for long."
+m3xt73,tense,,val,1,takes/m3xt73_r1.wav,You said six… it's eight.,12.36,5.69,-0.45,2.52,-26.1,-4.6,1.34, You said six. It's eight.
+m3xt73,tense,,val,2,takes/m3xt73_r2.wav,You said six… it's eight.,14.73,5.23,-0.96,2.13,-22.5,-6.9,0.0, You said six. It's eight.
+m3xt73,tense,,val,3,takes/m3xt73_r3.wav,You said six… it's eight.,12.94,4.47,-5.92,2.66,-27.4,-5.8,-0.16, You said six? It's eight.
+m3xt74,tense,,train,1,takes/m3xt74_r1.wav,Don't… touch that.,13.92,3.62,-0.45,2.31,-20.7,-6.3,2.05, Don't touch that.
+m3xt74,tense,,train,2,takes/m3xt74_r2.wav,Don't… touch that.,14.52,4.86,-1.0,3.52,-27.2,-6.1,0.76, Don't touch that.
+m3xt74,tense,,train,3,takes/m3xt74_r3.wav,Don't… touch that.,11.73,2.63,-2.03,3.52,-24.5,-10.0,-0.47, Don't touch that.
+m3xt75,tense,,train,1,takes/m3xt75_r1.wav,So… you lied to me.,11.17,6.93,-4.48,2.79,-22.6,-6.8,2.91," So, you lied to me."
+m3xt75,tense,,train,2,takes/m3xt75_r2.wav,So… you lied to me.,10.43,7.17,5.7,2.06,-22.0,-10.1,0.35," So, you lied to me."
+m3xt75,tense,,train,3,takes/m3xt75_r3.wav,So… you lied to me.,9.09,2.42,-1.42,2.82,-24.8,-9.2,0.26," So, you lied to me."
+m3xt76,tense,,train,1,takes/m3xt76_r1.wav,"I'm listening… go on, explain.",10.11,2.68,-0.68,1.92,-23.4,-8.0,2.85, I'm listening. Go on. Explain.
+m3xt76,tense,,train,2,takes/m3xt76_r2.wav,"I'm listening… go on, explain.",9.8,3.65,-2.36,2.6,-25.3,-8.4,1.24, I'm listening. Go on. Explain.
+m3xt76,tense,,train,3,takes/m3xt76_r3.wav,"I'm listening… go on, explain.",10.73,4.22,-3.38,1.89,-24.7,-9.1,-0.17, I'm listening. Go on. Explain.
+m3xt77,tense,,train,1,takes/m3xt77_r1.wav,Right… and whose fault is that?,10.13,4.98,-4.94,2.76,-23.7,-10.7,1.8, Right? And whose fault is that?
+m3xt77,tense,,train,2,takes/m3xt77_r2.wav,Right… and whose fault is that?,12.08,6.26,-2.46,2.01,-22.9,-10.6,1.33, Right. And whose fault is that?
+m3xt77,tense,,train,3,takes/m3xt77_r3.wav,Right… and whose fault is that?,13.19,7.53,-1.11,2.07,-25.5,-8.0,0.4, Right? And whose fault is that?
+m3xt78,tense,,train,1,takes/m3xt78_r1.wav,Thanks… for nothing.,12.17,6.6,-5.75,2.23,-22.7,-5.9,3.46, Thanks for nothing.
+m3xt78,tense,,train,2,takes/m3xt78_r2.wav,Thanks… for nothing.,13.95,5.26,-5.28,2.34,-22.7,-11.1,1.38, Thanks for nothing.
+m3xt78,tense,,train,3,takes/m3xt78_r3.wav,Thanks… for nothing.,12.89,5.96,-3.67,2.27,-26.6,-9.1,-0.27, Thanks for nothing.
+m3xl67,low,,train,1,takes/m3xl67_r1.wav,Are you still awake?,12.2,5.11,9.28,2.47,-28.3,-10.8,0.5, Are you still awake?
+m3xl67,low,,train,2,takes/m3xl67_r2.wav,Are you still awake?,14.39,5.15,3.02,2.29,-27.6,-13.2,-2.5, Are you still awake?
+m3xl69,low,,train,1,takes/m3xl69_r1.wav,I almost called you — but I couldn't.,9.73,4.63,-3.89,2.38,-30.4,-12.5,1.5," I almost called you, but I couldn't."
+m3xl69,low,,train,2,takes/m3xl69_r2.wav,I almost called you — but I couldn't.,10.87,8.94,-8.6,2.36,-30.0,-11.7,-3.5," I almost called you, but I couldn't."
+m3xt79,tense,,train,1,takes/m3xt79_r1.wav,Don't — I mean it.,12.39,3.17,-1.76,2.8,-21.3,-13.0,1.35, Don't. I mean it.
+m3xt79,tense,,train,2,takes/m3xt79_r2.wav,Don't — I mean it.,11.78,3.14,-0.29,2.6,-21.3,-15.8,0.33, Don't. I mean it.
+m3xt79,tense,,train,3,takes/m3xt79_r3.wav,Don't — I mean it.,10.57,5.18,-4.37,2.4,-24.7,-9.4,-0.37, Don't. I mean it.
+m3xl70,low,,train,1,takes/m3xl70_r1.wav,I only wanted ONE thing.,9.84,6.19,-6.03,2.3,-23.7,-16.1,-0.5, I only wanted one thing.
+m3xl70,low,,train,2,takes/m3xl70_r2.wav,I only wanted ONE thing.,10.27,6.28,-6.53,2.21,-24.3,-15.1,-1.5, I only wanted one thing.
+m3xt80,tense,,train,1,takes/m3xt80_r1.wav,I told you YESTERDAY.,12.35,9.12,-9.01,2.93,-23.0,-10.3,2.5, I told you yesterday.
+m3xt80,tense,,train,2,takes/m3xt80_r2.wav,I told you YESTERDAY.,11.89,5.83,-0.58,2.72,-23.9,-12.6,-2.5, I told you yesterday.
+m3xl71,low,,train,1,takes/m3xl71_r1.wav,He's not coming back?!,11.3,4.59,1.93,2.53,-27.9,-8.1,0.5, He's not coming back.
+m3xl71,low,,train,2,takes/m3xl71_r2.wav,He's not coming back?!,14.15,3.17,-2.95,2.57,-26.0,-9.2,-2.5, He's not coming back.
