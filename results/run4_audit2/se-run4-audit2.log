@@ -1,0 +1,45 @@
+[{"stream_name":"stdout","time":0.698717472,"data":"[  0.0 min] $ pip install -q scikit-learn soundfile\n"}
+,{"stream_name":"stdout","time":10.421781957,"data":"[  0.2 min] $ git clone -q --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":72.279216593,"data":"[  1.2 min] 577 clips embedded\n"}
+,{"stream_name":"stdout","time":76.291833542,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xn50.wav -b:a 64k /kaggle/working/blind/actor_blind_01.\n"}
+,{"stream_name":"stdout","time":76.925644106,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3t13.wav -b:a 64k /kaggle/working/blind/actor_blind_02.m\n"}
+,{"stream_name":"stdout","time":77.077527646,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xt52.wav -b:a 64k /kaggle/working/blind/actor_blind_03.\n"}
+,{"stream_name":"stdout","time":77.230460596,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3b25.wav -b:a 64k /kaggle/working/blind/actor_blind_04.m\n"}
+,{"stream_name":"stdout","time":77.386737528,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xn47.wav -b:a 64k /kaggle/working/blind/actor_blind_05.\n"}
+,{"stream_name":"stdout","time":77.519034002,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xt51.wav -b:a 64k /kaggle/working/blind/actor_blind_06.\n"}
+,{"stream_name":"stdout","time":77.663713968,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3n37.wav -b:a 64k /kaggle/working/blind/actor_blind_07.m\n"}
+,{"stream_name":"stdout","time":77.810157806,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xl47.wav -b:a 64k /kaggle/working/blind/actor_blind_08.\n"}
+,{"stream_name":"stdout","time":77.953476297,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3n38.wav -b:a 64k /kaggle/working/blind/actor_blind_09.m\n"}
+,{"stream_name":"stdout","time":78.098465231,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xt49.wav -b:a 64k /kaggle/working/blind/actor_blind_10.\n"}
+,{"stream_name":"stdout","time":78.237114805,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xb38.wav -b:a 64k /kaggle/working/blind/actor_blind_11.\n"}
+,{"stream_name":"stdout","time":78.384768475,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xb34.wav -b:a 64k /kaggle/working/blind/actor_blind_12.\n"}
+,{"stream_name":"stdout","time":78.504708303,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3t15.wav -b:a 64k /kaggle/working/blind/actor_blind_13.m\n"}
+,{"stream_name":"stdout","time":78.635782645,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3l20.wav -b:a 64k /kaggle/working/blind/actor_blind_14.m\n"}
+,{"stream_name":"stdout","time":78.789745812,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3l19.wav -b:a 64k /kaggle/working/blind/actor_blind_15.m\n"}
+,{"stream_name":"stdout","time":78.933565171,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xl49.wav -b:a 64k /kaggle/working/blind/actor_blind_16.\n"}
+,{"stream_name":"stdout","time":79.075088358,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3b23.wav -b:a 64k /kaggle/working/blind/actor_blind_17.m\n"}
+,{"stream_name":"stdout","time":79.220169438,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xb37.wav -b:a 64k /kaggle/working/blind/actor_blind_18.\n"}
+,{"stream_name":"stdout","time":79.368935219,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3t14.wav -b:a 64k /kaggle/working/blind/actor_blind_19.m\n"}
+,{"stream_name":"stdout","time":79.519070631,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xb36.wav -b:a 64k /kaggle/working/blind/actor_blind_20.\n"}
+,{"stream_name":"stdout","time":79.646211529,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xl46.wav -b:a 64k /kaggle/working/blind/actor_blind_21.\n"}
+,{"stream_name":"stdout","time":79.78851488,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xl45.wav -b:a 64k /kaggle/working/blind/actor_blind_22.\n"}
+,{"stream_name":"stdout","time":79.924359207,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xn48.wav -b:a 64k /kaggle/working/blind/actor_blind_23.\n"}
+,{"stream_name":"stdout","time":80.057996814,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3l18.wav -b:a 64k /kaggle/working/blind/actor_blind_24.m\n"}
+,{"stream_name":"stdout","time":80.198685626,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xt48.wav -b:a 64k /kaggle/working/blind/actor_blind_25.\n"}
+,{"stream_name":"stdout","time":80.344368279,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xn46.wav -b:a 64k /kaggle/working/blind/actor_blind_26.\n"}
+,{"stream_name":"stdout","time":80.477660296,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xl48.wav -b:a 64k /kaggle/working/blind/actor_blind_27.\n"}
+,{"stream_name":"stdout","time":80.627169559,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3l17.wav -b:a 64k /kaggle/working/blind/actor_blind_28.m\n"}
+,{"stream_name":"stdout","time":80.780838437,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3n39.wav -b:a 64k /kaggle/working/blind/actor_blind_29.m\n"}
+,{"stream_name":"stdout","time":80.922311957,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3b22.wav -b:a 64k /kaggle/working/blind/actor_blind_30.m\n"}
+,{"stream_name":"stdout","time":81.074629233,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3b24.wav -b:a 64k /kaggle/working/blind/actor_blind_31.m\n"}
+,{"stream_name":"stdout","time":81.213630605,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3n40.wav -b:a 64k /kaggle/working/blind/actor_blind_32.m\n"}
+,{"stream_name":"stdout","time":81.369297746,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xn49.wav -b:a 64k /kaggle/working/blind/actor_blind_33.\n"}
+,{"stream_name":"stdout","time":81.515842832,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xt50.wav -b:a 64k /kaggle/working/blind/actor_blind_34.\n"}
+,{"stream_name":"stdout","time":81.663880508,"data":"[  1.3 min] $ ffmpeg -loglevel error -y -i /kaggle/input/notebooks/thusharajayawardane/se-run4-audit/final/m3xb35.wav -b:a 64k /kaggle/working/blind/actor_blind_35.\n"}
+,{"stream_name":"stderr","time":87.998172277,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":87.998203492,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":88.243249932,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":88.243274543,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":89.011231264,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":89.945808676,"data":"[NbConvertApp] Writing 323667 bytes to __results__.html\n"}
+]
