@@ -12,6 +12,7 @@
 import csv, glob, itertools, os, random, re, shutil, subprocess, sys, time, traceback
 sys.path.insert(0, os.getcwd())
 from lines5 import build, LEAD
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 T0 = time.time(); LOG = []; W = "/kaggle/working"; TMP = "/kaggle/tmp"
 for d in (TMP, f"{W}/final", f"{W}/blind3"): os.makedirs(d, exist_ok=True)
 ROWS = ["normal", "bright", "low", "tense"]
@@ -86,7 +87,7 @@ try:
             l2.append(c[7*i+4] - 4*4096); l3 += [c[7*i+5] - 5*4096, c[7*i+6] - 6*4096]
         if not l1 or min(l1 + l2 + l3) < 0 or max(l1 + l2 + l3) > 4095: return None
         with torch.inference_mode(): return snac.decode([torch.tensor(x, device=dev)[None] for x in (l1, l2, l3)]).squeeze().float().cpu().numpy()
-    def record(texts, n, B=8):
+    def record(texts, n, B=4):
         res = []
         for i in range(0, len(texts), B):
             tx = texts[i:i + B]
@@ -94,7 +95,7 @@ try:
             ids = torch.tensor([[128263] * (L - len(p)) + p for p in prompts], device=dev)
             att = torch.tensor([[0] * (L - len(p)) + [1] * len(p) for p in prompts], device=dev)
             with torch.inference_mode():
-                g = om.generate(ids, attention_mask=att, max_new_tokens=2400, do_sample=True, temperature=0.6, top_p=0.95,
+                g = om.generate(ids, attention_mask=att, max_new_tokens=2000, do_sample=True, temperature=0.6, top_p=0.95,
                                 repetition_penalty=1.1, num_return_sequences=n, eos_token_id=128258, pad_token_id=128263)
             outs = [to_audio(x[L:]) for x in g]; res += [outs[k * n:(k + 1) * n] for k in range(len(tx))]
         return res
