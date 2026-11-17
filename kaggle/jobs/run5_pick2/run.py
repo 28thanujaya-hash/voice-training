@@ -151,6 +151,7 @@ try:
         heard = asr(y.copy(), generate_kwargs={"language": "en"})["text"]
         if word_errors(text, heard): return None, "words"
         hi = 2.8 if mood == "low" else 3.2   # mentor 16 Nov 21:04: back to the old limit; speed is set on the phone
+        if n <= 6: hi = 3.2 if mood == "low" else 3.6   # mentor 17 Nov 07:37: short lines measure fast after the lead-in
         if (n <= 3 and not 0.3 <= dur <= 2.5) or (n > 3 and not 1.0 <= n / dur <= hi): return None, "pace"
         try: m = MK.measure(y, text)
         except Exception: m = None
@@ -170,7 +171,8 @@ try:
         C.setdefault(lid, []).append(dict(id=lid, row=l[1], group=l[2], split=l[4], file=f, path=f, text=l[3], pitch=m["body"], range=m["rng"],
                                           move=mv if mv is not None else 0.0, pace=nw(l[3]) / max(dur, .1), lufs=loud(y), tilt=tilt(y), score=0.0)); nprev += 1
     log(f"re-measured {nprev} retakes from the previous pick run")
-    need = []
+    need = [i for i in LINES if not C.get(i)]
+    report += [f"Retake round for lines with no usable take: {len(need)}", ""]
     for rnd in (1,):
         if not need: break
         t = time.time(); lines = [LINES[i] for i in need]
@@ -182,7 +184,7 @@ try:
                 f = f"retakes/{l[0]}_x{rnd}{k}.wav"; sf.write(f"{W}/{f}", x["a"], 24000)
                 C.setdefault(l[0], []).append(dict(id=l[0], row=l[1], group=l[2], split=l[4], file=f, path=f"{W}/{f}", text=l[3],
                                                     pitch=x["body"], range=x["rng"], move=x["move"], pace=x["wps"], lufs=x["lufs"], tilt=x["tilt"], score=0.0))
-        need = [i for i in need if not C.get(i) or (LINES[i][1] == "low" and not any(ok(r, "low") for r in C[i]))]
+        need = [i for i in need if not C.get(i)]
         log(f"retake round {rnd}: {len(lines)} lines × 6 in {(time.time()-t)/60:.1f} min; still failing {len(need)}; rejects {why}")
     del om; torch.cuda.empty_cache()
     # ---- re-score all takes of each line together (retakes had no score)

@@ -1,1 +1,1 @@
-LOW_MIN = 5   # how many of the 5 clip-14 criteria a low take must meet (mentor decides)
+LOW_MIN = 3   # mentor 17 Nov 07:37: a low take must meet at least 3 of the 5 clip-14 criteria
