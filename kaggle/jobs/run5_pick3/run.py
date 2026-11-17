@@ -38,6 +38,7 @@ try:
         for r in csv.DictReader(open(f)):
             for k in ("pitch", "range", "move", "pace", "lufs", "tilt", "score"): r[k] = float(r[k])
             r["path"] = f"{base}/{r['file']}"; C.setdefault(r["id"], []).append(r)
+    C = {i: v for i, v in C.items() if i in LINES}   # dropped lines (G1) out
     log(f"takes for {len(C)} of {len(LINES)} lines")
     med = lambda xs: float(np.nanmedian(xs)) if len(xs) else float("nan")
     first = lambda m: [C[i][0] for i in C if LINES[i][1] == m]
