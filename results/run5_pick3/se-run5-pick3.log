@@ -1,0 +1,22 @@
+[{"stream_name":"stdout","time":0.715148263,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe\n"}
+,{"stream_name":"stderr","time":51.954321464,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":51.954360445,"data":"I0000 00:00:1794894720.764699       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":73.173132188,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":73.173165598,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stdout","time":75.222750584,"data":"[  1.2 min] takes for 475 of 622 lines\n"}
+,{"stream_name":"stdout","time":75.224238992,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":75.224278654,"data":"  File \"/kaggle/src/script.py\", line 50, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":75.224286284,"data":"    N_P, N_L, N_R = med([r[\"pitch\"] for r in first(\"normal\")]), med([r[\"lufs\"] for r in first(\"normal\")]), med([r[\"range\"] for r in first(\"normal\")])\n"}
+,{"stream_name":"stdout","time":75.224293158,"data":"                                             ~~~~~^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":75.224298712,"data":"  File \"/kaggle/src/script.py\", line 49, in \u003clambda\u003e\n"}
+,{"stream_name":"stdout","time":75.224304104,"data":"    first = lambda m: [C[i][0] for i in C if LINES[i][1] == m]\n"}
+,{"stream_name":"stdout","time":75.224308638,"data":"                                             ~~~~~^^^\n"}
+,{"stream_name":"stdout","time":75.224313178,"data":"KeyError: 'm3l17'\n"}
+,{"stream_name":"stdout","time":75.224317625,"data":"\n"}
+,{"stream_name":"stderr","time":81.489043142,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":81.489072761,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":81.700822797,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":81.700851488,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":82.47806271,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":83.091339925,"data":"[NbConvertApp] Writing 486411 bytes to __results__.html\n"}
+]
