@@ -51,7 +51,7 @@ try:
     for r in R:
         key = (r["src"], r["sent"], r["row"])
         if key not in pick or r["score"] > pick[key]["score"]: pick[key] = r
-    report += [f"Clips measured: {len(R)} · chosen (one per source × sentence × mood): {len(pick)} of 96", ""]
+    report += [f"Clips measured: {len(R)} · chosen (one per source × sentence × mood): {len(pick)} of 96 (Orpheus {sum(k[0] == 'orph' for k in pick)}, IndexTTS {sum(k[0] == 'idx' for k in pick)})", ""]
     # ---- 1. profile per source × mood (chosen takes)
     for src, nm in (("orph", "Orpheus tara, new lead-ins"), ("idx", "IndexTTS-2.5, Maya cloned, emotion vector")):
         report += [f"## 1. {nm}: chosen takes, median", "", "| measure | " + " | ".join(MOODS) + " |", "|---|" + "---|" * 4]
@@ -101,8 +101,8 @@ try:
         w = csv.writer(f); w.writerow(["clip", "session", "path", "source", "sentence", "mood", "text", "repeat_of"])
         w.writerows([k[:2] + [os.path.basename(k[2])] + k[3:] for k in key])
     sheet = ["# Blind test 5 — answer sheet", "", "Listen to one clip at a time. For each: the mood you hear (N normal · B bright · L low · T tense) and how sure you are (1 = guess … 5 = certain).",
-             "Session A = clips 1–54, session B = clips 55–108. Some clips appear twice.", ""]
-    for sess, a0, a1 in (("A", 1, 54), ("B", 55, len(key))):
+             f"Session A = clips 1–{len(A2)}, session B = clips {len(A2)+1}–{len(key)}. Some clips appear twice.", ""]
+    for sess in ("A", "B"):
         sheet += [f"## Session {sess}", "", "| clip | text | mood (N/B/L/T) | sure (1–5) |", "|---|---|---|---|"]
         sheet += [f"| {k[0]} | {k[6]} | | |" for k in key if k[1] == sess]
         sheet.append("")
@@ -114,7 +114,7 @@ try:
         for r in R:
             r["chosen"] = int(pick.get((r["src"], r["sent"], r["row"])) is r)
             w.writerow({k: (round(float(v), 3) if isinstance(v, (float, np.floating)) else v) for k, v in r.items()})
-    report += ["", f"Blind test 5: {len(key)} clips (96 + 12 hidden repeats), sessions A {len(A2)} / B {len(B2)}; sheet blind5_sheet.md, key blind5_key.csv", "", "RESULT: DONE"]
+    report += ["", f"Blind test 5: {len(key)} clips ({len(clips)} + 12 hidden repeats), sessions A {len(A2)} / B {len(B2)}; sheet blind5_sheet.md, key blind5_key.csv", "", "RESULT: DONE"]
 except Exception:
     report += ["", "RESULT: ERROR", "```", traceback.format_exc()[-3000:], "```"]; print(traceback.format_exc())
 report += ["", "## Log", "```", *LOG, "```"]
