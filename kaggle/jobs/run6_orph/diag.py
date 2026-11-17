@@ -11,8 +11,3 @@ LEAD = {"normal": "Okay, so, here's what happened today. Nothing special.",
         "bright": "Oh, I'm so happy, I have great news to tell you!",
         "low": "I'm just tired… today was a really disappointing day.",
         "tense": "No. Listen carefully. This is serious, and I mean it."}
-# IndexTTS-2.5 emotion vectors: [happy, angry, sad, afraid, disgusted, melancholic, surprised, calm]; duration_factor > 1 = slower
-EMO = {"normal": ([0, 0, 0, 0, 0, 0, 0, 0.5], 1.0),
-       "bright": ([0.7, 0, 0, 0, 0, 0, 0.2, 0], 1.0),
-       "low":    ([0, 0, 0.4, 0, 0, 0.4, 0, 0.2], 1.15),
-       "tense":  ([0, 0.5, 0, 0, 0.1, 0, 0, 0.2], 1.0)}
