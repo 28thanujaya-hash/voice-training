@@ -1,0 +1,147 @@
+id,sent,row,file,text,wps,lufs,heard
+d01n,d01,normal,takes/d01n_0.wav,The bus was late again this morning.,3.73,-25.9, The bus was late again this morning.
+d01n,d01,normal,takes/d01n_1.wav,The bus was late again this morning.,3.86,-26.8, The bus was late again this morning.
+d01n,d01,normal,takes/d01n_2.wav,The bus was late again this morning.,3.82,-28.9, The bus was late again this morning.
+d01n,d01,normal,takes/d01n_3.wav,The bus was late again this morning.,3.86,-26.3, The bus was late again this morning.
+d01n,d01,normal,takes/d01n_4.wav,The bus was late again this morning.,3.38,-29.6, The bus was late again this morning.
+d01b,d01,bright,takes/d01b_0.wav,The bus was late again this morning.,3.69,-29.4, The bus was late again this morning.
+d01b,d01,bright,takes/d01b_1.wav,The bus was late again this morning.,3.86,-26.4, The bus was late again this morning.
+d01b,d01,bright,takes/d01b_2.wav,The bus was late again this morning.,3.22,-26.1, The bus was late again this morning.
+d01l,d01,low,takes/d01l_0.wav,The bus was late again this morning.,3.73,-28.8, The bus was late again this morning.
+d01l,d01,low,takes/d01l_1.wav,The bus was late again this morning.,3.91,-28.6, The bus was late again this morning.
+d01l,d01,low,takes/d01l_2.wav,The bus was late again this morning.,3.77,-28.9, The bus was late again this morning.
+d01l,d01,low,takes/d01l_3.wav,The bus was late again this morning.,3.82,-24.9, The bus was late again this morning.
+d01t,d01,tense,takes/d01t_0.wav,The bus was late again this morning.,3.77,-27.7, The bus was late again this morning.
+d01t,d01,tense,takes/d01t_1.wav,The bus was late again this morning.,3.73,-24.3, The bus was late again this morning.
+d01t,d01,tense,takes/d01t_2.wav,The bus was late again this morning.,3.13,-28.7, The bus was late again this morning.
+d01t,d01,tense,takes/d01t_3.wav,The bus was late again this morning.,3.86,-26.3, The bus was late again this morning.
+d02n,d02,normal,takes/d02n_0.wav,My cousin moved to Kandy last year.,3.86,-26.6, My cousin moved to Kandy last year.
+d02n,d02,normal,takes/d02n_1.wav,My cousin moved to Kandy last year.,3.77,-24.8, My cousin moved to Canby last year.
+d02b,d02,bright,takes/d02b_0.wav,My cousin moved to Kandy last year.,3.77,-28.9, My cousin moved to Canby last year.
+d02b,d02,bright,takes/d02b_1.wav,My cousin moved to Kandy last year.,3.65,-28.6, My cousin moved to Kandy last year.
+d02b,d02,bright,takes/d02b_2.wav,My cousin moved to Kandy last year.,3.73,-28.5, My cousin moved to Kandy last year.
+d02l,d02,low,takes/d02l_0.wav,My cousin moved to Kandy last year.,2.53,-28.5, My cousin moved to Kandy last year.
+d02l,d02,low,takes/d02l_1.wav,My cousin moved to Kandy last year.,3.82,-26.3, My cousin moved to Camden last year.
+d02l,d02,low,takes/d02l_2.wav,My cousin moved to Kandy last year.,3.69,-28.3, My cousin moved to Kandy last year.
+d02l,d02,low,takes/d02l_3.wav,My cousin moved to Kandy last year.,3.69,-25.7, My cousin moved to Kandy last year.
+d02t,d02,tense,takes/d02t_0.wav,My cousin moved to Kandy last year.,3.82,-26.9, My cousin moved to Kandy last year.
+d02t,d02,tense,takes/d02t_1.wav,My cousin moved to Kandy last year.,3.91,-28.2, My cousin moved to Kandy last year.
+d02t,d02,tense,takes/d02t_2.wav,My cousin moved to Kandy last year.,3.91,-27.0, My cousin moved to Kandy last year.
+d03n,d03,normal,takes/d03n_0.wav,We had rice and curry for lunch.,3.28,-28.0, We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_1.wav,We had rice and curry for lunch.,3.86,-26.5, We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_2.wav,We had rice and curry for lunch.,3.77,-26.8, We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_3.wav,We had rice and curry for lunch.,2.58,-28.1, We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_4.wav,We had rice and curry for lunch.,3.38,-28.8, We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_5.wav,We had rice and curry for lunch.,3.57,-28.2, We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_6.wav,We had rice and curry for lunch.,2.5,-27.7, We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_7.wav,We had rice and curry for lunch.,2.83,-25.5, We had rice and curry for lunch.
+d03b,d03,bright,takes/d03b_0.wav,We had rice and curry for lunch.,3.73,-25.1, We had rice and curry for lunch.
+d03b,d03,bright,takes/d03b_1.wav,We had rice and curry for lunch.,3.61,-27.7, We had rice and curry for lunch.
+d03b,d03,bright,takes/d03b_2.wav,We had rice and curry for lunch.,3.69,-24.3, We had rice and curry for lunch.
+d03l,d03,low,takes/d03l_0.wav,We had rice and curry for lunch.,3.86,-25.9, We had rice and curry for lunch.
+d03l,d03,low,takes/d03l_1.wav,We had rice and curry for lunch.,3.86,-26.2, We had rice and curry for lunch.
+d03l,d03,low,takes/d03l_2.wav,We had rice and curry for lunch.,3.95,-25.7, We had rice and curry for lunch.
+d03l,d03,low,takes/d03l_3.wav,We had rice and curry for lunch.,3.86,-26.1, We had rice and curry for lunch.
+d03t,d03,tense,takes/d03t_0.wav,We had rice and curry for lunch.,3.82,-27.8, We had rice and curry for lunch.
+d03t,d03,tense,takes/d03t_1.wav,We had rice and curry for lunch.,3.91,-26.3, We had rice and curry for lunch.
+d03t,d03,tense,takes/d03t_2.wav,We had rice and curry for lunch.,3.69,-27.2, We had rice and curry for lunch.
+d04n,d04,normal,takes/d04n_0.wav,The shop closes at six on Sundays.,3.53,-28.7, The shop closes at 6 on Sundays.
+d04n,d04,normal,takes/d04n_1.wav,The shop closes at six on Sundays.,2.93,-28.3, The shop closes at 6 on Sundays.
+d04n,d04,normal,takes/d04n_2.wav,The shop closes at six on Sundays.,3.45,-27.5, The shop closes at 6 on Sundays.
+d04n,d04,normal,takes/d04n_3.wav,The shop closes at six on Sundays.,3.65,-28.3, The shop closes at 6 on Sundays.
+d04n,d04,normal,takes/d04n_4.wav,The shop closes at six on Sundays.,3.82,-26.3, The shop closes at 6 on Sundays.
+d04n,d04,normal,takes/d04n_5.wav,The shop closes at six on Sundays.,3.61,-30.1, The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_0.wav,The shop closes at six on Sundays.,3.73,-29.0, The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_1.wav,The shop closes at six on Sundays.,3.95,-27.6, The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_2.wav,The shop closes at six on Sundays.,3.77,-25.0, The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_3.wav,The shop closes at six on Sundays.,3.57,-28.6, The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_4.wav,The shop closes at six on Sundays.,3.65,-27.0, The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_5.wav,The shop closes at six on Sundays.,3.45,-28.4, The shop closes at 6 on Sundays.
+d04l,d04,low,takes/d04l_0.wav,The shop closes at six on Sundays.,3.53,-28.6, The shop closes at 6 on Sundays.
+d04l,d04,low,takes/d04l_1.wav,The shop closes at six on Sundays.,2.83,-29.8, The shop closes at 6 on Sundays.
+d04l,d04,low,takes/d04l_2.wav,The shop closes at six on Sundays.,3.45,-29.4, The shop closes at 6 on Sundays.
+d04l,d04,low,takes/d04l_3.wav,The shop closes at six on Sundays.,3.61,-28.9, The shop closes at 6 on Sundays.
+d04l,d04,low,takes/d04l_4.wav,The shop closes at six on Sundays.,3.35,-28.1, The shop closes at 6 on Sundays.
+d04t,d04,tense,takes/d04t_0.wav,The shop closes at six on Sundays.,3.35,-26.9, The shop closes at 6 on Sundays.
+d04t,d04,tense,takes/d04t_1.wav,The shop closes at six on Sundays.,3.91,-26.0, The shop closes at 6 on Sundays.
+d04t,d04,tense,takes/d04t_2.wav,The shop closes at six on Sundays.,3.04,-29.5, The shop closes at 6 on Sundays.
+d04t,d04,tense,takes/d04t_3.wav,The shop closes at six on Sundays.,3.49,-28.6, The shop closes at 6 on Sundays.
+d05n,d05,normal,takes/d05n_0.wav,I got my exam results today.,3.35,-27.2, I got my exam results today.
+d05n,d05,normal,takes/d05n_1.wav,I got my exam results today.,3.02,-28.5, I got my exam results today.
+d05n,d05,normal,takes/d05n_2.wav,I got my exam results today.,3.8,-30.5, I got my exam results today.
+d05n,d05,normal,takes/d05n_3.wav,I got my exam results today.,3.65,-25.2, I got my exam results today.
+d05n,d05,normal,takes/d05n_4.wav,I got my exam results today.,3.91,-26.4, I got my exam results today.
+d05n,d05,normal,takes/d05n_5.wav,I got my exam results today.,3.75,-26.4, I got my exam results today.
+d05b,d05,bright,takes/d05b_0.wav,I got my exam results today.,3.47,-24.3, I got my exam results today.
+d05b,d05,bright,takes/d05b_1.wav,I got my exam results today.,3.61,-26.0, I got my exam results today.
+d05b,d05,bright,takes/d05b_2.wav,I got my exam results today.,3.56,-26.4, I got my exam results today.
+d05b,d05,bright,takes/d05b_3.wav,I got my exam results today.,3.7,-28.4, I got my exam results today.
+d05b,d05,bright,takes/d05b_4.wav,I got my exam results today.,2.78,-28.8, I got my exam results today.
+d05b,d05,bright,takes/d05b_5.wav,I got my exam results today.,3.75,-27.2, I got my exam results today.
+d05l,d05,low,takes/d05l_0.wav,I got my exam results today.,3.06,-28.1, I got my exam results today.
+d05l,d05,low,takes/d05l_1.wav,I got my exam results today.,3.52,-28.4, I got my exam results today.
+d05l,d05,low,takes/d05l_2.wav,I got my exam results today.,3.8,-27.9, I got my exam results today.
+d05l,d05,low,takes/d05l_3.wav,I got my exam results today.,3.61,-28.4, I got my exam results today.
+d05l,d05,low,takes/d05l_4.wav,I got my exam results today.,3.43,-28.1, I got my exam results today.
+d05l,d05,low,takes/d05l_5.wav,I got my exam results today.,3.61,-30.7, I got my exam results today.
+d05t,d05,tense,takes/d05t_0.wav,I got my exam results today.,3.7,-26.9, I got my exam results today.
+d05t,d05,tense,takes/d05t_1.wav,I got my exam results today.,3.85,-22.9, I got my exam results today.
+d05t,d05,tense,takes/d05t_2.wav,I got my exam results today.,3.47,-27.1, I got my exam results today.
+d05t,d05,tense,takes/d05t_3.wav,I got my exam results today.,3.91,-25.9, I got my exam results today.
+d06n,d06,normal,takes/d06n_0.wav,He sold his old bike to a friend.,2.82,-29.3, He sold his old bike to a friend.
+d06n,d06,normal,takes/d06n_1.wav,He sold his old bike to a friend.,3.91,-27.2, He sold his old bike to a friend.
+d06b,d06,bright,takes/d06b_0.wav,He sold his old bike to a friend.,3.61,-28.7, He sold his old bike to a friend.
+d06l,d06,low,takes/d06l_0.wav,He sold his old bike to a friend.,2.72,-28.0, He sold his old bike to a friend.
+d06l,d06,low,takes/d06l_1.wav,He sold his old bike to a friend.,3.99,-28.4, He sold his old bike to a friend.
+d06t,d06,tense,takes/d06t_0.wav,He sold his old bike to a friend.,3.18,-28.6, He sold his old bike to a friend.
+d07l,d07,low,takes/d07l_0.wav,Did you see the message I sent?,3.38,-28.1, Did you see the message I sent?
+d07l,d07,low,takes/d07l_1.wav,Did you see the message I sent?,2.93,-23.6, Did you see the message I sent?
+d08n,d08,normal,takes/d08n_0.wav,Is your sister visiting this weekend?,3.16,-27.1, Is your sister visiting this weekend?
+d08n,d08,normal,takes/d08n_1.wav,Is your sister visiting this weekend?,3.43,-26.2, Is your sister visiting this weekend?
+d08n,d08,normal,takes/d08n_2.wav,Is your sister visiting this weekend?,3.23,-26.3, Is your sister visiting this weekend?
+d08n,d08,normal,takes/d08n_3.wav,Is your sister visiting this weekend?,3.7,-27.1, Is your sister visiting this weekend?
+d08n,d08,normal,takes/d08n_4.wav,Is your sister visiting this weekend?,3.43,-24.0, Is your sister visiting this weekend?
+d08n,d08,normal,takes/d08n_5.wav,Is your sister visiting this weekend?,2.65,-25.2, Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_0.wav,Is your sister visiting this weekend?,3.31,-26.0, Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_1.wav,Is your sister visiting this weekend?,3.52,-28.2, Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_2.wav,Is your sister visiting this weekend?,2.96,-28.0, Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_3.wav,Is your sister visiting this weekend?,3.2,-23.5, Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_4.wav,Is your sister visiting this weekend?,3.27,-25.9, Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_5.wav,Is your sister visiting this weekend?,3.43,-22.5, Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_0.wav,Is your sister visiting this weekend?,3.16,-26.4, Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_1.wav,Is your sister visiting this weekend?,3.12,-26.1, Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_2.wav,Is your sister visiting this weekend?,3.43,-26.9, Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_3.wav,Is your sister visiting this weekend?,2.85,-28.3, Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_4.wav,Is your sister visiting this weekend?,3.2,-27.0, Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_5.wav,Is your sister visiting this weekend?,3.47,-27.9, Is your sister visiting this weekend?
+d08t,d08,tense,takes/d08t_0.wav,Is your sister visiting this weekend?,3.56,-25.4, Is your sister visiting this weekend?
+d08t,d08,tense,takes/d08t_1.wav,Is your sister visiting this weekend?,3.27,-25.9, Is your sister visiting this weekend?
+d08t,d08,tense,takes/d08t_2.wav,Is your sister visiting this weekend?,3.47,-24.7, Is your sister visiting this weekend?
+d08t,d08,tense,takes/d08t_3.wav,Is your sister visiting this weekend?,3.27,-27.2, Is your sister visiting this weekend?
+d08t,d08,tense,takes/d08t_4.wav,Is your sister visiting this weekend?,3.61,-26.1, Is your sister visiting this weekend?
+d09b,d09,bright,takes/d09b_0.wav,Did you buy a new phone?,3.96,-25.5, Did you buy a new phone?
+d10l,d10,low,takes/d10l_0.wav,Do you remember what he said?,3.7,-27.4, Do you remember what he said?
+d11b,d11,bright,takes/d11b_0.wav,We have to be there by eight.,3.82,-28.5, We have to be there by 8.
+d11l,d11,low,takes/d11l_0.wav,We have to be there by eight.,3.28,-27.8, We have to be there by 8.
+d11t,d11,tense,takes/d11t_0.wav,We have to be there by eight.,3.95,-26.8, We have to be there by eight.
+d12n,d12,normal,takes/d12n_0.wav,So that's what happened.,3.07,-28.1, So that's what happened.
+d12n,d12,normal,takes/d12n_1.wav,So that's what happened.,3.83,-29.2, So that's what happened.
+d12n,d12,normal,takes/d12n_2.wav,So that's what happened.,3.54,-29.6, So that's what happened.
+d12n,d12,normal,takes/d12n_3.wav,So that's what happened.,3.83,-28.5, So that's what happened.
+d12b,d12,bright,takes/d12b_0.wav,So that's what happened.,2.57,-25.8," So, that's what happened."
+d12b,d12,bright,takes/d12b_1.wav,So that's what happened.,3.91,-28.4, So that's what happened.
+d12b,d12,bright,takes/d12b_2.wav,So that's what happened.,2.53,-25.9, So that's what happened.
+d12b,d12,bright,takes/d12b_3.wav,So that's what happened.,2.64,-27.7, So that's what happened.
+d12b,d12,bright,takes/d12b_4.wav,So that's what happened.,2.16,-30.6, So that's what happened.
+d12l,d12,low,takes/d12l_0.wav,So that's what happened.,2.72,-28.1, So that's what happened.
+d12l,d12,low,takes/d12l_1.wav,So that's what happened.,3.23,-33.4, So that's what happened.
+d12l,d12,low,takes/d12l_2.wav,So that's what happened.,2.47,-30.8, So that's what happened.
+d12l,d12,low,takes/d12l_3.wav,So that's what happened.,1.71,-29.9, So that's what happened.
+d12l,d12,low,takes/d12l_4.wav,So that's what happened.,3.68,-31.1, So that's what happened.
+d12l,d12,low,takes/d12l_5.wav,So that's what happened.,1.99,-30.1," So, that's what happened."
+d12t,d12,tense,takes/d12t_0.wav,So that's what happened.,2.23,-30.0, So that's what happened.
+d12t,d12,tense,takes/d12t_1.wav,So that's what happened.,3.99,-28.8, So that's what happened.
+d12t,d12,tense,takes/d12t_2.wav,So that's what happened.,2.31,-28.1, So that's what happened.
+d12t,d12,tense,takes/d12t_3.wav,So that's what happened.,3.07,-29.8, So that's what happened.
+d12t,d12,tense,takes/d12t_4.wav,So that's what happened.,3.99,-29.4, So that's what happened.
+d12t,d12,tense,takes/d12t_5.wav,So that's what happened.,3.61,-29.0, So that's what happened.
