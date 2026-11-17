@@ -1,0 +1,17 @@
+[{"stream_name":"stdout","time":1.052031364,"data":"[  0.0 min] $ pip install -q praat-parselmouth pyloudnorm soundfile librosa cmudict num2words scikit-learn\n"}
+,{"stream_name":"stdout","time":84.370052281,"data":"[  1.4 min] 1661 distinct clips for 553 lines\n"}
+,{"stream_name":"stdout","time":109.638263281,"data":"[  1.8 min] measured 0/1661\n"}
+,{"stream_name":"stdout","time":155.369289943,"data":"[  2.6 min] measured 300/1661\n"}
+,{"stream_name":"stdout","time":188.860538568,"data":"[  3.1 min] measured 600/1661\n"}
+,{"stream_name":"stdout","time":238.772472897,"data":"[  4.0 min] measured 900/1661\n"}
+,{"stream_name":"stdout","time":269.304244721,"data":"[  4.5 min] measured 1200/1661\n"}
+,{"stream_name":"stdout","time":311.48847832,"data":"[  5.2 min] measured 1500/1661\n"}
+,{"stream_name":"stdout","time":327.928755888,"data":"[  5.4 min] measured 1661 clips\n"}
+,{"stream_name":"stdout","time":329.197120791,"data":"[  5.5 min] done\n"}
+,{"stream_name":"stderr","time":333.509564709,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":333.509606941,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":333.929924535,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":333.92996093,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":335.095595175,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":336.803892688,"data":"[NbConvertApp] Writing 446139 bytes to __results__.html\n"}
+]
