@@ -1,0 +1,23 @@
+[{"stream_name":"stdout","time":1.2797983880000001,"data":"[  0.0 min] reference /kaggle/input/notebooks/thusharajayawardane/se-run5-rec-a/takes/m3n42_r2.wav\n"}
+,{"stream_name":"stdout","time":1.279835732,"data":"[  0.0 min] $ git clone -q https://github.com/index-tts/index-tts.git /kaggle/tmp/index-tts\n"}
+,{"stream_name":"stdout","time":4.025339186,"data":"[  0.1 min] $ pip install -q -U uv huggingface_hub\n"}
+,{"stream_name":"stdout","time":10.242953808,"data":"[  0.2 min] $ uv sync\n"}
+,{"stream_name":"stdout","time":147.803432956,"data":"[  2.4 min] $ hf download IndexTeam/IndexTTS-2.5 --local-dir=checkpoints\n"}
+,{"stream_name":"stdout","time":1425.276150053,"data":"[ 23.7 min] generation 144 clips in 20.7 min, exit 0\n"}
+,{"stream_name":"stdout","time":1425.276215906,"data":"[ 23.7 min] module indextts.infer_v2_5\n"}
+,{"stream_name":"stdout","time":1425.276221697,"data":"[ 23.7 min] init params: ['self', 'cfg_path', 'model_dir', 'use_bf16', 'device', 'use_cuda_kernel', 'use_deepspeed', 'use_accel', 'use_torch_compile', 'use_qwen_emo']\n"}
+,{"stream_name":"stdout","time":1425.276225728,"data":"[ 23.7 min] infer params: ['spk_audio_prompt', 'text', 'output_path', 'lang', 'emo_audio_prompt', 'emo_alpha', 'emo_vector', 'use_emo_text', 'emo_text', 'use_random', 'interval_silence', 'verbose', 'max_text_tokens_per_segment', 'stream_return', 'more_segment_before', 'duration_factor', 'text_normalization', 'g\n"}
+,{"stream_name":"stdout","time":1425.278284425,"data":"[ 23.7 min] $ pip install -q 'transformers==4.57.6' jiwer soundfile librosa\n"}
+,{"stream_name":"stderr","time":1476.182766484,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":1476.182799426,"data":"I0000 00:00:1794902827.869306       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":1486.269827555,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":1499.499227918,"data":"Device set to use cuda:0\n"}
+,{"stream_name":"stderr","time":1517.051025893,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":1525.418075969,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stderr","time":1570.488650628,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1570.48869701,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1570.749527032,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1570.749553642,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1571.573316566,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1572.086614441,"data":"[NbConvertApp] Writing 307741 bytes to __results__.html\n"}
+]

@@ -1,0 +1,145 @@
+id,sent,row,file,text,words_ok,heard
+d01n,d01,normal,takes/d01n_0.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d01n,d01,normal,takes/d01n_1.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d01n,d01,normal,takes/d01n_2.wav,The bus was late again this morning.,1,The bus was late again. This morning.
+d01b,d01,bright,takes/d01b_0.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d01b,d01,bright,takes/d01b_1.wav,The bus was late again this morning.,1,The bus was late again this morning!
+d01b,d01,bright,takes/d01b_2.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d01l,d01,low,takes/d01l_0.wav,The bus was late again this morning.,1,The bus was late again. This morning...
+d01l,d01,low,takes/d01l_1.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d01l,d01,low,takes/d01l_2.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d01t,d01,tense,takes/d01t_0.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d01t,d01,tense,takes/d01t_1.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d01t,d01,tense,takes/d01t_2.wav,The bus was late again this morning.,1,The bus was late again this morning.
+d02n,d02,normal,takes/d02n_0.wav,My cousin moved to Kandy last year.,0,"My cousin moved to Candy last year,"
+d02n,d02,normal,takes/d02n_1.wav,My cousin moved to Kandy last year.,0,my cousin moved to candy last year
+d02n,d02,normal,takes/d02n_2.wav,My cousin moved to Kandy last year.,1,My cousin moved to Kandy last year.
+d02b,d02,bright,takes/d02b_0.wav,My cousin moved to Kandy last year.,0,My cousin moved to candy last year.
+d02b,d02,bright,takes/d02b_1.wav,My cousin moved to Kandy last year.,0,My cousin moved to Candy last year.
+d02b,d02,bright,takes/d02b_2.wav,My cousin moved to Kandy last year.,0,My cousin moved to Candy last year.
+d02l,d02,low,takes/d02l_0.wav,My cousin moved to Kandy last year.,1,My cousin moved to Kandy last year.
+d02l,d02,low,takes/d02l_1.wav,My cousin moved to Kandy last year.,0,My cousin moved to Candy last year.
+d02l,d02,low,takes/d02l_2.wav,My cousin moved to Kandy last year.,0,My cousin moved to Candy last year.
+d02t,d02,tense,takes/d02t_0.wav,My cousin moved to Kandy last year.,1,My cousin moved to Kandy last year.
+d02t,d02,tense,takes/d02t_1.wav,My cousin moved to Kandy last year.,0,My cousin moved to Candy last year.
+d02t,d02,tense,takes/d02t_2.wav,My cousin moved to Kandy last year.,0,My cousin moved to Candy last year.
+d03n,d03,normal,takes/d03n_0.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_1.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03n,d03,normal,takes/d03n_2.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03b,d03,bright,takes/d03b_0.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03b,d03,bright,takes/d03b_1.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch!
+d03b,d03,bright,takes/d03b_2.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03l,d03,low,takes/d03l_0.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03l,d03,low,takes/d03l_1.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03l,d03,low,takes/d03l_2.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03t,d03,tense,takes/d03t_0.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03t,d03,tense,takes/d03t_1.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d03t,d03,tense,takes/d03t_2.wav,We had rice and curry for lunch.,1,We had rice and curry for lunch.
+d04n,d04,normal,takes/d04n_0.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04n,d04,normal,takes/d04n_1.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04n,d04,normal,takes/d04n_2.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_0.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_1.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04b,d04,bright,takes/d04b_2.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04l,d04,low,takes/d04l_0.wav,The shop closes at six on Sundays.,1,The shop closes at six on Sundays.
+d04l,d04,low,takes/d04l_1.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04l,d04,low,takes/d04l_2.wav,The shop closes at six on Sundays.,1,The shop closes at six on Sundays.
+d04t,d04,tense,takes/d04t_0.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04t,d04,tense,takes/d04t_1.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d04t,d04,tense,takes/d04t_2.wav,The shop closes at six on Sundays.,1,The shop closes at 6 on Sundays.
+d05n,d05,normal,takes/d05n_0.wav,I got my exam results today.,1,I got my exam results today.
+d05n,d05,normal,takes/d05n_1.wav,I got my exam results today.,1,I got my exam results today.
+d05n,d05,normal,takes/d05n_2.wav,I got my exam results today.,1,I got my exam results today.
+d05b,d05,bright,takes/d05b_0.wav,I got my exam results today.,1,I got my exam results today!
+d05b,d05,bright,takes/d05b_1.wav,I got my exam results today.,1,I got my exam results today!
+d05b,d05,bright,takes/d05b_2.wav,I got my exam results today.,1,I got my exam results today!
+d05l,d05,low,takes/d05l_0.wav,I got my exam results today.,1,I got my exam results. Today.
+d05l,d05,low,takes/d05l_1.wav,I got my exam results today.,0,I caught my exam results today.
+d05l,d05,low,takes/d05l_2.wav,I got my exam results today.,0,I caught my exam results. Today.
+d05t,d05,tense,takes/d05t_0.wav,I got my exam results today.,1,I got my exam results today.
+d05t,d05,tense,takes/d05t_1.wav,I got my exam results today.,1,I got my exam results today.
+d05t,d05,tense,takes/d05t_2.wav,I got my exam results today.,1,I got my exam results today.
+d06n,d06,normal,takes/d06n_0.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend
+d06n,d06,normal,takes/d06n_1.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend
+d06n,d06,normal,takes/d06n_2.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend
+d06b,d06,bright,takes/d06b_0.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend.
+d06b,d06,bright,takes/d06b_1.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend.
+d06b,d06,bright,takes/d06b_2.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend.
+d06l,d06,low,takes/d06l_0.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend
+d06l,d06,low,takes/d06l_1.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend.
+d06l,d06,low,takes/d06l_2.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend.
+d06t,d06,tense,takes/d06t_0.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend.
+d06t,d06,tense,takes/d06t_1.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend.
+d06t,d06,tense,takes/d06t_2.wav,He sold his old bike to a friend.,1,He sold his old bike to a friend.
+d07n,d07,normal,takes/d07n_0.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d07n,d07,normal,takes/d07n_1.wav,Did you see the message I sent?,1,Did you see the message? I sent.
+d07n,d07,normal,takes/d07n_2.wav,Did you see the message I sent?,1,Did you see the message? I sent.
+d07b,d07,bright,takes/d07b_0.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d07b,d07,bright,takes/d07b_1.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d07b,d07,bright,takes/d07b_2.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d07l,d07,low,takes/d07l_0.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d07l,d07,low,takes/d07l_1.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d07l,d07,low,takes/d07l_2.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d07t,d07,tense,takes/d07t_0.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d07t,d07,tense,takes/d07t_1.wav,Did you see the message I sent?,1,Did you see? The message I sent?
+d07t,d07,tense,takes/d07t_2.wav,Did you see the message I sent?,1,Did you see the message I sent?
+d08n,d08,normal,takes/d08n_0.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08n,d08,normal,takes/d08n_1.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08n,d08,normal,takes/d08n_2.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_0.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_1.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08b,d08,bright,takes/d08b_2.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_0.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_1.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08l,d08,low,takes/d08l_2.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08t,d08,tense,takes/d08t_0.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08t,d08,tense,takes/d08t_1.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d08t,d08,tense,takes/d08t_2.wav,Is your sister visiting this weekend?,1,Is your sister visiting this weekend?
+d09n,d09,normal,takes/d09n_0.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d09n,d09,normal,takes/d09n_1.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d09n,d09,normal,takes/d09n_2.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d09b,d09,bright,takes/d09b_0.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d09b,d09,bright,takes/d09b_1.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d09b,d09,bright,takes/d09b_2.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d09l,d09,low,takes/d09l_0.wav,Did you buy a new phone?,1,Did you buy... a new phone?
+d09l,d09,low,takes/d09l_1.wav,Did you buy a new phone?,1,Did you... buy a new phone?
+d09l,d09,low,takes/d09l_2.wav,Did you buy a new phone?,1,Did... you buy a new phone?
+d09t,d09,tense,takes/d09t_0.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d09t,d09,tense,takes/d09t_1.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d09t,d09,tense,takes/d09t_2.wav,Did you buy a new phone?,1,Did you buy a new phone?
+d10n,d10,normal,takes/d10n_0.wav,Do you remember what he said?,1,Do you remember what he said?
+d10n,d10,normal,takes/d10n_1.wav,Do you remember what he said?,1,Do you remember what he said?
+d10n,d10,normal,takes/d10n_2.wav,Do you remember what he said?,1,Do you remember what he said?
+d10b,d10,bright,takes/d10b_0.wav,Do you remember what he said?,1,Do you remember what he said?
+d10b,d10,bright,takes/d10b_1.wav,Do you remember what he said?,1,Do you remember what he said?
+d10b,d10,bright,takes/d10b_2.wav,Do you remember what he said?,1,Do you remember what he said?
+d10l,d10,low,takes/d10l_0.wav,Do you remember what he said?,1,Do you remember what he said?
+d10l,d10,low,takes/d10l_1.wav,Do you remember what he said?,1,Do you remember what he said?
+d10l,d10,low,takes/d10l_2.wav,Do you remember what he said?,1,Do you remember what he said?
+d10t,d10,tense,takes/d10t_0.wav,Do you remember what he said?,1,Do you remember what he said?
+d10t,d10,tense,takes/d10t_1.wav,Do you remember what he said?,1,Do you remember what he said?
+d10t,d10,tense,takes/d10t_2.wav,Do you remember what he said?,1,Do you remember what he said?
+d11n,d11,normal,takes/d11n_0.wav,We have to be there by eight.,1,We have to be there by eight.
+d11n,d11,normal,takes/d11n_1.wav,We have to be there by eight.,1,We have to be there by eight.
+d11n,d11,normal,takes/d11n_2.wav,We have to be there by eight.,1,We have to be there by 8.
+d11b,d11,bright,takes/d11b_0.wav,We have to be there by eight.,1,We have to be there by eight.
+d11b,d11,bright,takes/d11b_1.wav,We have to be there by eight.,1,We have to be there by eight.
+d11b,d11,bright,takes/d11b_2.wav,We have to be there by eight.,1,We have to be there by eight.
+d11l,d11,low,takes/d11l_0.wav,We have to be there by eight.,1,We have to be there. By eight.
+d11l,d11,low,takes/d11l_1.wav,We have to be there by eight.,1,We have to be there. By eight.
+d11l,d11,low,takes/d11l_2.wav,We have to be there by eight.,1,We have to be there. By eight.
+d11t,d11,tense,takes/d11t_0.wav,We have to be there by eight.,1,We have to be there by eight.
+d11t,d11,tense,takes/d11t_1.wav,We have to be there by eight.,1,We have to be there by eight.
+d11t,d11,tense,takes/d11t_2.wav,We have to be there by eight.,1,We have to be there by eight.
+d12n,d12,normal,takes/d12n_0.wav,So that's what happened.,1,So that is what happened.
+d12n,d12,normal,takes/d12n_1.wav,So that's what happened.,1,So that is what happened.
+d12n,d12,normal,takes/d12n_2.wav,So that's what happened.,1,So that is what happened.
+d12b,d12,bright,takes/d12b_0.wav,So that's what happened.,1,So that is what happened!
+d12b,d12,bright,takes/d12b_1.wav,So that's what happened.,1,So that is what happened.
+d12b,d12,bright,takes/d12b_2.wav,So that's what happened.,1,So that is what happened.
+d12l,d12,low,takes/d12l_0.wav,So that's what happened.,1,"So, that is what happened."
+d12l,d12,low,takes/d12l_1.wav,So that's what happened.,1,"So, that is what happened."
+d12l,d12,low,takes/d12l_2.wav,So that's what happened.,1,"So, that is what happened."
+d12t,d12,tense,takes/d12t_0.wav,So that's what happened.,1,So that is what happened.
+d12t,d12,tense,takes/d12t_1.wav,So that's what happened.,1,So that is what happened.
+d12t,d12,tense,takes/d12t_2.wav,So that's what happened.,1,So that is what happened.
