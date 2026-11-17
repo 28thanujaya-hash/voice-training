@@ -19,15 +19,18 @@ try:
     sh("pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe praat-parselmouth cmudict num2words")
     import numpy as np, torch, soundfile as sf, librosa, jiwer
     import marks as MK, meas as ME
-    dev = "cuda:0"; dev2 = "cuda:1" if torch.cuda.device_count() > 1 else dev
+    GPU = torch.cuda.is_available()   # 18 Nov: also runs on Kaggle CPU (GPU quota used up): float32, time guard below
+    dev = "cuda:0" if GPU else "cpu"; dev2 = "cuda:1" if torch.cuda.device_count() > 1 else dev
+    DT = torch.float16 if GPU else torch.float32; STOP_H = 10.5   # Kaggle sessions end at 12 h: stop recording in time to write the report
+    log(f"device {dev}/{dev2}, {torch.get_num_threads()} CPU threads" if not GPU else f"device {dev}/{dev2}")
     MK.setup(dev2)
     L = {l[0]: l for l in build()}
     from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
     tok = AutoTokenizer.from_pretrained("unsloth/orpheus-3b-0.1-ft")
-    om = AutoModelForCausalLM.from_pretrained("unsloth/orpheus-3b-0.1-ft", torch_dtype=torch.float16).to(dev).eval()
+    om = AutoModelForCausalLM.from_pretrained("unsloth/orpheus-3b-0.1-ft", torch_dtype=DT).to(dev).eval()
     from snac import SNAC
     snac = SNAC.from_pretrained("hubertsiuzdak/snac_24khz").eval().to(dev)
-    asr = pipeline("automatic-speech-recognition", "openai/whisper-large-v3-turbo", torch_dtype=torch.float16, device=dev2)
+    asr = pipeline("automatic-speech-recognition", "openai/whisper-large-v3-turbo", torch_dtype=DT, device=dev2)
     def to_audio(ids):
         ids = ids.tolist()
         if 128258 in ids: ids = ids[:ids.index(128258)]
@@ -81,6 +84,7 @@ try:
     rows = []
     for mood, ids in PL.items():
         for var, lead in LEADS[mood].items():
+            if time.time() - T0 > STOP_H * 3600: log(f"time guard: {mood} {var} not recorded"); continue
             texts = [L[i][3] for i in ids]
             raw = record([f"{lead} {t}" for t in texts], 2); log(f"recorded {mood} {var}")
             for i, takes in zip(ids, raw):
