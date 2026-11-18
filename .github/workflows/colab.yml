@@ -1,0 +1,58 @@
+name: Colab run
+# Runs kaggle/jobs/<job>/run.py on a free Colab GPU through Google's Colab CLI, with no browser tab:
+# allocates the runtime, runs the job with live output (the open connection + a keep-alive ping keep Colab from
+# calling it idle), downloads /kaggle/working and commits the small files to results/<job>/, then frees the runtime.
+# Secret: COLAB_TOKEN = the Colab CLI sign-in (JSON). A GitHub job can last up to 6 h.
+on:
+  workflow_dispatch:
+    inputs:
+      job: { description: 'job folder under kaggle/jobs', required: true }
+      gpu: { description: 'T4 (free), or none for CPU', required: false, default: 'T4' }
+permissions:
+  contents: write
+jobs:
+  colab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      JOB: ${{ inputs.job }}
+      PYTHON_KEYRING_BACKEND: keyrings.alt.file.PlaintextKeyring
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Colab CLI sign-in
+        env: { COLAB_TOKEN: '${{ secrets.COLAB_TOKEN }}' }
+        run: |
+          [ -z "$COLAB_TOKEN" ] && { echo "::error::No COLAB_TOKEN secret"; exit 1; }
+          pip install -q google-colab-cli keyrings.alt requests
+          mkdir -p ~/.config/colab-cli && printf '%s' "$COLAB_TOKEN" > ~/.config/colab-cli/token.json && chmod 600 ~/.config/colab-cli/token.json
+          colab whoami | head -2
+          [ -f kaggle/jobs/$JOB/run.py ] || { echo "::error::kaggle/jobs/$JOB/run.py not found"; exit 1; }
+      - name: Allocate runtime
+        run: |
+          G="${{ inputs.gpu }}"; ARGS=""; [ "$G" != "none" ] && ARGS="--gpu $G"
+          for i in 1 2 3; do colab new -s "$JOB" $ARGS && break; echo "allocation failed, retry in 60 s"; sleep 60; done
+          colab status -s "$JOB"
+      - name: Run job (live output)
+        run: |
+          python .github/colab/keepalive.py "$JOB" > /tmp/keepalive.log 2>&1 &
+          sed "s/__JOB__/$JOB/" .github/colab/cell.py > /tmp/cell.py
+          colab exec -s "$JOB" -f /tmp/cell.py --timeout 2400
+          tail -3 /tmp/keepalive.log
+      - name: Collect results
+        if: always()
+        run: |
+          D=results/$JOB
+          if colab download -s "$JOB" /content/out.zip /tmp/out.zip; then
+            rm -rf $D; mkdir -p $D; unzip -q -o /tmp/out.zip -d $D
+            S=$(du -sm $D | cut -f1); [ "$S" -gt 60 ] && { echo "results ${S} MB: leaving out takes/*.wav"; rm -rf $D/takes; }
+          else
+            mkdir -p $D; colab download -s "$JOB" /kaggle/working/run.log $D/run.log || echo "no log either"
+          fi
+          echo "Colab ${{ inputs.gpu }} · $(date -u +%FT%TZ)" > $D/status.txt
+          git config user.name "colab-bot"; git config user.email "actions@github.com"
+          git add $D && git commit -m "Colab results: $JOB [skip ci]" && { for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; sleep 5; done; } || echo "nothing new"
+      - name: Free the runtime
+        if: always()
+        run: colab stop -s "$JOB" || true
