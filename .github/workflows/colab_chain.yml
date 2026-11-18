@@ -7,6 +7,7 @@ on:
     inputs:
       jobs: { description: 'job folders under kaggle/jobs, space-separated, run in order', required: true }
       gpu: { description: 'T4 (free), or none for CPU', required: false, default: 'T4' }
+      alloc_tries: { description: 'tries to get a runtime per job (5 min apart; Colab says Service Unavailable when the free GPU limit is reached)', required: false, default: '3' }
 permissions:
   contents: write
   actions: read
@@ -41,7 +42,7 @@ jobs:
           for JOB in ${{ inputs.jobs }}; do
             echo "::group::$JOB"
             if [ ! -f kaggle/jobs/$JOB/run.py ]; then echo "::warning::$JOB: run.py not found, skipped"; echo "::endgroup::"; continue; fi
-            ok=""; for i in 1 2 3; do colab new -s "$JOB" $ARGS && { ok=1; break; }; echo "allocation failed, retry in 60 s"; sleep 60; done
+            ok=""; for i in $(seq 1 ${{ inputs.alloc_tries || '3' }}); do colab new -s "$JOB" $ARGS > /tmp/new.log 2>&1 && { ok=1; break; }; echo "$(date -u +%H:%M) no runtime yet ($(grep -o 'Service Unavailable\|Too many\|quota' /tmp/new.log | head -1)), retry in 5 min"; sleep 300; done
             if [ -z "$ok" ]; then echo "::warning::$JOB: no runtime, skipped"; echo "::endgroup::"; continue; fi
             python .github/colab/keepalive.py "$JOB" > /tmp/keepalive.log 2>&1 & KA=$!
             sed "s/__JOB__/$JOB/" .github/colab/cell.py > /tmp/cell.py
