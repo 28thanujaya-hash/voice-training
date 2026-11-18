@@ -1,0 +1,15 @@
+# Run 15 · tense: context + <gasp> vs context + <groan> on the run 14 outraged lines (user 18 Nov 17:35: "use context plus gasp; try groan once more")
+# 12 outraged/indignant tense lines, all with the approved tense context "Give it back!" (run7_five tense_01):
+#   C = no context, as written (plain baseline for rel_* and the pairs) · X = context, as written (the tense recipe)
+#   C = no context, as written (plain baseline) · XG = context + <gasp> before the line · XR = context + <groan> before the line
+LINES = {'tense': ['m3t53', 'm3t54', 'm3t16', 'm3t58', 'm3t18', 'm3t42', 'm3t72', 'm3t44', 'm3t50', 'm3t68', 'm3t47', 'm3t22']}
+REF = {'artic': 4.2075, 'lufs': -27.388, 'f0_med': 10.970500000000001, 'f0_sd': 2.0309999999999997, 'h1h2': 7.1315, 'slope': -0.7204999999999999, 'int_drop': -3.503, 'final_drop': -1.3359999999999999}
+CTX = {'tense': {"file": "ctx_tense.mp3", "text": "Give it back!"}}
+# Arms: (context?, tag, "!" ending?)
+ARMS = {'tense': {'C': (False, None, False), 'XG': (True, '<gasp>', False), 'XR': (True, '<groan>', False)}}
+def excl(t):
+    t = t.rstrip()
+    if t.endswith("?"): return t + "!"
+    if t.endswith("."): return t[:-1] + "!"
+    return t
+TAKES = 4
