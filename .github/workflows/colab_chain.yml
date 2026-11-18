@@ -1,0 +1,54 @@
+name: Colab chain
+# Runs several kaggle/jobs/<job>/run.py one after another on free Colab GPUs (one runtime at a time), in one GitHub job
+# (max 6 h). Each job's results are committed to results/<job>/ as soon as it finishes, so a later failure loses nothing.
+# Same steps as colab.yml, looped. Secret: COLAB_TOKEN.
+on:
+  workflow_dispatch:
+    inputs:
+      jobs: { description: 'job folders under kaggle/jobs, space-separated, run in order', required: true }
+      gpu: { description: 'T4 (free), or none for CPU', required: false, default: 'T4' }
+permissions:
+  contents: write
+jobs:
+  chain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      PYTHON_KEYRING_BACKEND: keyrings.alt.file.PlaintextKeyring
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Colab CLI sign-in
+        env: { COLAB_TOKEN: '${{ secrets.COLAB_TOKEN }}' }
+        run: |
+          [ -z "$COLAB_TOKEN" ] && { echo "::error::No COLAB_TOKEN secret"; exit 1; }
+          pip install -q google-colab-cli keyrings.alt requests
+          mkdir -p ~/.config/colab-cli && printf '%s' "$COLAB_TOKEN" > ~/.config/colab-cli/token.json && chmod 600 ~/.config/colab-cli/token.json
+          colab whoami | head -2
+      - name: Run the jobs in order
+        run: |
+          git config user.name "colab-bot"; git config user.email "actions@github.com"
+          G="${{ inputs.gpu }}"; ARGS=""; [ "$G" != "none" ] && ARGS="--gpu $G"
+          for JOB in ${{ inputs.jobs }}; do
+            echo "::group::$JOB"
+            if [ ! -f kaggle/jobs/$JOB/run.py ]; then echo "::warning::$JOB: run.py not found, skipped"; echo "::endgroup::"; continue; fi
+            ok=""; for i in 1 2 3; do colab new -s "$JOB" $ARGS && { ok=1; break; }; echo "allocation failed, retry in 60 s"; sleep 60; done
+            if [ -z "$ok" ]; then echo "::warning::$JOB: no runtime, skipped"; echo "::endgroup::"; continue; fi
+            python .github/colab/keepalive.py "$JOB" > /tmp/keepalive.log 2>&1 & KA=$!
+            sed "s/__JOB__/$JOB/" .github/colab/cell.py > /tmp/cell.py
+            colab exec -s "$JOB" -f /tmp/cell.py --timeout 2400 || echo "::warning::$JOB: exec ended with an error"
+            kill $KA 2>/dev/null
+            D=results/$JOB
+            if colab download -s "$JOB" /content/out.zip /tmp/out.zip; then
+              rm -rf $D; mkdir -p $D; unzip -q -o /tmp/out.zip -d $D
+              S=$(du -sm $D | cut -f1); [ "$S" -gt 60 ] && { echo "results ${S} MB: leaving out takes/*.wav"; rm -rf $D/takes; }
+            else
+              mkdir -p $D; colab download -s "$JOB" /kaggle/working/run.log $D/run.log || echo "no log either"
+            fi
+            echo "Colab $G (chain) · $(date -u +%FT%TZ)" > $D/status.txt
+            git add $D && git commit -q -m "Colab results: $JOB [skip ci]" && { for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done; } || echo "nothing new"
+            colab stop -s "$JOB" || true
+            rm -f /tmp/out.zip
+            echo "::endgroup::"
+          done
