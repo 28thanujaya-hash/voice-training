@@ -1,0 +1,69 @@
+Each pair: tag take, then a plain take of the same line.
+1. m3xb02 CH_0 · And the winner is… you!
+2. m3xb02 CH_1 · And the winner is… you!
+3. m3xb24 CH_0 · Sam actually cooked?!
+4. m3xb24 CH_1 · Sam actually cooked?!
+5. m3b38 CH_0 · Wow, you remembered! Thank you!
+6. m3b38 CH_1 · Wow, you remembered! Thank you!
+7. m4g19b CH_0 · I'm going home tomorrow!
+8. m4g19b CH_1 · I'm going home tomorrow!
+9. m4g18b CH_0 · My brother is getting married!
+10. m4g18b CH_1 · My brother is getting married!
+11. m3b42 CH_0 · Oh, how wonderful! When did you find out?
+12. m3b42 CH_1 · Oh, how wonderful! When did you find out?
+13. m3b70 CH_0 · Thank you! You really didn't have to do that!
+14. m3b70 CH_1 · Thank you! You really didn't have to do that!
+15. m3b54 CH_0 · The rain stopped, and there's a rainbow over the sea!
+16. m3b30 CH_0 · Thenuka's getting so big! Sam showed me a photo!
+17. m3b30 CH_1 · Thenuka's getting so big! Sam showed me a photo!
+18. m3b57 CH_0 · It's a long weekend, so I'm going to sleep for two days!
+19. m3b57 CH_1 · It's a long weekend, so I'm going to sleep for two days!
+20. m3b31 CH_0 · Sam passed his driving test! He called me the moment he got out!
+21. m3b31 CH_1 · Sam passed his driving test! He called me the moment he got out!
+22. m3b63 CH_0 · There's a new Batman film coming out! I'm going on the first day!
+23. m3b63 CH_1 · There's a new Batman film coming out! I'm going on the first day!
+24. m3xb02 LA_1 · And the winner is… you!
+25. m3xb24 LA_0 · Sam actually cooked?!
+26. m3xb24 LA_1 · Sam actually cooked?!
+27. m3b38 LA_0 · Wow, you remembered! Thank you!
+28. m3b38 LA_1 · Wow, you remembered! Thank you!
+29. m4g19b LA_0 · I'm going home tomorrow!
+30. m4g19b LA_1 · I'm going home tomorrow!
+31. m4g18b LA_0 · My brother is getting married!
+32. m4g18b LA_1 · My brother is getting married!
+33. m3b42 LA_0 · Oh, how wonderful! When did you find out?
+34. m3b42 LA_1 · Oh, how wonderful! When did you find out?
+35. m3b70 LA_0 · Thank you! You really didn't have to do that!
+36. m3b70 LA_1 · Thank you! You really didn't have to do that!
+37. m3b54 LA_0 · The rain stopped, and there's a rainbow over the sea!
+38. m3b54 LA_1 · The rain stopped, and there's a rainbow over the sea!
+39. m3b30 LA_0 · Thenuka's getting so big! Sam showed me a photo!
+40. m3b30 LA_1 · Thenuka's getting so big! Sam showed me a photo!
+41. m3b57 LA_0 · It's a long weekend, so I'm going to sleep for two days!
+42. m3b57 LA_1 · It's a long weekend, so I'm going to sleep for two days!
+43. m3b31 LA_0 · Sam passed his driving test! He called me the moment he got out!
+44. m3b31 LA_1 · Sam passed his driving test! He called me the moment he got out!
+45. m3b63 LA_1 · There's a new Batman film coming out! I'm going on the first day!
+46. m3xb02 GA_0 · And the winner is… you!
+47. m3xb02 GA_1 · And the winner is… you!
+48. m3xb24 GA_0 · Sam actually cooked?!
+49. m3xb24 GA_1 · Sam actually cooked?!
+50. m3b38 GA_0 · Wow, you remembered! Thank you!
+51. m3b38 GA_1 · Wow, you remembered! Thank you!
+52. m4g19b GA_0 · I'm going home tomorrow!
+53. m4g19b GA_1 · I'm going home tomorrow!
+54. m4g18b GA_0 · My brother is getting married!
+55. m4g18b GA_1 · My brother is getting married!
+56. m3b42 GA_0 · Oh, how wonderful! When did you find out?
+57. m3b42 GA_1 · Oh, how wonderful! When did you find out?
+58. m3b70 GA_0 · Thank you! You really didn't have to do that!
+59. m3b70 GA_1 · Thank you! You really didn't have to do that!
+60. m3b54 GA_0 · The rain stopped, and there's a rainbow over the sea!
+61. m3b54 GA_1 · The rain stopped, and there's a rainbow over the sea!
+62. m3b30 GA_1 · Thenuka's getting so big! Sam showed me a photo!
+63. m3b57 GA_0 · It's a long weekend, so I'm going to sleep for two days!
+64. m3b57 GA_1 · It's a long weekend, so I'm going to sleep for two days!
+65. m3b31 GA_0 · Sam passed his driving test! He called me the moment he got out!
+66. m3b31 GA_1 · Sam passed his driving test! He called me the moment he got out!
+67. m3b63 GA_0 · There's a new Batman film coming out! I'm going on the first day!
+68. m3b63 GA_1 · There's a new Batman film coming out! I'm going on the first day!

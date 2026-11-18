@@ -1,0 +1,23 @@
+Each pair: tag take, then a plain take of the same line.
+1. m3t15 GR_0 · Really.
+2. m3t15 GR_1 · Really.
+3. m3xt54 GR_0 · Wait your turn!
+4. m3xt54 GR_1 · Wait your turn!
+5. m3xt37 GR_0 · He's late again?!
+6. m3xt37 GR_1 · He's late again?!
+7. m4g12t GR_1 · They changed the plan.
+8. m3xt12 GR_0 · I'm waiting… still waiting.
+9. m3xt12 GR_1 · I'm waiting… still waiting.
+10. m3xt70 GR_0 · Sure… whatever you say.
+11. m3xt70 GR_1 · Sure… whatever you say.
+12. m3xt24 GR_0 · I've had enough — I'm leaving.
+13. m3xt24 GR_1 · I've had enough — I'm leaving.
+14. m3xt34 GR_0 · You call that an apology?!
+15. m3xt34 GR_1 · You call that an apology?!
+16. m3t26 GR_0 · Please don't interrupt me. Let me finish.
+17. m3t26 GR_1 · Please don't interrupt me. Let me finish.
+18. m3t10 GR_0 · Stop. Listen to the question first, and then answer.
+19. m3t10 GR_1 · Stop. Listen to the question first, and then answer.
+20. m3t69 GR_0 · They cancelled the train to Madurai. Two days before.
+21. m3t69 GR_1 · They cancelled the train to Madurai. Two days before.
+22. m3t51 GR_0 · I cleaned the kitchen this morning, and it's already a mess.
