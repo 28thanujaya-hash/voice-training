@@ -1,0 +1,96 @@
+Each pair: tag take, then a plain take of the same line.
+1. m3t53 X_0 · Wait. He said what?
+2. m3t53 X_1 · Wait. He said what?
+3. m3t54 X_0 · Seriously? After everything you did for him?
+4. m3t54 X_1 · Seriously? After everything you did for him?
+5. m3t54 X_2 · Seriously? After everything you did for him?
+6. m3t16 X_0 · He clicked his fingers at me. Like I was a dog.
+7. m3t16 X_1 · He clicked his fingers at me. Like I was a dog.
+8. m3t58 X_0 · And you just let him say that?
+9. m3t58 X_1 · And you just let him say that?
+10. m3t58 X_2 · And you just let him say that?
+11. m3t18 X_0 · I told my manager everything, and she said, "Just smile." Smile?
+12. m3t18 X_1 · I told my manager everything, and she said, "Just smile." Smile?
+13. m3t18 X_2 · I told my manager everything, and she said, "Just smile." Smile?
+14. m3t42 X_0 · The bus driver didn't stop. I was standing right there.
+15. m3t42 X_1 · The bus driver didn't stop. I was standing right there.
+16. m3t42 X_2 · The bus driver didn't stop. I was standing right there.
+17. m3t72 X_0 · After that, he took a photo of my name badge. Can you believe it?
+18. m3t72 X_2 · After that, he took a photo of my name badge. Can you believe it?
+19. m3t44 X_0 · The shop gave me the wrong change, and then they said it was my mistake.
+20. m3t44 X_2 · The shop gave me the wrong change, and then they said it was my mistake.
+21. m3t50 X_0 · Someone took my umbrella from the café. My new one.
+22. m3t50 X_2 · Someone took my umbrella from the café. My new one.
+23. m3t68 X_0 · Someone deleted my photos from the shared folder. Without asking.
+24. m3t68 X_2 · Someone deleted my photos from the shared folder. Without asking.
+25. m3t47 X_0 · Priya used my shampoo again without asking.
+26. m3t47 X_1 · Priya used my shampoo again without asking.
+27. m3t47 X_2 · Priya used my shampoo again without asking.
+28. m3t22 X_0 · Three people saw what happened, and nobody said a word.
+29. m3t22 X_1 · Three people saw what happened, and nobody said a word.
+30. m3t22 X_2 · Three people saw what happened, and nobody said a word.
+31. m3t53 XG_0 · Wait. He said what?
+32. m3t53 XG_1 · Wait. He said what?
+33. m3t53 XG_2 · Wait. He said what?
+34. m3t54 XG_0 · Seriously? After everything you did for him?
+35. m3t54 XG_1 · Seriously? After everything you did for him?
+36. m3t54 XG_2 · Seriously? After everything you did for him?
+37. m3t16 XG_0 · He clicked his fingers at me. Like I was a dog.
+38. m3t16 XG_1 · He clicked his fingers at me. Like I was a dog.
+39. m3t16 XG_2 · He clicked his fingers at me. Like I was a dog.
+40. m3t58 XG_1 · And you just let him say that?
+41. m3t58 XG_2 · And you just let him say that?
+42. m3t18 XG_0 · I told my manager everything, and she said, "Just smile." Smile?
+43. m3t18 XG_1 · I told my manager everything, and she said, "Just smile." Smile?
+44. m3t18 XG_2 · I told my manager everything, and she said, "Just smile." Smile?
+45. m3t42 XG_0 · The bus driver didn't stop. I was standing right there.
+46. m3t42 XG_1 · The bus driver didn't stop. I was standing right there.
+47. m3t42 XG_2 · The bus driver didn't stop. I was standing right there.
+48. m3t72 XG_1 · After that, he took a photo of my name badge. Can you believe it?
+49. m3t72 XG_2 · After that, he took a photo of my name badge. Can you believe it?
+50. m3t44 XG_0 · The shop gave me the wrong change, and then they said it was my mistake.
+51. m3t44 XG_1 · The shop gave me the wrong change, and then they said it was my mistake.
+52. m3t44 XG_2 · The shop gave me the wrong change, and then they said it was my mistake.
+53. m3t50 XG_0 · Someone took my umbrella from the café. My new one.
+54. m3t50 XG_1 · Someone took my umbrella from the café. My new one.
+55. m3t50 XG_2 · Someone took my umbrella from the café. My new one.
+56. m3t68 XG_0 · Someone deleted my photos from the shared folder. Without asking.
+57. m3t68 XG_1 · Someone deleted my photos from the shared folder. Without asking.
+58. m3t68 XG_2 · Someone deleted my photos from the shared folder. Without asking.
+59. m3t47 XG_0 · Priya used my shampoo again without asking.
+60. m3t47 XG_1 · Priya used my shampoo again without asking.
+61. m3t47 XG_2 · Priya used my shampoo again without asking.
+62. m3t22 XG_0 · Three people saw what happened, and nobody said a word.
+63. m3t22 XG_1 · Three people saw what happened, and nobody said a word.
+64. m3t22 XG_2 · Three people saw what happened, and nobody said a word.
+65. m3t53 XE_0 · Wait. He said what?
+66. m3t53 XE_1 · Wait. He said what?
+67. m3t53 XE_2 · Wait. He said what?
+68. m3t54 XE_0 · Seriously? After everything you did for him?
+69. m3t54 XE_1 · Seriously? After everything you did for him?
+70. m3t54 XE_2 · Seriously? After everything you did for him?
+71. m3t58 XE_0 · And you just let him say that?
+72. m3t58 XE_1 · And you just let him say that?
+73. m3t58 XE_2 · And you just let him say that?
+74. m3t18 XE_0 · I told my manager everything, and she said, "Just smile." Smile?
+75. m3t18 XE_1 · I told my manager everything, and she said, "Just smile." Smile?
+76. m3t18 XE_2 · I told my manager everything, and she said, "Just smile." Smile?
+77. m3t42 XE_0 · The bus driver didn't stop. I was standing right there.
+78. m3t42 XE_1 · The bus driver didn't stop. I was standing right there.
+79. m3t42 XE_2 · The bus driver didn't stop. I was standing right there.
+80. m3t72 XE_1 · After that, he took a photo of my name badge. Can you believe it?
+81. m3t72 XE_2 · After that, he took a photo of my name badge. Can you believe it?
+82. m3t44 XE_1 · The shop gave me the wrong change, and then they said it was my mistake.
+83. m3t44 XE_2 · The shop gave me the wrong change, and then they said it was my mistake.
+84. m3t50 XE_0 · Someone took my umbrella from the café. My new one.
+85. m3t50 XE_1 · Someone took my umbrella from the café. My new one.
+86. m3t50 XE_2 · Someone took my umbrella from the café. My new one.
+87. m3t68 XE_0 · Someone deleted my photos from the shared folder. Without asking.
+88. m3t68 XE_1 · Someone deleted my photos from the shared folder. Without asking.
+89. m3t68 XE_2 · Someone deleted my photos from the shared folder. Without asking.
+90. m3t47 XE_0 · Priya used my shampoo again without asking.
+91. m3t47 XE_1 · Priya used my shampoo again without asking.
+92. m3t47 XE_2 · Priya used my shampoo again without asking.
+93. m3t22 XE_0 · Three people saw what happened, and nobody said a word.
+94. m3t22 XE_1 · Three people saw what happened, and nobody said a word.
+95. m3t22 XE_2 · Three people saw what happened, and nobody said a word.
