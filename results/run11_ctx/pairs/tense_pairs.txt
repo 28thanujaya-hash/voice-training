@@ -1,0 +1,48 @@
+Each pair: tag take, then a plain take of the same line.
+1. m3t15 X_0 · Really.
+2. m3xt54 X_0 · Wait your turn!
+3. m3xt54 X_1 · Wait your turn!
+4. m3xt37 X_0 · He's late again?!
+5. m3xt37 X_1 · He's late again?!
+6. m4g12t X_0 · They changed the plan.
+7. m4g12t X_1 · They changed the plan.
+8. m3xt12 X_0 · I'm waiting… still waiting.
+9. m3xt12 X_1 · I'm waiting… still waiting.
+10. m3xt70 X_0 · Sure… whatever you say.
+11. m3xt70 X_1 · Sure… whatever you say.
+12. m3xt24 X_0 · I've had enough — I'm leaving.
+13. m3xt24 X_1 · I've had enough — I'm leaving.
+14. m3xt34 X_0 · You call that an apology?!
+15. m3xt34 X_1 · You call that an apology?!
+16. m3t26 X_0 · Please don't interrupt me. Let me finish.
+17. m3t26 X_1 · Please don't interrupt me. Let me finish.
+18. m3t10 X_0 · Stop. Listen to the question first, and then answer.
+19. m3t10 X_1 · Stop. Listen to the question first, and then answer.
+20. m3t69 X_0 · They cancelled the train to Madurai. Two days before.
+21. m3t69 X_1 · They cancelled the train to Madurai. Two days before.
+22. m3t51 X_0 · I cleaned the kitchen this morning, and it's already a mess.
+23. m3t51 X_1 · I cleaned the kitchen this morning, and it's already a mess.
+24. m3t15 XR_0 · Really.
+25. m3t15 XR_1 · Really.
+26. m3xt54 XR_0 · Wait your turn!
+27. m3xt54 XR_1 · Wait your turn!
+28. m3xt37 XR_0 · He's late again?!
+29. m3xt37 XR_1 · He's late again?!
+30. m4g12t XR_0 · They changed the plan.
+31. m4g12t XR_1 · They changed the plan.
+32. m3xt12 XR_0 · I'm waiting… still waiting.
+33. m3xt12 XR_1 · I'm waiting… still waiting.
+34. m3xt70 XR_0 · Sure… whatever you say.
+35. m3xt70 XR_1 · Sure… whatever you say.
+36. m3xt24 XR_0 · I've had enough — I'm leaving.
+37. m3xt24 XR_1 · I've had enough — I'm leaving.
+38. m3xt34 XR_0 · You call that an apology?!
+39. m3xt34 XR_1 · You call that an apology?!
+40. m3t26 XR_0 · Please don't interrupt me. Let me finish.
+41. m3t26 XR_1 · Please don't interrupt me. Let me finish.
+42. m3t10 XR_0 · Stop. Listen to the question first, and then answer.
+43. m3t10 XR_1 · Stop. Listen to the question first, and then answer.
+44. m3t69 XR_0 · They cancelled the train to Madurai. Two days before.
+45. m3t69 XR_1 · They cancelled the train to Madurai. Two days before.
+46. m3t51 XR_0 · I cleaned the kitchen this morning, and it's already a mess.
+47. m3t51 XR_1 · I cleaned the kitchen this morning, and it's already a mess.
