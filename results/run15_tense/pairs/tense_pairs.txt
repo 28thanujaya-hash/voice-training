@@ -1,0 +1,88 @@
+Each pair: tag take, then a plain take of the same line.
+1. m3t53 XG_0 · Wait. He said what?
+2. m3t53 XG_1 · Wait. He said what?
+3. m3t53 XG_2 · Wait. He said what?
+4. m3t53 XG_3 · Wait. He said what?
+5. m3t54 XG_0 · Seriously? After everything you did for him?
+6. m3t54 XG_1 · Seriously? After everything you did for him?
+7. m3t54 XG_2 · Seriously? After everything you did for him?
+8. m3t54 XG_3 · Seriously? After everything you did for him?
+9. m3t16 XG_1 · He clicked his fingers at me. Like I was a dog.
+10. m3t16 XG_2 · He clicked his fingers at me. Like I was a dog.
+11. m3t16 XG_3 · He clicked his fingers at me. Like I was a dog.
+12. m3t58 XG_1 · And you just let him say that?
+13. m3t58 XG_2 · And you just let him say that?
+14. m3t58 XG_3 · And you just let him say that?
+15. m3t18 XG_0 · I told my manager everything, and she said, "Just smile." Smile?
+16. m3t18 XG_1 · I told my manager everything, and she said, "Just smile." Smile?
+17. m3t18 XG_2 · I told my manager everything, and she said, "Just smile." Smile?
+18. m3t18 XG_3 · I told my manager everything, and she said, "Just smile." Smile?
+19. m3t42 XG_0 · The bus driver didn't stop. I was standing right there.
+20. m3t42 XG_1 · The bus driver didn't stop. I was standing right there.
+21. m3t42 XG_2 · The bus driver didn't stop. I was standing right there.
+22. m3t42 XG_3 · The bus driver didn't stop. I was standing right there.
+23. m3t72 XG_0 · After that, he took a photo of my name badge. Can you believe it?
+24. m3t72 XG_1 · After that, he took a photo of my name badge. Can you believe it?
+25. m3t72 XG_2 · After that, he took a photo of my name badge. Can you believe it?
+26. m3t44 XG_0 · The shop gave me the wrong change, and then they said it was my mistake.
+27. m3t44 XG_1 · The shop gave me the wrong change, and then they said it was my mistake.
+28. m3t44 XG_2 · The shop gave me the wrong change, and then they said it was my mistake.
+29. m3t44 XG_3 · The shop gave me the wrong change, and then they said it was my mistake.
+30. m3t50 XG_1 · Someone took my umbrella from the café. My new one.
+31. m3t50 XG_3 · Someone took my umbrella from the café. My new one.
+32. m3t68 XG_0 · Someone deleted my photos from the shared folder. Without asking.
+33. m3t68 XG_1 · Someone deleted my photos from the shared folder. Without asking.
+34. m3t68 XG_3 · Someone deleted my photos from the shared folder. Without asking.
+35. m3t47 XG_0 · Priya used my shampoo again without asking.
+36. m3t47 XG_1 · Priya used my shampoo again without asking.
+37. m3t47 XG_2 · Priya used my shampoo again without asking.
+38. m3t47 XG_3 · Priya used my shampoo again without asking.
+39. m3t22 XG_0 · Three people saw what happened, and nobody said a word.
+40. m3t22 XG_1 · Three people saw what happened, and nobody said a word.
+41. m3t22 XG_2 · Three people saw what happened, and nobody said a word.
+42. m3t22 XG_3 · Three people saw what happened, and nobody said a word.
+43. m3t53 XR_0 · Wait. He said what?
+44. m3t53 XR_1 · Wait. He said what?
+45. m3t53 XR_2 · Wait. He said what?
+46. m3t53 XR_3 · Wait. He said what?
+47. m3t54 XR_0 · Seriously? After everything you did for him?
+48. m3t54 XR_1 · Seriously? After everything you did for him?
+49. m3t54 XR_2 · Seriously? After everything you did for him?
+50. m3t54 XR_3 · Seriously? After everything you did for him?
+51. m3t16 XR_0 · He clicked his fingers at me. Like I was a dog.
+52. m3t16 XR_1 · He clicked his fingers at me. Like I was a dog.
+53. m3t16 XR_2 · He clicked his fingers at me. Like I was a dog.
+54. m3t58 XR_1 · And you just let him say that?
+55. m3t58 XR_2 · And you just let him say that?
+56. m3t58 XR_3 · And you just let him say that?
+57. m3t18 XR_0 · I told my manager everything, and she said, "Just smile." Smile?
+58. m3t18 XR_1 · I told my manager everything, and she said, "Just smile." Smile?
+59. m3t18 XR_2 · I told my manager everything, and she said, "Just smile." Smile?
+60. m3t18 XR_3 · I told my manager everything, and she said, "Just smile." Smile?
+61. m3t42 XR_0 · The bus driver didn't stop. I was standing right there.
+62. m3t42 XR_1 · The bus driver didn't stop. I was standing right there.
+63. m3t42 XR_2 · The bus driver didn't stop. I was standing right there.
+64. m3t42 XR_3 · The bus driver didn't stop. I was standing right there.
+65. m3t72 XR_0 · After that, he took a photo of my name badge. Can you believe it?
+66. m3t72 XR_1 · After that, he took a photo of my name badge. Can you believe it?
+67. m3t72 XR_2 · After that, he took a photo of my name badge. Can you believe it?
+68. m3t44 XR_0 · The shop gave me the wrong change, and then they said it was my mistake.
+69. m3t44 XR_1 · The shop gave me the wrong change, and then they said it was my mistake.
+70. m3t44 XR_2 · The shop gave me the wrong change, and then they said it was my mistake.
+71. m3t44 XR_3 · The shop gave me the wrong change, and then they said it was my mistake.
+72. m3t50 XR_0 · Someone took my umbrella from the café. My new one.
+73. m3t50 XR_1 · Someone took my umbrella from the café. My new one.
+74. m3t50 XR_2 · Someone took my umbrella from the café. My new one.
+75. m3t50 XR_3 · Someone took my umbrella from the café. My new one.
+76. m3t68 XR_0 · Someone deleted my photos from the shared folder. Without asking.
+77. m3t68 XR_1 · Someone deleted my photos from the shared folder. Without asking.
+78. m3t68 XR_2 · Someone deleted my photos from the shared folder. Without asking.
+79. m3t68 XR_3 · Someone deleted my photos from the shared folder. Without asking.
+80. m3t47 XR_0 · Priya used my shampoo again without asking.
+81. m3t47 XR_1 · Priya used my shampoo again without asking.
+82. m3t47 XR_2 · Priya used my shampoo again without asking.
+83. m3t47 XR_3 · Priya used my shampoo again without asking.
+84. m3t22 XR_0 · Three people saw what happened, and nobody said a word.
+85. m3t22 XR_1 · Three people saw what happened, and nobody said a word.
+86. m3t22 XR_2 · Three people saw what happened, and nobody said a word.
+87. m3t22 XR_3 · Three people saw what happened, and nobody said a word.
