@@ -9,6 +9,7 @@ on:
       gpu: { description: 'T4 (free), or none for CPU', required: false, default: 'T4' }
 permissions:
   contents: write
+  actions: read
 jobs:
   chain:
     runs-on: ubuntu-latest
@@ -16,6 +17,13 @@ jobs:
     env:
       PYTHON_KEYRING_BACKEND: keyrings.alt.file.PlaintextKeyring
     steps:
+      - name: Wait for other Colab runs (free Colab = one GPU at a time)
+        env: { GH_TOKEN: '${{ github.token }}' }
+        run: |
+          for i in $(seq 1 120); do
+            n=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs?status=in_progress&per_page=50" --jq "[.workflow_runs[] | select(.id != $GITHUB_RUN_ID and (.name == \"Colab chain\" or .name == \"Colab run\"))] | length")
+            [ "$n" = "0" ] && break; echo "$(date -u +%H:%M) waiting for $n other Colab run(s)"; sleep 120
+          done
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
