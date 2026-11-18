@@ -1,0 +1,61 @@
+Each pair: tag take, then a plain take of the same line.
+1. m3xb02 B_0 · And the winner is… you!
+2. m3xb02 B_1 · And the winner is… you!
+3. m3xb02 B_2 · And the winner is… you!
+4. m3xb24 B_0 · Sam actually cooked?!
+5. m3xb24 B_1 · Sam actually cooked?!
+6. m3xb24 B_2 · Sam actually cooked?!
+7. m3b38 B_0 · Wow, you remembered! Thank you!
+8. m3b38 B_1 · Wow, you remembered! Thank you!
+9. m3b38 B_2 · Wow, you remembered! Thank you!
+10. m4g19b B_0 · I'm going home tomorrow!
+11. m4g19b B_1 · I'm going home tomorrow!
+12. m4g19b B_2 · I'm going home tomorrow!
+13. m4g18b B_0 · My brother is getting married!
+14. m4g18b B_1 · My brother is getting married!
+15. m4g18b B_2 · My brother is getting married!
+16. m3b42 B_0 · Oh, how wonderful! When did you find out?
+17. m3b42 B_1 · Oh, how wonderful! When did you find out?
+18. m3b42 B_2 · Oh, how wonderful! When did you find out?
+19. m3b70 B_0 · Thank you! You really didn't have to do that!
+20. m3b70 B_1 · Thank you! You really didn't have to do that!
+21. m3b70 B_2 · Thank you! You really didn't have to do that!
+22. m3b54 B_1 · The rain stopped, and there's a rainbow over the sea!
+23. m3b54 B_2 · The rain stopped, and there's a rainbow over the sea!
+24. m3b30 B_0 · Thenuka's getting so big! Sam showed me a photo!
+25. m3b30 B_1 · Thenuka's getting so big! Sam showed me a photo!
+26. m3b30 B_2 · Thenuka's getting so big! Sam showed me a photo!
+27. m3b57 B_0 · It's a long weekend, so I'm going to sleep for two days!
+28. m3b57 B_1 · It's a long weekend, so I'm going to sleep for two days!
+29. m3b57 B_2 · It's a long weekend, so I'm going to sleep for two days!
+30. m3b31 B_0 · Sam passed his driving test! He called me the moment he got out!
+31. m3b31 B_1 · Sam passed his driving test! He called me the moment he got out!
+32. m3b31 B_2 · Sam passed his driving test! He called me the moment he got out!
+33. m3b63 B_0 · There's a new Batman film coming out! I'm going on the first day!
+34. m3b63 B_1 · There's a new Batman film coming out! I'm going on the first day!
+35. m3b63 B_2 · There's a new Batman film coming out! I'm going on the first day!
+36. m3xb02 T_0 · And the winner is… you!
+37. m3xb02 T_1 · And the winner is… you!
+38. m3xb02 T_2 · And the winner is… you!
+39. m3xb24 T_0 · Sam actually cooked?!
+40. m3xb24 T_1 · Sam actually cooked?!
+41. m3xb24 T_2 · Sam actually cooked?!
+42. m3b38 T_0 · Wow, you remembered! Thank you!
+43. m3b38 T_1 · Wow, you remembered! Thank you!
+44. m3b38 T_2 · Wow, you remembered! Thank you!
+45. m4g18b T_0 · My brother is getting married!
+46. m4g18b T_1 · My brother is getting married!
+47. m4g18b T_2 · My brother is getting married!
+48. m3b42 T_0 · Oh, how wonderful! When did you find out?
+49. m3b42 T_1 · Oh, how wonderful! When did you find out?
+50. m3b42 T_2 · Oh, how wonderful! When did you find out?
+51. m3b70 T_0 · Thank you! You really didn't have to do that!
+52. m3b70 T_2 · Thank you! You really didn't have to do that!
+53. m3b54 T_0 · The rain stopped, and there's a rainbow over the sea!
+54. m3b54 T_1 · The rain stopped, and there's a rainbow over the sea!
+55. m3b30 T_0 · Thenuka's getting so big! Sam showed me a photo!
+56. m3b30 T_1 · Thenuka's getting so big! Sam showed me a photo!
+57. m3b30 T_2 · Thenuka's getting so big! Sam showed me a photo!
+58. m3b57 T_0 · It's a long weekend, so I'm going to sleep for two days!
+59. m3b57 T_1 · It's a long weekend, so I'm going to sleep for two days!
+60. m3b57 T_2 · It's a long weekend, so I'm going to sleep for two days!
