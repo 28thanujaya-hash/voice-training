@@ -105,7 +105,8 @@ def main():
     for ch in CHAPTERS:
         name = files[ch - 1]; path = f"/tmp/ch{ch:02d}.mp3"
         get(f"https://archive.org/download/{ITEM}/{urllib.request.quote(name)}", path)
-        segs, _ = model.transcribe(path, word_timestamps=True, beam_size=1, vad_filter=False, language="en")
+        y, sr = librosa.load(path, sr=16000)   # decode here (faster-whisper's own decoder breaks on newer PyAV)
+        segs, _ = model.transcribe(y, word_timestamps=True, beam_size=1, vad_filter=False, language="en")
         W = [dict(w=w.word.strip(), s=w.start, e=w.end) for sg in segs for w in sg.words]
         json.dump(dict(file=name, words=W), open(f"out/ch{ch:02d}_words.json", "w"))
         print(f"ch{ch}: {name}, {len(W)} words heard")
@@ -122,7 +123,6 @@ def main():
         for a, b, n in sm.get_matching_blocks():
             for j in range(n): match[a + j] = ai[b + j]
         # audio features for the whole chapter
-        y, sr = librosa.load(path, sr=16000)
         hop = 256; fr = hop / sr
         f0, vf, _ = librosa.pyin(y, fmin=70, fmax=500, sr=sr, frame_length=1024, hop_length=hop)
         st = 12 * np.log2(np.where(vf, f0, np.nan) / 100.0)
