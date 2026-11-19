@@ -3,7 +3,8 @@ listening page with the two side by side.
 
 Usage: python3 tools/book/pair_page.py <run> <human.csv> <human_audio.json> <out_dir>
   human.csv: code, chapter, start, end, text (results/book_anne/director/run18_human.csv)
-Closeness = the human's delivery vs her normal chatting voice, compared with the take's delivery vs F's normal voice:
+The take shown is the one the director's own mood rules pick (tools/auto_sort.py scores), never the human recording.
+Closeness to the human is only reported afterwards (pairs.md): the human's delivery vs her normal chatting voice, compared with the take's delivery vs F's normal voice:
   speed (%), loudness (dB), pitch (st), pitch movement (st), and how far the last word falls (st, tools/end_word.py).
 """
 import base64, csv, json, os, sys
@@ -35,10 +36,12 @@ for n, (code, h) in enumerate(H.items(), 1):
         e = end_features(fn) or {}
         a = dict(speed=float(t["speed_pct"]), loud=float(t["d_lufs"]), pitch=float(t["d_f0_med"]), move=float(t["d_f0_sd"]), fall=e.get("end_fall", 0.0))
         d = abs(a["speed"] - h["speed"]) / 20 + abs(a["loud"] - h["loud"]) / 2 + abs(a["pitch"] - h["pitch"]) / 2 + abs(a["move"] - h["move"]) / 1.5 + abs(a["fall"] - h["fall"]) / 4
-        best.append((d, t, a, fn))
-    best.sort(key=lambda b: b[0])
+        own = (a["loud"] if t["mood"] == "bright" else a["loud"] + 0.5 * a["pitch"] if t["mood"] == "tense"
+               else -a["loud"] - a["speed"] / 10 + 0.3 * float(t["d_h1h2"] or 0))   # tools/auto_sort.py scores: no human info
+        best.append((d, t, a, fn, own))
+    best.sort(key=lambda b: -b[4])   # the take the director's own rules pick (an EPUB has no human recording)
     if not best: continue
-    d, t, a, fn = best[0]
+    d, t, a, fn, _ = best[0]
     pack[f"O{n}"] = hpack[code]; pack[f"A{n}"] = base64.b64encode(open(fn, "rb").read()).decode()
     pairs.append(dict(n=n, code=code, text=h["text"].strip("“”\""), actor=t["text"], var=t["var"]))
     report.append(f"| {n} | {h['text'][:45]} | {t['var']}: {t['text']} | human {h['speed']:+.0f}% {h['loud']:+.1f} dB {h['pitch']:+.1f} st, fall {h['fall']:+.1f} | actor {a['speed']:+.0f}% {a['loud']:+.1f} dB {a['pitch']:+.1f} st, fall {a['fall']:+.1f} | {d:.1f} |")
