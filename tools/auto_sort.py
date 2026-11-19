@@ -19,6 +19,11 @@ import csv, os, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KEEP = 2
+# Bright lines written as amused / ironic stories ("actually", "for once", a punchline) or split by "—":
+# heard as F's normal dry humour (check 1-4: 9 of 11 normal marks on chuckle/laugh lines). User 19 Nov 07:27:
+# move them to normal (mentor should know). Their takes are sorted with the normal rule (closest to her normal voice).
+MOVE_TO_NORMAL = {"m3b55", "m3b73", "m3b64", "m3b72", "m3b53", "m3b18", "m3b67", "m3t09", "m3b20",
+                  "m3xb24", "m3xb08", "m3xb12", "m3xb15"}
 f = lambda r, k: float(r[k] or 0)
 
 
@@ -61,6 +66,8 @@ for run in runs:
             if r["status"] in ("PASS", "fail")
             and os.path.exists(os.path.join(ROOT, "results", run, "takes", f"{r['id']}_{r['var']}_{r['take']}.mp3"))]
     ids = list(dict.fromkeys(r["id"] for r in rows))
+    for r in rows:
+        if r["mood"] == "bright" and r["id"] in MOVE_TO_NORMAL: r["mood"] = "normal"
     for lid in ids:
         rs = [r for r in rows if r["id"] == lid]
         for r in rs:
