@@ -31,9 +31,19 @@ def get(url, path=None):
 # ---------- text: Gutenberg -> chapters -> paragraphs -> sentences ----------
 def book_chapters():
     raw = None
-    for url in (f"https://www.gutenberg.org/cache/epub/{GID}/pg{GID}.txt", f"https://www.gutenberg.org/files/{GID}/{GID}-0.txt"):
-        try: raw = get(url).decode("utf-8", "replace"); break
-        except Exception as e: print("text fetch failed", url, e)
+    d = "/".join(GID[:-1]) + "/" + GID if len(GID) > 1 else "0/" + GID   # mirror folder layout: 45 -> 4/45
+    urls = [f"https://www.gutenberg.org/cache/epub/{GID}/pg{GID}.txt", f"https://aleph.gutenberg.org/{d}/{GID}-0.txt",
+            f"https://gutenberg.pglaf.org/{d}/{GID}-0.txt", f"http://mirrors.xmission.com/gutenberg/{d}/{GID}-0.txt",
+            f"https://gutenberg.readingroo.ms/{d}/{GID}-0.txt", f"https://www.gutenberg.org/files/{GID}/{GID}-0.txt",
+            f"https://aleph.gutenberg.org/{d}/{GID}.txt", f"https://gutenberg.pglaf.org/{d}/{GID}.txt"]
+    import time
+    for attempt in range(3):
+        for url in urls:
+            try: raw = get(url).decode("utf-8", "replace"); print("text from", url); break
+            except Exception as e: print("text fetch failed", url, e)
+        if raw: break
+        time.sleep(30)
+    if not raw: raise SystemExit("no book text from any mirror")
     raw = raw.replace("\r\n", "\n")
     s = raw.find("*** START"); e = raw.find("*** END")
     body = raw[raw.find("\n", s) + 1: e if e > 0 else None]
