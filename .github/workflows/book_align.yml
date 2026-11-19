@@ -1,0 +1,64 @@
+name: Book align
+# Lines up a LibriVox reading (archive.org item) with its Project Gutenberg text, sentence by sentence, and measures
+# how each sentence was read (tools/book/align.py). CPU only: runs many chapters in parallel on free GitHub machines.
+# Results: results/book_<name>/ch<NN>.csv (+ _words.json, _paras.json).
+on:
+  workflow_dispatch:
+    inputs:
+      name: { description: 'short name for the results folder', required: true, default: 'anne' }
+      item: { description: 'archive.org item of the LibriVox reading', required: true, default: 'anne_greengables_librivox' }
+      gid: { description: 'Project Gutenberg book id', required: true, default: '45' }
+      first: { description: 'first chapter', required: true, default: '1' }
+      last: { description: 'last chapter', required: true, default: '38' }
+      per_job: { description: 'chapters per machine', required: false, default: '2' }
+permissions:
+  contents: write
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      groups: ${{ steps.p.outputs.groups }}
+    steps:
+      - id: p
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json
+          a, b, n = ${{ inputs.first }}, ${{ inputs.last }}, ${{ inputs.per_job }}
+          ch = list(range(a, b + 1))
+          print("groups=" + json.dumps([" ".join(map(str, ch[i:i + n])) for i in range(0, len(ch), n)]))
+          EOF
+  align:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        chapters: ${{ fromJson(needs.plan.outputs.groups) }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: tools/book }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q faster-whisper librosa soundfile numpy
+      - run: python tools/book/align.py "${{ inputs.item }}" "${{ inputs.gid }}" ${{ matrix.chapters }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: book-${{ strategy.job-index }}
+          path: out/
+          if-no-files-found: ignore
+  gather:
+    needs: align
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: { pattern: 'book-*', path: dl, merge-multiple: true }
+      - run: |
+          D=results/book_${{ inputs.name }}; mkdir -p $D; cp -r dl/* $D/ 2>/dev/null || true
+          ls $D | head -50
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add $D && git commit -q -m "Book align results: ${{ inputs.name }} ch ${{ inputs.first }}-${{ inputs.last }} [skip ci]" || { echo "nothing new"; exit 0; }
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done
