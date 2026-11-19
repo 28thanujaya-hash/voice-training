@@ -70,6 +70,7 @@ def rules(d, q, ref, mood):
     R = {"low": [("speed 15-40% slower", -40 <= sp <= -15), ("≥2 dB quieter", g("lufs") <= -2), ("breathier ≥+3 dB", g("h1h2") >= 3)],
          "tense": [("pitch ≥+2 st", g("f0_med") >= 2), ("≥10% faster", sp >= 10), ("≥3 dB louder", g("lufs") >= 3),
                    ("falls through line", g("slope") < 0), ("end ≥3 dB quieter", g("int_drop") <= -3)],
+         "normal": [],
          "bright": [("≥6 syllables", d["syl"] >= 6), ("pitch ≥+2.5 st", g("f0_med") >= 2.5), ("movement ≥+0.8", g("f0_sd") >= 0.8),
                     ("end not quieter", g("int_drop") >= -1), ("end fall gentle", g("final_drop") >= -5), ("not breathy", g("h1h2") <= 1.5), ("not slower", sp >= -5)]}[mood]
     R += [("gap ≤0.5 s", q["gap"] <= 0.5), ("no flat hold >0.5 s", q["hold"] <= 0.5), ("no hiss >0.15 s", q["hiss"] <= 0.15)]

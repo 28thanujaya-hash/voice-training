@@ -9,6 +9,7 @@ For every right-word take:
        bright = loud + speed/10;              no mood cut (numbers can't tell bright from normal)
        tense  = loud + 0.5·pitch;             drop when loud < +1 dB and pitch < +1.5 st
        low    = −loud − speed/10 + 0.3·breath; drop when pitch ≥ +2.5 st (not on plain "?" questions)
+       normal = closeness to F's normal voice; drop when |loud| > 3 dB or |pitch| > 2.5 st
      every mood: drop when speed < −50 % (sounded odd)
   3. Per line, keep the 2 strongest survivors. If none survive, keep the best take
      and flag the line "check".
@@ -24,6 +25,7 @@ f = lambda r, k: float(r[k] or 0)
 def strength(r, mood):
     if mood == "bright": return f(r, "d_lufs") + f(r, "speed_pct") / 10
     if mood == "tense": return f(r, "d_lufs") + 0.5 * f(r, "d_f0_med")
+    if mood == "normal": return -(abs(f(r, "d_lufs")) / 3 + abs(f(r, "d_f0_med")) / 2.5 + abs(f(r, "speed_pct")) / 30)
     return -f(r, "d_lufs") - f(r, "speed_pct") / 10 + 0.3 * f(r, "d_h1h2")
 
 
@@ -36,6 +38,7 @@ def flat(r, mood):
     # (35 clips by ear), so bright is cut for quality only and sorted by ear.
     if mood == "bright": return False
     if mood == "tense": return f(r, "d_lufs") < 1 and f(r, "d_f0_med") < 1.5
+    if mood == "normal": return abs(f(r, "d_lufs")) > 3 or abs(f(r, "d_f0_med")) > 2.5   # far from her normal voice (not yet checked by ear)
     t = r["text"].rstrip()
     return f(r, "d_f0_med") >= 2.5 and not (t.endswith("?") and not t.endswith("?!"))
 
