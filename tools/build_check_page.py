@@ -10,6 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 name, out, csvs = sys.argv[1], sys.argv[2], sys.argv[3:]
 rnd = random.Random(name)
 N = {"tense": (3, 2, 1, 0), "low": (6, 5, 1, 1), "bright": (6, 5, 1, 1)}   # check2: weight toward low and bright
+if os.environ.get("CHECK_N"): N = {k: tuple(v) for k, v in json.loads(os.environ["CHECK_N"]).items()}  # e.g. {"bright":[0,10,0,0]}
 os.makedirs(os.path.join(out, "audio"), exist_ok=True)
 picked = []
 import glob
