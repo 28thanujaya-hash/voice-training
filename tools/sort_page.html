@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__TITLE__</title>
+<style>
+:root{--bg:#faf8f5;--card:#fff;--ink:#1f1d1a;--mute:#76716a;--line:#e6e1da;--norm:#5a8a4a;--odd:#b0662c}
+@media (prefers-color-scheme:dark){:root{--bg:#171614;--card:#211f1c;--ink:#ece8e1;--mute:#9a948b;--line:#36322d}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 14px}
+h1{font-size:17px;margin:0 0 6px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:14px}
+select,button{font:inherit}
+select{padding:6px 8px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);max-width:100%}
+label{display:flex;gap:5px;align-items:center;color:var(--mute)}
+.prog{margin-left:auto;color:var(--mute)}
+main{padding:6px 14px 80px;max-width:640px;margin:0 auto}
+h2{font-size:15px;margin:22px 0 8px;color:var(--mute);font-weight:600}
+h2 b{color:var(--ink)}
+h2 small{display:block;font-weight:400;font-size:12px;margin-top:2px}
+.clip{display:flex;flex-wrap:wrap;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 10px;margin:6px 0}
+.code{font:700 17px/1 ui-monospace,Menlo,monospace;min-width:52px}
+.rise{font-size:12px;color:#c79a1e;font-weight:600}
+.play{width:42px;height:42px;border-radius:50%;border:1px solid var(--line);background:var(--bg);color:var(--ink);font-size:16px;flex:none}
+.play.on{background:var(--ink);color:var(--bg)}
+.marks{display:flex;gap:5px;margin-left:auto}
+.m{padding:8px 10px;border-radius:9px;border:1.5px solid var(--line);background:transparent;color:var(--ink);font-size:14px}
+.m.bright.on{background:#c79a1e;border-color:#c79a1e;color:#fff}
+.m.tense.on{background:#a8423b;border-color:#a8423b;color:#fff}
+.m.low.on{background:#3b6ea8;border-color:#3b6ea8;color:#fff}
+.m.normal.on{background:var(--norm);border-color:var(--norm);color:#fff}
+.m.odd.on{background:var(--odd);border-color:var(--odd);color:#fff}
+.det{display:none;font-size:12px;color:var(--mute);width:100%;margin-top:4px}
+.showdet .det{display:block}
+.foot{position:fixed;bottom:0;left:0;right:0;background:var(--bg);border-top:1px solid var(--line);padding:8px 14px;display:flex;gap:8px;align-items:center;font-size:13px;color:var(--mute)}
+.foot button{padding:7px 12px;border-radius:9px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+</style>
+</head>
+<body>
+<header>
+  <h1>F · __MOOD__, full run · sort by ear</h1>
+  <div class="bar">
+    <select id="lineSel"><option value="">All lines</option></select>
+    <label><input type="checkbox" id="unmarked"> Unmarked only</label>
+    <label><input type="checkbox" id="details"> Details</label>
+    <span class="prog" id="prog"></span>
+  </div>
+</header>
+<main id="list"><p style="color:var(--mute)">Loading clips…</p></main>
+<div class="foot"><span id="save">Marks save as you tap.</span><button id="copy" style="margin-left:auto">Copy marks</button></div>
+<audio id="au" preload="none"></audio>
+<script>
+const MOOD = "__MOOD__", KEY = "f-full-" + MOOD + "-marks";
+const marksFor = c => [c.mood, "normal", "odd"];
+let clips = [], marks = {}, db = null, playing = null, packs = {};
+const $ = id => document.getElementById(id), au = $("au");
+function loadLocal(){ try{ return JSON.parse(localStorage.getItem(KEY)||"{}") }catch(e){ return {} } }
+function saveLocal(){ try{ localStorage.setItem(KEY, JSON.stringify(marks)) }catch(e){} }
+function render(){
+  const ln = $("lineSel").value, only = $("unmarked").checked; let h = "", last = 0;
+  for (const c of clips){
+    if (ln && String(c.line) !== ln) continue;
+    if (only && marks[c.code]) continue;
+    if (c.line !== last){
+      h += `<h2><b>${MOOD[0].toUpperCase()}${c.line}</b> · ${c.text}<small>tag: ${c.tag}${c.reveal?" · reveal line: rising-end takes first":""}</small></h2>`; last = c.line; }
+    const m = marks[c.code] || "";
+    h += `<div class="clip" data-code="${c.code}"><span class="code">${c.code}</span>${c.rising?'<span class="rise">↗ end</span>':""}
+      <button class="play${playing===c.code?" on":""}" data-play="${c.code}" aria-label="Play ${c.code}">${playing===c.code?"■":"▶"}</button>
+      <span class="marks">${marksFor(c).map(k=>`<button class="m ${k}${m===k?" on":""}" data-mark="${k}">${k[0].toUpperCase()+k.slice(1)}</button>`).join("")}</span>
+      <div class="det">${c.run} · ${c.take} · vs F's normal voice: speed ${c.speed}% · loud ${c.loud} dB · pitch ${c.pitch} st · end pitch ${c.end} st · Whisper heard: ${c.heard}</div></div>`;
+  }
+  $("list").innerHTML = h || `<p style="color:var(--mute)">Nothing to show.</p>`;
+  $("prog").textContent = `${clips.filter(c=>marks[c.code]).length}/${clips.length} marked`;
+}
+$("list").addEventListener("click", async e => {
+  const p = e.target.closest("[data-play]");
+  if (p){
+    const c = clips.find(x=>x.code===p.dataset.play);
+    if (playing === c.code){ au.pause(); playing = null; render(); return; }
+    playing = c.code; render();
+    try{
+      if (!packs[c.pack]){ $("save").textContent = "Loading clips…"; packs[c.pack] = await (await fetch(c.pack)).json(); $("save").textContent = "Clips loaded."; }
+      au.src = "data:audio/mpeg;base64," + packs[c.pack][c.code];
+    }catch(err){ $("save").textContent = "Could not load this clip."; playing = null; render(); return; }
+    try{ await au.play() }catch(err){ playing = null; render(); }
+    return;
+  }
+  const b = e.target.closest("[data-mark]"); if (!b) return;
+  const code = b.closest(".clip").dataset.code, k = b.dataset.mark;
+  marks[code] = marks[code] === k ? "" : k; saveLocal(); render();
+  if (db){
+    $("save").textContent = "Saving…";
+    try{ await db.collection("marks").doc(code).set({code, mark: marks[code], at: new Date().toISOString()}); $("save").textContent = "Saved."; }
+    catch(err){ $("save").textContent = "Not saved online; kept on this phone. Use Copy marks."; }
+  }
+});
+au.addEventListener("ended", ()=>{ playing = null; render(); });
+["lineSel","unmarked"].forEach(id=>$(id).addEventListener("change", render));
+$("details").addEventListener("change", e=>document.body.classList.toggle("showdet", e.target.checked));
+$("copy").addEventListener("click", async ()=>{
+  const t = clips.filter(c=>marks[c.code]).map(c=>`${c.code} ${marks[c.code]}`).join("\n") || "(no marks yet)";
+  try{ await navigator.clipboard.writeText(t); $("save").textContent = "Marks copied."; }
+  catch(err){ $("save").textContent = "Copy blocked; marks are saved anyway."; }
+});
+(async ()=>{
+  marks = loadLocal();
+  try{ clips = await (await fetch("clips.json")).json(); }catch(e){ $("list").innerHTML = "<p>Could not load the clip list.</p>"; return; }
+  const lines = [...new Map(clips.map(c=>[c.line,c.text])).entries()];
+  $("lineSel").innerHTML = `<option value="">All lines</option>` + lines.map(([n,t])=>`<option value="${n}">${n} · ${t}</option>`).join("");
+  render();
+  try{
+    db = window.claude ? await window.claude.use("db") : null;
+    if (db){
+      const timer = setTimeout(()=>{ $("save").textContent = "Online save slow; marks kept on this phone."; }, 10000);
+      const snap = await db.collection("marks").get(); clearTimeout(timer);
+      for (const d of (snap.docs || snap)){ const v = typeof d.data === "function" ? d.data() : (d.data || d); if (v && v.code) marks[v.code] = v.mark || ""; }
+      saveLocal(); render(); $("save").textContent = "Marks save as you tap.";
+    } else $("save").textContent = "Marks kept on this phone. Use Copy marks to send them.";
+  }catch(e){ $("save").textContent = "Marks kept on this phone. Use Copy marks to send them."; }
+})();
+</script>
+</body>
+</html>
