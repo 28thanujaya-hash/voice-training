@@ -1,0 +1,191 @@
+# Director's calls for chapter 2 (Anne's drive with Matthew), from the text, before looking at the audio.
+# id mood speaker · cue
+14 n Stationmaster
+15 n Stationmaster
+16 n Stationmaster
+17 n Stationmaster
+18 n Stationmaster
+19 n Stationmaster
+20 n Matthew "blankly"
+21 n Matthew "blankly"
+22 n Matthew "blankly"
+23 n Matthew "blankly"
+25 n Stationmaster
+26 n Stationmaster
+27 n Stationmaster
+28 n Stationmaster
+29 n Matthew "helplessly"
+30 n Stationmaster
+31 n Stationmaster
+32 n Stationmaster
+41 n Anne
+42 b Anne "very glad to see you"
+43 n Anne
+44 n Anne
+45 b Anne "lovely… don't you think?"
+46 b Anne "lovely… don't you think?"
+47 n Anne
+51 n Matthew "shyly"
+52 n Matthew "shyly"
+53 n Matthew "shyly"
+54 n Matthew "shyly"
+55 b Anne "cheerfully"
+56 n Anne
+57 n Anne
+58 n Anne
+59 n Anne
+60 b Anne
+61 n Anne
+62 n Anne
+63 b Anne "so wonderful"
+64 b Anne "so wonderful"
+65 l Anne the asylum
+66 l Anne the asylum
+67 l Anne the asylum
+68 l Anne the asylum
+69 l Anne the asylum
+70 n Anne
+71 n Anne
+72 n Anne
+73 n Anne
+74 n Anne
+75 n Anne
+76 n Anne
+77 n Anne
+82 b Anne "Isn't that beautiful?"
+83 n Anne
+84 n Matthew
+85 b Anne
+86 n Anne
+87 l Anne
+88 n Anne rueful joke
+89 n Anne rueful joke
+90 n Anne
+91 b Anne
+92 b Anne
+93 n Anne
+94 n Anne
+95 l Anne ashamed
+96 n Anne
+97 n Anne
+98 n Anne
+99 l Anne pitied
+100 n Anne
+101 b Anne
+102 n Anne
+103 n Anne
+104 n Anne
+105 n Anne
+106 n Anne
+107 n Anne
+108 b Anne "Oh, there are a lot more cherry-trees"
+109 b Anne "Oh, there are a lot more cherry-trees"
+110 b Anne "Oh, there are a lot more cherry-trees"
+111 n Anne
+112 b Anne
+113 n Anne
+114 n Anne
+115 n Anne
+116 n Anne
+117 n Anne
+118 n Matthew
+119 n Anne
+120 b Anne "glad to be alive"
+121 b Anne "glad to be alive"
+122 n Anne
+123 n Anne
+124 n Anne
+125 n Anne
+126 n Anne
+127 n Anne
+128 n Anne
+137 n Matthew
+138 n Matthew
+139 b Anne "Oh, I'm so glad"
+140 b Anne "Oh, I'm so glad"
+141 n Anne
+142 n Anne
+143 n Anne
+144 n Anne
+145 n Anne
+146 n Anne
+147 n Anne
+148 n Anne
+149 n Anne
+150 n Anne
+151 b Anne
+152 b Anne
+153 n Anne
+154 l Anne the orphan trees
+155 l Anne the orphan trees
+156 l Anne the orphan trees
+157 n Anne
+158 l Anne
+159 l Anne
+160 l Anne
+161 n Anne
+162 n Anne
+163 n Anne
+164 n Matthew
+165 b Anne "Fancy."
+166 b Anne "Fancy."
+167 n Anne
+168 n Anne
+169 n Anne
+170 b Anne "perfectly happy"
+171 n Anne
+174 n Matthew
+176 l Anne "resignedly", sigh
+177 l Anne "resignedly", sigh
+178 l Anne "resignedly", sigh
+179 n Anne
+180 n Anne
+181 n Anne
+182 l Anne
+183 n Anne
+184 n Anne
+185 l Anne "breaks my heart"
+186 l Anne "breaks my heart"
+187 n Anne
+188 n Anne
+189 n Anne
+190 n Anne
+191 n Anne
+192 n Matthew
+194 n Anne
+195 n Anne
+196 n Anne
+197 n Anne
+198 n Anne
+199 n Matthew
+200 n Anne
+201 n Anne
+202 n Anne
+203 n Anne
+204 b Anne "Oh, Mr. Cuthbert!!!"
+205 b Anne "Oh, Mr. Cuthbert!!!"
+206 b Anne "Oh, Mr. Cuthbert!!!"
+219 n Matthew
+220 n Matthew
+222 b Anne "whispered", hushed awe
+223 n Matthew
+224 n Matthew
+225 b Anne "wonderful—wonderful"
+226 b Anne "wonderful—wonderful"
+227 b Anne "wonderful—wonderful"
+228 b Anne "wonderful—wonderful"
+229 b Anne "wonderful—wonderful"
+230 b Anne "wonderful—wonderful"
+231 b Anne "wonderful—wonderful"
+232 n Anne
+233 n Matthew
+234 b Anne
+235 n Anne
+236 n Anne
+237 b Anne "the White Way of Delight"
+238 b Anne "the White Way of Delight"
+239 n Anne
+240 n Anne
+241 n Anne
+242 n Anne
+243 n Anne

@@ -1,0 +1,104 @@
+# Director's calls for chapter 37 (Matthew dies), from the text and preceding paragraphs, before looking at the audio.
+# id mood speaker · cue
+6 t Marilla "gasped", alarm
+7 t Marilla urgent order
+8 t Marilla
+14 l Rachel "gravely", tears in her eyes
+15 l Rachel
+16 l Anne dread, cannot say the word
+17 l Rachel
+18 l Rachel
+19 l Rachel
+33 l Diana "said gently"
+34 l Anne
+36 l Anne
+37 l Anne
+38 l Anne
+39 l Anne
+40 l Anne
+41 l Anne "horrible dull ache"
+52 l Marilla comforting, crying
+53 l Marilla
+54 l Marilla
+55 l Marilla
+56 l Marilla
+57 l Anne "sobbed"
+58 l Anne
+59 l Anne
+60 l Anne
+61 l Anne
+62 l Anne
+63 l Marilla
+64 l Marilla
+65 l Marilla
+66 l Marilla
+67 l Marilla
+68 l Marilla tender, grief
+72 l Anne "wistfully"
+73 l Anne
+74 n Anne
+75 l Anne
+76 l Anne
+77 l MrsAllan "gently", consoling
+78 l MrsAllan
+79 l MrsAllan
+80 l MrsAllan
+81 l MrsAllan
+82 l MrsAllan
+83 l Anne "dreamily", graveside
+84 l Anne
+85 l Anne
+86 l Anne
+87 l Anne
+88 n Anne
+89 l Anne
+90 l MrsAllan
+96 n Marilla
+97 n Marilla
+98 n Marilla
+99 n Marilla
+100 n Marilla
+101 n Marilla
+102 n Anne
+103 n Anne
+104 n Anne light joke
+106 n Marilla fond, laughing
+107 n Marilla
+108 n Marilla
+109 n Marilla
+110 n Anne "smiled"
+111 n Anne
+112 n Anne
+113 n Anne
+114 n Anne
+115 n Anne
+116 n Anne dry humour
+117 n Anne
+118 t Marilla "sharply"
+119 n Marilla dry
+120 n Marilla
+121 n Anne
+122 n Anne
+123 n Anne
+124 n Marilla
+125 n Anne "briefly"
+126 n Marilla "absently"
+127 n Marilla
+128 n Marilla
+129 n Marilla
+130 n Marilla
+131 n Marilla
+133 b Anne "swift interest"
+134 l Marilla regret
+135 l Marilla
+136 l Marilla
+137 l Marilla
+138 l Marilla
+139 l Marilla
+140 l Anne "softly"
+141 n Marilla
+142 n Marilla
+143 n Marilla
+144 l Marilla
+145 l Marilla
+146 l Marilla

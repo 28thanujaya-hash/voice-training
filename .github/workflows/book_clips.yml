@@ -1,0 +1,20 @@
+name: Book clips
+# Cuts listening clips from a LibriVox reading (tools/book/clips.py) and commits them as one JSON pack.
+on:
+  workflow_dispatch:
+    inputs:
+      item: { description: 'archive.org item', required: true, default: 'anne_greengables_librivox' }
+      list: { description: 'clips csv in the repo (code, chapter, start, end)', required: true }
+      out: { description: 'output json path in the repo', required: true }
+permissions:
+  contents: write
+jobs:
+  clips:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/book/clips.py "${{ inputs.item }}" "${{ inputs.list }}" "${{ inputs.out }}"
+      - run: |
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add "${{ inputs.out }}" && git commit -q -m "Book clips: ${{ inputs.out }} [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done

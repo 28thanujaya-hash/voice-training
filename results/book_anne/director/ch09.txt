@@ -1,0 +1,92 @@
+# Director's mood calls for chapter 9, made from the text and the paragraphs before each line, before looking at any audio.
+# id mood speaker (n normal, b bright, l low, t tense) · cue
+15 n Rachel curious gossip
+16 n Marilla dry
+17 n Marilla dry
+18 l Rachel "said sympathetically"
+19 n Rachel question
+20 n Marilla
+21 n Marilla
+22 n Marilla
+23 n Marilla
+24 n Marilla fond but restrained, defending
+26 l Rachel "said gloomily"
+27 l Rachel gloomy warning
+28 n Rachel
+29 t Marilla "dry response", firm
+30 n Marilla
+31 n Marilla
+35 n Rachel blunt remark
+37 n Rachel
+38 n Rachel
+39 n Rachel mocking surprise
+40 n Rachel
+44 t Anne "cried in a choked voice, stamping"
+45 t Anne
+46 t Anne
+47 t Anne
+48 t Anne
+49 t Marilla "exclaimed in consternation"
+51 t Anne "repeated vehemently"
+52 t Anne
+53 t Anne
+54 t Anne
+55 t Anne
+56 t Anne
+57 t Anne
+60 t Rachel "exclaimed the horrified"
+61 t Marilla firm order
+64 n Rachel "unspeakable solemnity"
+67 t Marilla rebuke
+68 t Rachel "demanded indignantly"
+69 n Marilla "said slowly"
+70 t Marilla
+71 n Marilla
+72 n Marilla
+73 t Marilla
+76 t Rachel offended
+77 t Rachel
+78 t Rachel sarcastic
+79 t Rachel
+80 t Rachel
+81 t Rachel
+82 t Rachel
+83 n Rachel
+84 n Rachel
+85 t Rachel
+86 t Rachel
+97 n Marilla "not ungently"
+99 t Marilla "with greater severity"
+101 t Marilla
+102 t Marilla
+103 t Marilla
+104 t Anne "evasive and defiant"
+105 t Marilla
+106 t Marilla
+107 t Marilla
+108 t Marilla
+109 n Marilla
+110 l Anne "wailed"
+111 l Anne
+112 l Anne
+113 l Anne
+114 l Anne
+115 t Marilla
+116 t Marilla
+117 t Marilla
+118 l Anne "pleaded tearfully"
+122 n Marilla "in a softer tone"
+123 n Marilla
+124 t Marilla
+125 t Marilla
+126 t Marilla
+127 t Anne "determinedly and darkly"
+128 t Anne
+129 t Anne
+130 t Anne
+131 n Marilla "drily"
+132 t Marilla
+133 l Anne "mournfully"
+134 l Anne
+135 l Anne
+136 l Anne
