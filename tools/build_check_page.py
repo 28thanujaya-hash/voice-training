@@ -9,21 +9,26 @@ import base64, csv, json, os, random, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 name, out, csvs = sys.argv[1], sys.argv[2], sys.argv[3:]
 rnd = random.Random(name)
+N = {"tense": (3, 2, 1, 0), "low": (6, 5, 1, 1), "bright": (6, 5, 1, 1)}   # check2: weight toward low and bright
 os.makedirs(os.path.join(out, "audio"), exist_ok=True)
 picked = []
+import glob
+seen_before = {(k["mood"], k["take"]) for g in glob.glob(os.path.join(ROOT, "results/auto_sort/*_key.csv")) for k in csv.DictReader(open(g))}
 for path in csvs:
     rows = list(csv.DictReader(open(path)))
     def take(group, cond, n):
-        pool = [r for r in rows if cond(r) and r not in picked]
+        pool = [r for r in rows if cond(r) and r not in picked
+                and (r["mood"], f"{r['id']}_{r['var']}_{r['take']}") not in seen_before]
         rnd.shuffle(pool); seen = set()
         for r in pool:
             if len([p for p in picked if p.get("group") == group and p["mood"] == r["mood"]]) >= n: break
             if r["id"] in seen: continue
             seen.add(r["id"]); r["group"] = group; picked.append(r)
-    take("keep", lambda r: r["decision"] == "keep" and float(r["hiss"]) <= 0.15, 4)
-    take("drop-flat", lambda r: r["decision"] == "drop-flat", 4)
-    take("spare", lambda r: r["decision"] == "spare", 2)
-    take("s-sound", lambda r: r["decision"] in ("keep", "spare") and 0.15 < float(r["hiss"]) <= 0.3, 2)
+    n = N.get(rows[0]["mood"], (4, 4, 2, 2))
+    take("keep", lambda r: r["decision"].startswith("keep") and float(r["hiss"]) <= 0.15, n[0])
+    take("drop-flat", lambda r: r["decision"] == "drop-flat", n[1])
+    take("spare", lambda r: r["decision"] == "spare", n[2])
+    take("s-sound", lambda r: r["decision"] in ("keep", "spare") and 0.15 < float(r["hiss"]) <= 0.3, n[3])
 rnd.shuffle(picked)
 clips, pack, key = [], {}, []
 for i, r in enumerate(picked, 1):

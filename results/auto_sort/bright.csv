@@ -1,494 +1,494 @@
 run,id,mood,var,take,decision,score,q,speed_pct,d_lufs,d_f0_med,d_f0_sd,d_h1h2,gap,hold,hiss,text,heard
-full_bright_1,m3b01,bright,T,0,keep,3.30,,-2.7,3.56,0.37,1.15,-1.63,0.76,0.39,0.07,"I got it! I'm shift leader now, and I start on Monday!",I got it. I'm shift leader now and I start on Monday.
-full_bright_1,m3b01,bright,T,1,spare,3.29,,14.0,6.23,-0.26,0.43,-4.17,0.69,0.24,0.12,"I got it! I'm shift leader now, and I start on Monday!",I got it. I'm shift leader now and I start on Monday.
-full_bright_1,m3b01,bright,T,2,keep,4.93,,3.7,5.28,0.7,1.59,-5.01,0.32,0.33,0.12,"I got it! I'm shift leader now, and I start on Monday!","I got it. I'm shift leader now, and I start on Monday."
-full_bright_1,m3b01,bright,T,3,spare,1.14,,20.6,3.71,-1.25,0.53,-5.72,0.48,0.27,0.09,"I got it! I'm shift leader now, and I start on Monday!",I got it. I'm shift leader now. And I start on Monday.
-full_bright_1,m3b02,bright,T,0,spare,0.60,,-29.5,1.02,-0.3,0.39,4.43,0.04,0.36,0.15,"Paati's home! She called me, and she sounds so strong again!",Party's home. She called me and she sounds so strong again.
-full_bright_1,m3b02,bright,T,1,keep,2.69,,-14.2,1.53,0.7,1.23,1.83,0.33,0.43,0.16,"Paati's home! She called me, and she sounds so strong again!",Barty's home. She called me and she sounds so strong again.
-full_bright_1,m3b02,bright,T,3,keep,2.75,,-26.8,1.07,0.79,1.42,1.05,0.3,0.34,0.13,"Paati's home! She called me, and she sounds so strong again!",Body's home. She called me and she sounds so strong again.
-full_bright_1,m3b03,bright,T,0,keep,2.58,,7.4,4.73,-1.23,1.44,-2.89,0.32,0.38,0.07,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so... I know she's really better."
-full_bright_1,m3b03,bright,T,1,drop-flat,-1.43,,33.9,0.4,-1.34,-0.29,-3.31,0.17,0.36,0.08,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so I know she's really better."
-full_bright_1,m3b03,bright,T,2,drop-flat,-0.51,,20.0,0.35,-0.82,0.14,-3.72,0.25,0.46,0.11,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so I know she's really better."
-full_bright_1,m3b03,bright,T,3,keep,1.77,,-3.2,1.06,0.68,0.56,-2.22,0.0,0.48,0.07,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so I know she's really better."
-full_bright_1,m3b04,bright,T,0,spare,3.42,,-20.0,2.52,1.96,0.2,3.74,0.92,0.77,0.1,"Chennai, Madurai, and maybe the beach too! I can't wait!","Chennai, Naderai, and maybe the beach too. I can't wait."
-full_bright_1,m3b04,bright,T,1,keep,3.95,,-28.9,3.62,1.11,1.03,0.37,0.29,0.51,0.04,"Chennai, Madurai, and maybe the beach too! I can't wait!","Tonight, Matarai and maybe the beach too. I can't wait."
-full_bright_1,m3b04,bright,T,2,keep,5.04,,-16.6,2.4,2.39,1.45,2.92,0.84,0.39,0.08,"Chennai, Madurai, and maybe the beach too! I can't wait!","Shanai, Madurai, and maybe the beach too. I can't wait."
-full_bright_1,m3b04,bright,T,3,spare,2.08,,-16.6,1.96,1.13,-0.03,-1.08,0.83,0.32,0.07,"Chennai, Madurai, and maybe the beach too! I can't wait!","Chennai, Madurai, and maybe the beach too. I can't wait."
-full_bright_1,m3b05,bright,T,0,drop-quality,3.75,hiss,2.2,1.2,1.11,2.04,-0.33,0.41,0.32,0.31,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea."
-full_bright_1,m3b05,bright,T,1,spare,1.82,,21.7,1.27,1.09,0.09,7.62,0.46,0.26,0.17,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea."
-full_bright_1,m3b05,bright,T,2,keep,7.70,,6.4,5.1,3.64,1.51,-1.68,0.38,0.26,0.16,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea."
-full_bright_1,m3b05,bright,T,3,keep,4.28,,-4.4,-0.84,2.79,1.91,0.91,0.6,0.31,0.18,"Ella with the whole class? Okay, that's a brilliant idea!","Ella? With the whole class? Okay, that's a brilliant idea."
-full_bright_1,m3b06,bright,T,0,keep,2.95,,-30.4,0.04,2.9,0.03,7.1,0.6,0.26,0.29,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam. Fanucca's first smile. That's so sweet.
-full_bright_1,m3b06,bright,T,1,keep,4.25,,-18.5,2.78,2.18,0.68,3.95,0.68,0.19,0.14,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam? The Nuka's first smile? That's so sweet.
-full_bright_1,m3b06,bright,T,2,spare,1.81,,-27.8,-0.24,1.36,0.57,5.32,0.56,0.2,0.17,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam. Thanuka's first smile. That's so sweet.
-full_bright_1,m3b06,bright,T,3,spare,0.78,,-34.7,-0.3,1.15,-0.22,1.87,0.39,0.3,0.22,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam. Benka's first smile. That's so sweet.
-full_bright_1,m3b07,bright,T,0,keep,10.51,,-21.8,6.37,4.67,2.65,6.59,0.63,0.11,0.16,"Wait, really? That's amazing news!","Wait, really? That's amazing news."
-full_bright_1,m3b07,bright,T,1,spare,6.33,,-5.9,4.89,3.48,0.4,3.76,0.34,0.13,0.11,"Wait, really? That's amazing news!","Wait, really? That's amazing news."
-full_bright_1,m3b07,bright,T,2,spare,7.12,,-21.1,3.05,3.09,2.51,6.23,0.47,0.2,0.16,"Wait, really? That's amazing news!","Wait, really? That's amazing news!"
-full_bright_1,m3b07,bright,T,3,keep,10.21,,-20.1,7.79,4.05,2.27,10.48,0.87,0.29,0.16,"Wait, really? That's amazing news!","Wait, really? That's amazing news."
-full_bright_1,m3b08,bright,T,1,keep,10.21,,6.0,4.95,5.31,2.42,4.16,0.31,0.22,0.15,"Oh, congratulations! You must be so happy!","Oh, congratulations! You must be so happy."
-full_bright_1,m3b08,bright,T,2,keep,6.97,,-1.0,1.46,4.48,1.76,4.99,0.35,0.24,0.15,"Oh, congratulations! You must be so happy!","Oh, congratulations! You must be so happy."
-full_bright_1,m3b08,bright,T,3,spare,6.26,,0.4,7.0,1.5,1.26,-2.77,0.31,0.2,0.25,"Oh, congratulations! You must be so happy!","Oh, congratulations. You must be so happy."
-full_bright_1,m3b09,bright,T,0,spare,4.45,,12.1,4.96,1.48,0.49,4.18,0.96,0.23,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.
-full_bright_1,m3b09,bright,T,1,keep,5.04,,21.3,6.55,0.99,0.77,1.31,0.51,0.31,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.
-full_bright_1,m3b09,bright,T,2,spare,4.92,,12.6,6.09,0.55,1.32,-3.29,0.31,0.21,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.
-full_bright_1,m3b09,bright,T,3,keep,5.20,,-48.2,6.06,0.41,1.76,-5.21,0.0,0.55,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.
-full_bright_1,m3b10,bright,T,0,spare,5.20,,18.8,2.36,2.94,1.08,7.87,0.59,0.22,0.0,I can't believe it! You actually called him?!,I can't believe it. You actually called him?
-full_bright_1,m3b10,bright,T,1,keep,12.12,,22.4,4.45,8.69,1.21,6.08,0.91,0.22,0.0,I can't believe it! You actually called him?!,I can't believe it! You actually called him?
-full_bright_1,m3b10,bright,T,2,keep,9.98,,32.0,2.9,6.82,1.71,10.79,0.63,0.11,0.0,I can't believe it! You actually called him?!,I can't believe it. You actually called him?
-full_bright_1,m3b12,bright,T,0,spare,4.17,,23.6,5.03,0.34,1.32,-5.66,0.62,0.35,0.0,Much better! I understood every word that time!,Much better. I understood every word that time.
-full_bright_1,m3b12,bright,T,1,keep,5.04,,17.0,2.86,2.3,1.31,-2.88,0.66,0.18,0.06,Much better! I understood every word that time!,Much better. I understood every word that time.
-full_bright_1,m3b12,bright,T,2,spare,4.90,,3.3,3.23,2.44,0.85,0.05,0.54,0.23,0.05,Much better! I understood every word that time!,Much better. I understood every word that time.
-full_bright_1,m3b12,bright,T,3,keep,6.44,,29.3,6.36,1.66,1.6,-1.38,0.49,0.21,0.04,Much better! I understood every word that time!,Much better. I understood every word that time.
-full_bright_1,m3b13,bright,T,0,keep,1.67,,-31.7,-0.75,1.17,0.88,5.73,0.82,0.3,0.06,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done."
-full_bright_1,m3b13,bright,T,1,drop-flat,0.98,,-16.1,0.63,-0.02,0.69,-3.1,0.47,0.26,0.06,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done."
-full_bright_1,m3b13,bright,T,2,drop-flat,1.26,,-17.1,0.72,-0.07,0.97,1.24,0.61,0.17,0.03,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done."
-full_bright_1,m3b13,bright,T,3,drop-flat,-0.59,,-19.0,0.72,-1.74,0.79,-3.22,0.69,0.24,0.06,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done."
-full_bright_1,m3b14,bright,T,0,spare,0.95,,2.7,1.51,0.41,-0.22,-0.76,0.23,0.47,0.21,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.
-full_bright_1,m3b14,bright,T,1,spare,0.64,,-4.9,-0.69,0.91,0.07,4.74,0.31,0.32,0.18,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.
-full_bright_1,m3b14,bright,T,2,keep,3.06,,25.5,1.21,1.63,0.83,-5.61,0.41,0.31,0.14,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.
-full_bright_1,m3b14,bright,T,3,keep,3.48,,4.2,1.28,1.66,1.18,0.81,0.68,0.27,0.15,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.
-full_bright_1,m3b15,bright,T,0,spare,1.54,,33.4,-1.47,1.61,0.66,-2.36,0.51,0.41,0.07,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket. Only the hotel left now.
-full_bright_1,m3b15,bright,T,1,keep,5.51,,9.6,4.86,1.29,1.79,-3.62,0.36,0.25,0.03,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket. Only the hotel left now.
-full_bright_1,m3b15,bright,T,2,drop-flat,-0.16,,18.5,-0.63,-0.19,0.35,-0.63,0.55,0.31,0.09,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket. Only the hotel left now.
-full_bright_1,m3b15,bright,T,3,keep,5.31,,22.7,4.83,-0.63,3.53,-5.83,0.83,0.2,0.03,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket. Only the hotel left now.
-full_bright_1,m3b16,bright,T,0,spare,6.15,,4.6,0.11,4.52,1.58,-0.04,0.63,0.26,0.08,Look at this photo! The light on the water is perfect!,Look at this photo! The light on the water is perfect!
-full_bright_1,m3b16,bright,T,1,spare,7.68,,12.4,0.63,5.17,2.19,-0.67,0.38,0.23,0.05,Look at this photo! The light on the water is perfect!,Look at this photo! The light on the water is perfect!
-full_bright_1,m3b16,bright,T,2,keep,7.77,,20.1,1.93,4.22,2.59,2.84,0.41,0.17,0.06,Look at this photo! The light on the water is perfect!,Look at this photo! The light on the water is perfect!
-full_bright_1,m3b16,bright,T,3,keep,10.60,,23.7,4.04,6.24,2.34,1.29,0.3,0.21,0.08,Look at this photo! The light on the water is perfect!,Look at this photo! The light on the water is perfect!
-full_bright_1,m3b17,bright,T,2,keep,5.76,,-16.1,1.48,3.66,1.36,9.49,0.57,0.26,0.18,Sri Lanka won by two wickets? Sam must be going crazy!,Sri Lanka won by two wickets? Sam must be going crazy.
-full_bright_1,m3b17,bright,T,3,keep,9.64,,-1.0,6.03,4.19,2.44,6.22,0.53,0.14,0.19,Sri Lanka won by two wickets? Sam must be going crazy!,Sri Lanka won by two wickets? Sam must be going crazy.
-full_bright_1,m3b18,bright,T,0,spare,1.44,,-15.8,1.1,-0.26,1.15,-4.3,0.29,0.31,0.08,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that."
-full_bright_1,m3b18,bright,T,1,keep,3.81,,-17.4,2.22,1.77,0.93,-1.17,0.44,0.22,0.08,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that."
-full_bright_1,m3b18,bright,T,2,drop-flat,0.29,,-21.6,-0.29,-0.79,1.23,-3.8,0.39,0.21,0.05,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that."
-full_bright_1,m3b18,bright,T,3,keep,1.90,,-7.5,-1.66,1.58,1.15,-0.35,0.65,0.29,0.08,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that."
-full_bright_1,m3b19,bright,T,0,keep,6.65,,4.2,3.45,2.91,2.02,-0.34,0.27,0.16,0.11,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.
-full_bright_1,m3b19,bright,T,1,keep,5.09,,5.2,0.52,3.87,0.96,-0.2,0.13,0.25,0.14,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.
-full_bright_1,m3b19,bright,T,2,spare,1.36,,3.8,-1.29,1.45,0.56,2.95,0.12,0.28,0.13,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.
-full_bright_1,m3b19,bright,T,3,spare,3.69,,10.0,0.24,2.89,0.68,3.49,0.0,0.2,0.08,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.
-full_bright_1,m3b20,bright,T,0,keep,3.06,,17.7,0.91,2.33,0.27,0.94,0.31,0.73,0.1,"And then, suddenly, the whole café started singing for her birthday!","And then, suddenly, the whole cafe started singing for her birthday."
-full_bright_1,m3b20,bright,T,1,spare,-0.08,,6.5,-1.08,0.85,-0.39,6.08,0.03,0.51,0.11,"And then, suddenly, the whole café started singing for her birthday!",And then suddenly the whole cafe started singing for her birthday.
-full_bright_1,m3b20,bright,T,2,keep,5.31,,4.2,2.77,4.04,-0.11,-1.44,0.29,0.49,0.12,"And then, suddenly, the whole café started singing for her birthday!",And then suddenly the whole cafe started singing for her birthday.
-full_bright_1,m3b20,bright,T,3,spare,0.11,,9.0,-0.67,1.1,-0.66,0.89,0.29,0.58,0.15,"And then, suddenly, the whole café started singing for her birthday!","And then, suddenly, the whole cafe started singing for her birthday."
-full_bright_1,m3b21,bright,T,2,keep,2.52,,18.4,3.43,-0.09,0.9,-5.11,0.03,0.3,0.17,"Thirty-three days of saving, and I've got three thousand rupees!","33 days of saving and I've got 3,000 rupees."
-full_bright_1,m3b21,bright,T,3,keep,1.90,,-3.4,3.29,0.31,-0.06,-1.5,0.15,0.33,0.16,"Thirty-three days of saving, and I've got three thousand rupees!",33 days of saving and I've got 3000 rupees.
-full_bright_1,m3b23,bright,T,0,spare,1.16,,-22.3,3.2,-1.5,1.06,-1.33,0.0,0.69,0.11,It's Sunday again!,It's Sunday again!
-full_bright_1,m3b23,bright,T,1,keep,4.51,,-18.6,-0.52,5.26,-0.49,6.09,0.0,0.38,0.14,It's Sunday again!,It's Sunday again.
-full_bright_1,m3b23,bright,T,2,keep,12.04,,-13.3,4.69,7.34,2.35,-1.21,0.0,0.18,0.14,It's Sunday again!,It's Sunday again!
-full_bright_1,m3b23,bright,T,3,spare,0.49,,-7.2,3.28,-1.17,0.02,-4.8,0.0,0.53,0.14,It's Sunday again!,It's Sunday again.
-full_bright_1,m3b24,bright,T,0,spare,7.48,,-31.1,7.21,1.94,1.94,6.59,0.0,0.09,0.0,Really?!,Really?
-full_bright_1,m3b24,bright,T,1,keep,12.55,,-8.6,3.99,8.75,1.8,9.9,0.0,0.12,0.0,Really?!,Really?
-full_bright_1,m3b24,bright,T,2,keep,18.07,,-34.9,3.28,12.54,3.89,16.19,0.0,0.19,0.0,Really?!,Really?
-full_bright_1,m3b24,bright,T,3,spare,9.04,,-33.1,8.45,2.9,1.92,6.97,0.0,0.22,0.0,Really?!,Really?
-full_bright_1,m3b25,bright,T,0,spare,2.00,,-5.5,5.25,-1.06,0.44,-6.35,0.24,0.39,0.02,"Okay, tell me EVERYTHING!","Okay, tell me everything."
-full_bright_1,m3b25,bright,T,1,spare,4.55,,10.2,8.14,-0.66,1.14,-5.91,0.19,0.17,0.02,"Okay, tell me EVERYTHING!","Okay, tell me everything."
-full_bright_1,m3b25,bright,T,2,keep,9.56,,-27.3,5.17,5.24,1.74,-0.04,0.22,0.35,0.03,"Okay, tell me EVERYTHING!","Okay, tell me everything."
-full_bright_1,m3b25,bright,T,3,keep,6.15,,5.3,7.94,1.42,0.76,-5.16,0.28,0.19,0.0,"Okay, tell me EVERYTHING!","Okay, tell me everything."
-full_bright_1,m3b26,bright,T,0,keep,1.97,,11.8,3.12,-0.05,0.46,-3.42,0.76,0.26,0.2,They said yes! I can take the whole of next month off for India!,They said yes. I can take the whole of next month off for India.
-full_bright_1,m3b26,bright,T,2,spare,0.01,,17.0,1.83,-0.88,-0.03,-4.42,0.33,0.27,0.28,They said yes! I can take the whole of next month off for India!,They said yes. I can take the whole of next month off for India.
-full_bright_1,m3b26,bright,T,3,keep,1.53,,9.3,2.68,0.01,0.18,-3.29,0.88,0.44,0.28,They said yes! I can take the whole of next month off for India!,They said yes. I can take the whole of next month off for India.
-full_bright_1,m3b27,bright,T,0,keep,4.78,,23.0,3.52,1.72,1.3,0.97,0.41,0.23,0.06,Paati walked to the gate by herself today! Arun sent me a video!,Body walked to the gate by herself today. A room sent me a video.
-full_bright_1,m3b27,bright,T,1,drop-quality,2.88,gap,39.4,3.1,1.13,0.2,-0.78,1.08,0.22,0.05,Paati walked to the gate by herself today! Arun sent me a video!,Patti walked to the gate by herself today. Arun sent me a video.
-full_bright_1,m3b27,bright,T,2,spare,4.02,,12.3,2.52,2.31,0.45,0.16,0.16,0.37,0.03,Paati walked to the gate by herself today! Arun sent me a video!,A body walked to the gate by herself today. Arun sent me a video.
-full_bright_1,m3b27,bright,T,3,keep,4.91,,17.9,1.35,3.06,1.17,6.05,0.66,0.27,0.08,Paati walked to the gate by herself today! Arun sent me a video!,I walked to the gate by herself today. Arun sent me a video.
-full_bright_1,m3b28,bright,T,2,keep,-0.66,,0.8,1.38,-0.77,-0.58,-1.08,0.32,0.27,0.05,"My first week as shift leader, and nothing went wrong!",My first week as shift leader and nothing went wrong.
-full_bright_1,m3b29,bright,T,0,spare,2.19,,15.9,0.43,2.23,-0.25,0.97,0.73,0.54,0.06,I booked the train to Madurai! It's really happening!,I booked the train to Monterey. It's really happening.
-full_bright_1,m3b29,bright,T,2,keep,2.64,,28.5,3.16,0.85,0.21,-3.21,0.22,0.21,0.0,I booked the train to Madurai! It's really happening!,I booked the train to Madurai. It's really happening.
-full_bright_1,m3b29,bright,T,3,keep,2.77,,6.0,2.67,0.31,1.12,0.91,0.8,0.28,0.04,I booked the train to Madurai! It's really happening!,I booked the train to Madurai. It's really happening.
-full_bright_1,m3b30,bright,T,0,keep,6.58,,22.6,1.24,4.82,1.14,1.46,0.38,0.2,0.08,Thenuka's getting so big! Sam showed me a photo!,The Nuka's getting so big. Sam showed me a photo.
-full_bright_1,m3b30,bright,T,1,spare,0.39,,18.4,2.6,-0.72,-0.19,-3.76,0.69,0.29,0.08,Thenuka's getting so big! Sam showed me a photo!,The nick is getting so big. Sam showed me a photo.
-full_bright_1,m3b30,bright,T,2,keep,5.69,,-7.2,1.82,3.53,1.25,-0.24,0.52,0.28,0.11,Thenuka's getting so big! Sam showed me a photo!,Bantuka's getting so big. Sam showed me a photo.
-full_bright_1,m3b30,bright,T,3,spare,-0.65,,20.7,1.41,-1.41,0.06,-3.34,0.08,0.29,0.07,Thenuka's getting so big! Sam showed me a photo!,That nuke is getting so big. Sam showed me a photo.
-full_bright_1,m3b31,bright,T,0,spare,2.63,,17.7,1.94,0.89,0.77,4.85,0.61,0.25,0.14,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test. He called me the moment he got out.
-full_bright_1,m3b31,bright,T,1,spare,3.65,,13.9,1.06,2.75,0.37,8.07,0.61,0.15,0.15,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test. He called me the moment he got out.
-full_bright_1,m3b31,bright,T,2,keep,5.70,,9.0,1.22,3.42,1.67,7.32,0.75,0.19,0.14,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test. He called me the moment he got out.
-full_bright_1,m3b31,bright,T,3,keep,5.30,,19.2,1.79,4.03,0.37,4.4,0.52,0.24,0.11,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test. He called me the moment he got out.
-full_bright_1,m3b32,bright,T,0,keep,5.58,,3.7,4.27,2.32,1.13,-1.37,0.09,0.22,0.19,We're going to Ella! The whole class said yes!,We're going to Ella. The whole class said yes.
-full_bright_1,m3b32,bright,T,2,keep,6.01,,-6.6,4.63,3.4,0.3,-1.6,0.04,0.21,0.27,We're going to Ella! The whole class said yes!,We're going to Ella. The whole class said yes.
-full_bright_1,m3b32,bright,T,3,spare,2.90,,10.3,2.28,1.63,0.13,0.63,0.47,0.28,0.22,We're going to Ella! The whole class said yes!,We're going to Allah. The whole class said yes.
-full_bright_1,m3b33,bright,T,0,spare,0.45,,-8.4,3.51,-1.34,0.04,-3.78,0.23,0.35,0.07,"Paati made crab curry for the whole street, and everyone loved it!","Body made crab curry for the whole street, and everyone loved it."
-full_bright_1,m3b33,bright,T,1,keep,3.60,,-18.9,3.45,0.41,1.46,-2.64,0.09,0.3,0.11,"Paati made crab curry for the whole street, and everyone loved it!",Bati made crab curry for the whole street and everyone loved it.
-full_bright_1,m3b33,bright,T,2,keep,4.17,,18.1,3.62,1.7,0.66,-3.89,0.39,0.31,0.12,"Paati made crab curry for the whole street, and everyone loved it!",Buddy made crab curry for the whole street and everyone loved it.
-full_bright_1,m3b33,bright,T,3,drop-flat,1.61,,3.3,0.34,-1.27,2.71,-2.21,0.1,0.4,0.08,"Paati made crab curry for the whole street, and everyone loved it!",Patsy made crab curry for the whole street and everyone loved it.
-full_bright_1,m3b34,bright,T,0,keep,1.16,,1.6,3.07,-0.72,0.34,-2.24,0.01,0.29,0.13,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had.
-full_bright_1,m3b34,bright,T,1,spare,1.09,,39.8,2.55,-0.25,0.07,-3.11,0.0,0.19,0.04,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had.
-full_bright_1,m3b34,bright,T,2,keep,1.14,,5.8,1.88,-0.73,0.93,0.56,0.07,0.43,0.03,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had.
-full_bright_1,m3b34,bright,T,3,drop-flat,0.09,,37.9,-0.11,-0.42,0.56,-2.46,0.05,0.36,0.05,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had.
-full_bright_1,m3b35,bright,T,0,drop-quality,2.98,hiss hold,-48.1,3.45,0.7,0.56,-1.8,0.28,1.53,0.38,Paati's coming to Colombo! She said yes!,Bonnie's coming to Columbo. She said yes.
-full_bright_1,m3b35,bright,T,1,keep,3.93,,17.2,2.83,2.37,0.14,0.02,0.44,0.19,0.19,Paati's coming to Colombo! She said yes!,Fanny's coming to Columbo? She said yes.
-full_bright_1,m3b35,bright,T,2,spare,3.63,,16.7,1.56,-0.13,2.98,-2.57,0.19,0.17,0.21,Paati's coming to Colombo! She said yes!,Hata's coming to Colello. She said yes!
-full_bright_1,m3b35,bright,T,3,keep,9.48,,0.9,3.27,5.99,1.86,0.01,0.5,0.18,0.27,Paati's coming to Colombo! She said yes!,Party's coming to Columbo. She said yes.
-full_bright_2,m3b36,bright,T,0,keep,5.04,,-12.9,1.03,3.5,1.03,5.75,0.45,0.24,0.02,"Oh, that's lovely! Tell me more!","Oh, that's lovely. Tell me more."
-full_bright_2,m3b36,bright,T,1,keep,4.51,,-14.7,3.94,1.62,0.92,-2.14,0.13,0.38,0.0,"Oh, that's lovely! Tell me more!","Oh, that's lovely. Tell me more."
-full_bright_2,m3b36,bright,T,2,drop-quality,6.97,gap,-29.2,5.44,3.04,1.21,-4.58,1.04,0.32,0.19,"Oh, that's lovely! Tell me more!","Oh, that's lovely. Tell me more."
-full_bright_2,m3b36,bright,T,3,spare,1.93,,-13.8,1.79,0.53,0.5,2.19,0.25,0.29,0.04,"Oh, that's lovely! Tell me more!","Oh, that's lovely. Tell me more."
-full_bright_2,m3b37,bright,T,0,keep,10.61,,-16.8,2.02,6.96,2.64,6.28,0.64,0.29,0.03,"No way, you met him? What was he like?!",No way! You met him? What was he like?
-full_bright_2,m3b37,bright,T,1,spare,6.51,,-35.0,4.09,1.86,2.6,6.23,0.69,0.19,0.0,"No way, you met him? What was he like?!",No way! You met him? What was he like?
-full_bright_2,m3b37,bright,T,2,keep,7.47,,-28.0,4.6,2.5,2.67,4.36,0.53,0.21,0.02,"No way, you met him? What was he like?!",No way? You met him? What was he like?
-full_bright_2,m3b37,bright,T,3,spare,5.42,,-27.5,3.44,2.02,1.68,9.06,0.86,0.23,0.06,"No way, you met him? What was he like?!",No way! You met him? What was he like?
-full_bright_2,m3b38,bright,T,0,keep,11.40,,-23.3,8.35,3.95,3.28,2.0,0.63,0.24,0.0,"Wow, you remembered! Thank you!","Wow, you remembered. Thank you."
-full_bright_2,m3b38,bright,T,1,spare,8.84,,-21.5,6.3,3.12,2.57,7.47,0.6,0.19,0.0,"Wow, you remembered! Thank you!",Wow! You remembered! Thank you!
-full_bright_2,m3b38,bright,T,2,spare,7.00,,-30.1,6.6,1.14,2.56,3.74,0.46,0.15,0.0,"Wow, you remembered! Thank you!",Wow! You remembered! Thank you!
-full_bright_2,m3b38,bright,T,3,keep,11.79,,-13.8,7.68,5.59,2.36,2.05,0.5,0.25,0.0,"Wow, you remembered! Thank you!",Wow! You remembered! Thank you!
-full_bright_2,m3b39,bright,T,0,keep,3.25,,26.8,1.76,1.94,0.43,1.07,0.58,0.28,0.11,That's so good to hear! I'm really happy for you!,That's so good to hear. I'm really happy for you.
-full_bright_2,m3b39,bright,T,1,keep,2.02,,-2.0,4.92,-2.11,1.67,-7.21,0.63,0.45,0.21,That's so good to hear! I'm really happy for you!,That's so good to hear. I'm really happy for you.
-full_bright_2,m3b39,bright,T,2,spare,-0.50,,7.2,1.98,-1.66,0.17,-5.39,0.59,0.3,0.14,That's so good to hear! I'm really happy for you!,That's so good to hear. I'm really happy for you.
-full_bright_2,m3b39,bright,T,3,drop-flat,-0.07,,-5.6,-0.1,-0.24,0.22,0.34,0.14,0.33,0.16,That's so good to hear! I'm really happy for you!,That's so good to hear. I'm really happy for you.
-full_bright_2,m3b40,bright,T,0,spare,-0.01,,-17.2,3.79,-1.87,-0.03,-6.57,0.0,0.48,0.0,"Oh, I love that idea!","Oh, I love that idea."
-full_bright_2,m3b40,bright,T,1,keep,4.04,,20.6,5.73,0.06,1.12,-6.5,0.0,0.34,0.0,"Oh, I love that idea!","Oh, I love that idea."
-full_bright_2,m3b40,bright,T,3,keep,2.77,,19.7,4.25,0.83,-0.18,0.75,0.0,0.32,0.0,"Oh, I love that idea!","Oh, I love that idea."
-full_bright_2,m3b41,bright,T,0,keep,11.38,,-1.8,5.09,6.03,2.8,8.47,0.28,0.25,0.14,Seriously? That's the best news this week!,Seriously? That's the best news this week.
-full_bright_2,m3b41,bright,T,1,keep,10.96,,-4.9,6.1,6.14,1.77,7.45,0.38,0.15,0.06,Seriously? That's the best news this week!,Seriously? That's the best news this week.
-full_bright_2,m3b41,bright,T,2,spare,9.86,,-4.2,2.31,6.49,2.21,3.41,0.78,0.39,0.17,Seriously? That's the best news this week!,Seriously? That's the best news this week.
-full_bright_2,m3b41,bright,T,3,spare,8.09,,0.3,2.3,4.34,2.6,4.03,0.92,0.17,0.2,Seriously? That's the best news this week!,Seriously? That's the best news this week.
-full_bright_2,m3b42,bright,T,0,keep,10.46,,-8.9,5.71,5.87,1.73,5.73,0.46,0.26,0.01,"Oh, how wonderful! When did you find out?!","Oh, how wonderful! When did you find out?"
-full_bright_2,m3b42,bright,T,2,spare,7.75,,-1.0,1.06,5.77,1.45,6.2,0.41,0.28,0.02,"Oh, how wonderful! When did you find out?!","Oh, how wonderful! When did you find out?"
-full_bright_2,m3b42,bright,T,3,keep,9.22,,0.7,4.09,5.71,1.47,3.41,0.42,0.16,0.0,"Oh, how wonderful! When did you find out?!","Oh, how wonderful! When did you find out?"
-full_bright_2,m3b44,bright,T,0,spare,11.38,,-5.6,7.83,4.91,2.56,2.8,0.54,0.24,0.0,You're joking! Both of you?!,You're joking. Both of you?
-full_bright_2,m3b44,bright,T,1,keep,16.62,,-6.2,8.92,9.13,3.03,5.11,0.74,0.3,0.0,You're joking! Both of you?!,You're joking. Both of you?
-full_bright_2,m3b44,bright,T,2,keep,12.67,,-9.7,9.16,4.76,3.33,0.64,0.41,0.2,0.0,You're joking! Both of you?!,You're joking. Both of you.
-full_bright_2,m3b44,bright,T,3,spare,10.54,,2.6,5.2,5.66,2.28,-0.76,0.63,0.18,0.0,You're joking! Both of you?!,You're joking. Both of you.
-full_bright_2,m3b45,bright,T,0,keep,10.66,,-12.3,4.71,5.6,2.71,9.0,0.26,0.15,0.23,That was brilliant! You didn't stop once!,That was brilliant! You didn't stop once!
-full_bright_2,m3b45,bright,T,1,spare,7.96,,-14.8,3.78,3.6,2.47,0.17,0.4,0.15,0.25,That was brilliant! You didn't stop once!,That was brilliant. You didn't stop once.
-full_bright_2,m3b45,bright,T,2,keep,13.29,,-4.9,7.84,7.03,2.34,4.63,0.32,0.14,0.19,That was brilliant! You didn't stop once!,That was brilliant! You didn't stop once!
-full_bright_2,m3b45,bright,T,3,spare,7.80,,-20.2,3.26,3.11,3.06,6.67,0.66,0.26,0.22,That was brilliant! You didn't stop once!,That was brilliant! You didn't stop once.
-full_bright_2,m3b46,bright,T,0,keep,12.81,,-11.6,9.55,5.53,2.51,5.68,0.61,0.21,0.24,"Yes! You used ""then"" and ""after that"" — perfect!",Yes! You used then and after that. Perfect!
-full_bright_2,m3b46,bright,T,1,spare,6.59,,-33.4,3.33,3.84,1.09,4.35,0.74,0.46,0.23,"Yes! You used ""then"" and ""after that"" — perfect!",Yes! You used then and after that. Perfect.
-full_bright_2,m3b46,bright,T,2,keep,7.03,,-16.3,3.73,4.59,0.57,2.75,0.81,0.32,0.21,"Yes! You used ""then"" and ""after that"" — perfect!","Yes, you used then and after that. Perfect."
-full_bright_2,m3b46,bright,T,3,spare,6.84,,-33.2,0.67,4.13,2.38,3.65,0.97,0.51,0.22,"Yes! You used ""then"" and ""after that"" — perfect!",Yes. You used then and after that. Perfect.
-full_bright_2,m3b47,bright,T,0,spare,4.04,,-5.9,0.73,2.77,0.9,0.05,0.6,0.16,0.01,"Great question! Okay, let me think!","Great question. Okay, let me think."
-full_bright_2,m3b47,bright,T,1,keep,5.48,,-10.3,-0.48,2.55,3.17,-3.69,0.63,0.15,0.04,"Great question! Okay, let me think!","Great question. Okay, let me think."
-full_bright_2,m3b47,bright,T,2,spare,2.36,,-17.0,1.12,0.67,1.13,-1.1,0.79,0.21,0.0,"Great question! Okay, let me think!",Great question. Okay. Let me think.
-full_bright_2,m3b47,bright,T,3,keep,9.49,,-16.2,2.98,5.19,2.81,4.41,0.84,0.17,0.04,"Great question! Okay, let me think!","Great question. Okay, let me think."
-full_bright_2,m3b48,bright,T,0,spare,4.79,,-24.2,4.61,0.19,2.29,4.97,0.28,0.25,0.18,"Oh, nice! That's a much better word!","Oh, nice. That's a much better word."
-full_bright_2,m3b48,bright,T,1,keep,6.90,,-15.5,5.86,1.39,2.58,-0.61,0.29,0.17,0.22,"Oh, nice! That's a much better word!",Oh nice! That's a much better word.
-full_bright_2,m3b48,bright,T,2,spare,5.70,,-23.3,2.56,1.67,2.75,2.33,0.22,0.13,0.27,"Oh, nice! That's a much better word!","Oh, nice. That's a much better word."
-full_bright_2,m3b48,bright,T,3,keep,9.38,,-19.8,4.87,3.1,3.84,1.32,0.56,0.27,0.13,"Oh, nice! That's a much better word!",Oh nice. That's a much better word.
-full_bright_2,m3b49,bright,T,0,spare,5.75,,14.2,3.46,2.55,1.47,0.78,0.62,0.18,0.03,Good job! You're getting faster every day!,Good job! You're getting faster every day.
-full_bright_2,m3b49,bright,T,1,keep,7.72,,8.5,2.25,4.66,1.94,3.07,0.56,0.16,0.05,Good job! You're getting faster every day!,Good job. You're getting faster every day.
-full_bright_2,m3b49,bright,T,2,spare,1.49,,11.7,5.03,-1.01,-0.02,-0.89,0.4,0.24,0.1,Good job! You're getting faster every day!,Good job. You're getting faster every day.
-full_bright_2,m3b49,bright,T,3,keep,9.36,,16.7,4.37,4.94,2.23,-0.38,0.28,0.41,0.01,Good job! You're getting faster every day!,Good job! You're getting faster every day.
-full_bright_2,m3b50,bright,T,0,spare,6.91,,25.1,4.54,2.6,2.04,-0.5,0.09,0.12,0.03,Perfect! I understood every single word!,Perfect! I understood every single word.
-full_bright_2,m3b50,bright,T,1,keep,10.66,,5.2,6.81,5.44,1.81,-5.21,0.46,0.36,0.04,Perfect! I understood every single word!,Perfect! I understood every single word.
-full_bright_2,m3b50,bright,T,2,keep,8.21,,21.9,2.63,5.55,1.34,1.47,0.36,0.17,0.02,Perfect! I understood every single word!,Perfect! I understood every single word.
-full_bright_2,m3b50,bright,T,3,spare,6.67,,0.8,4.04,3.48,1.17,-1.92,0.24,0.42,0.04,Perfect! I understood every single word!,Perfect! I understood every single word.
-full_bright_2,m3b51,bright,T,0,keep,14.03,,5.4,10.45,6.99,1.81,-3.82,0.35,0.14,0.19,"Yes, that's it! Say it like that every time!",Yes! That's it! Say it like that every time!
-full_bright_2,m3b51,bright,T,1,spare,4.55,,22.2,2.35,2.13,1.25,-5.94,0.75,0.17,0.19,"Yes, that's it! Say it like that every time!",Yes. That's it. Say it like that every time.
-full_bright_2,m3b51,bright,T,2,spare,8.45,,0.6,7.6,3.34,1.31,-0.17,0.4,0.13,0.17,"Yes, that's it! Say it like that every time!","Yes, that's it. Say it like that every time."
-full_bright_2,m3b51,bright,T,3,keep,8.55,,18.3,6.3,4.17,1.23,-8.55,0.49,0.21,0.23,"Yes, that's it! Say it like that every time!",Yes. That's it. Say it like that every time.
-full_bright_2,m3b52,bright,T,0,keep,7.56,,12.6,2.7,4.0,2.21,-4.02,0.44,0.45,0.03,"The café gave everyone free cake today, because it's the owner's birthday!",The cafe gave everyone free cake today. Because it's the owner's birthday!
-full_bright_2,m3b52,bright,T,2,keep,3.94,,24.0,1.46,2.74,0.47,-2.76,0.22,0.38,0.03,"The café gave everyone free cake today, because it's the owner's birthday!",The cafe gave everyone free cake today because it's the owner's birthday.
-full_bright_2,m3b52,bright,T,3,drop-flat,-0.01,,17.2,0.59,-0.28,-0.02,-3.55,0.63,0.51,0.07,"The café gave everyone free cake today, because it's the owner's birthday!",The cafe gave everyone free cake today. Because it's the owner's birthday.
-full_bright_2,m3b53,bright,T,0,drop-quality,4.44,gap,-3.7,0.92,3.41,0.57,10.26,1.14,0.36,0.03,Priya cleaned the whole flat! I don't even know what happened!,Priya cleaned the whole flat. I don't even know what happened.
-full_bright_2,m3b53,bright,T,1,keep,4.88,,36.7,3.64,2.54,0.52,-1.17,0.61,0.32,0.01,Priya cleaned the whole flat! I don't even know what happened!,Priya cleaned the whole flat. I don't even know what happened.
-full_bright_2,m3b53,bright,T,2,drop-quality,5.76,gap,-26.8,1.78,4.33,0.54,-1.36,1.07,0.7,0.0,Priya cleaned the whole flat! I don't even know what happened!,Clean the whole flat. I don't even know what happened.
-full_bright_2,m3b53,bright,T,3,keep,3.63,,17.5,2.8,1.95,0.28,3.73,0.62,0.35,0.0,Priya cleaned the whole flat! I don't even know what happened!,Priya cleans the whole flat. I don't even know what happened.
-full_bright_2,m3b54,bright,T,1,keep,8.59,,12.3,5.37,4.8,1.11,6.39,0.56,0.15,0.12,"The rain stopped, and there's a rainbow over the sea!",The rain stopped and there's a rainbow over the sea.
-full_bright_2,m3b54,bright,T,2,keep,7.33,,11.0,6.07,4.33,-0.03,2.14,0.27,0.19,0.13,"The rain stopped, and there's a rainbow over the sea!","The rain stopped, and there's a rainbow over the sea."
-full_bright_2,m3b54,bright,T,3,spare,5.73,,8.0,4.73,2.23,1.13,1.54,0.04,0.26,0.1,"The rain stopped, and there's a rainbow over the sea!",The rain stopped and there's a rainbow over the sea.
-full_bright_2,m3b55,bright,T,0,spare,2.44,,26.0,1.14,0.1,1.77,-1.79,0.83,0.37,0.0,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.
-full_bright_2,m3b55,bright,T,1,spare,4.74,,14.0,4.07,2.37,0.33,1.35,0.34,0.26,0.0,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.
-full_bright_2,m3b55,bright,T,2,keep,7.23,,10.5,1.28,5.22,1.37,3.32,0.91,0.71,0.0,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.
-full_bright_2,m3b55,bright,T,3,keep,6.81,,15.9,2.87,4.42,0.95,0.9,0.49,0.4,0.01,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.
-full_bright_2,m3b56,bright,T,0,keep,3.08,,15.2,1.26,2.38,0.07,1.13,0.0,0.26,0.13,Amma's sending a box of sweets from Jaffna!,I miss sending a box of sweets from Jaffna.
-full_bright_2,m3b56,bright,T,1,keep,1.42,,-2.4,0.15,0.86,0.48,5.34,0.06,0.25,0.12,Amma's sending a box of sweets from Jaffna!,I'ma sending a box of sweets from Jaffna.
-full_bright_2,m3b56,bright,T,3,drop-flat,1.83,,23.9,0.7,-0.16,1.64,-0.66,0.0,0.19,0.12,Amma's sending a box of sweets from Jaffna!,I'ma sending a box of sweets from Jaffa.
-full_bright_2,m3b57,bright,T,0,drop-flat,-0.81,,31.5,0.53,-0.66,-0.42,-1.61,0.0,0.41,0.13,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days."
-full_bright_2,m3b57,bright,T,1,drop-flat,-1.50,,9.5,-1.08,-1.07,0.11,-3.79,0.05,0.3,0.18,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days."
-full_bright_2,m3b57,bright,T,2,keep,0.66,,24.2,2.11,-0.72,0.32,-7.16,0.0,0.3,0.09,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days."
-full_bright_2,m3b57,bright,T,3,keep,3.97,,-9.1,5.26,1.5,-0.16,-4.29,0.02,0.32,0.13,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days."
-full_bright_2,m3b58,bright,T,0,spare,0.86,,33.1,1.05,0.09,0.25,0.79,0.53,0.29,0.2,Arun got the top mark in his class! My little brother!,A ring about the top mark in his class. My little brother.
-full_bright_2,m3b58,bright,T,1,keep,3.19,,24.6,2.56,1.29,0.62,-0.34,0.38,0.24,0.21,Arun got the top mark in his class! My little brother!,I ruined at the top mark in his class. My little brother.
-full_bright_2,m3b58,bright,T,2,keep,5.04,,26.0,3.98,2.49,0.56,-2.98,0.49,0.21,0.15,Arun got the top mark in his class! My little brother!,A room got the top mark in his class. My little brother.
-full_bright_2,m3b58,bright,T,3,spare,2.46,,17.2,4.42,0.18,0.07,-2.07,0.71,0.27,0.16,Arun got the top mark in his class! My little brother!,Aaron got the top mark in his class. My little brother.
-full_bright_2,m3b59,bright,T,0,keep,3.56,,-9.6,4.38,0.79,0.58,-0.51,0.52,0.23,0.02,Guess what? Priya's getting a dog!,Guess what? Priya's getting a dog.
-full_bright_2,m3b59,bright,T,1,spare,1.18,,-32.6,1.98,-0.39,0.58,-1.87,0.24,0.21,0.07,Guess what? Priya's getting a dog!,Guess what? Guess what? Priya's getting a dog.
-full_bright_2,m3b59,bright,T,2,spare,0.79,,2.1,2.61,0.19,-0.7,-3.86,0.29,0.38,0.04,Guess what? Priya's getting a dog!,Guess what? Priya's getting a dog.
-full_bright_2,m3b59,bright,T,3,keep,4.48,,-0.4,1.76,3.32,0.28,-1.95,0.36,0.2,0.02,Guess what? Priya's getting a dog!,Guess what? Priya's getting a dog.
-full_bright_2,m3b60,bright,T,0,keep,2.75,,40.7,2.97,1.38,-0.12,-1.49,0.0,0.25,0.03,"The new bakery opened near the station, and the bread is amazing!",The new bakery opened near the station and the bread is amazing.
-full_bright_2,m3b60,bright,T,1,spare,0.47,,27.7,4.66,-1.23,-0.63,-6.93,0.0,0.6,0.01,"The new bakery opened near the station, and the bread is amazing!",The new bakery opened near the station and the bread is amazing.
-full_bright_2,m3b60,bright,T,2,keep,1.85,,4.3,4.04,-0.26,0.09,-3.88,0.07,0.37,0.05,"The new bakery opened near the station, and the bread is amazing!",The new bakery opened near the station and the bread is amazing.
-full_bright_2,m3b60,bright,T,3,spare,1.00,,26.9,1.86,-0.65,0.72,-2.94,0.0,0.25,0.07,"The new bakery opened near the station, and the bread is amazing!","The new bakery opened near the station, and the bread is amazing."
-full_bright_2,m3b61,bright,T,0,keep,6.02,,-17.3,6.64,1.7,1.0,-0.03,0.4,0.43,0.17,"Finally, a day off! No work, no class, nothing!","Finally, a day off. No work, no class, nothing."
-full_bright_2,m3b61,bright,T,1,spare,4.40,,-7.4,2.3,2.46,0.79,-3.11,0.61,0.26,0.2,"Finally, a day off! No work, no class, nothing!","Finally, a day off. No work, no class, nothing."
-full_bright_2,m3b61,bright,T,2,spare,2.79,,-21.9,3.13,0.39,0.84,-2.5,0.53,0.23,0.22,"Finally, a day off! No work, no class, nothing!","Finally a day off. No work, no class, nothing."
-full_bright_2,m3b61,bright,T,3,keep,9.23,,-31.4,5.11,4.83,1.85,-4.35,0.44,0.26,0.15,"Finally, a day off! No work, no class, nothing!","Finally, a day off. No work, no class, nothing."
-full_bright_2,m3b62,bright,T,1,keep,5.02,,24.8,3.56,1.89,1.35,-1.68,0.34,0.43,0.08,I took the best photo of my life today! A fisherman and his boat at sunset!,I took the best photo of my life today. A fisherman and his boat at sunset.
-full_bright_2,m3b63,bright,T,0,spare,1.79,,29.3,3.47,-1.12,1.18,-2.7,0.69,0.2,0.06,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.
-full_bright_2,m3b63,bright,T,1,spare,1.55,,27.6,-0.48,1.03,0.76,-0.85,0.53,0.23,0.1,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.
-full_bright_2,m3b63,bright,T,2,keep,5.39,,33.9,3.98,1.95,1.45,1.4,0.64,0.25,0.01,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.
-full_bright_2,m3b63,bright,T,3,keep,3.58,,19.2,-0.29,2.77,0.96,7.13,0.73,0.41,0.03,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.
-full_bright_2,m3b64,bright,T,0,keep,2.62,,12.9,1.97,0.36,1.27,0.97,0.4,0.47,0.16,"I finally made Paati's crab curry, and it actually tasted like hers!",I finally made Potty's Crab Curry and... it actually tasted like hers.
-full_bright_2,m3b64,bright,T,1,keep,2.56,,37.4,3.79,0.07,0.59,-1.27,0.0,0.24,0.08,"I finally made Paati's crab curry, and it actually tasted like hers!",I finally made Potty's Crab Curry and it actually tasted like hers.
-full_bright_2,m3b64,bright,T,2,spare,0.79,,33.5,1.33,-0.28,0.4,-6.35,0.68,0.25,0.15,"I finally made Paati's crab curry, and it actually tasted like hers!",I finally made Pawnee's crab curry and it actually tasted like hers.
-full_bright_2,m3b64,bright,T,3,drop-flat,0.55,,21.6,0.76,0.1,0.07,-2.91,0.13,0.34,0.17,"I finally made Paati's crab curry, and it actually tasted like hers!","I finally made Potty's Crab Curry, and it actually tasted like hers."
-full_bright_2,m3b65,bright,T,0,keep,2.32,,15.9,2.73,0.37,0.59,-0.4,0.0,0.25,0.09,"Sam's team won the match, and he took the last wicket!",Sam's team won the match and he took the last wicket.
-full_bright_2,m3b65,bright,T,1,keep,1.54,,-3.6,0.41,0.53,0.81,-1.21,0.6,0.43,0.1,"Sam's team won the match, and he took the last wicket!",Sam's team won the match and he took the last wicket
-full_bright_2,m3b65,bright,T,2,spare,1.32,,-6.5,3.09,-0.4,0.18,-2.31,0.0,0.24,0.1,"Sam's team won the match, and he took the last wicket!",Sam's team won the match and he took the last wicket.
-full_bright_2,m3b65,bright,T,3,drop-flat,0.22,,-5.6,0.86,-0.47,0.26,0.17,0.0,0.19,0.12,"Sam's team won the match, and he took the last wicket!",Sands team won the match and he took the last wicket.
-full_bright_2,m3b66,bright,T,0,drop-quality,6.49,gap,9.5,4.8,3.78,0.31,4.34,1.1,0.16,0.0,"Look, the hotel in Chennai has a pool!",Look. The hotel in Janai has a pool.
-full_bright_2,m3b66,bright,T,1,keep,7.76,,2.4,1.7,5.39,1.52,2.67,0.57,0.15,0.05,"Look, the hotel in Chennai has a pool!",Look! The hotel in Chennai has a pool.
-full_bright_2,m3b66,bright,T,2,keep,3.97,,13.2,3.64,1.93,0.22,3.17,0.81,0.18,0.0,"Look, the hotel in Chennai has a pool!","Look, the hotel in Chennai has a pool."
-full_bright_2,m3b66,bright,T,3,spare,3.11,,26.4,0.73,2.81,-0.06,2.43,0.5,0.23,0.02,"Look, the hotel in Chennai has a pool!","Look, the hotel in Chennai has a pool."
-full_bright_2,m3b67,bright,T,0,spare,0.41,,-13.5,1.72,-1.56,1.11,-4.3,0.38,0.33,0.07,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it. That film was actually really good."
-full_bright_2,m3b67,bright,T,1,keep,1.04,,14.3,3.18,-0.67,0.12,-3.84,0.25,0.24,0.09,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it. That film was actually really good."
-full_bright_2,m3b67,bright,T,2,spare,0.88,,15.0,2.18,-0.9,0.69,-2.09,0.84,0.32,0.07,"Okay, I'll say it: that film was actually really good!",Okay. I'll say it. That film was actually really good.
-full_bright_2,m3b67,bright,T,3,keep,1.87,,13.9,4.44,-1.44,1.09,-7.77,0.62,0.18,0.07,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it. That film was actually really good."
-full_bright_2,m3b68,bright,T,0,keep,12.07,,19.2,4.64,7.1,2.65,6.54,0.35,0.16,0.04,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.
-full_bright_2,m3b68,bright,T,1,spare,4.00,,18.0,-0.18,3.21,0.88,7.79,0.9,0.18,0.1,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.
-full_bright_2,m3b68,bright,T,2,keep,9.07,,11.8,3.67,5.18,2.06,7.58,0.41,0.21,0.05,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.
-full_bright_2,m3b68,bright,T,3,spare,5.42,,17.7,0.3,3.72,1.55,11.99,0.68,0.24,0.1,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.
-full_bright_2,m3b69,bright,T,0,keep,4.51,,-34.2,2.75,2.83,0.31,0.84,0.05,0.21,0.18,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help."
-full_bright_2,m3b69,bright,T,1,keep,5.76,,-26.4,4.82,2.5,0.85,-4.65,0.4,0.33,0.25,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help."
-full_bright_2,m3b69,bright,T,2,drop-flat,1.89,,-18.0,0.84,0.11,1.36,1.99,0.21,0.25,0.17,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help."
-full_bright_2,m3b69,bright,T,3,spare,4.36,,-7.6,2.06,2.63,0.7,-2.41,0.36,0.18,0.19,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help."
-full_bright_3,m3b70,bright,T,0,keep,3.52,,26.3,0.19,3.19,0.23,2.68,0.27,0.24,0.0,Thank you! You really didn't have to do that!,Thank you. You really didn't have to do that.
-full_bright_3,m3b70,bright,T,1,drop-quality,2.58,gap,35.5,0.27,1.75,0.69,-2.67,1.04,0.25,0.0,Thank you! You really didn't have to do that!,Thank you. You really didn't have to do that.
-full_bright_3,m3b70,bright,T,2,keep,5.48,,32.0,4.04,2.08,1.38,2.06,0.91,0.29,0.02,Thank you! You really didn't have to do that!,Thank you. You really didn't have to do that.
-full_bright_3,m3b70,bright,T,3,spare,0.31,,12.2,1.23,-0.65,0.35,2.04,0.73,0.35,0.0,Thank you! You really didn't have to do that!,Thank you. You really didn't have to do that.
-full_bright_3,m3b71,bright,T,1,drop-flat,0.95,,-33.2,0.54,0.02,0.66,0.85,0.94,0.58,0.08,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened. And we saw everything."
-full_bright_3,m3b71,bright,T,2,keep,5.85,,-14.2,2.21,3.09,1.65,5.15,0.76,0.38,0.1,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened, and we saw everything."
-full_bright_3,m3b71,bright,T,3,keep,6.81,,-29.5,1.87,4.58,1.29,-0.43,0.88,0.39,0.08,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened. And we saw everything."
-full_bright_3,m3b72,bright,T,0,keep,0.68,,14.7,1.7,-0.3,0.13,-4.38,0.66,0.5,0.1,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, don't worry, you're the best."
-full_bright_3,m3b72,bright,T,1,drop-flat,-1.90,,18.8,-1.26,-1.42,0.15,-3.99,0.65,0.46,0.14,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, don't worry, you're the best."
-full_bright_3,m3b72,bright,T,2,drop-flat,0.66,,-8.0,0.31,0.18,0.32,-1.46,0.54,0.58,0.15,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, don't worry, you're the best."
-full_bright_3,m3b72,bright,T,3,drop-flat,0.72,,12.6,0.84,-0.33,0.63,-1.3,0.62,0.42,0.17,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, Don't worry, you're the best."
-full_bright_3,m3b73,bright,T,0,spare,-0.55,,25.1,3.31,-1.36,-0.84,-4.49,0.47,0.3,0.16,"And after all that, the bus came early for once!","And after all that, the bus came early for once."
-full_bright_3,m3b73,bright,T,1,keep,-0.03,,5.6,3.53,-1.22,-0.57,-5.47,0.0,0.43,0.23,"And after all that, the bus came early for once!","And after all that, the bus came early for once."
-full_bright_3,m3b73,bright,T,2,keep,1.32,,9.7,2.12,0.34,-0.08,-1.65,0.16,0.28,0.18,"And after all that, the bus came early for once!","And after all that, the bus came early for once."
-full_bright_3,m3b73,bright,T,3,drop-flat,0.17,,-8.0,-0.2,0.09,0.18,-0.95,0.28,0.33,0.22,"And after all that, the bus came early for once!","And after all that, the bus came early for once."
-full_bright_3,m3b74,bright,T,0,keep,7.86,,19.8,3.54,4.06,2.03,4.96,0.29,0.29,0.12,Twenty-two thousand rupees! That's exactly what I needed for the trip!,"22,000 rupees! That's exactly what I needed for the trip."
-full_bright_3,m3b74,bright,T,1,keep,7.37,,16.6,3.33,4.36,1.34,2.51,0.52,0.23,0.15,Twenty-two thousand rupees! That's exactly what I needed for the trip!,"22,000 rupees? That's exactly what I needed for the trip."
-full_bright_3,m3b74,bright,T,2,spare,4.70,,40.7,2.63,1.94,1.44,2.57,0.3,0.28,0.16,Twenty-two thousand rupees! That's exactly what I needed for the trip!,"22,000 rupees. That's exactly what I needed for the trip."
-full_bright_3,m3b74,bright,T,3,spare,1.42,,47.0,-1.68,1.51,0.75,1.54,0.21,0.25,0.13,Twenty-two thousand rupees! That's exactly what I needed for the trip!,"22,000 rupees. That's exactly what I needed for the trip."
-full_bright_3,m3b75,bright,T,0,spare,1.09,,-22.4,2.64,-0.68,0.45,-2.73,1.09,0.29,0.22,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally, there it was. The sea."
-full_bright_3,m3b75,bright,T,1,keep,3.48,,-26.2,2.56,1.44,0.76,3.17,1.41,0.29,0.19,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally... There it was. The sea."
-full_bright_3,m3b75,bright,T,2,drop-flat,-1.10,,-25.6,0.35,-1.24,-0.04,-3.71,0.78,0.28,0.21,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally... There it was. The sea."
-full_bright_3,m3b75,bright,T,3,keep,4.77,,-24.5,3.36,1.57,1.52,-2.06,1.02,0.38,0.23,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally... There it was! The sea!"
-full_bright_3,m3t09,bright,T,0,keep,5.96,,-11.5,2.55,2.54,2.14,0.94,0.43,0.23,0.17,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.
-full_bright_3,m3t09,bright,T,1,spare,3.87,,5.5,2.71,1.37,1.14,3.66,0.8,0.25,0.16,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.
-full_bright_3,m3t09,bright,T,2,spare,1.91,,-12.2,-1.6,1.39,1.32,2.27,0.64,0.32,0.16,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.
-full_bright_3,m3t09,bright,T,3,keep,4.27,,-12.6,2.82,1.85,1.01,1.84,0.79,0.24,0.18,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.
-full_bright_3,m3xb01,bright,T,0,spare,8.18,,-0.1,1.72,5.83,1.49,7.09,0.37,0.18,0.01,Wait… is that a cake?!,"Wait, is that a cake?"
-full_bright_3,m3xb01,bright,T,1,keep,8.96,,0.7,6.12,4.14,1.76,-1.59,0.54,0.13,0.0,Wait… is that a cake?!,"Wait, is that a cake?"
-full_bright_3,m3xb01,bright,T,3,keep,10.29,,-24.3,5.82,5.8,1.58,5.99,0.25,0.12,0.06,Wait… is that a cake?!,Wait! Is that a cake?
-full_bright_3,m3xb02,bright,T,0,spare,1.86,,-22.9,3.5,-0.16,0.27,-3.45,0.38,0.33,0.23,And the winner is… you!,And the winner is... you.
-full_bright_3,m3xb02,bright,T,1,spare,3.74,,-31.1,1.2,2.66,0.48,1.66,0.72,0.49,0.13,And the winner is… you!,And the winner is... You.
-full_bright_3,m3xb02,bright,T,2,keep,4.93,,-12.5,6.59,1.33,0.31,-0.38,0.73,0.19,0.14,And the winner is… you!,And the winner is... You.
-full_bright_3,m3xb02,bright,T,3,keep,6.11,,-26.9,7.62,1.08,1.22,-0.8,0.24,0.19,0.0,And the winner is… you!,And the winner is... you!
-full_bright_3,m3xb03,bright,T,0,keep,6.56,,2.1,6.11,1.72,1.78,-5.43,0.89,0.17,0.19,Guess what… I got the tickets!,Guess what? I got the tickets.
-full_bright_3,m3xb03,bright,T,2,spare,2.66,,0.8,2.95,1.01,0.17,0.39,0.7,0.13,0.19,Guess what… I got the tickets!,Guess what? I got the tickets.
-full_bright_3,m3xb03,bright,T,3,keep,7.00,,-0.4,3.81,4.15,0.94,-2.37,0.45,0.23,0.18,Guess what… I got the tickets!,Guess what? I got the tickets.
-full_bright_3,m3xb04,bright,T,0,keep,13.65,,-6.2,6.96,7.98,2.19,7.05,0.27,0.15,0.18,Oh… look at all the lights!,Oh! Look at all the lights!
-full_bright_3,m3xb04,bright,T,1,spare,13.06,,-3.6,8.31,7.35,1.56,0.39,0.0,0.17,0.21,Oh… look at all the lights!,"Oh, look at all the lights!"
-full_bright_3,m3xb04,bright,T,2,keep,13.78,,-11.4,1.1,11.28,1.95,3.02,0.4,0.25,0.25,Oh… look at all the lights!,Look at all the lights!
-full_bright_3,m3xb04,bright,T,3,spare,10.59,,-29.1,4.69,6.82,1.42,1.79,0.37,0.33,0.22,Oh… look at all the lights!,Oh! Look at all the lights!
-full_bright_3,m3xb05,bright,T,0,spare,1.29,,-23.3,2.61,-0.2,0.19,-1.37,0.68,0.52,0.16,So… I have some good news!,So... I have some good news.
-full_bright_3,m3xb05,bright,T,1,keep,4.03,,-13.6,1.53,2.43,0.83,1.25,0.0,0.16,0.15,So… I have some good news!,"So, I have some good news."
-full_bright_3,m3xb05,bright,T,2,keep,6.16,,-13.0,3.97,3.26,0.91,0.74,0.19,0.24,0.12,So… I have some good news!,"So, I have some good news."
-full_bright_3,m3xb05,bright,T,3,spare,0.56,,-19.9,3.71,-1.19,-0.11,-1.62,0.39,0.19,0.12,So… I have some good news!,"So, I have some good news."
-full_bright_3,m3xb06,bright,T,0,spare,10.94,,-6.8,4.46,5.63,3.08,4.24,0.35,0.28,0.11,Look… the sun's coming out!,Look! The sun's coming out!
-full_bright_3,m3xb06,bright,T,1,keep,13.75,,1.9,5.65,7.39,3.54,2.79,0.28,0.12,0.09,Look… the sun's coming out!,Look! The sun's coming out!
-full_bright_3,m3xb06,bright,T,3,keep,11.57,,-21.6,2.13,6.78,3.72,2.81,0.47,0.16,0.11,Look… the sun's coming out!,Look! The sun's coming out.
-full_bright_3,m3xb07,bright,T,0,drop-flat,0.42,,-27.5,0.54,-0.51,0.66,-1.48,0.33,0.38,0.19,"Close your eyes… okay, now open them!","Close your eyes. Okay, now open them."
-full_bright_3,m3xb07,bright,T,1,keep,4.26,,-28.7,2.42,1.66,1.39,-0.03,0.82,0.22,0.21,"Close your eyes… okay, now open them!","Close your eyes. Okay, now open them."
-full_bright_3,m3xb07,bright,T,2,drop-flat,-1.56,,-12.3,-1.19,-0.99,0.02,-2.72,0.56,0.26,0.16,"Close your eyes… okay, now open them!","Close your eyes. Okay, now open them."
-full_bright_3,m3xb07,bright,T,3,keep,3.50,,-35.6,2.85,1.74,0.33,-1.85,0.22,0.28,0.15,"Close your eyes… okay, now open them!","Close your eyes. Okay, now open them."
-full_bright_3,m3xb08,bright,T,0,spare,5.93,,1.7,4.88,3.47,0.02,-0.64,0.07,0.43,0.03,We won — we actually won!,We won. We actually won.
-full_bright_3,m3xb08,bright,T,1,keep,7.98,,-6.8,7.16,4.31,0.09,-0.41,0.0,0.54,0.04,We won — we actually won!,We won. We actually won.
-full_bright_3,m3xb08,bright,T,2,spare,3.19,,5.0,3.24,0.9,0.67,-3.53,0.13,0.23,0.05,We won — we actually won!,We won. We actually won.
-full_bright_3,m3xb08,bright,T,3,keep,6.55,,5.6,5.7,2.7,1.0,-1.05,0.41,0.22,0.0,We won — we actually won!,We won. We actually won.
-full_bright_3,m3xb09,bright,T,0,spare,8.53,,-22.1,-0.62,8.19,0.65,3.75,0.56,0.12,0.27,Look at this — it's perfect!,Look at this. It's perfect.
-full_bright_3,m3xb09,bright,T,1,spare,4.55,,-12.5,0.87,4.12,0.0,2.06,0.39,0.27,0.25,Look at this — it's perfect!,Look at this. It's perfect.
-full_bright_3,m3xb09,bright,T,2,keep,8.65,,-19.9,1.34,7.2,0.78,4.82,0.1,0.12,0.24,Look at this — it's perfect!,Look at this! It's perfect!
-full_bright_3,m3xb09,bright,T,3,keep,11.32,,-22.1,0.87,8.73,2.15,5.89,0.43,0.16,0.2,Look at this — it's perfect!,Look at this! It's perfect!
-full_bright_3,m3xb10,bright,T,0,drop-flat,-2.31,,3.8,-1.44,-1.34,-0.25,1.35,0.58,0.26,0.06,I know what we'll do — let's go to the beach!,I know what we'll do. Let's go to the beach.
-full_bright_3,m3xb10,bright,T,1,spare,4.71,,21.3,4.17,2.11,0.52,1.68,0.44,0.2,0.13,I know what we'll do — let's go to the beach!,I know what we'll do. Let's go to the beach.
-full_bright_3,m3xb10,bright,T,2,keep,8.51,,2.9,3.3,5.88,0.98,3.46,0.63,0.18,0.03,I know what we'll do — let's go to the beach!,I know what we'll do. Let's go to the beach.
-full_bright_3,m3xb10,bright,T,3,keep,4.96,,14.8,2.02,2.92,1.03,5.66,0.25,0.2,0.05,I know what we'll do — let's go to the beach!,I know what we'll do. Let's go to the beach.
-full_bright_3,m3xb11,bright,T,0,spare,9.46,,-1.5,1.46,6.85,1.88,8.4,0.37,0.2,0.26,She said yes — can you believe it?!,She said yes. Can you believe it?
-full_bright_3,m3xb11,bright,T,1,keep,9.82,,11.8,6.03,6.82,-0.02,8.34,0.27,0.25,0.16,She said yes — can you believe it?!,She said yes. Can you believe it?
-full_bright_3,m3xb11,bright,T,2,spare,6.33,,-10.3,2.19,3.64,1.59,7.86,0.19,0.18,0.21,She said yes — can you believe it?!,She said yes. Can you believe it?
-full_bright_3,m3xb11,bright,T,3,keep,10.46,,6.8,4.9,6.8,1.21,8.03,0.12,0.18,0.21,She said yes — can you believe it?!,She said yes. Can you believe it?
-full_bright_3,m3xb12,bright,T,0,spare,2.14,,3.3,5.52,-1.54,0.92,-6.7,0.19,0.31,0.03,The best part — no work tomorrow!,The best part. No work tomorrow.
-full_bright_3,m3xb12,bright,T,1,spare,1.80,,-4.0,3.44,-0.5,0.58,-4.58,0.42,0.26,0.03,The best part — no work tomorrow!,The best part. No work tomorrow.
-full_bright_3,m3xb12,bright,T,2,keep,3.21,,-4.0,1.47,2.2,0.28,-0.56,0.1,0.27,0.03,The best part — no work tomorrow!,"The best part, no work tomorrow."
-full_bright_3,m3xb12,bright,T,3,keep,3.70,,-11.2,3.88,0.43,1.33,-1.21,0.4,0.25,0.04,The best part — no work tomorrow!,"The best part, no work tomorrow."
-full_bright_3,m3xb13,bright,T,0,spare,10.12,,-23.7,5.64,3.74,3.56,-0.97,0.19,0.22,0.0,Oh — you're here already!,"Oh, you're here already."
-full_bright_3,m3xb13,bright,T,1,keep,11.51,,-0.3,9.29,4.26,2.61,-1.43,0.22,0.16,0.0,Oh — you're here already!,"Oh, you're here already."
-full_bright_3,m3xb13,bright,T,2,keep,10.95,,-37.5,5.73,5.39,2.7,-5.85,0.26,0.25,0.0,Oh — you're here already!,"Oh, you're here already."
-full_bright_3,m3xb13,bright,T,3,spare,6.73,,-16.6,3.13,3.15,2.02,5.8,0.52,0.32,0.0,Oh — you're here already!,"Oh, you're here already."
-full_bright_3,m3xb14,bright,T,0,keep,4.88,,1.1,-0.11,3.96,0.97,1.41,0.53,0.19,0.04,I've got it — the perfect gift for Paati!,I've got it. The perfect gift for potty.
-full_bright_3,m3xb14,bright,T,1,spare,2.34,,8.0,-0.75,2.21,0.51,5.92,1.23,0.2,0.04,I've got it — the perfect gift for Paati!,I've got it. The perfect gift for Patsy.
-full_bright_3,m3xb14,bright,T,2,keep,3.19,,-0.1,-0.98,3.35,0.33,1.73,0.92,0.29,0.02,I've got it — the perfect gift for Paati!,I've got it. The perfect gift for Patti.
-full_bright_3,m3xb15,bright,T,0,keep,7.37,,-2.8,1.86,5.33,1.11,-0.65,0.18,0.18,0.17,Two weeks — just two weeks until the trip!,Two weeks. Just two weeks until the trip.
-full_bright_3,m3xb15,bright,T,1,spare,3.22,,-17.1,4.54,1.11,-0.16,2.43,0.04,0.29,0.15,Two weeks — just two weeks until the trip!,Two weeks. Just two weeks until the trip.
-full_bright_3,m3xb15,bright,T,2,keep,4.89,,-31.7,1.44,3.95,0.22,4.16,0.65,0.44,0.19,Two weeks — just two weeks until the trip!,Two weeks. Just two weeks until the trip.
-full_bright_3,m3xb15,bright,T,3,spare,3.14,,-20.5,2.49,1.61,0.28,-0.43,0.04,0.23,0.24,Two weeks — just two weeks until the trip!,Two weeks? Just two weeks until the trip.
-full_bright_3,m3xb16,bright,T,0,keep,13.42,,-6.8,9.04,8.22,0.68,3.2,0.0,0.17,0.0,You got the job?!,You got the job?
-full_bright_3,m3xb16,bright,T,1,keep,15.30,,-23.3,8.35,8.48,2.64,0.95,0.0,0.24,0.0,You got the job?!,You got the job!
-full_bright_3,m3xb16,bright,T,2,spare,7.17,,-16.6,1.57,6.56,-0.17,13.67,0.0,0.16,0.0,You got the job?!,You got the job?
-full_bright_3,m3xb16,bright,T,3,spare,7.96,,-11.2,5.17,4.0,1.37,4.71,0.0,0.14,0.0,You got the job?!,You got the job!
-full_bright_3,m3xb17,bright,T,0,spare,9.37,,-3.6,5.37,5.86,0.82,15.88,0.0,0.3,0.05,Paati's really coming?!,Party's really coming?
-full_bright_3,m3xb17,bright,T,1,keep,10.25,,1.9,4.64,5.97,1.96,6.84,0.0,0.16,0.05,Paati's really coming?!,Hatties really coming?
-full_bright_3,m3xb17,bright,T,2,keep,10.42,,-3.6,6.62,5.53,1.58,13.38,0.0,0.15,0.06,Paati's really coming?!,Party's really coming?
-full_bright_3,m3xb17,bright,T,3,spare,7.14,,14.1,2.14,4.5,1.57,10.37,0.0,0.19,0.0,Paati's really coming?!,Potties really coming?
-full_bright_3,m3xb18,bright,T,0,spare,8.39,,-16.9,2.78,5.3,1.7,11.31,0.0,0.16,0.17,You bought me flowers?!,You bought me flowers.
-full_bright_3,m3xb18,bright,T,1,spare,9.10,,-19.2,1.95,5.85,2.28,13.46,0.0,0.16,0.2,You bought me flowers?!,You bought me flowers?
-full_bright_3,m3xb18,bright,T,2,keep,9.75,,-4.9,4.34,6.59,0.99,9.13,0.0,0.2,0.15,You bought me flowers?!,You bought me flowers!
-full_bright_3,m3xb18,bright,T,3,keep,9.18,,5.2,2.15,7.38,0.72,8.81,0.0,0.17,0.16,You bought me flowers?!,You bought me flowers?
-full_bright_3,m3xb19,bright,T,0,spare,4.29,,46.5,2.09,3.01,0.23,4.08,0.0,0.2,0.06,We're going to Ella this weekend?!,We're going to Ella this weekend.
-full_bright_3,m3xb19,bright,T,1,keep,8.18,,20.2,1.73,6.79,0.52,4.81,0.0,0.26,0.04,We're going to Ella this weekend?!,We're going to Ella this weekend.
-full_bright_3,m3xb19,bright,T,2,spare,8.01,,43.6,4.55,5.77,-0.04,4.54,0.0,0.22,0.0,We're going to Ella this weekend?!,We're going to Ella this weekend.
-full_bright_3,m3xb19,bright,T,3,keep,13.99,,27.3,4.96,10.63,0.88,6.79,0.04,0.25,0.09,We're going to Ella this weekend?!,We're going to LF this weekend.
-full_bright_3,m3xb20,bright,T,0,spare,5.62,,-21.3,1.92,4.64,0.02,14.11,0.0,0.25,0.14,You finally passed?!,You finally passed.
-full_bright_3,m3xb20,bright,T,1,keep,8.33,,-21.8,2.68,6.7,0.29,15.28,0.0,0.15,0.15,You finally passed?!,You finally passed!
-full_bright_3,m3xb20,bright,T,2,spare,6.57,,-12.0,4.56,4.04,0.25,11.65,0.0,0.13,0.1,You finally passed?!,You finally passed!
-full_bright_3,m3xb20,bright,T,3,keep,13.00,,-18.6,6.59,8.42,1.29,11.64,0.0,0.18,0.14,You finally passed?!,You finally passed!
-full_bright_3,m3xb21,bright,T,0,spare,6.22,,-17.1,2.79,2.39,2.44,9.76,0.0,0.1,0.07,That's for me?!,That's for me?
-full_bright_3,m3xb21,bright,T,1,keep,11.04,,-37.5,6.54,5.64,2.13,13.61,0.04,0.16,0.08,That's for me?!,That's for me?
-full_bright_3,m3xb21,bright,T,2,spare,10.86,,-15.1,9.38,5.88,0.29,12.93,0.03,0.12,0.08,That's for me?!,That's for me?
-full_bright_3,m3xb21,bright,T,3,keep,13.94,,-15.1,7.57,8.22,1.93,17.3,0.0,0.15,0.03,That's for me?!,That's for me?
-full_bright_3,m3xb22,bright,T,0,keep,10.48,,8.0,6.58,5.71,1.48,2.0,0.0,0.1,0.07,You made this yourself?!,You made this yourself?
-full_bright_3,m3xb22,bright,T,1,spare,9.23,,-2.6,5.86,6.06,0.24,5.21,0.0,0.19,0.1,You made this yourself?!,You made this yourself?
-full_bright_3,m3xb22,bright,T,2,spare,7.69,,-13.9,9.44,2.22,0.75,3.55,0.0,0.14,0.11,You made this yourself?!,You made this yourself?
-full_bright_3,m3xb22,bright,T,3,keep,9.40,,5.2,4.27,6.27,1.0,6.93,0.0,0.34,0.07,You made this yourself?!,You made this yourself?
-full_bright_3,m3xb23,bright,T,0,keep,8.60,,-11.4,7.45,4.7,0.17,1.6,0.0,0.17,0.21,They gave us free tickets?!,They gave us free tickets.
-full_bright_3,m3xb23,bright,T,1,spare,5.92,,-35.8,0.37,4.86,0.87,8.99,0.6,0.49,0.28,They gave us free tickets?!,They gave us free tickets?
-full_bright_3,m3xb23,bright,T,2,keep,11.95,,-3.6,3.05,8.88,1.54,1.19,0.0,0.23,0.22,They gave us free tickets?!,They gave us free tickets?
-full_bright_3,m3xb23,bright,T,3,spare,6.88,,-33.1,3.44,4.3,0.86,5.23,0.13,0.28,0.25,They gave us free tickets?!,They gave us free tickets?
-full_bright_3,m3xb24,bright,T,0,spare,4.70,,16.9,2.98,2.97,0.24,-0.35,0.01,0.18,0.1,Sam actually cooked?!,Sam actually cooked
-full_bright_3,m3xb24,bright,T,1,keep,5.20,,22.9,3.02,3.23,0.46,0.02,0.0,0.16,0.11,Sam actually cooked?!,Sam actually cooked?
-full_bright_3,m3xb24,bright,T,2,keep,6.33,,39.8,2.03,4.41,0.9,-2.02,0.0,0.19,0.09,Sam actually cooked?!,Sam actually cooked
-full_bright_3,m3xb25,bright,T,0,spare,0.28,,-11.3,3.2,-1.01,-0.31,-4.06,0.03,0.4,0.12,That was the BEST day!,That was the best day.
-full_bright_3,m3xb25,bright,T,1,spare,1.05,,-57.4,2.92,0.3,-0.71,-2.51,0.2,0.28,0.11,That was the BEST day!,That was the best day.
-full_bright_3,m3xb25,bright,T,2,keep,7.61,,-37.8,8.58,3.65,-0.33,-10.4,0.05,0.2,0.07,That was the BEST day!,That was the best day.
-full_bright_3,m3xb25,bright,T,3,keep,3.20,,-22.3,5.14,0.15,0.48,-6.29,0.0,0.37,0.07,That was the BEST day!,That was the best day.
-full_bright_3,m3xb26,bright,T,0,keep,8.21,,-23.3,9.9,2.57,0.69,-7.83,0.0,0.11,0.12,I LOVE this place!,I love this place.
-full_bright_3,m3xb26,bright,T,1,keep,2.64,,-41.0,1.1,1.97,0.12,-1.51,0.0,0.32,0.23,I LOVE this place!,I love this place.
-full_bright_3,m3xb26,bright,T,2,drop-quality,8.06,hold,-45.7,6.85,3.57,1.07,-2.47,0.0,0.82,0.24,I LOVE this place!,I love this place.
-full_bright_3,m3xb26,bright,T,3,drop-quality,7.78,hold,-48.1,9.04,3.53,-0.27,-4.88,0.01,0.83,0.16,I LOVE this place!,I love this place.
-full_bright_3,m3xb27,bright,T,0,spare,4.62,,11.7,4.74,-0.25,2.5,-3.81,0.0,0.33,0.0,You were AMAZING today!,You were amazing today.
-full_bright_3,m3xb27,bright,T,1,spare,6.39,,-8.6,5.34,1.99,1.73,1.25,0.0,0.18,0.0,You were AMAZING today!,You were amazing today.
-full_bright_3,m3xb27,bright,T,2,keep,7.22,,-14.7,7.69,2.66,0.71,2.13,0.0,0.22,0.0,You were AMAZING today!,You were amazing today.
-full_bright_3,m3xb27,bright,T,3,keep,7.17,,-24.7,8.81,1.56,1.21,4.26,0.02,0.44,0.0,You were AMAZING today!,You were amazing today.
-full_bright_4,m3xb28,bright,T,0,keep,6.13,,8.0,4.06,4.95,-0.85,-2.9,0.03,0.21,0.04,It's FINALLY Friday!,It's finally Friday.
-full_bright_4,m3xb28,bright,T,1,keep,12.73,,-20.3,10.68,6.1,1.29,-8.45,0.07,0.25,0.08,It's FINALLY Friday!,It's finally Friday!
-full_bright_4,m3xb28,bright,T,2,spare,5.04,,-0.3,6.7,0.53,1.16,-2.33,0.01,0.2,0.02,It's FINALLY Friday!,It's finally Friday.
-full_bright_4,m3xb28,bright,T,3,spare,5.03,,-14.1,4.84,1.27,1.34,-2.17,0.18,0.35,0.15,It's FINALLY Friday!,It's finally Friday.
-full_bright_4,m3xb29,bright,T,2,keep,2.11,,-20.8,5.78,-0.97,0.19,-0.91,0.0,0.22,0.01,This is SO good!,This is so good.
-full_bright_4,m3xb30,bright,T,0,keep,6.02,,21.9,4.56,3.63,0.11,-2.74,0.03,0.25,0.04,We did it TOGETHER!,We did it together.
-full_bright_4,m3xb30,bright,T,1,spare,3.47,,-15.1,5.84,0.29,0.26,-4.54,0.1,0.17,0.06,We did it TOGETHER!,We did it together.
-full_bright_4,m3xb30,bright,T,2,keep,7.14,,-12.0,5.82,3.16,1.07,-3.49,0.05,0.17,0.08,We did it TOGETHER!,We did it together.
-full_bright_4,m3xb30,bright,T,3,drop-flat,-1.20,,20.8,0.02,-1.8,0.59,0.46,0.02,0.13,0.02,We did it TOGETHER!,We did it together.
-full_bright_4,m3xb31,bright,T,0,spare,2.83,,-18.6,3.95,0.49,0.37,-3.17,0.0,0.28,0.0,Look how BIG he's grown!,Look how big he's grown.
-full_bright_4,m3xb31,bright,T,1,keep,6.75,,-18.0,2.42,3.91,1.63,-2.4,0.0,0.16,0.0,Look how BIG he's grown!,Look how big he's grown!
-full_bright_4,m3xb31,bright,T,2,keep,6.63,,-7.2,4.59,2.42,1.92,-1.58,0.0,0.13,0.0,Look how BIG he's grown!,Look how big he's grown!
-full_bright_4,m3xb31,bright,T,3,spare,6.17,,-19.7,7.03,0.77,1.89,-0.97,0.02,0.42,0.0,Look how BIG he's grown!,Look how big he's grown!
-full_bright_4,m3xb32,bright,T,0,spare,0.04,,-24.1,2.19,-1.32,0.27,-1.08,0.0,0.16,0.09,I can't WAIT!,I can't wait.
-full_bright_4,m3xb32,bright,T,1,spare,2.45,,-27.2,2.95,1.14,-0.17,-6.02,0.01,0.13,0.06,I can't WAIT!,I can't wait.
-full_bright_4,m3xb32,bright,T,2,keep,4.99,,-28.0,-1.55,4.44,1.32,-0.74,0.0,0.09,0.05,I can't WAIT!,I can't wait.
-full_bright_4,m3xb32,bright,T,3,keep,9.01,,-55.4,5.71,5.16,0.99,8.1,0.71,0.16,0.04,I can't WAIT!,I can't... Wait...
-full_bright_4,m3xb33,bright,T,0,spare,4.60,,13.9,3.97,1.23,1.39,-0.18,0.01,0.22,0.11,That's EXACTLY what I wanted!,That's exactly what I wanted.
-full_bright_4,m3xb33,bright,T,1,keep,6.49,,8.6,6.28,2.25,1.1,-2.43,0.02,0.35,0.08,That's EXACTLY what I wanted!,That's exactly what I wanted.
-full_bright_4,m3xb33,bright,T,2,spare,4.54,,17.4,7.72,-0.27,0.95,-5.65,0.04,0.23,0.07,That's EXACTLY what I wanted!,That's exactly what I wanted.
-full_bright_4,m3xb33,bright,T,3,keep,15.29,,-10.7,7.21,7.33,4.35,-5.37,0.06,0.18,0.07,That's EXACTLY what I wanted!,That's exactly what I wanted.
-full_bright_4,m3xb34,bright,T,0,keep,6.01,,-19.0,3.48,3.57,0.7,2.74,0.0,0.3,0.0,We're moving!,We're moving.
-full_bright_4,m3xb34,bright,T,1,spare,5.71,,-24.9,4.33,3.16,0.39,7.11,0.0,0.28,0.0,We're moving!,We're moving.
-full_bright_4,m3xb34,bright,T,2,spare,5.25,,-6.2,5.87,1.53,0.78,1.23,0.0,0.24,0.0,We're moving!,We're moving.
-full_bright_4,m3xb34,bright,T,3,keep,7.45,,-19.0,2.63,3.38,2.75,3.24,0.0,0.24,0.0,We're moving!,We're moving.
-full_bright_4,m3xb35,bright,T,0,keep,6.77,,-44.1,6.33,3.48,0.13,0.33,0.02,0.27,0.0,It's done!,It's done.
-full_bright_4,m3xb35,bright,T,3,keep,11.55,,-39.1,5.87,8.72,-0.11,-0.85,0.01,0.26,0.12,It's done!,It's done!
-full_bright_4,m3xb36,bright,T,0,spare,11.96,,-41.3,6.89,7.41,1.1,6.9,0.03,0.12,0.0,You're back!,You're back!
-full_bright_4,m3xb36,bright,T,1,keep,15.05,,-45.4,8.23,9.48,1.46,2.39,0.0,0.1,0.0,You're back!,You're back!
-full_bright_4,m3xb36,bright,T,2,spare,4.73,,-48.9,3.25,3.31,-0.21,4.39,0.02,0.21,0.0,You're back!,You're back.
-full_bright_4,m3xb36,bright,T,3,keep,18.14,,-59.4,6.2,14.66,0.38,-11.97,0.0,0.72,0.0,You're back!,You're back!
-full_bright_4,m3xb37,bright,T,0,keep,2.93,,6.4,3.38,0.64,0.6,1.95,0.0,0.24,0.08,"See you tomorrow, then!","See you tomorrow, then."
-full_bright_4,m3xb37,bright,T,1,keep,2.21,,-9.2,3.4,0.36,0.15,1.46,0.13,0.22,0.09,"See you tomorrow, then!","See you tomorrow, then."
-full_bright_4,m3xb37,bright,T,2,drop-quality,4.15,hold,-24.9,3.46,2.79,-0.37,3.89,0.0,0.83,0.14,"See you tomorrow, then!","See you tomorrow, then."
-full_bright_4,m3xb37,bright,T,3,spare,1.81,,-14.6,3.18,-0.74,0.96,6.33,0.29,0.19,0.1,"See you tomorrow, then!",See you tomorrow. Then.
-full_bright_4,m3xb38,bright,T,0,spare,4.28,,-29.1,3.78,1.85,0.54,-2.02,0.0,0.18,0.1,No more classes!,No more classes.
-full_bright_4,m3xb38,bright,T,1,spare,2.65,,-31.6,2.66,1.82,-0.5,-0.96,0.0,0.3,0.18,No more classes!,No more classes.
-full_bright_4,m3xb38,bright,T,2,keep,6.81,,-17.3,4.31,3.53,1.13,-1.85,0.0,0.44,0.14,No more classes!,No more classes.
-full_bright_4,m3xb38,bright,T,3,keep,7.21,,-11.2,4.84,3.01,1.78,0.11,0.0,0.13,0.12,No more classes!,No more classes.
-full_bright_4,m3xb39,bright,T,0,spare,7.87,,-24.9,8.77,3.03,0.46,-0.97,0.48,0.26,0.0,Wait… you're here!,"Wait, you're here."
-full_bright_4,m3xb39,bright,T,1,keep,13.67,,-45.6,9.08,6.7,2.43,11.86,0.51,0.1,0.04,Wait… you're here!,Wait! You're here!
-full_bright_4,m3xb39,bright,T,2,spare,7.04,,-28.7,4.56,3.18,1.58,9.54,0.34,0.13,0.0,Wait… you're here!,Wait! You're here!
-full_bright_4,m3xb39,bright,T,3,keep,9.76,,-41.1,6.04,5.52,1.22,7.45,0.35,0.1,0.01,Wait… you're here!,Wait! You're here!
-full_bright_4,m3xb40,bright,T,0,spare,8.62,,12.1,3.07,4.8,2.29,7.33,0.7,0.18,0.0,Is that… a puppy?!,Is that... a puppy?
-full_bright_4,m3xb40,bright,T,1,keep,14.08,,13.2,5.44,8.62,2.74,8.75,0.68,0.37,0.02,Is that… a puppy?!,Is that... a puppy?
-full_bright_4,m3xb40,bright,T,2,keep,10.97,,20.0,3.62,7.69,1.47,7.63,0.2,0.14,0.0,Is that… a puppy?!,Is that... a puppy?
-full_bright_4,m3xb40,bright,T,3,spare,10.16,,-3.4,2.89,7.58,1.13,7.09,0.38,0.18,0.0,Is that… a puppy?!,Is that... a puppy?
-full_bright_4,m3xb41,bright,T,0,keep,16.30,,-20.2,9.53,8.57,2.96,4.85,0.35,0.17,0.0,Oh… you remembered!,"Oh, you remembered."
-full_bright_4,m3xb41,bright,T,1,keep,14.70,,-1.0,8.54,7.99,2.44,2.76,0.65,0.13,0.0,Oh… you remembered!,Oh! You remembered!
-full_bright_4,m3xb41,bright,T,2,spare,12.14,,-30.1,3.76,8.13,2.13,7.07,0.01,0.23,0.0,Oh… you remembered!,"Oh, you remembered."
-full_bright_4,m3xb41,bright,T,3,spare,13.32,,-25.3,5.29,6.92,3.76,7.57,0.4,0.18,0.0,Oh… you remembered!,"Oh, you remembered."
-full_bright_4,m3xb42,bright,T,0,keep,5.95,,-22.8,4.88,1.71,1.8,-1.67,0.47,0.22,0.06,And now… the best part!,"And now, the best part."
-full_bright_4,m3xb42,bright,T,1,keep,3.77,,-57.1,3.01,2.65,-0.38,3.43,0.62,0.65,0.03,And now… the best part!,"And now, the best part."
-full_bright_4,m3xb42,bright,T,2,spare,1.03,,-26.2,0.99,0.97,-0.43,3.56,0.54,0.23,0.0,And now… the best part!,"And now, the best part."
-full_bright_4,m3xb42,bright,T,3,spare,3.40,,-18.6,4.23,1.4,-0.12,9.42,0.33,0.4,0.01,And now… the best part!,"And now, the best part."
-full_bright_4,m3xb43,bright,T,0,keep,8.91,,-26.3,8.7,2.38,2.18,-5.43,0.56,0.15,0.16,Ready… set… go!,"Ready, set, go."
-full_bright_4,m3xb43,bright,T,1,spare,4.08,,-32.1,3.24,1.7,0.76,3.12,0.36,0.32,0.12,Ready… set… go!,"Ready, set, go."
-full_bright_4,m3xb43,bright,T,2,spare,6.42,,-45.0,6.06,1.1,2.29,-5.95,0.33,0.12,0.09,Ready… set… go!,"Ready, set, go."
-full_bright_4,m3xb43,bright,T,3,keep,8.99,,-38.3,8.09,3.04,1.91,-5.02,0.94,0.33,0.16,Ready… set… go!,"Ready, set, go!"
-full_bright_4,m3xb44,bright,T,0,keep,14.49,,-21.3,7.16,8.4,2.51,4.98,0.35,0.15,0.0,Look who's back… Arun!,Look who's back! Arun!
-full_bright_4,m3xb44,bright,T,1,spare,11.71,,-31.3,5.67,6.31,2.57,2.5,0.36,0.28,0.0,Look who's back… Arun!,Look who's back! A room!
-full_bright_4,m3xb44,bright,T,2,spare,8.25,,-25.3,5.86,3.5,1.82,5.21,0.43,0.22,0.0,Look who's back… Arun!,Look who's back! A room!
-full_bright_4,m3xb44,bright,T,3,keep,12.30,,-21.8,7.92,6.2,2.14,10.43,0.53,0.18,0.0,Look who's back… Arun!,Look who's back! Arun!
-full_bright_4,m3xb45,bright,T,0,keep,9.98,,-38.4,1.52,6.64,2.58,-1.39,0.67,0.51,0.09,Guess where we're going… Ella!,Guess where we're going.
-full_bright_4,m3xb45,bright,T,1,spare,2.25,,14.0,4.57,-0.7,0.66,-5.91,0.67,0.18,0.09,Guess where we're going… Ella!,Guess where we're going. Ella.
-full_bright_4,m3xb45,bright,T,2,keep,4.26,,18.8,6.32,0.91,0.19,-3.18,0.69,0.18,0.0,Guess where we're going… Ella!,Guess where we're going? Ella?
-full_bright_4,m3xb45,bright,T,3,spare,1.29,,-0.4,3.35,-0.76,0.37,-0.7,0.69,0.21,0.13,Guess where we're going… Ella!,Guess where we're going. Ella.
-full_bright_4,m3xb46,bright,T,0,keep,2.67,,-47.7,1.27,1.0,1.03,-2.47,0.69,0.49,0.05,Three… two… one… happy new year!,"Three, two, one. Happy New Year."
-full_bright_4,m3xb46,bright,T,1,drop-quality,3.61,hold,-67.8,1.17,3.81,-0.78,6.62,0.9,0.9,0.04,Three… two… one… happy new year!,"Three, two, one. Happy New Year."
-full_bright_4,m3xb46,bright,T,2,keep,4.04,,-39.3,0.61,3.3,0.43,-0.8,0.01,0.26,0.07,Three… two… one… happy new year!,"Three, two, one. Happy New Year."
-full_bright_4,m3xb46,bright,T,3,drop-quality,0.52,hold,-61.9,-0.7,1.14,-0.27,4.81,0.45,0.92,0.04,Three… two… one… happy new year!,"Three, two, one. Happy New Year."
-full_bright_4,m3xb47,bright,T,0,keep,15.63,,-55.7,7.81,9.65,2.08,-6.71,0.43,0.3,0.2,It's… perfect!,It's perfect!
-full_bright_4,m3xb47,bright,T,1,spare,4.47,,-36.9,-0.72,2.83,2.0,7.43,0.28,0.15,0.21,It's… perfect!,It's perfect.
-full_bright_4,m3xb47,bright,T,2,spare,13.57,,-34.0,4.27,9.39,2.04,-1.88,0.78,0.18,0.19,It's… perfect!,It's perfect.
-full_bright_4,m3xb47,bright,T,3,keep,14.64,,-30.8,4.51,9.8,2.59,4.32,0.29,0.15,0.16,It's… perfect!,It's perfect!
-full_bright_4,m3xb48,bright,T,0,spare,6.30,,-20.2,3.83,2.7,1.69,1.93,0.43,0.17,0.21,You did… all of this?!,You did all of this?
-full_bright_4,m3xb48,bright,T,1,keep,11.95,,-20.2,5.29,7.46,1.84,7.21,0.23,0.13,0.25,You did… all of this?!,You did all of this?
-full_bright_4,m3xb48,bright,T,2,spare,8.17,,-34.3,4.07,3.4,2.73,1.86,0.04,0.12,0.24,You did… all of this?!,You did all of this?
-full_bright_4,m3xb48,bright,T,3,keep,15.04,,-10.7,6.76,8.86,2.8,3.09,0.47,0.11,0.22,You did… all of this?!,You did? All of this?
-full_bright_4,m3xb49,bright,T,0,keep,12.78,,-26.9,5.34,6.31,3.8,-1.55,0.34,0.31,0.0,Look — a rainbow!,Look! A rainbow!
-full_bright_4,m3xb49,bright,T,1,keep,13.93,,-33.5,7.02,6.82,3.6,1.77,0.38,0.27,0.0,Look — a rainbow!,Look! A rainbow!
-full_bright_4,m3xb49,bright,T,2,spare,6.25,,-28.5,3.05,2.96,1.77,4.72,0.44,0.18,0.0,Look — a rainbow!,Look! A rainbow!
-full_bright_4,m3xb49,bright,T,3,spare,12.16,,-34.0,7.78,5.61,2.66,0.81,0.56,0.2,0.0,Look — a rainbow!,Look! A rainbow!
-full_bright_4,m4g11b,bright,T,0,keep,3.63,,17.7,6.12,0.15,0.42,-4.92,0.0,0.23,0.03,He called me last night!,He called me last night.
-full_bright_4,m4g11b,bright,T,1,keep,3.77,,25.1,6.7,-1.06,1.48,-2.82,0.0,0.23,0.02,He called me last night!,He called me last night.
-full_bright_4,m4g11b,bright,T,2,spare,1.02,,7.1,1.14,-0.52,0.97,-0.49,0.0,0.25,0.04,He called me last night!,He called me last night.
-full_bright_4,m4g11b,bright,T,3,spare,1.71,,9.0,2.13,-0.41,1.05,-2.3,0.0,0.18,0.05,He called me last night!,He called me last night.
-full_bright_4,m4g12b,bright,T,1,keep,1.97,,-28.5,0.99,1.56,-0.09,1.1,0.0,0.22,0.0,They changed the plan!,They changed the plan.
-full_bright_4,m4g12b,bright,T,2,keep,8.75,,-10.3,2.59,5.26,2.2,2.1,0.0,0.17,0.03,They changed the plan!,They changed the plan.
-full_bright_4,m4g12b,bright,T,3,spare,1.36,,-11.2,3.66,-0.81,0.34,-7.43,0.0,0.17,0.0,They changed the plan!,They changed the plan.
-full_bright_4,m4g13b,bright,T,0,keep,4.94,,-6.4,2.78,3.02,0.53,1.17,0.0,0.16,0.22,We got the results!,We got the results.
-full_bright_4,m4g13b,bright,T,1,keep,3.34,,-1.0,0.63,2.63,0.4,3.95,0.0,0.12,0.21,We got the results!,We got the results!
-full_bright_4,m4g13b,bright,T,2,spare,2.02,,-26.2,1.87,1.11,-0.03,1.04,0.05,0.2,0.23,We got the results!,We got the results!
-full_bright_4,m4g13b,bright,T,3,spare,1.91,,-6.4,2.69,0.46,0.1,1.6,0.0,0.19,0.19,We got the results!,We got the results!
-full_bright_4,m4g14b,bright,T,0,spare,9.74,,37.5,6.27,5.53,1.08,6.76,0.0,0.21,0.11,I saw him at the market!,I saw him at the market.
-full_bright_4,m4g14b,bright,T,1,keep,11.04,,52.6,5.3,6.81,1.58,3.93,0.02,0.12,0.08,I saw him at the market!,I saw him at the market.
-full_bright_4,m4g14b,bright,T,2,spare,8.66,,27.0,1.36,6.38,1.6,5.65,0.0,0.1,0.1,I saw him at the market!,I saw him at the market.
-full_bright_4,m4g14b,bright,T,3,keep,11.23,,39.8,6.18,6.12,2.02,2.28,0.0,0.11,0.1,I saw him at the market!,I saw him at the market.
-full_bright_4,m4g15b,bright,T,0,keep,10.40,,15.5,7.23,5.2,1.58,2.7,0.0,0.3,0.08,The letter came this morning!,The letter came this morning.
-full_bright_4,m4g15b,bright,T,1,keep,10.04,,9.5,5.88,6.14,0.96,-2.06,0.0,0.25,0.01,The letter came this morning!,The letter came this morning.
-full_bright_4,m4g15b,bright,T,3,spare,4.00,,19.7,0.06,2.35,1.62,4.56,0.11,0.11,0.07,The letter came this morning!,The letter came this morning.
-full_bright_4,m4g16b,bright,T,0,keep,7.13,,-6.8,4.57,2.71,2.14,2.5,0.01,0.14,0.05,She told me everything!,She told me everything.
-full_bright_4,m4g16b,bright,T,1,spare,5.82,,11.4,-0.37,4.94,1.06,4.95,0.0,0.42,0.07,She told me everything!,She told me everything.
-full_bright_4,m4g16b,bright,T,2,keep,8.54,,24.0,4.1,4.11,2.38,-0.75,0.0,0.19,0.07,She told me everything!,She told me everything.
-full_bright_4,m4g16b,bright,T,3,spare,6.50,,0.4,6.45,2.75,0.53,-1.96,0.0,0.16,0.02,She told me everything!,She told me everything.
-full_bright_4,m4g17b,bright,T,0,keep,15.86,,-4.9,7.62,9.23,2.82,7.05,0.0,0.2,0.08,He finally answered!,He finally answered.
-full_bright_4,m4g17b,bright,T,1,keep,11.36,,4.9,4.98,6.54,2.33,8.42,0.0,0.21,0.07,He finally answered!,He finally answered.
-full_bright_4,m4g17b,bright,T,2,spare,7.47,,6.4,3.48,4.08,1.65,13.26,0.0,0.3,0.09,He finally answered!,He finally answered.
-full_bright_4,m4g17b,bright,T,3,spare,5.96,,8.9,2.78,3.98,0.59,12.78,0.0,0.17,0.07,He finally answered!,He finally answered.
-full_bright_4,m4g18b,bright,T,0,keep,1.52,,38.8,4.6,-0.88,0.1,-5.35,0.0,0.34,0.02,My brother is getting married!,My brother is getting married.
-full_bright_4,m4g18b,bright,T,2,spare,0.33,,21.9,4.1,-1.67,-0.05,-7.58,0.1,0.32,0.02,My brother is getting married!,My brother is getting married.
-full_bright_4,m4g18b,bright,T,3,keep,3.90,,21.1,5.18,0.46,0.85,-6.24,0.09,0.23,0.0,My brother is getting married!,My brother is getting married.
-full_bright_4,m4g19b,bright,T,0,keep,7.23,,20.6,7.65,2.62,0.78,9.65,0.0,0.2,0.02,I'm going home tomorrow!,I'm going home tomorrow.
-full_bright_4,m4g19b,bright,T,1,keep,8.37,,19.7,9.61,3.15,0.41,5.55,0.0,0.31,0.0,I'm going home tomorrow!,I'm going home tomorrow.
-full_bright_4,m4g19b,bright,T,2,spare,4.27,,27.0,6.24,-0.15,1.3,3.48,0.0,0.1,0.02,I'm going home tomorrow!,I'm going home tomorrow.
-full_bright_4,m4g19b,bright,T,3,spare,6.87,,18.0,5.59,1.99,2.08,6.48,0.0,0.15,0.0,I'm going home tomorrow!,I'm going home tomorrow.
-full_bright_4,m4g20b,bright,T,0,spare,-0.14,,1.9,-1.2,0.91,-0.45,6.84,0.0,0.41,0.02,That was my last exam!,That was my last exam.
-full_bright_4,m4g20b,bright,T,1,spare,0.75,,-9.7,1.36,-0.27,0.34,-2.63,0.0,0.22,0.06,That was my last exam!,That was my last exam.
-full_bright_4,m4g20b,bright,T,2,keep,1.95,,11.4,6.45,-0.76,-0.51,-3.77,0.0,0.39,0.0,That was my last exam!,That was my last exam.
-full_bright_4,m4g20b,bright,T,3,keep,2.75,,-3.6,1.3,1.12,0.98,2.29,0.0,0.24,0.06,That was my last exam!,That was my last exam.
+full_bright_1,m3b01,bright,T,0,spare,3.29,,-2.7,3.56,0.37,1.15,-1.63,0.76,0.39,0.07,"I got it! I'm shift leader now, and I start on Monday!",I got it. I'm shift leader now and I start on Monday.
+full_bright_1,m3b01,bright,T,1,keep,7.63,,14.0,6.23,-0.26,0.43,-4.17,0.69,0.24,0.12,"I got it! I'm shift leader now, and I start on Monday!",I got it. I'm shift leader now and I start on Monday.
+full_bright_1,m3b01,bright,T,2,spare,5.65,,3.7,5.28,0.7,1.59,-5.01,0.32,0.33,0.12,"I got it! I'm shift leader now, and I start on Monday!","I got it. I'm shift leader now, and I start on Monday."
+full_bright_1,m3b01,bright,T,3,keep,5.77,,20.6,3.71,-1.25,0.53,-5.72,0.48,0.27,0.09,"I got it! I'm shift leader now, and I start on Monday!",I got it. I'm shift leader now. And I start on Monday.
+full_bright_1,m3b02,bright,T,0,drop-flat,-1.93,,-29.5,1.02,-0.3,0.39,4.43,0.04,0.36,0.15,"Paati's home! She called me, and she sounds so strong again!",Party's home. She called me and she sounds so strong again.
+full_bright_1,m3b02,bright,T,1,keep-check,0.11,,-14.2,1.53,0.7,1.23,1.83,0.33,0.43,0.16,"Paati's home! She called me, and she sounds so strong again!",Barty's home. She called me and she sounds so strong again.
+full_bright_1,m3b02,bright,T,3,drop-flat,-1.61,,-26.8,1.07,0.79,1.42,1.05,0.3,0.34,0.13,"Paati's home! She called me, and she sounds so strong again!",Body's home. She called me and she sounds so strong again.
+full_bright_1,m3b03,bright,T,0,keep,5.47,,7.4,4.73,-1.23,1.44,-2.89,0.32,0.38,0.07,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so... I know she's really better."
+full_bright_1,m3b03,bright,T,1,keep,3.79,,33.9,0.4,-1.34,-0.29,-3.31,0.17,0.36,0.08,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so I know she's really better."
+full_bright_1,m3b03,bright,T,2,spare,2.35,,20.0,0.35,-0.82,0.14,-3.72,0.25,0.46,0.11,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so I know she's really better."
+full_bright_1,m3b03,bright,T,3,spare,0.74,,-3.2,1.06,0.68,0.56,-2.22,0.0,0.48,0.07,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so I know she's really better."
+full_bright_1,m3b04,bright,T,0,drop-flat,0.52,,-20.0,2.52,1.96,0.2,3.74,0.92,0.77,0.1,"Chennai, Madurai, and maybe the beach too! I can't wait!","Chennai, Naderai, and maybe the beach too. I can't wait."
+full_bright_1,m3b04,bright,T,1,drop-flat,0.73,,-28.9,3.62,1.11,1.03,0.37,0.29,0.51,0.04,"Chennai, Madurai, and maybe the beach too! I can't wait!","Tonight, Matarai and maybe the beach too. I can't wait."
+full_bright_1,m3b04,bright,T,2,keep-check,0.74,,-16.6,2.4,2.39,1.45,2.92,0.84,0.39,0.08,"Chennai, Madurai, and maybe the beach too! I can't wait!","Shanai, Madurai, and maybe the beach too. I can't wait."
+full_bright_1,m3b04,bright,T,3,drop-flat,0.30,,-16.6,1.96,1.13,-0.03,-1.08,0.83,0.32,0.07,"Chennai, Madurai, and maybe the beach too! I can't wait!","Chennai, Madurai, and maybe the beach too. I can't wait."
+full_bright_1,m3b05,bright,T,0,drop-quality,1.42,hiss,2.2,1.2,1.11,2.04,-0.33,0.41,0.32,0.31,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea."
+full_bright_1,m3b05,bright,T,1,keep,3.44,,21.7,1.27,1.09,0.09,7.62,0.46,0.26,0.17,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea."
+full_bright_1,m3b05,bright,T,2,keep,5.74,,6.4,5.1,3.64,1.51,-1.68,0.38,0.26,0.16,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea."
+full_bright_1,m3b05,bright,T,3,spare,-1.28,,-4.4,-0.84,2.79,1.91,0.91,0.6,0.31,0.18,"Ella with the whole class? Okay, that's a brilliant idea!","Ella? With the whole class? Okay, that's a brilliant idea."
+full_bright_1,m3b06,bright,T,0,drop-flat,-3.00,,-30.4,0.04,2.9,0.03,7.1,0.6,0.26,0.29,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam. Fanucca's first smile. That's so sweet.
+full_bright_1,m3b06,bright,T,1,keep-check,0.93,,-18.5,2.78,2.18,0.68,3.95,0.68,0.19,0.14,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam? The Nuka's first smile? That's so sweet.
+full_bright_1,m3b06,bright,T,2,drop-flat,-3.02,,-27.8,-0.24,1.36,0.57,5.32,0.56,0.2,0.17,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam. Thanuka's first smile. That's so sweet.
+full_bright_1,m3b06,bright,T,3,drop-flat,-3.77,,-34.7,-0.3,1.15,-0.22,1.87,0.39,0.3,0.22,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam. Benka's first smile. That's so sweet.
+full_bright_1,m3b07,bright,T,0,drop-flat,4.19,,-21.8,6.37,4.67,2.65,6.59,0.63,0.11,0.16,"Wait, really? That's amazing news!","Wait, really? That's amazing news."
+full_bright_1,m3b07,bright,T,1,keep,4.30,,-5.9,4.89,3.48,0.4,3.76,0.34,0.13,0.11,"Wait, really? That's amazing news!","Wait, really? That's amazing news."
+full_bright_1,m3b07,bright,T,2,drop-flat,0.94,,-21.1,3.05,3.09,2.51,6.23,0.47,0.2,0.16,"Wait, really? That's amazing news!","Wait, really? That's amazing news!"
+full_bright_1,m3b07,bright,T,3,drop-flat,5.78,,-20.1,7.79,4.05,2.27,10.48,0.87,0.29,0.16,"Wait, really? That's amazing news!","Wait, really? That's amazing news."
+full_bright_1,m3b08,bright,T,1,keep,5.55,,6.0,4.95,5.31,2.42,4.16,0.31,0.22,0.15,"Oh, congratulations! You must be so happy!","Oh, congratulations! You must be so happy."
+full_bright_1,m3b08,bright,T,2,spare,1.36,,-1.0,1.46,4.48,1.76,4.99,0.35,0.24,0.15,"Oh, congratulations! You must be so happy!","Oh, congratulations! You must be so happy."
+full_bright_1,m3b08,bright,T,3,keep,7.04,,0.4,7.0,1.5,1.26,-2.77,0.31,0.2,0.25,"Oh, congratulations! You must be so happy!","Oh, congratulations. You must be so happy."
+full_bright_1,m3b09,bright,T,0,spare,6.17,,12.1,4.96,1.48,0.49,4.18,0.96,0.23,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.
+full_bright_1,m3b09,bright,T,1,keep,8.68,,21.3,6.55,0.99,0.77,1.31,0.51,0.31,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.
+full_bright_1,m3b09,bright,T,2,keep,7.35,,12.6,6.09,0.55,1.32,-3.29,0.31,0.21,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.
+full_bright_1,m3b09,bright,T,3,drop-flat,1.24,,-48.2,6.06,0.41,1.76,-5.21,0.0,0.55,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.
+full_bright_1,m3b10,bright,T,0,spare,4.24,,18.8,2.36,2.94,1.08,7.87,0.59,0.22,0.0,I can't believe it! You actually called him?!,I can't believe it. You actually called him?
+full_bright_1,m3b10,bright,T,1,keep,6.69,,22.4,4.45,8.69,1.21,6.08,0.91,0.22,0.0,I can't believe it! You actually called him?!,I can't believe it! You actually called him?
+full_bright_1,m3b10,bright,T,2,keep,6.10,,32.0,2.9,6.82,1.71,10.79,0.63,0.11,0.0,I can't believe it! You actually called him?!,I can't believe it. You actually called him?
+full_bright_1,m3b12,bright,T,0,keep,7.39,,23.6,5.03,0.34,1.32,-5.66,0.62,0.35,0.0,Much better! I understood every word that time!,Much better. I understood every word that time.
+full_bright_1,m3b12,bright,T,1,spare,4.56,,17.0,2.86,2.3,1.31,-2.88,0.66,0.18,0.06,Much better! I understood every word that time!,Much better. I understood every word that time.
+full_bright_1,m3b12,bright,T,2,spare,3.56,,3.3,3.23,2.44,0.85,0.05,0.54,0.23,0.05,Much better! I understood every word that time!,Much better. I understood every word that time.
+full_bright_1,m3b12,bright,T,3,keep,9.29,,29.3,6.36,1.66,1.6,-1.38,0.49,0.21,0.04,Much better! I understood every word that time!,Much better. I understood every word that time.
+full_bright_1,m3b13,bright,T,0,drop-flat,-3.92,,-31.7,-0.75,1.17,0.88,5.73,0.82,0.3,0.06,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done."
+full_bright_1,m3b13,bright,T,1,keep-check,-0.98,,-16.1,0.63,-0.02,0.69,-3.1,0.47,0.26,0.06,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done."
+full_bright_1,m3b13,bright,T,2,drop-flat,-0.99,,-17.1,0.72,-0.07,0.97,1.24,0.61,0.17,0.03,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done."
+full_bright_1,m3b13,bright,T,3,drop-flat,-1.18,,-19.0,0.72,-1.74,0.79,-3.22,0.69,0.24,0.06,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done."
+full_bright_1,m3b14,bright,T,0,keep,1.78,,2.7,1.51,0.41,-0.22,-0.76,0.23,0.47,0.21,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.
+full_bright_1,m3b14,bright,T,1,spare,-1.18,,-4.9,-0.69,0.91,0.07,4.74,0.31,0.32,0.18,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.
+full_bright_1,m3b14,bright,T,2,keep,3.76,,25.5,1.21,1.63,0.83,-5.61,0.41,0.31,0.14,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.
+full_bright_1,m3b14,bright,T,3,spare,1.70,,4.2,1.28,1.66,1.18,0.81,0.68,0.27,0.15,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.
+full_bright_1,m3b15,bright,T,0,spare,1.87,,33.4,-1.47,1.61,0.66,-2.36,0.51,0.41,0.07,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket. Only the hotel left now.
+full_bright_1,m3b15,bright,T,1,keep,5.82,,9.6,4.86,1.29,1.79,-3.62,0.36,0.25,0.03,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket. Only the hotel left now.
+full_bright_1,m3b15,bright,T,2,spare,1.22,,18.5,-0.63,-0.19,0.35,-0.63,0.55,0.31,0.09,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket. Only the hotel left now.
+full_bright_1,m3b15,bright,T,3,keep,7.10,,22.7,4.83,-0.63,3.53,-5.83,0.83,0.2,0.03,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket. Only the hotel left now.
+full_bright_1,m3b16,bright,T,0,spare,0.57,,4.6,0.11,4.52,1.58,-0.04,0.63,0.26,0.08,Look at this photo! The light on the water is perfect!,Look at this photo! The light on the water is perfect!
+full_bright_1,m3b16,bright,T,1,spare,1.87,,12.4,0.63,5.17,2.19,-0.67,0.38,0.23,0.05,Look at this photo! The light on the water is perfect!,Look at this photo! The light on the water is perfect!
+full_bright_1,m3b16,bright,T,2,keep,3.94,,20.1,1.93,4.22,2.59,2.84,0.41,0.17,0.06,Look at this photo! The light on the water is perfect!,Look at this photo! The light on the water is perfect!
+full_bright_1,m3b16,bright,T,3,keep,6.41,,23.7,4.04,6.24,2.34,1.29,0.3,0.21,0.08,Look at this photo! The light on the water is perfect!,Look at this photo! The light on the water is perfect!
+full_bright_1,m3b17,bright,T,2,drop-flat,-0.13,,-16.1,1.48,3.66,1.36,9.49,0.57,0.26,0.18,Sri Lanka won by two wickets? Sam must be going crazy!,Sri Lanka won by two wickets? Sam must be going crazy.
+full_bright_1,m3b17,bright,T,3,keep,5.93,,-1.0,6.03,4.19,2.44,6.22,0.53,0.14,0.19,Sri Lanka won by two wickets? Sam must be going crazy!,Sri Lanka won by two wickets? Sam must be going crazy.
+full_bright_1,m3b18,bright,T,0,drop-flat,-0.48,,-15.8,1.1,-0.26,1.15,-4.3,0.29,0.31,0.08,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that."
+full_bright_1,m3b18,bright,T,1,drop-flat,0.48,,-17.4,2.22,1.77,0.93,-1.17,0.44,0.22,0.08,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that."
+full_bright_1,m3b18,bright,T,2,drop-flat,-2.45,,-21.6,-0.29,-0.79,1.23,-3.8,0.39,0.21,0.05,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that."
+full_bright_1,m3b18,bright,T,3,keep,-2.41,,-7.5,-1.66,1.58,1.15,-0.35,0.65,0.29,0.08,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that."
+full_bright_1,m3b19,bright,T,0,keep,3.87,,4.2,3.45,2.91,2.02,-0.34,0.27,0.16,0.11,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.
+full_bright_1,m3b19,bright,T,1,spare,1.04,,5.2,0.52,3.87,0.96,-0.2,0.13,0.25,0.14,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.
+full_bright_1,m3b19,bright,T,2,spare,-0.91,,3.8,-1.29,1.45,0.56,2.95,0.12,0.28,0.13,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.
+full_bright_1,m3b19,bright,T,3,keep,1.24,,10.0,0.24,2.89,0.68,3.49,0.0,0.2,0.08,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.
+full_bright_1,m3b20,bright,T,0,keep,2.68,,17.7,0.91,2.33,0.27,0.94,0.31,0.73,0.1,"And then, suddenly, the whole café started singing for her birthday!","And then, suddenly, the whole cafe started singing for her birthday."
+full_bright_1,m3b20,bright,T,1,spare,-0.43,,6.5,-1.08,0.85,-0.39,6.08,0.03,0.51,0.11,"And then, suddenly, the whole café started singing for her birthday!",And then suddenly the whole cafe started singing for her birthday.
+full_bright_1,m3b20,bright,T,2,keep,3.19,,4.2,2.77,4.04,-0.11,-1.44,0.29,0.49,0.12,"And then, suddenly, the whole café started singing for her birthday!",And then suddenly the whole cafe started singing for her birthday.
+full_bright_1,m3b20,bright,T,3,spare,0.23,,9.0,-0.67,1.1,-0.66,0.89,0.29,0.58,0.15,"And then, suddenly, the whole café started singing for her birthday!","And then, suddenly, the whole cafe started singing for her birthday."
+full_bright_1,m3b21,bright,T,2,keep,5.27,,18.4,3.43,-0.09,0.9,-5.11,0.03,0.3,0.17,"Thirty-three days of saving, and I've got three thousand rupees!","33 days of saving and I've got 3,000 rupees."
+full_bright_1,m3b21,bright,T,3,keep,2.95,,-3.4,3.29,0.31,-0.06,-1.5,0.15,0.33,0.16,"Thirty-three days of saving, and I've got three thousand rupees!",33 days of saving and I've got 3000 rupees.
+full_bright_1,m3b23,bright,T,0,drop-flat,0.97,,-22.3,3.2,-1.5,1.06,-1.33,0.0,0.69,0.11,It's Sunday again!,It's Sunday again!
+full_bright_1,m3b23,bright,T,1,drop-flat,-2.38,,-18.6,-0.52,5.26,-0.49,6.09,0.0,0.38,0.14,It's Sunday again!,It's Sunday again.
+full_bright_1,m3b23,bright,T,2,drop-flat,3.36,,-13.3,4.69,7.34,2.35,-1.21,0.0,0.18,0.14,It's Sunday again!,It's Sunday again!
+full_bright_1,m3b23,bright,T,3,keep,2.56,,-7.2,3.28,-1.17,0.02,-4.8,0.0,0.53,0.14,It's Sunday again!,It's Sunday again.
+full_bright_1,m3b24,bright,T,0,drop-flat,4.10,,-31.1,7.21,1.94,1.94,6.59,0.0,0.09,0.0,Really?!,Really?
+full_bright_1,m3b24,bright,T,1,keep,3.13,,-8.6,3.99,8.75,1.8,9.9,0.0,0.12,0.0,Really?!,Really?
+full_bright_1,m3b24,bright,T,2,drop-flat,-0.21,,-34.9,3.28,12.54,3.89,16.19,0.0,0.19,0.0,Really?!,Really?
+full_bright_1,m3b24,bright,T,3,drop-flat,5.14,,-33.1,8.45,2.9,1.92,6.97,0.0,0.22,0.0,Really?!,Really?
+full_bright_1,m3b25,bright,T,0,spare,4.70,,-5.5,5.25,-1.06,0.44,-6.35,0.24,0.39,0.02,"Okay, tell me EVERYTHING!","Okay, tell me everything."
+full_bright_1,m3b25,bright,T,1,keep,9.16,,10.2,8.14,-0.66,1.14,-5.91,0.19,0.17,0.02,"Okay, tell me EVERYTHING!","Okay, tell me everything."
+full_bright_1,m3b25,bright,T,2,drop-flat,2.44,,-27.3,5.17,5.24,1.74,-0.04,0.22,0.35,0.03,"Okay, tell me EVERYTHING!","Okay, tell me everything."
+full_bright_1,m3b25,bright,T,3,keep,8.47,,5.3,7.94,1.42,0.76,-5.16,0.28,0.19,0.0,"Okay, tell me EVERYTHING!","Okay, tell me everything."
+full_bright_1,m3b26,bright,T,0,keep,4.30,,11.8,3.12,-0.05,0.46,-3.42,0.76,0.26,0.2,They said yes! I can take the whole of next month off for India!,They said yes. I can take the whole of next month off for India.
+full_bright_1,m3b26,bright,T,2,spare,3.53,,17.0,1.83,-0.88,-0.03,-4.42,0.33,0.27,0.28,They said yes! I can take the whole of next month off for India!,They said yes. I can take the whole of next month off for India.
+full_bright_1,m3b26,bright,T,3,keep,3.61,,9.3,2.68,0.01,0.18,-3.29,0.88,0.44,0.28,They said yes! I can take the whole of next month off for India!,They said yes. I can take the whole of next month off for India.
+full_bright_1,m3b27,bright,T,0,keep,5.82,,23.0,3.52,1.72,1.3,0.97,0.41,0.23,0.06,Paati walked to the gate by herself today! Arun sent me a video!,Body walked to the gate by herself today. A room sent me a video.
+full_bright_1,m3b27,bright,T,1,drop-quality,7.04,gap,39.4,3.1,1.13,0.2,-0.78,1.08,0.22,0.05,Paati walked to the gate by herself today! Arun sent me a video!,Patti walked to the gate by herself today. Arun sent me a video.
+full_bright_1,m3b27,bright,T,2,keep,3.75,,12.3,2.52,2.31,0.45,0.16,0.16,0.37,0.03,Paati walked to the gate by herself today! Arun sent me a video!,A body walked to the gate by herself today. Arun sent me a video.
+full_bright_1,m3b27,bright,T,3,spare,3.14,,17.9,1.35,3.06,1.17,6.05,0.66,0.27,0.08,Paati walked to the gate by herself today! Arun sent me a video!,I walked to the gate by herself today. Arun sent me a video.
+full_bright_1,m3b28,bright,T,2,keep,1.46,,0.8,1.38,-0.77,-0.58,-1.08,0.32,0.27,0.05,"My first week as shift leader, and nothing went wrong!",My first week as shift leader and nothing went wrong.
+full_bright_1,m3b29,bright,T,0,spare,2.02,,15.9,0.43,2.23,-0.25,0.97,0.73,0.54,0.06,I booked the train to Madurai! It's really happening!,I booked the train to Monterey. It's really happening.
+full_bright_1,m3b29,bright,T,2,keep,6.01,,28.5,3.16,0.85,0.21,-3.21,0.22,0.21,0.0,I booked the train to Madurai! It's really happening!,I booked the train to Madurai. It's really happening.
+full_bright_1,m3b29,bright,T,3,keep,3.27,,6.0,2.67,0.31,1.12,0.91,0.8,0.28,0.04,I booked the train to Madurai! It's really happening!,I booked the train to Madurai. It's really happening.
+full_bright_1,m3b30,bright,T,0,keep,3.50,,22.6,1.24,4.82,1.14,1.46,0.38,0.2,0.08,Thenuka's getting so big! Sam showed me a photo!,The Nuka's getting so big. Sam showed me a photo.
+full_bright_1,m3b30,bright,T,1,keep,4.44,,18.4,2.6,-0.72,-0.19,-3.76,0.69,0.29,0.08,Thenuka's getting so big! Sam showed me a photo!,The nick is getting so big. Sam showed me a photo.
+full_bright_1,m3b30,bright,T,2,spare,1.10,,-7.2,1.82,3.53,1.25,-0.24,0.52,0.28,0.11,Thenuka's getting so big! Sam showed me a photo!,Bantuka's getting so big. Sam showed me a photo.
+full_bright_1,m3b30,bright,T,3,spare,3.48,,20.7,1.41,-1.41,0.06,-3.34,0.08,0.29,0.07,Thenuka's getting so big! Sam showed me a photo!,That nuke is getting so big. Sam showed me a photo.
+full_bright_1,m3b31,bright,T,0,keep,3.71,,17.7,1.94,0.89,0.77,4.85,0.61,0.25,0.14,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test. He called me the moment he got out.
+full_bright_1,m3b31,bright,T,1,spare,2.45,,13.9,1.06,2.75,0.37,8.07,0.61,0.15,0.15,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test. He called me the moment he got out.
+full_bright_1,m3b31,bright,T,2,spare,2.12,,9.0,1.22,3.42,1.67,7.32,0.75,0.19,0.14,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test. He called me the moment he got out.
+full_bright_1,m3b31,bright,T,3,keep,3.71,,19.2,1.79,4.03,0.37,4.4,0.52,0.24,0.11,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test. He called me the moment he got out.
+full_bright_1,m3b32,bright,T,0,keep,4.64,,3.7,4.27,2.32,1.13,-1.37,0.09,0.22,0.19,We're going to Ella! The whole class said yes!,We're going to Ella. The whole class said yes.
+full_bright_1,m3b32,bright,T,2,keep,3.97,,-6.6,4.63,3.4,0.3,-1.6,0.04,0.21,0.27,We're going to Ella! The whole class said yes!,We're going to Ella. The whole class said yes.
+full_bright_1,m3b32,bright,T,3,spare,3.31,,10.3,2.28,1.63,0.13,0.63,0.47,0.28,0.22,We're going to Ella! The whole class said yes!,We're going to Allah. The whole class said yes.
+full_bright_1,m3b33,bright,T,0,keep,2.67,,-8.4,3.51,-1.34,0.04,-3.78,0.23,0.35,0.07,"Paati made crab curry for the whole street, and everyone loved it!","Body made crab curry for the whole street, and everyone loved it."
+full_bright_1,m3b33,bright,T,1,drop-flat,1.56,,-18.9,3.45,0.41,1.46,-2.64,0.09,0.3,0.11,"Paati made crab curry for the whole street, and everyone loved it!",Bati made crab curry for the whole street and everyone loved it.
+full_bright_1,m3b33,bright,T,2,keep,5.43,,18.1,3.62,1.7,0.66,-3.89,0.39,0.31,0.12,"Paati made crab curry for the whole street, and everyone loved it!",Buddy made crab curry for the whole street and everyone loved it.
+full_bright_1,m3b33,bright,T,3,spare,0.67,,3.3,0.34,-1.27,2.71,-2.21,0.1,0.4,0.08,"Paati made crab curry for the whole street, and everyone loved it!",Patsy made crab curry for the whole street and everyone loved it.
+full_bright_1,m3b34,bright,T,0,spare,3.23,,1.6,3.07,-0.72,0.34,-2.24,0.01,0.29,0.13,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had.
+full_bright_1,m3b34,bright,T,1,keep,6.53,,39.8,2.55,-0.25,0.07,-3.11,0.0,0.19,0.04,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had.
+full_bright_1,m3b34,bright,T,2,spare,2.46,,5.8,1.88,-0.73,0.93,0.56,0.07,0.43,0.03,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had.
+full_bright_1,m3b34,bright,T,3,keep,3.68,,37.9,-0.11,-0.42,0.56,-2.46,0.05,0.36,0.05,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had.
+full_bright_1,m3b35,bright,T,0,drop-quality,-1.36,hiss hold,-48.1,3.45,0.7,0.56,-1.8,0.28,1.53,0.38,Paati's coming to Colombo! She said yes!,Bonnie's coming to Columbo. She said yes.
+full_bright_1,m3b35,bright,T,1,keep,4.55,,17.2,2.83,2.37,0.14,0.02,0.44,0.19,0.19,Paati's coming to Colombo! She said yes!,Fanny's coming to Columbo? She said yes.
+full_bright_1,m3b35,bright,T,2,spare,3.23,,16.7,1.56,-0.13,2.98,-2.57,0.19,0.17,0.21,Paati's coming to Colombo! She said yes!,Hata's coming to Colello. She said yes!
+full_bright_1,m3b35,bright,T,3,keep,3.36,,0.9,3.27,5.99,1.86,0.01,0.5,0.18,0.27,Paati's coming to Colombo! She said yes!,Party's coming to Columbo. She said yes.
+full_bright_2,m3b36,bright,T,0,drop-flat,-0.26,,-12.9,1.03,3.5,1.03,5.75,0.45,0.24,0.02,"Oh, that's lovely! Tell me more!","Oh, that's lovely. Tell me more."
+full_bright_2,m3b36,bright,T,1,keep-check,2.47,,-14.7,3.94,1.62,0.92,-2.14,0.13,0.38,0.0,"Oh, that's lovely! Tell me more!","Oh, that's lovely. Tell me more."
+full_bright_2,m3b36,bright,T,2,drop-quality,2.52,gap,-29.2,5.44,3.04,1.21,-4.58,1.04,0.32,0.19,"Oh, that's lovely! Tell me more!","Oh, that's lovely. Tell me more."
+full_bright_2,m3b36,bright,T,3,drop-flat,0.41,,-13.8,1.79,0.53,0.5,2.19,0.25,0.29,0.04,"Oh, that's lovely! Tell me more!","Oh, that's lovely. Tell me more."
+full_bright_2,m3b37,bright,T,0,drop-flat,0.34,,-16.8,2.02,6.96,2.64,6.28,0.64,0.29,0.03,"No way, you met him? What was he like?!",No way! You met him? What was he like?
+full_bright_2,m3b37,bright,T,1,drop-flat,0.59,,-35.0,4.09,1.86,2.6,6.23,0.69,0.19,0.0,"No way, you met him? What was he like?!",No way! You met him? What was he like?
+full_bright_2,m3b37,bright,T,2,keep-check,1.80,,-28.0,4.6,2.5,2.67,4.36,0.53,0.21,0.02,"No way, you met him? What was he like?!",No way? You met him? What was he like?
+full_bright_2,m3b37,bright,T,3,drop-flat,0.69,,-27.5,3.44,2.02,1.68,9.06,0.86,0.23,0.06,"No way, you met him? What was he like?!",No way! You met him? What was he like?
+full_bright_2,m3b38,bright,T,0,drop-flat,6.02,,-23.3,8.35,3.95,3.28,2.0,0.63,0.24,0.0,"Wow, you remembered! Thank you!","Wow, you remembered. Thank you."
+full_bright_2,m3b38,bright,T,1,drop-flat,4.15,,-21.5,6.3,3.12,2.57,7.47,0.6,0.19,0.0,"Wow, you remembered! Thank you!",Wow! You remembered! Thank you!
+full_bright_2,m3b38,bright,T,2,drop-flat,3.59,,-30.1,6.6,1.14,2.56,3.74,0.46,0.15,0.0,"Wow, you remembered! Thank you!",Wow! You remembered! Thank you!
+full_bright_2,m3b38,bright,T,3,keep-check,6.30,,-13.8,7.68,5.59,2.36,2.05,0.5,0.25,0.0,"Wow, you remembered! Thank you!",Wow! You remembered! Thank you!
+full_bright_2,m3b39,bright,T,0,keep,4.44,,26.8,1.76,1.94,0.43,1.07,0.58,0.28,0.11,That's so good to hear! I'm really happy for you!,That's so good to hear. I'm really happy for you.
+full_bright_2,m3b39,bright,T,1,keep,4.72,,-2.0,4.92,-2.11,1.67,-7.21,0.63,0.45,0.21,That's so good to hear! I'm really happy for you!,That's so good to hear. I'm really happy for you.
+full_bright_2,m3b39,bright,T,2,spare,2.70,,7.2,1.98,-1.66,0.17,-5.39,0.59,0.3,0.14,That's so good to hear! I'm really happy for you!,That's so good to hear. I'm really happy for you.
+full_bright_2,m3b39,bright,T,3,spare,-0.66,,-5.6,-0.1,-0.24,0.22,0.34,0.14,0.33,0.16,That's so good to hear! I'm really happy for you!,That's so good to hear. I'm really happy for you.
+full_bright_2,m3b40,bright,T,0,drop-flat,2.07,,-17.2,3.79,-1.87,-0.03,-6.57,0.0,0.48,0.0,"Oh, I love that idea!","Oh, I love that idea."
+full_bright_2,m3b40,bright,T,1,keep,7.79,,20.6,5.73,0.06,1.12,-6.5,0.0,0.34,0.0,"Oh, I love that idea!","Oh, I love that idea."
+full_bright_2,m3b40,bright,T,3,keep,6.22,,19.7,4.25,0.83,-0.18,0.75,0.0,0.32,0.0,"Oh, I love that idea!","Oh, I love that idea."
+full_bright_2,m3b41,bright,T,0,keep,4.91,,-1.8,5.09,6.03,2.8,8.47,0.28,0.25,0.14,Seriously? That's the best news this week!,Seriously? That's the best news this week.
+full_bright_2,m3b41,bright,T,1,keep,5.61,,-4.9,6.1,6.14,1.77,7.45,0.38,0.15,0.06,Seriously? That's the best news this week!,Seriously? That's the best news this week.
+full_bright_2,m3b41,bright,T,2,spare,1.89,,-4.2,2.31,6.49,2.21,3.41,0.78,0.39,0.17,Seriously? That's the best news this week!,Seriously? That's the best news this week.
+full_bright_2,m3b41,bright,T,3,spare,2.33,,0.3,2.3,4.34,2.6,4.03,0.92,0.17,0.2,Seriously? That's the best news this week!,Seriously? That's the best news this week.
+full_bright_2,m3b42,bright,T,0,keep,4.82,,-8.9,5.71,5.87,1.73,5.73,0.46,0.26,0.01,"Oh, how wonderful! When did you find out?!","Oh, how wonderful! When did you find out?"
+full_bright_2,m3b42,bright,T,2,spare,0.96,,-1.0,1.06,5.77,1.45,6.2,0.41,0.28,0.02,"Oh, how wonderful! When did you find out?!","Oh, how wonderful! When did you find out?"
+full_bright_2,m3b42,bright,T,3,keep,4.16,,0.7,4.09,5.71,1.47,3.41,0.42,0.16,0.0,"Oh, how wonderful! When did you find out?!","Oh, how wonderful! When did you find out?"
+full_bright_2,m3b44,bright,T,0,spare,7.27,,-5.6,7.83,4.91,2.56,2.8,0.54,0.24,0.0,You're joking! Both of you?!,You're joking. Both of you?
+full_bright_2,m3b44,bright,T,1,keep,8.30,,-6.2,8.92,9.13,3.03,5.11,0.74,0.3,0.0,You're joking! Both of you?!,You're joking. Both of you?
+full_bright_2,m3b44,bright,T,2,keep,8.19,,-9.7,9.16,4.76,3.33,0.64,0.41,0.2,0.0,You're joking! Both of you?!,You're joking. Both of you.
+full_bright_2,m3b44,bright,T,3,spare,5.46,,2.6,5.2,5.66,2.28,-0.76,0.63,0.18,0.0,You're joking! Both of you?!,You're joking. Both of you.
+full_bright_2,m3b45,bright,T,0,drop-flat,3.48,,-12.3,4.71,5.6,2.71,9.0,0.26,0.15,0.23,That was brilliant! You didn't stop once!,That was brilliant! You didn't stop once!
+full_bright_2,m3b45,bright,T,1,drop-flat,2.30,,-14.8,3.78,3.6,2.47,0.17,0.4,0.15,0.25,That was brilliant! You didn't stop once!,That was brilliant. You didn't stop once.
+full_bright_2,m3b45,bright,T,2,keep,7.35,,-4.9,7.84,7.03,2.34,4.63,0.32,0.14,0.19,That was brilliant! You didn't stop once!,That was brilliant! You didn't stop once!
+full_bright_2,m3b45,bright,T,3,drop-flat,1.24,,-20.2,3.26,3.11,3.06,6.67,0.66,0.26,0.22,That was brilliant! You didn't stop once!,That was brilliant! You didn't stop once.
+full_bright_2,m3b46,bright,T,0,keep-check,8.39,,-11.6,9.55,5.53,2.51,5.68,0.61,0.21,0.24,"Yes! You used ""then"" and ""after that"" — perfect!",Yes! You used then and after that. Perfect!
+full_bright_2,m3b46,bright,T,1,drop-flat,-0.01,,-33.4,3.33,3.84,1.09,4.35,0.74,0.46,0.23,"Yes! You used ""then"" and ""after that"" — perfect!",Yes! You used then and after that. Perfect.
+full_bright_2,m3b46,bright,T,2,drop-flat,2.10,,-16.3,3.73,4.59,0.57,2.75,0.81,0.32,0.21,"Yes! You used ""then"" and ""after that"" — perfect!","Yes, you used then and after that. Perfect."
+full_bright_2,m3b46,bright,T,3,drop-flat,-2.65,,-33.2,0.67,4.13,2.38,3.65,0.97,0.51,0.22,"Yes! You used ""then"" and ""after that"" — perfect!",Yes. You used then and after that. Perfect.
+full_bright_2,m3b47,bright,T,0,keep,0.14,,-5.9,0.73,2.77,0.9,0.05,0.6,0.16,0.01,"Great question! Okay, let me think!","Great question. Okay, let me think."
+full_bright_2,m3b47,bright,T,1,drop-flat,-1.51,,-10.3,-0.48,2.55,3.17,-3.69,0.63,0.15,0.04,"Great question! Okay, let me think!","Great question. Okay, let me think."
+full_bright_2,m3b47,bright,T,2,drop-flat,-0.58,,-17.0,1.12,0.67,1.13,-1.1,0.79,0.21,0.0,"Great question! Okay, let me think!",Great question. Okay. Let me think.
+full_bright_2,m3b47,bright,T,3,drop-flat,1.36,,-16.2,2.98,5.19,2.81,4.41,0.84,0.17,0.04,"Great question! Okay, let me think!","Great question. Okay, let me think."
+full_bright_2,m3b48,bright,T,0,drop-flat,2.19,,-24.2,4.61,0.19,2.29,4.97,0.28,0.25,0.18,"Oh, nice! That's a much better word!","Oh, nice. That's a much better word."
+full_bright_2,m3b48,bright,T,1,keep-check,4.31,,-15.5,5.86,1.39,2.58,-0.61,0.29,0.17,0.22,"Oh, nice! That's a much better word!",Oh nice! That's a much better word.
+full_bright_2,m3b48,bright,T,2,drop-flat,0.23,,-23.3,2.56,1.67,2.75,2.33,0.22,0.13,0.27,"Oh, nice! That's a much better word!","Oh, nice. That's a much better word."
+full_bright_2,m3b48,bright,T,3,drop-flat,2.89,,-19.8,4.87,3.1,3.84,1.32,0.56,0.27,0.13,"Oh, nice! That's a much better word!",Oh nice. That's a much better word.
+full_bright_2,m3b49,bright,T,0,spare,4.88,,14.2,3.46,2.55,1.47,0.78,0.62,0.18,0.03,Good job! You're getting faster every day!,Good job! You're getting faster every day.
+full_bright_2,m3b49,bright,T,1,spare,3.10,,8.5,2.25,4.66,1.94,3.07,0.56,0.16,0.05,Good job! You're getting faster every day!,Good job. You're getting faster every day.
+full_bright_2,m3b49,bright,T,2,keep,6.20,,11.7,5.03,-1.01,-0.02,-0.89,0.4,0.24,0.1,Good job! You're getting faster every day!,Good job. You're getting faster every day.
+full_bright_2,m3b49,bright,T,3,keep,6.04,,16.7,4.37,4.94,2.23,-0.38,0.28,0.41,0.01,Good job! You're getting faster every day!,Good job! You're getting faster every day.
+full_bright_2,m3b50,bright,T,0,keep,7.05,,25.1,4.54,2.6,2.04,-0.5,0.09,0.12,0.03,Perfect! I understood every single word!,Perfect! I understood every single word.
+full_bright_2,m3b50,bright,T,1,keep,7.33,,5.2,6.81,5.44,1.81,-5.21,0.46,0.36,0.04,Perfect! I understood every single word!,Perfect! I understood every single word.
+full_bright_2,m3b50,bright,T,2,spare,4.82,,21.9,2.63,5.55,1.34,1.47,0.36,0.17,0.02,Perfect! I understood every single word!,Perfect! I understood every single word.
+full_bright_2,m3b50,bright,T,3,spare,4.12,,0.8,4.04,3.48,1.17,-1.92,0.24,0.42,0.04,Perfect! I understood every single word!,Perfect! I understood every single word.
+full_bright_2,m3b51,bright,T,0,keep,10.99,,5.4,10.45,6.99,1.81,-3.82,0.35,0.14,0.19,"Yes, that's it! Say it like that every time!",Yes! That's it! Say it like that every time!
+full_bright_2,m3b51,bright,T,1,spare,4.57,,22.2,2.35,2.13,1.25,-5.94,0.75,0.17,0.19,"Yes, that's it! Say it like that every time!",Yes. That's it. Say it like that every time.
+full_bright_2,m3b51,bright,T,2,spare,7.66,,0.6,7.6,3.34,1.31,-0.17,0.4,0.13,0.17,"Yes, that's it! Say it like that every time!","Yes, that's it. Say it like that every time."
+full_bright_2,m3b51,bright,T,3,keep,8.13,,18.3,6.3,4.17,1.23,-8.55,0.49,0.21,0.23,"Yes, that's it! Say it like that every time!",Yes. That's it. Say it like that every time.
+full_bright_2,m3b52,bright,T,0,keep,3.96,,12.6,2.7,4.0,2.21,-4.02,0.44,0.45,0.03,"The café gave everyone free cake today, because it's the owner's birthday!",The cafe gave everyone free cake today. Because it's the owner's birthday!
+full_bright_2,m3b52,bright,T,2,keep,3.86,,24.0,1.46,2.74,0.47,-2.76,0.22,0.38,0.03,"The café gave everyone free cake today, because it's the owner's birthday!",The cafe gave everyone free cake today because it's the owner's birthday.
+full_bright_2,m3b52,bright,T,3,spare,2.31,,17.2,0.59,-0.28,-0.02,-3.55,0.63,0.51,0.07,"The café gave everyone free cake today, because it's the owner's birthday!",The cafe gave everyone free cake today. Because it's the owner's birthday.
+full_bright_2,m3b53,bright,T,0,drop-quality,0.55,gap,-3.7,0.92,3.41,0.57,10.26,1.14,0.36,0.03,Priya cleaned the whole flat! I don't even know what happened!,Priya cleaned the whole flat. I don't even know what happened.
+full_bright_2,m3b53,bright,T,1,keep,7.31,,36.7,3.64,2.54,0.52,-1.17,0.61,0.32,0.01,Priya cleaned the whole flat! I don't even know what happened!,Priya cleaned the whole flat. I don't even know what happened.
+full_bright_2,m3b53,bright,T,2,drop-quality,-0.90,gap,-26.8,1.78,4.33,0.54,-1.36,1.07,0.7,0.0,Priya cleaned the whole flat! I don't even know what happened!,Clean the whole flat. I don't even know what happened.
+full_bright_2,m3b53,bright,T,3,keep,4.55,,17.5,2.8,1.95,0.28,3.73,0.62,0.35,0.0,Priya cleaned the whole flat! I don't even know what happened!,Priya cleans the whole flat. I don't even know what happened.
+full_bright_2,m3b54,bright,T,1,keep,6.60,,12.3,5.37,4.8,1.11,6.39,0.56,0.15,0.12,"The rain stopped, and there's a rainbow over the sea!",The rain stopped and there's a rainbow over the sea.
+full_bright_2,m3b54,bright,T,2,keep,7.17,,11.0,6.07,4.33,-0.03,2.14,0.27,0.19,0.13,"The rain stopped, and there's a rainbow over the sea!","The rain stopped, and there's a rainbow over the sea."
+full_bright_2,m3b54,bright,T,3,spare,5.53,,8.0,4.73,2.23,1.13,1.54,0.04,0.26,0.1,"The rain stopped, and there's a rainbow over the sea!",The rain stopped and there's a rainbow over the sea.
+full_bright_2,m3b55,bright,T,0,spare,3.74,,26.0,1.14,0.1,1.77,-1.79,0.83,0.37,0.0,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.
+full_bright_2,m3b55,bright,T,1,keep,5.47,,14.0,4.07,2.37,0.33,1.35,0.34,0.26,0.0,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.
+full_bright_2,m3b55,bright,T,2,spare,2.33,,10.5,1.28,5.22,1.37,3.32,0.91,0.71,0.0,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.
+full_bright_2,m3b55,bright,T,3,keep,4.46,,15.9,2.87,4.42,0.95,0.9,0.49,0.4,0.01,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.
+full_bright_2,m3b56,bright,T,0,keep,2.78,,15.2,1.26,2.38,0.07,1.13,0.0,0.26,0.13,Amma's sending a box of sweets from Jaffna!,I miss sending a box of sweets from Jaffna.
+full_bright_2,m3b56,bright,T,1,spare,-0.09,,-2.4,0.15,0.86,0.48,5.34,0.06,0.25,0.12,Amma's sending a box of sweets from Jaffna!,I'ma sending a box of sweets from Jaffna.
+full_bright_2,m3b56,bright,T,3,keep,3.09,,23.9,0.7,-0.16,1.64,-0.66,0.0,0.19,0.12,Amma's sending a box of sweets from Jaffna!,I'ma sending a box of sweets from Jaffa.
+full_bright_2,m3b57,bright,T,0,spare,3.68,,31.5,0.53,-0.66,-0.42,-1.61,0.0,0.41,0.13,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days."
+full_bright_2,m3b57,bright,T,1,spare,-0.13,,9.5,-1.08,-1.07,0.11,-3.79,0.05,0.3,0.18,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days."
+full_bright_2,m3b57,bright,T,2,keep,4.53,,24.2,2.11,-0.72,0.32,-7.16,0.0,0.3,0.09,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days."
+full_bright_2,m3b57,bright,T,3,keep,4.35,,-9.1,5.26,1.5,-0.16,-4.29,0.02,0.32,0.13,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days."
+full_bright_2,m3b58,bright,T,0,spare,4.36,,33.1,1.05,0.09,0.25,0.79,0.53,0.29,0.2,Arun got the top mark in his class! My little brother!,A ring about the top mark in his class. My little brother.
+full_bright_2,m3b58,bright,T,1,spare,5.02,,24.6,2.56,1.29,0.62,-0.34,0.38,0.24,0.21,Arun got the top mark in his class! My little brother!,I ruined at the top mark in his class. My little brother.
+full_bright_2,m3b58,bright,T,2,keep,6.58,,26.0,3.98,2.49,0.56,-2.98,0.49,0.21,0.15,Arun got the top mark in his class! My little brother!,A room got the top mark in his class. My little brother.
+full_bright_2,m3b58,bright,T,3,keep,6.14,,17.2,4.42,0.18,0.07,-2.07,0.71,0.27,0.16,Arun got the top mark in his class! My little brother!,Aaron got the top mark in his class. My little brother.
+full_bright_2,m3b59,bright,T,0,keep,3.42,,-9.6,4.38,0.79,0.58,-0.51,0.52,0.23,0.02,Guess what? Priya's getting a dog!,Guess what? Priya's getting a dog.
+full_bright_2,m3b59,bright,T,1,drop-flat,-1.28,,-32.6,1.98,-0.39,0.58,-1.87,0.24,0.21,0.07,Guess what? Priya's getting a dog!,Guess what? Guess what? Priya's getting a dog.
+full_bright_2,m3b59,bright,T,2,keep,2.82,,2.1,2.61,0.19,-0.7,-3.86,0.29,0.38,0.04,Guess what? Priya's getting a dog!,Guess what? Priya's getting a dog.
+full_bright_2,m3b59,bright,T,3,spare,1.72,,-0.4,1.76,3.32,0.28,-1.95,0.36,0.2,0.02,Guess what? Priya's getting a dog!,Guess what? Priya's getting a dog.
+full_bright_2,m3b60,bright,T,0,keep,7.04,,40.7,2.97,1.38,-0.12,-1.49,0.0,0.25,0.03,"The new bakery opened near the station, and the bread is amazing!",The new bakery opened near the station and the bread is amazing.
+full_bright_2,m3b60,bright,T,1,keep,7.43,,27.7,4.66,-1.23,-0.63,-6.93,0.0,0.6,0.01,"The new bakery opened near the station, and the bread is amazing!",The new bakery opened near the station and the bread is amazing.
+full_bright_2,m3b60,bright,T,2,spare,4.47,,4.3,4.04,-0.26,0.09,-3.88,0.07,0.37,0.05,"The new bakery opened near the station, and the bread is amazing!",The new bakery opened near the station and the bread is amazing.
+full_bright_2,m3b60,bright,T,3,spare,4.55,,26.9,1.86,-0.65,0.72,-2.94,0.0,0.25,0.07,"The new bakery opened near the station, and the bread is amazing!","The new bakery opened near the station, and the bread is amazing."
+full_bright_2,m3b61,bright,T,0,drop-flat,4.91,,-17.3,6.64,1.7,1.0,-0.03,0.4,0.43,0.17,"Finally, a day off! No work, no class, nothing!","Finally, a day off. No work, no class, nothing."
+full_bright_2,m3b61,bright,T,1,keep,1.56,,-7.4,2.3,2.46,0.79,-3.11,0.61,0.26,0.2,"Finally, a day off! No work, no class, nothing!","Finally, a day off. No work, no class, nothing."
+full_bright_2,m3b61,bright,T,2,drop-flat,0.94,,-21.9,3.13,0.39,0.84,-2.5,0.53,0.23,0.22,"Finally, a day off! No work, no class, nothing!","Finally a day off. No work, no class, nothing."
+full_bright_2,m3b61,bright,T,3,drop-flat,1.97,,-31.4,5.11,4.83,1.85,-4.35,0.44,0.26,0.15,"Finally, a day off! No work, no class, nothing!","Finally, a day off. No work, no class, nothing."
+full_bright_2,m3b62,bright,T,1,keep,6.04,,24.8,3.56,1.89,1.35,-1.68,0.34,0.43,0.08,I took the best photo of my life today! A fisherman and his boat at sunset!,I took the best photo of my life today. A fisherman and his boat at sunset.
+full_bright_2,m3b63,bright,T,0,keep,6.40,,29.3,3.47,-1.12,1.18,-2.7,0.69,0.2,0.06,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.
+full_bright_2,m3b63,bright,T,1,spare,2.28,,27.6,-0.48,1.03,0.76,-0.85,0.53,0.23,0.1,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.
+full_bright_2,m3b63,bright,T,2,keep,7.37,,33.9,3.98,1.95,1.45,1.4,0.64,0.25,0.01,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.
+full_bright_2,m3b63,bright,T,3,spare,1.63,,19.2,-0.29,2.77,0.96,7.13,0.73,0.41,0.03,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.
+full_bright_2,m3b64,bright,T,0,spare,3.26,,12.9,1.97,0.36,1.27,0.97,0.4,0.47,0.16,"I finally made Paati's crab curry, and it actually tasted like hers!",I finally made Potty's Crab Curry and... it actually tasted like hers.
+full_bright_2,m3b64,bright,T,1,keep,7.53,,37.4,3.79,0.07,0.59,-1.27,0.0,0.24,0.08,"I finally made Paati's crab curry, and it actually tasted like hers!",I finally made Potty's Crab Curry and it actually tasted like hers.
+full_bright_2,m3b64,bright,T,2,keep,4.68,,33.5,1.33,-0.28,0.4,-6.35,0.68,0.25,0.15,"I finally made Paati's crab curry, and it actually tasted like hers!",I finally made Pawnee's crab curry and it actually tasted like hers.
+full_bright_2,m3b64,bright,T,3,spare,2.92,,21.6,0.76,0.1,0.07,-2.91,0.13,0.34,0.17,"I finally made Paati's crab curry, and it actually tasted like hers!","I finally made Potty's Crab Curry, and it actually tasted like hers."
+full_bright_2,m3b65,bright,T,0,keep,4.32,,15.9,2.73,0.37,0.59,-0.4,0.0,0.25,0.09,"Sam's team won the match, and he took the last wicket!",Sam's team won the match and he took the last wicket.
+full_bright_2,m3b65,bright,T,1,spare,0.05,,-3.6,0.41,0.53,0.81,-1.21,0.6,0.43,0.1,"Sam's team won the match, and he took the last wicket!",Sam's team won the match and he took the last wicket
+full_bright_2,m3b65,bright,T,2,keep,2.44,,-6.5,3.09,-0.4,0.18,-2.31,0.0,0.24,0.1,"Sam's team won the match, and he took the last wicket!",Sam's team won the match and he took the last wicket.
+full_bright_2,m3b65,bright,T,3,spare,0.30,,-5.6,0.86,-0.47,0.26,0.17,0.0,0.19,0.12,"Sam's team won the match, and he took the last wicket!",Sands team won the match and he took the last wicket.
+full_bright_2,m3b66,bright,T,0,drop-quality,5.75,gap,9.5,4.8,3.78,0.31,4.34,1.1,0.16,0.0,"Look, the hotel in Chennai has a pool!",Look. The hotel in Janai has a pool.
+full_bright_2,m3b66,bright,T,1,spare,1.94,,2.4,1.7,5.39,1.52,2.67,0.57,0.15,0.05,"Look, the hotel in Chennai has a pool!",Look! The hotel in Chennai has a pool.
+full_bright_2,m3b66,bright,T,2,keep,4.96,,13.2,3.64,1.93,0.22,3.17,0.81,0.18,0.0,"Look, the hotel in Chennai has a pool!","Look, the hotel in Chennai has a pool."
+full_bright_2,m3b66,bright,T,3,keep,3.37,,26.4,0.73,2.81,-0.06,2.43,0.5,0.23,0.02,"Look, the hotel in Chennai has a pool!","Look, the hotel in Chennai has a pool."
+full_bright_2,m3b67,bright,T,0,drop-flat,0.37,,-13.5,1.72,-1.56,1.11,-4.3,0.38,0.33,0.07,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it. That film was actually really good."
+full_bright_2,m3b67,bright,T,1,keep,4.61,,14.3,3.18,-0.67,0.12,-3.84,0.25,0.24,0.09,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it. That film was actually really good."
+full_bright_2,m3b67,bright,T,2,spare,3.68,,15.0,2.18,-0.9,0.69,-2.09,0.84,0.32,0.07,"Okay, I'll say it: that film was actually really good!",Okay. I'll say it. That film was actually really good.
+full_bright_2,m3b67,bright,T,3,keep,5.83,,13.9,4.44,-1.44,1.09,-7.77,0.62,0.18,0.07,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it. That film was actually really good."
+full_bright_2,m3b68,bright,T,0,keep,6.56,,19.2,4.64,7.1,2.65,6.54,0.35,0.16,0.04,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.
+full_bright_2,m3b68,bright,T,1,spare,1.62,,18.0,-0.18,3.21,0.88,7.79,0.9,0.18,0.1,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.
+full_bright_2,m3b68,bright,T,2,keep,4.85,,11.8,3.67,5.18,2.06,7.58,0.41,0.21,0.05,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.
+full_bright_2,m3b68,bright,T,3,spare,2.07,,17.7,0.3,3.72,1.55,11.99,0.68,0.24,0.1,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.
+full_bright_2,m3b69,bright,T,0,drop-flat,-0.67,,-34.2,2.75,2.83,0.31,0.84,0.05,0.21,0.18,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help."
+full_bright_2,m3b69,bright,T,1,drop-flat,2.18,,-26.4,4.82,2.5,0.85,-4.65,0.4,0.33,0.25,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help."
+full_bright_2,m3b69,bright,T,2,drop-flat,-0.96,,-18.0,0.84,0.11,1.36,1.99,0.21,0.25,0.17,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help."
+full_bright_2,m3b69,bright,T,3,keep,1.30,,-7.6,2.06,2.63,0.7,-2.41,0.36,0.18,0.19,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help."
+full_bright_3,m3b70,bright,T,0,keep,2.82,,26.3,0.19,3.19,0.23,2.68,0.27,0.24,0.0,Thank you! You really didn't have to do that!,Thank you. You really didn't have to do that.
+full_bright_3,m3b70,bright,T,1,drop-quality,3.82,gap,35.5,0.27,1.75,0.69,-2.67,1.04,0.25,0.0,Thank you! You really didn't have to do that!,Thank you. You really didn't have to do that.
+full_bright_3,m3b70,bright,T,2,keep,7.24,,32.0,4.04,2.08,1.38,2.06,0.91,0.29,0.02,Thank you! You really didn't have to do that!,Thank you. You really didn't have to do that.
+full_bright_3,m3b70,bright,T,3,spare,2.45,,12.2,1.23,-0.65,0.35,2.04,0.73,0.35,0.0,Thank you! You really didn't have to do that!,Thank you. You really didn't have to do that.
+full_bright_3,m3b71,bright,T,1,drop-flat,-2.78,,-33.2,0.54,0.02,0.66,0.85,0.94,0.58,0.08,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened. And we saw everything."
+full_bright_3,m3b71,bright,T,2,keep-check,0.79,,-14.2,2.21,3.09,1.65,5.15,0.76,0.38,0.1,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened, and we saw everything."
+full_bright_3,m3b71,bright,T,3,drop-flat,-1.08,,-29.5,1.87,4.58,1.29,-0.43,0.88,0.39,0.08,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened. And we saw everything."
+full_bright_3,m3b72,bright,T,0,keep,3.17,,14.7,1.7,-0.3,0.13,-4.38,0.66,0.5,0.1,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, don't worry, you're the best."
+full_bright_3,m3b72,bright,T,1,spare,0.62,,18.8,-1.26,-1.42,0.15,-3.99,0.65,0.46,0.14,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, don't worry, you're the best."
+full_bright_3,m3b72,bright,T,2,spare,-0.49,,-8.0,0.31,0.18,0.32,-1.46,0.54,0.58,0.15,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, don't worry, you're the best."
+full_bright_3,m3b72,bright,T,3,keep,2.10,,12.6,0.84,-0.33,0.63,-1.3,0.62,0.42,0.17,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, Don't worry, you're the best."
+full_bright_3,m3b73,bright,T,0,keep,5.82,,25.1,3.31,-1.36,-0.84,-4.49,0.47,0.3,0.16,"And after all that, the bus came early for once!","And after all that, the bus came early for once."
+full_bright_3,m3b73,bright,T,1,keep,4.09,,5.6,3.53,-1.22,-0.57,-5.47,0.0,0.43,0.23,"And after all that, the bus came early for once!","And after all that, the bus came early for once."
+full_bright_3,m3b73,bright,T,2,spare,3.09,,9.7,2.12,0.34,-0.08,-1.65,0.16,0.28,0.18,"And after all that, the bus came early for once!","And after all that, the bus came early for once."
+full_bright_3,m3b73,bright,T,3,spare,-1.00,,-8.0,-0.2,0.09,0.18,-0.95,0.28,0.33,0.22,"And after all that, the bus came early for once!","And after all that, the bus came early for once."
+full_bright_3,m3b74,bright,T,0,keep,5.52,,19.8,3.54,4.06,2.03,4.96,0.29,0.29,0.12,Twenty-two thousand rupees! That's exactly what I needed for the trip!,"22,000 rupees! That's exactly what I needed for the trip."
+full_bright_3,m3b74,bright,T,1,spare,4.99,,16.6,3.33,4.36,1.34,2.51,0.52,0.23,0.15,Twenty-two thousand rupees! That's exactly what I needed for the trip!,"22,000 rupees? That's exactly what I needed for the trip."
+full_bright_3,m3b74,bright,T,2,keep,6.70,,40.7,2.63,1.94,1.44,2.57,0.3,0.28,0.16,Twenty-two thousand rupees! That's exactly what I needed for the trip!,"22,000 rupees. That's exactly what I needed for the trip."
+full_bright_3,m3b74,bright,T,3,spare,3.02,,47.0,-1.68,1.51,0.75,1.54,0.21,0.25,0.13,Twenty-two thousand rupees! That's exactly what I needed for the trip!,"22,000 rupees. That's exactly what I needed for the trip."
+full_bright_3,m3b75,bright,T,0,drop-flat,0.40,,-22.4,2.64,-0.68,0.45,-2.73,1.09,0.29,0.22,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally, there it was. The sea."
+full_bright_3,m3b75,bright,T,1,drop-flat,-0.06,,-26.2,2.56,1.44,0.76,3.17,1.41,0.29,0.19,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally... There it was. The sea."
+full_bright_3,m3b75,bright,T,2,drop-flat,-2.21,,-25.6,0.35,-1.24,-0.04,-3.71,0.78,0.28,0.21,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally... There it was. The sea."
+full_bright_3,m3b75,bright,T,3,keep-check,0.91,,-24.5,3.36,1.57,1.52,-2.06,1.02,0.38,0.23,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally... There it was! The sea!"
+full_bright_3,m3t09,bright,T,0,drop-flat,1.40,,-11.5,2.55,2.54,2.14,0.94,0.43,0.23,0.17,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.
+full_bright_3,m3t09,bright,T,1,keep,3.26,,5.5,2.71,1.37,1.14,3.66,0.8,0.25,0.16,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.
+full_bright_3,m3t09,bright,T,2,drop-flat,-2.82,,-12.2,-1.6,1.39,1.32,2.27,0.64,0.32,0.16,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.
+full_bright_3,m3t09,bright,T,3,drop-flat,1.56,,-12.6,2.82,1.85,1.01,1.84,0.79,0.24,0.18,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.
+full_bright_3,m3xb01,bright,T,0,keep,1.71,,-0.1,1.72,5.83,1.49,7.09,0.37,0.18,0.01,Wait… is that a cake?!,"Wait, is that a cake?"
+full_bright_3,m3xb01,bright,T,1,keep,6.19,,0.7,6.12,4.14,1.76,-1.59,0.54,0.13,0.0,Wait… is that a cake?!,"Wait, is that a cake?"
+full_bright_3,m3xb01,bright,T,3,drop-flat,3.39,,-24.3,5.82,5.8,1.58,5.99,0.25,0.12,0.06,Wait… is that a cake?!,Wait! Is that a cake?
+full_bright_3,m3xb02,bright,T,0,drop-flat,1.21,,-22.9,3.5,-0.16,0.27,-3.45,0.38,0.33,0.23,And the winner is… you!,And the winner is... you.
+full_bright_3,m3xb02,bright,T,1,drop-flat,-1.91,,-31.1,1.2,2.66,0.48,1.66,0.72,0.49,0.13,And the winner is… you!,And the winner is... You.
+full_bright_3,m3xb02,bright,T,2,keep-check,5.34,,-12.5,6.59,1.33,0.31,-0.38,0.73,0.19,0.14,And the winner is… you!,And the winner is... You.
+full_bright_3,m3xb02,bright,T,3,drop-flat,4.93,,-26.9,7.62,1.08,1.22,-0.8,0.24,0.19,0.0,And the winner is… you!,And the winner is... you!
+full_bright_3,m3xb03,bright,T,0,keep,6.32,,2.1,6.11,1.72,1.78,-5.43,0.89,0.17,0.19,Guess what… I got the tickets!,Guess what? I got the tickets.
+full_bright_3,m3xb03,bright,T,2,spare,3.03,,0.8,2.95,1.01,0.17,0.39,0.7,0.13,0.19,Guess what… I got the tickets!,Guess what? I got the tickets.
+full_bright_3,m3xb03,bright,T,3,keep,3.77,,-0.4,3.81,4.15,0.94,-2.37,0.45,0.23,0.18,Guess what… I got the tickets!,Guess what? I got the tickets.
+full_bright_3,m3xb04,bright,T,0,keep,6.34,,-6.2,6.96,7.98,2.19,7.05,0.27,0.15,0.18,Oh… look at all the lights!,Oh! Look at all the lights!
+full_bright_3,m3xb04,bright,T,1,keep,7.95,,-3.6,8.31,7.35,1.56,0.39,0.0,0.17,0.21,Oh… look at all the lights!,"Oh, look at all the lights!"
+full_bright_3,m3xb04,bright,T,2,drop-flat,-0.04,,-11.4,1.1,11.28,1.95,3.02,0.4,0.25,0.25,Oh… look at all the lights!,Look at all the lights!
+full_bright_3,m3xb04,bright,T,3,drop-flat,1.78,,-29.1,4.69,6.82,1.42,1.79,0.37,0.33,0.22,Oh… look at all the lights!,Oh! Look at all the lights!
+full_bright_3,m3xb05,bright,T,0,drop-flat,0.28,,-23.3,2.61,-0.2,0.19,-1.37,0.68,0.52,0.16,So… I have some good news!,So... I have some good news.
+full_bright_3,m3xb05,bright,T,1,drop-flat,0.17,,-13.6,1.53,2.43,0.83,1.25,0.0,0.16,0.15,So… I have some good news!,"So, I have some good news."
+full_bright_3,m3xb05,bright,T,2,keep-check,2.67,,-13.0,3.97,3.26,0.91,0.74,0.19,0.24,0.12,So… I have some good news!,"So, I have some good news."
+full_bright_3,m3xb05,bright,T,3,drop-flat,1.72,,-19.9,3.71,-1.19,-0.11,-1.62,0.39,0.19,0.12,So… I have some good news!,"So, I have some good news."
+full_bright_3,m3xb06,bright,T,0,keep,3.78,,-6.8,4.46,5.63,3.08,4.24,0.35,0.28,0.11,Look… the sun's coming out!,Look! The sun's coming out!
+full_bright_3,m3xb06,bright,T,1,keep,5.84,,1.9,5.65,7.39,3.54,2.79,0.28,0.12,0.09,Look… the sun's coming out!,Look! The sun's coming out!
+full_bright_3,m3xb06,bright,T,3,drop-flat,-0.03,,-21.6,2.13,6.78,3.72,2.81,0.47,0.16,0.11,Look… the sun's coming out!,Look! The sun's coming out.
+full_bright_3,m3xb07,bright,T,0,drop-flat,-2.21,,-27.5,0.54,-0.51,0.66,-1.48,0.33,0.38,0.19,"Close your eyes… okay, now open them!","Close your eyes. Okay, now open them."
+full_bright_3,m3xb07,bright,T,1,keep-check,-0.45,,-28.7,2.42,1.66,1.39,-0.03,0.82,0.22,0.21,"Close your eyes… okay, now open them!","Close your eyes. Okay, now open them."
+full_bright_3,m3xb07,bright,T,2,drop-flat,-2.42,,-12.3,-1.19,-0.99,0.02,-2.72,0.56,0.26,0.16,"Close your eyes… okay, now open them!","Close your eyes. Okay, now open them."
+full_bright_3,m3xb07,bright,T,3,drop-flat,-0.71,,-35.6,2.85,1.74,0.33,-1.85,0.22,0.28,0.15,"Close your eyes… okay, now open them!","Close your eyes. Okay, now open them."
+full_bright_3,m3xb08,bright,T,0,spare,5.05,,1.7,4.88,3.47,0.02,-0.64,0.07,0.43,0.03,We won — we actually won!,We won. We actually won.
+full_bright_3,m3xb08,bright,T,1,keep,6.48,,-6.8,7.16,4.31,0.09,-0.41,0.0,0.54,0.04,We won — we actually won!,We won. We actually won.
+full_bright_3,m3xb08,bright,T,2,spare,3.74,,5.0,3.24,0.9,0.67,-3.53,0.13,0.23,0.05,We won — we actually won!,We won. We actually won.
+full_bright_3,m3xb08,bright,T,3,keep,6.26,,5.6,5.7,2.7,1.0,-1.05,0.41,0.22,0.0,We won — we actually won!,We won. We actually won.
+full_bright_3,m3xb09,bright,T,0,drop-flat,-2.83,,-22.1,-0.62,8.19,0.65,3.75,0.56,0.12,0.27,Look at this — it's perfect!,Look at this. It's perfect.
+full_bright_3,m3xb09,bright,T,1,keep-check,-0.38,,-12.5,0.87,4.12,0.0,2.06,0.39,0.27,0.25,Look at this — it's perfect!,Look at this. It's perfect.
+full_bright_3,m3xb09,bright,T,2,drop-flat,-0.65,,-19.9,1.34,7.2,0.78,4.82,0.1,0.12,0.24,Look at this — it's perfect!,Look at this! It's perfect!
+full_bright_3,m3xb09,bright,T,3,drop-flat,-1.34,,-22.1,0.87,8.73,2.15,5.89,0.43,0.16,0.2,Look at this — it's perfect!,Look at this! It's perfect!
+full_bright_3,m3xb10,bright,T,0,spare,-1.06,,3.8,-1.44,-1.34,-0.25,1.35,0.58,0.26,0.06,I know what we'll do — let's go to the beach!,I know what we'll do. Let's go to the beach.
+full_bright_3,m3xb10,bright,T,1,keep,6.30,,21.3,4.17,2.11,0.52,1.68,0.44,0.2,0.13,I know what we'll do — let's go to the beach!,I know what we'll do. Let's go to the beach.
+full_bright_3,m3xb10,bright,T,2,keep,3.59,,2.9,3.3,5.88,0.98,3.46,0.63,0.18,0.03,I know what we'll do — let's go to the beach!,I know what we'll do. Let's go to the beach.
+full_bright_3,m3xb10,bright,T,3,spare,3.50,,14.8,2.02,2.92,1.03,5.66,0.25,0.2,0.05,I know what we'll do — let's go to the beach!,I know what we'll do. Let's go to the beach.
+full_bright_3,m3xb11,bright,T,0,spare,1.31,,-1.5,1.46,6.85,1.88,8.4,0.37,0.2,0.26,She said yes — can you believe it?!,She said yes. Can you believe it?
+full_bright_3,m3xb11,bright,T,1,keep,7.21,,11.8,6.03,6.82,-0.02,8.34,0.27,0.25,0.16,She said yes — can you believe it?!,She said yes. Can you believe it?
+full_bright_3,m3xb11,bright,T,2,drop-flat,1.16,,-10.3,2.19,3.64,1.59,7.86,0.19,0.18,0.21,She said yes — can you believe it?!,She said yes. Can you believe it?
+full_bright_3,m3xb11,bright,T,3,keep,5.58,,6.8,4.9,6.8,1.21,8.03,0.12,0.18,0.21,She said yes — can you believe it?!,She said yes. Can you believe it?
+full_bright_3,m3xb12,bright,T,0,keep,5.85,,3.3,5.52,-1.54,0.92,-6.7,0.19,0.31,0.03,The best part — no work tomorrow!,The best part. No work tomorrow.
+full_bright_3,m3xb12,bright,T,1,keep,3.04,,-4.0,3.44,-0.5,0.58,-4.58,0.42,0.26,0.03,The best part — no work tomorrow!,The best part. No work tomorrow.
+full_bright_3,m3xb12,bright,T,2,spare,1.07,,-4.0,1.47,2.2,0.28,-0.56,0.1,0.27,0.03,The best part — no work tomorrow!,"The best part, no work tomorrow."
+full_bright_3,m3xb12,bright,T,3,drop-flat,2.76,,-11.2,3.88,0.43,1.33,-1.21,0.4,0.25,0.04,The best part — no work tomorrow!,"The best part, no work tomorrow."
+full_bright_3,m3xb13,bright,T,0,drop-flat,3.27,,-23.7,5.64,3.74,3.56,-0.97,0.19,0.22,0.0,Oh — you're here already!,"Oh, you're here already."
+full_bright_3,m3xb13,bright,T,1,keep,9.26,,-0.3,9.29,4.26,2.61,-1.43,0.22,0.16,0.0,Oh — you're here already!,"Oh, you're here already."
+full_bright_3,m3xb13,bright,T,2,drop-flat,1.98,,-37.5,5.73,5.39,2.7,-5.85,0.26,0.25,0.0,Oh — you're here already!,"Oh, you're here already."
+full_bright_3,m3xb13,bright,T,3,drop-flat,1.47,,-16.6,3.13,3.15,2.02,5.8,0.52,0.32,0.0,Oh — you're here already!,"Oh, you're here already."
+full_bright_3,m3xb14,bright,T,0,keep,0.00,,1.1,-0.11,3.96,0.97,1.41,0.53,0.19,0.04,I've got it — the perfect gift for Paati!,I've got it. The perfect gift for potty.
+full_bright_3,m3xb14,bright,T,1,keep,0.05,,8.0,-0.75,2.21,0.51,5.92,1.23,0.2,0.04,I've got it — the perfect gift for Paati!,I've got it. The perfect gift for Patsy.
+full_bright_3,m3xb14,bright,T,2,spare,-0.99,,-0.1,-0.98,3.35,0.33,1.73,0.92,0.29,0.02,I've got it — the perfect gift for Paati!,I've got it. The perfect gift for Patti.
+full_bright_3,m3xb15,bright,T,0,keep,1.58,,-2.8,1.86,5.33,1.11,-0.65,0.18,0.18,0.17,Two weeks — just two weeks until the trip!,Two weeks. Just two weeks until the trip.
+full_bright_3,m3xb15,bright,T,1,drop-flat,2.83,,-17.1,4.54,1.11,-0.16,2.43,0.04,0.29,0.15,Two weeks — just two weeks until the trip!,Two weeks. Just two weeks until the trip.
+full_bright_3,m3xb15,bright,T,2,drop-flat,-1.73,,-31.7,1.44,3.95,0.22,4.16,0.65,0.44,0.19,Two weeks — just two weeks until the trip!,Two weeks. Just two weeks until the trip.
+full_bright_3,m3xb15,bright,T,3,drop-flat,0.44,,-20.5,2.49,1.61,0.28,-0.43,0.04,0.23,0.24,Two weeks — just two weeks until the trip!,Two weeks? Just two weeks until the trip.
+full_bright_3,m3xb16,bright,T,0,keep,8.36,,-6.8,9.04,8.22,0.68,3.2,0.0,0.17,0.0,You got the job?!,You got the job?
+full_bright_3,m3xb16,bright,T,1,drop-flat,6.02,,-23.3,8.35,8.48,2.64,0.95,0.0,0.24,0.0,You got the job?!,You got the job!
+full_bright_3,m3xb16,bright,T,2,drop-flat,-0.09,,-16.6,1.57,6.56,-0.17,13.67,0.0,0.16,0.0,You got the job?!,You got the job?
+full_bright_3,m3xb16,bright,T,3,drop-flat,4.05,,-11.2,5.17,4.0,1.37,4.71,0.0,0.14,0.0,You got the job?!,You got the job!
+full_bright_3,m3xb17,bright,T,0,keep,5.01,,-3.6,5.37,5.86,0.82,15.88,0.0,0.3,0.05,Paati's really coming?!,Party's really coming?
+full_bright_3,m3xb17,bright,T,1,spare,4.83,,1.9,4.64,5.97,1.96,6.84,0.0,0.16,0.05,Paati's really coming?!,Hatties really coming?
+full_bright_3,m3xb17,bright,T,2,keep,6.26,,-3.6,6.62,5.53,1.58,13.38,0.0,0.15,0.06,Paati's really coming?!,Party's really coming?
+full_bright_3,m3xb17,bright,T,3,spare,3.55,,14.1,2.14,4.5,1.57,10.37,0.0,0.19,0.0,Paati's really coming?!,Potties really coming?
+full_bright_3,m3xb18,bright,T,0,drop-flat,1.09,,-16.9,2.78,5.3,1.7,11.31,0.0,0.16,0.17,You bought me flowers?!,You bought me flowers.
+full_bright_3,m3xb18,bright,T,1,drop-flat,0.03,,-19.2,1.95,5.85,2.28,13.46,0.0,0.16,0.2,You bought me flowers?!,You bought me flowers?
+full_bright_3,m3xb18,bright,T,2,keep,3.85,,-4.9,4.34,6.59,0.99,9.13,0.0,0.2,0.15,You bought me flowers?!,You bought me flowers!
+full_bright_3,m3xb18,bright,T,3,keep,2.67,,5.2,2.15,7.38,0.72,8.81,0.0,0.17,0.16,You bought me flowers?!,You bought me flowers?
+full_bright_3,m3xb19,bright,T,0,spare,6.74,,46.5,2.09,3.01,0.23,4.08,0.0,0.2,0.06,We're going to Ella this weekend?!,We're going to Ella this weekend.
+full_bright_3,m3xb19,bright,T,1,spare,3.75,,20.2,1.73,6.79,0.52,4.81,0.0,0.26,0.04,We're going to Ella this weekend?!,We're going to Ella this weekend.
+full_bright_3,m3xb19,bright,T,2,keep,8.91,,43.6,4.55,5.77,-0.04,4.54,0.0,0.22,0.0,We're going to Ella this weekend?!,We're going to Ella this weekend.
+full_bright_3,m3xb19,bright,T,3,keep,7.69,,27.3,4.96,10.63,0.88,6.79,0.04,0.25,0.09,We're going to Ella this weekend?!,We're going to LF this weekend.
+full_bright_3,m3xb20,bright,T,0,drop-flat,-0.21,,-21.3,1.92,4.64,0.02,14.11,0.0,0.25,0.14,You finally passed?!,You finally passed.
+full_bright_3,m3xb20,bright,T,1,drop-flat,0.50,,-21.8,2.68,6.7,0.29,15.28,0.0,0.15,0.15,You finally passed?!,You finally passed!
+full_bright_3,m3xb20,bright,T,2,drop-flat,3.36,,-12.0,4.56,4.04,0.25,11.65,0.0,0.13,0.1,You finally passed?!,You finally passed!
+full_bright_3,m3xb20,bright,T,3,keep-check,4.73,,-18.6,6.59,8.42,1.29,11.64,0.0,0.18,0.14,You finally passed?!,You finally passed!
+full_bright_3,m3xb21,bright,T,0,drop-flat,1.08,,-17.1,2.79,2.39,2.44,9.76,0.0,0.1,0.07,That's for me?!,That's for me?
+full_bright_3,m3xb21,bright,T,1,drop-flat,2.79,,-37.5,6.54,5.64,2.13,13.61,0.04,0.16,0.08,That's for me?!,That's for me?
+full_bright_3,m3xb21,bright,T,2,keep-check,7.87,,-15.1,9.38,5.88,0.29,12.93,0.03,0.12,0.08,That's for me?!,That's for me?
+full_bright_3,m3xb21,bright,T,3,drop-flat,6.06,,-15.1,7.57,8.22,1.93,17.3,0.0,0.15,0.03,That's for me?!,That's for me?
+full_bright_3,m3xb22,bright,T,0,keep,7.38,,8.0,6.58,5.71,1.48,2.0,0.0,0.1,0.07,You made this yourself?!,You made this yourself?
+full_bright_3,m3xb22,bright,T,1,keep,5.60,,-2.6,5.86,6.06,0.24,5.21,0.0,0.19,0.1,You made this yourself?!,You made this yourself?
+full_bright_3,m3xb22,bright,T,2,drop-flat,8.05,,-13.9,9.44,2.22,0.75,3.55,0.0,0.14,0.11,You made this yourself?!,You made this yourself?
+full_bright_3,m3xb22,bright,T,3,spare,4.79,,5.2,4.27,6.27,1.0,6.93,0.0,0.34,0.07,You made this yourself?!,You made this yourself?
+full_bright_3,m3xb23,bright,T,0,drop-flat,6.31,,-11.4,7.45,4.7,0.17,1.6,0.0,0.17,0.21,They gave us free tickets?!,They gave us free tickets.
+full_bright_3,m3xb23,bright,T,1,drop-flat,-3.21,,-35.8,0.37,4.86,0.87,8.99,0.6,0.49,0.28,They gave us free tickets?!,They gave us free tickets?
+full_bright_3,m3xb23,bright,T,2,keep,2.69,,-3.6,3.05,8.88,1.54,1.19,0.0,0.23,0.22,They gave us free tickets?!,They gave us free tickets?
+full_bright_3,m3xb23,bright,T,3,drop-flat,0.13,,-33.1,3.44,4.3,0.86,5.23,0.13,0.28,0.25,They gave us free tickets?!,They gave us free tickets?
+full_bright_3,m3xb24,bright,T,0,spare,4.67,,16.9,2.98,2.97,0.24,-0.35,0.01,0.18,0.1,Sam actually cooked?!,Sam actually cooked
+full_bright_3,m3xb24,bright,T,1,keep,5.31,,22.9,3.02,3.23,0.46,0.02,0.0,0.16,0.11,Sam actually cooked?!,Sam actually cooked?
+full_bright_3,m3xb24,bright,T,2,keep,6.01,,39.8,2.03,4.41,0.9,-2.02,0.0,0.19,0.09,Sam actually cooked?!,Sam actually cooked
+full_bright_3,m3xb25,bright,T,0,drop-flat,2.07,,-11.3,3.2,-1.01,-0.31,-4.06,0.03,0.4,0.12,That was the BEST day!,That was the best day.
+full_bright_3,m3xb25,bright,T,1,drop-flat,-2.82,,-57.4,2.92,0.3,-0.71,-2.51,0.2,0.28,0.11,That was the BEST day!,That was the best day.
+full_bright_3,m3xb25,bright,T,2,keep-check,4.80,,-37.8,8.58,3.65,-0.33,-10.4,0.05,0.2,0.07,That was the BEST day!,That was the best day.
+full_bright_3,m3xb25,bright,T,3,drop-flat,2.91,,-22.3,5.14,0.15,0.48,-6.29,0.0,0.37,0.07,That was the BEST day!,That was the best day.
+full_bright_3,m3xb26,bright,T,0,keep-check,7.57,,-23.3,9.9,2.57,0.69,-7.83,0.0,0.11,0.12,I LOVE this place!,I love this place.
+full_bright_3,m3xb26,bright,T,1,drop-flat,-3.00,,-41.0,1.1,1.97,0.12,-1.51,0.0,0.32,0.23,I LOVE this place!,I love this place.
+full_bright_3,m3xb26,bright,T,2,drop-quality,2.28,hold,-45.7,6.85,3.57,1.07,-2.47,0.0,0.82,0.24,I LOVE this place!,I love this place.
+full_bright_3,m3xb26,bright,T,3,drop-quality,4.23,hold,-48.1,9.04,3.53,-0.27,-4.88,0.01,0.83,0.16,I LOVE this place!,I love this place.
+full_bright_3,m3xb27,bright,T,0,keep,5.91,,11.7,4.74,-0.25,2.5,-3.81,0.0,0.33,0.0,You were AMAZING today!,You were amazing today.
+full_bright_3,m3xb27,bright,T,1,keep,4.48,,-8.6,5.34,1.99,1.73,1.25,0.0,0.18,0.0,You were AMAZING today!,You were amazing today.
+full_bright_3,m3xb27,bright,T,2,drop-flat,6.22,,-14.7,7.69,2.66,0.71,2.13,0.0,0.22,0.0,You were AMAZING today!,You were amazing today.
+full_bright_3,m3xb27,bright,T,3,drop-flat,6.34,,-24.7,8.81,1.56,1.21,4.26,0.02,0.44,0.0,You were AMAZING today!,You were amazing today.
+full_bright_4,m3xb28,bright,T,0,keep,4.86,,8.0,4.06,4.95,-0.85,-2.9,0.03,0.21,0.04,It's FINALLY Friday!,It's finally Friday.
+full_bright_4,m3xb28,bright,T,1,drop-flat,8.65,,-20.3,10.68,6.1,1.29,-8.45,0.07,0.25,0.08,It's FINALLY Friday!,It's finally Friday!
+full_bright_4,m3xb28,bright,T,2,keep,6.67,,-0.3,6.7,0.53,1.16,-2.33,0.01,0.2,0.02,It's FINALLY Friday!,It's finally Friday.
+full_bright_4,m3xb28,bright,T,3,drop-flat,3.43,,-14.1,4.84,1.27,1.34,-2.17,0.18,0.35,0.15,It's FINALLY Friday!,It's finally Friday.
+full_bright_4,m3xb29,bright,T,2,keep-check,3.70,,-20.8,5.78,-0.97,0.19,-0.91,0.0,0.22,0.01,This is SO good!,This is so good.
+full_bright_4,m3xb30,bright,T,0,keep,6.75,,21.9,4.56,3.63,0.11,-2.74,0.03,0.25,0.04,We did it TOGETHER!,We did it together.
+full_bright_4,m3xb30,bright,T,1,drop-flat,4.33,,-15.1,5.84,0.29,0.26,-4.54,0.1,0.17,0.06,We did it TOGETHER!,We did it together.
+full_bright_4,m3xb30,bright,T,2,drop-flat,4.62,,-12.0,5.82,3.16,1.07,-3.49,0.05,0.17,0.08,We did it TOGETHER!,We did it together.
+full_bright_4,m3xb30,bright,T,3,keep,2.10,,20.8,0.02,-1.8,0.59,0.46,0.02,0.13,0.02,We did it TOGETHER!,We did it together.
+full_bright_4,m3xb31,bright,T,0,drop-flat,2.09,,-18.6,3.95,0.49,0.37,-3.17,0.0,0.28,0.0,Look how BIG he's grown!,Look how big he's grown.
+full_bright_4,m3xb31,bright,T,1,drop-flat,0.62,,-18.0,2.42,3.91,1.63,-2.4,0.0,0.16,0.0,Look how BIG he's grown!,Look how big he's grown!
+full_bright_4,m3xb31,bright,T,2,keep,3.87,,-7.2,4.59,2.42,1.92,-1.58,0.0,0.13,0.0,Look how BIG he's grown!,Look how big he's grown!
+full_bright_4,m3xb31,bright,T,3,drop-flat,5.06,,-19.7,7.03,0.77,1.89,-0.97,0.02,0.42,0.0,Look how BIG he's grown!,Look how big he's grown!
+full_bright_4,m3xb32,bright,T,0,drop-flat,-0.22,,-24.1,2.19,-1.32,0.27,-1.08,0.0,0.16,0.09,I can't WAIT!,I can't wait.
+full_bright_4,m3xb32,bright,T,1,keep-check,0.23,,-27.2,2.95,1.14,-0.17,-6.02,0.01,0.13,0.06,I can't WAIT!,I can't wait.
+full_bright_4,m3xb32,bright,T,2,drop-flat,-4.35,,-28.0,-1.55,4.44,1.32,-0.74,0.0,0.09,0.05,I can't WAIT!,I can't wait.
+full_bright_4,m3xb32,bright,T,3,drop-flat,0.17,,-55.4,5.71,5.16,0.99,8.1,0.71,0.16,0.04,I can't WAIT!,I can't... Wait...
+full_bright_4,m3xb33,bright,T,0,spare,5.36,,13.9,3.97,1.23,1.39,-0.18,0.01,0.22,0.11,That's EXACTLY what I wanted!,That's exactly what I wanted.
+full_bright_4,m3xb33,bright,T,1,keep,7.14,,8.6,6.28,2.25,1.1,-2.43,0.02,0.35,0.08,That's EXACTLY what I wanted!,That's exactly what I wanted.
+full_bright_4,m3xb33,bright,T,2,keep,9.46,,17.4,7.72,-0.27,0.95,-5.65,0.04,0.23,0.07,That's EXACTLY what I wanted!,That's exactly what I wanted.
+full_bright_4,m3xb33,bright,T,3,drop-flat,6.14,,-10.7,7.21,7.33,4.35,-5.37,0.06,0.18,0.07,That's EXACTLY what I wanted!,That's exactly what I wanted.
+full_bright_4,m3xb34,bright,T,0,drop-flat,1.58,,-19.0,3.48,3.57,0.7,2.74,0.0,0.3,0.0,We're moving!,We're moving.
+full_bright_4,m3xb34,bright,T,1,drop-flat,1.84,,-24.9,4.33,3.16,0.39,7.11,0.0,0.28,0.0,We're moving!,We're moving.
+full_bright_4,m3xb34,bright,T,2,keep,5.25,,-6.2,5.87,1.53,0.78,1.23,0.0,0.24,0.0,We're moving!,We're moving.
+full_bright_4,m3xb34,bright,T,3,drop-flat,0.73,,-19.0,2.63,3.38,2.75,3.24,0.0,0.24,0.0,We're moving!,We're moving.
+full_bright_4,m3xb35,bright,T,0,drop-flat,1.92,,-44.1,6.33,3.48,0.13,0.33,0.02,0.27,0.0,It's done!,It's done.
+full_bright_4,m3xb35,bright,T,3,keep-check,1.96,,-39.1,5.87,8.72,-0.11,-0.85,0.01,0.26,0.12,It's done!,It's done!
+full_bright_4,m3xb36,bright,T,0,drop-flat,2.76,,-41.3,6.89,7.41,1.1,6.9,0.03,0.12,0.0,You're back!,You're back!
+full_bright_4,m3xb36,bright,T,1,keep-check,3.69,,-45.4,8.23,9.48,1.46,2.39,0.0,0.1,0.0,You're back!,You're back!
+full_bright_4,m3xb36,bright,T,2,drop-flat,-1.64,,-48.9,3.25,3.31,-0.21,4.39,0.02,0.21,0.0,You're back!,You're back.
+full_bright_4,m3xb36,bright,T,3,drop-flat,0.26,,-59.4,6.2,14.66,0.38,-11.97,0.0,0.72,0.0,You're back!,You're back!
+full_bright_4,m3xb37,bright,T,0,keep,4.02,,6.4,3.38,0.64,0.6,1.95,0.0,0.24,0.08,"See you tomorrow, then!","See you tomorrow, then."
+full_bright_4,m3xb37,bright,T,1,keep,2.48,,-9.2,3.4,0.36,0.15,1.46,0.13,0.22,0.09,"See you tomorrow, then!","See you tomorrow, then."
+full_bright_4,m3xb37,bright,T,2,drop-quality,0.97,hold,-24.9,3.46,2.79,-0.37,3.89,0.0,0.83,0.14,"See you tomorrow, then!","See you tomorrow, then."
+full_bright_4,m3xb37,bright,T,3,drop-flat,1.72,,-14.6,3.18,-0.74,0.96,6.33,0.29,0.19,0.1,"See you tomorrow, then!",See you tomorrow. Then.
+full_bright_4,m3xb38,bright,T,0,drop-flat,0.87,,-29.1,3.78,1.85,0.54,-2.02,0.0,0.18,0.1,No more classes!,No more classes.
+full_bright_4,m3xb38,bright,T,1,drop-flat,-0.50,,-31.6,2.66,1.82,-0.5,-0.96,0.0,0.3,0.18,No more classes!,No more classes.
+full_bright_4,m3xb38,bright,T,2,drop-flat,2.58,,-17.3,4.31,3.53,1.13,-1.85,0.0,0.44,0.14,No more classes!,No more classes.
+full_bright_4,m3xb38,bright,T,3,keep-check,3.72,,-11.2,4.84,3.01,1.78,0.11,0.0,0.13,0.12,No more classes!,No more classes.
+full_bright_4,m3xb39,bright,T,0,keep-check,6.28,,-24.9,8.77,3.03,0.46,-0.97,0.48,0.26,0.0,Wait… you're here!,"Wait, you're here."
+full_bright_4,m3xb39,bright,T,1,drop-flat,4.52,,-45.6,9.08,6.7,2.43,11.86,0.51,0.1,0.04,Wait… you're here!,Wait! You're here!
+full_bright_4,m3xb39,bright,T,2,drop-flat,1.69,,-28.7,4.56,3.18,1.58,9.54,0.34,0.13,0.0,Wait… you're here!,Wait! You're here!
+full_bright_4,m3xb39,bright,T,3,drop-flat,1.93,,-41.1,6.04,5.52,1.22,7.45,0.35,0.1,0.01,Wait… you're here!,Wait! You're here!
+full_bright_4,m3xb40,bright,T,0,spare,4.28,,12.1,3.07,4.8,2.29,7.33,0.7,0.18,0.0,Is that… a puppy?!,Is that... a puppy?
+full_bright_4,m3xb40,bright,T,1,keep,6.76,,13.2,5.44,8.62,2.74,8.75,0.68,0.37,0.02,Is that… a puppy?!,Is that... a puppy?
+full_bright_4,m3xb40,bright,T,2,keep,5.62,,20.0,3.62,7.69,1.47,7.63,0.2,0.14,0.0,Is that… a puppy?!,Is that... a puppy?
+full_bright_4,m3xb40,bright,T,3,spare,2.55,,-3.4,2.89,7.58,1.13,7.09,0.38,0.18,0.0,Is that… a puppy?!,Is that... a puppy?
+full_bright_4,m3xb41,bright,T,0,drop-flat,7.51,,-20.2,9.53,8.57,2.96,4.85,0.35,0.17,0.0,Oh… you remembered!,"Oh, you remembered."
+full_bright_4,m3xb41,bright,T,1,keep,8.44,,-1.0,8.54,7.99,2.44,2.76,0.65,0.13,0.0,Oh… you remembered!,Oh! You remembered!
+full_bright_4,m3xb41,bright,T,2,drop-flat,0.75,,-30.1,3.76,8.13,2.13,7.07,0.01,0.23,0.0,Oh… you remembered!,"Oh, you remembered."
+full_bright_4,m3xb41,bright,T,3,drop-flat,2.76,,-25.3,5.29,6.92,3.76,7.57,0.4,0.18,0.0,Oh… you remembered!,"Oh, you remembered."
+full_bright_4,m3xb42,bright,T,0,keep-check,2.60,,-22.8,4.88,1.71,1.8,-1.67,0.47,0.22,0.06,And now… the best part!,"And now, the best part."
+full_bright_4,m3xb42,bright,T,1,drop-flat,-2.70,,-57.1,3.01,2.65,-0.38,3.43,0.62,0.65,0.03,And now… the best part!,"And now, the best part."
+full_bright_4,m3xb42,bright,T,2,drop-flat,-1.63,,-26.2,0.99,0.97,-0.43,3.56,0.54,0.23,0.0,And now… the best part!,"And now, the best part."
+full_bright_4,m3xb42,bright,T,3,drop-flat,2.37,,-18.6,4.23,1.4,-0.12,9.42,0.33,0.4,0.01,And now… the best part!,"And now, the best part."
+full_bright_4,m3xb43,bright,T,0,keep-check,6.07,,-26.3,8.7,2.38,2.18,-5.43,0.56,0.15,0.16,Ready… set… go!,"Ready, set, go."
+full_bright_4,m3xb43,bright,T,1,drop-flat,0.03,,-32.1,3.24,1.7,0.76,3.12,0.36,0.32,0.12,Ready… set… go!,"Ready, set, go."
+full_bright_4,m3xb43,bright,T,2,drop-flat,1.56,,-45.0,6.06,1.1,2.29,-5.95,0.33,0.12,0.09,Ready… set… go!,"Ready, set, go."
+full_bright_4,m3xb43,bright,T,3,drop-flat,4.26,,-38.3,8.09,3.04,1.91,-5.02,0.94,0.33,0.16,Ready… set… go!,"Ready, set, go!"
+full_bright_4,m3xb44,bright,T,0,drop-flat,5.03,,-21.3,7.16,8.4,2.51,4.98,0.35,0.15,0.0,Look who's back… Arun!,Look who's back! Arun!
+full_bright_4,m3xb44,bright,T,1,drop-flat,2.54,,-31.3,5.67,6.31,2.57,2.5,0.36,0.28,0.0,Look who's back… Arun!,Look who's back! A room!
+full_bright_4,m3xb44,bright,T,2,drop-flat,3.33,,-25.3,5.86,3.5,1.82,5.21,0.43,0.22,0.0,Look who's back… Arun!,Look who's back! A room!
+full_bright_4,m3xb44,bright,T,3,keep-check,5.74,,-21.8,7.92,6.2,2.14,10.43,0.53,0.18,0.0,Look who's back… Arun!,Look who's back! Arun!
+full_bright_4,m3xb45,bright,T,0,drop-flat,-2.32,,-38.4,1.52,6.64,2.58,-1.39,0.67,0.51,0.09,Guess where we're going… Ella!,Guess where we're going.
+full_bright_4,m3xb45,bright,T,1,keep,5.97,,14.0,4.57,-0.7,0.66,-5.91,0.67,0.18,0.09,Guess where we're going… Ella!,Guess where we're going. Ella.
+full_bright_4,m3xb45,bright,T,2,keep,8.20,,18.8,6.32,0.91,0.19,-3.18,0.69,0.18,0.0,Guess where we're going… Ella!,Guess where we're going? Ella?
+full_bright_4,m3xb45,bright,T,3,spare,3.31,,-0.4,3.35,-0.76,0.37,-0.7,0.69,0.21,0.13,Guess where we're going… Ella!,Guess where we're going. Ella.
+full_bright_4,m3xb46,bright,T,0,drop-flat,-3.50,,-47.7,1.27,1.0,1.03,-2.47,0.69,0.49,0.05,Three… two… one… happy new year!,"Three, two, one. Happy New Year."
+full_bright_4,m3xb46,bright,T,1,drop-quality,-5.61,hold,-67.8,1.17,3.81,-0.78,6.62,0.9,0.9,0.04,Three… two… one… happy new year!,"Three, two, one. Happy New Year."
+full_bright_4,m3xb46,bright,T,2,keep-check,-3.32,,-39.3,0.61,3.3,0.43,-0.8,0.01,0.26,0.07,Three… two… one… happy new year!,"Three, two, one. Happy New Year."
+full_bright_4,m3xb46,bright,T,3,drop-quality,-6.89,hold,-61.9,-0.7,1.14,-0.27,4.81,0.45,0.92,0.04,Three… two… one… happy new year!,"Three, two, one. Happy New Year."
+full_bright_4,m3xb47,bright,T,0,keep-check,2.24,,-55.7,7.81,9.65,2.08,-6.71,0.43,0.3,0.2,It's… perfect!,It's perfect!
+full_bright_4,m3xb47,bright,T,1,drop-flat,-4.41,,-36.9,-0.72,2.83,2.0,7.43,0.28,0.15,0.21,It's… perfect!,It's perfect.
+full_bright_4,m3xb47,bright,T,2,drop-flat,0.87,,-34.0,4.27,9.39,2.04,-1.88,0.78,0.18,0.19,It's… perfect!,It's perfect.
+full_bright_4,m3xb47,bright,T,3,drop-flat,1.43,,-30.8,4.51,9.8,2.59,4.32,0.29,0.15,0.16,It's… perfect!,It's perfect!
+full_bright_4,m3xb48,bright,T,0,drop-flat,1.81,,-20.2,3.83,2.7,1.69,1.93,0.43,0.17,0.21,You did… all of this?!,You did all of this?
+full_bright_4,m3xb48,bright,T,1,drop-flat,3.27,,-20.2,5.29,7.46,1.84,7.21,0.23,0.13,0.25,You did… all of this?!,You did all of this?
+full_bright_4,m3xb48,bright,T,2,drop-flat,0.64,,-34.3,4.07,3.4,2.73,1.86,0.04,0.12,0.24,You did… all of this?!,You did all of this?
+full_bright_4,m3xb48,bright,T,3,keep-check,5.69,,-10.7,6.76,8.86,2.8,3.09,0.47,0.11,0.22,You did… all of this?!,You did? All of this?
+full_bright_4,m3xb49,bright,T,0,drop-flat,2.65,,-26.9,5.34,6.31,3.8,-1.55,0.34,0.31,0.0,Look — a rainbow!,Look! A rainbow!
+full_bright_4,m3xb49,bright,T,1,drop-flat,3.67,,-33.5,7.02,6.82,3.6,1.77,0.38,0.27,0.0,Look — a rainbow!,Look! A rainbow!
+full_bright_4,m3xb49,bright,T,2,drop-flat,0.20,,-28.5,3.05,2.96,1.77,4.72,0.44,0.18,0.0,Look — a rainbow!,Look! A rainbow!
+full_bright_4,m3xb49,bright,T,3,keep-check,4.38,,-34.0,7.78,5.61,2.66,0.81,0.56,0.2,0.0,Look — a rainbow!,Look! A rainbow!
+full_bright_4,m4g11b,bright,T,0,keep,7.89,,17.7,6.12,0.15,0.42,-4.92,0.0,0.23,0.03,He called me last night!,He called me last night.
+full_bright_4,m4g11b,bright,T,1,keep,9.21,,25.1,6.7,-1.06,1.48,-2.82,0.0,0.23,0.02,He called me last night!,He called me last night.
+full_bright_4,m4g11b,bright,T,2,spare,1.85,,7.1,1.14,-0.52,0.97,-0.49,0.0,0.25,0.04,He called me last night!,He called me last night.
+full_bright_4,m4g11b,bright,T,3,spare,3.03,,9.0,2.13,-0.41,1.05,-2.3,0.0,0.18,0.05,He called me last night!,He called me last night.
+full_bright_4,m4g12b,bright,T,1,drop-flat,-1.86,,-28.5,0.99,1.56,-0.09,1.1,0.0,0.22,0.0,They changed the plan!,They changed the plan.
+full_bright_4,m4g12b,bright,T,2,drop-flat,1.56,,-10.3,2.59,5.26,2.2,2.1,0.0,0.17,0.03,They changed the plan!,They changed the plan.
+full_bright_4,m4g12b,bright,T,3,keep-check,2.54,,-11.2,3.66,-0.81,0.34,-7.43,0.0,0.17,0.0,They changed the plan!,They changed the plan.
+full_bright_4,m4g13b,bright,T,0,keep,2.14,,-6.4,2.78,3.02,0.53,1.17,0.0,0.16,0.22,We got the results!,We got the results.
+full_bright_4,m4g13b,bright,T,1,spare,0.53,,-1.0,0.63,2.63,0.4,3.95,0.0,0.12,0.21,We got the results!,We got the results!
+full_bright_4,m4g13b,bright,T,2,drop-flat,-0.75,,-26.2,1.87,1.11,-0.03,1.04,0.05,0.2,0.23,We got the results!,We got the results!
+full_bright_4,m4g13b,bright,T,3,keep,2.05,,-6.4,2.69,0.46,0.1,1.6,0.0,0.19,0.19,We got the results!,We got the results!
+full_bright_4,m4g14b,bright,T,0,spare,10.02,,37.5,6.27,5.53,1.08,6.76,0.0,0.21,0.11,I saw him at the market!,I saw him at the market.
+full_bright_4,m4g14b,bright,T,1,keep,10.56,,52.6,5.3,6.81,1.58,3.93,0.02,0.12,0.08,I saw him at the market!,I saw him at the market.
+full_bright_4,m4g14b,bright,T,2,spare,4.06,,27.0,1.36,6.38,1.6,5.65,0.0,0.1,0.1,I saw him at the market!,I saw him at the market.
+full_bright_4,m4g14b,bright,T,3,keep,10.16,,39.8,6.18,6.12,2.02,2.28,0.0,0.11,0.1,I saw him at the market!,I saw him at the market.
+full_bright_4,m4g15b,bright,T,0,keep,8.78,,15.5,7.23,5.2,1.58,2.7,0.0,0.3,0.08,The letter came this morning!,The letter came this morning.
+full_bright_4,m4g15b,bright,T,1,keep,6.83,,9.5,5.88,6.14,0.96,-2.06,0.0,0.25,0.01,The letter came this morning!,The letter came this morning.
+full_bright_4,m4g15b,bright,T,3,spare,2.03,,19.7,0.06,2.35,1.62,4.56,0.11,0.11,0.07,The letter came this morning!,The letter came this morning.
+full_bright_4,m4g16b,bright,T,0,spare,3.89,,-6.8,4.57,2.71,2.14,2.5,0.01,0.14,0.05,She told me everything!,She told me everything.
+full_bright_4,m4g16b,bright,T,1,spare,0.77,,11.4,-0.37,4.94,1.06,4.95,0.0,0.42,0.07,She told me everything!,She told me everything.
+full_bright_4,m4g16b,bright,T,2,keep,6.50,,24.0,4.1,4.11,2.38,-0.75,0.0,0.19,0.07,She told me everything!,She told me everything.
+full_bright_4,m4g16b,bright,T,3,keep,6.49,,0.4,6.45,2.75,0.53,-1.96,0.0,0.16,0.02,She told me everything!,She told me everything.
+full_bright_4,m4g17b,bright,T,0,keep,7.13,,-4.9,7.62,9.23,2.82,7.05,0.0,0.2,0.08,He finally answered!,He finally answered.
+full_bright_4,m4g17b,bright,T,1,keep,5.47,,4.9,4.98,6.54,2.33,8.42,0.0,0.21,0.07,He finally answered!,He finally answered.
+full_bright_4,m4g17b,bright,T,2,spare,4.12,,6.4,3.48,4.08,1.65,13.26,0.0,0.3,0.09,He finally answered!,He finally answered.
+full_bright_4,m4g17b,bright,T,3,spare,3.67,,8.9,2.78,3.98,0.59,12.78,0.0,0.17,0.07,He finally answered!,He finally answered.
+full_bright_4,m4g18b,bright,T,0,keep,8.48,,38.8,4.6,-0.88,0.1,-5.35,0.0,0.34,0.02,My brother is getting married!,My brother is getting married.
+full_bright_4,m4g18b,bright,T,2,spare,6.29,,21.9,4.1,-1.67,-0.05,-7.58,0.1,0.32,0.02,My brother is getting married!,My brother is getting married.
+full_bright_4,m4g18b,bright,T,3,keep,7.29,,21.1,5.18,0.46,0.85,-6.24,0.09,0.23,0.0,My brother is getting married!,My brother is getting married.
+full_bright_4,m4g19b,bright,T,0,keep,9.71,,20.6,7.65,2.62,0.78,9.65,0.0,0.2,0.02,I'm going home tomorrow!,I'm going home tomorrow.
+full_bright_4,m4g19b,bright,T,1,keep,11.58,,19.7,9.61,3.15,0.41,5.55,0.0,0.31,0.0,I'm going home tomorrow!,I'm going home tomorrow.
+full_bright_4,m4g19b,bright,T,2,spare,8.94,,27.0,6.24,-0.15,1.3,3.48,0.0,0.1,0.02,I'm going home tomorrow!,I'm going home tomorrow.
+full_bright_4,m4g19b,bright,T,3,spare,7.39,,18.0,5.59,1.99,2.08,6.48,0.0,0.15,0.0,I'm going home tomorrow!,I'm going home tomorrow.
+full_bright_4,m4g20b,bright,T,0,spare,-1.01,,1.9,-1.2,0.91,-0.45,6.84,0.0,0.41,0.02,That was my last exam!,That was my last exam.
+full_bright_4,m4g20b,bright,T,1,spare,0.39,,-9.7,1.36,-0.27,0.34,-2.63,0.0,0.22,0.06,That was my last exam!,That was my last exam.
+full_bright_4,m4g20b,bright,T,2,keep,7.59,,11.4,6.45,-0.76,-0.51,-3.77,0.0,0.39,0.0,That was my last exam!,That was my last exam.
+full_bright_4,m4g20b,bright,T,3,keep,0.94,,-3.6,1.3,1.12,0.98,2.29,0.0,0.24,0.06,That was my last exam!,That was my last exam.

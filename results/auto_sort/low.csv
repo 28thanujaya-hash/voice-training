@@ -92,7 +92,7 @@ full_low_1,m3l29,low,T,0,keep,3.96,,4.7,-2.56,-0.33,-0.22,6.25,0.66,0.63,0.18,I 
 full_low_1,m3l29,low,T,1,spare,3.36,,4.4,-1.08,0.93,0.55,9.06,0.57,0.31,0.18,I miss Paati's voice. She used to sing in the kitchen.,I miss Cardi's voice. She used to sing in the kitchen.
 full_low_1,m3l29,low,T,2,drop-quality,4.87,hiss,-1.9,-3.54,-0.79,-0.68,3.81,0.95,0.49,0.36,I miss Paati's voice. She used to sing in the kitchen.,I miss Potty's voice. She used to sing in the kitchen.
 full_low_1,m3l29,low,T,3,keep,4.61,,-0.3,-3.25,-0.12,0.01,4.44,0.82,0.36,0.27,I miss Paati's voice. She used to sing in the kitchen.,I miss Potty's voice. She used to sing in the kitchen.
-full_low_1,m3l30,low,T,0,drop-flat,-6.43,,25.1,3.28,-1.54,-0.01,-2.13,0.61,0.35,0.1,Maybe I should have stayed in Jaffna… near my family.,Maybe I should have stayed in Jaffna near my family.
+full_low_1,m3l30,low,T,0,spare,-6.43,,25.1,3.28,-1.54,-0.01,-2.13,0.61,0.35,0.1,Maybe I should have stayed in Jaffna… near my family.,Maybe I should have stayed in Jaffna near my family.
 full_low_1,m3l30,low,T,1,spare,-2.44,,41.0,-1.55,-1.51,-0.69,0.37,0.35,0.38,0.11,Maybe I should have stayed in Jaffna… near my family.,"Maybe I should have stayed in Jaffna, near my family."
 full_low_1,m3l30,low,T,2,keep,1.75,,31.5,-2.98,-1.49,-0.42,6.4,0.22,0.44,0.1,Maybe I should have stayed in Jaffna… near my family.,Maybe I should have stayed in Jaffa near my family.
 full_low_1,m3l30,low,T,3,keep,-2.01,,21.9,0.02,-1.09,0.8,0.68,0.33,0.3,0.12,Maybe I should have stayed in Jaffna… near my family.,"Maybe I should have stayed in Jaffna, near my family."
@@ -128,12 +128,12 @@ full_low_1,m3l38,low,T,2,keep,2.76,,-16.6,0.97,0.43,0.51,6.9,0.76,0.34,0.0,Oh no
 full_low_1,m3l38,low,T,3,keep,1.84,,-15.6,1.51,0.3,0.48,5.98,0.1,0.28,0.0,Oh no. Are you okay?,"Oh no, are you okay?"
 full_low_1,m3l39,low,T,0,keep,3.41,,5.0,-0.53,1.17,-0.05,11.28,0.7,0.33,0.11,I understand… it's not easy.,I understand. It's not easy.
 full_low_1,m3l39,low,T,1,spare,-1.02,,12.5,0.74,0.75,0.83,3.23,0.24,0.22,0.06,I understand… it's not easy.,I understand. It's not easy.
-full_low_1,m3l39,low,T,2,keep,4.95,,5.6,-3.18,3.84,1.07,7.78,0.47,0.31,0.11,I understand… it's not easy.,I understand. It's not easy.
-full_low_1,m3l39,low,T,3,spare,-0.99,,9.3,0.08,-1.14,0.4,0.07,0.48,0.29,0.07,I understand… it's not easy.,I understand. It's not easy.
-full_low_1,m3l40,low,T,0,keep,11.55,,-53.5,-4.12,-0.77,-0.59,6.95,0.9,0.71,0.23,Hmm… that's sad. I'm sorry it happened.,That's sad. I'm sorry it happened.
+full_low_1,m3l39,low,T,2,drop-flat,4.95,,5.6,-3.18,3.84,1.07,7.78,0.47,0.31,0.11,I understand… it's not easy.,I understand. It's not easy.
+full_low_1,m3l39,low,T,3,keep,-0.99,,9.3,0.08,-1.14,0.4,0.07,0.48,0.29,0.07,I understand… it's not easy.,I understand. It's not easy.
+full_low_1,m3l40,low,T,0,drop-flat,11.55,,-53.5,-4.12,-0.77,-0.59,6.95,0.9,0.71,0.23,Hmm… that's sad. I'm sorry it happened.,That's sad. I'm sorry it happened.
 full_low_1,m3l40,low,T,1,keep,10.88,,-44.7,-3.56,-0.95,-0.94,9.5,0.75,0.38,0.17,Hmm… that's sad. I'm sorry it happened.,That's sad. I'm sorry it happened.
 full_low_1,m3l40,low,T,2,spare,6.77,,-26.6,-2.43,0.82,0.25,5.61,0.97,0.48,0.18,Hmm… that's sad. I'm sorry it happened.,That's sad. I'm sorry it happened.
-full_low_1,m3l40,low,T,3,spare,8.30,,-43.9,-3.44,-1.61,-1.05,1.57,1.33,0.36,0.17,Hmm… that's sad. I'm sorry it happened.,That's sad. I'm sorry it happened.
+full_low_1,m3l40,low,T,3,keep,8.30,,-43.9,-3.44,-1.61,-1.05,1.57,1.33,0.36,0.17,Hmm… that's sad. I'm sorry it happened.,That's sad. I'm sorry it happened.
 full_low_1,m3l41,low,T,0,keep,1.60,,-24.2,-0.25,-1.15,-0.71,-3.55,0.88,0.6,0.02,Take all the time you need. I'm here.,Take all the time you need. I'm here.
 full_low_1,m3l41,low,T,1,drop-quality,5.55,gap,0.6,-3.31,0.14,-0.14,7.68,1.03,0.38,0.01,Take all the time you need. I'm here.,Take all the time you need. I'm here.
 full_low_1,m3l41,low,T,2,keep,3.90,,-6.3,-2.33,-0.69,0.02,3.13,0.85,0.53,0.03,Take all the time you need. I'm here.,Take all the time you need. I'm here.
@@ -197,7 +197,7 @@ full_low_2,m3l61,low,T,3,drop-quality,2.70,gap,8.5,-3.15,-0.97,-0.09,1.33,1.06,0
 full_low_2,m3l62,low,T,0,drop-quality,0.96,hold,29.8,-4.08,-1.32,-1.25,-0.46,1.16,1.02,0.12,I know I made a mistake… and I feel terrible about it.,I know I made a mistake. And I feel terrible about it.
 full_low_2,m3l62,low,T,2,keep,-3.35,,46.3,-1.38,-0.47,-0.49,-0.33,0.97,0.59,0.09,I know I made a mistake… and I feel terrible about it.,I know I made a mistake. And I feel terrible about it.
 full_low_2,m3l62,low,T,3,keep,-0.53,,41.4,-2.87,-0.87,-0.91,2.46,0.99,0.51,0.15,I know I made a mistake… and I feel terrible about it.,I know I made a mistake and I feel terrible about it.
-full_low_2,m3l63,low,T,0,drop-flat,-3.11,,21.9,2.07,0.9,-0.3,3.84,0.83,0.34,0.0,Maybe you're right. I don't really know anymore.,Maybe you're right. I don't really know anymore.
+full_low_2,m3l63,low,T,0,spare,-3.11,,21.9,2.07,0.9,-0.3,3.84,0.83,0.34,0.0,Maybe you're right. I don't really know anymore.,Maybe you're right. I don't really know anymore.
 full_low_2,m3l63,low,T,1,drop-quality,-4.90,hold gap,47.0,0.72,-1.14,0.09,1.72,1.31,0.82,0.0,Maybe you're right. I don't really know anymore.,Maybe you're right. I don't really know anymore.
 full_low_2,m3l63,low,T,2,keep,-2.27,,41.9,-0.49,1.52,0.5,4.77,0.64,0.31,0.0,Maybe you're right. I don't really know anymore.,Maybe you're right. I don't really know anymore.
 full_low_2,m3l63,low,T,3,keep,-1.25,,28.5,-0.34,-0.67,0.17,4.21,0.53,0.33,0.0,Maybe you're right. I don't really know anymore.,Maybe you're right. I don't really know anymore.
@@ -248,17 +248,17 @@ full_low_2,m3l75,low,T,0,spare,1.72,,-16.6,-0.87,-0.8,0.47,-2.7,0.13,0.49,0.17,"
 full_low_2,m3l75,low,T,1,keep,3.43,,-8.9,-2.64,-1.6,-0.04,-0.33,0.25,0.27,0.1,"The thick, grey clouds stayed there the whole weekend.","The thick, grey clouds stayed there the whole weekend."
 full_low_2,m3l75,low,T,2,keep,2.96,,-9.6,-1.95,0.37,-1.04,0.18,0.04,0.31,0.11,"The thick, grey clouds stayed there the whole weekend.",The thick gray clouds stayed there the whole weekend.
 full_low_2,m3l75,low,T,3,spare,1.58,,-2.2,-1.8,-1.21,-0.5,-1.45,0.43,0.37,0.09,"The thick, grey clouds stayed there the whole weekend.","The thick, grey clouds stayed there the whole weekend."
-full_low_2,m3xl01,low,T,0,spare,0.44,,7.2,-0.57,2.55,-0.47,1.98,0.0,0.25,0.03,Do you think she's okay?,Do you think she's okay?
-full_low_2,m3xl01,low,T,1,spare,1.29,,22.9,-2.64,3.84,0.49,3.13,0.0,0.21,0.04,Do you think she's okay?,Do you think she's okay?
-full_low_2,m3xl01,low,T,2,keep,6.31,,4.9,-1.83,3.58,0.56,16.58,0.0,0.23,0.04,Do you think she's okay?,Do you think she's okay?
+full_low_2,m3xl01,low,T,0,drop-flat,0.44,,7.2,-0.57,2.55,-0.47,1.98,0.0,0.25,0.03,Do you think she's okay?,Do you think she's okay?
+full_low_2,m3xl01,low,T,1,drop-flat,1.29,,22.9,-2.64,3.84,0.49,3.13,0.0,0.21,0.04,Do you think she's okay?,Do you think she's okay?
+full_low_2,m3xl01,low,T,2,drop-flat,6.31,,4.9,-1.83,3.58,0.56,16.58,0.0,0.23,0.04,Do you think she's okay?,Do you think she's okay?
 full_low_2,m3xl01,low,T,3,keep,1.34,,24.0,-0.99,1.48,-0.02,9.18,0.0,0.11,0.02,Do you think she's okay?,Do you think she's okay?
 full_low_2,m3xl02,low,T,0,keep,2.31,,25.1,-0.65,1.55,0.46,13.9,0.0,0.19,0.13,Why didn't you tell me sooner?,Why didn't you tell me sooner?
-full_low_2,m3xl02,low,T,1,drop-flat,-1.19,,35.8,1.01,1.12,1.66,11.32,0.0,0.15,0.12,Why didn't you tell me sooner?,Why didn't you tell me sooner?
+full_low_2,m3xl02,low,T,1,spare,-1.19,,35.8,1.01,1.12,1.66,11.32,0.0,0.15,0.12,Why didn't you tell me sooner?,Why didn't you tell me sooner?
 full_low_2,m3xl02,low,T,2,spare,-0.26,,47.4,-1.36,0.82,0.72,10.41,0.0,0.19,0.09,Why didn't you tell me sooner?,Why didn't you tell me sooner?
 full_low_2,m3xl02,low,T,3,keep,2.08,,16.6,-0.35,1.76,1.49,11.3,0.0,0.13,0.14,Why didn't you tell me sooner?,Why didn't you tell me sooner?
 full_low_2,m3xl03,low,T,0,keep,10.98,,-5.9,-7.41,1.14,1.92,9.92,0.0,0.16,0.08,Is it my fault?,Is it my fault?
-full_low_2,m3xl03,low,T,1,keep,4.85,,0.1,-3.94,5.26,-0.42,3.06,0.0,0.25,0.03,Is it my fault?,Is it my fault?
-full_low_2,m3xl03,low,T,3,spare,3.36,,13.2,-3.72,1.94,-1.0,3.2,0.0,0.24,0.0,Is it my fault?,Is it my fault?
+full_low_2,m3xl03,low,T,1,drop-flat,4.85,,0.1,-3.94,5.26,-0.42,3.06,0.0,0.25,0.03,Is it my fault?,Is it my fault?
+full_low_2,m3xl03,low,T,3,keep,3.36,,13.2,-3.72,1.94,-1.0,3.2,0.0,0.24,0.0,Is it my fault?,Is it my fault?
 full_low_2,m3xl04,low,T,0,keep,0.65,,21.9,-1.98,0.48,-0.54,2.85,0.16,0.37,0.0,Will you call me when you get there?,Will you call me when you get there?
 full_low_2,m3xl04,low,T,1,spare,-1.98,,36.8,-0.07,2.13,-0.99,5.43,0.0,0.3,0.0,Will you call me when you get there?,Will you call me when you get there?
 full_low_2,m3xl04,low,T,2,spare,-3.27,,44.0,0.94,2.27,-0.05,6.91,0.0,0.21,0.0,Will you call me when you get there?,Will you call me when you get there?
@@ -267,25 +267,25 @@ full_low_2,m3xl05,low,T,0,keep,4.62,,-6.3,-1.07,-0.01,-0.43,9.74,0.0,0.38,0.11,C
 full_low_2,m3xl05,low,T,1,spare,2.13,,15.2,-1.06,1.52,-0.84,8.64,0.1,0.36,0.13,Can we talk tomorrow instead?,Can we talk tomorrow instead?
 full_low_2,m3xl05,low,T,2,keep,7.60,,-35.5,-2.79,-0.49,-0.11,4.19,0.2,0.65,0.12,Can we talk tomorrow instead?,Can we talk tomorrow instead?
 full_low_2,m3xl05,low,T,3,spare,1.77,,13.9,-1.01,2.17,-0.91,7.16,0.0,0.29,0.1,Can we talk tomorrow instead?,Can we talk tomorrow instead?
-full_low_2,m3xl06,low,T,0,spare,4.05,,8.0,-2.25,1.94,-0.79,8.66,0.0,0.27,0.09,Did he ask about me?,Did he ask about me?
-full_low_2,m3xl06,low,T,1,spare,2.54,,37.1,-2.98,4.25,-1.47,10.91,0.0,0.48,0.03,Did he ask about me?,Did he ask about me?
+full_low_2,m3xl06,low,T,0,keep,4.05,,8.0,-2.25,1.94,-0.79,8.66,0.0,0.27,0.09,Did he ask about me?,Did he ask about me?
+full_low_2,m3xl06,low,T,1,drop-flat,2.54,,37.1,-2.98,4.25,-1.47,10.91,0.0,0.48,0.03,Did he ask about me?,Did he ask about me?
 full_low_2,m3xl06,low,T,2,keep,4.05,,-1.0,-0.91,1.36,-1.15,10.14,0.0,0.5,0.08,Did he ask about me?,Did he ask about me?
-full_low_2,m3xl06,low,T,3,keep,4.24,,14.1,-3.65,5.94,-0.7,6.67,0.0,0.48,0.03,Did he ask about me?,Did he ask about me?
+full_low_2,m3xl06,low,T,3,drop-flat,4.24,,14.1,-3.65,5.94,-0.7,6.67,0.0,0.48,0.03,Did he ask about me?,Did he ask about me?
 full_low_2,m3xl07,low,T,0,keep,6.88,,-25.3,-0.69,2.41,-0.34,12.21,0.0,0.22,0.18,I miss her so much!,I miss her so much.
 full_low_2,m3xl07,low,T,1,spare,5.98,,-30.5,0.34,0.66,-0.92,10.91,0.0,0.35,0.17,I miss her so much!,I miss her so much.
-full_low_2,m3xl07,low,T,2,spare,5.05,,-1.0,-0.98,3.16,-0.58,13.22,0.0,0.25,0.13,I miss her so much!,I miss her so much.
+full_low_2,m3xl07,low,T,2,drop-flat,5.05,,-1.0,-0.98,3.16,-0.58,13.22,0.0,0.25,0.13,I miss her so much!,I miss her so much.
 full_low_2,m3xl07,low,T,3,keep,6.27,,-24.3,-0.75,0.98,-1.13,10.31,0.0,0.3,0.15,I miss her so much!,I miss her so much.
 full_low_2,m3xl08,low,T,0,spare,3.22,,-20.8,1.11,2.17,0.43,7.5,0.0,0.3,0.06,I just wanted one good day!,I just wanted one good day.
 full_low_2,m3xl08,low,T,1,keep,3.46,,-16.4,-1.27,-0.5,0.22,1.84,0.04,0.4,0.03,I just wanted one good day!,I just wanted one good day.
 full_low_2,m3xl08,low,T,2,spare,2.61,,-1.0,-0.59,-1.12,-0.57,6.39,0.0,0.41,0.05,I just wanted one good day!,I just wanted one good day.
 full_low_2,m3xl08,low,T,3,keep,3.95,,-15.5,-0.95,1.62,-0.18,4.83,0.0,0.29,0.03,I just wanted one good day!,I just wanted one good day.
 full_low_2,m3xl09,low,T,0,keep,5.43,,-35.4,0.08,1.18,-0.08,6.57,0.04,0.23,0.1,"Please, just call me back!","Please, just call me back."
-full_low_2,m3xl09,low,T,1,spare,2.23,,-45.7,3.62,4.06,1.03,4.28,0.06,0.25,0.12,"Please, just call me back!","Please, just call me back."
+full_low_2,m3xl09,low,T,1,drop-flat,2.23,,-45.7,3.62,4.06,1.03,4.28,0.06,0.25,0.12,"Please, just call me back!","Please, just call me back."
 full_low_2,m3xl09,low,T,2,spare,0.24,,-24.3,3.01,1.85,2.41,2.74,0.0,0.16,0.12,"Please, just call me back!","Please, just call me back."
 full_low_2,m3xl09,low,T,3,keep,6.52,,-26.6,-1.12,1.73,0.24,9.13,0.02,0.14,0.13,"Please, just call me back!","Please, just call me back."
-full_low_2,m3xl10,low,T,0,spare,6.68,,-51.5,-2.21,-0.8,0.51,-2.27,0.0,0.36,0.27,I tried so hard!,I tried so hard.
+full_low_2,m3xl10,low,T,0,drop-flat,6.68,,-51.5,-2.21,-0.8,0.51,-2.27,0.0,0.36,0.27,I tried so hard!,I tried so hard.
 full_low_2,m3xl10,low,T,1,keep,8.11,,-43.4,-2.17,0.88,-0.47,5.32,0.02,0.19,0.2,I tried so hard!,I tried so hard.
-full_low_2,m3xl10,low,T,2,spare,4.00,,-37.9,-0.12,2.73,0.68,0.29,0.0,0.2,0.17,I tried so hard!,I tried so hard.
+full_low_2,m3xl10,low,T,2,drop-flat,4.00,,-37.9,-0.12,2.73,0.68,0.29,0.0,0.2,0.17,I tried so hard!,I tried so hard.
 full_low_2,m3xl10,low,T,3,keep,7.31,,-46.9,-0.61,0.46,-0.07,6.7,0.0,0.21,0.27,I tried so hard!,I tried so hard.
 full_low_2,m3xl11,low,T,0,keep,6.78,,-22.3,-2.49,-0.01,-1.08,6.85,0.0,0.27,0.06,I wish I was home!,I wish I was home.
 full_low_2,m3xl11,low,T,1,spare,4.85,,-2.6,-1.71,0.17,-0.31,9.6,0.0,0.26,0.04,I wish I was home!,I wish I was home.
@@ -295,10 +295,10 @@ full_low_3,m3xl12,low,T,0,spare,-2.39,,5.4,2.46,0.04,0.17,2.02,0.0,0.55,0.26,I'm
 full_low_3,m3xl12,low,T,1,spare,0.34,,13.2,-1.07,-0.32,0.41,1.97,0.0,0.29,0.15,I'm so tired of being alone!,I'm so tired of being alone.
 full_low_3,m3xl12,low,T,2,keep,2.59,,-3.6,-0.13,1.88,-1.08,7.01,0.0,0.72,0.25,I'm so tired of being alone!,I'm so tired of being alone.
 full_low_3,m3xl12,low,T,3,keep,4.47,,8.0,-2.88,0.79,-1.11,7.97,0.03,0.57,0.15,I'm so tired of being alone!,I'm so tired of being alone.
-full_low_3,m3xl13,low,T,0,keep,8.38,,-35.2,-4.04,4.07,0.24,2.74,0.07,0.3,0.1,It's not fair!,It's not fair.
+full_low_3,m3xl13,low,T,0,drop-flat,8.38,,-35.2,-4.04,4.07,0.24,2.74,0.07,0.3,0.1,It's not fair!,It's not fair.
 full_low_3,m3xl13,low,T,1,spare,2.01,,-26.5,1.98,1.79,0.05,4.48,0.0,0.19,0.1,It's not fair!,It's not fair.
 full_low_3,m3xl13,low,T,2,keep,11.22,,-36.3,-4.22,0.66,-0.65,11.25,0.01,0.24,0.11,It's not fair!,It's not fair.
-full_low_3,m3xl13,low,T,3,spare,7.41,,-30.1,-4.17,-0.19,0.09,0.76,0.16,0.18,0.08,It's not fair!,It's not fair.
+full_low_3,m3xl13,low,T,3,keep,7.41,,-30.1,-4.17,-0.19,0.09,0.76,0.16,0.18,0.08,It's not fair!,It's not fair.
 full_low_3,m3xl14,low,T,0,spare,-1.66,,14.3,0.85,-1.41,-0.59,2.06,0.0,0.24,0.0,I should have been there!,I should have been there.
 full_low_3,m3xl14,low,T,1,keep,5.94,,-1.8,-3.78,-1.35,-1.1,6.6,0.04,0.49,0.0,I should have been there!,I should have been there.
 full_low_3,m3xl14,low,T,2,keep,6.66,,-13.9,-4.63,0.53,-0.62,2.13,0.0,0.39,0.0,I should have been there!,I should have been there.
@@ -320,7 +320,7 @@ full_low_3,m3xl18,low,T,1,keep,10.90,,-17.6,-5.62,0.25,-0.56,11.74,0.43,0.33,0.1
 full_low_3,m3xl18,low,T,2,spare,7.61,,-28.3,-2.49,0.23,-0.6,7.64,0.87,0.4,0.24,It's just — I really miss them.,It's just... I really miss them.
 full_low_3,m3xl18,low,T,3,keep,11.92,,-25.4,-3.92,1.18,0.05,18.19,0.92,0.31,0.23,It's just — I really miss them.,It's just... I really miss them.
 full_low_3,m3xl19,low,T,1,keep,5.09,,-39.7,-0.28,0.49,0.19,2.81,0.6,0.23,0.16,We had plans — big plans.,We had plans. Big plans.
-full_low_3,m3xl19,low,T,2,keep,4.93,,-53.8,0.85,-0.93,-0.34,1.34,0.56,0.34,0.16,We had plans — big plans.,We had plans. Big plans.
+full_low_3,m3xl19,low,T,2,drop-flat,4.93,,-53.8,0.85,-0.93,-0.34,1.34,0.56,0.34,0.16,We had plans — big plans.,We had plans. Big plans.
 full_low_3,m3xl20,low,T,0,spare,3.42,,-24.0,-0.34,-0.63,-0.54,2.26,0.79,0.55,0.0,"I'm okay — really, I am.",I'm okay. Really. I am.
 full_low_3,m3xl20,low,T,1,keep,3.62,,0.2,-2.42,-1.28,-0.27,4.06,0.54,0.56,0.0,"I'm okay — really, I am.","I'm okay. Really, I am."
 full_low_3,m3xl20,low,T,2,spare,-0.09,,-1.0,-0.12,-0.98,0.28,-1.03,0.35,0.45,0.0,"I'm okay — really, I am.","I'm okay. Really, I am."
@@ -329,7 +329,7 @@ full_low_3,m3xl21,low,T,0,keep,1.03,,17.5,-1.23,0.99,-0.02,5.15,0.43,0.3,0.13,He
 full_low_3,m3xl21,low,T,1,keep,4.34,,-4.9,-1.96,-0.65,-0.34,6.31,0.53,0.36,0.21,He used to sing — every morning.,He used to sing every morning.
 full_low_3,m3xl21,low,T,2,spare,-2.67,,16.9,0.29,-1.29,-0.52,-2.31,0.73,0.3,0.16,He used to sing — every morning.,He used to sing every morning.
 full_low_3,m3xl22,low,T,0,keep,4.49,,5.6,-4.55,-0.8,-1.2,1.67,0.45,0.46,0.1,I didn't mean it — I'm sorry.,I didn't mean it. I'm sorry.
-full_low_3,m3xl22,low,T,1,drop-flat,0.58,,25.1,1.4,0.79,0.17,14.96,0.53,0.2,0.03,I didn't mean it — I'm sorry.,I didn't mean it. I'm sorry.
+full_low_3,m3xl22,low,T,1,spare,0.58,,25.1,1.4,0.79,0.17,14.96,0.53,0.2,0.03,I didn't mean it — I'm sorry.,I didn't mean it. I'm sorry.
 full_low_3,m3xl22,low,T,2,spare,1.79,,18.1,-3.26,-0.52,-1.06,1.12,0.53,0.58,0.08,I didn't mean it — I'm sorry.,I didn't mean it. I'm sorry.
 full_low_3,m3xl22,low,T,3,keep,1.81,,18.8,0.0,-0.02,-0.6,12.3,0.38,0.26,0.12,I didn't mean it — I'm sorry.,I didn't mean it. I'm sorry.
 full_low_3,m3xl23,low,T,0,spare,1.39,,-27.2,2.81,-0.52,-0.35,4.94,0.06,0.37,0.0,One more week — then I can go home.,"One more week, then I can go home."
@@ -343,36 +343,36 @@ full_low_3,m3xl25,low,T,0,drop-flat,-5.63,,34.5,4.06,6.74,2.33,6.26,0.0,0.22,0.0
 full_low_3,m3xl25,low,T,1,keep,-1.17,,9.7,3.46,1.56,0.03,10.88,0.0,0.19,0.0,You're leaving tomorrow?!,You're leaving tomorrow?
 full_low_3,m3xl25,low,T,2,drop-flat,-2.26,,15.9,2.99,3.7,0.96,7.72,0.0,0.21,0.02,You're leaving tomorrow?!,You're leaving tomorrow?
 full_low_3,m3xl25,low,T,3,keep,-5.29,,1.1,6.09,2.34,-0.75,3.04,0.0,0.25,0.03,You're leaving tomorrow?!,You're leaving tomorrow?
-full_low_3,m3xl26,low,T,0,keep,-2.78,,30.2,0.86,4.6,1.12,3.66,0.0,0.24,0.11,She didn't even say goodbye?!,She didn't even say goodbye?
+full_low_3,m3xl26,low,T,0,drop-flat,-2.78,,30.2,0.86,4.6,1.12,3.66,0.0,0.24,0.11,She didn't even say goodbye?!,She didn't even say goodbye?
 full_low_3,m3xl26,low,T,1,drop-flat,-5.30,,33.9,5.44,5.34,1.79,11.78,0.0,0.12,0.11,She didn't even say goodbye?!,She didn't even say goodbye?
-full_low_3,m3xl26,low,T,2,drop-flat,-1.77,,10.5,1.39,2.24,0.51,2.25,0.0,0.23,0.09,She didn't even say goodbye?!,She didn't even say goodbye?
+full_low_3,m3xl26,low,T,2,keep,-1.77,,10.5,1.39,2.24,0.51,2.25,0.0,0.23,0.09,She didn't even say goodbye?!,She didn't even say goodbye?
 full_low_3,m3xl26,low,T,3,drop-flat,-8.33,,40.8,4.72,5.66,0.77,1.57,0.0,0.17,0.09,She didn't even say goodbye?!,She didn't even say goodbye?
-full_low_3,m3xl27,low,T,0,spare,-1.39,,8.0,2.27,4.52,0.75,5.6,0.0,0.14,0.0,You forgot again?!,You forgot again?
+full_low_3,m3xl27,low,T,0,drop-flat,-1.39,,8.0,2.27,4.52,0.75,5.6,0.0,0.14,0.0,You forgot again?!,You forgot again?
 full_low_3,m3xl27,low,T,1,keep,-0.27,,-21.3,3.29,1.48,0.17,2.96,0.01,0.18,0.0,You forgot again?!,You forgot again?
 full_low_3,m3xl27,low,T,2,keep,4.30,,-19.2,-0.23,2.31,1.31,7.18,0.0,0.2,0.0,You forgot again?!,You forgot again?
-full_low_3,m3xl27,low,T,3,spare,-3.95,,-2.6,4.56,6.21,1.59,1.16,0.0,0.27,0.0,You forgot again?!,You forgot again?
-full_low_3,m3xl28,low,T,0,keep,3.71,,-12.5,-0.14,5.59,1.85,7.73,0.11,0.16,0.1,He said that about me?!,He said that about me?
-full_low_3,m3xl28,low,T,1,keep,1.69,,15.9,-0.84,5.95,0.31,8.14,0.0,0.22,0.05,He said that about me?!,He said that about me?
+full_low_3,m3xl27,low,T,3,drop-flat,-3.95,,-2.6,4.56,6.21,1.59,1.16,0.0,0.27,0.0,You forgot again?!,You forgot again?
+full_low_3,m3xl28,low,T,0,keep-check,3.71,,-12.5,-0.14,5.59,1.85,7.73,0.11,0.16,0.1,He said that about me?!,He said that about me?
+full_low_3,m3xl28,low,T,1,drop-flat,1.69,,15.9,-0.84,5.95,0.31,8.14,0.0,0.22,0.05,He said that about me?!,He said that about me?
 full_low_3,m3xl28,low,T,2,drop-flat,-3.11,,21.9,2.44,5.83,-0.73,5.08,0.0,0.16,0.03,He said that about me?!,He said that about me?
 full_low_3,m3xl28,low,T,3,drop-flat,-2.72,,13.2,3.2,8.47,1.67,6.0,0.0,0.32,0.17,He said that about me?!,He said that about me?
-full_low_3,m3xl29,low,T,0,spare,-0.69,,-13.9,2.44,1.47,0.18,1.2,0.0,0.16,0.18,They sold the old house?!,They sold the old house?
-full_low_3,m3xl29,low,T,1,spare,-1.92,,-19.2,4.28,4.8,0.04,1.47,0.0,0.19,0.22,They sold the old house?!,They sold the old house?
-full_low_3,m3xl29,low,T,2,keep,3.15,,-18.6,0.1,4.17,-0.08,4.62,0.0,0.2,0.21,They sold the old house?!,They sold the old house.
+full_low_3,m3xl29,low,T,0,keep,-0.69,,-13.9,2.44,1.47,0.18,1.2,0.0,0.16,0.18,They sold the old house?!,They sold the old house?
+full_low_3,m3xl29,low,T,1,drop-flat,-1.92,,-19.2,4.28,4.8,0.04,1.47,0.0,0.19,0.22,They sold the old house?!,They sold the old house?
+full_low_3,m3xl29,low,T,2,drop-flat,3.15,,-18.6,0.1,4.17,-0.08,4.62,0.0,0.2,0.21,They sold the old house?!,They sold the old house.
 full_low_3,m3xl29,low,T,3,keep,-0.26,,-18.6,2.33,2.44,0.34,0.71,0.0,0.2,0.2,They sold the old house?!,They sold the old house?
-full_low_3,m3xl30,low,T,0,keep,2.18,,3.3,2.66,5.82,0.8,17.24,0.0,0.3,0.02,Nobody told me?!,Nobody told me?
-full_low_3,m3xl30,low,T,1,keep,0.93,,1.6,1.32,5.23,1.12,8.03,0.0,0.23,0.0,Nobody told me?!,Nobody told me?
-full_low_3,m3xl30,low,T,2,spare,0.91,,-7.2,3.04,4.01,1.05,10.78,0.0,0.23,0.0,Nobody told me?!,Nobody told me?
-full_low_3,m3xl30,low,T,3,spare,-0.27,,2.4,3.61,5.41,0.82,11.93,0.0,0.14,0.0,Nobody told me?!,Nobody told me.
-full_low_3,m3xl31,low,T,0,keep,0.23,,2.4,-0.96,2.57,0.11,-1.63,0.0,0.17,0.01,It's closing for good?!,It's closing for good.
-full_low_3,m3xl31,low,T,1,keep,-1.87,,-22.8,4.61,5.67,1.47,1.52,0.03,0.16,0.06,It's closing for good?!,It's closing for good?
-full_low_3,m3xl31,low,T,2,spare,-4.12,,5.2,2.72,2.49,0.91,-2.94,0.0,0.19,0.02,It's closing for good?!,It's closing for good.
-full_low_3,m3xl31,low,T,3,spare,-2.50,,-11.3,2.53,1.68,0.64,-3.66,0.0,0.16,0.04,It's closing for good?!,It's closing for good.
-full_low_3,m3xl32,low,T,0,spare,-5.58,,-22.8,7.95,5.17,0.58,0.29,0.0,0.22,0.0,You knew all along?!,You knew all along.
+full_low_3,m3xl30,low,T,0,keep-check,2.18,,3.3,2.66,5.82,0.8,17.24,0.0,0.3,0.02,Nobody told me?!,Nobody told me?
+full_low_3,m3xl30,low,T,1,drop-flat,0.93,,1.6,1.32,5.23,1.12,8.03,0.0,0.23,0.0,Nobody told me?!,Nobody told me?
+full_low_3,m3xl30,low,T,2,drop-flat,0.91,,-7.2,3.04,4.01,1.05,10.78,0.0,0.23,0.0,Nobody told me?!,Nobody told me?
+full_low_3,m3xl30,low,T,3,drop-flat,-0.27,,2.4,3.61,5.41,0.82,11.93,0.0,0.14,0.0,Nobody told me?!,Nobody told me.
+full_low_3,m3xl31,low,T,0,drop-flat,0.23,,2.4,-0.96,2.57,0.11,-1.63,0.0,0.17,0.01,It's closing for good?!,It's closing for good.
+full_low_3,m3xl31,low,T,1,drop-flat,-1.87,,-22.8,4.61,5.67,1.47,1.52,0.03,0.16,0.06,It's closing for good?!,It's closing for good?
+full_low_3,m3xl31,low,T,2,keep,-4.12,,5.2,2.72,2.49,0.91,-2.94,0.0,0.19,0.02,It's closing for good?!,It's closing for good.
+full_low_3,m3xl31,low,T,3,keep,-2.50,,-11.3,2.53,1.68,0.64,-3.66,0.0,0.16,0.04,It's closing for good?!,It's closing for good.
+full_low_3,m3xl32,low,T,0,drop-flat,-5.58,,-22.8,7.95,5.17,0.58,0.29,0.0,0.22,0.0,You knew all along?!,You knew all along.
 full_low_3,m3xl32,low,T,1,keep,-1.20,,-26.2,5.45,2.1,0.01,5.45,0.0,0.28,0.0,You knew all along?!,You knew all along?
-full_low_3,m3xl32,low,T,3,keep,0.89,,-21.8,2.85,2.69,0.26,5.2,0.0,0.22,0.0,You knew all along?!,You knew all along?
+full_low_3,m3xl32,low,T,3,drop-flat,0.89,,-21.8,2.85,2.69,0.26,5.2,0.0,0.22,0.0,You knew all along?!,You knew all along?
 full_low_3,m3xl33,low,T,0,keep,7.22,,-13.9,-2.59,1.84,-0.39,10.8,0.0,0.49,0.09,After all this time?!,After all this time...
 full_low_3,m3xl33,low,T,1,spare,-0.15,,-17.5,1.92,0.59,-0.01,0.08,0.0,0.34,0.1,After all this time?!,After all this time?
-full_low_3,m3xl33,low,T,2,spare,1.54,,-9.3,0.08,2.91,1.68,2.3,0.0,0.15,0.05,After all this time?!,After all this time?
+full_low_3,m3xl33,low,T,2,drop-flat,1.54,,-9.3,0.08,2.91,1.68,2.3,0.0,0.15,0.05,After all this time?!,After all this time?
 full_low_3,m3xl33,low,T,3,keep,5.99,,-20.2,-2.14,2.06,-0.56,6.1,0.0,0.27,0.09,After all this time?!,After all this time...
 full_low_3,m3xl34,low,T,0,spare,-2.94,,2.4,3.46,1.34,0.51,2.53,0.0,0.25,0.03,She's moving away?!,She's moving away?
 full_low_3,m3xl34,low,T,1,drop-flat,-6.05,,17.7,5.17,3.83,1.39,2.96,0.0,0.16,0.06,She's moving away?!,She's moving away?
@@ -380,9 +380,9 @@ full_low_3,m3xl34,low,T,2,keep,0.76,,-0.1,1.02,1.48,0.88,5.91,0.0,0.21,0.0,She's
 full_low_3,m3xl34,low,T,3,keep,3.00,,-28.8,1.28,1.53,0.54,4.67,0.0,0.18,0.0,She's moving away?!,She's moving away?
 full_low_3,m3xl35,low,T,0,keep,7.84,,-36.2,-0.16,-0.25,-0.47,13.52,0.0,0.34,0.06,I really TRIED.,I really tried.
 full_low_3,m3xl35,low,T,1,spare,4.59,,-25.1,-1.02,0.78,-0.51,3.54,0.0,0.45,0.01,I really TRIED.,I really tried.
-full_low_3,m3xl35,low,T,2,spare,4.64,,-15.1,-1.77,-1.9,-1.17,4.52,0.0,0.34,0.0,I really TRIED.,I really tried.
-full_low_3,m3xl35,low,T,3,keep,8.99,,-51.2,-1.67,-0.16,-0.39,7.34,0.08,0.25,0.0,I really TRIED.,I really tried.
-full_low_3,m3xl36,low,T,0,spare,2.20,,-1.8,0.32,3.01,3.87,7.79,0.0,0.1,0.09,Nobody ASKED me.,Nobody asked me.
+full_low_3,m3xl35,low,T,2,keep,4.64,,-15.1,-1.77,-1.9,-1.17,4.52,0.0,0.34,0.0,I really TRIED.,I really tried.
+full_low_3,m3xl35,low,T,3,drop-flat,8.99,,-51.2,-1.67,-0.16,-0.39,7.34,0.08,0.25,0.0,I really TRIED.,I really tried.
+full_low_3,m3xl36,low,T,0,drop-flat,2.20,,-1.8,0.32,3.01,3.87,7.79,0.0,0.1,0.09,Nobody ASKED me.,Nobody asked me.
 full_low_3,m3xl36,low,T,1,keep,2.84,,-1.0,-1.74,-0.03,-0.88,3.32,0.0,0.26,0.06,Nobody ASKED me.,Nobody asked me.
 full_low_3,m3xl36,low,T,2,spare,0.73,,5.2,0.3,0.67,0.09,5.15,0.0,0.24,0.09,Nobody ASKED me.,Nobody asked me.
 full_low_3,m3xl36,low,T,3,keep,2.84,,18.8,-3.77,-0.41,-1.02,3.16,0.01,0.24,0.06,Nobody ASKED me.,Nobody asked me.
@@ -411,12 +411,12 @@ full_low_3,m3xl42,low,T,2,keep,9.08,,-32.1,-2.81,1.21,0.44,10.19,0.0,0.15,0.15,I
 full_low_3,m3xl42,low,T,3,spare,1.14,,-36.6,2.09,-1.09,-0.43,-1.42,0.0,0.51,0.21,It's been SO long.,It's been so long.
 full_low_3,m3xl43,low,T,0,keep,4.00,,-34.9,-0.1,-0.18,0.08,1.37,0.0,0.16,0.18,I should have STAYED.,I should have stayed.
 full_low_3,m3xl43,low,T,1,spare,3.98,,-27.4,-0.01,0.87,-0.01,4.09,0.0,0.26,0.21,I should have STAYED.,I should have stayed.
-full_low_3,m3xl43,low,T,2,spare,1.86,,-51.5,3.14,-1.44,-0.18,-0.51,0.03,0.24,0.22,I should have STAYED.,I should have stayed.
+full_low_3,m3xl43,low,T,2,drop-flat,1.86,,-51.5,3.14,-1.44,-0.18,-0.51,0.03,0.24,0.22,I should have STAYED.,I should have stayed.
 full_low_3,m3xl43,low,T,3,keep,5.37,,-34.9,-2.01,-0.05,-0.24,-0.42,0.0,0.29,0.23,I should have STAYED.,I should have stayed.
-full_low_3,m3xl44,low,T,0,keep,10.57,,-63.6,-2.09,-2.45,-0.86,7.07,0.11,0.51,0.02,NOBODY called.,Nobody called.
+full_low_3,m3xl44,low,T,0,drop-flat,10.57,,-63.6,-2.09,-2.45,-0.86,7.07,0.11,0.51,0.02,NOBODY called.,Nobody called.
 full_low_3,m3xl44,low,T,1,keep,6.65,,-11.2,-4.15,-1.57,-0.32,4.6,0.0,0.31,0.0,NOBODY called.,Nobody called.
 full_low_3,m3xl44,low,T,2,spare,0.95,,1.1,-1.63,0.05,-1.0,-1.91,0.0,0.38,0.0,NOBODY called.,Nobody called.
-full_low_3,m3xl44,low,T,3,spare,6.05,,-25.1,-2.72,-1.24,-0.92,2.72,0.0,0.46,0.0,NOBODY called.,Nobody called.
+full_low_3,m3xl44,low,T,3,keep,6.05,,-25.1,-2.72,-1.24,-0.92,2.72,0.0,0.46,0.0,NOBODY called.,Nobody called.
 full_low_3,m3xl45,low,T,1,keep,2.17,,-22.5,2.76,0.71,-0.46,8.93,0.0,0.29,0.0,We're moving…,We're moving.
 full_low_3,m3xl45,low,T,2,keep,2.76,,-18.0,1.6,0.03,-0.42,8.55,0.0,0.39,0.0,We're moving…,We're moving.
 full_low_3,m3xl45,low,T,3,spare,1.18,,-8.6,-0.53,-1.35,-0.8,-0.7,0.0,0.33,0.0,We're moving…,We're moving.
@@ -439,72 +439,72 @@ full_low_3,m3xl50,low,T,2,spare,-0.13,,15.9,-1.09,-0.84,0.38,1.24,0.0,0.26,0.02,
 full_low_3,m3xl50,low,T,3,keep,6.63,,8.9,-6.15,-0.74,-1.24,4.56,0.0,0.49,0.07,I just want to go home!,I just want to go home.
 full_low_4,m3xl51,low,T,0,keep,0.79,,25.1,-1.73,-0.1,0.22,5.23,0.0,0.23,0.08,I can't do this anymore!,I can't do this anymore.
 full_low_4,m3xl51,low,T,1,keep,0.37,,10.2,0.04,1.8,0.22,4.77,0.0,0.26,0.05,I can't do this anymore!,I can't do this anymore.
-full_low_4,m3xl51,low,T,2,drop-flat,-7.10,,26.0,4.44,2.23,0.18,-0.2,0.0,0.19,0.07,I can't do this anymore!,I can't do this anymore.
+full_low_4,m3xl51,low,T,2,spare,-7.10,,26.0,4.44,2.23,0.18,-0.2,0.0,0.19,0.07,I can't do this anymore!,I can't do this anymore.
 full_low_4,m3xl51,low,T,3,spare,-0.40,,9.5,-0.84,0.14,-0.07,-0.97,0.0,0.48,0.05,I can't do this anymore!,I can't do this anymore.
 full_low_4,m3xl52,low,T,0,keep,-2.53,,-9.1,3.3,0.39,-0.35,-0.46,0.0,0.32,0.08,Nobody listens to me!,Nobody listens to me.
-full_low_4,m3xl52,low,T,1,drop-flat,-2.75,,41.0,1.04,1.07,-0.15,7.97,0.0,0.33,0.05,Nobody listens to me!,Nobody listens to me.
+full_low_4,m3xl52,low,T,1,spare,-2.75,,41.0,1.04,1.07,-0.15,7.97,0.0,0.33,0.05,Nobody listens to me!,Nobody listens to me.
 full_low_4,m3xl52,low,T,2,keep,3.66,,24.2,-3.87,0.49,-0.64,7.36,0.0,0.25,0.06,Nobody listens to me!,Nobody listens to me.
 full_low_4,m3xl52,low,T,3,spare,-3.41,,34.2,0.04,0.78,-0.15,0.16,0.0,0.18,0.05,Nobody listens to me!,Nobody listens to me.
 full_low_4,m3xl53,low,T,0,spare,2.37,,-24.9,0.05,-0.59,-1.12,-0.23,0.0,0.33,0.17,I miss Jaffna so much!,I miss Joffness so much.
-full_low_4,m3xl53,low,T,1,keep,4.58,,-16.6,0.97,2.69,-0.65,12.97,0.0,0.23,0.13,I miss Jaffna so much!,I miss Jaffna so much.
-full_low_4,m3xl53,low,T,2,spare,3.47,,-4.9,-0.32,0.8,-0.89,8.88,0.0,0.26,0.11,I miss Jaffna so much!,I miss Jaffa so much.
+full_low_4,m3xl53,low,T,1,drop-flat,4.58,,-16.6,0.97,2.69,-0.65,12.97,0.0,0.23,0.13,I miss Jaffna so much!,I miss Jaffna so much.
+full_low_4,m3xl53,low,T,2,keep,3.47,,-4.9,-0.32,0.8,-0.89,8.88,0.0,0.26,0.11,I miss Jaffna so much!,I miss Jaffa so much.
 full_low_4,m3xl53,low,T,3,keep,6.51,,-17.1,-0.88,1.31,-0.8,13.05,0.01,0.34,0.17,I miss Jaffna so much!,I miss Jaffa so much.
 full_low_4,m3xl54,low,T,0,spare,2.45,,-15.6,-0.18,-0.64,-0.72,2.37,0.0,0.33,0.13,"I'm so sorry, Paati!","I'm so sorry, Batty."
 full_low_4,m3xl54,low,T,1,keep,2.84,,-5.6,-1.89,-0.73,-0.8,1.29,0.0,0.28,0.1,"I'm so sorry, Paati!","I'm so sorry, party."
 full_low_4,m3xl54,low,T,2,spare,1.81,,-15.1,0.29,1.92,0.89,1.97,0.0,0.3,0.17,"I'm so sorry, Paati!","I'm so sorry, Putty."
 full_low_4,m3xl54,low,T,3,keep,3.21,,1.9,-1.21,1.19,0.35,7.3,0.0,0.22,0.11,"I'm so sorry, Paati!","I'm so sorry, Poppy."
 full_low_4,m3xl55,low,T,1,keep,0.45,,36.8,-1.85,1.12,-0.1,7.6,0.0,0.27,0.03,I wanted to be there for her!,I wanted to be there for her.
-full_low_4,m3xl55,low,T,2,spare,-0.21,,18.1,0.01,2.92,1.61,5.36,0.0,0.27,0.04,I wanted to be there for her!,I wanted to be there for her.
+full_low_4,m3xl55,low,T,2,drop-flat,-0.21,,18.1,0.01,2.92,1.61,5.36,0.0,0.27,0.04,I wanted to be there for her!,I wanted to be there for her.
 full_low_4,m3xl55,low,T,3,keep,1.48,,13.2,-1.12,-1.27,-0.37,5.59,0.0,0.29,0.04,I wanted to be there for her!,I wanted to be there for her.
 full_low_4,m3xl56,low,T,0,spare,3.29,,-28.8,0.77,0.88,1.55,3.94,0.0,0.26,0.0,Everything went wrong!,Everything went wrong.
 full_low_4,m3xl56,low,T,1,keep,6.57,,-35.8,0.12,1.01,-0.22,10.38,0.0,0.48,0.0,Everything went wrong!,Everything went wrong.
 full_low_4,m3xl56,low,T,2,keep,5.40,,-10.7,-1.58,0.49,-0.1,9.18,0.0,0.31,0.0,Everything went wrong!,Everything went wrong.
-full_low_4,m3xl56,low,T,3,spare,1.56,,-13.3,1.73,2.9,0.71,6.55,0.0,0.32,0.0,Everything went wrong!,Everything went wrong.
+full_low_4,m3xl56,low,T,3,drop-flat,1.56,,-13.3,1.73,2.9,0.71,6.55,0.0,0.32,0.0,Everything went wrong!,Everything went wrong.
 full_low_4,m3xl57,low,T,0,spare,-1.02,,10.5,0.8,1.32,1.57,2.77,0.0,0.35,0.09,I'm tired of saying goodbye!,I'm tired of saying goodbye.
 full_low_4,m3xl57,low,T,1,keep,0.07,,16.6,-1.15,-0.35,-0.88,1.93,0.0,0.36,0.08,I'm tired of saying goodbye!,I'm tired of saying goodbye.
 full_low_4,m3xl57,low,T,2,keep,0.75,,8.0,-0.61,-0.63,-0.43,3.13,0.0,0.42,0.1,I'm tired of saying goodbye!,I'm tired of saying goodbye.
-full_low_4,m3xl57,low,T,3,drop-flat,-3.97,,24.3,1.74,0.22,-0.05,0.68,0.0,0.28,0.07,I'm tired of saying goodbye!,I'm tired of saying goodbye.
+full_low_4,m3xl57,low,T,3,spare,-3.97,,24.3,1.74,0.22,-0.05,0.68,0.0,0.28,0.07,I'm tired of saying goodbye!,I'm tired of saying goodbye.
 full_low_4,m3xl58,low,T,0,keep,3.81,,-26.2,-1.19,-0.38,-0.63,-0.0,0.0,0.37,0.21,It was my last chance!,It was my last chance.
-full_low_4,m3xl58,low,T,1,spare,-0.92,,-18.0,5.11,2.93,0.21,7.97,0.01,0.17,0.18,It was my last chance!,It was my last chance.
+full_low_4,m3xl58,low,T,1,drop-flat,-0.92,,-18.0,5.11,2.93,0.21,7.97,0.01,0.17,0.18,It was my last chance!,It was my last chance.
 full_low_4,m3xl58,low,T,2,keep,7.89,,-43.7,-2.29,1.48,-0.68,4.1,0.0,0.27,0.3,It was my last chance!,It was my last chance.
 full_low_4,m3xl58,low,T,3,spare,2.99,,-21.3,-0.8,0.2,-0.79,0.19,0.0,0.43,0.19,It was my last chance!,It was my last chance.
 full_low_4,m3xl59,low,T,0,keep,3.55,,-18.0,1.0,1.39,-1.07,9.18,0.01,0.49,0.09,I should never have left!,I should never have left.
 full_low_4,m3xl59,low,T,1,spare,2.33,,-26.5,0.71,-0.82,-0.71,1.29,0.0,0.38,0.03,I should never have left!,I should never have left.
 full_low_4,m3xl59,low,T,3,keep,5.13,,-13.0,-1.96,1.18,-0.34,6.25,0.29,0.39,0.06,I should never have left!,I should never have left.
 full_low_4,m3xl60,low,T,0,keep,3.57,,-37.5,0.49,0.01,0.45,1.03,0.0,0.19,0.0,Please don't go!,Please don't go.
-full_low_4,m3xl60,low,T,1,spare,-2.06,,-48.7,6.62,2.63,1.37,-1.05,0.0,0.18,0.0,Please don't go!,Please don't go.
-full_low_4,m3xl60,low,T,2,keep,1.32,,-56.3,5.14,3.08,1.49,2.75,0.05,0.21,0.04,Please don't go!,Please don't go.
-full_low_4,m3xl61,low,T,0,keep,7.41,,-19.2,-2.47,3.13,-0.24,10.06,0.0,0.27,0.07,I lost everything!,I lost everything.
-full_low_4,m3xl61,low,T,1,keep,7.50,,-30.9,-3.2,2.94,0.04,4.05,0.06,0.39,0.08,I lost everything!,I lost everything.
-full_low_4,m3xl61,low,T,2,spare,7.02,,-12.0,-2.46,2.78,0.66,11.2,0.0,0.28,0.11,I lost everything!,I lost everything.
-full_low_4,m3xl61,low,T,3,spare,5.59,,-21.8,-1.13,0.24,-0.19,7.6,0.09,0.39,0.14,I lost everything!,I lost everything.
+full_low_4,m3xl60,low,T,1,drop-flat,-2.06,,-48.7,6.62,2.63,1.37,-1.05,0.0,0.18,0.0,Please don't go!,Please don't go.
+full_low_4,m3xl60,low,T,2,drop-flat,1.32,,-56.3,5.14,3.08,1.49,2.75,0.05,0.21,0.04,Please don't go!,Please don't go.
+full_low_4,m3xl61,low,T,0,drop-flat,7.41,,-19.2,-2.47,3.13,-0.24,10.06,0.0,0.27,0.07,I lost everything!,I lost everything.
+full_low_4,m3xl61,low,T,1,drop-flat,7.50,,-30.9,-3.2,2.94,0.04,4.05,0.06,0.39,0.08,I lost everything!,I lost everything.
+full_low_4,m3xl61,low,T,2,drop-flat,7.02,,-12.0,-2.46,2.78,0.66,11.2,0.0,0.28,0.11,I lost everything!,I lost everything.
+full_low_4,m3xl61,low,T,3,keep,5.59,,-21.8,-1.13,0.24,-0.19,7.6,0.09,0.39,0.14,I lost everything!,I lost everything.
 full_low_4,m3xl62,low,T,1,drop-flat,-9.97,,28.5,6.65,2.82,0.93,-1.56,0.0,0.26,0.0,I really thought he cared!,I really thought he cared.
-full_low_4,m3xl62,low,T,2,drop-flat,-2.98,,13.2,1.55,0.66,-0.28,-0.36,0.0,0.26,0.0,I really thought he cared!,I really thought he cared.
+full_low_4,m3xl62,low,T,2,keep,-2.98,,13.2,1.55,0.66,-0.28,-0.36,0.0,0.26,0.0,I really thought he cared!,I really thought he cared.
 full_low_4,m3xl62,low,T,3,keep,0.64,,4.1,0.32,1.66,-1.08,4.56,0.0,0.32,0.0,I really thought he cared!,I really thought he cared.
-full_low_4,m3xl63,low,T,0,spare,1.49,,-57.3,4.3,1.84,-0.0,0.2,0.02,0.24,0.15,"Not her, please!","Not her, please."
-full_low_4,m3xl63,low,T,1,spare,3.87,,-51.8,1.41,0.02,-0.19,0.34,0.01,0.24,0.12,"Not her, please!","Not her, please."
-full_low_4,m3xl63,low,T,2,keep,6.39,,-51.8,-1.97,-0.93,0.53,-2.52,0.04,0.19,0.16,"Not her, please!","Not her, please."
-full_low_4,m3xl63,low,T,3,keep,8.03,,-60.8,-1.66,0.6,-0.57,0.95,0.09,0.32,0.26,"Not her, please!","Not her, please."
+full_low_4,m3xl63,low,T,0,drop-flat,1.49,,-57.3,4.3,1.84,-0.0,0.2,0.02,0.24,0.15,"Not her, please!","Not her, please."
+full_low_4,m3xl63,low,T,1,drop-flat,3.87,,-51.8,1.41,0.02,-0.19,0.34,0.01,0.24,0.12,"Not her, please!","Not her, please."
+full_low_4,m3xl63,low,T,2,drop-flat,6.39,,-51.8,-1.97,-0.93,0.53,-2.52,0.04,0.19,0.16,"Not her, please!","Not her, please."
+full_low_4,m3xl63,low,T,3,keep-check,8.03,,-60.8,-1.66,0.6,-0.57,0.95,0.09,0.32,0.26,"Not her, please!","Not her, please."
 full_low_4,m3xl64,low,T,0,keep,2.83,,2.6,-2.12,-0.04,-0.71,3.24,0.0,0.31,0.02,I just needed a hug!,I just needed a hug.
 full_low_4,m3xl64,low,T,1,keep,3.30,,19.8,-0.59,1.46,-0.57,15.63,0.0,0.18,0.06,I just needed a hug!,I just needed a hug.
 full_low_4,m3xl64,low,T,2,spare,2.27,,20.8,-3.14,-1.08,-0.6,4.02,0.0,0.45,0.04,I just needed a hug!,I just needed a hug.
 full_low_4,m3xl64,low,T,3,spare,-1.24,,4.9,2.11,0.68,0.61,4.55,0.0,0.26,0.09,I just needed a hug!,I just needed a hug.
-full_low_4,m3xl65,low,T,0,spare,2.98,,-42.0,2.28,3.92,-0.75,3.54,0.0,0.37,0.17,It hurts so much!,It hurts so much.
+full_low_4,m3xl65,low,T,0,drop-flat,2.98,,-42.0,2.28,3.92,-0.75,3.54,0.0,0.37,0.17,It hurts so much!,It hurts so much.
 full_low_4,m3xl65,low,T,1,keep,8.00,,-42.4,-1.51,2.03,-0.9,7.49,0.0,0.13,0.2,It hurts so much!,It hurts so much.
-full_low_4,m3xl65,low,T,2,keep,4.87,,-37.9,2.02,3.42,-0.29,10.32,0.0,0.2,0.23,It hurts so much!,It hurts so much.
-full_low_4,m3xl65,low,T,3,spare,4.62,,-38.3,1.38,3.3,-0.82,7.23,0.0,0.36,0.18,It hurts so much!,It hurts so much.
+full_low_4,m3xl65,low,T,2,drop-flat,4.87,,-37.9,2.02,3.42,-0.29,10.32,0.0,0.2,0.23,It hurts so much!,It hurts so much.
+full_low_4,m3xl65,low,T,3,drop-flat,4.62,,-38.3,1.38,3.3,-0.82,7.23,0.0,0.36,0.18,It hurts so much!,It hurts so much.
 full_low_4,m3xl66,low,T,0,spare,-3.91,,-3.0,2.5,-0.16,0.41,-5.71,0.0,0.4,0.0,I waited all day for nothing!,I waited all day for nothing.
 full_low_4,m3xl66,low,T,1,spare,-2.58,,-4.0,2.51,0.16,-0.11,-1.56,0.04,0.34,0.0,I waited all day for nothing!,I waited all day for nothing.
 full_low_4,m3xl66,low,T,2,keep,3.62,,-20.1,-1.68,0.08,1.31,-0.23,0.03,0.37,0.0,I waited all day for nothing!,I waited all day for nothing.
 full_low_4,m3xl66,low,T,3,keep,1.22,,-7.7,-0.04,-0.07,-0.36,1.38,0.0,0.44,0.02,I waited all day for nothing!,I waited all day for nothing.
-full_low_4,m3xl67,low,T,0,spare,-4.59,,41.5,-0.8,3.23,0.27,-4.12,0.0,0.13,0.04,Are you still awake?,Are you still awake?
-full_low_4,m3xl67,low,T,1,keep,3.53,,8.0,-2.42,2.67,0.65,6.36,0.0,0.14,0.06,Are you still awake?,Are you still awake?
+full_low_4,m3xl67,low,T,0,drop-flat,-4.59,,41.5,-0.8,3.23,0.27,-4.12,0.0,0.13,0.04,Are you still awake?,Are you still awake?
+full_low_4,m3xl67,low,T,1,drop-flat,3.53,,8.0,-2.42,2.67,0.65,6.36,0.0,0.14,0.06,Are you still awake?,Are you still awake?
 full_low_4,m3xl67,low,T,2,keep,3.89,,16.5,-2.51,2.2,-0.47,10.1,0.02,0.13,0.08,Are you still awake?,Are you still awake?
-full_low_4,m3xl67,low,T,3,spare,-3.91,,41.5,0.65,3.09,1.35,2.96,0.0,0.09,0.01,Are you still awake?,Are you still awake?
-full_low_4,m3xl68,low,T,0,spare,-0.23,,27.6,-1.44,1.73,1.12,3.65,0.0,0.67,0.04,Did you eat anything today?,Did you eat anything today?
-full_low_4,m3xl68,low,T,1,keep,0.68,,25.1,-1.28,5.89,-0.2,6.36,0.01,0.41,0.0,Did you eat anything today?,Did you eat anything today?
-full_low_4,m3xl68,low,T,2,keep,2.21,,33.0,-4.2,5.5,-0.87,4.35,0.17,0.27,0.0,Did you eat anything today?,Did you eat anything today?
-full_low_4,m3xl68,low,T,3,spare,-0.95,,34.8,0.61,5.74,-0.48,10.47,0.06,0.72,0.02,Did you eat anything today?,Did you eat anything today?
+full_low_4,m3xl67,low,T,3,drop-flat,-3.91,,41.5,0.65,3.09,1.35,2.96,0.0,0.09,0.01,Are you still awake?,Are you still awake?
+full_low_4,m3xl68,low,T,0,keep,-0.23,,27.6,-1.44,1.73,1.12,3.65,0.0,0.67,0.04,Did you eat anything today?,Did you eat anything today?
+full_low_4,m3xl68,low,T,1,drop-flat,0.68,,25.1,-1.28,5.89,-0.2,6.36,0.01,0.41,0.0,Did you eat anything today?,Did you eat anything today?
+full_low_4,m3xl68,low,T,2,drop-flat,2.21,,33.0,-4.2,5.5,-0.87,4.35,0.17,0.27,0.0,Did you eat anything today?,Did you eat anything today?
+full_low_4,m3xl68,low,T,3,drop-flat,-0.95,,34.8,0.61,5.74,-0.48,10.47,0.06,0.72,0.02,Did you eat anything today?,Did you eat anything today?
 full_low_4,m3xl69,low,T,0,keep,5.04,,-15.8,-2.28,0.11,-0.56,3.92,0.03,0.32,0.0,I almost called you — but I couldn't.,"I almost called you, but I couldn't."
 full_low_4,m3xl69,low,T,1,spare,-0.66,,21.5,-1.52,-1.01,0.98,-0.09,0.39,0.38,0.04,I almost called you — but I couldn't.,"I almost called you, but I couldn't."
 full_low_4,m3xl69,low,T,2,spare,1.77,,18.2,-3.59,-1.55,-0.99,0.0,0.52,0.37,0.07,I almost called you — but I couldn't.,"I almost called you, but I couldn't."
@@ -513,17 +513,17 @@ full_low_4,m3xl70,low,T,0,spare,-2.41,,-12.4,3.69,-1.19,-0.26,0.15,0.03,0.4,0.0,
 full_low_4,m3xl70,low,T,1,spare,-2.09,,13.2,-0.18,-2.75,-0.98,-3.17,0.0,0.48,0.0,I only wanted ONE thing.,I only wanted one thing.
 full_low_4,m3xl70,low,T,2,keep,1.13,,8.7,1.08,0.56,-0.49,10.26,0.0,0.43,0.0,I only wanted ONE thing.,I only wanted one thing.
 full_low_4,m3xl70,low,T,3,keep,2.23,,-14.2,0.17,1.05,-0.01,3.26,0.2,0.34,0.0,I only wanted ONE thing.,I only wanted one thing.
-full_low_4,m3xl71,low,T,0,keep,3.64,,-19.2,2.11,7.4,1.95,12.76,0.0,0.19,0.07,He's not coming back?!,He's not coming back.
-full_low_4,m3xl71,low,T,1,spare,-1.02,,-1.0,4.07,2.76,0.58,9.84,0.0,0.17,0.0,He's not coming back?!,He's not coming back?
+full_low_4,m3xl71,low,T,0,drop-flat,3.64,,-19.2,2.11,7.4,1.95,12.76,0.0,0.19,0.07,He's not coming back?!,He's not coming back.
+full_low_4,m3xl71,low,T,1,drop-flat,-1.02,,-1.0,4.07,2.76,0.58,9.84,0.0,0.17,0.0,He's not coming back?!,He's not coming back?
 full_low_4,m3xl71,low,T,2,keep,4.05,,-16.9,-0.47,0.88,1.22,6.3,0.0,0.16,0.0,He's not coming back?!,He's not coming back.
-full_low_4,m3xl71,low,T,3,spare,2.24,,-6.4,1.91,6.01,0.44,11.71,0.12,0.14,0.0,He's not coming back?!,He's not coming back?
+full_low_4,m3xl71,low,T,3,drop-flat,2.24,,-6.4,1.91,6.01,0.44,11.71,0.12,0.14,0.0,He's not coming back?!,He's not coming back?
 full_low_4,m4l01,low,T,0,keep,5.80,,-4.2,-3.12,-1.35,-0.74,7.54,0.0,0.27,0.1,It's Monday again…,It's Monday again.
 full_low_4,m4l01,low,T,1,keep,9.11,,-11.3,-4.06,0.75,-0.61,13.06,0.0,0.58,0.1,It's Monday again…,It's Monday again.
 full_low_4,m4l01,low,T,2,spare,1.36,,-10.0,-0.39,-1.17,-1.25,-0.1,0.08,0.59,0.06,It's Monday again…,It's Monday again.
 full_low_4,m4l01,low,T,3,spare,5.33,,-4.9,-3.98,-0.81,-0.54,2.88,0.0,0.33,0.06,It's Monday again…,It's Monday again.
 full_low_4,m4l02,low,T,0,keep,-3.18,,20.2,0.76,-0.92,-0.62,-1.33,0.0,0.42,0.22,I keep reading her old messages…,I keep reading her old messages.
 full_low_4,m4l02,low,T,1,keep,8.29,,-2.3,-5.12,0.1,-0.77,9.81,0.04,0.57,0.16,I keep reading her old messages…,I keep reading her old messages.
-full_low_4,m4l02,low,T,3,drop-flat,-4.50,,23.6,1.89,-1.6,-0.12,-0.83,0.0,0.27,0.21,I keep reading her old messages…,I keep reading her old messages.
+full_low_4,m4l02,low,T,3,spare,-4.50,,23.6,1.89,-1.6,-0.12,-0.83,0.0,0.27,0.21,I keep reading her old messages…,I keep reading her old messages.
 full_low_4,m4l03,low,T,0,keep,5.27,,-22.8,-2.44,-0.37,-0.71,1.82,0.0,0.4,0.25,The house feels so empty without him.,The house feels so empty without him.
 full_low_4,m4l03,low,T,1,spare,2.28,,19.5,-2.2,0.79,-0.99,6.78,0.0,0.3,0.08,The house feels so empty without him.,The house feels so empty without him.
 full_low_4,m4l03,low,T,3,keep,3.91,,2.3,-2.97,-1.17,-0.71,3.89,0.0,0.29,0.09,The house feels so empty without him.,The house feels so empty without him.
@@ -531,10 +531,10 @@ full_low_4,m4l04,low,T,0,keep,7.86,,-6.3,-6.01,-0.28,-0.55,4.08,0.33,0.35,0.04,"
 full_low_4,m4l04,low,T,1,spare,-1.33,,39.1,-2.82,-0.86,-0.47,-0.81,0.0,0.28,0.11,"I wanted to tell her, but it was too late.","I wanted to tell her, but it was too late."
 full_low_4,m4l04,low,T,2,spare,1.34,,-1.0,-0.94,0.41,-0.43,0.99,0.42,0.38,0.05,"I wanted to tell her, but it was too late.","I wanted to tell her, but it was too late."
 full_low_4,m4l04,low,T,3,keep,2.20,,24.5,-4.35,-1.01,-0.11,1.0,0.3,0.23,0.05,"I wanted to tell her, but it was too late.","I wanted to tell her, but it was too late."
-full_low_4,m4l05,low,T,0,spare,1.51,,8.5,-0.82,-0.35,-0.62,5.12,0.0,0.29,0.08,Nobody even noticed I was gone.,Nobody even noticed I was gone.
+full_low_4,m4l05,low,T,0,keep,1.51,,8.5,-0.82,-0.35,-0.62,5.12,0.0,0.29,0.08,Nobody even noticed I was gone.,Nobody even noticed I was gone.
 full_low_4,m4l05,low,T,1,keep,1.64,,28.5,-0.87,1.71,-0.8,12.06,0.0,0.5,0.1,Nobody even noticed I was gone.,Nobody even noticed I was gone.
 full_low_4,m4l05,low,T,2,spare,-0.48,,40.6,-2.14,-0.37,0.12,4.79,0.0,0.22,0.07,Nobody even noticed I was gone.,Nobody even noticed I was gone.
-full_low_4,m4l05,low,T,3,keep,1.71,,-9.6,1.08,2.7,1.03,6.09,0.0,0.35,0.1,Nobody even noticed I was gone.,Nobody even noticed I was gone.
+full_low_4,m4l05,low,T,3,drop-flat,1.71,,-9.6,1.08,2.7,1.03,6.09,0.0,0.35,0.1,Nobody even noticed I was gone.,Nobody even noticed I was gone.
 full_low_4,m4l06,low,T,0,keep,1.49,,-5.4,-0.46,0.37,-0.45,1.63,0.0,0.25,0.16,I'm just so tired of waiting.,I'm just so tired of waiting.
 full_low_4,m4l06,low,T,1,keep,2.31,,0.6,-2.29,-1.28,-0.24,0.27,0.0,0.37,0.18,I'm just so tired of waiting.,I'm just so tired of waiting.
 full_low_4,m4l06,low,T,2,spare,-1.66,,14.5,0.41,-0.98,-0.63,0.67,0.0,0.38,0.13,I'm just so tired of waiting.,I'm just so tired of waiting.
@@ -547,7 +547,7 @@ full_low_4,m4g11l,low,T,0,keep,7.75,,-20.8,-3.92,-0.02,-0.21,5.84,0.0,0.35,0.08,
 full_low_4,m4g11l,low,T,1,spare,2.14,,9.0,-3.54,-1.42,-0.37,-1.67,0.0,0.18,0.09,He called me last night…,He called me last night.
 full_low_4,m4g11l,low,T,2,spare,1.80,,7.1,-3.08,-1.84,-0.78,-1.9,0.0,0.23,0.08,He called me last night…,He called me last night.
 full_low_4,m4g11l,low,T,3,keep,3.81,,-1.0,-3.07,-0.32,1.93,2.12,0.0,0.21,0.09,He called me last night…,He called me last night.
-full_low_4,m4g12l,low,T,2,keep,7.84,,-20.8,-1.45,5.09,1.43,14.38,0.0,0.16,0.03,They changed the plan…,They changed the plan.
+full_low_4,m4g12l,low,T,2,drop-flat,7.84,,-20.8,-1.45,5.09,1.43,14.38,0.0,0.16,0.03,They changed the plan…,They changed the plan.
 full_low_4,m4g12l,low,T,3,keep,2.16,,-12.0,-0.62,-0.83,-0.6,1.14,0.0,0.25,0.02,They changed the plan…,They changed the plan.
 full_low_4,m4g13l,low,T,0,spare,3.32,,-1.8,-3.04,0.46,-0.37,0.33,0.0,0.3,0.2,We got the results…,We got the results.
 full_low_4,m4g13l,low,T,1,keep,4.39,,-22.8,-2.27,0.2,-0.98,-0.52,0.01,0.37,0.23,We got the results…,We got the results.
@@ -571,7 +571,7 @@ full_low_4,m4g17l,low,T,3,keep,0.87,,28.5,-1.26,1.21,-0.59,8.19,0.0,0.29,0.08,He
 full_low_4,m4g18l,low,T,0,keep,-0.38,,24.3,-2.34,-1.19,-0.75,-0.95,0.0,0.6,0.04,My brother is getting married…,My brother is getting married.
 full_low_4,m4g18l,low,T,1,keep,2.97,,8.0,-3.29,0.78,-0.41,1.6,0.0,0.39,0.0,My brother is getting married…,My brother is getting married.
 full_low_4,m4g18l,low,T,2,spare,-1.17,,25.9,-2.77,-0.84,-0.57,-4.49,0.0,0.31,0.01,My brother is getting married…,My brother is getting married.
-full_low_4,m4g18l,low,T,3,drop-flat,-6.67,,44.0,1.61,-0.21,0.22,-2.19,0.0,0.27,0.03,My brother is getting married…,My brother is getting married.
+full_low_4,m4g18l,low,T,3,spare,-6.67,,44.0,1.61,-0.21,0.22,-2.19,0.0,0.27,0.03,My brother is getting married…,My brother is getting married.
 full_low_4,m4g19l,low,T,0,keep,4.08,,7.3,-1.94,-0.96,-0.75,9.55,0.0,0.47,0.0,I'm going home tomorrow…,I'm going home tomorrow.
 full_low_4,m4g19l,low,T,1,keep,5.94,,4.6,-2.06,0.09,-0.47,14.45,0.0,0.54,0.03,I'm going home tomorrow…,I'm going home tomorrow.
 full_low_4,m4g19l,low,T,2,spare,3.33,,-1.6,-0.3,-0.76,-0.29,9.55,0.0,0.5,0.04,I'm going home tomorrow…,I'm going home tomorrow.

@@ -1,0 +1,33 @@
+code,mood,group,run,take,text
+C1,tense,keep,full_tense_4,m3xt70_T_3,Sure… whatever you say.
+C2,bright,drop-flat,full_bright_4,m3xb48_T_0,You did… all of this?!
+C3,low,drop-flat,full_low_4,m3xl68_T_1,Did you eat anything today?
+C4,low,keep,full_low_3,m3xl17_T_2,I tried to call — but nobody answered.
+C5,bright,keep,full_bright_1,m3b34_T_3,My manager said I'm the best shift leader they've had!
+C6,low,drop-flat,full_low_4,m3xl71_T_1,He's not coming back?!
+C7,low,keep,full_low_2,m3l56_T_2,Nobody remembered my birthday this year… except Priya.
+C8,bright,keep,full_bright_2,m3b65_T_0,"Sam's team won the match, and he took the last wicket!"
+C9,low,drop-flat,full_low_3,m3xl32_T_3,You knew all along?!
+C10,bright,keep,full_bright_1,m3b33_T_2,"Paati made crab curry for the whole street, and everyone loved it!"
+C11,low,spare,full_low_4,m4l04_T_1,"I wanted to tell her, but it was too late."
+C12,tense,drop-flat,full_tense_4,m4g12t_T_0,They changed the plan.
+C13,bright,keep,full_bright_2,m3b44_T_2,You're joking! Both of you?!
+C14,low,keep,full_low_4,m3xl56_T_2,Everything went wrong!
+C15,bright,drop-flat,full_bright_2,m3b38_T_0,"Wow, you remembered! Thank you!"
+C16,low,keep,full_low_2,m3xl08_T_3,I just wanted one good day!
+C17,bright,drop-flat,full_bright_1,m3b06_T_3,He smiled at Sam? Thenuka's first smile? That's so sweet!
+C18,bright,drop-flat,full_bright_3,m3xb16_T_3,You got the job?!
+C19,low,drop-flat,full_low_2,m3xl07_T_2,I miss her so much!
+C20,low,keep,full_low_1,m3l06_T_1,"Oh, Sam… I'm so sorry about Bruno. He was family."
+C21,tense,drop-flat,full_tense_4,m3xt78_T_1,Thanks… for nothing.
+C22,bright,keep,full_bright_1,m3b06_T_1,He smiled at Sam? Thenuka's first smile? That's so sweet!
+C23,tense,spare,full_tense_2,m3t68_T_0,Someone deleted my photos from the shared folder. Without asking.
+C24,low,drop-flat,full_low_3,m3xl43_T_2,I should have STAYED.
+C25,bright,spare,full_bright_1,m3b03_T_3,"She's cooking crab curry again, so I know she's really better!"
+C26,tense,keep,full_tense_1,m3t15_T_1,Really.
+C27,low,keep,full_low_4,m3xl59_T_0,I should never have left!
+C28,tense,keep,full_tense_3,m3xt49_T_1,It's DONE.
+C29,bright,s-sound,full_bright_2,m3b64_T_3,"I finally made Paati's crab curry, and it actually tasted like hers!"
+C30,bright,drop-flat,full_bright_2,m3b45_T_3,That was brilliant! You didn't stop once!
+C31,bright,keep,full_bright_3,m3xb06_T_0,Look… the sun's coming out!
+C32,low,s-sound,full_low_3,m3xl16_T_1,She was fine yesterday — and now this.
