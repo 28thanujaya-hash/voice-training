@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Original vs actor: do they sound the same?</title>
+<style>
+:root{--bg:#faf8f5;--card:#fff;--ink:#1f1d1a;--mute:#76716a;--line:#e6e1da;--same:#5a8a4a;--close:#c79a1e;--diff:#a8423b}
+@media (prefers-color-scheme:dark){:root{--bg:#171614;--card:#211f1c;--ink:#ece8e1;--mute:#9a948b;--line:#36322d}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 14px}
+h1{font-size:17px;margin:0}
+header p{margin:4px 0 0;color:var(--mute);font-size:13px}
+main{padding:6px 14px 80px;max-width:640px;margin:0 auto}
+.pair{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin:10px 0}
+.line{font-weight:600;margin-bottom:2px}
+.actor{font-size:12px;color:var(--mute);margin-bottom:8px}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.play{padding:9px 14px;border-radius:22px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font:inherit}
+.play.on{background:var(--ink);color:var(--bg)}
+.marks{display:flex;gap:5px;margin-left:auto}
+.m{padding:8px 10px;border-radius:9px;border:1.5px solid var(--line);background:transparent;color:var(--ink);font:inherit;font-size:14px}
+.m.same.on{background:var(--same);border-color:var(--same);color:#fff}
+.m.close.on{background:var(--close);border-color:var(--close);color:#fff}
+.m.diff.on{background:var(--diff);border-color:var(--diff);color:#fff}
+.foot{position:fixed;bottom:0;left:0;right:0;background:var(--bg);border-top:1px solid var(--line);padding:8px 14px;display:flex;gap:8px;align-items:center;font-size:13px;color:var(--mute)}
+.foot button{padding:7px 12px;border-radius:9px;border:1px solid var(--line);background:var(--card);color:var(--ink);margin-left:auto}
+</style>
+</head>
+<body>
+<header>
+  <h1>Original vs actor</h1>
+  <p>Play the human reader, then the actor. Do they sound the same? (Voice differs: Anne is a child, F an adult; judge the delivery.)</p>
+</header>
+<main id="list"><p style="color:var(--mute)">Loading…</p></main>
+<div class="foot"><span id="msg">Marks stay on this phone.</span><button id="copy">Copy marks</button></div>
+<audio id="au" preload="none"></audio>
+<script>
+const KEY = "book-pairs-" + document.title; const $ = id => document.getElementById(id), au = $("au");
+let pairs = [], pack = null, marks = {}, playing = null;
+try{ marks = JSON.parse(localStorage.getItem(KEY) || "{}") }catch(e){}
+const save = () => { try{ localStorage.setItem(KEY, JSON.stringify(marks)) }catch(e){} };
+function render(){
+  $("list").innerHTML = pairs.map(p => `<div class="pair" data-n="${p.n}">
+    <div class="line">${p.n}. ${p.text}</div><div class="actor">actor read: ${p.actor}</div>
+    <div class="row">
+      <button class="play${playing==="O"+p.n?" on":""}" data-play="O${p.n}">${playing==="O"+p.n?"■":"▶"} Original</button>
+      <button class="play${playing==="A"+p.n?" on":""}" data-play="A${p.n}">${playing==="A"+p.n?"■":"▶"} Actor</button>
+      <span class="marks">${[["same","Same"],["close","Close"],["diff","Different"]].map(([k,l])=>`<button class="m ${k}${marks[p.n]===k?" on":""}" data-mark="${k}">${l}</button>`).join("")}</span>
+    </div></div>`).join("");
+}
+$("list").addEventListener("click", async e => {
+  const b = e.target.closest("[data-play]");
+  if (b){
+    const c = b.dataset.play;
+    if (playing === c){ au.pause(); playing = null; render(); return; }
+    try{
+      if (!pack){ $("msg").textContent = "Loading clips…"; pack = await (await fetch("audio/pairs.json")).json(); $("msg").textContent = "Marks stay on this phone."; }
+      au.src = "data:audio/mpeg;base64," + pack[c]; playing = c; render(); await au.play();
+    }catch(err){ playing = null; render(); $("msg").textContent = "Could not play this clip."; }
+    return;
+  }
+  const m = e.target.closest("[data-mark]"); if (!m) return;
+  const n = m.closest(".pair").dataset.n; marks[n] = marks[n] === m.dataset.mark ? "" : m.dataset.mark; save(); render();
+});
+au.addEventListener("ended", () => { playing = null; render(); });
+$("copy").addEventListener("click", async () => {
+  const t = pairs.filter(p => marks[p.n]).map(p => `${p.n} ${marks[p.n]}`).join("\n") || "(no marks yet)";
+  try{ await navigator.clipboard.writeText(t); $("msg").textContent = "Marks copied."; }catch(err){ $("msg").textContent = "Copy blocked."; }
+});
+(async () => { try{ pairs = await (await fetch("pairs.json")).json(); render(); }catch(e){ $("list").innerHTML = "<p>Could not load.</p>"; } })();
+</script>
+</body>
+</html>
