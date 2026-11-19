@@ -1,0 +1,126 @@
+chapter,para,sent,dialogue,text,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
+11,0,0,0,"WELL, how do you like them?” said Marilla.",8,1.0,23.06,25.62,3.13,-41.78,1.65,6.0,-11.7,-10.71,-10.55,3.39,7.3,-1.1,6.9,"Well,|0.34|+0.0 them?|0.30|-0.2"
+11,1,1,0,"Anne was standing in the gable room, looking solemnly at three new dresses spread out on the bed.",18,1.0,26.58,31.36,3.77,-31.25,11.85,3.64,6.3,-0.18,-0.35,1.03,-2.45,-1.2,-0.8,"room,|0.24|+5.8"
+11,1,2,0,One was of snuffy colored gingham which Marilla had been tempted to buy from a peddler the preceding summer because it looked so serviceable; one was of black-and-white checkered sateen which she had picked up at a bargain counter in the winter; and one was a stiff print of an ugly blue shade which she had purchased that week at a Carmody store.,65,0.97,31.96,48.62,3.9,-32.93,12.45,3.0,10.0,-1.86,0.25,0.39,0.0,-4.6,-4.3,"snuffy|0.38|-3.4 serviceable.|0.58|+nan checkered|0.50|-2.4 winter,|0.40|+1.5"
+11,2,3,0,"She had made them up herself, and they were all made alike—plain skirts fulled tightly to plain waists, with sleeves as plain as waist and skirt and tight as sleeves could be.",32,0.94,49.24,58.62,3.41,-32.15,12.35,3.56,-3.8,-1.07,0.15,0.95,-3.1,-12.0,-11.5,"herself,|0.30|+nan made|0.92|+1.4 skirts,|0.36|+2.5"
+11,3,4,1,"“I’ll imagine that I like them,” said Anne soberly.",9,0.89,60.0,62.56,3.52,-32.22,10.45,4.01,-0.7,-1.14,-1.75,1.4,-0.65,-3.1,-0.3,
+11,4,5,1,"“I don’t want you to imagine it,” said Marilla, offended.",10,0.9,63.14,65.76,3.82,-32.01,9.25,6.07,7.8,-0.93,-2.95,3.46,-0.6,-1.3,-0.8,
+11,4,6,1,"“Oh, I can see you don’t like the dresses!",9,0.89,66.36,68.36,4.5,-31.53,10.7,4.73,26.9,-0.46,-1.5,2.12,-0.8,-3.5,-1.4,
+11,4,7,1,What is the matter with them?,6,1.0,68.74,69.72,6.12,-29.67,18.15,6.53,72.6,1.4,5.95,3.92,-8.0,-19.7,-19.3,
+11,4,8,1,Aren’t they neat and clean and new?”,7,0.86,70.14,71.86,4.07,-32.53,12.05,5.3,14.8,-1.46,-0.15,2.69,-10.4,-9.4,-9.3,
+11,5,9,1,“Yes.”,1,1.0,,,,,,,,,,,,,,
+11,6,10,1,“Then why don’t you like them?”,6,0.83,73.18,74.78,3.75,-35.15,10.15,6.32,5.8,-4.07,-2.05,3.72,-8.5,-8.0,-7.85,
+11,7,11,1,"“They’re—they’re not—pretty,” said Anne reluctantly.",5,0.8,77.42,79.08,3.01,-37.19,10.15,4.55,-15.1,-6.11,-2.05,1.94,0.75,-0.8,-0.2,
+11,8,12,1,“Pretty!”,1,1.0,,,,,,,,,,,,,,
+11,8,13,0,Marilla sniffed.,2,1.0,80.64,81.6,2.08,-33.9,10.25,1.35,-41.3,-2.82,-1.95,-1.26,-0.85,-3.9,-3.2,
+11,8,14,1,“I didn’t trouble my head about getting pretty dresses for you.,11,0.91,81.78,84.6,3.9,-30.8,12.55,2.23,10.0,0.27,0.35,-0.38,-1.6,-2.8,-2.4,"""'I|0.32|-0.1"
+11,8,15,1,"I don’t believe in pampering vanity, Anne, I’ll tell you that right off.",13,0.85,84.8,88.18,3.85,-29.47,10.35,3.98,8.6,1.61,-1.85,1.37,-0.5,-2.5,0.3,I|0.26|+5.2 Anne.|0.22|+1.2
+11,8,16,1,"Those dresses are good, sensible, serviceable dresses, without any frills or furbelows about them, and they’re all you’ll get this summer.",21,0.86,88.48,95.36,3.05,-29.35,14.95,3.46,-14.0,1.72,2.75,0.85,-13.0,0.0,0.0,"sensible,|0.28|+2.4 or|0.42|-8.4 them,|0.30|+nan all|0.26|+nan"
+11,8,17,1,The brown gingham and the blue print will do you for school when you begin to go.,17,1.0,95.74,98.98,5.25,-30.6,11.2,3.31,48.1,0.47,-1.0,0.7,-1.4,-1.5,0.1,
+11,8,18,1,The sateen is for church and Sunday-school.,8,0.88,99.4,101.4,4.0,-32.8,,,12.8,-1.72,,,,,,The|0.38|+nan
+11,8,19,1,I’ll expect you to keep them neat and clean and not to tear them.,14,0.93,102.14,104.66,5.56,-30.32,13.95,2.45,56.8,0.75,1.75,-0.16,-2.5,-6.5,-2.3,
+11,8,20,1,I should think you’d be grateful to get most anything after those skimpy wincey things you’ve been wearing.”,18,0.89,104.92,109.38,4.04,-31.92,11.25,5.31,14.0,-0.85,-0.95,2.7,-9.6,0.0,0.0,
+11,9,21,1,"“Oh, I am grateful,” protested Anne.",6,1.0,109.38,111.54,2.78,-31.93,18.6,8.3,-21.6,-0.86,6.4,5.7,-1.55,-15.5,-7.9,
+11,9,22,1,“But I’d be ever so much gratefuller if—if you’d made just one of them with puffed sleeves.,17,0.82,111.84,117.58,2.96,-34.14,16.95,4.25,-16.5,-3.07,4.75,1.64,0.1,-4.6,-2.6,"""'But|0.24|+15.3 much|0.72|+nan if—if|0.20|+nan"
+11,9,23,1,Puffed sleeves are so fashionable now.,6,1.0,118.38,120.24,3.23,-30.93,14.4,2.61,-8.9,0.14,2.2,0.0,-3.3,-3.3,-3.15,
+11,9,24,1,"It would give me such a thrill, Marilla, just to wear a dress with puffed sleeves.”",16,1.0,120.6,125.0,3.64,-33.75,15.25,5.15,2.7,-2.68,3.05,2.54,-13.6,-10.7,-10.4,"Marilla,|0.26|+12.0"
+11,10,25,1,"“Well, you’ll have to do without your thrill.",8,0.88,125.0,126.86,4.3,-29.9,14.2,5.53,21.3,1.18,2.0,2.92,3.45,-0.9,2.7,"""'Well,|0.28|+2.6"
+11,10,26,1,I hadn’t any material to waste on puffed sleeves.,9,0.89,127.16,129.66,3.6,-31.01,12.8,2.78,1.6,0.06,0.6,0.17,-4.1,-5.3,-3.2,I|0.30|+nan
+11,10,27,1,I think they are ridiculous-looking things anyhow.,8,0.75,,,,,,,,,,,,,,
+11,10,28,1,"I prefer the plain, sensible ones.”",6,1.0,132.32,134.06,3.45,-32.52,1.65,0.0,-2.7,-1.45,-10.55,-2.61,0.0,0.0,0.0,
+11,11,29,1,"“But I’d rather look ridiculous when everybody else does than plain and sensible all by myself,” persisted Anne mournfully.",19,0.95,134.68,141.22,2.91,-31.93,12.35,4.16,-17.9,-0.86,0.15,1.55,-1.9,-1.1,-0.4,But|0.22|+5.8
+11,12,30,1,“Trust you for that!,4,1.0,141.58,142.7,3.57,-33.09,13.3,5.5,0.7,-2.02,1.1,2.89,1.15,-2.8,-1.4,
+11,12,31,1,"Well, hang those dresses carefully up in your closet, and then sit down and learn the Sunday-school lesson.",19,1.0,143.04,147.48,4.28,-31.5,11.85,3.23,20.7,-0.43,-0.35,0.62,-7.6,-8.6,-6.8,"Well,|0.26|+2.9"
+11,12,32,1,"I got a quarterly from Mr. Bell for you and you’ll go to Sunday-school tomorrow,” said Marilla, disappearing downstairs in high dudgeon.",23,0.91,147.74,154.98,3.18,-33.71,9.95,4.71,-10.3,-2.64,-2.25,2.1,-8.3,0.0,0.0,"quarterly|0.26|-5.0 Mr.|0.20|-1.4 you,|0.24|+nan"
+11,13,33,0,Anne clasped her hands and looked at the dresses.,9,1.0,154.98,157.26,3.95,-34.79,12.25,2.03,11.4,-3.72,0.05,-0.58,-1.8,-2.1,-1.2,
+11,14,34,1,"“I did hope there would be a white one with puffed sleeves,” she whispered disconsolately.",15,1.0,158.14,162.58,3.38,-33.88,12.45,4.18,-4.7,-2.81,0.25,1.57,-0.9,-0.75,0.35,
+11,14,35,1,"“I prayed for one, but I didn’t much expect it on that account.",13,0.92,162.8,166.3,3.71,-35.05,12.35,5.03,4.7,-3.97,0.15,2.42,-0.55,-3.2,-2.6,"one,|0.22|-9.2 I|0.22|-1.9"
+11,14,36,1,I didn’t suppose God would have time to bother about a little orphan girl’s dress.,15,0.87,166.62,170.62,3.75,-32.04,11.85,2.12,5.8,-0.96,-0.35,-0.49,-0.65,-1.6,0.3,I|0.26|-1.4 orphan|0.42|-0.9
+11,14,37,1,I knew I’d just have to depend on Marilla for it.,11,0.91,171.06,174.44,3.25,-35.07,12.55,5.53,-8.3,-4.0,0.35,2.92,-10.9,-0.3,0.0,knew|0.26|-1.5
+11,14,38,1,"Well, fortunately I can imagine that one of them is of snow-white muslin with lovely lace frills and three-puffed sleeves.”",22,1.0,174.44,180.66,3.54,-32.82,12.45,2.96,-0.1,-1.75,0.25,0.35,-2.05,-3.5,-2.55,"muslin,|0.34|+2.3"
+11,15,39,0,The next morning warnings of a sick headache prevented Marilla from going to Sunday-school with Anne.,17,1.0,181.3,186.04,3.59,-31.02,12.15,3.8,1.3,0.05,-0.05,1.19,-2.05,-1.6,0.1,
+11,16,40,1,"“You’ll have to go down and call for Mrs. Lynde, Anne,” she said.",13,0.92,187.1,189.64,5.12,-31.12,12.15,2.19,44.4,-0.05,-0.05,-0.42,-0.6,-4.1,-2.6,Mrs.|0.22|-2.0
+11,16,41,1,“She’ll see that you get into the right class.,9,0.89,190.2,191.56,6.62,-29.55,12.25,3.08,86.7,1.52,0.05,0.47,-2.15,-4.2,-3.8,
+11,16,42,1,"Now, mind you behave yourself properly.",6,1.0,191.86,193.5,3.66,-29.22,15.95,2.05,3.2,1.86,3.75,-0.56,-0.2,-1.9,-1.3,"Now,|0.22|+6.6"
+11,16,43,1,Stay to preaching afterwards and ask Mrs. Lynde to show you our pew.,13,1.0,193.82,197.06,4.01,-30.76,12.3,4.2,13.1,0.31,0.1,1.59,-1.3,-3.2,-1.8,"afterwards,|0.34|+3.0"
+11,16,44,1,Here’s a cent for collection.,5,0.8,197.78,198.56,6.41,-29.25,,,80.8,1.82,,,,,,
+11,16,45,1,Don’t stare at people and don’t fidget.,7,0.71,,,,,,,,,,,,,,
+11,16,46,1,I shall expect you to tell me the text when you come home.”,13,1.0,200.94,203.66,4.78,-33.48,1.65,4.81,34.8,-2.4,-10.55,2.2,0.0,0.0,0.0,
+11,17,47,0,"Anne started off irreproachable, arrayed in the stiff black-and-white sateen, which, while decent as regards length and certainly not open to the charge of skimpiness, contrived to emphasize every corner and angle of her thin figure.",38,0.92,203.66,216.08,3.06,-31.9,12.15,2.85,-13.7,-0.82,-0.05,0.24,-1.3,-2.3,1.0,"off|0.90|+0.1 -white|0.90|+6.1 which,|0.20|-2.3 skimpiness,|0.46|-1.0 to|0.58|-0.9"
+11,17,48,0,"Her hat was a little, flat, glossy, new sailor, the extreme plainness of which had likewise much disappointed Anne, who had permitted herself secret visions of ribbon and flowers.",29,1.0,216.64,225.6,3.24,-31.19,13.65,2.25,-8.6,-0.12,1.45,-0.36,-4.0,-5.0,-0.8,"sailor,|0.34|+nan"
+11,17,49,0,"The latter, however, were supplied before Anne reached the main road, for being confronted halfway down the lane with a golden frenzy of wind-stirred buttercups and a glory of wild roses, Anne promptly and liberally garlanded her hat with a heavy wreath of them.",45,1.0,226.3,239.56,3.39,-30.8,12.05,2.34,-4.4,0.27,-0.15,-0.27,-1.0,-2.1,1.3,"road,|0.34|+4.5 roses,|0.52|+4.2"
+11,17,50,0,"Whatever other people might have thought of the result it satisfied Anne, and she tripped gaily down the road, holding her ruddy head with its decoration of pink and yellow very proudly.",32,1.0,240.16,249.3,3.5,-31.74,12.65,2.11,-1.3,-0.66,0.45,-0.5,-0.9,-5.3,-3.6,"Anne,|0.22|+nan road,|0.30|+2.0"
+11,18,51,0,When she had reached Mrs. Lynde’s house she found that lady gone.,12,0.92,250.32,253.36,3.95,-28.26,14.55,3.38,11.4,2.81,2.35,0.77,-1.75,-2.1,-1.9,Mrs.|0.48|+nan
+11,18,52,0,"Nothing daunted, Anne proceeded onward to the church alone.",9,1.0,253.86,256.46,3.46,-29.1,13.65,1.9,-2.4,1.97,1.45,-0.71,-1.7,-3.2,-1.9,"daunted,|0.20|+3.0"
+11,18,53,0,"In the porch she found a crowd of little girls, all more or less gaily attired in whites and blues and pinks, and all staring with curious eyes at this stranger in their midst, with her extraordinary head adornment.",39,1.0,256.78,267.56,3.62,-30.94,12.45,2.4,2.1,0.13,0.25,-0.21,-3.6,-6.9,-0.1,"girls,|0.28|+2.1 pinks,|0.34|+nan"
+11,18,54,0,Avonlea little girls had already heard queer stories about Anne.,10,1.0,268.12,271.02,3.45,-27.56,11.45,2.39,-2.7,3.52,-0.75,-0.22,-2.55,-3.5,-2.1,
+11,18,55,0,"Mrs. Lynde said she had an awful temper; Jerry Buote, the hired boy at Green Gables, said she talked all the time to herself or to the trees and flowers like a crazy girl.",34,0.97,271.56,280.46,3.82,-31.89,11.85,4.16,7.8,-0.82,-0.35,1.55,-2.0,-4.1,-0.05,"temper.|0.72|+2.0 Jerry|0.54|+0.6 Gables,|0.34|+nan"
+11,18,56,0,They looked at her and whispered to each other behind their quarterlies.,12,1.0,281.0,283.7,4.44,-31.23,9.95,3.44,25.2,-0.16,-2.25,0.83,-1.25,-5.1,-0.5,
+11,18,57,0,"Nobody made any friendly advances, then or later on when the opening exercises were over and Anne found herself in Miss Rogerson’s class.",23,0.96,284.26,291.12,3.35,-29.53,11.85,3.04,-5.5,1.54,-0.35,0.43,1.95,-0.7,2.75,"over,|0.28|+0.6 Miss|0.54|+nan"
+11,19,58,0,Miss Rogerson was a middle-aged lady who had taught a Sunday-school class for twenty years.,17,1.0,291.76,295.82,4.19,-28.71,13.05,2.47,18.2,2.36,0.85,-0.14,-2.55,-4.4,-3.7,
+11,19,59,0,Her method of teaching was to ask the printed questions from the quarterly and look sternly over its edge at the particular little girl she thought ought to answer the question.,31,1.0,296.28,303.74,4.16,-31.14,11.45,2.36,17.3,-0.07,-0.75,-0.25,-1.9,-4.0,-2.7,
+11,19,60,0,"She looked very often at Anne, and Anne, thanks to Marilla’s drilling, answered promptly; but it may be questioned if she understood very much about either question or answer.",29,0.97,304.2,313.36,3.17,-30.19,11.85,4.82,-10.6,0.88,-0.35,2.22,-2.4,-2.9,-2.5,"Anne,|0.26|+nan to|0.38|+nan drilling,|0.38|+5.2 promptly.|0.58|-14.2"
+11,20,61,0,"She did not think she liked Miss Rogerson, and she felt very miserable; every other little girl in the class had puffed sleeves.",23,1.0,314.18,320.8,3.47,-31.13,14.05,5.32,-2.1,-0.05,1.85,2.72,-3.3,-2.7,-2.3,miserable.|0.64|+6.5
+11,20,62,0,Anne felt that life was really not worth living without puffed sleeves.,12,1.0,321.38,324.68,3.64,-30.39,12.85,1.7,2.7,0.68,0.65,-0.91,-2.0,-0.6,-0.2,
+11,21,63,1,"“Well, how did you like Sunday-school?”",7,1.0,325.14,327.54,2.92,-36.3,10.4,6.47,-17.6,-5.22,-1.8,3.86,-0.45,-7.1,-6.75,"Well,|0.64|+nan"
+11,21,64,0,Marilla wanted to know when Anne came home.,8,1.0,327.8,329.66,4.3,-29.02,10.05,0.88,21.3,2.05,-2.15,-1.73,-0.5,-4.1,-1.9,
+11,21,65,0,"Her wreath having faded, Anne had discarded it in the lane, so Marilla was spared the knowledge of that for a time.",22,1.0,330.22,335.22,4.4,-29.15,12.35,2.27,24.1,1.93,0.15,-0.34,-1.05,-3.6,-2.5,"faded,|0.30|-0.8"
+11,22,66,1,“I didn’t like it a bit.,6,0.83,335.56,336.66,5.45,-27.99,14.45,6.01,53.7,3.09,2.25,3.4,-0.25,-6.1,-5.9,I|0.22|+12.8
+11,22,67,1,It was horrid.”,3,1.0,336.88,337.72,3.57,-30.15,13.6,2.49,0.7,0.93,1.4,-0.12,-0.9,-6.4,-5.7,
+11,23,68,1,“Anne Shirley!” said Marilla rebukingly.,5,0.8,338.16,340.3,2.34,-29.8,10.55,3.22,-34.0,1.27,-1.65,0.61,-1.1,-3.3,0.2,"Anne,|0.62|+11.0"
+11,24,69,0,"Anne sat down on the rocker with a long sigh, kissed one of Bonny’s leaves, and waved her hand to a blossoming fuchsia.",23,0.96,340.94,347.02,3.78,-31.55,11.75,1.6,6.6,-0.48,-0.45,-1.01,-0.75,-1.4,-0.4,"sigh,|0.30|+4.6 of|0.36|-1.9 leaves,|0.40|+3.0"
+11,25,70,1,"“They might have been lonesome while I was away,” she explained.",11,1.0,347.76,350.4,4.17,-30.78,12.35,5.03,17.6,0.29,0.15,2.42,-0.9,-1.9,-0.3,
+11,25,71,1,“And now about the Sunday-school.,6,1.0,350.86,352.32,4.11,-30.84,12.45,1.77,15.9,0.23,0.25,-0.84,-2.0,-3.8,-2.8,
+11,25,72,1,"I behaved well, just as you told me.",8,1.0,352.82,354.56,4.6,-31.69,15.15,4.79,29.8,-0.62,2.95,2.18,-9.2,-15.3,-13.5,
+11,25,73,1,"Mrs. Lynde was gone, but I went right on myself.",10,1.0,354.74,356.9,4.63,-26.32,12.75,1.56,30.6,4.75,0.55,-1.05,-1.7,-4.2,-3.8,
+11,25,74,1,"I went into the church, with a lot of other little girls, and I sat in the corner of a pew by the window while the opening exercises went on.",30,1.0,357.24,363.62,4.7,-30.35,12.05,2.45,32.6,0.72,-0.15,-0.16,-2.9,-1.1,-0.9,
+11,25,75,1,Mr. Bell made an awfully long prayer.,7,1.0,364.06,365.9,3.8,-28.58,12.25,2.08,7.2,2.5,0.05,-0.53,-2.95,-4.0,-3.5,
+11,25,76,1,I would have been dreadfully tired before he got through if I hadn’t been sitting by that window.,18,0.94,366.36,370.74,4.11,-30.98,13.35,2.61,15.9,0.09,1.15,0.0,-0.6,-4.8,-1.1,I|0.22|-1.0
+11,25,77,1,"But it looked right out on the Lake of Shining Waters, so I just gazed at that and imagined all sorts of splendid things.”",24,1.0,371.1,376.74,4.26,-30.65,14.5,2.34,20.2,0.43,2.3,-0.27,1.0,-0.5,3.05,"waters,|0.22|+nan"
+11,26,78,1,“You shouldn’t have done anything of the sort.,8,0.88,377.24,378.98,4.6,-30.46,12.45,7.6,29.8,0.61,0.25,4.99,9.4,-3.2,8.4,You|0.30|+8.7
+11,26,79,1,You should have listened to Mr. Bell.”,7,1.0,379.22,380.52,5.38,-30.9,12.05,0.74,51.8,0.18,-0.15,-1.87,0.0,-1.0,-0.8,
+11,27,80,1,"“But he wasn’t talking to me,” protested Anne.",8,0.88,381.0,383.3,3.48,-32.56,16.65,6.59,-1.8,-1.49,4.45,3.98,-0.85,-1.4,3.4,he|0.24|+3.0
+11,27,81,1,"“He was talking to God and he didn’t seem to be very much interested in it, either.",17,0.94,383.62,387.4,4.5,-31.9,15.25,5.83,26.9,-0.82,3.05,3.22,-1.3,-0.9,3.1,he|0.28|-0.2
+11,27,82,1,I think he thought God was too far off though.,10,1.0,387.98,390.24,4.42,-29.71,15.65,3.64,24.7,1.36,3.45,1.03,-5.7,-7.2,-5.9,
+11,27,83,1,"There was a long row of white birches hanging over the lake and the sunshine fell down through them, ‘way, ‘way down, deep into the water.",26,1.0,390.78,397.76,3.72,-29.56,14.45,1.99,4.9,1.52,2.25,-0.62,-2.65,-4.8,-4.5,"way,|0.32|-0.8"
+11,27,84,1,"Oh, Marilla, it was like a beautiful dream!",8,1.0,398.16,400.2,3.92,-30.42,12.65,1.92,10.6,0.65,0.45,-0.69,1.0,-5.1,-4.8,
+11,27,85,1,"It gave me a thrill and I just said, ‘Thank you for it, God,’ two or three times.”",18,1.0,400.4,404.9,4.0,-34.74,13.95,4.84,12.8,-3.67,1.75,2.23,-12.3,0.0,0.0,
+11,28,86,1,"“Not out loud, I hope,” said Marilla anxiously.",8,1.0,404.9,407.52,3.05,-32.22,9.55,3.89,-14.0,-1.14,-2.65,1.28,-0.2,-1.8,-1.7,
+11,29,87,1,"“Oh, no, just under my breath.",6,1.0,408.06,410.1,2.94,-31.07,11.65,6.99,-17.1,0.0,-0.55,4.38,-10.0,-9.2,-8.5,
+11,29,88,1,"Well, Mr. Bell did get through at last and they told me to go into the classroom with Miss Rogerson’s class.",21,0.95,410.5,415.38,4.3,-30.52,13.05,2.26,21.3,0.55,0.85,-0.35,0.2,-1.2,2.1,"Well,|0.30|+2.0 Miss|0.56|+nan"
+11,29,89,1,There were nine other girls in it.,7,1.0,415.7,417.22,4.61,-27.43,14.25,1.64,30.0,3.64,2.05,-0.97,-2.2,-6.3,-5.8,
+11,29,90,1,They all had puffed sleeves.,5,1.0,417.42,418.76,3.73,-30.67,11.15,0.94,5.2,0.4,-1.05,-1.67,-0.4,-2.1,-0.6,
+11,29,91,1,"I tried to imagine mine were puffed, too, but I couldn’t.",11,0.91,419.06,421.32,4.87,-28.49,13.15,4.35,37.4,2.59,0.95,1.74,-0.9,-2.1,-0.9,
+11,29,92,1,Why couldn’t I?,3,0.67,,,,,,,,,,,,,,
+11,29,93,1,"It was as easy as could be to imagine they were puffed when I was alone in the east gable, but it was awfully hard there among the others who had really truly puffs.”",34,0.97,423.16,429.98,4.99,-30.79,13.15,3.15,40.8,0.29,0.95,0.54,3.9,-1.9,1.1,"Gable,|0.36|+1.6"
+11,30,94,1,“You shouldn’t have been thinking about your sleeves in Sunday-school.,11,0.91,431.1,433.94,3.87,-29.82,13.2,5.36,9.2,1.25,1.0,2.76,-0.4,-3.8,-3.1,"""'You|0.30|-0.6"
+11,30,95,1,You should have been attending to the lesson.,8,1.0,434.14,435.6,5.48,-26.12,12.85,4.42,54.6,4.95,0.65,1.81,0.75,-3.5,-3.2,
+11,30,96,1,I hope you knew it.”,5,1.0,435.8,436.98,4.24,-30.74,27.2,0.49,19.6,0.34,15.0,-2.12,0.0,-1.0,-0.6,
+11,31,97,1,"“Oh, yes; and I answered a lot of questions.",9,1.0,436.98,439.22,4.02,-25.46,15.75,3.1,13.4,5.61,3.55,0.49,-2.6,-2.3,1.0,yes.|0.30|-6.7
+11,31,98,1,Miss Rogerson asked ever so many.,6,1.0,439.68,441.4,3.49,-27.41,12.65,3.15,-1.6,3.66,0.45,0.54,-2.35,-4.0,-3.8,
+11,31,99,1,I don’t think it was fair for her to do all the asking.,13,0.92,441.78,443.92,6.07,-27.38,11.25,5.46,71.2,3.7,-0.95,2.85,-0.25,-1.2,-0.7,
+11,31,100,1,"There were lots I wanted to ask her, but I didn’t like to because I didn’t think she was a kindred spirit.",22,0.91,444.22,449.1,4.51,-29.13,13.45,4.22,27.2,1.95,1.25,1.61,-0.25,-4.6,-1.8,"her,|0.32|+nan I|0.26|+0.6 I|0.30|+0.8"
+11,31,101,1,Then all the other little girls recited a paraphrase.,9,1.0,449.84,452.36,3.57,-28.1,13.15,2.92,0.7,2.97,0.95,0.31,-4.1,-6.2,-3.5,
+11,31,102,1,She asked me if I knew any.,7,1.0,452.66,453.9,5.65,-25.39,13.75,3.72,59.4,5.68,1.55,1.11,-4.25,-5.1,-3.7,
+11,31,103,1,"I told her I didn’t, but I could recite, ‘The Dog at His Master’s Grave’ if she liked.",18,0.89,454.12,457.92,4.74,-28.38,13.05,1.84,33.7,2.7,0.85,-0.77,4.0,-0.4,4.8,"I|0.34|+1.5 recite,|0.28|+2.1 his|0.40|+3.5"
+11,31,104,1,That’s in the Third Royal Reader.,6,0.83,458.66,459.7,5.77,-26.37,12.55,1.29,62.8,4.7,0.35,-1.32,-0.55,-1.2,-0.1,
+11,31,105,1,"It isn’t a really truly religious piece of poetry, but it’s so sad and melancholy that it might as well be.",21,0.9,460.1,465.38,3.98,-29.72,12.65,3.66,12.3,1.36,0.45,1.05,-0.1,-2.5,-0.1,"It|0.22|-12.5 poetry,|0.28|+5.2"
+11,31,106,1,She said it wouldn’t do and she told me to learn the nineteenth paraphrase for next Sunday.,17,0.94,465.96,469.94,4.27,-28.0,13.75,2.57,20.5,3.07,1.55,-0.04,-1.9,-0.2,2.3,it|0.26|-7.3
+11,31,107,1,I read it over in church afterwards and it’s splendid.,10,0.9,470.24,472.46,4.5,-26.85,13.25,4.25,26.9,4.22,1.05,1.64,0.9,-0.3,4.0,and|0.22|+4.1
+11,31,108,1,There are two lines in particular that just thrill me.,10,0.9,472.94,475.34,4.17,-31.73,14.05,3.35,17.6,-0.66,1.85,0.74,-3.55,-6.9,-5.8,
+11,32,109,1,“‘Quick as the slaughtered squadrons fell In Midian’s evil day.’,10,0.9,475.84,479.08,3.09,-26.31,13.95,2.95,-12.8,4.77,1.75,0.34,-2.05,-3.8,-3.7,in|0.50|+0.2
+11,33,110,1,"“I don’t know what ‘squadrons’ means nor ‘Midian,’ either, but it sounds so tragical.",14,0.86,479.46,483.32,3.63,-31.25,11.3,4.44,2.4,-0.18,-0.9,1.84,2.65,-3.4,-2.6,"either,|0.20|+nan"
+11,33,111,1,I can hardly wait until next Sunday to recite it.,10,1.0,484.38,486.96,3.88,-27.9,13.45,5.73,9.4,3.18,1.25,3.12,-2.3,-13.9,-10.4,
+11,33,112,1,I’ll practice it all the week.,6,0.67,,,,,,,,,,,,,,
+11,33,113,1,After Sunday-school I asked Miss Rogerson—because Mrs. Lynde was too far away—to show me your pew.,17,0.82,489.16,493.88,3.6,-29.63,12.85,2.42,1.6,1.45,0.65,-0.19,0.2,-2.7,-2.3,Miss|0.82|+nan Mrs.|0.20|+nan far|0.74|+2.4
+11,33,114,1,"I sat just as still as I could and the text was Revelations, third chapter, second and third verses.",19,0.89,494.42,499.34,3.86,-28.92,13.25,2.81,8.9,2.15,1.05,0.2,-2.9,-2.9,-2.9,was|0.76|+0.5
+11,33,115,1,It was a very long text.,6,1.0,499.8,501.36,3.85,-30.91,10.85,3.93,8.6,0.16,-1.35,1.32,-1.0,-1.9,-1.6,
+11,33,116,1,"If I was a minister I’d pick the short, snappy ones.",11,0.91,501.8,504.6,3.93,-30.19,12.15,6.34,10.9,0.88,-0.05,3.73,-0.1,-5.0,-4.3,minister|0.56|+nan
+11,33,117,1,"The sermon was awfully long, too.",6,1.0,505.12,506.76,3.66,-29.17,11.4,2.64,3.2,1.9,-0.8,0.03,-1.35,-2.4,-2.3,
+11,33,118,1,I suppose the minister had to match it to the text.,11,1.0,507.08,509.38,4.78,-29.49,13.45,4.22,34.8,1.59,1.25,1.61,-0.05,-0.2,1.5,
+11,33,119,1,I didn’t think he was a bit interesting.,8,0.88,509.86,511.48,4.94,-30.23,13.8,2.66,39.4,0.84,1.6,0.05,-1.15,-2.3,0.1,I|0.26|-1.9
+11,33,120,1,The trouble with him seems to be that he hasn’t enough imagination.,12,0.92,511.84,514.9,3.92,-29.6,15.25,3.68,10.6,1.47,3.05,1.07,-1.8,-0.7,0.15,he|0.34|-1.5
+11,33,121,1,I didn’t listen to him very much.,7,0.86,515.46,516.9,4.86,-28.85,11.35,4.15,37.1,2.22,-0.85,1.54,-0.75,-3.1,-0.7,I|0.24|+11.4
+11,33,122,1,I just let my thoughts run and I thought of the most surprising things.”,14,1.0,517.06,520.7,3.85,-31.77,12.75,4.14,8.6,-0.7,0.55,1.53,2.9,-0.3,3.9,
+11,34,123,0,"Marilla felt helplessly that all this should be sternly reproved, but she was hampered by the undeniable fact that some of the things Anne had said, especially about the minister’s sermons and Mr. Bell’s prayers, were what she herself had really thought deep down in her heart for years, but had never given expression to.",55,0.96,521.68,537.88,3.4,-29.79,12.45,4.02,-4.1,1.28,0.25,1.41,-3.4,-4.7,-3.9,"said,|0.36|+nan the|0.46|-0.7 Mr.|0.38|+nan prayers,|0.42|+nan years,|0.32|-2.6"
+11,34,124,0,"It almost seemed to her that those secret, unuttered, critical thoughts had suddenly taken visible and accusing shape and form in the person of this outspoken morsel of neglected humanity.",30,1.0,538.4,547.84,3.18,-30.53,13.65,2.74,-10.3,0.54,1.45,0.13,-2.5,-2.3,-1.6,"secret,|0.28|-0.8"

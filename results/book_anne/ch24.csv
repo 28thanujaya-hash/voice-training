@@ -1,0 +1,99 @@
+chapter,para,sent,dialogue,text,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
+24,0,0,0,"IT was October again when Anne was ready to go back to school—a glorious October, all red and gold, with mellow mornings when the valleys were filled with delicate mists as if the spirit of autumn had poured them in for the sun to drain—amethyst, pearl, silver, rose, and smoke-blue.",51,0.96,23.22,38.9,3.25,-33.63,12.05,2.71,-7.4,0.04,-0.4,0.41,-0.5,-1.8,-1.6,"to|0.70|+5.0 mornings,|0.26|-1.4 mists,|0.28|+1.8 to|1.50|+0.7 pearl,|0.28|-0.3 silver,|0.28|-1.1"
+24,0,1,0,The dews were so heavy that the fields glistened like cloth of silver and there were such heaps of rustling leaves in the hollows of many-stemmed woods to run crisply through.,32,1.0,39.46,48.7,3.46,-34.49,12.65,2.0,-1.4,-0.82,0.2,-0.3,-0.45,-1.6,-0.2,"silver,|0.34|+0.7"
+24,0,2,0,The Birch Path was a canopy of yellow and the ferns were sear and brown all along it.,18,0.94,49.38,54.08,3.83,-33.32,12.65,1.83,9.1,0.35,0.2,-0.47,-2.45,-0.7,-0.1,"yellow,|0.30|+0.6 were|0.36|-1.0"
+24,0,3,0,"There was a tang in the very air that inspired the hearts of small maidens tripping, unlike snails, swiftly and willingly to school; and it was jolly to be back again at the little brown desk beside Diana, with Ruby Gillis nodding across the aisle and Carrie Sloane sending up notes and Julia Bell passing a “chew” of gum down from the back seat.",64,0.98,54.42,73.02,3.44,-33.85,11.65,3.11,-2.0,-0.18,-0.8,0.81,-1.2,-1.6,-0.1,"tripping,|0.26|+1.9 snails,|0.40|+nan school.|0.74|-9.8 Diana,|0.34|+2.7 Carrie|0.36|-1.7"
+24,0,4,0,Anne drew a long breath of happiness as she sharpened her pencil and arranged her picture cards in her desk.,20,1.0,73.82,78.7,4.1,-33.5,12.0,2.23,16.8,0.17,-0.45,-0.07,-2.35,-1.9,0.1,
+24,0,5,0,Life was certainly very interesting.,5,1.0,79.18,81.04,2.69,-36.74,12.45,3.17,-23.4,-3.07,0.0,0.87,0.45,-0.3,0.6,
+24,1,6,0,In the new teacher she found another true and helpful friend.,11,1.0,82.02,84.86,3.87,-32.24,13.75,4.19,10.3,1.43,1.3,1.89,-1.3,-2.8,-2.6,
+24,1,7,0,"Miss Stacy was a bright, sympathetic young woman with the happy gift of winning and holding the affections of her pupils and bringing out the best that was in them mentally and morally.",33,1.0,85.44,93.98,3.86,-34.63,12.55,1.66,10.0,-0.96,0.1,-0.64,-2.2,-3.3,-3.0,
+24,1,8,0,Anne expanded like a flower under this wholesome influence and carried home to the admiring Matthew and the critical Marilla glowing accounts of schoolwork and aims.,26,1.0,94.72,102.64,3.28,-33.75,12.25,1.73,-6.6,-0.08,-0.2,-0.57,-2.25,-1.7,0.5,
+24,2,9,1,"“I love Miss Stacy with my whole heart, Marilla.",9,1.0,103.36,105.74,3.78,-33.61,13.35,3.76,7.7,0.06,0.9,1.46,-2.6,-4.0,-3.3,
+24,2,10,1,She is so ladylike and she has such a sweet voice.,11,0.91,106.06,108.6,4.33,-33.16,15.05,2.39,23.4,0.51,2.6,0.09,-1.8,-4.4,-4.2,
+24,2,11,1,When she pronounces my name I feel instinctively that she’s spelling it with an E.,15,0.93,109.04,112.74,4.05,-34.67,12.45,1.82,15.4,-1.0,0.0,-0.48,-1.4,-1.0,-0.2,that|0.24|+nan
+24,2,12,1,We had recitations this afternoon.,5,1.0,113.1,114.98,2.66,-34.5,16.1,2.5,-24.2,-0.83,3.65,0.2,-4.35,-0.5,0.6,
+24,2,13,1,"I just wish you could have been there to hear me recite ‘Mary, Queen of Scots.’",16,1.0,115.26,118.5,4.94,-33.31,12.75,3.64,40.7,0.36,0.3,1.34,0.1,-4.1,-2.3,
+24,2,14,1,I just put my whole soul into it.,8,1.0,118.84,121.06,3.6,-34.44,14.8,4.72,2.6,-0.77,2.35,2.42,-1.5,-5.4,-4.7,
+24,2,15,1,"Ruby Gillis told me coming home that the way I said the line, ‘Now for my father’s arm,’ she said, ‘my woman’s heart farewell,’ just made her blood run cold.”",30,0.77,,,,,,,,,,,,,,
+24,3,16,1,"“Well now, you might recite it for me some of these days, out in the barn,” suggested Matthew.",18,1.0,130.16,134.72,3.95,-36.45,11.9,5.19,12.5,-2.78,-0.55,2.89,-10.25,-14.7,-11.6,"now,|0.36|-7.1 barn,|0.22|-13.9"
+24,4,17,1,"“Of course I will,” said Anne meditatively, “but I won’t be able to do it so well, I know.",19,0.95,135.14,139.96,3.94,-35.14,10.35,4.49,12.3,-1.47,-2.1,2.19,-1.1,-2.9,-1.1,"will,|0.32|+1.9 meditatively.|0.66|+5.8 I|0.20|-1.8"
+24,4,18,1,It won’t be so exciting as it is when you have a whole schoolful before you hanging breathlessly on your words.,21,0.9,140.22,145.18,4.23,-34.83,12.25,2.53,20.5,-1.16,-0.2,0.23,-0.55,-3.0,-0.7,whole|0.52|-2.7
+24,4,19,1,I know I won’t be able to make your blood run cold.”,12,0.92,145.6,148.84,3.7,-38.95,11.35,5.68,5.4,-5.28,-1.1,3.38,-9.7,0.0,0.0,run|0.78|-10.0
+24,5,20,1,"“Mrs. Lynde says it made her blood run cold to see the boys climbing to the very tops of those big trees on Bell’s hill after crows’ nests last Friday,” said Marilla.",32,0.84,148.84,156.06,4.43,-32.72,11.25,3.39,26.2,0.95,-1.2,1.09,-2.1,-1.1,7.7,"Mrs.|0.40|-2.0 very|0.22|-0.8 on|0.36|+0.3 crows'|0.20|+nan Friday,|0.30|+nan"
+24,5,21,1,“I wonder at Miss Stacy for encouraging it.”,8,0.88,156.42,158.36,4.12,-34.01,13.65,3.0,17.4,-0.34,1.2,0.7,0.7,-3.3,0.1,
+24,6,22,1,"“But we wanted a crow’s nest for nature study,” explained Anne.",11,1.0,158.72,161.86,3.5,-32.07,18.05,6.22,-0.3,1.6,5.6,3.92,-2.7,-2.9,-2.8,
+24,6,23,1,“That was on our field afternoon.,6,1.0,162.14,163.68,3.9,-32.71,14.35,1.9,11.1,0.96,1.9,-0.4,0.5,-2.8,-1.2,
+24,6,24,1,"Field afternoons are splendid, Marilla.",5,1.0,164.14,165.88,2.87,-32.19,12.55,3.32,-18.2,1.48,0.1,1.02,-3.5,-7.0,-6.7,
+24,6,25,1,And Miss Stacy explains everything so beautifully.,7,1.0,166.08,168.52,2.87,-33.85,15.25,1.72,-18.2,-0.18,2.8,-0.58,0.9,-1.0,3.45,
+24,6,26,1,We have to write compositions on our field afternoons and I write the best ones.”,15,1.0,168.96,172.36,4.41,-33.18,13.35,3.37,25.6,0.49,0.9,1.07,-0.3,-2.2,3.3,
+24,7,27,1,“It’s very vain of you to say so then.,9,0.89,173.22,174.64,6.34,-32.58,14.15,2.92,80.6,1.09,1.7,0.62,-1.05,-9.1,-2.8,
+24,7,28,1,You’d better let your teacher say it.”,7,0.86,175.18,176.66,4.73,-32.98,10.65,5.34,34.8,0.69,-1.8,3.04,-9.0,0.0,0.0,
+24,8,29,1,"“But she did say it, Marilla.",6,1.0,176.66,177.96,4.62,-33.71,9.25,3.96,31.6,-0.04,-3.2,1.66,0.45,-0.3,0.3,
+24,8,30,1,And indeed I’m not vain about it.,7,0.86,178.26,179.86,4.37,-29.41,16.85,2.7,24.5,4.26,4.4,0.4,-0.1,-5.3,-2.8,
+24,8,31,1,"How can I be, when I’m such a dunce at geometry?",11,0.91,180.06,182.26,5.0,-31.09,17.45,4.12,42.5,2.58,5.0,1.82,1.25,-0.2,1.1,
+24,8,32,1,"Although I’m really beginning to see through it a little, too.",11,0.91,182.78,185.22,4.51,-31.9,14.15,3.99,28.5,1.77,1.7,1.69,-2.95,-6.7,-6.6,Although|0.24|+2.3
+24,8,33,1,Miss Stacy makes it so clear.,6,1.0,185.66,187.16,4.0,-34.77,17.55,2.29,14.0,-1.1,5.1,-0.01,0.0,-0.7,0.0,
+24,8,34,1,"Still, I’ll never be good at it and I assure you it is a humbling reflection.",16,0.94,187.56,191.26,4.32,-32.16,13.05,2.42,23.1,1.51,0.6,0.12,-2.9,-6.0,-0.2,"Still,|0.62|+0.2"
+24,8,35,1,But I love writing compositions.,5,1.0,191.82,193.38,3.21,-31.75,11.35,4.01,-8.5,1.92,-1.1,1.71,-0.35,-3.0,0.2,
+24,8,36,1,Mostly Miss Stacy lets us choose our own subjects; but next week we are to write a composition on some remarkable person.,22,1.0,193.9,199.76,3.75,-33.22,13.65,3.21,6.8,0.45,1.2,0.91,1.6,-0.7,0.7,"subjects,|0.26|+0.9"
+24,8,37,1,It’s hard to choose among so many remarkable people who have lived.,12,0.92,200.66,203.22,4.69,-33.61,12.0,3.64,33.6,0.06,-0.45,1.34,-3.2,-1.4,-0.6,
+24,8,38,1,Mustn’t it be splendid to be remarkable and have compositions written about you after you’re dead?,16,0.88,204.12,207.84,4.3,-33.47,12.9,2.16,22.5,0.2,0.45,-0.14,0.15,-3.6,-2.9,after|0.28|+nan
+24,8,39,1,"Oh, I would dearly love to be remarkable.",8,1.0,208.32,210.26,4.12,-31.54,13.05,0.96,17.4,2.13,0.6,-1.34,-1.0,-1.5,-0.9,
+24,8,40,1,I think when I grow up I’ll be a trained nurse and go with the Red Crosses to the field of battle as a messenger of mercy.,27,0.96,210.94,216.86,4.56,-34.24,13.55,4.02,29.9,-0.57,1.1,1.72,-2.2,-3.1,-1.0,up|0.40|+1.7
+24,8,41,1,"That is, if I don’t go out as a foreign missionary.",11,0.91,217.2,219.6,4.58,-35.6,12.85,1.94,30.5,-1.93,0.4,-0.36,-2.3,-1.4,1.0,
+24,8,42,1,"That would be very romantic, but one would have to be very good to be a missionary, and that would be a stumbling block.",24,0.67,,,,,,,,,,,,,,
+24,8,43,1,"We have physical culture exercises every day, too.",8,1.0,225.96,228.36,3.33,-32.89,14.4,5.15,-5.1,0.78,1.95,2.85,0.0,-1.1,3.55,
+24,8,44,1,They make you graceful and promote digestion.”,7,1.0,228.6,231.1,2.8,-34.12,14.55,5.92,-20.2,-0.45,2.1,3.62,-12.9,-10.2,-10.2,
+24,9,45,1,"“Promote fiddlesticks!” said Marilla, who honestly thought it was all nonsense.",11,1.0,231.1,235.82,2.33,-38.17,1.65,3.57,-33.6,-4.5,-10.8,1.27,0.0,-0.1,0.0,
+24,10,46,0,But all the field afternoons and recitation Fridays and physical culture contortions paled before a project which Miss Stacy brought forward in November.,23,0.96,235.82,243.06,3.18,-34.02,12.05,3.29,-9.4,-0.35,-0.4,0.99,-1.45,-0.8,0.7,
+24,10,47,0,"This was that the scholars of Avonlea school should get up a concert and hold it in the hall on Christmas Night, for the laudable purpose of helping to pay for a schoolhouse flag.",34,1.0,243.66,251.92,4.12,-33.5,13.85,1.79,17.4,0.17,1.4,-0.51,-1.95,-2.3,1.2,
+24,10,48,0,"The pupils one and all taking graciously to this plan, the preparations for a program were begun at once.",19,1.0,252.52,257.62,3.73,-33.74,13.1,2.58,6.3,-0.07,0.65,0.28,-2.5,-2.9,-2.0,"pupils,|0.22|-2.2 plan,|0.26|+nan"
+24,10,49,0,"And of all the excited performers-elect none was so excited as Anne Shirley, who threw herself into the undertaking heart and soul, hampered as she was by Marilla’s disapproval.",30,0.97,258.02,266.68,3.46,-32.78,12.55,2.26,-1.4,0.89,0.1,-0.04,-2.25,-3.4,-0.35,"elect,|0.46|+4.0 soul,|0.40|-2.7 by|0.40|+nan"
+24,10,50,0,Marilla thought it all rank foolishness.,6,1.0,267.22,269.18,3.06,-31.16,12.75,1.45,-12.8,2.51,0.3,-0.85,-0.6,-5.4,-3.1,
+24,11,51,1,"“It’s just filling your heads up with nonsense and taking time that ought to be put on your lessons,” she grumbled.",21,0.95,269.98,274.36,4.79,-32.97,13.05,2.17,36.5,0.7,0.6,-0.13,-2.65,-2.5,-0.55,
+24,11,52,1,“I don’t approve of children’s getting up concerts and racing about to practices.,13,0.77,,,,,,,,,,,,,,
+24,11,53,1,It makes them vain and forward and fond of gadding.”,10,1.0,278.56,281.34,3.6,-35.22,11.85,5.12,2.6,-1.55,-0.6,2.82,-10.2,0.0,0.0,
+24,12,54,1,"“But think of the worthy object,” pleaded Anne.",8,1.0,281.34,283.82,3.23,-33.42,16.65,6.7,-8.0,0.25,4.2,4.4,-6.5,-5.1,-3.8,
+24,12,55,1,"“A flag will cultivate a spirit of patriotism, Marilla.”",9,1.0,284.02,287.06,2.96,-33.65,16.45,5.45,-15.7,0.02,4.0,3.15,-14.8,-9.2,-8.9,
+24,13,56,1,“Fudge!,1,1.0,,,,,,,,,,,,,,
+24,13,57,1,There’s precious little patriotism in the thoughts of any of you.,11,0.91,288.62,290.76,5.14,-33.81,12.05,1.45,46.4,-0.14,-0.4,-0.85,0.85,-2.7,1.5,
+24,13,58,1,All you want is a good time.”,7,1.0,290.96,292.64,4.17,-33.01,13.3,6.6,18.8,0.66,0.85,4.3,-11.65,0.0,0.0,
+24,14,59,1,"“Well, when you can combine patriotism and fun, isn’t it all right?",12,0.92,292.64,296.76,2.91,-31.13,16.95,4.34,-17.1,2.54,4.5,2.04,-0.6,-2.8,3.4,"""'Well,|0.30|+6.7 fun,|0.50|-4.2"
+24,14,60,1,Of course it’s real nice to be getting up a concert.,11,0.91,297.22,299.18,5.61,-34.28,11.85,2.4,59.8,-0.61,-0.6,0.1,0.1,-0.2,0.2,course|0.24|+nan
+24,14,61,1,We’re going to have six choruses and Diana is to sing a solo.,13,0.92,299.82,302.62,4.64,-33.3,14.2,2.99,32.2,0.37,1.75,0.69,0.95,-0.2,0.6,
+24,14,62,1,I’m in two dialogues—‘The Society for the Suppression of Gossip’ and ‘The Fairy Queen.’,14,0.93,303.34,307.5,3.37,-33.96,13.75,4.61,-4.0,-0.29,1.3,2.31,0.0,-1.5,0.2,
+24,14,63,1,The boys are going to have a dialogue too.,9,1.0,307.92,309.68,5.11,-30.22,11.35,3.55,45.6,3.45,-1.1,1.25,-1.0,-3.9,-1.0,
+24,14,64,1,"And I’m to have two recitations, Marilla.",7,0.71,,,,,,,,,,,,,,
+24,14,65,1,"I just tremble when I think of it, but it’s a nice thrilly kind of tremble.",16,0.75,,,,,,,,,,,,,,
+24,14,66,1,"And we’re to have a tableau at the last—‘Faith, Hope and Charity.’",12,0.92,316.4,319.6,3.75,-31.34,15.05,1.51,6.8,2.33,2.6,-0.79,0.05,-1.9,-0.2,"last—Faith,|0.24|-0.4"
+24,14,67,1,"Diana and Ruby and I are to be in it, all draped in white with flowing hair.",17,1.0,320.24,323.68,4.94,-30.76,12.95,1.91,40.7,2.91,0.5,-0.39,-1.35,-3.3,-2.5,
+24,14,68,1,"I’m to be Hope, with my hands clasped—so—and my eyes uplifted.",11,0.82,324.4,328.26,2.85,-33.74,12.95,1.14,-18.8,-0.07,0.5,-1.16,0.1,-0.7,-0.1,hands|1.44|-0.7
+24,14,69,1,I’m going to practice my recitations in the garret.,9,0.89,329.6,331.3,5.29,-33.41,12.05,3.27,50.7,0.26,-0.4,0.97,-2.7,-1.9,-1.6,
+24,14,70,1,Don’t be alarmed if you hear me groaning.,8,0.88,331.68,332.98,6.15,-32.61,13.35,2.32,75.2,1.06,0.9,0.02,-2.2,-5.6,-4.2,
+24,14,71,1,"I have to groan heartrendingly in one of them, and it’s really hard to get up a good artistic groan, Marilla.",21,0.9,333.34,338.12,4.39,-33.65,11.95,2.83,25.1,0.02,-0.5,0.53,-1.95,-2.4,-2.2,groan|0.58|-3.2 and|0.20|+7.2
+24,14,72,1,Josie Pye is sulky because she didn’t get the part she wanted in the dialogue.,15,0.93,338.66,341.78,4.81,-31.92,11.25,2.09,37.0,1.75,-1.2,-0.21,-1.6,-2.2,-0.6,she|0.24|-4.7
+24,14,73,1,She wanted to be the fairy queen.,7,1.0,342.12,343.38,5.56,-32.4,12.65,1.72,58.4,1.27,0.2,-0.58,0.0,-2.6,-1.4,
+24,14,74,1,"That would have been ridiculous, for who ever heard of a fairy queen as fat as Josie?",17,0.88,343.66,347.08,4.97,-33.48,16.05,4.52,41.6,0.19,3.6,2.22,0.9,-0.3,3.6,
+24,14,75,1,Fairy queens must be slender.,5,1.0,347.54,348.82,3.91,-36.56,16.55,0.61,11.4,-2.89,4.1,-1.69,0.0,-1.6,-0.3,
+24,14,76,1,Jane Andrews is to be the queen and I am to be one of her maids of honor.,18,1.0,349.36,352.26,6.21,-33.58,11.85,1.75,76.9,0.09,-0.6,-0.55,-0.75,-2.7,-2.3,
+24,14,77,1,"Josie says she thinks a red-haired fairy is just as ridiculous as a fat one, but I do not let myself mind what Josie says.",26,1.0,352.9,358.8,4.41,-33.21,12.6,1.88,25.6,0.46,0.15,-0.42,-2.15,-5.1,-4.2,
+24,14,78,1,I’m to have a wreath of white roses on my hair and Ruby Gillis is going to lend me her slippers because I haven’t any of my own.,28,0.93,359.72,364.98,5.32,-33.34,12.45,2.19,51.6,0.33,0.0,-0.11,-3.2,-3.1,-2.9,I|0.24|+nan
+24,14,79,1,"It’s necessary for fairies to have slippers, you know.",9,0.89,365.6,367.44,4.89,-35.7,11.95,4.04,39.3,-2.03,-0.5,1.74,0.0,-2.5,1.6,
+24,14,80,1,"You couldn’t imagine a fairy wearing boots, could you?",9,0.89,367.76,370.04,3.95,-33.79,12.65,3.26,12.5,-0.12,0.2,0.96,-2.95,-4.1,-3.6,You|0.24|-3.6
+24,14,81,1,Especially with copper toes?,4,1.0,370.28,371.56,3.12,-34.83,14.0,1.27,-11.1,-1.16,1.55,-1.03,-1.05,-4.0,-1.1,
+24,14,82,1,We are going to decorate the hall with creeping spruce and fir mottoes with pink tissue-paper roses in them.,20,0.95,372.2,377.2,4.0,-34.33,14.15,2.62,14.0,-0.66,1.7,0.32,-1.5,-1.4,-0.65,fir|0.34|-4.4
+24,14,83,1,"And we are all to march in two by two after the audience is seated, while Emma White plays a march on the organ.",24,1.0,377.28,382.48,4.62,-31.79,12.85,1.65,31.6,1.88,0.4,-0.65,-1.25,-2.1,-1.4,"seated,|0.28|+nan"
+24,14,84,1,"Oh, Marilla, I know you are not so enthusiastic about it as I am, but don’t you hope your little Anne will distinguish herself?”",24,0.92,382.94,388.38,4.41,-31.34,13.65,2.28,25.6,2.33,1.2,-0.02,-0.05,-0.55,0.05,"Marilla,|0.20|+3.8 but|0.22|+nan"
+24,15,85,1,“All I hope is that you’ll behave yourself.,8,0.88,389.46,391.42,4.08,-31.01,11.95,4.98,16.2,2.66,-0.5,2.68,-2.9,-5.8,-5.3,
+24,15,86,1,I’ll be heartily glad when all this fuss is over and you’ll be able to settle down.,17,0.88,392.18,395.44,5.21,-30.75,12.25,2.07,48.4,2.92,-0.2,-0.23,-1.1,-4.0,0.9,
+24,15,87,1,You are simply good for nothing just now with your head stuffed full of dialogues and groans and tableaus.,19,0.95,395.72,400.06,4.38,-32.46,11.45,3.1,24.8,1.21,-1.0,0.8,-0.6,-1.4,0.7,
+24,15,88,1,"As for your tongue, it’s a marvel it’s not clean worn out.”",12,0.83,401.14,404.82,3.26,-34.64,10.7,6.22,-7.1,-0.97,-1.75,3.92,-9.05,0.0,0.0,"tongue,|0.34|+nan marvel|0.28|+nan"
+24,16,89,0,"Anne sighed and betook herself to the back yard, over which a young new moon was shining through the leafless poplar boughs from an apple-green western sky, and where Matthew was splitting wood.",34,0.97,404.82,414.5,3.51,-31.8,12.45,2.3,0.0,1.87,0.0,0.0,-1.05,-2.9,-1.5,"leafless|0.40|-3.1 sky,|0.40|+nan"
+24,16,90,0,"Anne perched herself on a block and talked the concert over with him, sure of an appreciative and sympathetic listener in this instance at least.",25,1.0,415.26,421.7,3.88,-33.86,12.45,1.64,10.5,-0.19,0.0,-0.66,-0.05,-0.5,-0.2,"him,|0.34|+7.1"
+24,17,91,1,"“Well now, I reckon it’s going to be a pretty good concert.",12,0.92,422.48,425.8,3.61,-34.95,11.55,4.95,2.8,-1.28,-0.9,2.65,3.3,-2.5,3.5,"now,|0.32|+5.4 reckon|0.28|-2.0"
+24,17,92,1,"And I expect you’ll do your part fine,” he said, smiling down into her eager, vivacious little face.",18,0.94,426.16,431.34,3.47,-33.47,10.85,2.16,-1.1,0.2,-1.6,-0.14,-0.05,-0.1,1.1,"expect|0.22|+nan said,|0.32|+nan"
+24,17,93,0,Anne smiled back at him.,5,1.0,431.9,433.18,3.91,-35.33,11.05,3.61,11.4,-1.66,-1.4,1.31,-0.7,-4.9,-2.0,
+24,17,94,0,Those two were the best of friends and Matthew thanked his stars many a time and oft that he had nothing to do with bringing her up.,27,1.0,433.78,440.68,3.91,-32.85,12.55,2.15,11.4,0.82,0.1,-0.15,-2.9,-10.0,-9.1,
+24,17,95,0,That was Marilla’s exclusive duty; if it had been his he would have been worried over frequent conflicts between inclination and said duty.,23,0.96,441.02,448.0,3.3,-33.65,13.4,3.78,-6.0,0.02,0.95,1.48,-1.55,-1.5,-1.1,was|0.48|-1.0 duty.|0.38|+nan
+24,17,96,0,"As it was, he was free to, “spoil Anne”—Marilla’s phrasing—as much as he liked.",14,0.86,448.3,452.86,3.07,-34.54,11.45,4.38,-12.5,-0.87,-1.0,2.08,-1.55,-2.9,-2.3,"was,|0.28|+nan spoil|1.72|+nan"
+24,17,97,0,But it was not such a bad arrangement after all; a little “appreciation” sometimes does quite as much good as all the conscientious “bringing up” in the world.,28,1.0,453.34,461.28,3.53,-33.67,12.05,3.91,0.6,0.0,-0.4,1.61,-2.55,-1.1,-0.5,all.|0.46|+5.3

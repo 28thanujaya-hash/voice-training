@@ -1,0 +1,201 @@
+chapter,para,sent,dialogue,text,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
+29,0,0,0,ANNE was bringing the cows home from the back pasture by way of Lover’s Lane.,15,1.0,24.38,28.1,4.03,-29.17,11.55,3.13,1.3,2.53,-0.7,1.09,-1.5,-2.4,-1.9,
+29,0,1,0,It was a September evening and all the gaps and clearings in the woods were brimmed up with ruby sunset light.,21,1.0,28.68,34.16,3.83,-30.93,11.95,1.44,-3.8,0.77,-0.3,-0.6,-1.85,-2.1,-1.9,
+29,0,2,0,"Here and there the lane was splashed with it, but for the most part it was already quite shadowy beneath the maples, and the spaces under the firs were filled with a clear violet dusk like airy wine.",38,1.0,34.8,44.56,3.89,-30.77,12.15,2.54,-2.3,0.93,-0.1,0.5,-2.5,-1.8,-1.5,"maples,|0.24|+1.7"
+29,0,3,0,"The winds were out in their tops, and there is no sweeter music on earth than that which the wind makes in the fir trees at evening.",27,1.0,45.18,51.42,4.33,-31.7,11.65,2.76,8.8,0.0,-0.6,0.72,-1.55,-2.4,1.8,"tops,|0.22|+1.3"
+29,1,4,0,"The cows swung placidly down the lane, and Anne followed them dreamily, repeating aloud the battle canto from Marmion—which had also been part of their English course the preceding winter and which Miss Stacy had made them learn off by heart—and exulting in its rushing lines and the clash of spears in its imagery.",54,0.94,52.42,68.48,3.36,-32.73,11.15,2.4,-15.6,-1.03,-1.1,0.36,-1.15,-2.5,-0.5,"dreamily,|0.38|+5.2 from|0.84|+3.6 winter,|0.38|+3.1 by|0.92|+4.6 lines|0.26|-0.4"
+29,1,5,0,When she came to the lines,6,1.0,69.3,70.48,5.08,-28.9,13.35,4.4,27.6,2.8,1.1,2.36,-1.35,-3.7,-3.2,
+29,2,6,0,"The stubborn spearsmen still made good Their dark impenetrable wood,",10,0.9,70.98,74.74,2.66,-30.39,11.95,1.43,-33.2,1.31,-0.3,-0.61,-2.3,-2.8,-2.2,dark|0.74|-1.6
+29,3,7,0,she stopped in ecstasy to shut her eyes that she might the better fancy herself one of that heroic ring.,20,1.0,75.16,80.08,4.07,-29.87,11.05,1.33,2.3,1.83,-1.2,-0.71,0.25,-2.3,-2.2,
+29,3,8,0,When she opened them again it was to behold Diana coming through the gate that led into the Barry field and looking so important that Anne instantly divined there was news to be told.,34,0.76,,,,,,,,,,,,,,
+29,3,9,0,But betray too eager curiosity she would not.,8,0.75,,,,,,,,,,,,,,
+29,4,10,1,"“Isn’t this evening just like a purple dream, Diana?",9,0.89,94.66,97.0,3.85,-30.33,14.55,1.73,-3.3,1.37,2.3,-0.31,-1.5,-1.2,-0.65,
+29,4,11,1,It makes me so glad to be alive.,8,1.0,97.32,99.08,4.55,-30.58,13.55,2.08,14.3,1.12,1.3,0.04,-1.45,-1.5,-1.0,
+29,4,12,1,In the mornings I always think the mornings are best; but when evening comes I think it’s lovelier still.”,19,0.95,99.48,104.7,3.64,-31.27,11.95,2.78,-8.5,0.43,-0.3,0.74,-2.95,-10.6,-10.5,"best,|0.20|+2.4 think|0.22|+0.3"
+29,5,13,1,"“It’s a very fine evening,” said Diana, “but oh, I have such news, Anne.",14,0.93,106.02,109.86,3.65,-30.59,15.25,2.37,-8.3,1.11,3.0,0.33,1.4,-2.8,-1.4,"news,|0.24|-14.8"
+29,5,14,1,Guess.,1,0.0,,,,,,,,,,,,,,
+29,5,15,1,You can have three guesses.”,5,0.8,110.98,112.44,3.42,-34.84,1.65,7.0,-14.1,-3.14,-10.6,4.96,0.0,-0.2,0.0,
+29,6,16,1,"“Charlotte Gillis is going to be married in the church after all and Mrs. Allan wants us to decorate it,” cried Anne.",22,0.95,112.44,117.22,4.6,-29.16,14.95,4.11,15.6,2.54,2.7,2.07,-3.75,-3.7,-2.0,Mrs.|0.22|+0.5
+29,7,17,1,“No.,1,1.0,,,,,,,,,,,,,,
+29,7,18,1,"Charlotte’s beau won’t agree to that, because nobody ever has been married in the church yet, and he thinks it would seem too much like a funeral.",27,0.85,119.02,124.58,4.86,-29.64,12.75,1.73,22.1,2.06,0.5,-0.31,0.15,-4.7,-0.1,"beau|0.24|-0.4 that,|0.22|+6.7 nobody|0.30|-2.3 yet,|0.28|-0.3"
+29,7,19,1,"It’s too mean, because it would be such fun.",9,0.89,125.32,127.06,5.17,-30.76,15.9,3.23,29.9,0.94,3.65,1.19,1.55,-0.7,1.9,
+29,7,20,1,Guess again.”,2,1.0,127.54,128.04,4.0,-28.15,13.85,5.86,0.5,3.55,1.6,3.82,-0.1,-14.0,0.0,
+29,8,21,1,“Jane’s mother is going to let her have a birthday party?”,11,0.91,129.0,131.2,5.0,-28.79,14.5,5.88,25.6,2.91,2.25,3.84,-12.85,-20.7,-18.8,
+29,9,22,0,"Diana shook her head, her black eyes dancing with merriment.",10,1.0,131.2,134.12,3.42,-28.74,11.55,2.45,-14.1,2.96,-0.7,0.41,-0.8,-1.6,-1.3,
+29,10,23,1,"“I can’t think what it can be,” said Anne in despair, “unless it’s that Moody Spurgeon MacPherson saw you home from prayer meeting last night.",25,0.92,134.5,140.88,3.92,-31.86,12.6,2.96,-1.5,-0.16,0.35,0.92,-3.85,-7.4,-5.5,"""'I|0.30|-1.0 despair,|0.40|+5.5 unless|0.26|-0.6"
+29,10,24,1,Did he?”,2,1.0,141.12,142.0,2.27,-45.15,1.65,0.0,-43.0,-13.45,-10.6,-2.04,0.0,0.0,0.0,
+29,11,25,1,"“I should think not,” exclaimed Diana indignantly.",7,1.0,142.0,144.76,2.54,-34.31,9.65,3.77,-36.2,-2.61,-2.6,1.73,0.25,-2.6,-0.3,
+29,11,26,1,"“I wouldn’t be likely to boast of it if he did, the horrid creature!",14,0.93,145.0,148.0,4.67,-31.22,13.15,5.92,17.3,0.48,0.9,3.88,14.05,-0.5,0.0,"""'I|0.20|+11.2"
+29,11,27,1,I knew you couldn’t guess it.,6,0.83,148.34,149.9,3.85,-33.27,14.05,1.89,-3.3,-1.57,1.8,-0.15,-3.0,-5.9,-5.1,you|0.28|+nan
+29,11,28,1,"Mother had a letter from Aunt Josephine today, and Aunt Josephine wants you and me to go to town next Tuesday and stop with her for the Exhibition.",28,1.0,149.98,155.88,4.75,-28.77,14.35,2.4,19.3,2.93,2.1,0.36,-0.5,-3.3,-2.9,"today,|0.24|+4.2"
+29,11,29,1,There!”,1,1.0,,,,,,,,,,,,,,
+29,12,30,1,"“Oh, Diana,” whispered Anne, finding it necessary to lean up against a maple tree for support, “do you really mean it?",21,1.0,157.26,165.06,2.69,-30.43,12.15,5.09,-32.4,1.27,-0.1,3.05,-10.5,-0.1,0.0,"Anne,|0.34|+2.6 support.|0.36|+nan"
+29,12,31,1,But I’m afraid Marilla won’t let me go.,8,0.75,,,,,,,,,,,,,,
+29,12,32,1,She will say that she can’t encourage gadding about.,9,0.78,,,,,,,,,,,,,,
+29,12,33,1,That was what she said last week when Jane invited me to go with them in their double-seated buggy to the American concert at the White Sands Hotel.,29,1.0,170.04,176.3,4.63,-29.98,11.15,1.11,16.3,1.72,-1.1,-0.93,0.8,-2.2,0.8,
+29,12,34,1,"I wanted to go, but Marilla said I’d be better at home learning my lessons and so would Jane.",19,0.95,176.64,181.52,3.89,-30.39,11.95,2.57,-2.3,1.31,-0.3,0.53,-1.75,-1.9,0.7,"go,|0.24|+4.2"
+29,12,35,1,"I was bitterly disappointed, Diana.",5,1.0,181.96,183.82,2.69,-31.16,11.55,3.56,-32.4,0.54,-0.7,1.52,-0.8,-3.6,-2.5,
+29,12,36,1,I felt so heartbroken that I wouldn’t say my prayers when I went to bed.,15,0.93,184.02,187.12,4.84,-30.52,11.65,3.16,21.6,1.18,-0.6,1.12,-0.7,-1.7,-0.6,
+29,12,37,1,But I repented of that and got up in the middle of the night and said them.”,17,1.0,187.72,190.48,6.16,-32.38,10.25,2.94,54.8,-0.68,-2.0,0.9,-8.6,-7.4,-7.4,
+29,13,38,1,"“I’ll tell you,” said Diana, “we’ll get Mother to ask Marilla.",11,0.82,191.5,194.36,3.85,-33.47,11.85,2.48,-3.3,-1.77,-0.4,0.44,-1.3,-3.6,-1.4,Diana.|0.62|+6.1
+29,13,39,1,"She’ll be more likely to let you go then; and if she does we’ll have the time of our lives, Anne.",21,0.9,194.98,199.06,5.15,-27.65,13.25,2.12,29.4,4.05,1.0,0.08,-3.3,-2.8,-2.4,"then.|0.20|-3.7 does|0.22|-1.9 lives,|0.34|+0.8"
+29,13,40,1,"I’ve never been to an Exhibition, and it’s so aggravating to hear the other girls talking about their trips.",19,0.89,199.72,203.8,4.66,-31.77,12.25,2.66,17.1,-0.07,0.0,0.62,-0.1,-0.2,0.7,
+29,13,41,1,"Jane and Ruby have been twice, and they’re going this year again.”",12,0.92,204.3,207.32,3.97,-31.92,12.15,5.13,-0.3,-0.22,-0.1,3.09,-10.5,0.0,0.0,year|0.54|-12.2
+29,14,42,1,"“I’m not going to think about it at all until I know whether I can go or not,” said Anne resolutely.",21,0.95,207.88,211.86,5.28,-30.84,11.65,1.56,32.7,0.86,-0.6,-0.48,-1.85,-3.5,-2.0,
+29,14,43,1,"“If I did and then was disappointed, it would be more than I could bear.",15,0.93,212.28,215.68,4.41,-31.36,12.85,3.18,10.8,0.34,0.6,1.14,-1.8,-2.2,-1.2,"disappointed,|0.38|+0.4"
+29,14,44,1,But in case I do go I’m very glad my new coat will be ready by that time.,18,0.94,216.28,219.9,4.97,-31.98,12.05,4.18,24.9,-0.28,-0.2,2.14,-0.75,-0.7,-0.2,"go,|0.28|+3.5"
+29,14,45,1,Marilla didn’t think I needed a new coat.,8,0.88,220.48,222.14,4.82,-31.57,13.55,2.31,21.1,0.13,1.3,0.27,-3.7,-5.2,-2.2,Marilla|0.38|-3.4
+29,14,46,1,She said my old one would do very well for another winter and that I ought to be satisfied with having a new dress.,24,1.0,222.4,227.38,4.82,-30.99,11.75,1.24,21.1,0.71,-0.5,-0.8,-0.2,-0.5,0.5,
+29,14,47,1,"The dress is very pretty, Diana—navy blue and made so fashionably.",11,1.0,227.84,232.16,2.55,-33.83,12.25,2.15,-35.9,-2.13,0.0,0.11,-2.3,-0.4,0.0,"pretty,|0.66|+4.4"
+29,14,48,1,"Marilla always makes my dresses fashionably now, because she says she doesn’t intend to have Matthew going to Mrs. Lynde to make them.",23,0.91,232.74,238.38,4.08,-31.82,11.65,1.64,2.5,-0.12,-0.6,-0.4,-2.65,-4.9,-3.75,she|0.26|-0.5 Mrs.|0.22|+0.7
+29,14,49,1,I’m so glad.,3,0.67,,,,,,,,,,,,,,
+29,14,50,1,It is ever so much easier to be good if your clothes are fashionable.,14,1.0,239.98,242.62,5.3,-32.66,11.25,3.95,33.2,-0.96,-1.0,1.91,-0.6,-2.7,0.0,
+29,14,51,1,"At least, it is easier for me.",7,1.0,243.08,244.8,4.07,-34.78,10.7,5.59,2.3,-3.08,-1.55,3.55,-0.05,-6.6,-6.1,"least,|0.40|-0.5"
+29,14,52,1,I suppose it doesn’t make such a difference to naturally good people.,12,0.92,245.28,248.24,4.05,-34.01,12.9,3.79,1.8,-2.31,0.65,1.75,-3.9,-3.9,-3.8,it|0.22|-6.2
+29,14,53,1,"But Matthew said I must have a new coat, so Marilla bought a lovely piece of blue broadcloth, and it’s being made by a real dressmaker over at Carmody.",29,0.97,248.88,256.84,3.64,-31.11,13.05,2.57,-8.5,0.59,0.8,0.53,0.45,-0.7,1.2,"coat,|0.28|+3.9 broadcloth,|0.28|+3.5"
+29,14,54,1,"It’s to be done Saturday night, and I’m trying not to imagine myself walking up the church aisle on Sunday in my new suit and cap, because I’m afraid it isn’t right to imagine such things.",36,0.89,257.5,266.06,4.21,-31.91,11.85,1.77,5.8,-0.21,-0.4,-0.27,-2.3,-1.9,-1.2,"night,|0.24|+0.7 cap,|0.36|+4.0"
+29,14,55,1,But it just slips into my mind in spite of me.,11,1.0,266.44,268.9,4.47,-33.77,14.35,4.68,12.3,-2.07,2.1,2.64,-12.7,-12.7,-10.65,
+29,14,56,1,My cap is so pretty.,5,1.0,269.22,270.56,3.73,-32.25,13.0,1.62,-6.3,-0.55,0.75,-0.42,-1.35,-5.2,-3.6,
+29,14,57,1,Matthew bought it for me the day we were over at Carmody.,12,0.92,270.94,273.12,5.5,-30.55,11.85,1.6,38.2,1.15,-0.4,-0.44,-0.5,-6.2,-2.75,
+29,14,58,1,"It is one of those little blue velvet ones that are all the rage, with gold cord and tassels.",19,1.0,273.32,277.56,4.48,-30.73,13.25,1.98,12.6,0.97,1.0,-0.06,-2.25,-8.2,-2.7,"rage,|0.24|+nan"
+29,14,59,1,"Your new hat is elegant, Diana, and so becoming.",9,1.0,278.16,280.62,3.66,-33.27,13.25,3.65,-8.0,-1.57,1.0,1.61,-0.8,-3.3,-2.9,
+29,14,60,1,When I saw you come into church last Sunday my heart swelled with pride to think you were my dearest friend.,21,1.0,281.02,285.54,4.65,-30.67,13.25,2.0,16.8,1.03,1.0,-0.04,-2.6,-2.5,-1.2,
+29,14,61,1,Do you suppose it’s wrong for us to think so much about our clothes?,14,0.93,286.24,289.0,5.07,-31.89,14.75,5.38,27.4,-0.19,2.5,3.34,-1.0,-1.2,0.5,suppose|0.28|-11.2
+29,14,62,1,Marilla says it is very sinful.,6,0.67,,,,,,,,,,,,,,
+29,14,63,1,"But it is such an interesting subject, isn’t it?”",9,0.89,291.16,293.9,3.28,-34.8,17.95,7.27,-17.6,-3.1,5.7,5.23,-16.3,-11.3,-8.85,"subject,|0.32|-14.8"
+29,15,64,0,"Marilla agreed to let Anne go to town, and it was arranged that Mr. Barry should take the girls in on the following Tuesday.",24,1.0,294.82,300.38,4.32,-30.89,12.35,3.03,8.5,0.81,0.1,0.99,-2.4,-1.4,-0.1,Mr.|0.24|-3.8
+29,15,65,0,"As Charlottetown was thirty miles away and Mr. Barry wished to go and return the same day, it was necessary to make a very early start.",26,1.0,300.8,307.34,3.98,-31.3,11.45,2.2,0.0,0.4,-0.8,0.16,-1.25,-3.7,-2.35,"Mr.|0.28|-0.6 day,|0.24|+nan"
+29,15,66,0,"But Anne counted it all joy, and was up before sunrise on Tuesday morning.",14,1.0,307.74,311.54,3.68,-30.53,11.25,1.77,-7.5,1.17,-1.0,-0.27,-1.3,-5.0,-4.4,
+29,15,67,0,"A glance from her window assured her that the day would be fine, for the eastern sky behind the firs of the Haunted Wood was all silvery and cloudless.",29,0.97,311.78,318.84,4.11,-32.5,11.75,1.66,3.3,-0.8,-0.5,-0.38,-2.5,-4.8,0.0,the|0.24|+0.1
+29,15,68,0,"Through the gap in the trees a light was shining in the western gable of Orchard Slope, a token that Diana was also up.",24,1.0,319.38,324.94,4.32,-31.9,11.45,2.45,8.5,-0.2,-0.8,0.41,-2.6,-10.9,-9.8,"slope,|0.20|+nan"
+29,16,69,0,"Anne was dressed by the time Matthew had the fire on and had the breakfast ready when Marilla came down, but for her own part was much too excited to eat.",31,1.0,325.72,332.76,4.4,-31.78,11.55,1.8,10.6,-0.08,-0.7,-0.24,-1.6,-0.9,-0.6,"down,|0.30|+nan"
+29,16,70,0,"After breakfast the jaunty new cap and jacket were donned, and Anne hastened over the brook and up through the firs to Orchard Slope.",24,0.96,333.34,339.66,3.8,-32.5,12.15,1.52,-4.5,-0.8,-0.1,-0.52,-1.7,-2.0,-0.7,
+29,16,71,0,"Mr. Barry and Diana were waiting for her, and they were soon on the road.",15,1.0,340.26,343.62,4.46,-30.98,11.15,1.48,12.1,0.72,-1.1,-0.56,-1.55,-4.6,-3.3,Mr.|0.24|-2.9
+29,17,72,0,"It was a long drive, but Anne and Diana enjoyed every minute of it.",14,1.0,344.24,347.54,4.24,-29.39,12.7,3.26,6.5,2.31,0.45,1.22,-2.25,-7.55,-6.85,
+29,17,73,0,It was delightful to rattle along over the moist roads in the early red sunlight that was creeping across the shorn harvest fields.,23,0.96,347.76,354.3,3.52,-32.15,11.55,2.04,-11.6,-0.45,-0.7,0.0,0.5,-2.5,-1.8,the|0.32|-1.7
+29,17,74,0,"The air was fresh and crisp, and little smoke-blue mists curled through the valleys and floated off from the hills.",21,1.0,354.9,360.4,3.82,-33.19,12.3,1.51,-4.0,-1.49,0.05,-0.53,-2.05,-2.0,0.1,"crisp,|0.22|+nan"
+29,17,75,0,"Sometimes the road went through woods where maples were beginning to hang out scarlet banners; sometimes it crossed rivers on bridges that made Anne’s flesh cringe with the old, half-delightful fear; sometimes it wound along a harbor shore and passed by a little cluster of weather-gray fishing huts; again it mounted to hills whence a far sweep of curving upland or misty-blue sky could be seen; but wherever it went there was much of interest to discuss.",80,0.94,361.08,385.1,3.33,-33.65,12.25,2.12,-16.3,-1.95,0.0,0.08,0.1,-1.4,0.7,"banners,|0.44|+0.4 made|0.72|+2.4 fear.|0.56|+2.3 huts.|0.54|+nan hills|0.82|+0.9 seen.|0.42|+nan"
+29,17,76,0,It was almost noon when they reached town and found their way to “Beechwood.”,14,1.0,386.0,389.72,3.76,-32.44,12.55,2.4,-5.5,-0.74,0.3,0.36,-1.15,-2.2,-1.3,
+29,17,77,0,"It was quite a fine old mansion, set back from the street in a seclusion of green elms and branching beeches.",21,0.95,390.18,395.06,4.3,-32.4,12.45,1.38,8.0,-0.7,0.2,-0.66,-0.5,-0.7,0.7,
+29,17,78,0,Miss Barry met them at the door with a twinkle in her sharp black eyes.,15,1.0,396.28,399.28,5.0,-30.77,12.35,1.57,25.6,0.93,0.1,-0.47,-2.2,-4.5,-3.5,
+29,18,79,1,"“So you’ve come to see me at last, you Anne-girl,” she said.",13,0.92,399.76,403.0,4.01,-34.23,14.65,1.49,0.8,-2.53,2.4,-0.55,-0.6,-1.5,-0.1,"""'So|0.32|-1.6 last,|0.24|+nan"
+29,18,80,1,"“Mercy, child, how you have grown!",6,1.0,403.38,405.16,3.37,-30.11,16.55,3.5,-15.3,1.59,4.3,1.46,0.0,-7.7,-7.4,
+29,18,81,1,"You’re taller than I am, I declare.",7,0.86,405.68,406.98,5.38,-27.88,17.35,2.92,35.2,3.82,5.1,0.88,-2.5,-8.0,-6.0,
+29,18,82,1,"And you’re ever so much better-looking than you used to be, too.",13,0.92,407.46,410.2,4.74,-32.97,9.95,4.96,19.1,-1.27,-2.3,2.92,5.15,-0.1,6.9,And|0.26|+nan
+29,18,83,1,But I dare say you know that without being told.”,10,1.0,410.54,413.48,3.4,-32.05,9.65,3.92,-14.6,-0.35,-2.6,1.88,-8.0,-0.5,0.0,
+29,19,84,1,"“Indeed I didn’t,” said Anne radiantly.",6,0.83,413.48,415.94,2.44,-32.87,11.85,4.78,-38.7,-1.17,-0.4,2.74,-1.75,-2.8,-1.4,I|0.52|-14.4
+29,19,85,1,"“I know I’m not so freckled as I used to be, so I’ve much to be thankful for, but I really hadn’t dared to hope there was any other improvement.",30,0.9,416.14,422.26,4.9,-33.25,13.75,2.97,23.1,-1.55,1.5,0.93,-0.35,-3.2,-0.7,for.|0.30|+nan really|0.32|-2.4
+29,19,86,1,"I’m so glad you think there is, Miss Barry.”",9,0.89,423.1,425.24,4.21,-36.19,10.95,5.66,5.8,-4.49,-1.3,3.62,-9.3,0.0,0.0,
+29,19,87,0,"Miss Barry’s house was furnished with “great magnificence,” as Anne told Marilla afterward.",13,0.92,425.24,429.92,2.78,-32.79,13.15,4.43,-30.2,-1.09,0.9,2.39,-3.35,-3.0,-0.4,Miss|0.40|-0.4
+29,19,88,0,The two little country girls were rather abashed by the splendor of the parlor where Miss Barry left them when she went to see about dinner.,26,1.0,430.26,436.14,4.42,-32.32,11.9,2.0,11.1,-0.62,-0.35,-0.04,-0.15,-0.9,1.3,
+29,20,89,1,“Isn’t it just like a palace?” whispered Diana.,8,0.88,437.3,439.5,3.64,-35.85,14.3,3.38,-8.5,-4.15,2.05,1.34,2.1,-3.2,6.8,
+29,20,90,1,"“I never was in Aunt Josephine’s house before, and I’d no idea it was so grand.",16,0.81,439.84,444.88,3.17,-35.77,13.25,4.74,-20.4,-4.07,1.0,2.7,-11.6,-0.1,0.1,in|0.78|+nan
+29,20,91,1,I just wish Julia Bell could see this—she puts on such airs about her mother’s parlor.”,16,0.81,444.88,450.5,2.85,-36.41,11.35,5.19,-28.4,-4.71,-0.9,3.15,-9.7,0.0,0.0,just|0.28|+1.4 see|0.74|+2.2 her|0.44|+nan
+29,21,92,1,"“Velvet carpet,” sighed Anne luxuriously, “and silk curtains!",8,1.0,450.5,455.3,1.67,-38.05,10.45,6.99,-58.0,-6.35,-1.8,4.95,5.0,-12.5,-12.5,"luxuriously,|0.42|+nan"
+29,21,93,1,"I’ve dreamed of such things, Diana.",6,0.83,456.24,457.6,4.41,-34.32,11.6,1.78,10.8,-2.62,-0.65,-0.26,-1.7,-3.2,-2.5,"things,|0.26|-1.9"
+29,21,94,1,But do you know I don’t believe I feel very comfortable with them after all.,15,0.93,458.14,461.76,4.14,-32.83,13.8,5.73,4.0,-1.13,1.55,3.69,-3.35,-4.4,-1.9,"know,|0.38|-13.5 I|0.24|+12.9"
+29,21,95,1,There are so many things in this room and all so splendid that there is no scope for imagination.,19,1.0,462.14,466.92,3.97,-32.11,15.3,3.71,-0.3,-0.41,3.05,1.67,0.95,-0.3,0.8,
+29,21,96,1,That is one consolation when you are poor—there are so many more things you can imagine about.”,17,0.94,467.62,472.64,3.39,-33.71,11.6,4.51,-14.8,-2.01,-0.65,2.47,-9.95,-8.8,-8.7,are|0.78|+3.8
+29,22,97,0,Their sojourn in town was something that Anne and Diana dated from for years.,14,1.0,473.26,477.26,3.5,-31.44,12.65,2.97,-12.1,0.26,0.4,0.93,-0.85,-2.6,-1.8,
+29,22,98,0,From first to last it was crowded with delights.,9,1.0,477.74,480.12,3.78,-32.58,14.35,2.29,-5.0,-0.88,2.1,0.25,-3.6,-2.0,-0.9,
+29,23,99,0,On Wednesday Miss Barry took them to the Exhibition grounds and kept them there all day.,16,1.0,480.78,484.66,4.12,-32.66,12.7,2.09,3.5,-0.96,0.45,0.05,-1.95,-0.9,-0.4,
+29,24,100,1,"“It was splendid,” Anne related to Marilla later on.",9,1.0,485.16,488.06,3.1,-32.97,10.65,4.11,-22.1,-1.27,-1.6,2.07,-0.8,-1.8,-0.6,"splendid,|0.40|-4.2"
+29,24,101,1,“I never imagined anything so interesting.,6,1.0,488.3,490.24,3.09,-33.14,12.45,2.2,-22.4,-1.44,0.2,0.16,-0.2,0.0,1.8,
+29,24,102,1,I don’t really know which department was the most interesting.,10,0.9,490.6,493.3,3.7,-33.8,16.7,4.21,-7.0,-2.1,4.45,2.17,-5.35,-3.5,-2.0,
+29,24,103,1,I think I liked the horses and the flowers and the fancywork best.,13,0.92,493.82,496.92,4.19,-34.36,13.35,4.33,5.3,-2.66,1.1,2.29,-4.0,-4.0,-2.0,the|0.46|-2.2
+29,24,104,1,Josie Pye took first prize for knitted lace.,8,1.0,497.5,499.42,4.17,-31.6,13.55,1.51,4.8,0.1,1.3,-0.53,-1.05,-0.2,2.5,
+29,24,105,1,I was real glad she did.,6,1.0,499.74,500.96,4.92,-32.31,12.05,2.34,23.6,-0.61,-0.2,0.3,-0.95,-1.9,-1.2,
+29,24,106,1,"And I was glad that I felt glad, for it shows I’m improving, don’t you think, Marilla, when I can rejoice in Josie’s success?",24,0.88,501.4,506.94,4.33,-32.04,14.15,3.71,8.8,-0.34,1.9,1.67,-2.0,-2.1,-0.2,"glad,|0.22|+nan shows|0.24|-0.3 improving,|0.28|-5.7 in|0.40|+nan"
+29,24,107,1,Mr. Harmon Andrews took second prize for Gravenstein apples and Mr. Bell took first prize for a pig.,18,1.0,507.56,512.4,3.72,-32.57,14.35,1.62,-6.5,-0.87,2.1,-0.42,1.9,-0.5,1.6,Mr.|0.20|-1.8
+29,24,108,1,"Diana said she thought it was ridiculous for a Sunday-school superintendent to take a prize in pigs, but I don’t see why.",23,0.96,512.98,518.62,4.08,-34.42,11.65,1.92,2.5,-2.72,-0.6,-0.12,0.4,-0.2,4.5,pigs.|0.42|+nan
+29,24,109,1,Do you?,2,1.0,518.74,519.06,6.25,-32.88,14.85,2.76,57.0,-1.18,2.6,0.72,1.45,-2.7,5.5,
+29,24,110,1,She said she would always think of it after this when he was praying so solemnly.,16,1.0,519.44,522.82,4.73,-31.66,12.45,2.3,18.8,0.04,0.2,0.26,-0.2,-2.8,-0.4,
+29,24,111,1,"Clara Louise MacPherson took a prize for painting, and Mrs. Lynde got first prize for homemade butter and cheese.",19,1.0,523.58,528.86,3.6,-32.45,13.05,1.77,-9.5,-0.75,0.8,-0.27,-2.15,-2.9,-0.9,Mrs.|0.30|+2.4
+29,24,112,1,"So Avonlea was pretty well represented, wasn’t it?",8,0.75,,,,,,,,,,,,,,
+29,24,113,1,"Mrs. Lynde was there that day, and I never knew how much I really liked her until I saw her familiar face among all those strangers.",26,1.0,532.0,538.42,4.05,-30.61,13.15,1.93,1.8,1.09,0.9,-0.11,-1.35,-2.3,-1.0,"day,|0.24|+2.5"
+29,24,114,1,"There were thousands of people there, Marilla.",7,1.0,539.0,541.14,3.27,-34.84,11.35,2.2,-17.8,-3.14,-0.9,0.16,-1.45,-1.6,0.1,
+29,24,115,1,It made me feel dreadfully insignificant.,6,1.0,541.44,543.42,3.03,-34.36,14.4,4.89,-23.9,-2.66,2.15,2.85,-1.6,-4.6,-2.7,
+29,24,116,1,And Miss Barry took us up to the grandstand to see the horse races.,14,1.0,544.0,546.78,5.04,-32.45,13.65,1.64,26.6,-0.75,1.4,-0.4,0.95,-0.1,3.9,
+29,24,117,1,"Mrs. Lynde wouldn’t go; she said horse racing was an abomination and, she being a church member, thought it her bounden duty to set a good example by staying away.",30,0.93,547.38,555.3,3.79,-31.66,12.25,2.99,-4.8,0.04,0.0,0.95,-1.45,-1.5,0.7,Lynde|0.22|-5.7 go.|0.24|+nan her|0.44|+0.6
+29,24,118,1,But there were so many there I don’t believe Mrs. Lynde’s absence would ever be noticed.,16,0.88,555.9,559.92,3.98,-30.95,15.05,4.25,0.0,0.75,2.8,2.21,-0.9,-0.8,2.5,"there,|0.32|+0.4 I|0.20|-0.1 Mrs.|0.42|-0.5"
+29,24,119,1,"I don’t think, though, that I ought to go very often to horse races, because they are awfully fascinating.",19,0.95,560.5,565.82,3.57,-31.61,13.1,5.25,-10.3,0.09,0.85,3.21,-11.45,0.0,0.0,I|0.22|-10.2
+29,24,120,1,Diana got so excited that she offered to bet me ten cents that the red horse would win.,18,1.0,566.6,570.8,4.29,-29.98,13.3,1.95,7.8,1.72,1.05,-0.09,-2.45,-3.6,-1.8,
+29,24,121,1,"I didn’t believe he would, but I refused to bet, because I wanted to tell Mrs. Allan all about everything, and I felt sure it wouldn’t do to tell her that.",31,0.94,571.18,578.34,4.33,-30.26,13.35,3.3,8.8,1.44,1.1,1.26,-0.6,-3.3,-2.2,"I|0.24|+9.4 bet,|0.28|+nan Mrs.|0.26|-1.8 it|0.26|-3.3"
+29,24,122,1,It’s always wrong to do anything you can’t tell the minister’s wife.,12,0.75,,,,,,,,,,,,,,
+29,24,123,1,It’s as good as an extra conscience to have a minister’s wife for your friend.,15,0.87,582.36,585.14,5.4,-33.09,11.85,3.34,35.7,-1.39,-0.4,1.3,-0.6,-0.8,0.4,a|0.42|-0.3
+29,24,124,1,"And I was very glad I didn’t bet, because the red horse did win, and I would have lost ten cents.",21,0.95,585.54,590.24,4.47,-31.64,12.35,3.46,12.3,0.06,0.1,1.42,-0.95,-2.5,9.2,"I|0.32|+nan bet,|0.22|-0.2"
+29,24,125,1,So you see that virtue was its own reward.,9,1.0,590.24,592.66,3.72,-32.2,13.35,6.45,-6.5,-0.5,1.1,4.41,0.25,-2.5,-0.6,
+29,24,126,1,We saw a man go up in a balloon.,9,1.0,593.22,594.96,5.17,-30.24,13.3,1.52,29.9,1.46,1.05,-0.52,-0.35,-0.6,1.2,
+29,24,127,1,"I’d love to go up in a balloon, Marilla; it would be simply thrilling; and we saw a man selling fortunes.",21,0.95,595.74,600.74,4.2,-33.02,12.25,3.9,5.5,-1.32,0.0,1.86,2.65,-1.2,1.4,Marilla.|0.26|-3.9 thrilling.|0.48|+0.8
+29,24,128,1,You paid him ten cents and a little bird picked out your fortune for you.,15,1.0,601.12,604.54,4.39,-32.87,13.75,3.9,10.3,-1.17,1.5,1.86,-12.1,-12.6,-12.2,"cents,|0.28|-8.0"
+29,24,129,1,Miss Barry gave Diana and me ten cents each to have our fortunes told.,14,1.0,604.92,608.26,4.19,-31.62,12.1,2.04,5.3,0.08,-0.15,0.0,-0.35,-3.0,0.6,
+29,24,130,1,"Mine was that I would marry a dark-complected man who was very wealthy, and I would go across water to live.",22,1.0,608.86,614.08,4.21,-30.95,13.75,2.22,5.8,0.75,1.5,0.18,-2.75,-4.0,-3.7,"wealthy,|0.28|+1.2"
+29,24,131,1,"I looked carefully at all the dark men I saw after that, but I didn’t care much for any of them, and anyhow I suppose it’s too early to be looking out for him yet.",35,0.94,614.44,622.36,4.42,-32.69,11.45,3.67,11.1,-0.99,-0.8,1.63,-1.05,-1.4,-0.5,looked|0.30|+1.0 I|0.26|+nan them.|0.40|+8.1 suppose|0.28|-2.1
+29,24,132,1,"Oh, it was a never-to-be-forgotten day, Marilla.",10,1.0,623.48,625.84,4.24,-29.3,15.1,1.45,6.5,2.4,2.85,-0.59,-2.05,-1.5,-1.0,
+29,24,133,1,I was so tired I couldn’t sleep at night.,9,0.89,626.06,628.16,4.29,-33.31,14.55,5.24,7.8,-1.61,2.3,3.2,1.55,-4.7,-2.9,I|0.24|+3.1
+29,24,134,1,"Miss Barry put us in the spare room, according to promise.",11,1.0,628.68,631.0,4.74,-32.86,12.05,1.5,19.1,-1.16,-0.2,-0.54,-1.55,-0.9,1.0,
+29,24,135,1,"It was an elegant room, Marilla, but somehow sleeping in a spare room isn’t what I used to think it was.",21,0.95,631.2,636.58,3.9,-33.51,13.75,2.74,-2.0,-1.81,1.5,0.7,-2.8,-6.7,-6.2,Marilla.|0.22|+nan room|0.66|+2.4
+29,24,136,1,"That’s the worst of growing up, and I’m beginning to realize it.",12,0.83,637.32,640.04,4.41,-31.78,12.55,1.9,10.8,-0.08,0.3,-0.14,-1.9,-12.8,-12.7,
+29,24,137,1,The things you wanted so much when you were a child don’t seem half so wonderful to you when you get them.”,22,0.95,640.36,644.96,4.78,-32.18,13.2,2.24,20.1,-0.48,0.95,0.2,-5.45,-12.5,-10.5,child|0.34|-0.2
+29,25,138,0,"Thursday the girls had a drive in the park, and in the evening Miss Barry took them to a concert in the Academy of Music, where a noted prima donna was to sing.",33,1.0,645.54,653.14,4.34,-31.32,13.15,2.89,9.0,0.38,0.9,0.85,-2.9,-4.4,-3.7,
+29,25,139,0,To Anne the evening was a glittering vision of delight.,10,1.0,653.7,656.3,3.85,-30.46,13.05,2.7,-3.3,1.24,0.8,0.66,-2.3,-2.4,-2.35,
+29,26,140,1,"“Oh, Marilla, it was beyond description.",6,1.0,656.8,659.04,2.68,-31.68,14.15,4.92,-32.7,0.02,1.9,2.88,0.4,-0.5,0.1,
+29,26,141,1,"I was so excited I couldn’t even talk, so you may know what it was like.",16,0.94,659.46,663.28,4.19,-31.82,14.35,2.39,5.3,-0.12,2.1,0.35,-2.15,-0.2,4.8,"I|0.24|-1.0 talk,|0.28|+1.9"
+29,26,142,1,I just sat in enraptured silence.,6,1.0,663.58,665.64,2.91,-31.64,14.45,3.03,-26.9,0.06,2.2,0.99,-2.05,-4.5,-2.7,
+29,26,143,1,"Madame Selitsky was perfectly beautiful, and wore white satin and diamonds.",11,0.91,666.38,670.52,2.66,-32.56,13.85,1.65,-33.2,-0.86,1.6,-0.39,-2.3,-4.1,-3.5,Madame|0.62|-2.5
+29,26,144,1,But when she began to sing I never thought about anything else.,12,1.0,671.08,674.04,4.05,-30.35,12.65,2.57,1.8,1.35,0.4,0.53,-1.85,-4.1,-3.1,
+29,26,145,1,"Oh, I can’t tell you how I felt.",8,0.88,674.48,676.26,4.49,-31.81,13.35,1.45,12.8,-0.11,1.1,-0.59,-1.6,-3.8,-3.6,I|0.28|+0.6
+29,26,146,1,But it seemed to me that it could never be hard to be good any more.,16,1.0,676.7,679.44,5.84,-31.16,14.95,3.97,46.7,0.54,2.7,1.93,-4.1,-3.0,-2.8,
+29,26,147,1,I felt like I do when I look up to the stars.,12,1.0,679.78,681.98,5.45,-30.6,13.55,3.82,36.9,1.1,1.3,1.78,-1.4,-1.9,-1.55,
+29,26,148,1,"Tears came into my eyes, but, oh, they were such happy tears.",12,1.0,682.62,686.12,3.43,-31.83,12.85,1.58,-13.8,-0.13,0.6,-0.46,-2.4,-1.0,-0.4,
+29,26,149,1,"I was so sorry when it was all over, and I told Miss Barry I didn’t see how I was ever to return to common life again.",27,0.96,686.62,692.5,4.59,-31.02,13.9,3.15,15.3,0.68,1.65,1.11,-1.05,-0.1,0.1,I|0.24|+1.8
+29,26,150,1,She said she thought if we went over to the restaurant across the street and had an ice cream it might help me.,23,1.0,693.28,697.56,5.37,-32.32,14.35,3.21,34.9,-0.62,2.1,1.17,0.0,-0.1,2.0,
+29,26,151,1,That sounded so prosaic; but to my surprise I found it true.,12,1.0,697.96,701.12,3.8,-31.34,15.55,5.01,-4.5,0.36,3.3,2.97,-0.5,-5.6,-5.4,"prosaic,|0.26|+nan"
+29,26,152,1,"The ice cream was delicious, Marilla, and it was so lovely and dissipated to be sitting there eating it at eleven o’clock at night.",24,0.96,701.6,707.66,3.96,-32.49,12.35,3.22,-0.5,-0.79,0.1,1.18,-0.95,-1.7,-0.7,eleven|0.32|-0.3
+29,26,153,1,Diana said she believed she was born for city life.,10,1.0,708.44,710.78,4.27,-30.59,13.75,1.64,7.3,1.11,1.5,-0.4,-3.2,-2.4,-1.7,
+29,26,154,1,"Miss Barry asked me what my opinion was, but I said I would have to think it over very seriously before I could tell her what I really thought.",29,1.0,711.22,717.3,4.77,-31.72,11.85,2.06,19.8,-0.02,-0.4,0.02,0.1,-2.5,0.5,"was,|0.28|+5.4"
+29,26,155,1,So I thought it over after I went to bed.,10,1.0,717.84,719.62,5.62,-29.26,11.7,4.34,41.2,2.44,-0.55,2.3,-1.35,-2.4,-1.1,
+29,26,156,1,That is the best time to think things out.,9,1.0,720.04,721.84,5.0,-35.44,10.75,5.04,25.6,-3.74,-1.5,3.0,-0.95,-1.2,-0.2,
+29,26,157,1,"And I came to the conclusion, Marilla, that I wasn’t born for city life and that I was glad of it.",21,0.95,722.28,726.88,4.57,-33.56,11.7,3.42,14.8,-1.86,-0.55,1.38,-1.4,-2.4,-0.9,"conclusion,|0.20|-4.8 Marilla,|0.24|+nan I|0.36|-4.7"
+29,26,158,1,"It’s nice to be eating ice cream at brilliant restaurants at eleven o’clock at night once in a while; but as a regular thing I’d rather be in the east gable at eleven, sound asleep, but kind of knowing even in my sleep that the stars were shining outside and that the wind was blowing in the firs across the brook.",61,0.93,727.58,743.22,3.9,-33.23,12.45,2.3,-2.0,-1.53,0.2,0.26,-0.5,-1.1,-0.7,"eleven|0.32|-0.9 thing|0.52|+4.4 asleep,|0.44|+nan the|0.20|-0.2"
+29,26,159,1,I told Miss Barry so at breakfast the next morning and she laughed.,13,1.0,743.74,746.62,4.51,-31.75,11.6,1.55,13.3,-0.05,-0.65,-0.49,-0.55,-2.3,0.2,
+29,26,160,1,"Miss Barry generally laughed at anything I said, even when I said the most solemn things.",16,1.0,747.18,751.28,3.9,-30.74,12.35,4.63,-2.0,0.96,0.1,2.59,4.8,0.0,6.5,"said,|0.32|+4.4"
+29,26,161,1,"I don’t think I liked it, Marilla, because I wasn’t trying to be funny.",14,0.86,751.7,755.02,4.22,-33.02,16.25,5.66,6.0,-1.32,4.0,3.62,2.0,-0.9,-0.6,"I|0.20|+nan Marilla,|0.20|-8.4 I|0.34|+0.4"
+29,26,162,1,But she is a most hospitable lady and treated us royally.”,11,1.0,755.52,759.18,3.01,-35.05,10.55,5.96,-24.4,-3.35,-1.7,3.92,-8.9,-0.5,0.0,
+29,27,163,0,"Friday brought going-home time, and Mr. Barry drove in for the girls.",13,1.0,759.48,762.64,4.11,-29.78,11.7,2.31,3.3,1.92,-0.55,0.27,-1.65,-2.0,-1.6,Mr.|0.24|-1.7
+29,28,164,1,"“Well, I hope you’ve enjoyed yourselves,” said Miss Barry, as she bade them good-bye.",15,0.93,763.22,766.98,3.99,-32.27,10.65,3.62,0.3,-0.57,-1.6,1.58,-0.5,-0.7,0.2,hope|0.20|+1.5
+29,29,165,1,"“Indeed we have,” said Diana.",5,1.0,767.2,769.06,2.69,-35.47,11.1,5.95,-32.4,-3.77,-1.15,3.91,-1.35,-0.4,8.1,
+29,30,166,1,"“And you, Anne-girl?”",4,1.0,769.4,770.86,2.74,-33.59,1.75,4.14,-31.2,-1.89,-10.5,2.1,-0.1,-0.6,0.0,
+29,31,167,1,"“I’ve enjoyed every minute of the time,” said Anne, throwing her arms impulsively about the old woman’s neck and kissing her wrinkled cheek.",23,0.91,771.46,777.74,3.66,-31.74,11.55,3.11,-8.0,-0.04,-0.7,1.07,-0.5,-1.6,0.4,old|0.38|-1.1
+29,31,168,0,Diana would never have dared to do such a thing and felt rather aghast at Anne’s freedom.,17,0.94,778.54,782.46,4.34,-30.72,12.35,1.63,9.0,0.98,0.1,-0.41,0.85,-1.9,1.4,at|0.28|+2.1
+29,31,169,0,"But Miss Barry was pleased, and she stood on her veranda and watched the buggy out of sight.",18,1.0,782.92,786.88,4.55,-32.18,12.15,2.95,14.3,-0.48,-0.1,0.91,-2.0,-1.4,-1.3,
+29,31,170,0,Then she went back into her big house with a sigh.,11,1.0,787.5,789.96,4.47,-31.74,12.25,1.77,12.3,-0.04,0.0,-0.27,-1.8,-2.2,-1.5,
+29,31,171,0,"It seemed very lonely, lacking those fresh young lives.",9,1.0,790.58,793.66,2.92,-33.93,11.35,3.83,-26.6,-2.23,-0.9,1.79,-1.1,-1.9,-0.8,
+29,31,172,0,"Miss Barry was a rather selfish old lady, if the truth must be told, and had never cared much for anybody but herself.",23,1.0,794.44,800.34,3.9,-32.11,13.3,2.01,-2.0,-0.41,1.05,-0.03,-1.25,-3.5,0.2,"told,|0.36|+nan"
+29,31,173,0,She valued people only as they were of service to her or amused her.,14,1.0,800.82,804.2,4.14,-30.88,12.95,2.59,4.0,0.82,0.7,0.55,-0.45,-0.4,2.7,
+29,31,174,0,"Anne had amused her, and consequently stood high in the old lady’s good graces.",14,0.93,804.8,808.5,3.78,-32.26,12.7,1.17,-5.0,-0.56,0.45,-0.87,-0.25,-1.2,1.1,old|0.32|+1.0
+29,31,175,0,"But Miss Barry found herself thinking less about Anne’s quaint speeches than of her fresh enthusiasms, her transparent emotions, her little winning ways, and the sweetness of her eyes and lips.",31,0.97,809.1,818.96,3.14,-33.43,12.65,1.68,-21.1,-1.73,0.4,-0.36,-1.8,-0.9,-0.8,"about|0.54|-0.2 emotions,|0.50|+2.1"
+29,32,176,1,"“I thought Marilla Cuthbert was an old fool when I heard she’d adopted a girl out of an orphan asylum,” she said to herself, “but I guess she didn’t make much of a mistake after all.",36,0.94,819.92,828.9,4.01,-35.73,10.15,4.24,0.8,-4.03,-2.1,2.2,0.3,-1.8,-1.0,heard|0.24|+nan herself.|0.62|+nan she|0.20|+nan
+29,32,177,1,If I’d a child like Anne in the house all the time I’d be a better and happier woman.”,19,0.89,829.3,833.72,4.3,-35.6,10.15,4.4,8.0,-3.9,-2.1,2.36,-8.5,0.0,0.0,time|0.24|+nan
+29,33,178,0,"Anne and Diana found the drive home as pleasant as the drive in—pleasanter, indeed, since there was the delightful consciousness of home waiting at the end of it.",28,0.96,833.72,841.32,3.68,-31.72,13.15,3.83,-7.5,-0.02,0.9,1.79,-3.15,-10.6,-10.4,"drive|1.16|-0.6 indeed,|0.36|+2.7"
+29,33,179,0,It was sunset when they passed through White Sands and turned into the shore road.,15,1.0,841.76,845.18,4.39,-30.84,12.05,1.66,10.3,0.86,-0.2,-0.38,-1.4,-1.5,-0.6,
+29,33,180,0,"Beyond, the Avonlea hills came out darkly against the saffron sky.",11,1.0,845.7,849.06,3.27,-30.56,12.25,1.66,-17.8,1.14,0.0,-0.38,-1.2,-1.5,-0.9,
+29,33,181,0,Behind them the moon was rising out of the sea that grew all radiant and transfigured in her light.,19,1.0,849.66,854.26,4.13,-31.56,13.05,1.29,3.8,0.14,0.8,-0.75,-2.35,-2.8,-2.5,
+29,33,182,0,Every little cove along the curving road was a marvel of dancing ripples.,13,1.0,854.96,858.46,3.71,-31.39,12.35,1.44,-6.8,0.31,0.1,-0.6,-1.5,-2.0,-1.7,
+29,33,183,0,"The waves broke with a soft swish on the rocks below them, and the tang of the sea was in the strong, fresh air.",24,1.0,858.96,864.54,4.3,-32.4,12.55,1.34,8.0,-0.7,0.3,-0.7,-2.4,-4.6,-3.55,"strong,|0.28|-0.3"
+29,34,184,1,"“Oh, but it’s good to be alive and to be going home,” breathed Anne.",14,0.93,865.16,868.36,4.37,-33.47,12.95,2.19,9.8,-1.77,0.7,0.15,-0.7,-1.6,-1.2,but|0.22|+0.5
+29,35,185,0,"When she crossed the log bridge over the brook the kitchen light of Green Gables winked her a friendly welcome back, and through the open door shone the hearth fire, sending out its warm red glow athwart the chilly autumn night.",41,0.98,868.92,879.66,3.82,-31.37,13.05,1.47,-4.0,0.33,0.8,-0.57,-1.95,-1.5,-1.5,"gables|0.38|+0.3 back,|0.26|+2.3"
+29,35,186,0,"Anne ran blithely up the hill and into the kitchen, where a hot supper was waiting on the table.",19,1.0,880.26,884.8,4.19,-32.78,11.85,1.73,5.3,-1.08,-0.4,-0.31,-0.85,-1.2,-1.05,"kitchen,|0.20|+nan"
+29,36,187,1,"“So you’ve got back?” said Marilla, folding up her knitting.",10,0.9,885.42,888.22,3.57,-32.62,10.15,4.54,-10.3,-0.92,-2.1,2.5,-0.0,-3.4,-1.7,"""'So|0.26|+nan"
+29,37,188,1,"“Yes, and oh, it’s so good to be back,” said Anne joyously.",12,0.92,888.56,891.82,3.68,-32.56,12.95,1.31,-7.5,-0.86,0.7,-0.73,-1.1,-1.5,0.2,"""'Yes,|0.22|+nan oh,|0.24|-1.2"
+29,37,189,1,"“I could kiss everything, even to the clock.",8,1.0,892.16,894.24,3.85,-32.49,15.3,2.32,-3.3,-0.79,3.05,0.28,-2.75,-6.2,-6.1,"everything,|0.26|+2.4"
+29,37,190,1,"Marilla, a broiled chicken!",4,1.0,894.92,896.62,2.35,-27.09,18.65,3.38,-41.0,4.61,6.4,1.34,2.0,-8.2,-7.5,
+29,37,191,1,You don’t mean to say you cooked that for me!”,10,0.9,897.0,899.16,4.63,-31.21,13.75,5.58,16.3,0.49,1.5,3.54,-6.95,-16.5,-10.4,You|0.28|-8.5
+29,38,192,1,"“Yes, I did,” said Marilla.",5,1.0,899.16,900.86,2.94,-39.51,9.45,5.31,-26.1,-7.81,-2.8,3.27,0.05,-1.0,-0.4,
+29,38,193,1,“I thought you’d be hungry after such a drive and need something real appetizing.,14,0.93,901.1,904.52,4.09,-33.82,12.55,1.36,2.8,-2.12,0.3,-0.68,1.0,-2.7,0.7,
+29,38,194,1,"Hurry and take off your things, and we’ll have supper as soon as Matthew comes in.",16,0.94,905.0,908.38,4.73,-35.47,12.3,5.48,18.8,-3.77,0.05,3.44,-10.65,0.0,0.0,
+29,38,195,1,"I’m glad you’ve got back, I must say.",8,0.75,,,,,,,,,,,,,,
+29,38,196,1,"It’s been fearful lonesome here without you, and I never put in four longer days.”",15,0.93,910.62,915.26,3.23,-34.24,12.6,5.2,-18.8,-2.54,0.35,3.16,-10.95,0.0,0.0,"you,|0.38|+2.1"
+29,39,197,0,"After supper Anne sat before the fire between Matthew and Marilla, and gave them a full account of her visit.",20,1.0,915.26,920.44,3.86,-32.57,12.85,3.38,-3.0,-0.87,0.6,1.34,1.2,-1.1,-0.1,
+29,40,198,1,"“I’ve had a splendid time,” she concluded happily, “and I feel that it marks an epoch in my life.",19,0.95,921.34,925.92,4.15,-32.72,12.35,1.97,4.3,-1.02,0.1,-0.07,-0.9,-1.8,-0.85,
+29,40,199,1,But the best of it all was the coming home.”,10,1.0,926.46,930.32,2.59,-45.98,1.65,6.16,-34.9,-14.28,-10.6,4.12,0.0,0.0,0.0,

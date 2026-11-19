@@ -1,0 +1,239 @@
+chapter,para,sent,dialogue,text,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
+25,0,0,0,MATTHEW was having a bad ten minutes of it.,9,1.0,23.62,25.96,3.85,-32.23,11.45,3.22,0.0,0.2,-1.2,0.23,-2.4,-4.4,-4.1,
+25,0,1,0,"He had come into the kitchen, in the twilight of a cold, gray December evening, and had sat down in the woodbox corner to take off his heavy boots, unconscious of the fact that Anne and a bevy of her schoolmates were having a practice of “The Fairy Queen” in the sitting room.",53,0.98,26.34,38.4,4.39,-33.27,12.55,2.41,14.0,-0.84,-0.1,-0.58,-10.9,-0.3,0.0,"cold,|0.24|-1.1 the|0.36|+nan boots,|0.26|+nan"
+25,0,2,0,"Presently they came trooping through the hall and out into the kitchen, laughing and chattering gaily.",16,1.0,38.9,43.36,3.59,-32.89,12.75,3.51,-6.8,-0.46,0.1,0.52,-1.55,-2.9,-2.0,"kitchen,|0.32|+nan"
+25,0,3,0,"They did not see Matthew, who shrank bashfully back into the shadows beyond the woodbox with a boot in one hand and a bootjack in the other, and he watched them shyly for the aforesaid ten minutes as they put on caps and jackets and talked about the dialogue and the concert.",52,0.9,44.0,56.62,4.12,-33.52,11.35,2.33,7.0,-1.09,-1.3,-0.66,-1.55,-3.8,-0.1,"the|0.74|+1.8 a|0.40|+0.4 other,|0.30|+2.1"
+25,0,4,0,"Anne stood among them, bright eyed and animated as they; but Matthew suddenly became conscious that there was something about her different from her mates.",25,1.0,57.42,65.32,3.16,-32.85,13.95,3.89,-17.9,-0.42,1.3,0.9,0.5,-1.6,1.7,"them,|0.42|+3.3 they,|0.40|+6.7"
+25,0,5,0,And what worried Matthew was that the difference impressed him as being something that should not exist.,17,1.0,65.78,70.52,3.59,-33.72,14.65,2.66,-6.8,-1.29,2.0,-0.33,-2.9,-3.8,-2.1,
+25,0,6,0,"Anne had a brighter face, and bigger, starrier eyes, and more delicate features than the other; even shy, unobservant Matthew had learned to take note of these things; but the difference that disturbed him did not consist in any of these respects.",42,0.98,71.1,83.02,3.52,-33.05,12.85,3.46,-8.6,-0.62,0.2,0.47,-1.5,-7.3,-6.0,"bigger,|0.32|+0.3 the|0.88|+6.1 shy,|0.20|-1.8 things,|0.30|+nan"
+25,0,7,0,Then in what did it consist?,6,1.0,83.8,85.18,4.35,-39.32,16.45,6.13,13.0,-6.89,3.8,3.14,0.25,-0.2,-0.1,
+25,1,8,0,"Matthew was haunted by this question long after the girls had gone, arm in arm, down the long, hard-frozen lane and Anne had betaken herself to her books.",29,1.0,86.0,94.1,3.58,-31.27,12.35,2.71,-7.0,1.16,-0.3,-0.28,1.65,-2.1,0.5,"long,|0.22|+0.5 lane,|0.30|+1.6"
+25,1,9,0,"He could not refer it to Marilla, who, he felt, would be quite sure to sniff scornfully and remark that the only difference she saw between Anne and the other girls was that they sometimes kept their tongues quiet while Anne never did.",43,0.98,94.74,105.34,4.06,-32.11,11.95,2.97,5.5,0.32,-0.7,-0.02,-2.15,-2.8,-2.0,"Marilla,|0.22|+1.9 to|0.20|+nan"
+25,1,10,0,"This, Matthew felt, would be no great help.",8,1.0,105.74,107.86,3.77,-32.91,11.35,3.46,-2.1,-0.48,-1.3,0.47,-1.1,-4.1,-3.8,
+25,2,11,0,"He had recourse to his pipe that evening to help him study it out, much to Marilla’s disgust.",18,0.94,108.56,112.82,4.23,-32.96,11.55,2.87,9.9,-0.53,-1.1,-0.12,-0.4,-0.5,1.4,to|0.42|+nan
+25,2,12,0,After two hours of smoking and hard reflection Matthew arrived at a solution of his problem.,16,1.0,113.42,118.0,3.49,-32.43,13.65,2.06,-9.4,0.0,1.0,-0.93,-1.4,-1.8,-0.9,"reflection,|0.48|+nan"
+25,2,13,0,Anne was not dressed like the other girls!,8,1.0,118.66,120.44,4.49,-32.26,14.45,2.35,16.6,0.17,1.8,-0.64,-4.35,-8.8,-4.35,
+25,3,14,0,The more Matthew thought about the matter the more he was convinced that Anne never had been dressed like the other girls—never since she had come to Green Gables.,29,0.9,121.12,128.58,3.89,-33.06,14.15,2.82,1.0,-0.63,1.5,-0.17,-0.4,-1.0,0.8,"matter,|0.30|+6.1 other|1.00|+6.1 she|0.22|-2.0"
+25,3,15,0,"Marilla kept her clothed in plain, dark dresses, all made after the same unvarying pattern.",15,1.0,129.28,133.98,3.19,-32.16,12.85,1.45,-17.1,0.27,0.2,-1.54,-0.9,-0.2,0.3,"plain,|0.28|-0.7"
+25,3,16,0,If Matthew knew there was such a thing as fashion in dress it was as much as he did; but he was quite sure that Anne’s sleeves did not look at all like the sleeves the other girls wore.,39,0.95,134.58,143.44,4.4,-33.1,14.85,4.4,14.3,-0.67,2.2,1.41,-5.9,-7.0,-5.3,"did,|0.26|+nan that|0.50|+5.3"
+25,3,17,0,He recalled the cluster of little girls he had seen around her that evening—all gay in waists of red and blue and pink and white—and he wondered why Marilla always kept her so plainly and soberly gowned.,37,0.92,143.94,154.76,3.42,-32.49,12.35,3.16,-11.2,-0.06,-0.3,0.17,-0.2,-2.0,-1.6,that|0.92|+2.6 in|0.30|-0.1 and|1.02|+6.7
+25,4,18,0,"Of course, it must be all right.",7,1.0,155.52,157.26,4.02,-35.39,9.35,5.1,4.4,-2.96,-3.3,2.11,0.0,-5.8,-5.6,
+25,4,19,0,Marilla knew best and Marilla was bringing her up.,9,1.0,157.76,160.02,3.98,-30.61,12.65,1.86,3.4,1.82,0.0,-1.13,-0.35,-0.5,1.35,
+25,4,20,0,"Probably some wise, inscrutable motive was to be served thereby.",10,1.0,160.46,163.64,3.14,-32.48,12.45,3.09,-18.4,-0.05,-0.2,0.1,-3.7,-1.9,0.5,
+25,4,21,0,But surely it would do no harm to let the child have one pretty dress—something like Diana Barry always wore.,20,1.0,164.26,170.0,3.48,-32.25,12.85,3.92,-9.6,0.18,0.2,0.93,2.2,-0.8,0.8,
+25,4,22,0,Matthew decided that he would give her one; that surely could not be objected to as an unwarranted putting in of his oar.,23,1.0,170.78,176.32,4.15,-33.2,11.15,4.59,7.8,-0.77,-1.5,1.6,-9.15,-8.35,-6.75,one.|0.32|+nan
+25,4,23,0,Christmas was only a fortnight off.,6,1.0,176.62,178.26,3.66,-30.54,13.05,2.55,-4.9,1.89,0.4,-0.44,-0.7,-1.5,1.3,
+25,4,24,0,A nice new dress would be the very thing for a present.,12,1.0,178.52,180.86,5.13,-32.34,12.65,3.11,33.2,0.09,0.0,0.12,1.7,-1.2,3.6,
+25,4,25,0,"Matthew, with a sigh of satisfaction, put away his pipe and went to bed, while Marilla opened all the doors and aired the house.",24,1.0,181.68,187.7,3.99,-31.43,12.35,2.48,3.6,1.0,-0.3,-0.51,-2.7,-3.1,-1.1,"satisfaction,|0.30|-0.4"
+25,5,26,0,"The very next evening Matthew betook himself to Carmody to buy the dress, determined to get the worst over and have done with it.",24,1.0,188.46,194.38,4.05,-32.65,12.85,3.1,5.2,-0.22,0.2,0.11,-11.2,0.0,0.0,"dress,|0.24|+3.9"
+25,5,27,0,"It would be, he felt assured, no trifling ordeal.",9,1.0,194.66,197.34,3.36,-33.01,14.0,3.91,-12.7,-0.58,1.35,0.92,-0.65,-1.3,2.4,"assured,|0.38|+2.9"
+25,5,28,0,There were some things Matthew could buy and prove himself no mean bargainer; but he knew he would be at the mercy of shopkeepers when it came to buying a girl’s dress.,32,0.97,197.94,205.68,4.13,-32.6,12.65,2.7,7.3,-0.17,0.0,-0.29,-4.15,-3.4,-1.2,"bargainer,|0.26|+nan a|0.36|+nan"
+25,6,29,0,After much cogitation Matthew resolved to go to Samuel Lawson’s store instead of William Blair’s.,15,0.87,206.6,210.84,3.54,-31.31,12.65,3.49,-8.1,1.12,0.0,0.5,-2.4,-2.6,-1.0,"cogitation,|0.26|+0.5 Samuel|0.50|-3.5"
+25,6,30,0,"To be sure, the Cuthberts always had gone to William Blair’s; it was almost as much a matter of conscience with them as to attend the Presbyterian church and vote Conservative.",31,0.97,211.58,219.52,3.9,-32.09,12.55,3.08,1.3,0.34,-0.1,0.09,0.7,-5.9,-2.2,William|0.64|+nan
+25,6,31,0,But William Blair’s two daughters frequently waited on customers there and Matthew held them in absolute dread.,17,0.94,220.16,225.7,3.07,-33.02,12.8,2.36,-20.3,-0.59,0.15,-0.63,-1.25,-0.1,0.95,William|0.36|-4.3
+25,6,32,0,"He could contrive to deal with them when he knew exactly what he wanted and could point it out; but in such a matter as this, requiring explanation and consultation, Matthew felt that he must be sure of a man behind the counter.",43,1.0,226.28,237.26,3.92,-32.4,12.25,3.21,1.8,0.03,-0.4,0.22,-3.3,-2.5,0.1,"out,|0.26|+nan consultation,|0.70|+nan"
+25,6,33,0,"So he would go to Lawson’s, where Samuel or his son would wait on him.",15,0.93,237.66,240.82,4.75,-33.97,13.25,1.83,23.4,-1.54,0.6,-1.16,-11.6,0.0,0.0,to|0.56|-2.5
+25,7,34,0,Alas!,1,1.0,,,,,,,,,,,,,,
+25,7,35,0,"Matthew did not know that Samuel, in the recent expansion of his business, had set up a lady clerk also; she was a niece of his wife’s and a very dashing young person indeed, with a huge, drooping pompadour, big, rolling brown eyes, and a most extensive and bewildering smile.",50,0.98,241.9,256.3,3.47,-32.41,12.55,2.75,-9.9,0.02,-0.1,-0.24,-2.5,-5.0,-1.8,"business,|0.36|+nan also.|0.36|-0.1 his|0.48|-1.8 indeed,|0.34|+3.0"
+25,7,36,0,She was dressed with exceeding smartness and wore several bangle bracelets that glittered and rattled and tinkled with every movement of her hands.,23,0.96,256.92,263.62,3.43,-32.88,12.65,2.41,-10.9,-0.45,0.0,-0.58,-2.05,-2.9,-1.5,and|0.34|+0.7
+25,7,37,0,Matthew was covered with confusion at finding her there at all; and those bangles completely wrecked his wits at one fell swoop.,22,1.0,264.28,270.32,3.64,-32.42,11.75,2.1,-5.5,0.01,-0.9,-0.89,-1.4,-5.3,-3.0,"all,|0.20|+2.5"
+25,8,38,1,"“What can I do for you this evening, Mr. Cuthbert?”",10,1.0,270.88,272.98,4.76,-32.52,13.85,6.4,23.6,-0.09,1.2,3.41,-3.4,-10.5,-9.6,
+25,8,39,0,"Miss Lucilla Harris inquired, briskly and ingratiatingly, tapping the counter with both hands.",13,1.0,272.98,277.84,2.67,-32.61,11.25,2.23,-30.6,-0.18,-1.4,-0.76,-9.6,-10.9,-10.2,"inquired,|0.32|+nan"
+25,9,40,1,"“Have you any—any—any—well now, say any garden rakes?” stammered Matthew.",10,0.7,,,,,,,,,,,,,,
+25,10,41,0,"Miss Harris looked somewhat surprised, as well she might, to hear a man inquiring for garden rakes in the middle of December.",22,1.0,286.6,292.22,3.91,-33.33,11.25,2.91,1.6,-0.9,-1.4,-0.08,-0.25,-3.2,1.2,
+25,11,42,1,"“I believe we have one or two left over,” she said, “but they’re upstairs in the lumber room.",18,0.94,292.9,297.32,4.07,-31.62,13.75,4.8,5.7,0.81,1.1,1.81,0.15,-7.8,-2.0,
+25,11,43,1,I’ll go and see.”,4,0.75,,,,,,,,,,,,,,
+25,11,44,0,During her absence Matthew collected his scattered senses for another effort.,11,1.0,298.66,302.4,2.94,-34.12,10.7,3.67,-23.6,-1.69,-1.95,0.68,-1.3,-3.5,-2.9,
+25,12,45,0,"When Miss Harris returned with the rake and cheerfully inquired: “Anything else tonight, Mr. Cuthbert?”",15,0.93,303.06,307.74,3.21,-31.38,15.35,5.16,-16.6,1.05,2.7,2.17,-13.7,-21.4,-18.2,else|0.36|+1.9
+25,12,46,0,"Matthew took his courage in both hands and replied: “Well now, since you suggest it, I might as well—take—that is—look at—buy some—some hayseed.”",23,0.78,,,,,,,,,,,,,,
+25,13,47,0,Miss Harris had heard Matthew Cuthbert called odd.,8,1.0,320.7,323.04,3.42,-33.33,1.65,0.0,-11.2,-0.9,-11.0,-2.99,0.0,0.0,0.0,
+25,13,48,0,She now concluded that he was entirely crazy.,8,1.0,323.42,325.48,3.88,-32.0,13.25,2.5,0.8,0.43,0.6,-0.49,-0.8,-1.5,2.95,
+25,14,49,1,"“We only keep hayseed in the spring,” she explained loftily.",10,1.0,326.12,329.38,3.07,-35.32,13.45,5.15,-20.3,-2.89,0.8,2.16,-2.95,-4.8,-2.4,
+25,14,50,1,“We’ve none on hand just now.”,6,0.67,,,,,,,,,,,,,,
+25,15,51,1,"“Oh, certainly—certainly—just as you say,” stammered unhappy Matthew, seizing the rake and making for the door.",16,1.0,331.5,338.06,2.44,-35.8,10.95,4.63,-36.6,-3.37,-1.7,1.64,0.0,-2.3,0.6,"""'Oh,|0.56|+nan Matthew,|0.26|+4.6"
+25,15,52,0,At the threshold he recollected that he had not paid for it and he turned miserably back.,17,1.0,338.54,342.82,3.97,-32.81,12.75,3.1,3.1,-0.38,0.1,0.11,-3.0,-3.2,-1.6,
+25,15,53,0,While Miss Harris was counting out his change he rallied his powers for a final desperate attempt.,17,1.0,343.28,347.64,3.9,-32.44,13.05,3.01,1.3,-0.01,0.4,0.02,-11.4,-0.1,0.0,
+25,16,54,1,“Well now—if it isn’t too much trouble—I might as well—that is—I’d like to look at—at—some sugar.”,16,0.75,,,,,,,,,,,,,,
+25,17,55,1,“White or brown?” queried Miss Harris patiently.,7,0.71,,,,,,,,,,,,,,
+25,18,56,1,"“Oh—well now—brown,” said Matthew feebly.",5,0.6,,,,,,,,,,,,,,
+25,19,57,1,"“There’s a barrel of it over there,” said Miss Harris, shaking her bangles at it.",15,0.8,365.0,368.28,4.57,-29.68,11.65,3.5,18.7,2.75,-1.0,0.51,-1.85,-2.4,-1.4,
+25,19,58,1,“It’s the only kind we have.”,6,0.83,368.72,370.26,3.9,-35.76,10.55,5.49,1.3,-3.33,-2.1,2.5,-8.9,-8.3,-8.1,
+25,20,59,1,"“I’ll—I’ll take twenty pounds of it,” said Matthew, with beads of perspiration standing on his forehead.",16,0.94,371.9,376.24,3.69,-34.61,11.25,3.72,-4.2,-2.18,-1.4,0.73,-0.5,-3.3,-0.4,
+25,21,60,0,Matthew had driven halfway home before he was his own man again.,12,0.92,376.92,380.0,3.9,-31.31,12.55,2.56,1.3,1.12,-0.1,-0.43,-3.5,-3.2,-2.4,driven|0.56|-1.6
+25,21,61,0,"It had been a gruesome experience, but it served him right, he thought, for committing the heresy of going to a strange store.",23,1.0,380.5,386.08,4.12,-31.55,12.55,2.01,7.0,0.88,-0.1,-0.98,-2.8,-2.8,-2.2,
+25,21,62,0,"When he reached home he hid the rake in the tool house, but the sugar he carried in to Marilla.",20,1.0,386.76,391.02,4.69,-31.31,11.7,3.3,21.8,1.12,-0.95,0.31,-0.75,-1.7,-0.9,"-house,|0.28|+nan"
+25,22,63,1,“Brown sugar!” exclaimed Marilla.,4,1.0,391.8,393.6,2.22,-30.03,10.75,6.12,-42.3,2.4,-1.9,3.13,-1.45,-3.5,-2.0,
+25,22,64,1,“Whatever possessed you to get so much?,7,1.0,393.84,395.7,3.76,-31.06,17.95,3.23,-2.3,1.37,5.3,0.24,0.85,-0.1,7.5,
+25,22,65,1,You know I never use it except for the hired man’s porridge or black fruit cake.,16,0.81,395.96,398.86,5.52,-30.5,12.85,4.01,43.4,1.93,0.2,1.02,-3.3,-3.6,-3.6,hired|0.40|+nan
+25,22,66,1,Jerry’s gone and I’ve made my cake long ago.,9,0.78,,,,,,,,,,,,,,
+25,22,67,1,"It’s not good sugar, either—it’s coarse and dark—William Blair doesn’t usually keep sugar like that.”",15,0.73,,,,,,,,,,,,,,
+25,23,68,1,"“I—I thought it might come in handy sometime,” said Matthew, making good his escape.",14,0.93,408.84,412.86,3.48,-34.13,14.95,6.86,-9.6,-1.7,2.3,3.87,-13.3,0.0,0.0,handy|0.58|-13.4
+25,24,69,0,When Matthew came to think the matter over he decided that a woman was required to cope with the situation.,20,1.0,413.9,418.44,4.41,-32.15,14.65,4.25,14.5,0.28,2.0,1.26,-4.4,-7.2,-6.3,
+25,24,70,0,Marilla was out of the question.,6,1.0,419.18,420.3,5.36,-29.56,11.05,2.19,39.2,2.87,-1.6,-0.8,-0.5,-6.5,-6.3,
+25,24,71,0,Matthew felt sure she would throw cold water on his project at once.,13,1.0,420.84,423.76,4.45,-31.78,11.95,1.81,15.6,0.65,-0.7,-1.18,-2.55,-4.6,-3.0,
+25,24,72,0,Remained only Mrs. Lynde; for of no other woman in Avonlea would Matthew have dared to ask advice.,18,0.94,424.38,429.44,3.56,-30.83,12.45,3.56,-7.5,1.6,-0.2,0.57,-1.15,-2.8,-1.2,Mrs.|0.26|-14.5 in|0.44|+1.3
+25,24,73,0,"To Mrs. Lynde he went accordingly, and that good lady promptly took the matter out of the harassed man’s hands.",20,0.95,429.92,434.9,4.02,-33.14,12.65,2.74,4.4,-0.71,0.0,-0.25,-2.35,-0.8,-0.5,"Mrs.|0.22|-2.0 accordingly,|0.26|+3.8 harassed|0.48|+nan"
+25,25,74,1,“Pick out a dress for you to give Anne?,9,1.0,435.58,437.44,4.84,-30.05,15.6,6.68,25.7,2.38,2.95,3.69,-13.95,-11.3,-11.1,
+25,25,75,1,To be sure I will.,5,1.0,437.44,438.42,5.1,-30.53,1.65,0.24,32.5,1.9,-11.0,-2.75,0.0,-0.7,0.0,
+25,25,76,1,I’m going to Carmody tomorrow and I’ll attend to it.,10,0.7,,,,,,,,,,,,,,
+25,25,77,1,Have you something particular in mind?,6,1.0,441.46,443.46,3.0,-30.53,14.65,5.19,-22.1,1.9,2.0,2.2,-13.0,-15.1,-13.6,
+25,25,78,1,No?,1,1.0,,,,,,,,,,,,,,
+25,25,79,1,"Well, I’ll just go by my own judgment then.",9,0.89,444.3,447.0,3.33,-33.35,11.75,4.95,-13.5,-0.92,-0.9,1.96,-10.1,-0.7,0.0,"""'Well,|0.60|+nan"
+25,25,80,1,"I believe a nice rich brown would just suit Anne, and William Blair has some new gloria in that’s real pretty.",21,0.95,447.0,452.92,3.55,-31.55,14.25,5.27,-7.8,0.88,1.6,2.28,3.1,-0.2,5.0,in|0.22|+nan
+25,25,81,1,"Perhaps you’d like me to make it up for her, too, seeing that if Marilla was to make it Anne would probably get wind of it before the time and spoil the surprise?",33,0.97,453.54,460.4,4.81,-30.84,12.45,2.96,24.9,1.59,-0.2,-0.03,-1.9,-3.0,-1.9,Perhaps|0.26|-3.8
+25,25,82,1,"Well, I’ll do it.",4,0.75,,,,,,,,,,,,,,
+25,25,83,1,"No, it isn’t a mite of trouble.",7,0.86,462.24,463.64,5.0,-29.29,15.25,5.15,29.9,3.14,2.6,2.16,2.25,-0.1,3.6,
+25,25,84,1,I like sewing.,3,1.0,463.76,464.5,4.05,-33.97,,,5.2,-1.54,,,,,,
+25,25,85,1,"I’ll make it to fit my niece, Jenny Gillis, for she and Anne are as like as two peas as far as figure goes.”",24,0.96,465.18,470.42,4.58,-33.4,12.45,4.96,19.0,-0.97,-0.2,1.97,-10.8,0.0,0.0,
+25,26,86,1,"“Well now, I’m much obliged,” said Matthew, “and—and—I dunno—but I’d like—I think they make the sleeves different nowadays to what they used to be.",24,0.88,470.42,481.2,2.23,-37.48,11.55,6.82,-42.1,-5.05,-1.1,3.83,3.2,-0.1,2.8,"now,|0.64|+2.8 and—and—I|1.16|+15.1"
+25,26,87,1,If it wouldn’t be asking too much I—I’d like them made in the new way.”,15,0.87,481.5,485.96,3.36,-32.83,13.0,5.61,-12.7,-0.4,0.35,2.62,-11.35,-0.2,0.0,"it|0.24|-1.7 much,|1.12|-0.4"
+25,27,88,1,“Puffs?,1,1.0,,,,,,,,,,,,,,
+25,27,89,1,Of course.,2,1.0,486.82,487.32,4.0,-40.69,1.65,0.0,3.9,-8.26,-11.0,-2.99,0.0,0.0,0.0,
+25,27,90,1,"You needn’t worry a speck more about it, Matthew.",9,0.89,487.76,489.76,4.5,-29.43,14.55,1.9,16.9,3.0,1.9,-1.09,-3.95,-4.6,-3.55,You|0.26|-0.1
+25,27,91,1,"I’ll make it up in the very latest fashion,” said Mrs. Lynde.",12,0.92,490.46,493.02,4.69,-33.46,13.25,2.95,21.8,-1.03,0.6,-0.04,-4.2,-8.7,-7.7,
+25,27,92,0,To herself she added when Matthew had gone:,8,1.0,493.34,495.38,3.92,-31.17,11.55,4.61,1.8,1.26,-1.1,1.62,-1.25,-2.2,-1.2,
+25,28,93,1,“It’ll be a real satisfaction to see that poor child wearing something decent for once.,15,0.93,496.32,500.0,4.08,-33.77,12.45,1.9,6.0,-1.34,-0.2,-1.09,-3.15,-0.1,0.2,
+25,28,94,1,"The way Marilla dresses her is positively ridiculous, that’s what, and I’ve ached to tell her so plainly a dozen times.",21,0.9,500.3,506.22,3.55,-33.66,14.15,2.85,-7.8,-1.23,1.5,-0.14,-0.5,-1.3,-1.1,"ridiculous,|0.40|+nan what,|0.36|-4.2 and|0.26|+6.5"
+25,28,95,1,"I’ve held my tongue though, for I can see Marilla doesn’t want advice and she thinks she knows more about bringing children up than I do for all she’s an old maid.",32,0.88,507.1,513.88,4.72,-31.41,12.95,2.41,22.6,1.02,0.3,-0.58,-4.4,-6.8,-6.65,"Marilla|0.36|-0.9 bringing|0.22|+2.9 do,|0.30|-0.2 all|0.24|-6.5"
+25,28,96,1,But that’s always the way.,5,0.8,514.42,515.72,3.85,-30.28,12.25,4.36,0.0,2.15,-0.4,1.37,0.0,-1.7,-1.55,But|0.30|+4.2
+25,28,97,1,Folks that has brought up children know that there’s no hard and fast method in the world that’ll suit every child.,21,0.86,516.18,520.88,4.47,-31.16,13.25,2.07,16.1,1.27,0.6,-0.92,-3.3,-1.3,-0.4,know|0.32|+1.0 world|0.26|-1.5
+25,28,98,1,"But them as never have think it’s all as plain and easy as Rule of Three—just set your three terms down so fashion, and the sum ‘ll work out correct.",30,0.9,521.46,528.42,4.31,-32.82,12.7,1.82,11.9,-0.39,0.05,-1.17,2.35,-0.4,4.9,think|0.22|+nan
+25,28,99,1,But flesh and blood don’t come under the head of arithmetic and that’s where Marilla Cuthbert makes her mistake.,19,0.89,528.84,533.2,4.36,-33.84,11.25,3.52,13.2,-1.41,-1.4,0.53,-1.75,-6.3,-4.0,"blood|0.28|+nan arithmetic,|0.20|+3.2 and|0.22|-1.9"
+25,28,100,1,I suppose she’s trying to cultivate a spirit of humility in Anne by dressing her as she does; but it’s more likely to cultivate envy and discontent.,27,0.93,533.7,540.3,4.09,-32.8,12.95,2.55,6.2,-0.37,0.3,-0.44,0.45,-5.2,-2.7,suppose|0.30|-3.7
+25,28,101,1,I’m sure the child must feel the difference between her clothes and the other girls’.,15,0.93,541.22,544.16,5.1,-34.05,10.85,0.96,32.5,-1.62,-1.8,-2.03,-0.1,-2.0,-1.5,
+25,28,102,1,But to think of Matthew taking notice of it!,9,1.0,544.7,546.82,4.25,-35.37,10.1,4.63,10.4,-2.94,-2.55,1.64,2.0,-0.2,3.7,
+25,28,103,1,That man is waking up after being asleep for over sixty years.”,12,1.0,547.02,550.86,3.12,-33.66,14.2,7.24,-19.0,-1.23,1.55,4.25,-12.55,0.0,0.0,
+25,29,104,0,"Marilla knew all the following fortnight that Matthew had something on his mind, but what it was she could not guess, until Christmas Eve, when Mrs. Lynde brought up the new dress.",32,1.0,550.86,559.04,3.91,-32.44,12.9,3.73,1.6,-0.01,0.25,0.74,-2.0,-2.2,-1.2,"mind,|0.26|+nan Eve,|0.32|+nan Mrs.|0.22|-2.7"
+25,29,105,0,"Marilla behaved pretty well on the whole, although it is very likely she distrusted Mrs. Lynde’s diplomatic explanation that she had made the dress because Matthew was afraid Anne would find out about it too soon if Marilla made it.",40,0.97,559.76,570.14,3.85,-32.2,11.75,2.4,0.0,0.23,-0.9,-0.59,-10.1,-12.1,-11.8,"whole,|0.28|+5.5 Mrs.|0.34|+nan"
+25,30,106,1,"“So this is what Matthew has been looking so mysterious over and grinning about to himself for two weeks, is it?” she said a little stiffly but tolerantly.",28,1.0,570.44,577.7,3.86,-32.67,10.45,3.03,0.3,-0.24,-2.2,0.04,0.05,0.0,1.5,
+25,30,107,1,“I knew he was up to some foolishness.,8,1.0,578.0,579.96,4.08,-32.12,12.65,5.32,6.0,0.31,0.0,2.33,-2.9,-0.6,-0.3,
+25,30,108,1,"Well, I must say I don’t think Anne needed any more dresses.",12,0.83,580.8,583.08,5.26,-27.54,13.25,1.79,36.6,4.89,0.6,-1.2,0.9,-0.6,2.1,I|0.22|+1.6
+25,30,109,1,"I made her three good, warm, serviceable ones this fall, and anything more is sheer extravagance.",16,1.0,583.42,588.14,3.39,-31.5,13.65,2.31,-11.9,0.93,1.0,-0.68,-0.7,-1.9,-1.6,"fall,|0.30|+5.6"
+25,30,110,1,"There’s enough material in those sleeves alone to make a waist, I declare there is.",15,0.93,588.9,592.04,4.78,-29.7,11.55,2.27,24.2,2.73,-1.1,-0.72,-0.5,-3.4,0.4,
+25,30,111,1,"You’ll just pamper Anne’s vanity, Matthew, and she’s as vain as a peacock now.",14,0.79,,,,,,,,,,,,,,
+25,30,112,1,"Well, I hope she’ll be satisfied at last, for I know she’s been hankering after those silly sleeves ever since they came in, although she never said a word after the first.",32,0.94,596.68,604.6,4.04,-31.31,14.05,2.37,4.9,1.12,1.4,-0.62,-3.6,-1.0,-0.8,"hope|0.20|+1.3 know|0.26|+0.8 in,|0.32|+1.0"
+25,30,113,1,The puffs have been getting bigger and more ridiculous right along; they’re as big as balloons now.,17,0.94,605.08,609.62,3.74,-31.64,12.25,4.38,-2.9,0.79,-0.4,1.39,-0.2,-6.4,-1.8,along.|0.60|+nan
+25,30,114,1,Next year anybody who wears them will have to go through a door sideways.”,14,1.0,610.34,613.08,5.11,-29.95,12.45,2.72,32.7,2.48,-0.2,-0.27,-0.6,-1.3,-0.6,
+25,31,115,0,Christmas morning broke on a beautiful white world.,8,1.0,613.84,616.6,2.9,-30.32,14.35,4.76,-24.7,2.11,1.7,1.77,-4.0,-3.5,-2.2,
+25,31,116,0,It had been a very mild December and people had looked forward to a green Christmas; but just enough snow fell softly in the night to transfigure Avonlea.,28,0.96,616.98,624.76,3.6,-32.25,13.45,2.44,-6.5,0.18,0.8,-0.55,-3.6,-4.1,-1.8,"December,|0.22|+3.1 Christmas.|0.48|+0.4 fell|0.56|-1.8"
+25,31,117,0,Anne peeped out from her frosted gable window with delighted eyes.,11,1.0,625.38,628.44,3.59,-29.1,12.85,1.2,-6.8,3.33,0.2,-1.79,-2.4,-4.8,-2.6,
+25,31,118,0,The firs in the Haunted Wood were all feathery and wonderful; the birches and wild cherry-trees were outlined in pearl; the plowed fields were stretches of snowy dimples; and there was a crisp tang in the air that was glorious.,41,0.98,628.94,640.22,3.63,-32.29,12.85,3.06,-5.7,0.14,0.2,0.07,-0.65,-3.4,-3.3,"The|0.22|+nan wonderful.|0.40|-3.2 pearl.|0.52|+1.3 dimples,|0.32|+1.3"
+25,31,119,0,Anne ran downstairs singing until her voice reechoed through Green Gables.,11,0.91,640.84,644.24,3.24,-31.51,12.15,1.4,-15.8,0.92,-0.5,-1.59,-1.6,-2.4,-2.1,voice|0.62|+0.0
+25,32,120,1,"“Merry Christmas, Marilla!",3,1.0,645.0,646.08,2.78,-28.42,20.05,4.15,-27.8,4.01,7.4,1.16,-2.0,-5.7,-5.5,
+25,32,121,1,"Merry Christmas, Matthew!",3,1.0,646.32,647.26,3.19,-30.72,17.45,2.01,-17.1,1.71,4.8,-0.98,-2.2,-3.0,-2.9,
+25,32,122,1,Isn’t it a lovely Christmas?,5,0.8,647.86,648.94,4.63,-29.08,16.95,0.91,20.3,3.35,4.3,-2.08,0.4,-0.1,0.3,
+25,32,123,1,I’m so glad it’s white.,5,0.6,,,,,,,,,,,,,,
+25,32,124,1,"Any other kind of Christmas doesn’t seem real, does it?",10,0.9,650.6,653.0,4.17,-31.55,15.35,2.0,8.3,0.88,2.7,-0.99,-1.1,-1.6,0.3,Christmas|0.34|+2.2
+25,32,125,1,I don’t like green Christmases.,5,0.8,653.18,654.6,3.52,-37.04,24.2,3.54,-8.6,-4.61,11.55,0.55,3.65,0.0,0.0,
+25,32,126,1,They’re not green—they’re just nasty faded browns and grays.,9,0.67,,,,,,,,,,,,,,
+25,32,127,1,What makes people call them green?,6,1.0,658.52,660.4,3.19,-38.35,10.75,7.15,-17.1,-5.92,-1.9,4.16,-9.1,-10.1,-9.0,
+25,32,128,1,"Why—why—Matthew, is that for me?",5,0.8,662.52,663.76,4.03,-31.84,18.15,7.55,4.7,0.59,5.5,4.56,-16.3,-23.9,-19.8,
+25,32,129,1,"Oh, Matthew!”",2,1.0,663.76,665.66,1.05,-39.56,5.9,8.08,-72.7,-7.13,-6.75,5.09,-4.25,-17.2,-14.3,"""'Oh,|0.22|-0.1"
+25,33,130,0,"Matthew had sheepishly unfolded the dress from its paper swathings and held it out with a deprecatory glance at Marilla, who feigned to be contemptuously filling the teapot, but nevertheless watched the scene out of the corner of her eye with a rather interested air.",45,0.98,665.66,678.54,3.49,-32.78,12.35,3.34,-9.4,-0.35,-0.3,0.35,1.2,-0.9,1.2,"paper|0.46|-2.4 Marilla,|0.22|+5.8 teapot,|0.22|+nan"
+25,34,131,0,Anne took the dress and looked at it in reverent silence.,11,1.0,679.52,681.96,4.51,-31.65,12.15,1.89,17.1,0.78,-0.5,-1.1,-1.6,-2.6,-2.2,
+25,34,132,0,"Oh, how pretty it was—a lovely soft brown gloria with all the gloss of silk; a skirt with dainty frills and shirrings; a waist elaborately pintucked in the most fashionable way, with a little ruffle of filmy lace at the neck.",41,0.93,682.46,695.74,3.09,-33.79,12.45,3.49,-19.7,-1.36,-0.2,0.5,-0.9,-1.3,-1.1,"it|0.90|+2.1 silk!|0.34|+nan and|0.62|+nan elaborately|0.48|-1.0 way,|0.38|+4.2"
+25,34,133,0,But the sleeves—they were the crowning glory!,7,0.86,696.14,699.0,2.45,-34.05,12.15,4.68,-36.4,-1.62,-0.5,1.69,-1.5,-4.0,-3.8,the|0.80|-0.8
+25,34,134,0,"Long elbow cuffs, and above them two beautiful puffs divided by rows of shirring and bows of brown-silk ribbon.",20,1.0,699.58,707.18,2.63,-34.35,13.35,3.78,-31.7,-1.92,0.7,0.79,-11.7,-10.8,-10.6,
+25,35,135,1,"“That’s a Christmas present for you, Anne,” said Matthew shyly.",10,0.9,707.88,710.66,3.6,-33.37,11.2,1.39,-6.5,-0.94,-1.45,-1.6,-0.65,-3.6,0.3,"you,|0.24|+4.2"
+25,35,136,1,"“Why—why—Anne, don’t you like it?",5,0.6,,,,,,,,,,,,,,
+25,35,137,1,Well now—well now.”,3,1.0,713.98,716.14,1.39,-44.32,1.65,8.17,-63.9,-11.89,-11.0,5.18,0.0,-13.7,-13.0,
+25,36,138,0,For Anne’s eyes had suddenly filled with tears.,8,0.88,716.14,718.68,3.15,-31.8,12.75,4.38,-18.2,0.63,0.1,1.39,0.5,-4.4,-1.0,For|0.44|+10.4
+25,37,139,1,“Like it!,2,1.0,719.38,720.12,2.7,-36.92,,,-29.9,-4.49,,,,,,
+25,37,140,1,"Oh, Matthew!”",2,1.0,720.46,721.66,1.67,-31.09,15.65,5.65,-56.6,1.34,3.0,2.66,-2.6,-5.8,-3.0,
+25,37,141,0,Anne laid the dress over a chair and clasped her hands.,11,1.0,721.66,724.98,3.31,-32.43,12.15,4.59,-14.0,0.0,-0.5,1.6,-1.25,-1.6,-1.6,
+25,37,142,1,"“Matthew, it’s perfectly exquisite.",4,0.75,,,,,,,,,,,,,,
+25,37,143,1,"Oh, I can never thank you enough.",7,1.0,727.66,729.2,4.55,-28.72,17.15,1.5,18.2,3.71,4.5,-1.49,-2.7,-3.0,-1.7,
+25,37,144,1,Look at those sleeves!,4,1.0,729.68,730.72,3.85,-31.71,18.45,4.0,0.0,0.72,5.8,1.01,0.95,-2.7,5.0,
+25,37,145,1,"Oh, it seems to me this must be a happy dream.”",11,1.0,731.22,733.64,4.55,-32.47,15.75,5.27,18.2,-0.04,3.1,2.28,-0.1,-2.6,-2.4,
+25,38,146,1,"“Well, well, let us have breakfast,” interrupted Marilla.",8,0.75,,,,,,,,,,,,,,
+25,38,147,1,"“I must say, Anne, I don’t think you needed the dress; but since Matthew has got it for you, see that you take good care of it.",27,0.96,737.28,742.52,5.15,-31.77,15.1,3.36,33.8,0.66,2.45,0.37,10.15,-1.5,-0.2,I|0.22|+3.4
+25,38,148,1,There’s a hair ribbon Mrs. Lynde left for you.,9,0.89,743.14,744.76,5.56,-33.09,11.35,1.99,44.4,-0.66,-1.3,-1.0,-1.25,-2.8,-1.0,Mrs.|0.20|-1.6
+25,38,149,1,"It’s brown, to match the dress.",6,0.83,745.14,746.08,6.38,-32.22,,,65.7,0.21,,,,,,
+25,38,150,1,"Come now, sit in.”",4,1.0,746.46,747.82,2.94,-45.38,1.65,0.12,-23.6,-12.95,-11.0,-2.87,0.0,-0.5,0.0,now.|0.26|+nan
+25,39,151,1,"“I don’t see how I’m going to eat breakfast,” said Anne rapturously.",12,0.83,747.82,751.18,3.57,-31.91,12.7,5.44,-7.3,0.52,0.05,2.45,-1.2,-2.05,-0.75,
+25,39,152,1,“Breakfast seems so commonplace at such an exciting moment.,9,0.89,751.64,753.84,4.09,-32.53,15.05,1.75,6.2,-0.1,2.4,-1.24,-1.55,-1.3,-0.4,
+25,39,153,1,I’d rather feast my eyes on that dress.,8,0.88,755.06,756.64,5.06,-28.46,14.45,1.51,31.4,3.97,1.8,-1.48,-0.85,-1.8,-0.5,
+25,39,154,1,I’m so glad that puffed sleeves are still fashionable.,9,0.89,757.54,759.52,4.55,-31.94,13.45,2.34,18.2,0.49,0.8,-0.65,-0.2,-0.6,0.8,
+25,39,155,1,It did seem to me that I’d never get over it if they went out before I had a dress with them.,22,0.95,760.02,764.02,5.5,-32.17,13.05,2.34,42.9,0.26,0.4,-0.65,-1.0,-1.4,-0.8,
+25,39,156,1,"I’d never have felt quite satisfied, you see.",8,0.88,764.7,766.56,4.3,-33.45,17.35,2.39,11.7,-1.02,4.7,-0.6,-15.7,0.0,0.0,
+25,39,157,1,It was lovely of Mrs. Lynde to give me the ribbon too.,12,1.0,767.04,769.44,5.0,-34.58,13.95,5.64,29.9,-2.15,1.3,2.65,-1.45,-4.8,-4.4,
+25,39,158,1,I feel that I ought to be a very good girl indeed.,12,1.0,769.68,771.94,5.31,-31.85,14.8,4.81,37.9,0.58,2.15,1.82,-2.45,-3.6,-3.5,
+25,39,159,1,It’s at times like this I’m sorry I’m not a model little girl; and I always resolve that I will be in future.,23,0.87,773.0,777.8,4.79,-31.75,13.65,2.45,24.4,0.68,1.0,-0.54,2.85,-0.2,0.1,"this|0.26|+0.3 girl,|0.34|+4.5"
+25,39,160,1,But somehow it’s hard to carry out your resolutions when irresistible temptations come.,13,0.92,778.32,782.36,3.22,-33.67,15.55,3.58,-16.4,-1.24,2.9,0.59,-2.75,-3.0,-2.7,somehow|0.26|-4.5
+25,39,161,1,"Still, I really will make an extra effort after this.”",10,1.0,782.8,786.48,2.72,-36.05,1.65,6.63,-29.4,-3.62,-11.0,3.64,0.0,0.0,0.0,"Still,|0.50|+12.6"
+25,40,162,0,"When the commonplace breakfast was over Diana appeared, crossing the white log bridge in the hollow, a gay little figure in her crimson ulster.",24,1.0,786.82,793.48,3.6,-32.92,13.15,2.39,-6.5,-0.49,0.5,-0.6,-0.85,-2.3,1.4,"appeared,|0.20|+nan hollow,|0.36|+3.2"
+25,40,163,0,Anne flew down the slope to meet her.,8,1.0,794.12,795.66,5.19,-32.39,12.25,0.95,34.8,0.04,-0.4,-2.04,0.0,-0.3,1.9,
+25,41,164,1,"“Merry Christmas, Diana!",3,1.0,796.18,797.26,2.78,-27.99,19.05,2.65,-27.8,4.44,6.4,-0.34,-3.0,-6.4,-6.4,
+25,41,165,1,"And oh, it’s a wonderful Christmas.",6,0.83,797.52,799.1,3.8,-30.75,16.55,2.27,-1.3,1.68,3.9,-0.72,-3.55,-5.7,-3.5,
+25,41,166,1,I’ve something splendid to show you.,6,0.83,799.62,801.04,4.23,-28.47,15.35,3.8,9.9,3.96,2.7,0.81,-4.65,-5.1,-4.9,
+25,41,167,1,"Matthew has given me the loveliest dress, with such sleeves.",10,1.0,801.28,804.84,2.81,-31.5,15.5,1.64,-27.0,0.93,2.85,-1.35,1.55,-5.4,-2.5,"dress,|0.32|+nan"
+25,41,168,1,I couldn’t even imagine any nicer.”,6,0.83,804.96,807.4,2.46,-31.56,13.65,5.87,-36.1,0.87,1.0,2.88,-12.0,0.0,0.0,I|0.28|-1.3
+25,42,169,1,"“I’ve got something more for you,” said Diana breathlessly.",9,0.89,807.82,810.16,3.85,-33.27,12.4,5.58,0.0,-0.84,-0.25,2.59,-0.05,-1.8,0.1,
+25,42,170,1,“Here—this box.,2,0.5,,,,,,,,,,,,,,
+25,42,171,1,Aunt Josephine sent us out a big box with ever so many things in it—and this is for you.,19,0.95,811.82,815.94,4.61,-31.47,14.55,2.92,19.7,0.96,1.9,-0.07,-0.5,-2.0,-1.9,in|0.54|+7.9
+25,42,172,1,"I’d have brought it over last night, but it didn’t come until after dark, and I never feel very comfortable coming through the Haunted Wood in the dark now.”",29,0.93,816.56,823.22,4.35,-32.79,12.55,4.39,13.0,-0.36,-0.1,1.4,-10.9,0.0,0.0,"it|0.24|-1.8 dark,|0.38|+2.8"
+25,43,173,0,Anne opened the box and peeped in.,7,1.0,823.22,824.98,3.98,-34.67,12.9,4.65,3.4,-2.24,0.25,1.66,-0.95,-3.6,-3.2,
+25,43,174,0,"First a card with “For the Anne-girl and Merry Christmas,” written on it; and then, a pair of the daintiest little kid slippers, with beaded toes and satin bows and glistening buckles.",33,1.0,825.44,834.78,3.53,-34.29,13.55,2.59,-8.3,-1.86,0.9,-0.4,0.0,-2.0,-0.5,"with,|0.28|+3.3"
+25,44,175,1,"“Oh,” said Anne, “Diana, this is too much.",8,1.0,835.98,838.78,2.86,-33.48,12.35,5.87,-25.7,-1.05,-0.3,2.88,7.45,-0.2,8.3,"Anne,|0.46|-9.2"
+25,44,176,1,I must be dreaming.”,4,1.0,839.02,840.54,2.63,-39.56,14.35,7.11,-31.7,-7.13,1.7,4.12,-12.7,-22.9,-22.6,
+25,45,177,1,"“I call it providential,” said Diana.",6,1.0,840.54,842.68,2.8,-32.79,12.05,5.17,-27.3,-0.36,-0.6,2.18,-1.5,-3.3,-2.9,
+25,45,178,1,"“You won’t have to borrow Ruby’s slippers now, and that’s a blessing, for they’re two sizes too big for you, and it would be awful to hear a fairy shuffling.",30,0.87,842.94,850.54,3.95,-34.27,13.85,5.18,2.6,-1.84,1.2,2.19,-12.2,0.0,0.0,"borrow|0.40|-4.9 and|0.26|+3.7 blessing,|0.24|+0.6 you,|0.28|+nan"
+25,45,179,1,Josie Pye would be delighted.,5,0.8,850.54,851.98,3.47,-32.3,11.55,4.35,-9.9,0.13,-1.1,1.36,-0.35,-1.1,0.5,
+25,45,180,1,"Mind you, Rob Wright went home with Gertie Pye from the practice night before last.",15,0.87,852.5,856.42,3.83,-33.18,13.8,2.45,-0.5,-0.75,1.15,-0.54,0.65,-2.7,2.3,"you,|0.44|-3.0 Rob|0.28|+1.5"
+25,45,181,1,Did you ever hear anything equal to that?”,8,1.0,856.86,859.16,3.48,-33.21,13.95,6.62,-9.6,-0.78,1.3,3.63,-12.3,-0.5,0.0,
+25,46,182,0,"All the Avonlea scholars were in a fever of excitement that day, for the hall had to be decorated and a last grand rehearsal held.",25,0.96,859.16,865.5,3.94,-31.08,13.05,3.36,2.3,1.35,0.4,0.37,-3.1,-3.5,-3.3,decorated|0.20|+2.5
+25,47,183,0,The concert came off in the evening and was a pronounced success.,12,1.0,865.96,868.66,4.44,-31.62,12.8,2.04,15.3,0.81,0.15,-0.95,0.5,-1.0,1.9,
+25,47,184,0,"The little hall was crowded; all the performers did excellently well, but Anne was the bright particular star of the occasion, as even envy, in the shape of Josie Pye, dared not deny.",33,0.97,869.14,879.08,3.32,-32.14,12.95,4.09,-13.8,0.29,0.3,1.1,-11.3,-0.4,0.0,"crowded,|0.22|+3.3 well,|0.20|-3.7 occasion,|0.36|+1.1 Josie|0.22|+nan"
+25,48,185,1,"“Oh, hasn’t it been a brilliant evening?” sighed Anne, when it was all over and she and Diana were walking home together under a dark, starry sky.",27,0.96,879.08,886.66,3.56,-31.74,12.35,2.56,-7.5,0.69,-0.3,-0.43,-1.5,-2.4,-0.6,"""'Oh,|0.30|-1.6 over,|0.26|+1.3 dark,|0.32|-0.7"
+25,49,186,1,"“Everything went off very well,” said Diana practically.",8,1.0,887.18,890.06,2.78,-31.37,13.45,5.72,-27.8,1.06,0.8,2.73,-2.0,-3.0,9.7,
+25,49,187,1,“I guess we must have made as much as ten dollars.,11,1.0,890.46,892.94,4.44,-30.3,15.25,2.22,15.3,2.13,2.6,-0.77,-4.0,-9.3,-6.5,
+25,49,188,1,"Mind you, Mr. Allan is going to send an account of it to the Charlottetown papers.”",16,0.94,893.42,897.38,4.04,-32.85,12.75,4.83,4.9,-0.42,0.1,1.84,-11.1,-0.1,0.0,Mr.|0.30|-1.1
+25,50,189,1,"“Oh, Diana, will we really see our names in print?",10,1.0,897.38,900.3,3.42,-33.23,15.9,4.42,-11.2,-0.8,3.25,1.43,-2.05,-4.5,-2.9,"Diana,|0.46|+nan"
+25,50,190,1,It makes me thrill to think of it.,8,0.88,900.74,902.52,4.49,-36.73,13.5,5.59,16.6,-4.3,0.85,2.6,-11.85,-12.8,-12.5,me|0.30|-0.8
+25,50,191,1,"Your solo was perfectly elegant, Diana.",6,1.0,902.76,904.84,2.88,-33.08,12.45,3.45,-25.2,-0.65,-0.2,0.46,-1.3,-5.7,-5.5,"elegant,|0.22|+nan"
+25,50,192,1,I felt prouder than you did when it was encored.,10,1.0,905.14,907.24,4.76,-31.47,13.15,2.23,23.6,0.96,0.5,-0.76,-4.3,-4.7,-2.0,
+25,50,193,1,"I just said to myself, ‘It is my dear bosom friend who is so honored.’”",15,0.93,907.72,911.04,4.52,-31.81,14.55,3.83,17.4,0.62,1.9,0.84,-1.3,-2.0,0.0,"myself,|0.32|+1.8"
+25,51,194,1,"“Well, your recitations just brought down the house, Anne.",9,1.0,911.92,914.36,3.69,-31.94,14.65,3.06,-4.2,0.49,2.0,0.07,0.9,-0.3,2.2,
+25,51,195,1,That sad one was simply splendid.”,6,1.0,914.72,916.44,3.49,-35.21,13.15,4.3,-9.4,-2.78,0.5,1.31,0.0,-1.2,-0.9,
+25,52,196,1,"“Oh, I was so nervous, Diana.",6,1.0,916.8,918.32,3.95,-29.29,12.95,4.25,2.6,3.14,0.3,1.26,-1.45,-2.0,-1.7,
+25,52,197,1,When Mr. Allan called out my name I really cannot tell how I ever got up on that platform.,19,0.95,918.68,922.98,4.42,-29.33,12.3,1.75,14.8,3.1,-0.35,-1.24,-1.5,-6.4,-3.8,Mr.|0.30|-3.0
+25,52,198,1,"I felt as if a million eyes were looking at me and through me, and for one dreadful moment I was sure I couldn’t begin at all.",27,0.96,922.98,929.36,4.23,-32.1,14.2,3.2,9.9,0.33,1.55,0.21,-1.4,-4.9,-4.4,me.|0.42|+1.4 I|0.26|-3.0
+25,52,199,1,Then I thought of my lovely puffed sleeves and took courage.,11,1.0,929.88,932.54,4.14,-33.44,15.15,3.11,7.5,-1.01,2.5,0.12,-5.4,-3.5,-2.5,
+25,52,200,1,"I knew that I must live up to those sleeves, Diana.",11,1.0,932.86,935.08,4.95,-33.06,11.85,1.95,28.6,-0.63,-0.8,-1.04,-2.2,-2.5,-1.9,"sleeves,|0.28|-1.7"
+25,52,201,1,"So I started in, and my voice seemed to be coming from ever so far away.",16,1.0,935.32,938.8,4.6,-31.29,12.75,3.5,19.5,1.14,0.1,0.51,-1.95,-1.3,0.1,"in,|0.24|-2.3"
+25,52,202,1,I just felt like a parrot.,6,1.0,939.24,940.6,4.41,-31.26,14.95,6.5,14.5,1.17,2.3,3.51,0.3,-2.0,-0.6,
+25,52,203,1,"It’s providential that I practiced those recitations so often up in the garret, or I’d never have been able to get through.",22,0.86,941.3,946.12,4.56,-31.18,12.75,2.52,18.4,1.25,0.1,-0.47,-2.25,-0.6,0.6,"I|0.36|+1.3 garret,|0.24|+nan or|0.24|+0.5"
+25,52,204,1,Did I groan all right?”,5,1.0,946.56,947.54,5.1,-27.64,16.35,5.43,32.5,4.79,3.7,2.44,4.1,-0.9,6.3,
+25,53,205,1,"“Yes, indeed, you groaned lovely,” assured Diana.",7,1.0,947.92,950.46,2.76,-34.45,10.85,4.09,-28.3,-2.02,-1.8,1.1,-0.95,-1.3,-1.2,
+25,54,206,1,“I saw old Mrs. Sloane wiping away tears when I sat down.,12,1.0,951.02,953.96,4.08,-32.55,13.95,2.16,6.0,-0.12,1.3,-0.83,-3.4,-0.5,-0.1,Mrs.|0.26|-4.3
+25,54,207,1,It was splendid to think I had touched somebody’s heart.,10,0.9,954.36,956.62,4.42,-32.41,13.05,2.26,14.8,0.02,0.4,-0.73,-0.45,-4.2,-1.3,touched|0.50|-10.2
+25,54,208,1,"It’s so romantic to take part in a concert, isn’t it?",11,0.82,957.3,959.62,4.74,-32.66,13.2,4.15,23.1,-0.23,0.55,1.16,-11.55,-13.9,-10.9,"concert,|0.26|-2.5"
+25,54,209,1,"Oh, it’s been a very memorable occasion indeed.”",8,0.88,959.84,962.6,2.9,-30.96,15.15,1.8,-24.7,1.47,2.5,-1.19,-3.9,-2.4,-2.25,"Oh,|0.32|-0.8"
+25,55,210,1,“Wasn’t the boys’ dialogue fine?” said Diana.,7,0.86,963.62,965.54,3.65,-28.72,14.75,2.57,-5.2,3.71,2.1,-0.42,-4.45,-8.5,-8.4,
+25,55,211,1,“Gilbert Blythe was just splendid.,5,1.0,966.1,967.62,3.29,-33.65,14.2,2.39,-14.5,-1.22,1.55,-0.6,-1.1,-1.0,-0.3,
+25,55,212,1,"Anne, I do think it’s awful mean the way you treat Gil.",12,0.92,968.08,970.62,4.72,-34.13,12.95,4.29,22.6,-1.7,0.3,1.3,-3.5,-4.7,-0.6,think|0.22|-3.2
+25,55,213,1,Wait till I tell you.,5,1.0,971.1,972.06,5.21,-31.42,14.6,2.03,35.3,1.01,1.95,-0.96,-0.05,-3.0,-2.95,
+25,55,214,1,When you ran off the platform after the fairy dialogue one of your roses fell out of your hair.,19,1.0,972.38,976.22,4.95,-29.77,13.65,1.57,28.6,2.66,1.0,-1.42,-2.7,-2.3,-1.6,
+25,55,215,1,I saw Gil pick it up and put it in his breast pocket.,13,1.0,976.52,979.16,4.92,-34.73,11.85,3.78,27.8,-2.3,-0.8,0.79,0.95,-0.4,0.6,
+25,55,216,1,There now.,2,1.0,979.68,980.26,3.45,-32.28,7.45,4.14,-10.4,0.15,-5.2,1.15,0.0,-6.2,5.6,
+25,55,217,1,You’re so romantic that I’m sure you ought to be pleased at that.”,13,0.85,980.82,983.72,4.48,-32.39,11.05,4.9,16.4,0.04,-1.6,1.91,-9.4,0.0,0.0,that|0.22|-1.1
+25,56,218,1,"“It’s nothing to me what that person does,” said Anne loftily.",11,0.91,984.22,987.14,3.77,-33.89,10.55,6.55,-2.1,-1.46,-2.1,3.56,-0.65,-0.9,-0.1,
+25,56,219,1,"“I simply never waste a thought on him, Diana.”",9,1.0,987.36,990.48,2.88,-34.31,11.15,6.34,-25.2,-1.88,-1.5,3.35,-9.5,-0.3,0.0,
+25,57,220,0,"That night Marilla and Matthew, who had been out to a concert for the first time in twenty years, sat for a while by the kitchen fire after Anne had gone to bed.",33,1.0,990.48,998.26,4.24,-32.93,13.15,1.72,10.1,-0.5,0.5,-1.27,-0.7,-2.5,-2.1,"years,|0.46|+2.0"
+25,58,221,1,"“Well now, I guess our Anne did as well as any of them,” said Matthew proudly.",16,1.0,998.84,1002.96,3.88,-34.1,12.55,4.56,0.8,-1.67,-0.1,1.57,-1.45,-4.9,-2.4,
+25,59,222,1,"“Yes, she did,” admitted Marilla.",5,1.0,1003.5,1005.34,2.72,-37.62,1.65,4.61,-29.4,-5.19,-11.0,1.62,7.8,-3.8,-3.3,
+25,59,223,1,"“She’s a bright child, Matthew.",5,0.8,1005.96,1006.96,5.0,-32.36,16.1,3.38,29.9,0.07,3.45,0.39,-5.9,-8.3,-8.2,
+25,59,224,1,And she looked real nice too.,6,1.0,1007.16,1008.68,3.95,-32.22,14.35,5.94,2.6,0.21,1.7,2.95,1.05,-0.3,1.7,
+25,59,225,1,"I’ve been kind of opposed to this concert scheme, but I suppose there’s no real harm in it after all.",20,0.75,,,,,,,,,,,,,,
+25,59,226,1,"Anyhow, I was proud of Anne tonight, although I’m not going to tell her so.”",15,0.93,1014.52,1018.1,4.19,-30.49,12.55,1.96,8.8,1.94,-0.1,-1.03,-3.2,-4.6,-4.45,"Anyhow,|0.20|+1.4 tonight,|0.26|+3.8 although|0.24|+1.4"
+25,60,227,1,"“Well now, I was proud of her and I did tell her so ‘fore she went upstairs,” said Matthew.",19,0.95,1018.56,1023.18,4.11,-34.32,11.65,4.52,6.8,-1.89,-1.0,1.53,1.0,-0.6,0.9,"now,|0.42|-7.6"
+25,60,228,1,"“We must see what we can do for her some of these days, Marilla.",14,1.0,1023.66,1026.1,5.74,-33.48,12.85,3.09,49.1,-1.05,0.2,0.1,-1.2,-1.1,0.2,
+25,60,229,1,I guess she’ll need something more than Avonlea school by and by.”,12,0.83,1026.4,1029.38,4.03,-33.0,12.75,4.63,4.7,-0.57,0.1,1.64,-11.1,-9.7,-8.2,guess|0.22|-0.2 than|0.46|+0.9
+25,61,230,1,"“There’s time enough to think of that,” said Marilla.",9,0.89,1029.92,1031.76,4.89,-32.12,12.5,3.09,27.0,0.31,-0.15,0.1,-2.45,-3.1,-2.6,
+25,61,231,1,“She’s only thirteen in March.,5,0.8,1032.42,1033.52,4.55,-29.96,13.55,2.61,18.2,2.47,0.9,-0.38,0.0,-6.4,-3.8,
+25,61,232,1,Though tonight it struck me she was growing quite a big girl.,12,1.0,1033.9,1036.6,4.44,-29.77,14.65,3.58,15.3,2.66,2.0,0.59,-4.0,-5.6,-4.4,
+25,61,233,1,"Mrs. Lynde made that dress a mite too long, and it makes Anne look so tall.",16,0.94,1037.16,1040.96,4.21,-31.69,13.05,1.39,9.4,0.74,0.4,-1.6,-2.4,-4.8,-3.9,Mrs.|0.28|-1.5
+25,61,234,1,She’s quick to learn and I guess the best thing we can do for her will be to send her to Queen’s after a spell.,25,0.96,1042.02,1046.08,6.16,-31.22,13.35,2.5,60.0,1.21,0.7,-0.49,-3.35,-0.5,0.4,
+25,61,235,1,But nothing need be said about that for a year or two yet.”,13,1.0,1046.54,1049.12,5.04,-32.17,12.45,3.85,30.9,0.26,-0.2,0.86,-10.3,-12.3,-11.95,
+25,62,236,1,"“Well now, it’ll do no harm to be thinking it over off and on,” said Matthew.",16,0.94,1049.66,1053.64,4.02,-32.26,11.95,3.58,4.4,0.17,-0.7,0.59,-2.3,-5.2,-2.0,"now,|0.46|-1.6"
+25,62,237,1,“Things like that are all the better for lots of thinking over.”,12,1.0,1054.1,1056.8,4.44,-31.92,11.75,2.54,15.3,0.51,-0.9,-0.45,-2.2,-0.5,-0.2,

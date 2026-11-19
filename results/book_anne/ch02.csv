@@ -1,0 +1,344 @@
+chapter,para,sent,dialogue,text,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
+2,0,0,0,MATTHEW Cuthbert and the sorrel mare jogged comfortably over the eight miles to Bright River.,15,0.87,23.38,30.52,2.1,-36.65,11.3,5.82,-41.2,-1.01,-0.95,3.18,-0.95,-3.0,-1.9,the|0.48|+0.6
+2,0,1,0,"It was a pretty road, running along between snug farmsteads, with now and again a bit of balsamy fir wood to drive through or a hollow where wild plums hung out their filmy bloom.",34,0.91,31.04,40.82,3.48,-35.83,11.95,2.27,-2.5,-0.19,-0.3,-0.38,-0.05,-2.3,-1.8,"road,|0.24|+3.3 of|0.92|-2.2 through,|0.24|+2.9"
+2,0,2,0,The air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple; while,27,0.96,41.34,49.3,3.39,-36.73,12.15,1.12,-5.0,-1.09,-0.1,-1.52,0.15,-2.3,0.8,"orchards,|0.22|+2.4 the|0.26|+1.2"
+2,1,3,1,“The little birds sang as if it were The one day of summer in all the year.”,17,0.94,49.3,52.82,4.83,-35.41,12.35,1.38,35.3,0.23,0.1,-1.27,-2.05,-2.1,-1.8,
+2,2,4,0,"Matthew enjoyed the drive after his own fashion, except during the moments when he met women and had to nod to them—for in Prince Edward Island you are supposed to nod to all and sundry you meet on the road whether you know them or not.",46,0.98,53.68,64.6,4.21,-36.08,11.25,2.42,17.9,-0.44,-1.0,-0.23,-2.6,-2.8,0.0,"fashion,|0.34|+nan to|0.80|-0.3 road,|0.32|-0.7"
+2,3,5,0,Matthew dreaded all women except Marilla and Mrs. Rachel; he had an uncomfortable feeling that the mysterious creatures were secretly laughing at him.,23,1.0,65.4,73.52,2.83,-36.76,14.5,3.27,-20.7,-1.12,2.25,0.62,-12.85,-16.2,-16.2,Rachel.|0.46|+nan
+2,3,6,0,"He may have been quite right in thinking so, for he was an odd-looking personage, with an ungainly figure and long iron-gray hair that touched his stooping shoulders, and a full, soft brown beard which he had worn ever since he was twenty.",45,0.98,73.9,86.54,3.56,-36.35,13.05,2.49,-0.3,-0.71,0.8,-0.15,-3.45,-3.5,-2.1,"iron|0.32|-1.9 shoulders,|0.40|+0.7"
+2,3,7,0,"In fact, he had looked at twenty very much as he looked at sixty, lacking a little of the grayness.",20,0.95,87.34,92.32,4.02,-39.13,12.55,6.34,12.6,-3.49,0.3,3.7,-2.2,-2.7,-2.4,"fact,|0.48|+1.8 twenty,|0.24|+nan sixty,|0.42|+nan"
+2,4,8,0,"When he reached Bright River there was no sign of any train; he thought he was too early, so he tied his horse in the yard of the small Bright River hotel and went over to the station house.",39,1.0,94.1,103.6,4.11,-35.71,11.95,4.69,15.1,-0.07,-0.3,2.05,0.3,-3.8,-2.1,train.|0.44|+2.4
+2,4,9,0,The long platform was almost deserted; the only living creature in sight being a girl who was sitting on a pile of shingles at the extreme end.,27,1.0,104.08,111.22,3.78,-36.34,11.55,2.76,5.9,-0.7,-0.7,0.11,-0.35,-1.2,-0.5,"deserted,|0.22|+nan"
+2,4,10,0,"Matthew, barely noting that it was a girl, sidled past her as quickly as possible without looking at her.",19,0.95,111.8,116.9,3.73,-36.71,12.05,2.7,4.5,-1.07,-0.2,0.06,0.0,-0.1,2.4,"barely|0.42|+nan girl,|0.34|+nan"
+2,4,11,0,Had he looked he could hardly have failed to notice the tense rigidity and expectation of her attitude and expression.,20,1.0,117.3,123.12,3.44,-37.6,12.95,5.0,-3.6,-1.96,0.7,2.36,-2.05,-2.3,-1.8,"looked,|0.38|-7.5"
+2,4,12,0,"She was sitting there waiting for something or somebody and, since sitting and waiting was the only thing to do just then, she sat and waited with all her might and main.",32,1.0,123.7,132.8,3.52,-37.9,12.75,2.07,-1.4,-2.26,0.5,-0.58,-3.2,-2.3,-1.5,"somebody,|0.34|+1.0 then,|0.26|+nan"
+2,5,13,0,"Matthew encountered the stationmaster locking up the ticket office preparatory to going home for supper, and asked him if the five-thirty train would soon be along.",27,0.63,,,,,,,,,,,,,,
+2,6,14,1,"“The five-thirty train has been in and gone half an hour ago,” answered that brisk official.",17,0.88,142.16,146.66,3.78,-34.54,12.75,4.52,5.9,1.1,0.5,1.87,-11.1,0.0,0.0,"""'The|0.30|+0.0"
+2,6,15,1,“But there was a passenger dropped off for you—a little girl.,11,1.0,146.96,149.82,3.85,-34.74,16.15,5.9,7.8,0.9,3.9,3.26,1.8,-1.0,16.2,
+2,6,16,1,She’s sitting out there on the shingles.,7,0.86,150.48,151.66,5.93,-30.14,11.9,2.75,66.1,5.5,-0.35,0.1,-0.4,-4.6,-1.8,
+2,6,17,1,"I asked her to go into the ladies’ waiting room, but she informed me gravely that she preferred to stay outside.",21,0.95,151.9,156.82,4.27,-34.55,11.65,1.99,19.6,1.09,-0.6,-0.66,0.65,-2.6,-0.3,the|0.32|+1.7
+2,6,18,1,"‘There was more scope for imagination,’ she said.",8,1.0,157.12,159.62,3.2,-31.53,12.45,3.38,-10.4,4.11,0.2,0.73,-0.8,-2.5,-1.5,
+2,6,19,1,"She’s a case, I should say.”",6,0.83,160.4,161.94,3.9,-39.55,1.65,0.0,9.2,-3.91,-10.6,-2.64,0.0,0.0,0.0,
+2,7,20,1,"“I’m not expecting a girl,” said Matthew blankly.",8,0.88,162.64,164.92,3.51,-36.22,8.75,5.87,-1.7,-0.58,-3.5,3.22,-7.1,-7.7,-6.9,
+2,7,21,1,“It’s a boy I’ve come for.,6,0.67,,,,,,,,,,,,,,
+2,7,22,1,He should be here.,4,1.0,166.68,167.76,3.7,-39.07,1.65,8.49,3.6,-3.43,-10.6,5.85,17.2,-0.9,19.0,
+2,7,23,1,Mrs. Alexander Spencer was to bring him over from Nova Scotia for me.”,13,1.0,168.24,172.06,3.4,-34.95,12.95,5.2,-4.8,0.69,0.7,2.56,-11.3,0.0,0.0,Mrs.|0.22|+nan
+2,8,24,0,The stationmaster whistled.,3,0.67,,,,,,,,,,,,,,
+2,9,25,1,"“Guess there’s some mistake,” he said.",6,0.83,173.94,175.88,3.09,-37.51,12.1,0.53,-13.4,-1.87,-0.15,-2.12,0.15,-0.4,0.9,"""'Guess|0.32|+nan"
+2,9,26,1,“Mrs. Spencer came off the train with that girl and gave her into my charge.,15,1.0,176.22,179.54,4.52,-31.94,12.05,1.76,26.6,3.7,-0.2,-0.88,3.3,-0.4,3.2,Mrs.|0.36|+nan
+2,9,27,1,Said you and your sister were adopting her from an orphan asylum and that you would be along for her presently.,21,1.0,179.92,184.62,4.47,-33.67,13.25,2.14,25.2,1.97,1.0,-0.5,2.1,-3.5,0.4,
+2,9,28,1,That’s all I know about it—and I haven’t got any more orphans concealed hereabouts.”,14,0.79,,,,,,,,,,,,,,
+2,10,29,1,"“I don’t understand,” said Matthew helplessly, wishing that Marilla was at hand to cope with the situation.",17,0.94,189.66,195.52,2.9,-37.04,9.8,5.52,-18.8,-1.4,-2.45,2.87,-0.85,-2.2,-0.8,"""'I|0.28|+12.3 helplessly,|0.24|+nan"
+2,11,30,1,"“Well, you’d better question the girl,” said the stationmaster carelessly.",10,0.8,196.26,199.58,3.01,-34.74,14.55,6.6,-15.7,0.9,2.3,3.95,-12.9,-12.8,-11.7,"""'Well,|0.24|-0.2 the|0.54|+nan"
+2,11,31,1,"“I dare say she’ll be able to explain—she’s got a tongue of her own, that’s certain.",16,0.81,199.96,203.74,4.23,-32.67,12.5,2.2,18.5,2.97,0.25,-0.44,-2.05,-3.1,-2.7,"to|0.86|+2.6 own,|0.32|+nan"
+2,11,32,1,Maybe they were out of boys of the brand you wanted.”,11,0.91,204.32,206.9,4.26,-35.1,10.35,4.98,19.3,0.54,-1.9,2.34,-8.7,-8.4,-8.0,
+2,12,33,0,"He walked jauntily away, being hungry, and the unfortunate Matthew was left to do that which was harder for him than bearding a lion in its den—walk up to a girl—a strange girl—an orphan girl—and demand of her why she wasn’t a boy.",43,0.95,206.9,221.22,3.0,-35.0,11.95,3.41,-16.0,0.64,-0.3,0.77,0.0,-1.5,-0.4,"away,|0.22|+0.8 hungry,|0.34|+4.8 strange|0.56|+1.4 she|0.26|-0.4"
+2,12,34,0,Matthew groaned in spirit as he turned about and shuffled gently down the platform towards her.,16,1.0,222.04,226.86,3.32,-35.55,11.25,1.2,-7.0,0.09,-1.0,-1.44,-0.8,-1.1,-0.5,
+2,13,35,0,She had been watching him ever since he had passed her and she had her eyes on him now.,19,1.0,227.62,231.76,4.59,-34.68,13.15,2.46,28.6,0.96,0.9,-0.19,-2.7,-2.3,-0.6,"her,|0.28|+0.6"
+2,13,36,0,"Matthew was not looking at her and would not have seen what she was really like if he had been, but an ordinary observer would have seen this: A child of about eleven, garbed in a very short, very tight, very ugly dress of yellowish-gray wincey.",47,0.96,232.36,245.54,3.57,-35.73,11.95,3.98,0.0,-0.09,-0.3,1.34,-1.95,-2.2,-0.1,"her,|0.34|+4.6 been,|0.32|+nan this.|0.46|-8.9 eleven,|0.70|+0.3 short,|0.28|+0.9 tight,|0.24|+nan"
+2,13,37,0,"She wore a faded brown sailor hat and beneath the hat, extending down her back, were two braids of very thick, decidedly red hair.",24,1.0,246.8,254.52,3.11,-36.38,13.25,2.09,-12.9,-0.74,1.0,-0.56,-1.1,-2.7,-2.2,"hat,|0.30|+nan thick,|0.28|+1.4"
+2,13,38,0,"Her face was small, white and thin, also much freckled; her mouth was large and so were her eyes, which looked green in some lights and moods and gray in others.",31,0.84,255.24,264.64,3.3,-37.04,12.05,3.38,-7.6,-1.4,-0.2,0.73,-1.45,-1.1,-0.9,"small,|0.36|-0.9 white,|0.22|+0.6 and|0.94|+1.2 freckled.|0.28|+nan large,|0.24|-0.4 in|0.38|-4.1"
+2,14,39,0,"So far, the ordinary observer; an extraordinary observer might have seen that the chin was very pointed and pronounced; that the big eyes were full of spirit and vivacity; that the mouth was sweet-lipped and expressive; that the forehead was broad and full; in short, our discerning extraordinary observer might have concluded that no commonplace soul inhabited the body of this stray woman-child of whom shy Matthew Cuthbert was so ludicrously afraid.",74,1.0,265.6,290.92,2.92,-35.62,12.35,4.19,-18.2,0.02,0.1,1.55,-0.05,-4.0,-0.1,"observer.|0.48|+nan pronounced,|0.24|+1.7 vivacity,|0.38|-1.0 expressive,|0.20|+nan full.|0.30|-8.9 short,|0.36|+nan"
+2,15,40,0,"Matthew, however, was spared the ordeal of speaking first, for as soon as she concluded that he was coming to her she stood up, grasping with one thin brown hand the handle of a shabby, old-fashioned carpet-bag; the other she held out to him.",46,1.0,291.9,305.04,3.5,-34.73,13.0,3.23,-2.0,0.91,0.75,0.58,-0.15,-1.1,-0.2,"however,|0.36|+5.7 her,|0.30|+nan up,|0.22|+nan -bag,|0.28|+nan"
+2,16,41,1,"“I suppose you are Mr. Matthew Cuthbert of Green Gables?” she said in a peculiarly clear, sweet voice.",18,1.0,305.5,310.82,3.38,-36.33,11.65,5.17,-5.3,-0.69,-0.6,2.52,-2.5,-4.8,-0.8,
+2,16,42,1,“I’m very glad to see you.,6,0.83,311.48,312.32,7.14,-32.69,12.95,2.16,100.0,2.95,0.7,-0.48,-2.55,-5.4,-4.5,
+2,16,43,1,I was beginning to be afraid you weren’t coming for me and I was imagining all the things that might have happened to prevent you.,25,0.96,312.42,317.66,4.77,-33.38,17.05,3.34,33.6,2.26,4.8,0.69,-2.65,-6.6,-1.7,"me,|0.22|+2.0"
+2,16,44,1,"I had made up my mind that if you didn’t come for me tonight I’d go down the track to that big wild cherry-tree at the bend, and climb up into it to stay all night.",37,0.92,318.02,325.6,4.88,-33.76,14.15,3.1,36.7,1.88,1.9,0.46,-0.85,-4.2,-4.2,"you|0.26|-5.2 tonight,|0.56|+7.6"
+2,16,45,1,"I wouldn’t be a bit afraid, and it would be lovely to sleep in a wild cherry-tree all white with bloom in the moonshine, don’t you think?",28,0.93,325.98,332.24,4.47,-34.04,13.75,1.97,25.2,1.6,1.5,-0.68,3.8,-0.6,2.3,"I|0.22|-3.9 afraid,|0.32|+nan moonshine,|0.22|+2.2"
+2,16,46,1,"You could imagine you were dwelling in marble halls, couldn’t you?",11,0.91,332.7,335.36,4.14,-31.86,16.65,3.18,16.0,3.78,4.4,0.54,2.95,-0.2,9.2,"halls,|0.34|+4.0"
+2,16,47,1,"And I was quite sure you would come for me in the morning, if you didn’t tonight.”",17,0.94,335.66,339.7,4.21,-39.76,11.2,5.78,17.9,-4.12,-1.05,3.14,-9.55,0.0,0.0,you|0.24|+0.5
+2,17,48,0,Matthew had taken the scrawny little hand awkwardly in his; then and there he decided what to do.,18,1.0,340.06,345.22,3.49,-36.69,11.75,3.03,-2.2,-1.05,-0.5,0.38,-3.2,-9.2,-8.3,his.|0.48|+nan
+2,17,49,0,He could not tell this child with the glowing eyes that there had been a mistake; he would take her home and let Marilla do that.,26,1.0,345.78,352.06,4.14,-35.93,12.25,3.95,16.0,-0.29,0.0,1.31,-0.15,-4.3,0.3,mistake.|0.52|+nan
+2,17,50,0,"She couldn’t be left at Bright River anyhow, no matter what mistake had been made, so all questions and explanations might as well be deferred until he was safely back at Green Gables.",33,0.97,352.54,360.88,3.96,-36.57,12.05,3.98,10.9,-0.93,-0.2,1.34,-2.8,-4.4,-3.5,"She|0.22|+10.3 anyhow,|0.26|+4.3 made,|0.24|+nan"
+2,18,51,1,"“I’m sorry I was late,” he said shyly.",8,0.88,362.1,363.92,4.4,-38.66,8.65,4.0,23.2,-3.02,-3.6,1.36,-7.0,-0.3,0.0,
+2,18,52,1,“Come along.,2,1.0,364.26,364.84,3.45,-38.05,1.65,0.0,-3.4,-2.41,-10.6,-2.64,0.0,0.0,0.0,
+2,18,53,1,The horse is over in the yard.,7,1.0,365.24,366.46,5.74,-32.5,12.15,1.45,60.8,3.14,-0.1,-1.2,-1.8,-3.3,-3.1,
+2,18,54,1,Give me your bag.”,4,1.0,366.98,368.04,3.77,-44.64,9.25,6.0,5.6,-9.0,-3.0,3.36,-7.6,-11.3,-10.1,
+2,19,55,1,"“Oh, I can carry it,” the child responded cheerfully.",9,1.0,368.04,370.66,3.44,-36.55,10.15,8.74,-3.6,-0.91,-2.1,6.1,-0.2,-0.7,8.3,
+2,19,56,1,“It isn’t heavy.,3,0.67,,,,,,,,,,,,,,
+2,19,57,1,"I’ve got all my worldly goods in it, but it isn’t heavy.",12,0.83,372.24,374.68,4.92,-34.39,16.45,2.28,37.8,1.25,4.2,-0.37,2.0,-0.2,2.1,it|0.22|+nan
+2,19,58,1,And if it isn’t carried in just a certain way the handle pulls out—so I’d better keep it because I know the exact knack of it.,26,0.88,375.08,380.98,4.41,-35.26,13.05,3.54,23.5,0.38,0.8,0.9,-11.4,0.0,0.0,it|0.26|-3.5 pulls|0.94|+1.6
+2,19,59,1,It’s an extremely old carpet-bag.,6,0.83,381.48,382.82,4.48,-37.33,12.35,4.15,25.5,-1.69,0.1,1.51,-0.6,-5.5,-0.8,
+2,19,60,1,"Oh, I’m very glad you’ve come, even if it would have been nice to sleep in a wild cherry-tree.",20,0.9,383.26,387.28,4.98,-34.54,13.15,2.89,39.5,1.1,0.9,0.25,-1.9,-1.9,-1.1,"glad|0.28|+nan come,|0.28|+nan"
+2,19,61,1,"We’ve got to drive a long piece, haven’t we?",9,0.44,,,,,,,,,,,,,,
+2,19,62,1,Mrs. Spencer said it was eight miles.,7,1.0,389.78,391.2,4.93,-32.55,20.55,0.64,38.1,3.09,8.3,-2.0,0.0,-1.9,0.4,Mrs.|0.30|+nan
+2,19,63,1,I’m glad because I love driving.,6,0.83,391.94,393.08,5.26,-33.81,12.65,1.19,47.3,1.83,0.4,-1.46,-2.05,-3.3,-2.8,
+2,19,64,1,"Oh, it seems so wonderful that I’m going to live with you and belong to you.",16,0.94,393.42,396.44,5.3,-33.1,13.15,2.87,48.5,2.54,0.9,0.23,-2.85,-3.5,-1.4,
+2,19,65,1,I’ve never belonged to anybody—not really.,6,0.83,396.96,398.7,3.45,-36.42,13.85,4.13,-3.4,-0.78,1.6,1.48,-0.9,-4.6,-4.3,
+2,19,66,1,But the asylum was the worst.,6,1.0,399.02,400.22,5.0,-35.72,13.95,5.0,40.1,-0.08,1.7,2.36,-2.95,-7.5,-6.7,
+2,19,67,1,"I’ve only been in it four months, but that was enough.",11,0.91,401.02,403.04,5.45,-36.4,13.65,2.26,52.7,-0.76,1.4,-0.39,-1.9,-3.4,-1.4,"months,|0.22|+nan"
+2,19,68,1,"I don’t suppose you ever were an orphan in an asylum, so you can’t possibly understand what it is like.",20,0.9,403.46,408.02,4.39,-36.3,12.65,4.53,23.0,-0.66,0.4,1.89,4.7,-1.3,0.5,you|0.28|+0.6
+2,19,69,1,It’s worse than anything you could imagine.,7,0.71,,,,,,,,,,,,,,
+2,19,70,1,"Mrs. Spencer said it was wicked of me to talk like that, but I didn’t mean to be wicked.",19,0.95,410.8,414.54,5.08,-36.35,14.95,3.97,42.3,-0.71,2.7,1.33,-5.5,-8.8,-3.0,Mrs.|0.32|+nan I|0.26|-3.6
+2,19,71,1,"It’s so easy to be wicked without knowing it, isn’t it?",11,0.73,,,,,,,,,,,,,,
+2,19,72,1,"They were good, you know—the asylum people.",7,0.57,,,,,,,,,,,,,,
+2,19,73,1,But there is so little scope for the imagination in an asylum—only just in the other orphans.,17,1.0,420.2,425.04,3.51,-35.54,15.95,4.99,-1.7,0.1,3.7,2.35,0.3,-1.1,-0.6,
+2,19,74,1,"It was pretty interesting to imagine things about them—to imagine that perhaps the girl who sat next to you was really the daughter of a belted earl, who had been stolen away from her parents in her infancy by a cruel nurse who died before she could confess.",48,0.98,425.9,437.16,4.26,-35.29,12.35,2.54,19.3,0.35,0.1,-0.1,0.0,-1.6,-0.9,about|0.70|+1.3
+2,19,75,1,"I used to lie awake at nights and imagine things like that, because I didn’t have time in the day.",20,0.9,437.72,441.9,4.78,-37.05,11.7,2.85,33.9,-1.41,-0.55,0.21,-1.45,-2.4,-1.85,
+2,19,76,1,"I guess that’s why I’m so thin—I am dreadful thin, ain’t I?",12,0.67,,,,,,,,,,,,,,
+2,19,77,1,There isn’t a pick on my bones.,7,0.71,,,,,,,,,,,,,,
+2,19,78,1,"I do love to imagine I’m nice and plump, with dimples in my elbows.”",14,0.93,447.36,451.66,3.26,-38.76,10.95,5.54,-8.7,-3.12,-1.3,2.9,-9.3,0.0,0.0,imagine|0.26|+0.6
+2,20,79,0,"With this Matthew’s companion stopped talking, partly because she was out of breath and partly because they had reached the buggy.",21,0.95,452.02,458.02,3.5,-37.29,14.1,3.72,-2.0,-1.65,1.85,1.08,-2.85,-6.6,-3.0,"this|0.64|-7.4 talking,|0.22|+nan"
+2,20,80,0,"Not another word did she say until they had left the village and were driving down a steep little hill, the road part of which had been cut so deeply into the soft soil that the banks, fringed with blooming wild cherry-trees and slim white birches, were several feet above their heads.",53,1.0,458.5,472.26,3.85,-36.21,12.35,1.95,7.8,-0.57,0.1,-0.7,-2.4,-4.3,-3.1,"hill,|0.44|+2.2 birches,|0.26|+nan"
+2,21,81,0,The child put out her hand and broke off a branch of wild plum that brushed against the side of the buggy.,22,1.0,473.06,477.8,4.64,-36.47,11.55,1.78,30.0,-0.83,-0.7,-0.86,-0.8,-1.2,0.8,
+2,22,82,1,“Isn’t that beautiful?,3,0.67,,,,,,,,,,,,,,
+2,22,83,1,"What did that tree, leaning out from the bank, all white and lacy, make you think of?” she asked.",19,1.0,480.16,484.62,4.26,-36.82,12.55,4.56,19.3,-1.18,0.3,1.91,-1.4,-0.3,0.0,
+2,23,84,1,"“Well now, I dunno,” said Matthew.",6,0.83,485.18,487.9,2.21,-47.52,1.65,0.01,-38.1,-11.88,-10.6,-2.64,0.0,-0.1,0.0,"now,|0.22|+nan I|0.44|+0.0"
+2,24,85,1,"“Why, a bride, of course—a bride all in white with a lovely misty veil.",14,0.93,488.5,493.38,2.87,-34.45,16.05,2.61,-19.6,1.19,3.8,-0.04,-3.8,-4.3,-4.25,"""'Why,|0.22|+5.6 of|0.98|-6.6"
+2,24,86,1,"I’ve never seen one, but I can imagine what she would look like.",13,0.92,494.18,496.74,5.08,-35.49,12.85,1.85,42.3,0.15,0.6,-0.8,-0.8,0.0,1.9,
+2,24,87,1,I don’t ever expect to be a bride myself.,9,0.89,497.1,499.06,4.59,-34.85,11.25,5.35,28.6,0.79,-1.0,2.7,-0.25,-4.6,-3.2,
+2,24,88,1,I’m so homely nobody will ever want to marry me—unless it might be a foreign missionary.,16,0.88,499.76,503.7,4.06,-36.91,11.15,1.43,13.7,-1.27,-1.1,-1.22,0.0,-3.1,-0.6,marry|0.98|+nan
+2,24,89,1,I suppose a foreign missionary mightn’t be very particular.,9,0.89,503.94,506.42,3.63,-38.07,10.45,3.55,1.7,-2.43,-1.8,0.9,0.1,-0.4,0.8,missionary|0.46|+nan
+2,24,90,1,But I do hope that some day I shall have a white dress.,13,1.0,506.96,509.48,5.16,-35.37,12.15,3.62,44.5,0.27,-0.1,0.98,-0.9,-1.1,-0.4,
+2,24,91,1,That is my highest ideal of earthly bliss.,8,1.0,509.88,512.04,3.7,-35.49,12.85,3.45,3.6,0.15,0.6,0.81,-1.05,-1.8,0.0,
+2,24,92,1,I just love pretty clothes.,5,1.0,512.36,513.76,3.57,-42.92,11.95,0.13,0.0,-7.28,-0.3,-2.52,0.0,-0.3,-0.2,
+2,24,93,1,"And I’ve never had a pretty dress in my life that I can remember—but of course it’s all the more to look forward to, isn’t it?",26,0.85,514.16,520.02,4.44,-37.0,12.95,5.26,24.4,-1.36,0.7,2.62,1.35,-3.3,-3.1,And|0.20|+10.4 can|1.12|+7.8 course|0.68|-2.4
+2,24,94,1,And then I can imagine that I’m dressed gorgeously.,9,0.89,520.26,522.68,3.72,-35.38,15.35,2.52,4.2,0.26,3.1,-0.12,0.0,-2.4,-1.5,
+2,24,95,1,This morning when I left the asylum I felt so ashamed because I had to wear this horrid old wincey dress.,21,0.95,523.12,527.78,4.51,-32.9,13.05,2.88,26.3,2.74,0.8,0.23,0.4,-0.8,0.0,old|0.34|+nan
+2,24,96,1,"All the orphans had to wear them, you know.",9,1.0,528.3,529.9,5.62,-35.93,10.55,2.04,57.4,-0.29,-1.7,-0.6,-0.05,-1.2,0.2,
+2,24,97,1,A merchant in Hopeton last winter donated three hundred yards of wincey to the asylum.,15,0.93,530.16,534.04,3.87,-34.49,12.45,2.33,8.4,1.15,0.2,-0.31,-2.65,-1.3,-0.8,of|0.26|-1.3
+2,24,98,1,"Some people said it was because he couldn’t sell it, but I’d rather believe that it was out of the kindness of his heart, wouldn’t you?",26,0.88,534.5,539.56,5.14,-36.75,14.1,3.48,44.0,-1.11,1.85,0.84,4.55,-0.7,4.7,"he|0.26|+nan it,|0.20|+nan heart,|0.26|+nan"
+2,24,99,1,When we got on the train I felt as if everybody must be looking at me and pitying me.,19,1.0,540.1,544.12,4.73,-35.72,14.05,2.25,32.5,-0.08,1.8,-0.4,-2.0,-4.1,-1.4,
+2,24,100,1,"But I just went to work and imagined that I had on the most beautiful pale blue silk dress—because when you are imagining you might as well imagine something worth while—and a big hat all flowers and nodding plumes, and a gold watch, and kid gloves and boots.",48,0.94,544.56,558.9,3.35,-36.38,14.65,3.35,-6.2,-0.74,2.4,0.7,-2.4,-7.7,-6.75,silk|1.16|-0.8 something|1.26|+nan
+2,24,101,1,I felt cheered up right away and I enjoyed my trip to the Island with all my might.,18,1.0,559.2,563.14,4.57,-33.08,14.25,3.17,28.0,2.56,2.0,0.52,-3.3,-7.6,-7.5,
+2,24,102,1,I wasn’t a bit sick coming over in the boat.,10,0.9,563.9,566.04,4.67,-35.48,12.85,4.88,30.8,0.16,0.6,2.24,-0.2,-0.1,0.8,I|0.22|-3.2
+2,24,103,1,"Neither was Mrs. Spencer, although she generally is.",8,1.0,566.46,568.76,3.48,-34.99,15.5,3.74,-2.5,0.65,3.25,1.1,-5.15,-6.5,-2.8,"Mrs.|0.34|+nan Spencer,|0.30|-0.7"
+2,24,104,1,"She said she hadn’t time to get sick, watching to see that I didn’t fall overboard.",16,0.88,569.2,572.36,5.06,-33.63,12.85,3.29,41.7,2.01,0.6,0.64,-0.35,-1.6,-0.9,she|0.26|-0.8 I|0.22|-0.1
+2,24,105,1,She said she never saw the beat of me for prowling about.,12,1.0,572.88,575.12,5.36,-33.54,15.75,3.68,50.1,2.1,3.5,1.04,-5.0,-2.4,-1.8,
+2,24,106,1,"But if it kept her from being seasick it’s a mercy I did prowl, isn’t it?",16,0.88,575.62,578.92,4.85,-33.61,20.35,4.62,35.9,2.03,8.1,1.98,3.05,-0.1,13.7,
+2,24,107,1,"And I wanted to see everything that was to be seen on that boat, because I didn’t know whether I’d ever have another opportunity.",24,0.92,579.18,584.08,4.9,-33.51,15.55,2.31,37.3,2.13,3.3,-0.34,5.4,-0.7,5.4,I|0.22|-3.5 whether|0.22|+0.2
+2,24,108,1,"Oh, there are a lot more cherry-trees all in bloom!",11,1.0,585.0,588.36,3.27,-33.16,17.45,1.95,-8.4,2.48,5.2,-0.7,0.95,-0.4,2.3,Oh!|0.48|+nan
+2,24,109,1,This Island is the bloomiest place.,6,1.0,588.86,590.9,2.94,-35.46,14.85,2.08,-17.6,0.18,2.6,-0.56,0.05,-1.8,-0.3,
+2,24,110,1,"I just love it already, and I’m so glad I’m going to live here.",14,0.86,591.04,593.74,5.19,-35.29,12.95,2.52,45.4,0.35,0.7,-0.12,0.25,-0.8,1.4,glad|0.20|-1.8
+2,24,111,1,"I’ve always heard that Prince Edward Island was the prettiest place in the world, and I used to imagine I was living here, but I never really expected I would.",30,0.97,594.42,601.22,4.41,-35.37,14.75,2.39,23.5,0.27,2.5,-0.25,-0.75,-1.4,3.5,here.|0.32|+3.0
+2,24,112,1,"It’s delightful when your imaginations come true, isn’t it?",9,0.78,,,,,,,,,,,,,,
+2,24,113,1,But those red roads are so funny.,7,1.0,604.74,606.32,4.43,-32.69,16.95,2.94,24.1,2.95,4.7,0.29,2.3,-2.9,1.55,
+2,24,114,1,When we got into the train at Charlottetown and the red roads began to flash past I asked Mrs. Spencer what made them red and she said she didn’t know and for pity’s sake not to ask her any more questions.,41,0.93,606.74,615.36,4.76,-33.65,13.35,2.89,33.3,1.99,1.1,0.25,-2.9,-2.4,-1.4,Mrs.|0.28|-4.3 she|0.22|-1.8 for|0.28|-0.3
+2,24,115,1,She said I must have asked her a thousand already.,10,1.0,615.74,617.5,5.68,-29.42,14.55,2.48,59.1,6.22,2.3,-0.17,-3.95,-1.8,-1.3,
+2,24,116,1,"I suppose I had, too, but how are you going to find out about things if you don’t ask questions?",20,0.95,617.9,622.08,4.78,-32.92,16.4,3.17,33.9,2.72,4.15,0.52,4.35,-0.9,5.8,
+2,24,117,1,And what does make the roads red?”,7,1.0,622.6,624.2,4.37,-37.94,15.1,6.59,22.4,-2.3,2.85,3.94,-4.5,-4.2,-2.3,
+2,25,118,1,"“Well now, I dunno,” said Matthew.",6,0.83,625.14,627.9,2.17,-41.81,1.65,6.84,-39.2,-6.17,-10.6,4.2,0.0,-17.4,-13.4,now?|0.54|+nan I|0.60|+0.0
+2,26,119,1,"“Well, that is one of the things to find out sometime.",11,1.0,628.72,630.86,5.14,-36.27,15.55,2.04,44.0,-0.63,3.3,-0.6,-3.6,-5.7,-3.9,
+2,26,120,1,Isn’t it splendid to think of all the things there are to find out about?,15,0.93,631.48,634.36,5.21,-35.64,13.35,2.19,45.9,0.0,1.1,-0.46,-1.95,-2.2,-1.3,
+2,26,121,1,It just makes me feel glad to be alive—it’s such an interesting world.,13,0.92,634.62,638.26,3.57,-33.94,15.5,3.61,0.0,1.7,3.25,0.96,-1.65,-7.5,-7.0,be|0.96|+5.0
+2,26,122,1,"It wouldn’t be half so interesting if we knew all about everything, would it?",14,0.93,638.74,641.5,5.07,-32.76,15.4,3.74,42.0,2.88,3.15,1.1,-3.1,-2.0,7.0,
+2,26,123,1,"There’d be no scope for imagination then, would there?",9,0.89,642.02,644.06,4.41,-32.5,16.65,3.72,23.5,3.14,4.4,1.08,5.9,-0.5,9.3,
+2,26,124,1,But am I talking too much?,6,1.0,644.46,645.66,5.0,-33.62,18.05,3.5,40.1,2.02,5.8,0.86,-0.6,-2.5,0.2,
+2,26,125,1,People are always telling me I do.,7,1.0,645.92,647.3,5.07,-31.27,15.7,3.72,42.0,4.37,3.45,1.08,-3.65,-4.3,-4.2,
+2,26,126,1,Would you rather I didn’t talk?,6,0.83,647.72,648.84,5.36,-31.33,19.05,4.91,50.1,4.31,6.8,2.26,0.0,-0.9,0.2,I|0.28|-0.4
+2,26,127,1,If you say so I’ll stop.,6,0.83,649.2,650.42,4.92,-31.12,19.05,3.7,37.8,4.52,6.8,1.06,-6.15,-10.4,-6.5,
+2,26,128,1,"I can stop when I make up my mind to it, although it’s difficult.”",14,0.93,650.82,654.54,3.76,-37.34,11.65,5.96,5.3,-1.7,-0.6,3.32,-10.0,0.0,0.0,although|0.24|+nan
+2,27,129,0,"Matthew, much to his own surprise, was enjoying himself.",9,1.0,654.54,657.88,2.69,-37.37,1.65,7.83,-24.6,-1.73,-10.6,5.18,16.85,-0.1,18.5,"Matthew,|0.50|+nan surprise,|0.32|+nan"
+2,27,130,0,Like most quiet folks he liked talkative people when they were willing to do the talking themselves and did not expect him to keep up his end of it.,29,1.0,658.56,665.14,4.41,-35.17,12.55,3.67,23.5,0.47,0.3,1.02,-2.2,-13.9,-10.7,
+2,27,131,0,But he had never expected to enjoy the society of a little girl.,13,1.0,665.58,668.4,4.61,-35.2,15.75,4.91,29.1,0.44,3.5,2.26,1.65,-0.2,6.9,
+2,27,132,0,"Women were bad enough in all conscience, but little girls were worse.",12,1.0,668.96,672.38,3.51,-33.13,11.95,2.59,-1.7,2.51,-0.3,-0.06,-1.75,-1.1,2.6,"conscience,|0.30|+nan"
+2,27,133,0,"He detested the way they had of sidling past him timidly, with sidewise glances, as if they expected him to gobble them up at a mouthful if they ventured to say a word.",33,1.0,672.72,681.08,3.95,-34.16,11.65,1.52,10.6,1.48,-0.6,-1.12,-0.75,-0.2,1.4,"glances,|0.26|-0.0"
+2,27,134,0,That was the Avonlea type of well-bred little girl.,10,0.9,681.74,684.36,3.82,-36.16,10.95,1.87,7.0,-0.52,-1.3,-0.77,-0.3,-1.4,0.8,the|0.40|-5.9
+2,27,135,0,"But this freckled witch was very different, and although he found it rather difficult for his slower intelligence to keep up with her brisk mental processes he thought that he “kind of liked her chatter.”",35,0.97,684.74,695.22,3.34,-36.18,13.85,3.5,-6.4,-0.54,1.6,0.86,0.35,-7.9,-7.1,"processes,|0.64|+3.9"
+2,27,136,0,So he said as shyly as usual:,7,1.0,696.08,698.0,3.65,-32.16,12.55,4.07,2.2,3.48,0.3,1.43,-1.4,-2.7,-0.8,
+2,28,137,1,"“Oh, you can talk as much as you like.",9,1.0,698.46,700.64,4.13,-38.12,10.75,6.5,15.7,-2.48,-1.5,3.86,1.2,-8.0,-6.6,"""'Oh,|0.26|+0.0"
+2,28,138,1,I don’t mind.”,3,0.67,,,,,,,,,,,,,,
+2,29,139,1,"“Oh, I’m so glad.",4,0.75,,,,,,,,,,,,,,
+2,29,140,1,I know you and I are going to get along together fine.,12,1.0,704.08,706.68,4.62,-30.45,13.05,5.02,29.4,5.19,0.8,2.37,-1.1,-2.9,-1.9,
+2,29,141,1,It’s such a relief to talk when one wants to and not be told that children should be seen and not heard.,22,0.95,707.44,711.56,5.34,-33.97,12.55,2.62,49.6,1.67,0.3,-0.02,-1.45,-3.8,-3.4,
+2,29,142,1,I’ve had that said to me a million times if I have once.,13,0.92,712.48,715.04,5.08,-35.7,11.25,1.16,42.3,-0.06,-1.0,-1.48,-0.1,-1.9,-0.1,
+2,29,143,1,And people laugh at me because I use big words.,10,1.0,715.56,717.62,4.85,-35.37,16.65,2.4,35.9,0.27,4.4,-0.25,-0.25,-2.5,-1.1,
+2,29,144,1,"But if you have big ideas you have to use big words to express them, haven’t you?”",17,0.94,718.12,722.38,3.99,-34.85,19.35,6.84,11.8,0.79,7.1,4.2,-17.7,0.0,0.0,"them,|0.32|+nan"
+2,30,145,1,"“Well now, that seems reasonable,” said Matthew.",7,1.0,722.38,726.22,1.82,-42.71,1.65,7.08,-49.0,-7.07,-10.6,4.44,13.1,-0.5,13.0,
+2,31,146,1,“Mrs. Spencer said that my tongue must be hung in the middle.,12,1.0,726.82,729.2,5.04,-32.78,12.65,3.05,41.2,2.86,0.4,0.4,-0.65,-4.2,-4.1,"""'Mrs.|0.36|+10.3"
+2,31,147,1,But it isn’t—it’s firmly fastened at one end.,8,0.88,729.62,732.02,3.33,-34.75,16.35,3.99,-6.7,0.89,4.1,1.35,-4.6,-5.0,-1.0,it|0.76|+4.6
+2,31,148,1,Mrs. Spencer said your place was named Green Gables.,9,1.0,732.42,734.56,4.21,-33.49,14.9,3.23,17.9,2.15,2.65,0.58,2.85,-0.2,7.1,Mrs.|0.36|-5.8
+2,31,149,1,I asked her all about it.,6,1.0,734.88,736.06,5.08,-34.86,12.4,0.99,42.3,0.78,0.15,-1.66,-0.75,-2.3,-1.9,
+2,31,150,1,And she said there were trees all around it.,9,1.0,736.36,738.3,4.64,-32.24,15.45,4.36,30.0,3.4,3.2,1.72,-0.7,-3.5,-3.3,
+2,31,151,1,I was gladder than ever.,5,0.8,738.4,739.38,5.1,-35.2,12.25,0.94,42.9,0.44,0.0,-1.7,0.0,-3.0,-2.9,was|0.30|-0.0
+2,31,152,1,I just love trees.,4,1.0,739.62,740.68,3.77,-37.53,13.45,1.79,5.6,-1.89,1.2,-0.86,-2.45,-4.9,-3.7,
+2,31,153,1,"And there weren’t any at all about the asylum, only a few poor weeny-teeny things out in front with little whitewashed cagey things about them.",26,0.77,,,,,,,,,,,,,,
+2,31,154,1,"They just looked like orphans themselves, those trees did.",9,1.0,748.16,750.86,3.33,-36.11,12.35,5.7,-6.7,-0.47,0.1,3.06,-2.0,-1.8,0.1,
+2,31,155,1,It used to make me want to cry to look at them.,12,1.0,751.14,753.06,6.25,-34.65,15.25,3.3,75.1,0.99,3.0,0.65,1.8,0.0,3.4,
+2,31,156,1,"I used to say to them, ‘Oh, you poor little things!",11,1.0,753.32,756.06,4.01,-31.39,17.55,2.83,12.3,4.25,5.3,0.19,0.9,-5.5,-1.4,
+2,31,157,1,"If you were out in a great big woods with other trees all around you and little mosses and June bells growing over your roots and a brook not far away and birds singing in your branches, you could grow, couldn’t you?",42,0.9,756.32,766.08,4.3,-32.47,14.95,2.21,20.4,3.17,2.7,-0.44,3.85,-0.6,4.15,"and|0.50|+1.0 grow,|0.32|+0.2"
+2,31,158,1,But you can’t where you are.,6,0.83,766.44,767.8,4.41,-33.96,14.25,3.14,23.5,1.68,2.0,0.5,-3.6,-5.9,-4.9,you|0.40|-5.8
+2,31,159,1,"I know just exactly how you feel, little trees.’",9,1.0,767.98,770.24,3.98,-33.04,13.7,4.21,11.5,2.6,1.45,1.56,-0.5,-1.6,1.3,
+2,31,160,1,I felt sorry to leave them behind this morning.,9,1.0,770.58,772.8,4.05,-36.2,12.05,1.14,13.4,-0.56,-0.2,-1.5,-0.5,-1.4,-0.9,
+2,31,161,1,"You do get so attached to things like that, don’t you?",11,0.91,773.24,775.58,4.7,-36.34,13.95,5.63,31.7,-0.7,1.7,2.98,0.2,-2.1,2.6,"that,|0.24|+nan"
+2,31,162,1,Is there a brook anywhere near Green Gables?,8,1.0,775.94,777.74,4.44,-31.99,15.35,3.15,24.4,3.65,3.1,0.5,1.75,-0.2,4.3,
+2,31,163,1,I forgot to ask Mrs. Spencer that.”,7,1.0,777.98,780.2,3.15,-37.29,10.6,6.06,-11.8,-1.65,-1.65,3.41,-8.95,0.0,0.0,Mrs.|0.24|-2.7
+2,32,164,1,"“Well now, yes, there’s one right below the house.”",9,0.89,780.2,783.98,2.38,-35.5,11.9,5.99,-33.3,0.14,-0.35,3.34,1.8,-0.5,3.0,now?|0.38|+4.2 Yes.|0.80|-8.7
+2,33,165,1,“Fancy.,1,1.0,,,,,,,,,,,,,,
+2,33,166,1,It’s always been one of my dreams to live near a brook.,12,0.92,785.94,787.98,5.88,-33.38,13.3,1.97,64.7,2.26,1.05,-0.68,-1.9,-2.1,0.6,
+2,33,167,1,"I never expected I would, though.",6,1.0,788.26,789.76,4.0,-36.46,11.75,2.74,12.0,-0.82,-0.5,0.1,3.95,-0.6,5.7,
+2,33,168,1,"Dreams don’t often come true, do they?",7,0.86,790.32,791.8,4.73,-34.66,13.45,4.88,32.5,0.98,1.2,2.24,0.25,-8.0,-1.1,Dreams|0.24|-10.3
+2,33,169,1,Wouldn’t it be nice if they did?,7,0.86,792.8,793.68,7.95,-32.43,16.15,4.08,122.7,3.21,3.9,1.44,1.1,-0.5,6.0,
+2,33,170,1,But just now I feel pretty nearly perfectly happy.,9,1.0,794.12,796.82,3.33,-34.92,15.35,1.65,-6.7,0.72,3.1,-1.0,0.0,-1.7,1.05,
+2,33,171,1,"I can’t feel exactly perfectly happy because—well, what color would you call this?”",13,0.85,797.08,803.46,2.04,-42.07,1.65,6.55,-42.9,-6.43,-10.6,3.9,0.0,0.0,0.0,"I|0.28|+11.0 because—well,|0.58|-14.8 what|0.26|+8.8"
+2,34,172,0,She twitched one of her long glossy braids over her thin shoulder and held it up before Matthew’s eyes.,19,0.95,803.46,808.84,3.53,-33.79,12.05,3.48,-1.1,1.85,-0.2,0.84,-1.0,-1.9,-0.7,before|0.44|+nan
+2,34,173,0,"Matthew was not used to deciding on the tints of ladies’ tresses, but in this case there couldn’t be much doubt.",21,0.9,809.54,814.84,3.96,-35.44,13.75,3.37,10.9,0.2,1.5,0.73,-2.0,-7.1,-7.1,"of|0.32|+nan tresses,|0.42|+nan there|0.28|+nan"
+2,35,174,1,"“It’s red, ain’t it?” he said.",6,0.67,,,,,,,,,,,,,,
+2,36,175,0,The girl let the braid drop back with a sigh that seemed to come from her very toes and to exhale forth all the sorrows of the ages.,28,1.0,817.98,825.24,3.86,-35.56,12.3,2.41,8.1,0.08,0.05,-0.23,-1.6,-1.4,-0.1,
+2,37,176,1,"“Yes, it’s red,” she said resignedly.",6,0.83,826.26,828.94,2.24,-38.27,11.45,5.02,-37.3,-2.63,-0.8,2.37,-0.3,-1.1,-0.9,"""'Yes,|0.68|+nan"
+2,37,177,1,“Now you see why I can’t be perfectly happy.,9,0.89,829.5,831.86,3.81,-37.01,13.25,3.3,6.7,-1.37,1.0,0.65,-0.6,-0.8,-0.4,I|0.26|+nan
+2,37,178,1,Nobody could who has red hair.,6,1.0,831.86,833.86,3.0,-39.28,11.3,4.28,-16.0,-3.64,-0.95,1.64,-1.3,-2.1,-1.2,
+2,37,179,1,I don’t mind the other things so much—the freckles and the green eyes and my skinniness.,16,0.94,834.34,838.56,3.79,-36.12,12.7,3.02,6.2,-0.48,0.45,0.38,-0.6,-1.2,2.0,I|0.24|+13.7
+2,37,180,1,I can imagine them away.,5,1.0,838.88,840.12,4.03,-35.61,12.55,4.47,12.9,0.03,0.3,1.82,-3.0,-6.6,-4.0,
+2,37,181,1,I can imagine that I have a beautiful rose-leaf complexion and lovely starry violet eyes.,16,0.94,840.46,845.72,3.04,-33.45,13.75,1.37,-14.8,2.19,1.5,-1.27,-2.5,-1.4,-1.3,
+2,37,182,1,But I cannot imagine that red hair away.,8,1.0,846.06,848.5,3.28,-37.63,10.95,4.11,-8.1,-1.99,-1.3,1.47,-1.15,-2.2,-1.55,
+2,37,183,1,I do my best.,4,1.0,848.84,849.82,4.08,-37.64,14.0,5.49,14.3,-2.0,1.75,2.84,-1.0,-5.7,-4.35,
+2,37,184,1,"I think to myself, ‘Now my hair is a glorious black, black as the raven’s wing.’",16,0.75,,,,,,,,,,,,,,
+2,37,185,1,But all the time I know it is just plain red and it breaks my heart.,16,0.94,855.72,859.72,4.0,-36.51,12.55,1.48,12.0,-0.87,0.3,-1.16,-1.6,-4.1,-3.4,
+2,37,186,1,It will be my lifelong sorrow.,6,0.67,,,,,,,,,,,,,,
+2,37,187,1,I read of a girl once in a novel who had a lifelong sorrow but it wasn’t red hair.,19,0.95,862.74,866.62,4.9,-37.49,10.95,3.72,37.3,-1.85,-1.3,1.08,-1.25,-2.1,-1.8,it|0.24|+nan
+2,37,188,1,Her hair was pure gold rippling back from her alabaster brow.,11,1.0,866.94,870.12,3.46,-33.52,12.0,2.32,-3.1,2.12,-0.25,-0.33,-0.25,-1.7,0.2,
+2,37,189,1,What is an alabaster brow?,5,1.0,870.6,871.96,3.68,-32.61,10.65,6.0,3.1,3.03,-1.6,3.36,-0.9,-1.3,-0.3,
+2,37,190,1,I never could find out.,5,1.0,872.2,873.2,5.0,-34.21,17.75,4.54,40.1,1.43,5.5,1.9,-7.65,-9.9,-9.4,
+2,37,191,1,Can you tell me?”,4,1.0,873.32,873.98,6.06,-36.67,22.0,6.94,69.7,-1.03,9.75,4.3,-20.35,-22.2,-19.5,
+2,38,192,1,"“Well now, I’m afraid I can’t,” said Matthew, who was getting a little dizzy.",14,0.86,874.5,878.62,3.4,-36.59,11.55,1.03,-4.8,-0.95,-0.7,-1.62,-1.05,-1.0,2.2,"now,|0.70|+0.4 I|0.52|+nan"
+2,38,193,0,He felt as he had once felt in his rash youth when another boy had enticed him on the merry-go-round at a picnic.,25,0.96,878.96,884.3,4.68,-33.81,12.65,2.55,31.1,1.83,0.4,-0.1,-1.8,-1.2,-0.8,
+2,39,194,1,"“Well, whatever it was it must have been something nice because she was divinely beautiful.",15,1.0,885.0,888.9,3.85,-36.16,11.9,5.58,7.8,-0.52,-0.35,2.94,-10.25,-0.1,0.0,
+2,39,195,1,Have you ever imagined what it must feel like to be divinely beautiful?”,13,1.0,888.9,892.4,3.71,-36.13,11.85,6.44,3.9,-0.49,-0.4,3.8,-10.2,-15.3,-14.9,
+2,40,196,1,"“Well now, no, I haven’t,” confessed Matthew ingenuously.",8,0.62,,,,,,,,,,,,,,
+2,41,197,1,"“I have, often.",3,0.33,,,,,,,,,,,,,,
+2,41,198,1,Which would you rather be if you had the choice—divinely beautiful or dazzlingly clever or angelically good?”,17,1.0,899.32,905.28,2.85,-35.12,16.25,6.27,-20.2,0.52,4.0,3.62,-14.6,0.0,0.0,"beautiful,|0.24|-4.8 clever,|0.28|-2.7"
+2,42,199,1,"“Well now, I—I don’t know exactly.”",6,0.5,,,,,,,,,,,,,,
+2,43,200,1,“Neither do I.,3,1.0,909.68,910.62,3.19,-38.14,1.65,0.0,-10.6,-2.5,-10.6,-2.64,0.0,0.0,0.0,
+2,43,201,1,I can never decide.,4,1.0,910.94,912.0,3.77,-34.74,18.05,1.23,5.6,0.9,5.8,-1.42,0.55,-2.2,1.3,
+2,43,202,1,But it doesn’t make much real difference for it isn’t likely I’ll ever be either.,15,0.8,912.46,915.78,4.52,-33.26,13.65,3.93,26.6,2.38,1.4,1.28,-1.5,-0.6,0.5,it|0.24|-6.1 it|0.20|-5.1
+2,43,203,1,It’s certain I’ll never be angelically good.,7,0.71,,,,,,,,,,,,,,
+2,43,204,1,"Mrs. Spencer says—oh, Mr. Cuthbert!",5,0.8,918.36,920.98,1.91,-33.25,20.95,2.1,-46.5,2.39,8.7,-0.54,-2.7,-5.7,-5.6,Mrs.|0.34|+nan Spencer|1.28|-1.7
+2,43,205,1,"Oh, Mr. Cuthbert!!",3,1.0,921.12,922.12,3.0,-27.69,24.55,2.7,-16.0,7.95,12.3,0.06,-4.55,-7.1,-6.9,
+2,43,206,1,"Oh, Mr. Cuthbert!!!”",3,1.0,922.48,924.46,1.52,-35.06,21.35,8.08,-57.4,0.58,9.1,5.44,-19.7,0.0,0.0,Mr.|0.58|+nan
+2,44,207,0,That was not what Mrs. Spencer had said; neither had the child tumbled out of the buggy nor had Matthew done anything astonishing.,23,1.0,924.46,931.64,3.2,-34.49,13.45,5.13,-10.4,1.15,1.2,2.48,3.7,-1.5,3.5,"said.|0.38|+nan buggy,|0.26|+3.0"
+2,44,208,0,They had simply rounded a curve in the road and found themselves in the “Avenue.”,15,1.0,932.14,936.22,3.68,-35.66,13.55,2.85,3.1,-0.02,1.3,0.21,-2.2,-1.2,0.2,
+2,45,209,0,"The “Avenue,” so called by the Newbridge people, was a stretch of road four or five hundred yards long, completely arched over with huge, wide-spreading apple-trees, planted years ago by an eccentric old farmer.",36,0.94,936.98,949.02,2.99,-35.55,12.65,2.9,-16.2,0.09,0.4,0.25,-1.4,-2.8,-1.5,"avenue,|0.30|+0.2 people,|0.34|+nan long,|0.38|+nan huge,|0.66|-2.8 -trees,|0.34|+3.8"
+2,45,210,0,Overhead was one long canopy of snowy fragrant bloom.,9,1.0,949.76,953.04,2.74,-34.11,12.55,1.29,-23.2,1.53,0.3,-1.36,-0.3,-1.8,-1.5,
+2,45,211,0,Below the boughs the air was full of a purple twilight and far ahead a glimpse of painted sunset sky shone like a great rose window at the end of a cathedral aisle.,33,1.0,953.58,963.44,3.35,-36.45,12.45,1.71,-6.2,-0.81,0.2,-0.94,-2.3,-2.5,-2.2,
+2,46,212,0,Its beauty seemed to strike the child dumb.,8,1.0,964.56,966.8,3.57,-34.53,13.8,1.93,0.0,1.11,1.55,-0.72,-2.5,-2.7,-2.7,
+2,46,213,0,"She leaned back in the buggy, her thin hands clasped before her, her face lifted rapturously to the white splendor above.",21,1.0,967.36,973.82,3.25,-38.29,11.7,1.76,-9.0,-2.65,-0.55,-0.88,-0.5,-1.4,-0.6,"buggy,|0.34|+1.1"
+2,46,214,0,Even when they had passed out and were driving down the long slope to Newbridge she never moved or spoke.,20,1.0,974.46,979.44,4.02,-34.94,12.15,1.32,12.6,0.7,-0.1,-1.32,-1.5,-2.5,-2.0,"Newbridge,|0.22|-0.8"
+2,46,215,0,"Still with rapt face she gazed afar into the sunset west, with eyes that saw visions trooping splendidly across that glowing background.",22,0.95,980.06,987.78,2.85,-37.27,12.15,1.19,-20.2,-1.63,-0.1,-1.46,-1.8,-2.2,-2.0,"with|0.28|-1.9 west,|0.36|+nan"
+2,46,216,0,"Through Newbridge, a bustling little village where dogs barked at them and small boys hooted and curious faces peered from the windows, they drove, still in silence.",27,1.0,988.58,996.76,3.3,-37.78,10.7,2.25,-7.6,-2.14,-1.55,-0.4,-0.8,-1.6,1.3,"Newbridge,|0.24|-0.3 drove,|0.54|-2.5"
+2,46,217,0,When three more miles had dropped away behind them the child had not spoken.,14,1.0,997.56,1001.44,3.61,-34.48,14.05,3.11,1.1,1.16,1.8,0.46,1.75,-0.6,0.7,"them,|0.28|+2.6"
+2,46,218,0,"She could keep silence, it was evident, as energetically as she could talk.",13,1.0,1001.94,1005.34,3.82,-35.71,13.05,4.33,7.0,-0.07,0.8,1.68,3.1,-4.0,0.2,
+2,47,219,1,"“I guess you’re feeling pretty tired and hungry,” Matthew ventured to say at last, accounting for her long visitation of dumbness with the only reason he could think of.",29,0.97,1006.38,1015.36,3.23,-37.19,10.85,4.01,-9.5,-1.55,-1.4,1.36,2.2,-0.5,1.65,"guess|0.34|-9.8 last,|0.36|+nan"
+2,47,220,1,“But we haven’t very far to go now—only another mile.”,10,0.8,1015.72,1019.74,2.49,-39.54,10.45,6.55,-30.3,-3.9,-1.8,3.9,-8.8,0.0,0.0,we|0.34|-6.7 go|0.80|+nan
+2,48,221,0,"She came out of her reverie with a deep sigh and looked at him with the dreamy gaze of a soul that had been wondering afar, star-led.",28,0.96,1019.74,1026.56,4.11,-37.77,12.05,2.72,15.1,-2.13,-0.2,0.08,-2.15,-1.3,-1.1,"been|0.34|+0.4 afar,|0.38|-0.8"
+2,49,222,1,"“Oh, Mr. Cuthbert,” she whispered, “that place we came through—that white place—what was it?”",14,0.93,1027.26,1034.22,2.01,-45.47,1.65,0.0,-43.7,-9.83,-10.6,-2.64,0.0,0.0,0.0,"Mr.|0.24|+nan whispered,|0.28|+nan white|1.20|+nan"
+2,50,223,1,"“Well now, you must mean the Avenue,” said Matthew after a few moments’ profound reflection.",15,0.87,1034.22,1039.58,2.8,-39.56,10.25,4.58,-21.6,-3.92,-2.0,1.94,-0.4,-0.7,-0.4,"""'Well,|1.14|+1.3"
+2,50,224,1,“It is a kind of pretty place.”,7,1.0,1040.14,1042.34,3.18,-43.47,1.65,7.58,-10.9,-7.83,-10.6,4.94,0.0,0.0,0.0,
+2,51,225,1,“Pretty?,1,1.0,,,,,,,,,,,,,,
+2,51,226,1,"Oh, pretty doesn’t seem the right word to use.",9,0.78,,,,,,,,,,,,,,
+2,51,227,1,"Nor beautiful, either.",3,0.67,,,,,,,,,,,,,,
+2,51,228,1,They don’t go far enough.,5,0.8,1048.08,1049.38,3.85,-38.09,15.4,6.73,7.8,-2.45,3.15,4.09,-2.4,-8.6,9.9,They|0.20|+10.8
+2,51,229,1,"Oh, it was wonderful—wonderful.",4,1.0,1049.94,1052.22,1.75,-39.67,12.75,5.94,-51.0,-4.03,0.5,3.3,0.55,-8.2,9.2,
+2,51,230,1,It’s the first thing I ever saw that couldn’t be improved upon by imagination.,14,0.86,1052.94,1056.26,4.22,-36.07,13.65,3.08,18.2,-0.43,1.4,0.44,-1.95,-3.2,0.3,that|0.36|+4.0
+2,51,231,1,It just satisfied me here”—she put one hand on her breast—“it made a queer funny ache and yet it was a pleasant ache.,23,0.87,1056.84,1064.62,2.96,-40.35,16.55,7.02,-17.1,-4.71,4.3,4.38,-0.7,-7.5,-4.5,"just|0.72|+nan me|1.14|+nan her|0.96|+9.7 ache,|0.34|+nan"
+2,51,232,1,"Did you ever have an ache like that, Mr. Cuthbert?”",10,1.0,1065.0,1067.14,4.67,-36.99,17.65,2.74,30.8,-1.35,5.4,0.1,0.0,-0.6,0.75,
+2,52,233,1,"“Well now, I just can’t recollect that I ever had.”",10,0.7,,,,,,,,,,,,,,
+2,53,234,1,“I have it lots of times—whenever I see anything royally beautiful.,11,0.91,1072.0,1076.06,2.71,-37.08,14.0,4.71,-24.1,-1.44,1.75,2.06,-1.75,-3.2,-2.4,of|0.94|+4.4
+2,53,235,1,But they shouldn’t call that lovely place the Avenue.,9,0.89,1076.7,1079.32,3.44,-37.49,11.9,7.1,-3.6,-1.85,-0.35,4.46,-0.4,-0.75,-0.15,they|0.30|-13.7
+2,53,236,1,There is no meaning in a name like that.,9,0.78,,,,,,,,,,,,,,
+2,53,237,1,They should call it—let me see—the White Way of Delight.,10,1.0,1082.06,1086.84,2.09,-43.65,10.6,6.71,-41.5,-8.01,-1.65,4.06,0.55,-6.6,-4.8,
+2,53,238,1,Isn’t that a nice imaginative name?,6,0.83,1087.6,1089.26,3.61,-34.43,13.15,2.48,1.1,1.21,0.9,-0.17,0.1,-1.5,-0.1,
+2,53,239,1,When I don’t like the name of a place or a person I always imagine a new one and always think of them so.,24,0.96,1089.82,1094.9,4.72,-36.46,12.85,2.5,32.2,-0.82,0.6,-0.15,-0.5,-4.1,-2.6,
+2,53,240,1,"There was a girl at the asylum whose name was Hepzibah Jenkins, but I always imagined her as Rosalia DeVere.",20,0.85,1095.38,1099.86,4.46,-34.58,12.45,1.72,24.9,1.06,0.2,-0.92,-0.5,-0.05,2.15,"was|0.52|+2.4 Jenkins,|0.42|+2.1"
+2,53,241,1,"Other people may call that place the Avenue, but I shall always call it the White Way of Delight.",19,1.0,1101.2,1106.06,3.91,-35.39,12.5,2.64,9.5,0.25,0.25,-0.0,-2.35,-3.0,-2.8,"avenue,|0.22|+nan"
+2,53,242,1,Have we really only another mile to go before we get home?,12,1.0,1106.76,1109.34,4.65,-33.6,13.95,3.45,30.3,2.04,1.7,0.81,2.6,-0.1,2.3,
+2,53,243,1,I’m glad and I’m sorry.,5,0.6,,,,,,,,,,,,,,
+2,53,244,1,I’m sorry because this drive has been so pleasant and I’m always sorry when pleasant things end.,17,0.88,1111.98,1116.12,4.11,-35.86,12.75,2.25,15.1,-0.22,0.5,-0.4,-2.0,-1.1,0.1,"pleasant,|0.32|+1.2 and|0.20|+1.5"
+2,53,245,1,"Something still pleasanter may come after, but you can never be sure.",12,1.0,1117.5,1121.02,3.41,-36.94,15.95,5.75,-4.5,-1.3,3.7,3.1,0.3,-3.7,-2.9,after.|0.62|+nan
+2,53,246,1,And it’s so often the case that it isn’t pleasanter.,10,0.8,1121.54,1123.7,4.63,-38.4,13.55,4.27,29.7,-2.76,1.3,1.62,-0.8,-3.7,-2.75,it|0.34|+nan
+2,53,247,1,That has been my experience anyhow.,6,1.0,1124.06,1125.58,3.95,-37.44,10.5,3.0,10.6,-1.8,-1.75,0.36,-0.95,-1.8,-0.8,
+2,53,248,1,But I’m glad to think of getting home.,8,0.88,1126.22,1127.7,5.41,-35.48,20.45,1.74,51.5,0.16,8.2,-0.9,1.8,-0.3,4.8,But|0.20|+3.5
+2,53,249,1,"You see, I’ve never had a real home since I can remember.",12,0.92,1128.1,1130.64,4.72,-34.29,15.05,2.73,32.2,1.35,2.8,0.08,-0.1,-1.3,1.2,"see,|0.52|+0.8"
+2,53,250,1,It gives me that pleasant ache again just to think of coming to a really truly home.,17,0.94,1131.04,1135.12,4.17,-35.06,12.45,3.07,16.8,0.58,0.2,0.42,-2.7,-6.6,-6.4,coming|0.46|+0.3
+2,53,251,1,"Oh, isn’t that pretty!”",4,0.75,,,,,,,,,,,,,,
+2,54,252,0,They had driven over the crest of a hill.,9,1.0,1137.7,1139.54,4.89,-35.52,14.65,1.37,37.0,0.12,2.4,-1.27,-0.8,-3.7,-1.4,
+2,54,253,0,"Below them was a pond, looking almost like a river so long and winding was it.",16,1.0,1140.1,1144.24,3.86,-34.59,12.75,1.43,8.1,1.05,0.5,-1.22,-2.6,-2.6,-2.0,"pond,|0.24|+nan"
+2,54,254,0,"A bridge spanned it midway and from there to its lower end, where an amber-hued belt of sand-hills shut it in from the dark blue gulf beyond, the water was a glory of many shifting hues—the most spiritual shadings of crocus and rose and ethereal green, with other elusive tintings for which no name has ever been found.",60,0.98,1144.6,1162.84,3.29,-35.58,12.65,1.68,-7.8,0.06,0.4,-0.97,-1.9,-1.4,-1.0,"midway,|0.46|-0.5 beyond,|0.38|+1.2 shifting|1.06|+0.4 green,|0.36|+2.0"
+2,54,255,0,Above the bridge the pond ran up into fringing groves of fir and maple and lay all darkly translucent in their wavering shadows.,23,0.96,1163.9,1171.26,3.13,-35.83,13.05,1.68,-12.3,-0.19,0.8,-0.97,-2.25,-1.1,0.0,of|0.24|+1.0
+2,54,256,0,Here and there a wild plum leaned out from the bank like a white-clad girl tiptoeing to her own reflection.,21,1.0,1172.02,1178.06,3.48,-36.39,12.25,1.57,-2.5,-0.75,0.0,-1.08,-0.95,-0.6,0.95,
+2,54,257,0,"From the marsh at the head of the pond came the clear, mournfully-sweet chorus of the frogs.",18,1.0,1178.72,1183.56,3.72,-35.6,14.55,1.14,4.2,0.04,2.3,-1.5,1.25,-2.1,2.2,"clear,|0.52|-0.0"
+2,54,258,0,"There was a little gray house peering around a white apple orchard on a slope beyond and, although it was not yet quite dark, a light was shining from one of its windows.",33,1.0,1184.1,1193.32,3.58,-35.8,12.45,1.74,0.3,-0.16,0.2,-0.9,-1.75,-2.0,-0.7,"beyond,|0.32|+4.1"
+2,55,259,1,"“That’s Barry’s pond,” said Matthew.",5,0.6,,,,,,,,,,,,,,
+2,56,260,1,"“Oh, I don’t like that name, either.",7,0.86,1196.32,1197.88,4.49,-37.07,11.55,5.25,25.8,-1.43,-0.7,2.6,-0.25,-0.6,0.1,
+2,56,261,1,I shall call it—let me see—the Lake of Shining Waters.,10,0.9,1198.14,1203.18,1.98,-38.18,11.85,6.09,-44.5,-2.54,-0.4,3.44,-10.2,0.0,0.0,me|1.26|+13.0
+2,56,262,1,"Yes, that is the right name for it.",8,1.0,1203.18,1205.2,3.96,-42.02,1.65,0.0,10.9,-6.38,-10.6,-2.64,0.0,0.0,0.0,"""'Yes,|0.28|+0.0"
+2,56,263,1,I know because of the thrill.,6,1.0,1205.36,1206.52,5.17,-39.26,13.95,1.12,44.8,-3.62,1.7,-1.52,0.7,-2.1,-0.6,
+2,56,264,1,When I hit on a name that suits exactly it gives me a thrill.,14,1.0,1206.98,1209.76,5.04,-38.08,13.2,1.77,41.2,-2.44,0.95,-0.88,-1.05,-7.2,-6.0,
+2,56,265,1,Do things ever give you a thrill?”,7,1.0,1210.36,1211.84,4.73,-34.44,14.6,6.29,32.5,1.2,2.35,3.64,-12.95,-14.2,-11.0,
+2,57,266,0,Matthew ruminated.,2,1.0,1211.84,1212.86,1.96,-40.06,9.45,4.24,-45.1,-4.42,-2.8,1.6,0.85,-0.7,8.3,
+2,58,267,1,"“Well now, yes.",3,0.33,,,,,,,,,,,,,,
+2,58,268,1,It always kind of gives me a thrill to see them ugly white grubs that spade up in the cucumber beds.,21,1.0,1216.48,1222.48,3.5,-35.62,13.15,2.47,-2.0,0.02,0.9,-0.17,-0.7,-2.0,-1.8,
+2,58,269,1,I hate the look of them.”,6,1.0,1222.84,1225.0,2.78,-48.6,1.65,0.0,-22.1,-12.96,-10.6,-2.64,0.0,0.0,0.0,
+2,59,270,1,"“Oh, I don’t think that can be exactly the same kind of a thrill.",14,0.93,1225.0,1228.66,3.83,-37.71,13.45,6.07,7.3,-2.07,1.2,3.42,1.85,-2.5,2.9,"""'Oh,|0.22|+nan"
+2,59,271,1,Do you think it can?,5,1.0,1229.0,1229.8,6.25,-32.91,21.95,6.15,75.1,2.73,9.7,3.51,-11.1,-15.5,-14.7,
+2,59,272,1,"There doesn’t seem to be much connection between grubs and lakes of shining waters, does there?",16,0.94,1230.26,1234.72,3.59,-36.88,12.35,3.96,0.6,-1.24,0.1,1.32,2.8,-1.0,3.7,There|0.30|+12.4
+2,59,273,1,But why do other people call it Barry’s pond?”,9,0.89,1235.22,1238.02,3.21,-40.37,16.15,8.14,-10.1,-4.73,3.9,5.5,-14.5,0.0,0.0,it|0.36|+nan
+2,60,274,1,“I reckon because Mr. Barry lives up there in that house.,11,1.0,1238.02,1241.22,3.44,-35.92,10.95,2.83,-3.6,-0.28,-1.3,0.19,-0.05,-2.6,0.1,Mr.|0.34|+nan
+2,60,275,1,Orchard Slope’s the name of his place.,7,1.0,1241.86,1243.38,4.61,-36.45,12.45,2.13,29.1,-0.81,0.2,-0.52,-1.85,-5.3,-3.7,
+2,60,276,1,If it wasn’t for that big bush behind it you could see Green Gables from here.,16,0.94,1243.74,1247.6,4.15,-37.72,13.85,4.78,16.2,-2.08,1.6,2.14,0.8,-0.1,0.3,it|0.28|-4.3
+2,60,277,1,"But we have to go over the bridge and round by the road, so it’s near half a mile further.”",20,0.95,1248.0,1252.3,4.65,-33.71,12.25,1.76,30.3,1.93,0.0,-0.88,-0.6,-1.1,-0.5,"road,|0.22|+3.8 so|0.22|-1.1"
+2,61,278,1,“Has Mr. Barry any little girls?,6,1.0,1253.12,1254.66,3.9,-32.29,15.25,4.05,9.2,3.35,3.0,1.4,-0.7,-2.3,-0.2,Mr.|0.22|-3.8
+2,61,279,1,"Well, not so very little either—about my size.”",8,0.88,1255.1,1257.9,2.86,-38.17,9.45,4.76,-19.9,-2.53,-2.8,2.11,0.9,-2.6,-2.5,"Well,|0.34|+0.0 little|0.82|+nan"
+2,62,280,1,“He’s got one about eleven.,5,0.8,1258.78,1259.86,4.63,-33.33,11.9,1.04,29.7,2.31,-0.35,-1.6,-0.1,-3.8,-3.0,
+2,62,281,1,Her name is Diana.”,4,1.0,1260.22,1261.94,2.33,-41.33,11.0,5.15,-34.7,-5.69,-1.25,2.51,-9.35,-8.7,-8.5,
+2,63,282,1,“Oh!” with a long indrawing of breath.,7,1.0,1263.02,1265.24,3.15,-36.66,11.55,3.55,-11.8,-1.02,-0.7,0.9,-1.3,-4.3,-3.3,"long,|0.24|+0.1"
+2,63,283,1,“What a perfectly lovely name!”,5,1.0,1265.62,1267.86,2.23,-39.7,12.75,4.39,-37.5,-4.06,0.5,1.74,-1.0,-4.3,-3.3,lovely|0.30|-2.3
+2,64,284,1,"“Well now, I dunno.",4,0.25,,,,,,,,,,,,,,
+2,64,285,1,"There’s something dreadful heathenish about it, seems to me.",9,0.89,1270.94,1273.5,3.52,-37.95,12.6,1.61,-1.4,-2.31,0.35,-1.03,1.25,-4.6,-2.8,
+2,64,286,1,I’d ruther Jane or Mary or some sensible name like that.,11,0.73,,,,,,,,,,,,,,
+2,64,287,1,But when Diana was born there was a schoolmaster boarding there and they gave him the naming of her and he called her Diana.”,24,1.0,1278.02,1284.7,3.59,-35.49,11.85,1.99,0.6,0.15,-0.4,-0.66,-1.0,-1.6,-0.4,her.|0.42|+nan
+2,65,288,1,"“I wish there had been a schoolmaster like that around when I was born, then.",15,1.0,1285.5,1288.8,4.55,-35.72,11.75,3.6,27.5,-0.08,-0.5,0.96,-1.0,-0.2,-0.1,
+2,65,289,1,"Oh, here we are at the bridge.",7,1.0,1289.48,1290.86,5.07,-33.68,16.9,2.61,42.0,1.96,4.65,-0.04,-1.85,-2.9,-0.9,
+2,65,290,1,I’m going to shut my eyes tight.,7,0.86,1291.64,1292.66,6.86,-34.01,12.2,1.35,92.2,1.63,-0.05,-1.3,-0.9,-3.4,-3.0,
+2,65,291,1,I’m always afraid going over bridges.,6,0.83,1293.26,1294.46,5.0,-33.46,12.65,2.04,40.1,2.18,0.4,-0.6,-1.3,-2.7,-1.5,
+2,65,292,1,"I can’t help imagining that perhaps, just as we get to the middle, they’ll crumple up like a jack-knife and nip us.",23,0.83,1294.92,1300.62,4.04,-35.72,13.45,1.58,13.2,-0.08,1.2,-1.06,-0.8,-0.1,2.2,I|0.32|+nan middle|0.36|+1.3 a|0.46|+0.4
+2,65,293,1,So I shut my eyes.,5,1.0,1300.88,1301.74,5.81,-29.91,,,62.7,5.73,,,,,,
+2,65,294,1,But I always have to open them for all when I think we’re getting near the middle.,17,0.94,1302.44,1305.14,6.3,-32.67,11.75,2.85,76.5,2.97,-0.5,0.21,-0.25,-0.3,-0.1,
+2,65,295,1,"Because, you see, if the bridge did crumple up I’d want to see it crumple.",15,0.93,1305.62,1309.66,3.71,-38.37,1.65,0.06,3.9,-2.73,-10.6,-2.58,0.0,0.0,0.0,"see,|0.42|+nan up|0.44|+nan"
+2,65,296,1,What a jolly rumble it makes!,6,1.0,1310.08,1311.68,3.75,-36.55,14.85,2.0,5.0,-0.91,2.6,-0.64,-2.95,-5.6,-5.3,
+2,65,297,1,I always like the rumble part of it.,8,1.0,1312.06,1313.78,4.65,-36.54,11.4,7.15,30.3,-0.9,-0.85,4.51,-0.1,-9.0,-7.4,
+2,65,298,1,Isn’t it splendid there are so many things to like in this world?,13,0.92,1314.4,1316.84,5.33,-34.46,11.85,1.7,49.3,1.18,-0.4,-0.94,-0.4,-0.9,0.2,
+2,65,299,1,"There, we’re over.",3,0.67,,,,,,,,,,,,,,
+2,65,300,1,Now I’ll look back.,4,0.75,,,,,,,,,,,,,,
+2,65,301,1,"Good night, dear Lake of Shining Waters.",7,1.0,1320.9,1322.82,3.65,-33.37,13.75,3.58,2.2,2.27,1.5,0.94,-0.95,-1.7,-0.7,"night,|0.24|-0.5"
+2,65,302,1,"I always say good night to the things I love, just as I would to people.",16,1.0,1323.4,1326.32,5.48,-35.71,11.35,3.97,53.5,-0.07,-0.9,1.33,2.6,-0.6,2.3,
+2,65,303,1,I think they like it.,5,1.0,1326.64,1327.8,4.31,-42.48,1.65,0.0,20.7,-6.84,-10.6,-2.64,0.0,0.0,0.0,
+2,65,304,1,That water looks as if it was smiling at me.”,10,0.9,1328.04,1331.1,3.27,-42.06,10.55,5.26,-8.4,-6.42,-1.7,2.62,-8.9,-0.2,0.0,
+2,66,305,0,When they had driven up the further hill and around a corner Matthew said:,14,1.0,1331.1,1334.28,4.4,-33.75,12.25,4.08,23.2,1.89,0.0,1.44,-1.1,-1.9,-0.4,
+2,67,306,1,“We’re pretty near home now.,5,0.8,1334.96,1335.88,5.43,-32.41,13.6,2.92,52.1,3.23,1.35,0.27,-3.7,-5.9,-5.6,
+2,67,307,1,That’s Green Gables over—”,4,0.25,,,,,,,,,,,,,,
+2,68,308,1,"“Oh, don’t tell me,” she interrupted breathlessly, catching at his partially raised arm and shutting her eyes that she might not see his gesture.",24,0.92,1338.18,1344.08,4.07,-35.48,11.55,1.97,14.0,0.16,-0.7,-0.68,-1.3,-2.4,-2.3,"breathlessly,|0.32|+nan"
+2,68,309,1,“Let me guess.,3,1.0,1344.48,1345.04,5.36,-36.03,,,50.1,-0.39,,,,,,
+2,68,310,1,I’m sure I’ll guess right.”,5,0.6,,,,,,,,,,,,,,
+2,69,311,0,She opened her eyes and looked about her.,8,1.0,1347.1,1348.94,4.35,-34.36,12.35,5.43,21.8,1.28,0.1,2.78,-1.8,-12.4,-9.8,
+2,69,312,0,They were on the crest of a hill.,8,1.0,1349.32,1350.72,5.71,-31.97,14.35,1.43,59.9,3.67,2.1,-1.22,-1.8,-5.2,-4.0,
+2,69,313,0,"The sun had set some time since, but the landscape was still clear in the mellow afterlight.",17,1.0,1351.18,1355.56,3.88,-33.76,11.95,1.51,8.7,1.88,-0.3,-1.14,-1.2,-2.9,-1.4,
+2,69,314,0,To the west a dark church spire rose up against a marigold sky.,13,1.0,1356.1,1359.58,3.74,-34.58,11.75,2.02,4.8,1.06,-0.5,-0.62,-1.2,-2.3,-1.3,
+2,69,315,0,"Below was a little valley and beyond a long, gently-rising slope with snug farmsteads scattered along it.",18,1.0,1360.22,1366.44,2.89,-33.86,12.55,1.52,-19.0,1.78,0.3,-1.12,-2.6,-9.0,-8.8,"long,|0.34|+0.0"
+2,69,316,0,"From one to another the child’s eyes darted, eager and wistful.",11,0.91,1366.94,1370.34,3.24,-34.18,12.15,1.92,-9.2,1.46,-0.1,-0.73,-0.35,-3.3,-2.7,"the|0.44|-0.1 darted,|0.32|+3.2"
+2,69,317,0,"At last they lingered on one away to the left, far back from the road, dimly white with blossoming trees in the twilight of the surrounding woods.",27,0.96,1370.68,1378.24,3.57,-35.26,12.05,1.65,0.0,0.38,-0.2,-1.0,-1.15,-1.7,-1.0,"one|0.26|-0.9 left,|0.48|+0.6 road,|0.34|+4.0"
+2,69,318,0,"Over it, in the stainless southwest sky, a great crystal-white star was shining like a lamp of guidance and promise.",21,1.0,1378.78,1385.78,3.0,-35.61,11.75,3.17,-16.0,0.03,-0.5,0.52,-1.1,-2.7,-0.9,"it,|0.26|+1.3 sky,|0.30|+nan"
+2,70,319,1,"“That’s it, isn’t it?” she said, pointing.",7,0.71,,,,,,,,,,,,,,
+2,71,320,0,Matthew slapped the reins on the sorrel’s back delightedly.,9,1.0,1390.28,1392.94,3.38,-34.97,10.85,0.78,-5.3,0.67,-1.4,-1.86,0.1,-0.6,0.1,
+2,72,321,1,"“Well now, you’ve guessed it!",5,0.8,1393.3,1395.62,2.16,-39.46,12.75,6.03,-39.5,-3.82,0.5,3.38,-11.1,0.0,0.0,now.|0.40|+3.7
+2,72,322,1,But I reckon Mrs. Spencer described it so’s you could tell.”,11,0.91,1395.62,1398.98,3.27,-36.85,11.35,4.96,-8.4,-1.21,-0.9,2.32,-9.7,0.0,0.0,Mrs.|0.36|+nan it|0.32|+nan
+2,73,323,1,"“No, she didn’t—really she didn’t.",5,0.6,,,,,,,,,,,,,,
+2,73,324,1,All she said might just as well have been about most of those other places.,15,1.0,1401.26,1404.96,4.05,-32.69,15.25,3.35,13.4,2.95,3.0,0.7,-5.25,-11.2,-9.9,
+2,73,325,1,I hadn’t any real idea what it looked like.,9,0.89,1405.42,1407.5,4.33,-33.82,13.45,2.41,21.3,1.82,1.2,-0.23,0.0,-0.3,2.8,I|0.28|+nan
+2,73,326,1,But just as soon as I saw it I felt it was home.,13,1.0,1407.72,1410.3,5.04,-34.96,12.85,2.21,41.2,0.68,0.6,-0.44,-1.4,-1.7,-1.4,
+2,73,327,1,"Oh, it seems as if I must be in a dream.",11,1.0,1410.86,1413.0,5.14,-35.39,13.75,3.39,44.0,0.25,1.5,0.75,-0.35,-0.9,-0.4,
+2,73,328,1,"Do you know, my arm must be black and blue from the elbow up, for I’ve pinched myself so many times today.",22,0.95,1413.6,1418.52,4.47,-34.16,13.35,2.82,25.2,1.48,1.1,0.17,2.15,-0.4,2.1,know?|0.34|+nan for|0.20|+3.5
+2,73,329,1,Every little while a horrible sickening feeling would come over me and I’d be so afraid it was all a dream.,21,0.95,1418.92,1423.76,4.34,-34.6,14.15,2.05,21.6,1.04,1.9,-0.6,-0.6,-1.8,-0.9,
+2,73,330,1,Then I’d pinch myself to see if it was real—until suddenly I remembered that even supposing it was only a dream I’d better go on dreaming as long as I could; so I stopped pinching.,35,0.91,1424.04,1432.08,4.35,-35.02,12.65,1.89,21.8,0.62,0.4,-0.76,-0.8,-2.5,-2.4,was|0.96|+3.8 dream|0.58|-0.7 could.|0.32|+nan
+2,73,331,1,But it is real and we’re nearly home.”,8,0.88,1432.5,1435.52,2.65,-41.36,11.65,6.33,-25.8,-5.72,-0.6,3.68,-10.0,-0.2,0.0,
+2,74,332,0,With a sigh of rapture she relapsed into silence.,9,1.0,1435.52,1437.98,3.66,-35.56,12.5,3.97,2.5,0.08,0.25,1.33,-0.8,-2.1,0.3,
+2,74,333,0,Matthew stirred uneasily.,3,1.0,1438.82,1440.0,2.54,-32.59,11.8,0.91,-28.9,3.05,-0.45,-1.74,-0.7,-1.5,-0.9,
+2,74,334,0,He felt glad that it would be Marilla and not he who would have to tell this waif of the world that the home she longed for was not to be hers after all.,34,1.0,1440.6,1448.24,4.45,-35.56,11.75,1.86,24.6,0.08,-0.5,-0.78,-1.0,-0.4,-0.15,"he,|0.20|+nan"
+2,74,335,0,"They drove over Lynde’s Hollow, where it was already quite dark, but not so dark that Mrs. Rachel could not see them from her window vantage, and up the hill and into the long lane of Green Gables.",38,0.97,1448.8,1459.88,3.43,-35.38,11.75,3.82,-3.9,0.26,-0.5,1.17,-1.15,-1.6,0.1,"over|0.42|-2.9 Hollow,|0.26|+1.0 dark,|0.26|+nan -vantage.|1.04|+4.2"
+2,74,336,0,By the time they arrived at the house Matthew was shrinking from the approaching revelation with an energy he did not understand.,22,1.0,1460.58,1466.6,3.65,-34.22,12.55,1.74,2.2,1.42,0.3,-0.9,-0.4,-3.3,-1.5,
+2,74,337,0,"It was not of Marilla or himself he was thinking or of the trouble this mistake was probably going to make for them, but of the child’s disappointment.",28,0.93,1467.2,1474.16,4.02,-37.35,11.95,4.08,12.6,-1.71,-0.3,1.44,1.55,-0.8,-0.1,"them,|0.40|+nan the|0.44|+nan"
+2,74,338,0,When he thought of that rapt light being quenched in her eyes he had an uncomfortable feeling that he was going to assist at murdering something—much the same feeling that came over him when he had to kill a lamb or calf or any other innocent little creature.,48,1.0,1475.22,1487.98,3.76,-36.96,12.55,3.02,5.3,-1.32,0.3,0.38,-1.95,-3.9,-2.7,
+2,75,339,0,The yard was quite dark as they turned into it and the poplar leaves were rustling silkily all round it.,20,0.95,1488.7,1493.88,3.86,-38.0,11.15,2.88,8.1,-2.36,-1.1,0.23,-1.2,-9.5,-9.2,all|0.24|+0.1
+2,76,340,1,"“Listen to the trees talking in their sleep,” she whispered, as he lifted her to the ground.",17,1.0,1494.56,1498.52,4.29,-39.29,11.05,3.7,20.2,-3.65,-1.2,1.06,-0.1,-0.9,0.9,
+2,76,341,1,“What nice dreams they must have!”,6,1.0,1499.12,1500.8,3.57,-40.42,14.35,1.94,0.0,-4.78,2.1,-0.7,-2.3,-2.7,-2.6,
+2,77,342,0,"Then, holding tightly to the carpet-bag which contained “all her worldly goods,” she followed him into the house.",19,1.0,1501.48,1507.84,2.99,-38.98,11.15,4.92,-16.2,-3.34,-1.1,2.28,-0.3,-1.1,9.0,"Then,|0.44|+1.1 goods,|0.52|+nan"

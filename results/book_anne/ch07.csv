@@ -1,0 +1,92 @@
+chapter,para,sent,dialogue,text,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
+7,0,0,0,WHEN Marilla took Anne up to bed that night she said stiffly:,12,1.0,23.14,26.3,3.8,-21.63,12.45,5.99,9.8,-0.94,-0.07,2.78,-10.8,-8.9,-8.9,
+7,1,1,1,"“Now, Anne, I noticed last night that you threw your clothes all about the floor when you took them off.",20,1.0,26.3,31.48,3.86,-21.0,13.45,6.77,11.6,-0.31,0.93,3.56,-3.9,-7.9,-6.0,"Now,|0.22|+0.0 Anne,|0.20|+0.0"
+7,1,2,1,"That is a very untidy habit, and I can’t allow it at all.",13,0.92,31.82,34.9,4.22,-18.37,14.05,3.76,22.0,2.32,1.53,0.55,-1.05,-0.6,1.6,I|0.26|+1.6
+7,1,3,1,As soon as you take off any article of clothing fold it neatly and place it on the chair.,19,1.0,35.32,39.16,4.95,-18.37,16.3,2.7,43.1,2.32,3.78,-0.5,-1.05,-1.8,2.3,
+7,1,4,1,I haven’t any use at all for little girls who aren’t neat.”,12,0.83,39.52,42.64,3.85,-21.8,11.75,5.84,11.3,-1.11,-0.77,2.64,-10.1,0.0,0.0,I|0.26|+3.6
+7,2,5,1,"“I was so harrowed up in my mind last night that I didn’t think about my clothes at all,” said Anne.",21,0.95,42.64,47.32,4.49,-21.29,13.75,4.42,29.8,-0.6,1.23,1.21,0.5,-2.2,1.4,I|0.26|+1.0
+7,2,6,1,“I’ll fold them nicely tonight.,5,0.6,,,,,,,,,,,,,,
+7,2,7,1,They always made us do that at the asylum.,9,1.0,49.44,51.18,5.17,-19.01,12.15,2.53,49.4,1.68,-0.37,-0.68,-0.6,-1.1,0.1,
+7,2,8,1,"Half the time, though, I’d forget, I’d be in such a hurry to get into bed nice and quiet and imagine things.”",22,0.91,51.74,57.28,3.97,-24.36,11.05,4.3,14.7,-3.67,-1.47,1.09,-9.4,-0.1,0.0,"though,|0.22|+1.3 forget.|0.48|+2.4"
+7,3,9,1,"“You’ll have to remember a little better if you stay here,” admonished Marilla.",13,0.92,57.64,60.76,4.17,-20.89,11.3,4.69,20.5,-0.2,-1.22,1.49,-1.55,-1.7,-1.0,
+7,3,10,1,"“There, that looks something like.",5,1.0,61.1,63.12,2.48,-32.46,1.65,0.02,-28.3,-11.77,-10.87,-3.18,0.0,-0.1,0.0,"""'There.|0.50|+nan"
+7,3,11,1,Say your prayers now and get into bed.”,8,1.0,63.5,65.12,4.94,-17.68,12.55,5.18,42.8,3.01,0.03,1.97,-10.9,-12.1,-10.5,
+7,4,12,1,"“I never say any prayers,” announced Anne.",7,1.0,65.12,68.0,2.43,-25.65,9.65,5.85,-29.8,-4.96,-2.87,2.64,-8.0,0.0,0.0,
+7,5,13,0,Marilla looked horrified astonishment.,4,1.0,68.0,70.02,1.98,-21.57,9.85,4.32,-42.8,-0.88,-2.67,1.12,1.2,-3.8,0.1,
+7,6,14,1,"“Why, Anne, what do you mean?",6,1.0,70.68,73.12,2.46,-32.03,1.65,9.52,-28.9,-11.34,-10.87,6.32,0.0,0.0,0.0,"""'Why,|0.46|+nan Anne,|0.20|+nan"
+7,6,15,1,Were you never taught to say your prayers?,8,1.0,73.12,75.5,3.36,-20.25,16.35,5.09,-2.9,0.44,3.83,1.88,2.2,-2.2,7.8,
+7,6,16,1,God always wants little girls to say their prayers.,9,1.0,75.5,77.96,3.66,-16.74,16.75,2.36,5.8,3.95,4.23,-0.85,-3.2,-0.2,5.0,
+7,6,17,1,"Don’t you know who God is, Anne?”",7,0.86,78.72,80.62,3.68,-20.58,11.45,6.27,6.4,0.11,-1.07,3.06,-9.8,0.0,0.0,
+7,7,18,1,"“‘God is a spirit, infinite, eternal and unchangeable, in His being, wisdom, power, holiness, justice, goodness, and truth,’” responded Anne promptly and glibly.",23,0.91,80.62,88.94,2.76,-23.84,13.05,4.8,-20.2,-3.15,0.53,1.59,-11.4,0.0,0.0,
+7,8,19,0,Marilla looked rather relieved.,4,1.0,88.94,90.36,2.82,-16.78,12.05,2.29,-18.5,3.91,-0.47,-0.92,-0.45,-4.1,-2.6,
+7,9,20,1,"“So you do know something then, thank goodness!",8,1.0,90.96,93.18,3.6,-19.09,14.85,4.78,4.0,1.6,2.33,1.58,2.9,-0.1,8.3,
+7,9,21,1,You’re not quite a heathen.,5,0.8,93.6,94.48,5.68,-23.01,14.1,2.46,64.2,-2.32,1.58,-0.75,1.35,-7.0,-2.8,
+7,9,22,1,Where did you learn that?”,5,1.0,94.84,96.32,3.38,-25.62,12.55,7.41,-2.3,-4.93,0.03,4.2,-10.9,0.0,0.0,
+7,10,23,1,"“Oh, at the asylum Sunday-school.",6,1.0,96.32,97.82,4.0,-18.24,17.05,4.97,15.6,2.45,4.53,1.76,-3.6,-5.5,-3.0,
+7,10,24,1,They made us learn the whole catechism.,7,1.0,98.08,99.7,4.32,-19.17,14.65,1.63,24.9,1.52,2.13,-1.58,-0.85,-1.8,-0.4,
+7,10,25,1,I liked it pretty well.,5,1.0,99.86,100.98,4.46,-19.43,13.55,7.27,28.9,1.26,1.03,4.06,-2.6,-18.2,-17.3,
+7,10,26,1,There’s something splendid about some of the words.,8,0.88,101.58,103.28,4.71,-19.04,12.8,3.42,36.1,1.65,0.28,0.21,-2.8,-4.1,-3.2,
+7,10,27,1,"‘Infinite, eternal and unchangeable.’",4,1.0,103.74,105.58,2.17,-22.67,14.75,2.43,-37.3,-1.98,2.23,-0.77,-4.85,-4.5,-3.5,"eternal,|0.20|-1.3"
+7,10,28,1,Isn’t that grand?,3,0.67,,,,,,,,,,,,,,
+7,10,29,1,It has such a roll to it—just like a big organ playing.,12,0.75,,,,,,,,,,,,,,
+7,10,30,1,"You couldn’t quite call it poetry, I suppose, but it sounds a lot like it, doesn’t it?”",17,0.88,110.64,115.46,3.53,-25.23,14.0,7.5,2.0,-4.54,1.48,4.3,-12.35,-0.3,0.0,"You|0.32|+nan suppose,|0.22|+nan it,|0.26|-11.6"
+7,11,31,1,"“We’re not talking about poetry, Anne—we are talking about saying your prayers.",12,0.83,115.8,119.48,3.26,-18.82,14.15,2.25,-5.8,1.87,1.63,-0.96,-1.4,-2.2,-1.6,"poetry,|0.68|-1.2"
+7,11,32,1,Don’t you know it’s a terrible wicked thing not to say your prayers every night?,15,0.87,120.32,123.1,5.4,-16.58,13.55,3.63,56.1,4.11,1.03,0.42,4.4,-2.4,7.1,
+7,11,33,1,I’m afraid you are a very bad little girl.”,9,0.89,123.7,126.12,3.72,-16.97,12.65,5.77,7.5,3.72,0.13,2.56,-11.0,-7.9,-7.9,
+7,12,34,1,"“You’d find it easier to be bad than good if you had red hair,” said Anne reproachfully.",17,0.94,126.9,130.98,4.17,-20.43,12.05,1.47,20.5,0.26,-0.47,-1.74,-1.35,-2.6,-1.2,
+7,12,35,1,“People who haven’t red hair don’t know what trouble is.,10,0.8,131.48,134.28,3.57,-18.86,12.85,2.55,3.2,1.83,0.33,-0.66,-2.45,-3.5,-2.3,who|0.38|-4.6 hair|0.32|-1.1
+7,12,36,1,"Mrs. Thomas told me that God made my hair red on purpose, and I’ve never cared about Him since.",19,0.95,134.8,140.4,3.39,-20.93,13.55,3.67,-2.0,-0.24,1.03,0.46,-1.35,-6.4,-2.1,"purpose,|0.44|-2.3 and|0.22|+7.9"
+7,12,37,1,And anyhow I’d always be too tired at night to bother saying prayers.,13,0.92,140.92,145.04,3.16,-22.5,14.75,4.65,-8.7,-1.81,2.23,1.45,-13.1,-10.5,-9.3,"anyhow,|0.56|+3.3"
+7,12,38,1,People who have to look after twins can’t be expected to say their prayers.,14,0.93,145.04,148.52,4.02,-23.18,11.25,3.87,16.2,-2.49,-1.27,0.66,-2.2,-3.5,-1.3,twins|0.36|-2.8
+7,12,39,1,"Now, do you honestly think they can?”",7,1.0,148.9,151.68,2.52,-28.09,14.75,7.65,-27.2,-7.4,2.23,4.44,-13.1,0.0,0.0,
+7,13,40,0,Marilla decided that Anne’s religious training must be begun at once.,11,0.91,151.68,155.58,2.82,-20.53,12.6,4.04,-18.5,0.16,0.08,0.84,-0.45,-0.7,1.5,that|0.36|+1.2
+7,13,41,0,Plainly there was no time to be lost.,8,1.0,156.02,158.0,4.04,-20.32,12.4,2.25,16.8,0.37,-0.12,-0.96,-1.95,-2.9,-2.0,
+7,14,42,1,"“You must say your prayers while you are under my roof, Anne.”",12,1.0,158.56,161.3,4.38,-15.84,13.15,3.74,26.6,4.85,0.63,0.54,0.35,-0.5,1.3,"roof,|0.22|-12.0"
+7,15,43,1,"“Why, of course, if you want me to,” assented Anne cheerfully.",11,1.0,161.76,164.64,3.82,-22.87,10.25,3.16,10.4,-2.18,-2.27,-0.04,-1.0,-1.6,-1.2,
+7,15,44,1,“I’d do anything to oblige you.,6,0.83,165.3,166.5,5.0,-20.22,10.55,2.32,44.5,0.47,-1.97,-0.89,-0.85,-3.4,-1.0,
+7,15,45,1,But you’ll have to tell me what to say for this once.,12,0.92,166.94,169.18,5.36,-21.13,17.0,3.36,54.9,-0.44,4.48,0.15,-6.35,-7.25,-5.55,
+7,15,46,1,After I get into bed I’ll imagine out a real nice prayer to say always.,15,0.93,169.5,172.94,4.36,-18.19,13.05,2.66,26.0,2.5,0.53,-0.54,-1.8,-1.0,1.5,bed|0.24|-0.4
+7,15,47,1,"I believe that it will be quite interesting, now that I come to think of it.”",16,1.0,173.2,176.88,4.35,-22.92,12.65,6.87,25.7,-2.23,0.13,3.66,-11.0,0.0,0.0,
+7,16,48,1,"“You must kneel down,” said Marilla in embarrassment.",8,1.0,176.88,179.84,2.7,-21.04,10.95,4.86,-22.0,-0.35,-1.57,1.66,-1.5,-2.8,-1.2,
+7,17,49,0,Anne knelt at Marilla’s knee and looked up gravely.,9,0.89,180.58,183.12,3.54,-21.07,12.25,3.33,2.3,-0.38,-0.27,0.12,-1.1,-2.3,-0.15,at|0.44|-1.9
+7,18,50,1,“Why must people kneel down to pray?,7,1.0,183.7,185.52,3.85,-18.98,12.55,4.84,11.3,1.71,0.03,1.63,-0.6,-1.3,0.8,
+7,18,51,1,If I really wanted to pray I’ll tell you what I’d do.,12,0.83,185.94,188.72,4.32,-20.04,13.35,4.48,24.9,0.65,0.83,1.28,-3.25,-2.1,-1.9,"pray,|0.40|+2.0 what|0.26|-1.8"
+7,18,52,1,"I’d go out into a great big field all alone or into the deep, deep woods, and I’d look up into the sky—up—up—up—into that lovely blue sky that looks as if there was no end to its blueness.",38,0.92,189.42,201.76,3.08,-22.06,14.45,3.32,-11.0,-1.37,1.93,0.11,-2.7,-2.8,-1.45,"alone,|0.42|+1.3 deep,|0.34|-1.6 woods,|0.30|+0.2 the|2.56|-2.1"
+7,18,53,1,And then I’d just feel a prayer.,7,0.86,202.2,204.3,3.33,-22.05,14.05,2.7,-3.8,-1.36,1.53,-0.5,-3.8,-8.2,-7.2,then|0.28|+nan
+7,18,54,1,"Well, I’m ready.",3,0.67,,,,,,,,,,,,,,
+7,18,55,1,What am I to say?”,5,1.0,206.92,208.66,2.87,-36.78,1.65,6.67,-17.1,-16.1,-10.87,3.46,0.0,0.0,0.0,
+7,19,56,0,Marilla felt more embarrassed than ever.,6,1.0,209.18,210.92,3.45,-15.6,13.05,1.64,-0.3,5.09,0.53,-1.57,-1.7,-3.7,-0.3,
+7,19,57,0,"She had intended to teach Anne the childish classic, “Now I lay me down to sleep.”",16,1.0,211.36,215.64,3.74,-19.77,13.55,2.86,8.1,0.92,1.03,-0.35,-2.75,-1.9,-1.9,"classic,|0.44|-0.2"
+7,19,58,0,"But she had, as I have told you, the glimmerings of a sense of humor—which is simply another name for a sense of the fitness of things; and it suddenly occurred to her that that simple little prayer, sacred to white-robed childhood lisping at motherly knees, was entirely unsuited to this freckled witch of a girl who knew and cared nothing about God’s love, since she had never had it translated to her through the medium of human love.",80,0.95,215.94,239.02,3.47,-21.08,12.35,4.23,0.3,-0.39,-0.17,1.03,1.2,-5.7,-1.5,"you,|0.26|+5.6 of|0.60|+3.9 things.|0.68|+nan prayer,|0.40|+nan knees,|0.44|+1.9 about|0.42|+nan love,|0.38|+nan"
+7,20,59,1,"“You’re old enough to pray for yourself, Anne,” she said finally.",11,0.91,240.62,243.46,3.87,-22.02,14.95,1.44,11.8,-1.33,2.43,-1.76,-1.5,-3.3,-2.4,
+7,20,60,1,“Just thank God for your blessings and ask Him humbly for the things you want.”,15,1.0,243.92,248.22,3.49,-24.65,12.65,5.01,0.9,-3.96,0.13,1.8,-11.0,0.0,0.0,
+7,21,61,1,"“Well, I’ll do my best,” promised Anne, burying her face in Marilla’s lap.",13,0.85,248.22,253.24,2.59,-22.54,10.15,5.19,-25.1,-1.85,-2.37,1.99,0.2,-1.1,-0.3,"""'Well,|0.44|+1.1 Anne,|0.36|+nan in|0.40|+0.1"
+7,21,62,1,"“Gracious heavenly Father—that’s the way the ministers say it in church, so I suppose it’s all right in private prayer, isn’t it?” she interjected, lifting her head for a moment.",30,0.87,254.04,262.68,3.47,-22.09,13.15,4.73,0.3,-1.4,0.63,1.53,3.5,-0.4,7.0,"Heavenly|1.54|-1.2 suppose|0.24|-3.2 prayer,|0.26|+8.3 interjected,|0.24|+nan"
+7,21,63,1,"“Gracious heavenly Father, I thank Thee for the White Way of Delight and the Lake of Shining Waters and Bonny and the Snow Queen.",24,0.92,263.5,270.24,3.56,-21.1,13.6,2.86,2.9,-0.41,1.08,-0.35,-1.05,-2.2,-0.5,"Father,|0.40|+nan of|0.26|+1.1 and|0.24|+1.5"
+7,21,64,1,I’m really extremely grateful for them.,6,0.83,271.02,272.64,3.7,-18.74,13.35,3.16,6.9,1.95,0.83,-0.04,-3.7,-3.7,-3.3,
+7,21,65,1,And that’s all the blessings I can think of just now to thank Thee for.,15,0.93,273.1,276.2,4.84,-22.77,12.55,2.03,39.9,-2.08,0.03,-1.18,-1.5,-1.0,0.0,And|0.36|-0.5
+7,21,66,1,"As for the things I want, they’re so numerous that it would take a great deal of time to name them all, so I will only mention the two most important.",31,0.97,276.62,284.32,4.03,-19.9,13.25,3.89,16.5,0.79,0.73,0.68,-2.1,-2.9,-2.0,"want,|0.88|+4.5 all,|0.24|+7.3"
+7,21,67,1,Please let me stay at Green Gables; and please let me be good-looking when I grow up.,18,1.0,284.88,288.84,4.55,-21.34,12.75,2.59,31.5,-0.65,0.23,-0.62,-2.3,-1.1,-0.3,"Gables,|0.58|+3.3"
+7,21,68,1,"I remain,",2,1.0,289.28,289.88,3.33,-17.58,13.4,4.96,-3.8,3.11,0.88,1.76,0.95,-0.3,12.9,
+7,22,69,1,"“Yours respectfully, Anne Shirley.",4,0.5,,,,,,,,,,,,,,
+7,23,70,1,"“There, did I do all right?” she asked eagerly, getting up.",11,1.0,292.66,296.1,3.2,-20.82,13.75,6.04,-7.5,-0.13,1.23,2.84,-3.05,-2.1,-1.4,"""'There!|0.40|+15.9 eagerly,|0.26|-3.9"
+7,23,71,1,“I could have made it much more flowery if I’d had a little more time to think it over.”,19,0.95,296.1,300.54,4.28,-21.49,11.95,5.37,23.7,-0.8,-0.57,2.16,-10.3,0.0,0.0,
+7,24,72,0,"Poor Marilla was only preserved from complete collapse by remembering that it was not irreverence, but simply spiritual ignorance on the part of Anne that was responsible for this extraordinary petition.",31,1.0,300.54,310.08,3.25,-20.84,13.35,2.64,-6.1,-0.15,0.83,-0.56,-4.05,-6.0,-5.4,"irreverence,|0.22|+3.9"
+7,24,73,0,"She tucked the child up in bed, mentally vowing that she should be taught a prayer the very next day, and was leaving the room with the light when Anne called her back.",33,1.0,310.9,318.74,4.21,-19.37,12.65,3.08,21.7,1.32,0.13,-0.12,-11.0,-10.9,-10.0,"bed,|0.24|+2.5 day,|0.38|+nan"
+7,25,74,1,“I’ve just thought of it now.,6,0.83,319.96,320.78,7.32,-17.64,14.55,1.93,111.6,3.05,2.03,-1.28,-0.25,-7.4,-6.2,
+7,25,75,1,"I should have said ‘Amen’ in place of ‘yours respectfully,’ shouldn’t I?—the way the ministers do.",17,0.94,321.04,325.9,3.5,-21.95,13.95,4.07,1.2,-1.26,1.43,0.87,1.75,-0.6,0.3,"respectfully,|0.36|-4.1 I?|0.32|+4.2"
+7,25,76,1,"I’d forgotten it, but I felt a prayer should be finished off in some way, so I put in the other.",21,0.95,326.74,330.86,5.1,-20.74,14.05,2.18,47.4,-0.05,1.53,-1.02,-0.45,-2.2,0.35,it.|0.30|+5.9
+7,25,77,1,Do you suppose it will make any difference?”,8,1.0,331.32,333.44,3.77,-24.2,15.45,7.15,9.0,-3.51,2.93,3.94,-13.8,-17.5,-15.6,
+7,26,78,1,"“I—I don’t suppose it will,” said Marilla.",7,0.86,334.2,336.38,3.21,-21.97,11.65,5.43,-7.2,-1.28,-0.87,2.22,-2.5,-4.3,7.4,"""'I—I|0.30|+12.4"
+7,26,79,1,“Go to sleep now like a good child.,8,1.0,336.72,338.38,4.82,-22.95,13.65,2.88,39.3,-2.26,1.13,-0.33,-3.65,-7.4,-7.4,
+7,26,80,1,Good night.”,2,1.0,338.82,339.92,1.82,-39.82,1.65,0.1,-47.4,-19.13,-10.87,-3.1,0.0,-0.7,0.0,
+7,27,81,1,"“I can say good night tonight with a clear conscience,” said Anne, cuddling luxuriously down among her pillows.",18,1.0,339.92,345.38,3.3,-22.15,11.95,4.57,-4.6,-1.46,-0.57,1.37,-0.8,-3.8,-0.2,
+7,28,82,0,"Marilla retreated to the kitchen, set the candle firmly on the table, and glared at Matthew.",16,1.0,346.22,350.88,3.43,-21.83,12.95,4.03,-0.9,-1.14,0.43,0.83,-2.55,-3.1,-1.5,"kitchen,|0.30|-0.6"
+7,29,83,1,"“Matthew Cuthbert, it’s about time somebody adopted that child and taught her something.",13,0.92,351.58,355.58,3.25,-20.39,11.85,2.63,-6.1,0.3,-0.67,-0.58,-0.25,-2.2,-0.15,"Cuthbert,|0.52|+nan"
+7,29,84,1,She’s next door to a perfect heathen.,7,0.86,356.26,357.68,4.93,-20.79,17.55,2.6,42.5,-0.1,5.03,-0.6,0.7,-3.3,7.0,
+7,29,85,1,Will you believe that she never said a prayer in her life till tonight?,14,1.0,358.04,360.6,5.47,-17.26,16.65,3.96,58.1,3.43,4.12,0.75,0.3,-4.5,7.9,
+7,29,86,1,"I’ll send to the manse tomorrow and borrow the Peep of the Day series, that’s what I’ll do.",18,0.67,,,,,,,,,,,,,,
+7,29,87,1,And she shall go to Sunday-school just as soon as I can get some suitable clothes made for her.,20,0.95,365.62,369.5,5.15,-18.89,13.75,2.31,48.8,1.8,1.23,-0.9,-0.35,-4.7,-1.0,
+7,29,88,1,I foresee that I shall have my hands full.,9,1.0,369.92,371.78,4.84,-18.72,12.15,3.97,39.9,1.97,-0.37,0.77,-3.9,-7.0,-6.8,
+7,29,89,1,"Well, well, we can’t get through this world without our share of trouble.",13,0.92,372.24,375.5,3.99,-16.8,14.25,2.74,15.3,3.89,1.73,-0.46,-0.3,-0.4,0.9,"well,|0.36|+nan we|0.30|+6.1"
+7,29,90,1,"I’ve had a pretty easy life of it so far, but my time has come at last and I suppose I’ll just have to make the best of it.”",29,0.93,376.3,383.66,3.94,-22.06,10.35,5.76,13.9,-1.37,-2.17,2.55,-8.7,0.0,0.0,suppose|0.36|+nan
