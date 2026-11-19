@@ -1,245 +1,245 @@
-chapter,para,sent,dialogue,text,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
-14,0,0,0,ON the Monday evening before the picnic Marilla came down from her room with a troubled face.,17,1.0,23.96,28.54,3.71,-32.26,13.25,3.71,1.2,-0.71,0.4,0.48,-3.25,-4.8,-1.3,
-14,1,1,1,"“Anne,” she said to that small personage, who was shelling peas by the spotless table and singing, “Nelly of the Hazel Dell” with a vigor and expression that did credit to Diana’s teaching, “did you see anything of my amethyst brooch?",41,0.98,29.14,42.04,3.18,-34.46,12.05,4.48,-13.2,-2.91,-0.8,1.25,0.0,-2.7,-0.2,"Anne,|0.34|+0.0 to|0.44|+nan teaching.|0.48|+nan"
-14,1,2,1,"I thought I stuck it in my pincushion when I came home from church yesterday evening, but I can’t find it anywhere.”",22,0.95,42.38,48.68,3.49,-34.3,11.85,5.58,-4.8,-2.75,-1.0,2.35,-10.2,0.0,0.0,"evening,|0.38|+1.2 I|0.30|-2.8"
-14,2,3,1,"“I—I saw it this afternoon when you were away at the Aid Society,” said Anne, a little slowly.",18,1.0,49.56,54.26,3.83,-33.14,11.85,4.83,4.5,-1.59,-1.0,1.6,-1.0,-1.3,0.0,
-14,2,4,1,"“I was passing your door when I saw it on the cushion, so I went in to look at it.”",20,1.0,54.9,59.42,4.42,-34.02,12.95,5.36,20.6,-2.48,0.1,2.13,-11.3,0.0,0.0,
-14,3,5,1,“Did you touch it?” said Marilla sternly.,7,1.0,59.42,61.86,2.87,-35.94,1.65,3.89,-21.7,-4.39,-11.2,0.66,8.2,-1.5,7.4,
-14,4,6,1,"“Y-e-e-s,” admitted Anne, “I took it up and I pinned it on my breast just to see how it would look.”",24,0.79,,,,,,,,,,,,,,
-14,5,7,1,“You had no business to do anything of the sort.,10,1.0,68.92,71.1,4.59,-32.28,13.15,6.32,25.2,-0.73,0.3,3.09,1.0,-2.0,2.9,
-14,5,8,1,It’s very wrong in a little girl to meddle.,9,0.89,71.86,73.62,5.11,-32.2,11.35,3.45,39.4,-0.66,-1.5,0.22,-9.7,-11.1,-7.2,
-14,5,9,1,You shouldn’t have gone into my room in the first place and you shouldn’t have touched a brooch that didn’t belong to you in the second.,26,0.88,73.98,78.94,5.24,-31.6,13.15,3.38,43.0,-0.05,0.3,0.15,-2.0,-1.9,-1.8,You|0.28|+4.7 you|0.30|+0.0 that|0.26|+1.9
-14,5,10,1,Where did you put it?”,5,1.0,79.48,80.74,3.97,-38.65,15.4,7.87,8.3,-7.1,2.55,4.64,-13.75,0.0,0.0,
-14,6,11,1,"“Oh, I put it back on the bureau.",8,1.0,80.74,82.06,6.06,-29.26,15.9,6.18,65.3,2.28,3.05,2.95,4.65,-1.0,5.5,
-14,6,12,1,I hadn’t it on a minute.,6,0.83,82.44,83.6,5.17,-27.48,15.45,2.67,41.1,4.07,2.6,-0.56,-1.25,-2.7,-2.5,I|0.30|+nan
-14,6,13,1,"Truly, I didn’t mean to meddle, Marilla.",7,0.86,84.1,85.8,4.12,-30.08,12.9,4.22,12.4,1.47,0.05,0.99,-3.95,-7.2,-3.3,I|0.22|-2.2
-14,6,14,1,I didn’t think about its being wrong to go in and try on the brooch; but I see now that it was and I’ll never do it again.,28,0.93,86.18,91.54,5.22,-29.54,13.2,4.26,42.4,2.01,0.35,1.03,-1.45,-6.0,-2.7,"I|0.28|+16.4 brooch,|0.22|+4.3"
-14,6,15,1,That’s one good thing about me.,6,0.67,,,,,,,,,,,,,,
-14,6,16,1,I never do the same naughty thing twice.”,8,0.88,93.44,95.56,3.77,-33.81,13.85,5.55,2.9,-2.27,1.0,2.32,-12.2,0.0,0.0,
-14,7,17,1,"“You didn’t put it back,” said Marilla.",7,0.86,95.56,97.82,3.1,-36.71,1.65,3.47,-15.4,-5.16,-11.2,0.24,7.55,-0.7,-0.1,"""'You|0.38|+nan"
-14,7,18,1,“That brooch isn’t anywhere on the bureau.,7,0.86,98.1,99.86,3.98,-27.59,15.05,3.71,8.6,3.96,2.2,0.48,-0.2,-2.9,-2.9,brooch|0.34|+1.0
-14,7,19,1,"You’ve taken it out or something, Anne.”",7,0.86,100.6,102.24,4.27,-31.48,13.75,7.62,16.5,0.07,0.9,4.39,-12.1,0.0,0.0,
-14,8,20,1,"“I did put it back,” said Anne quickly—pertly, Marilla thought.",10,0.9,102.24,105.78,2.82,-37.01,9.75,9.33,-23.1,-5.46,-3.1,6.1,-0.15,-11.6,-10.2,Anne|1.24|+nan
-14,8,21,1,“I don’t just remember whether I stuck it on the pincushion or laid it in the china tray.,18,0.94,106.24,110.78,3.96,-30.28,16.35,4.63,8.0,1.27,3.5,1.4,1.3,-1.7,0.1,just|0.58|-5.9
-14,8,22,1,But I’m perfectly certain I put it back.”,8,0.88,111.06,113.38,3.45,-34.81,13.65,7.35,-5.9,-3.27,0.8,4.12,-12.0,0.0,0.0,but|0.20|+19.3
-14,9,23,1,"“I’ll go and have another look,” said Marilla, determining to be just.",12,0.92,114.0,117.1,3.87,-31.22,14.45,3.33,5.6,0.33,1.6,0.1,-12.8,-0.3,0.0,"Marilla,|0.30|+nan"
-14,9,24,1,“If you put that brooch back it’s there still.,9,0.89,117.48,119.52,4.41,-32.25,15.55,4.13,20.3,-0.7,2.7,0.9,-3.6,-4.4,-3.7,"back,|0.24|-3.6"
-14,9,25,1,"If it isn’t I’ll know you didn’t, that’s all!”",9,0.56,,,,,,,,,,,,,,
-14,10,26,0,"Marilla went to her room and made a thorough search, not only over the bureau but in every other place she thought the brooch might possibly be.",27,1.0,123.32,129.9,4.1,-29.24,14.25,2.2,11.9,2.31,1.4,-1.03,1.45,-0.9,2.0,"search,|0.22|+nan"
-14,10,27,0,It was not to be found and she returned to the kitchen.,12,1.0,130.4,133.12,4.41,-33.16,12.85,5.46,20.3,-1.61,0.0,2.23,-10.9,0.0,0.0,
-14,11,28,1,"“Anne, the brooch is gone.",5,1.0,134.32,135.8,3.38,-29.48,14.6,5.07,-7.8,2.07,1.75,1.84,-0.05,-2.7,-2.4,
-14,11,29,1,By your own admission you were the last person to handle it.,12,1.0,136.1,138.8,4.44,-30.47,12.65,4.73,21.1,1.08,-0.2,1.5,-11.0,-12.2,-10.6,
-14,11,30,1,"Now, what have you done with it?",7,1.0,139.08,140.44,5.15,-29.98,14.05,4.07,40.5,1.57,1.2,0.84,-0.4,-7.1,-6.7,
-14,11,31,1,Tell me the truth at once.,6,1.0,140.74,141.72,6.12,-29.94,16.85,3.29,67.0,1.61,4.0,0.06,0.5,-2.6,3.0,
-14,11,32,1,Did you take it out and lose it?”,8,1.0,142.1,143.96,4.3,-31.01,13.15,6.09,17.3,0.54,0.3,2.86,-11.5,0.0,0.0,
-14,12,33,1,"“No, I didn’t,” said Anne solemnly, meeting Marilla’s angry gaze squarely.",11,0.82,143.96,148.42,2.47,-31.54,11.65,4.28,-32.6,0.01,-1.2,1.05,0.8,-1.4,0.6,"I|0.52|-2.5 solemnly,|0.30|+3.3 meeting|0.48|-0.7"
-14,12,34,1,"“I never took the brooch out of your room and that is the truth, if I was to be led to the block for it—although I’m not very certain what a block is.",33,0.97,149.04,155.68,4.97,-29.31,14.55,4.69,35.6,2.24,1.7,1.46,-2.65,-2.4,-1.8,it—although|0.26|+1.0
-14,12,35,1,"So there, Marilla.”",3,1.0,156.02,157.58,1.92,-34.36,1.7,7.69,-47.6,-2.81,-11.15,4.46,-0.05,-1.1,0.0,"there,|0.60|-16.4"
-14,13,36,0,"Anne’s “so there” was only intended to emphasize her assertion, but Marilla took it as a display of defiance.",19,0.95,158.6,163.82,3.64,-30.81,13.15,2.1,-0.7,0.74,0.3,-1.13,-0.2,-3.3,-1.3,"assertion,|0.20|+nan"
-14,14,37,1,"“I believe you are telling me a falsehood, Anne,” she said sharply.",12,1.0,164.6,167.6,4.0,-30.01,13.45,5.07,9.1,1.54,0.6,1.84,1.5,-2.5,-1.1,
-14,14,38,1,“I know you are.,4,1.0,167.84,168.84,4.0,-29.5,10.35,5.75,9.1,2.05,-2.5,2.52,-2.0,-15.2,-13.5,
-14,14,39,1,"There now, don’t say anything more unless you are prepared to tell the whole truth.",15,0.93,169.34,172.8,4.34,-28.01,13.95,3.37,18.4,3.54,1.1,0.14,0.0,-0.6,0.9,"now,|0.38|-0.3"
-14,14,40,1,Go to your room and stay there until you are ready to confess.”,13,1.0,173.24,175.98,4.74,-29.48,14.35,4.93,29.3,2.07,1.5,1.7,-12.7,-0.2,0.0,
-14,15,41,1,“Will I take the peas with me?” said Anne meekly.,10,1.0,175.98,178.78,3.57,-35.27,14.05,5.82,-2.6,-3.73,1.2,2.59,-2.05,-5.2,-2.0,
-14,16,42,1,"“No, I’ll finish shelling them myself.",6,0.83,179.18,180.74,3.85,-28.28,14.45,4.55,5.0,3.27,1.6,1.32,0.15,-1.2,0.2,"""'No,|0.26|+12.8"
-14,16,43,1,Do as I bid you.”,5,1.0,181.14,182.42,3.91,-36.37,1.65,6.31,6.7,-4.82,-11.2,3.08,0.0,0.0,0.0,
-14,17,44,0,When Anne had gone Marilla went about her evening tasks in a very disturbed state of mind.,17,1.0,182.84,187.4,3.73,-30.62,12.75,1.99,1.8,0.93,-0.1,-1.24,-2.65,-2.0,-0.4,"gone,|0.32|+1.4"
-14,17,45,0,She was worried about her valuable brooch.,7,1.0,187.92,189.9,3.54,-28.46,12.55,3.82,-3.4,3.09,-0.3,0.59,0.2,-2.5,-0.5,
-14,17,46,0,What if Anne had lost it?,6,1.0,190.24,191.42,5.08,-30.96,16.65,6.55,38.6,0.59,3.8,3.32,11.2,0.0,14.5,
-14,17,47,0,"And how wicked of the child to deny having taken it, when anybody could see she must have!",18,1.0,191.72,196.26,3.96,-30.96,15.85,3.56,8.0,0.59,3.0,0.33,0.0,-6.9,-3.6,
-14,17,48,0,"With such an innocent face, too!",6,1.0,196.58,198.16,3.8,-32.47,18.4,6.11,3.7,-0.92,5.55,2.88,3.3,-8.0,-2.6,
-14,18,49,1,"“I don’t know what I wouldn’t sooner have had happen,” thought Marilla, as she nervously shelled the peas.",18,0.89,198.86,203.34,4.02,-29.96,12.05,3.69,9.7,1.59,-0.8,0.46,-1.15,-2.0,-0.2,"""'I|0.26|+12.6 I|0.24|+0.2"
-14,18,50,1,"“Of course, I don’t suppose she meant to steal it or anything like that.",14,0.93,203.84,207.06,4.35,-31.85,12.95,4.97,18.7,-0.3,0.1,1.74,-3.35,-3.6,-2.4,I|0.22|-3.2
-14,18,51,1,She’s just taken it to play with or help along that imagination of hers.,14,0.93,207.66,210.68,4.64,-29.9,12.45,1.69,26.6,1.65,-0.4,-1.54,2.5,-0.2,3.9,
-14,18,52,1,"She must have taken it, that’s clear, for there hasn’t been a soul in that room since she was in it, by her own story, until I went up tonight.",30,0.9,211.14,216.9,5.21,-30.82,12.65,4.06,42.2,0.73,-0.2,0.83,-1.05,-2.1,0.5,"it,|0.30|+nan clear,|0.30|-12.7 there|0.30|-2.7"
-14,18,53,1,"And the brooch is gone, there’s nothing surer.",8,0.88,217.56,219.96,3.33,-33.47,10.35,6.26,-9.1,-1.92,-2.5,3.03,2.9,-0.2,11.8,gone.|0.60|+nan
-14,18,54,1,I suppose she has lost it and is afraid to own up for fear she’ll be punished.,17,0.94,220.34,223.68,5.09,-30.97,13.15,1.18,38.9,0.58,0.3,-2.05,-0.45,-1.1,-0.8,fear|0.22|+nan
-14,18,55,1,It’s a dreadful thing to think she tells falsehoods.,9,0.89,224.52,226.74,4.05,-34.61,,,10.5,-3.06,,,,,,
-14,18,56,1,It’s a far worse thing than her fit of temper.,10,0.9,227.18,228.68,6.67,-29.55,14.05,2.35,82.0,2.0,1.2,-0.88,2.9,-0.4,4.2,
-14,18,57,1,It’s a fearful responsibility to have a child in your house you can’t trust.,14,0.86,229.5,232.54,4.61,-32.82,11.15,1.74,25.8,-1.27,-1.7,-1.49,-1.05,-3.1,-1.8,you|0.28|+nan
-14,18,58,1,Slyness and untruthfulness—that’s what she has displayed.,7,0.86,233.24,235.94,2.59,-34.39,13.95,2.14,-29.3,-2.84,1.1,-1.09,-3.85,-0.6,-0.1,and|1.36|+nan
-14,18,59,1,I declare I feel worse about that than about the brooch.,11,1.0,236.42,239.24,3.9,-30.65,12.05,4.42,6.4,0.9,-0.8,1.19,3.8,-0.2,4.8,
-14,18,60,1,If she’d only have told the truth about it I wouldn’t mind so much.”,14,0.86,239.82,243.46,3.85,-32.68,14.55,6.91,5.0,-1.13,1.7,3.68,-12.9,0.0,0.0,If|0.20|+3.4
-14,19,61,0,"Marilla went to her room at intervals all through the evening and searched for the brooch, without finding it.",19,1.0,243.46,248.12,4.08,-32.01,12.45,2.8,11.3,-0.46,-0.4,-0.43,-2.9,-11.3,-10.3,
-14,19,62,0,A bedtime visit to the east gable produced no result.,10,1.0,248.54,251.32,3.6,-32.29,11.95,4.38,-1.8,-0.74,-0.9,1.15,-0.85,-3.6,-3.1,
-14,19,63,0,Anne persisted in denying that she knew anything about the brooch but Marilla was only the more firmly convinced that she did.,22,1.0,252.0,257.66,3.89,-31.22,12.45,1.52,6.1,0.33,-0.4,-1.71,-0.2,-2.6,0.8,
-14,20,64,0,She told Matthew the story the next morning.,8,1.0,258.4,260.34,4.12,-31.75,12.55,2.57,12.4,-0.2,-0.3,-0.66,-2.55,-3.5,-0.6,
-14,20,65,0,Matthew was confounded and puzzled; he could not so quickly lose faith in Anne but he had to admit that circumstances were against her.,24,1.0,260.82,267.64,3.52,-33.58,13.35,3.68,-4.0,-2.03,0.5,0.45,-11.7,-8.4,-8.2,"puzzled.|0.46|+3.9 Anne,|0.20|+3.9"
-14,21,66,1,“You’re sure it hasn’t fell down behind the bureau?” was the only suggestion he could offer.,16,0.88,268.62,272.06,4.65,-33.57,16.75,3.68,26.9,-2.02,3.9,0.45,-6.9,-2.1,-2.05,it|0.26|-3.2
-14,22,67,1,“I’ve moved the bureau and I’ve taken out the drawers and I’ve looked in every crack and cranny” was Marilla’s positive answer.,22,0.82,273.04,279.18,3.58,-31.66,14.15,4.1,-2.3,-0.11,1.3,0.87,-5.5,-5.8,-4.9,and|0.22|+2.2 was|0.44|+11.1
-14,22,68,1,“The brooch is gone and that child has taken it and lied about it.,14,1.0,279.56,282.88,4.22,-30.52,14.75,4.54,15.1,1.03,1.9,1.31,2.1,-0.2,2.2,
-14,22,69,1,"That’s the plain, ugly truth, Matthew Cuthbert, and we might as well look it in the face.”",17,0.94,283.28,287.7,3.85,-33.84,13.5,5.36,5.0,-2.3,0.65,2.13,-11.85,0.0,0.0,
-14,23,70,1,"“Well now, what are you going to do about it?”",10,1.0,287.7,290.52,3.55,-37.16,10.35,7.15,-3.1,-5.61,-2.5,3.92,-8.7,-17.1,-15.7,now?|0.48|-0.8
-14,23,71,0,"Matthew asked forlornly, feeling secretly thankful that Marilla and not he had to deal with the situation.",17,1.0,290.52,295.68,3.29,-33.45,10.9,2.77,-10.2,-1.91,-1.95,-0.46,-1.05,-2.1,-0.2,"forlornly,|0.20|+5.6"
-14,23,72,0,He felt no desire to put his oar in this time.,11,1.0,296.3,298.74,4.51,-31.57,11.45,2.42,23.1,-0.02,-1.4,-0.81,-1.55,-0.5,0.0,
-14,24,73,1,"“She’ll stay in her room until she confesses,” said Marilla grimly, remembering the success of this method in the former case.",21,0.95,299.56,305.06,3.82,-34.33,11.25,2.33,4.2,-2.78,-1.6,-0.9,-1.9,-2.3,-0.65,"grimly,|0.30|+3.6"
-14,24,74,1,“Then we’ll see.,3,0.67,,,,,,,,,,,,,,
-14,24,75,1,"Perhaps we’ll be able to find the brooch if she’ll only tell where she took it; but in any case she’ll have to be severely punished, Matthew.”",27,0.89,306.96,314.22,3.72,-33.18,11.75,4.61,1.5,-1.63,-1.1,1.38,-10.1,0.0,0.0,"Perhaps|0.28|-2.6 it.|0.38|+nan case,|0.40|+nan"
-14,25,76,1,"“Well now, you’ll have to punish her,” said Matthew, reaching for his hat.",13,0.92,314.22,317.48,3.99,-34.96,11.45,4.86,8.9,-3.41,-1.4,1.63,-2.1,-0.5,-0.2,now|0.32|-1.5
-14,25,77,1,"“I’ve nothing to do with it, remember.",7,0.86,318.2,319.26,6.6,-31.13,10.55,1.45,80.1,0.42,-2.3,-1.78,-0.65,-3.2,-0.6,
-14,25,78,1,You warned me off yourself.”,5,0.8,319.64,321.46,2.75,-39.63,1.65,5.54,-25.0,-8.09,-11.2,2.31,0.0,-0.6,0.0,
-14,26,79,0,Marilla felt deserted by everyone.,5,1.0,322.06,323.66,3.12,-27.64,12.55,1.36,-14.9,3.91,-0.3,-1.87,-2.55,-2.4,-1.5,
-14,26,80,0,She could not even go to Mrs. Lynde for advice.,10,1.0,324.12,326.24,4.72,-30.06,13.35,3.31,28.8,1.49,0.5,0.08,-3.6,-4.6,-3.9,Mrs.|0.22|+0.9
-14,26,81,0,She went up to the east gable with a very serious face and left it with a face more serious still.,21,1.0,326.96,331.96,4.2,-30.69,12.65,2.95,14.6,0.86,-0.2,-0.28,-2.45,-4.8,-4.7,"face,|0.32|+nan"
-14,26,82,0,Anne steadfastly refused to confess.,5,1.0,332.6,334.62,2.48,-32.67,13.35,1.39,-32.3,-1.12,0.5,-1.84,-2.65,-4.2,-1.8,
-14,26,83,0,She persisted in asserting that she had not taken the brooch.,11,1.0,335.08,337.86,3.96,-32.62,13.05,2.21,8.0,-1.07,0.2,-1.02,-0.85,-3.1,-3.0,
-14,26,84,0,The child had evidently been crying and Marilla felt a pang of pity which she sternly repressed.,17,1.0,338.34,343.0,3.65,-33.07,13.35,3.05,-0.4,-1.52,0.5,-0.18,-2.95,-3.7,-3.4,
-14,26,85,0,"By night she was, as she expressed it, “beat out.”",10,1.0,343.76,346.54,3.6,-30.08,13.75,5.42,-1.8,1.47,0.9,2.19,-12.1,-9.6,-9.3,"it,|0.24|-9.2"
-14,27,86,1,"“You’ll stay in this room until you confess, Anne.",9,0.89,347.66,349.62,4.59,-29.65,15.65,1.94,25.2,1.9,2.8,-1.29,-0.4,-1.5,1.3,
-14,27,87,1,"You can make up your mind to that,” she said firmly.",11,1.0,349.86,352.36,4.4,-31.83,13.55,2.86,20.1,-0.28,0.7,-0.37,0.4,-0.4,1.2,
-14,28,88,1,"“But the picnic is tomorrow, Marilla,” cried Anne.",8,1.0,352.82,355.58,2.9,-30.21,13.85,6.94,-20.9,1.34,1.0,3.71,3.6,-1.2,10.0,
-14,28,89,1,"“You won’t keep me from going to that, will you?",10,0.9,355.58,357.88,4.35,-31.82,15.35,3.43,18.7,-0.27,2.5,0.2,0.35,-0.9,9.9,"""'You|0.22|+1.2"
-14,28,90,1,"You’ll just let me out for the afternoon, won’t you?",10,0.8,358.56,360.44,5.32,-29.51,15.85,3.12,45.2,2.04,3.0,-0.11,2.4,-0.7,-0.2,"afternoon,|0.30|+4.1"
-14,28,91,1,Then I’ll stay here as long as you like afterwards cheerfully.,11,0.91,360.74,363.44,4.07,-28.95,15.2,3.05,11.1,2.6,2.35,-0.18,-3.45,-10.1,-9.1,"afterwards,|0.26|+nan"
-14,28,92,1,But I must go to the picnic.”,7,1.0,363.84,365.76,3.65,-35.14,13.45,7.6,-0.4,-3.59,0.6,4.37,-11.8,0.0,0.0,
-14,29,93,1,"“You’ll not go to picnics nor anywhere else until you’ve confessed, Anne.”",12,0.83,366.12,369.12,4.0,-30.29,14.7,2.89,9.1,1.26,1.85,-0.34,-0.65,-1.7,3.0,"until|0.22|+3.2 confessed,|0.36|+nan"
-14,30,94,1,"“Oh, Marilla,” gasped Anne.",4,1.0,370.12,371.78,2.41,-33.4,10.4,8.56,-34.2,-1.85,-2.45,5.33,-0.15,-0.6,-0.1,
-14,31,95,0,But Marilla had gone out and shut the door.,9,1.0,372.42,374.48,4.37,-27.67,14.4,4.34,19.2,3.88,1.55,1.11,-0.95,-4.5,-3.2,
-14,32,96,0,Wednesday morning dawned as bright and fair as if expressly made to order for the picnic.,16,1.0,375.48,379.72,3.77,-30.1,13.0,1.42,2.9,1.45,0.15,-1.81,-0.45,-4.1,-3.2,
-14,32,97,0,"Birds sang around Green Gables; the Madonna lilies in the garden sent out whiffs of perfume that entered in on viewless winds at every door and window, and wandered through halls and rooms like spirits of benediction.",37,0.95,380.4,391.14,3.45,-31.81,12.65,1.22,-5.9,-0.26,-0.2,-2.01,0.15,-0.5,0.5,"gables.|0.36|+2.3 in|0.56|+1.0 window,|0.34|+1.5"
-14,32,98,0,The birches in the hollow waved joyful hands as if watching for Anne’s usual morning greeting from the east gable.,20,0.95,391.8,397.62,3.44,-32.47,12.95,1.99,-6.1,-0.92,0.1,-1.24,-1.1,-0.9,0.5,for|0.38|+1.2
-14,32,99,0,But Anne was not at her window.,7,1.0,398.18,399.64,4.79,-31.48,13.45,4.9,30.7,0.07,0.6,1.67,-2.7,-4.8,-3.9,
-14,32,100,0,"When Marilla took her breakfast up to her she found the child sitting primly on her bed, pale and resolute, with tight-shut lips and gleaming eyes.",27,1.0,400.22,407.94,3.5,-33.06,12.55,4.25,-4.5,-1.52,-0.3,1.02,-2.4,-3.3,-2.8,"her,|0.24|+4.2 bed,|0.34|+1.2 resolute,|0.38|+nan"
-14,33,101,1,"“Marilla, I’m ready to confess.”",5,0.8,408.7,411.2,2.0,-40.02,12.5,6.79,-45.4,-8.48,-0.35,3.56,-10.85,0.0,0.0,"""'Marilla,|0.72|+0.1"
-14,34,102,1,“Ah!”,1,1.0,,,,,,,,,,,,,,
-14,34,103,0,Marilla laid down her tray.,5,1.0,412.32,413.56,4.03,-29.3,11.0,1.01,10.0,2.25,-1.85,-2.22,0.75,-4.1,-0.9,
-14,34,104,0,Once again her method had succeeded; but her success was very bitter to her.,14,1.0,413.98,418.28,3.26,-35.04,12.25,4.42,-11.1,-3.49,-0.6,1.19,-1.6,-3.7,-1.65,succeeded.|0.46|+nan
-14,34,105,1,"“Let me hear what you have to say then, Anne.”",10,1.0,418.78,421.3,3.97,-34.64,1.9,5.75,8.3,-3.09,-10.95,2.52,-0.25,0.0,0.0,
-14,35,106,1,"“I took the amethyst brooch,” said Anne, as if repeating a lesson she had learned.",15,1.0,421.3,425.7,3.41,-35.73,11.05,5.34,-7.0,-4.18,-1.8,2.11,-1.35,-0.5,-0.2,
-14,35,107,1,“I took it just as you said.,7,1.0,425.96,427.5,4.55,-32.37,15.15,6.0,24.1,-0.82,2.3,2.77,1.4,-0.2,1.9,
-14,35,108,1,I didn’t mean to take it when I went in.,10,0.9,427.78,429.84,4.85,-30.89,13.2,5.04,32.3,0.66,0.35,1.81,-2.5,-1.4,-1.4,I|0.28|+2.0
-14,35,109,1,"But it did look so beautiful, Marilla, when I pinned it on my breast that I was overcome by an irresistible temptation.",22,1.0,430.16,435.9,3.83,-31.26,14.35,2.29,4.5,0.29,1.5,-0.94,-1.85,-3.2,-3.0,"beautiful,|0.26|-4.7 breast,|0.28|+nan"
-14,35,110,1,I imagined how perfectly thrilling it would be to take it to Idlewild and play I was the Lady Cordelia Fitzgerald.,21,1.0,436.76,442.44,3.7,-32.29,13.95,2.74,1.0,-0.74,1.1,-0.49,-0.9,-2.2,-0.9,
-14,35,111,1,It would be so much easier to imagine I was the Lady Cordelia if I had a real amethyst brooch on.,21,0.95,443.02,447.96,4.25,-33.45,12.95,3.21,16.0,-1.91,0.1,-0.02,0.3,-0.2,-0.1,amethyst|0.36|-11.5
-14,35,112,1,Diana and I make necklaces of roseberries but what are roseberries compared to amethysts?,14,0.93,448.58,453.04,3.14,-32.6,14.75,2.23,-14.3,-1.05,1.9,-1.0,-13.1,-14.8,-14.7,I|0.22|+1.1
-14,35,113,1,So I took the brooch.,5,1.0,453.26,454.4,4.39,-34.86,13.45,5.99,19.8,-3.31,0.6,2.76,1.25,-2.5,0.7,
-14,35,114,1,I thought I could put it back before you came home.,11,1.0,454.68,457.02,4.7,-33.86,13.95,2.9,28.2,-2.31,1.1,-0.33,-1.6,-4.7,-1.6,
-14,35,115,1,I went all the way around by the road to lengthen out the time.,14,1.0,457.54,460.68,4.46,-28.32,13.2,1.73,21.7,3.23,0.35,-1.5,-1.3,-2.3,-1.2,
-14,35,116,1,When I was going over the bridge across the Lake of Shining Waters I took the brooch off to have another look at it.,24,1.0,461.2,466.3,4.71,-31.67,13.5,2.85,28.5,-0.12,0.65,-0.38,-11.85,-13.6,-13.6,
-14,35,117,1,"Oh, how it did shine in the sunlight!",8,1.0,466.52,468.46,4.12,-31.07,13.65,3.54,12.4,0.48,0.8,0.31,-2.6,-3.7,-3.6,
-14,35,118,1,"And then, when I was leaning over the bridge, it just slipped through my fingers—so—and went down—down—down, all purply-sparkling, and sank forevermore beneath the Lake of Shining Waters.",29,0.9,468.92,480.78,2.45,-32.42,14.25,2.8,-33.2,-0.88,1.4,-0.43,-2.55,-2.3,-2.0,"bridge,|0.28|+nan my|1.44|-3.9 went|2.36|+2.4 sank|0.76|-0.9"
-14,35,119,1,"And that’s the best I can do at confessing, Marilla.”",10,0.9,481.34,484.36,3.31,-37.91,11.05,5.83,-9.7,-6.36,-1.8,2.6,-9.4,0.0,0.0,And|0.22|+12.3
-14,36,120,0,Marilla felt hot anger surge up into her heart again.,10,1.0,484.36,487.7,2.99,-33.62,12.15,3.66,-18.4,-2.07,-0.7,0.43,-2.1,-2.9,-1.1,
-14,36,121,0,This child had taken and lost her treasured amethyst brooch and now sat there calmly reciting the details thereof without the least apparent compunction or repentance.,26,1.0,488.28,496.76,3.07,-29.72,16.95,3.06,-16.2,1.83,4.1,-0.17,6.8,0.0,4.85,
-14,37,122,1,"“Anne, this is terrible,” she said, trying to speak calmly.",10,1.0,497.64,501.18,2.82,-32.93,14.7,7.23,-23.1,-1.38,1.85,4.0,-13.05,-17.1,-16.3,"said,|0.24|+nan"
-14,37,123,1,“You are the very wickedest girl I ever heard of.”,10,1.0,501.6,504.58,3.36,-30.65,15.35,5.38,-8.3,0.9,2.5,2.15,-13.7,-10.8,-8.9,
-14,38,124,1,"“Yes, I suppose I am,” agreed Anne tranquilly.",8,1.0,504.58,507.96,2.37,-34.69,10.65,5.57,-35.3,-3.14,-2.2,2.34,-0.25,-3.1,-2.9,"""'Yes,|0.24|+14.0"
-14,38,125,1,“And I know I’ll have to be punished.,8,0.88,508.32,509.88,5.13,-30.56,15.6,2.1,40.0,0.99,2.75,-1.13,-0.85,-2.8,-2.4,know|0.20|-1.2
-14,38,126,1,"It’ll be your duty to punish me, Marilla.",8,0.88,510.58,512.12,5.19,-32.01,14.95,2.66,41.6,-0.46,2.1,-0.57,-5.0,-4.9,-4.1,
-14,38,127,1,Won’t you please get it over right off because I’d like to go to the picnic with nothing on my mind.”,21,0.9,512.74,517.44,4.47,-31.97,13.55,5.09,22.0,-0.42,0.7,1.86,-11.9,0.0,0.0,"off,|0.26|+2.7 because|0.24|-0.1"
-14,39,128,1,"“Picnic, indeed!",2,1.0,517.44,518.64,1.67,-35.37,1.65,0.0,-54.4,-3.82,-11.2,-3.23,0.0,0.0,0.0,
-14,39,129,1,"You’ll go to no picnic today, Anne Shirley.",8,0.75,,,,,,,,,,,,,,
-14,39,130,1,That shall be your punishment.,5,1.0,521.72,522.78,4.72,-29.26,12.95,0.5,28.8,2.28,0.1,-2.73,0.0,-0.6,0.0,
-14,39,131,1,And it isn’t half severe enough either for what you’ve done!”,11,0.82,522.78,526.92,2.66,-34.45,9.65,6.73,-27.4,-2.91,-3.2,3.5,-8.0,0.0,0.0,it|0.38|+5.3 what|0.20|+nan
-14,40,132,1,“Not go to the picnic!”,5,1.0,526.92,528.86,2.58,-33.97,16.75,9.71,-29.6,-2.42,3.9,6.48,-15.1,-14.1,-13.0,
-14,40,133,0,Anne sprang to her feet and clutched Marilla’s hand.,9,0.89,528.86,531.68,3.19,-30.98,12.9,3.64,-13.0,0.57,0.05,0.41,-0.95,-4.9,-2.6,clutched|0.44|+nan
-14,40,134,1,“But you promised me I might!,6,1.0,532.12,533.78,3.61,-28.29,16.0,6.26,-1.5,3.26,3.15,3.03,-3.3,-4.4,-4.3,
-14,40,135,1,"Oh, Marilla, I must go to the picnic.",8,1.0,534.2,536.04,4.35,-26.66,17.15,5.08,18.7,4.89,4.3,1.85,0.2,-1.4,5.6,
-14,40,136,1,That was why I confessed.,5,1.0,536.38,537.64,3.97,-28.59,22.05,2.4,8.3,2.96,9.2,-0.83,1.55,-6.1,3.0,
-14,40,137,1,Punish me any way you like but that.,8,1.0,538.22,539.94,4.65,-27.12,20.75,1.93,26.9,4.43,7.9,-1.3,-2.1,-4.3,-4.2,
-14,40,138,1,"Oh, Marilla, please, please, let me go to the picnic.",10,1.0,540.34,543.0,3.76,-29.67,21.05,2.01,2.6,1.88,8.2,-1.22,1.2,-0.5,3.9,"please,|0.42|+0.4"
-14,40,139,1,Think of the ice cream!,5,1.0,543.42,544.42,5.0,-29.04,22.85,2.36,36.4,2.51,10.0,-0.87,1.75,-1.7,1.0,
-14,40,140,1,For anything you know I may never have a chance to taste ice cream again.”,15,1.0,544.82,548.7,3.87,-27.89,20.85,6.7,5.6,3.66,8.0,3.47,-19.2,-23.3,-13.25,
-14,41,141,0,Marilla disengaged Anne’s clinging hands stonily.,6,0.83,549.24,552.04,2.14,-32.3,12.85,1.34,-41.6,-0.75,0.0,-1.89,-0.95,-2.0,0.7,disengaged|0.48|+1.3
-14,42,142,1,"“You needn’t plead, Anne.",4,0.75,,,,,,,,,,,,,,
-14,42,143,1,You are not going to the picnic and that’s final.,10,0.9,554.18,556.62,4.1,-30.52,12.95,4.1,11.9,1.03,0.1,0.87,1.25,-0.2,3.7,and|0.36|+nan
-14,42,144,1,"No, not a word.”",4,1.0,556.84,558.6,2.27,-34.23,2.95,5.82,-38.1,-2.68,-9.9,2.59,-1.3,-12.4,-11.6,No?|0.42|+12.6
-14,43,145,0,Anne realized that Marilla was not to be moved.,9,1.0,558.6,561.62,2.98,-33.35,11.45,5.21,-18.7,-1.8,-1.4,1.98,-0.7,-2.5,-2.2,
-14,43,146,0,"She clasped her hands together, gave a piercing shriek, and then flung herself face downward on the bed, crying and writhing in an utter abandonment of disappointment and despair.",29,1.0,562.14,571.38,3.14,-31.21,14.35,2.35,-14.3,0.34,1.5,-0.88,-0.45,-3.5,-3.1,"shriek,|0.24|+nan bed,|0.34|+3.5"
-14,44,147,1,"“For the land’s sake!” gasped Marilla, hastening from the room.",10,0.8,571.82,575.58,2.66,-35.13,10.05,5.0,-27.4,-3.59,-2.8,1.77,0.3,-1.5,-0.7,"""'For|0.58|+nan Marilla,|0.30|+nan"
-14,44,148,1,“I believe the child is crazy.,6,1.0,575.58,577.44,3.23,-33.3,16.15,3.11,-11.9,-1.75,3.3,-0.12,4.7,-1.5,-1.3,
-14,44,149,1,No child in her senses would behave as she does.,10,1.0,577.86,580.1,4.46,-31.34,13.6,4.59,21.7,0.21,0.75,1.36,5.05,-2.7,4.4,
-14,44,150,1,If she isn’t she’s utterly bad.,6,0.5,,,,,,,,,,,,,,
-14,44,151,1,"Oh dear, I’m afraid Rachel was right from the first.",10,0.8,582.86,585.04,4.59,-31.16,13.75,4.83,25.2,0.39,0.9,1.6,2.7,-0.9,2.5,"dear,|0.20|+12.2"
-14,44,152,1,But I’ve put my hand to the plow and I won’t look back.”,13,0.77,,,,,,,,,,,,,,
-14,45,153,0,That was a dismal morning.,5,1.0,589.02,590.5,3.38,-31.48,10.95,8.24,-7.8,0.07,-1.9,5.01,-0.6,-15.0,-14.7,
-14,45,154,0,Marilla worked fiercely and scrubbed the porch floor and the dairy shelves when she could find nothing else to do.,20,1.0,591.3,595.86,4.39,-30.94,13.7,1.51,19.8,0.61,0.85,-1.72,-1.45,-0.3,0.2,
-14,45,155,0,Neither the shelves nor the porch needed it—but Marilla did.,10,0.9,596.3,599.16,3.5,-29.21,14.25,4.02,-4.5,2.34,1.4,0.79,-4.25,-3.9,7.6,needed|0.66|-3.1
-14,45,156,0,Then she went out and raked the yard.,8,1.0,599.58,601.28,4.71,-28.34,12.55,2.98,28.5,3.21,-0.3,-0.25,-0.9,-2.6,-2.2,
-14,46,157,0,When dinner was ready she went to the stairs and called Anne.,12,1.0,601.28,604.76,3.45,-30.98,12.25,5.93,-5.9,0.57,-0.6,2.7,-1.25,-2.3,-2.0,
-14,46,158,0,"A tear-stained face appeared, looking tragically over the banisters.",10,1.0,605.12,608.18,3.27,-30.73,12.05,2.3,-10.8,0.82,-0.8,-0.93,-1.7,-1.7,-0.6,
-14,47,159,1,"“Come down to your dinner, Anne.”",6,1.0,608.92,610.34,4.23,-26.41,16.55,6.3,15.4,5.14,3.7,3.07,-5.8,-17.8,-16.9,
-14,48,160,1,"“I don’t want any dinner, Marilla,” said Anne, sobbingly.",9,0.89,610.34,613.9,2.53,-31.47,12.15,5.76,-31.0,0.08,-0.7,2.53,-2.4,-3.5,-1.5,"""'I|0.24|+15.6"
-14,48,161,1,“I couldn’t eat anything.,4,0.75,,,,,,,,,,,,,,
-14,48,162,1,My heart is broken.,4,1.0,615.64,616.8,3.45,-30.34,18.75,1.43,-5.9,1.21,5.9,-1.8,-2.5,-3.7,-3.4,
-14,48,163,1,"You’ll feel remorse of conscience someday, I expect, for breaking it, Marilla, but I forgive you.",16,0.88,617.6,621.94,3.69,-29.68,16.15,3.03,0.7,1.87,3.3,-0.2,8.9,-0.5,8.7,conscience|0.56|-4.6 Marilla.|0.20|+4.1
-14,48,164,1,Remember when the time comes that I forgive you.,9,1.0,622.34,624.82,3.63,-29.11,17.55,2.12,-1.0,2.44,4.7,-1.11,-5.1,-5.8,-4.6,
-14,48,165,1,"But please don’t ask me to eat anything, especially boiled pork and greens.",13,0.92,625.28,629.42,3.14,-31.85,15.35,2.47,-14.3,-0.3,2.5,-0.76,-1.65,-3.1,-2.3,"please|0.26|-6.8 anything,|0.36|+4.5"
-14,48,166,1,Boiled pork and greens are so unromantic when one is in affliction.”,12,1.0,630.08,634.02,3.05,-32.23,12.25,5.29,-16.8,-0.68,-0.6,2.06,-10.6,0.0,0.0,
-14,49,167,0,"Exasperated, Marilla returned to the kitchen and poured out her tale of woe to Matthew, who, between his sense of justice and his unlawful sympathy with Anne, was a miserable man.",31,0.97,634.7,644.12,3.29,-32.31,12.85,3.59,-10.2,-0.77,0.0,0.36,-2.25,-3.1,-3.0,"Exasperated,|0.20|+3.1 Matthew,|0.24|+13.8 sympathy|0.34|+nan"
-14,50,168,1,"“Well now, she shouldn’t have taken the brooch, Marilla, or told stories about it,” he admitted, mournfully surveying his plateful of unromantic pork and greens as if he, like Anne, thought it a food unsuited to crises of feeling, “but she’s such a little thing—such an interesting little thing.",49,0.96,645.18,661.52,3.0,-33.47,12.05,4.93,-18.1,-1.92,-0.8,1.7,0.8,-1.3,1.4,"now,|0.24|+nan she|0.28|+nan admitted,|0.50|+nan he,|0.22|+nan Anne,|0.34|+nan feeling.|0.52|+nan But|0.30|+18.4"
-14,50,169,1,Don’t you think it’s pretty rough not to let her go to the picnic when she’s so set on it?”,20,0.85,662.24,665.8,5.62,-33.75,13.65,3.52,53.3,-2.2,0.8,0.29,0.3,-12.6,-11.5,think|0.24|-7.1 when|0.24|+nan
-14,51,170,1,"“Matthew Cuthbert, I’m amazed at you.",6,0.83,666.42,668.4,3.03,-34.75,11.55,3.43,-17.3,-3.2,-1.3,0.2,-2.3,-3.6,-3.4,"Cuthbert,|0.32|-0.5"
-14,51,171,1,I think I’ve let her off entirely too easy.,9,0.89,668.7,671.0,3.91,-30.71,13.75,2.73,6.7,0.84,0.9,-0.5,2.15,-2.4,-0.1,think|0.26|-6.2
-14,51,172,1,And she doesn’t appear to realize how wicked she’s been at all—that’s what worries me most.,16,0.81,671.34,675.74,3.64,-31.02,17.9,4.52,-0.7,0.53,5.05,1.29,-4.4,-0.3,1.7,she|0.34|+7.9 wicked|0.30|-4.2 at|1.00|-3.3
-14,51,173,1,If she’d really felt sorry it wouldn’t be so bad.,10,0.8,676.28,678.72,4.1,-29.73,12.2,5.47,11.9,1.82,-0.65,2.24,-1.0,-7.6,-0.7,If|0.26|+17.7
-14,51,174,1,"And you don’t seem to realize it, neither; you’re making excuses for her all the time to yourself—I can see that.”",21,0.86,679.18,684.46,3.98,-31.02,14.25,4.38,8.6,0.53,1.4,1.15,-12.55,-0.05,0.0,you|0.24|-3.3 neither.|0.62|+1.1 to|0.52|+nan
-14,52,175,1,"“Well now, she’s such a little thing,” feebly reiterated Matthew.",10,0.9,685.14,688.76,2.76,-33.8,10.9,5.62,-24.7,-2.25,-1.95,2.39,-1.15,-2.1,-1.1,"now,|0.36|+nan"
-14,52,176,1,"“And there should be allowances made, Marilla.",7,1.0,689.06,691.04,3.54,-32.45,11.95,4.45,-3.4,-0.91,-0.9,1.22,0.3,-0.8,3.1,
-14,52,177,1,You know she’s never had any bringing up.”,8,0.88,691.36,693.38,3.96,-33.3,11.1,5.64,8.0,-1.75,-1.75,2.41,-9.45,-10.0,-8.4,know|0.30|-4.9
-14,53,178,1,"“Well, she’s having it now” retorted Marilla.",7,0.86,693.38,696.38,2.33,-34.74,1.65,5.92,-36.4,-3.2,-11.2,2.69,9.85,-0.6,10.0,"""'Well,|0.26|+13.1"
-14,54,179,0,The retort silenced Matthew if it did not convince him.,10,1.0,697.12,700.2,3.25,-36.9,13.05,6.17,-11.3,-5.35,0.2,2.94,-11.4,0.0,0.0,
-14,54,180,0,That dinner was a very dismal meal.,7,1.0,700.64,702.44,3.89,-30.3,12.85,1.91,6.1,1.25,0.0,-1.32,-2.35,-3.3,-2.45,
-14,54,181,0,"The only cheerful thing about it was Jerry Buote, the hired boy, and Marilla resented his cheerfulness as a personal insult.",21,0.95,702.92,708.76,3.6,-31.45,12.55,2.32,-1.8,0.1,-0.3,-0.91,1.8,-0.5,-0.4,Jerry|0.54|-0.9
-14,55,182,0,When her dishes were washed and her bread sponge set and her hens fed Marilla remembered that she had noticed a small rent in her best black lace shawl when she had taken it off on Monday afternoon on returning from the Ladies’ Aid.,44,0.98,709.38,721.24,3.71,-31.52,12.25,3.61,1.2,0.03,-0.6,0.38,-0.1,-0.4,2.3,"fed,|0.52|+nan the|0.38|-9.1"
-14,56,183,0,She would go and mend it.,6,1.0,721.82,722.86,5.77,-31.32,13.7,5.1,57.4,0.23,0.85,1.87,-12.05,-12.8,-11.8,
-14,56,184,0,The shawl was in a box in her trunk.,9,1.0,723.24,724.86,5.56,-32.36,13.4,1.24,51.7,-0.81,0.55,-1.99,-2.2,-3.3,-3.2,
-14,56,185,0,"As Marilla lifted it out, the sunlight, falling through the vines that clustered thickly about the window, struck upon something caught in the shawl—something that glittered and sparkled in facets of violet light.",33,1.0,725.52,735.86,3.19,-32.42,13.15,4.55,-13.0,-0.88,0.3,1.32,-0.6,-2.9,-1.5,"out,|0.24|+6.7 sunlight,|0.40|+1.1 window,|0.54|+2.9"
-14,56,186,0,Marilla snatched at it with a gasp.,7,1.0,736.5,738.0,4.67,-32.57,14.15,4.09,27.4,-1.02,1.3,0.86,0.0,-1.2,0.3,
-14,56,187,0,"It was the amethyst brooch, hanging to a thread of the lace by its catch!",15,1.0,738.58,741.98,4.41,-32.09,13.15,5.5,20.3,-0.55,0.3,2.27,-11.35,-8.0,-7.85,
-14,57,188,1,"“Dear life and heart,” said Marilla blankly, “what does this mean?",11,1.0,743.06,747.46,2.5,-34.73,12.55,8.47,-31.8,-3.18,-0.3,5.24,8.8,-9.9,-5.8,
-14,57,189,1,Here’s my brooch safe and sound that I thought was at the bottom of Barry’s pond.,16,0.88,748.34,751.52,5.03,-30.41,14.6,2.12,37.2,1.14,1.75,-1.11,0.25,-0.2,2.4,of|0.34|+nan
-14,57,190,1,Whatever did that girl mean by saying she took it and lost it?,13,1.0,752.12,755.26,4.14,-31.63,14.75,5.62,13.0,-0.08,1.9,2.39,-13.1,-23.5,-18.0,
-14,57,191,1,I declare I believe Green Gables is bewitched.,8,1.0,755.54,758.24,2.96,-31.32,13.65,5.13,-19.2,0.23,0.8,1.9,0.55,-4.1,-3.6,
-14,57,192,1,I remember now that when I took off my shawl Monday afternoon I laid it on the bureau for a minute.,21,1.0,758.88,763.68,4.38,-28.66,13.55,3.63,19.5,2.89,0.7,0.4,-3.15,-8.1,-7.7,
-14,57,193,1,I suppose the brooch got caught in it somehow.,9,1.0,764.1,766.72,3.44,-37.42,11.55,7.11,-6.1,-5.88,-1.3,3.88,-9.9,0.0,0.0,
-14,57,194,1,Well!”,1,1.0,,,,,,,,,,,,,,
-14,58,195,0,"Marilla betook herself to the east gable, brooch in hand.",10,1.0,768.64,771.56,3.42,-31.03,12.85,1.9,-6.7,0.52,0.0,-1.33,-2.4,-0.4,0.9,
-14,58,196,0,Anne had cried herself out and was sitting dejectedly by the window.,12,1.0,772.28,775.26,4.03,-31.67,12.5,1.79,10.0,-0.12,-0.35,-1.44,-1.6,-0.8,1.2,
-14,59,197,1,"“Anne Shirley,” said Marilla solemnly, “I’ve just found my brooch hanging to my black lace shawl.",16,0.94,776.2,782.08,2.72,-31.83,13.55,5.96,-25.8,-0.28,0.7,2.73,-11.9,-11.9,-11.75,"solemnly,|0.70|+nan"
-14,59,198,1,Now I want to know what that rigmarole you told me this morning meant.”,14,0.93,782.44,786.18,3.74,-29.44,14.0,5.6,2.0,2.11,1.15,2.37,-12.35,-8.7,-8.0,that|0.58|-3.3
-14,60,199,1,"“Why, you said you’d keep me here until I confessed,” returned Anne wearily, “and so I decided to confess because I was bound to get to the picnic.",28,0.96,786.18,793.86,3.65,-33.45,13.75,5.1,-0.4,-1.91,0.9,1.87,1.55,-2.4,0.9,"said|0.24|+1.6 wearily,|0.44|-9.1"
-14,60,200,1,I thought out a confession last night after I went to bed and made it as interesting as I could.,20,1.0,794.3,798.86,4.39,-31.14,13.6,3.23,19.8,0.41,0.75,0.0,-0.95,-3.5,-3.4,
-14,60,201,1,And I said it over and over so that I wouldn’t forget it.,13,0.92,799.12,801.62,5.2,-30.62,13.85,3.07,41.9,0.93,1.0,-0.16,-12.2,-13.1,-11.15,I|0.26|+1.8
-14,60,202,1,"But you wouldn’t let me go to the picnic after all, so all my trouble was wasted.”",17,0.94,801.9,806.48,3.71,-33.23,14.15,5.72,1.2,-1.68,1.3,2.49,-12.5,0.0,0.0,you|0.26|+13.5
-14,61,203,0,Marilla had to laugh in spite of herself.,8,1.0,806.48,808.54,3.88,-29.52,12.15,3.15,5.9,2.03,-0.7,-0.08,-1.6,-2.6,-2.1,
-14,61,204,0,But her conscience pricked her.,5,1.0,808.94,810.3,3.68,-33.32,15.6,6.2,0.4,-1.77,2.75,2.97,1.95,-3.1,1.1,
-14,62,205,1,"“Anne, you do beat all!",5,1.0,810.7,812.14,3.47,-30.72,13.55,3.18,-5.3,0.83,0.7,-0.05,-4.25,-6.5,-4.9,
-14,62,206,1,But I was wrong—I see that now.,7,0.86,812.46,814.16,4.12,-30.47,10.45,4.44,12.4,1.08,-2.4,1.21,-0.75,-4.4,-1.9,was|0.44|-3.7
-14,62,207,1,I shouldn’t have doubted your word when I’d never known you to tell a story.,15,0.87,814.36,817.42,4.9,-30.26,12.25,2.28,33.7,1.28,-0.6,-0.95,-1.6,-3.8,-1.2,I|0.30|+0.5
-14,62,208,1,"Of course, it wasn’t right for you to confess to a thing you hadn’t done—it was very wrong to do so.",21,0.86,817.8,822.66,4.32,-32.58,13.45,3.09,17.9,-1.03,0.6,-0.14,-11.35,-0.15,0.0,"course,|0.24|+nan it|0.28|-1.8 you|1.10|+nan"
-14,62,209,1,But I drove you to it.,6,1.0,823.0,824.1,5.45,-29.81,15.95,6.35,48.7,1.74,3.1,3.12,11.9,0.0,13.2,
-14,62,210,1,"So if you’ll forgive me, Anne, I’ll forgive you and we’ll start square again.",14,0.79,,,,,,,,,,,,,,
-14,62,211,1,And now get yourself ready for the picnic.”,8,1.0,828.12,830.26,3.74,-32.89,13.15,6.06,2.0,-1.34,0.3,2.83,-11.5,0.0,0.0,
-14,63,212,0,Anne flew up like a rocket.,6,1.0,830.26,831.66,4.29,-32.62,11.65,4.43,17.1,-1.07,-1.2,1.2,0.55,-0.9,0.7,
-14,64,213,1,"“Oh, Marilla, isn’t it too late?”",6,0.83,832.2,834.06,3.23,-27.55,16.75,7.5,-11.9,4.0,3.9,4.27,0.6,-1.7,4.8,"Marilla,|0.68|+4.9"
-14,65,214,1,"“No, it’s only two o’clock.",5,0.6,,,,,,,,,,,,,,
-14,65,215,1,They won’t be more than well gathered yet and it’ll be an hour before they have tea.,17,0.88,836.06,839.74,4.62,-27.7,14.35,1.63,26.1,3.85,1.5,-1.6,-0.85,-2.4,-2.2,"yet,|0.28|+nan"
-14,65,216,1,Wash your face and comb your hair and put on your gingham.,12,1.0,840.3,842.44,5.61,-29.25,13.85,2.88,53.1,2.3,1.0,-0.35,-1.0,-4.3,-1.55,
-14,65,217,1,I’ll fill a basket for you.,6,0.83,842.96,843.92,6.25,-32.67,14.05,0.39,70.5,-1.12,1.2,-2.84,0.0,-0.4,0.6,
-14,65,218,1,There’s plenty of stuff baked in the house.,8,0.88,844.46,845.82,5.88,-31.75,,,60.4,-0.2,,,,,,
-14,65,219,1,And I’ll get Jerry to hitch up the sorrel and drive you down to the picnic ground.”,17,0.94,846.22,849.94,4.57,-31.44,11.25,4.69,24.7,0.11,-1.6,1.46,-9.6,-8.1,-7.7,And|0.20|+1.2
-14,66,220,1,"“Oh, Marilla,” exclaimed Anne, flying to the wash-stand.",9,0.78,,,,,,,,,,,,,,
-14,66,221,1,“Five minutes ago I was so miserable I was wishing I’d never been born and now I wouldn’t change places with an angel!”,23,0.91,853.46,859.48,3.82,-27.12,17.05,5.32,4.2,4.43,4.2,2.09,-15.4,0.0,0.0,"wishing|0.20|-3.1 born,|0.38|+1.9 I|0.24|-4.3"
-14,67,222,0,"That night a thoroughly happy, completely tired-out Anne returned to Green Gables in a state of beatification impossible to describe.",21,1.0,859.48,866.92,2.82,-33.56,12.55,4.2,-23.1,-2.02,-0.3,0.97,-10.9,-9.1,-8.4,"happy,|0.22|+0.3"
-14,68,223,1,"“Oh, Marilla, I’ve had a perfectly scrumptious time.",8,0.88,866.92,870.34,2.34,-30.86,16.15,5.51,-36.2,0.69,3.3,2.28,-4.05,-6.0,-5.45,"Marilla,|0.60|+2.0"
-14,68,224,1,Scrumptious is a new word I learned today.,8,1.0,871.06,872.78,4.65,-28.24,13.95,2.28,26.9,3.31,1.1,-0.95,-2.5,-2.9,-1.1,
-14,68,225,1,I heard Mary Alice Bell use it.,7,1.0,873.08,874.78,4.12,-28.71,13.95,3.81,12.4,2.84,1.1,0.58,-2.85,-4.1,-2.25,
-14,68,226,1,Isn’t it very expressive?,4,0.75,,,,,,,,,,,,,,
-14,68,227,1,Everything was lovely.,3,1.0,876.96,878.16,2.5,-32.9,12.75,4.05,-31.8,-1.35,-0.1,0.82,-0.75,-3.1,-0.9,
-14,68,228,1,We had a splendid tea and then Mr. Harmon Andrews took us all for a row on the Lake of Shining Waters—six of us at a time.,27,1.0,878.5,884.94,4.19,-30.08,14.15,1.74,14.3,1.47,1.3,-1.49,-1.4,-3.3,-2.9,
-14,68,229,1,And Jane Andrews nearly fell overboard.,6,1.0,885.3,887.14,3.26,-28.78,14.25,3.68,-11.1,2.77,1.4,0.45,-0.5,-0.4,0.7,
-14,68,230,1,She was leaning out to pick water lilies and if Mr. Andrews hadn’t caught her by her sash just in the nick of time she’d fallen in and prob’ly been drowned.,31,0.87,887.58,895.02,4.17,-31.42,15.15,2.98,13.8,0.12,2.3,-0.25,8.15,-0.8,10.8,Mr.|0.32|-5.4 Andrews|0.36|-0.8 time|0.38|+nan and|0.24|+11.6
-14,68,231,1,I wish it had been me.,6,1.0,895.52,896.78,4.76,-34.86,12.65,3.04,29.9,-3.31,-0.2,-0.19,-1.0,-4.1,-2.4,
-14,68,232,1,It would have been such a romantic experience to have been nearly drowned.,13,1.0,897.06,900.28,4.04,-30.47,13.45,2.68,10.2,1.08,0.6,-0.55,-1.5,-2.0,-1.8,
-14,68,233,1,It would be such a thrilling tale to tell.,9,1.0,900.82,902.82,4.5,-32.25,17.35,3.71,22.8,-0.7,4.5,0.48,-7.4,-5.1,-5.0,
-14,68,234,1,And we had the ice cream.,6,1.0,903.34,904.62,4.69,-31.53,13.65,1.23,28.0,0.02,0.8,-2.0,-1.8,-2.7,-0.7,
-14,68,235,1,Words fail me to describe that ice cream.,8,1.0,905.1,907.3,3.64,-30.85,12.85,1.07,-0.7,0.7,0.0,-2.16,-0.8,-1.6,-0.2,
-14,68,236,1,"Marilla, I assure you it was sublime.”",7,1.0,908.08,911.32,2.16,-35.82,11.95,5.97,-41.1,-4.27,-0.9,2.74,-10.3,0.0,0.0,
-14,69,237,0,That evening Marilla told the whole story to Matthew over her stocking basket.,13,1.0,911.32,915.22,3.33,-32.35,11.8,2.53,-9.1,-0.8,-1.05,-0.7,-2.15,-3.5,-2.9,
-14,70,238,1,"“I’m willing to own up that I made a mistake,” she concluded candidly, “but I’ve learned a lesson.",18,0.89,916.22,920.48,4.23,-32.73,13.35,5.62,15.4,-1.18,0.5,2.39,3.55,-1.5,3.3,"candidly.|0.24|+nan ""'But|0.22|+14.6"
-14,70,239,1,"I have to laugh when I think of Anne’s ‘confession,’ although I suppose I shouldn’t for it really was a falsehood.",21,0.81,920.98,926.3,3.95,-31.49,12.35,4.77,7.8,0.06,-0.5,1.54,-1.9,-5.1,-0.05,of|1.38|-0.6 I|0.42|+0.9
-14,70,240,1,"But it doesn’t seem as bad as the other would have been, somehow, and anyhow I’m responsible for it.",19,0.89,926.8,931.6,3.96,-32.55,10.95,5.43,8.0,-1.0,-1.9,2.2,-1.8,-8.3,-8.0,it|0.28|-4.3 somehow.|0.32|+nan anyhow|0.26|-0.7
-14,70,241,1,That child is hard to understand in some respects.,9,1.0,931.88,934.12,4.02,-32.44,11.75,2.93,9.7,-0.89,-1.1,-0.3,-1.4,-1.9,0.1,
-14,70,242,1,But I believe she’ll turn out all right yet.,9,0.89,934.66,936.56,4.74,-28.94,10.15,3.03,29.3,2.61,-2.7,-0.2,-0.55,-0.9,-0.1,believe|0.28|-3.7
-14,70,243,1,"And there’s one thing certain, no house will ever be dull that she’s in.”",14,0.71,,,,,,,,,,,,,,
+chapter,para,sent,dialogue,speaker,spk_src,text,speech,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
+14,0,0,0,,,ON the Monday evening before the picnic Marilla came down from her room with a troubled face.,,17,1.0,23.96,28.54,3.71,-32.26,13.25,3.71,0.0,-0.64,0.4,0.48,-3.25,-4.8,-1.3,
+14,1,1,1,,tag,"“Anne,” she said to that small personage, who was shelling peas by the spotless table and singing, “Nelly of the Hazel Dell” with a vigor and expression that did credit to Diana’s teaching, “did you see anything of my amethyst brooch?",anne nelly of the hazel dell did you see anything of my amethyst brooch,14,1.0,29.14,42.04,3.29,-30.92,12.35,5.57,-11.3,0.7,-0.5,2.34,-0.3,-2.7,-0.2,
+14,1,2,1,,tag,"I thought I stuck it in my pincushion when I came home from church yesterday evening, but I can’t find it anywhere.”",i thought i stuck it in my pincushion when i came home from church yesterday evening but i can't find it anywhere,22,1.0,42.38,48.68,3.49,-34.3,11.85,5.58,-5.9,-2.68,-1.0,2.35,-10.2,0.0,0.0,"evening,|0.38|+1.2"
+14,2,3,1,Anne,tag,"“I—I saw it this afternoon when you were away at the Aid Society,” said Anne, a little slowly.",i i saw it this afternoon when you were away at the aid society,14,1.0,49.56,52.96,4.12,-32.22,12.25,4.91,11.1,-0.6,-0.6,1.68,-1.1,-11.5,-8.2,
+14,2,4,1,Anne,tag,"“I was passing your door when I saw it on the cushion, so I went in to look at it.”",i was passing your door when i saw it on the cushion so i went in to look at it,20,1.0,54.9,59.42,4.42,-34.02,12.95,5.36,19.1,-2.4,0.1,2.13,-11.3,0.0,0.0,
+14,3,5,1,Marilla,tag,“Did you touch it?” said Marilla sternly.,did you touch it,4,1.0,59.42,60.56,3.51,-37.53,1.65,0.02,-5.4,-5.91,-11.2,-3.21,0.0,-0.1,0.0,
+14,4,6,1,Anne,tag,"“Y-e-e-s,” admitted Anne, “I took it up and I pinned it on my breast just to see how it would look.”",y e e s i took it up and i pinned it on my breast just to see how it would look,22,0.77,,,,,,,,,,,,,,
+14,5,7,1,Marilla,turns,“You had no business to do anything of the sort.,you had no business to do anything of the sort,10,1.0,68.92,71.1,4.59,-32.28,13.15,6.32,23.7,-0.66,0.3,3.09,1.0,-2.0,2.9,
+14,5,8,1,Marilla,turns,It’s very wrong in a little girl to meddle.,it's very wrong in a little girl to meddle,9,1.0,71.46,73.62,4.17,-32.86,11.35,3.45,12.4,-1.24,-1.5,0.22,-9.7,-11.1,-7.2,
+14,5,9,1,Marilla,turns,You shouldn’t have gone into my room in the first place and you shouldn’t have touched a brooch that didn’t belong to you in the second.,you shouldn't have gone into my room in the first place and you shouldn't have touched a brooch that didn't belong to you in the second,26,1.0,73.98,78.94,5.24,-31.6,13.15,3.38,41.2,0.02,0.3,0.15,-2.0,-1.9,-1.8,
+14,5,10,1,Marilla,turns,Where did you put it?”,where did you put it,5,1.0,79.48,80.74,3.97,-38.65,15.4,7.87,7.0,-7.03,2.55,4.64,-13.75,0.0,0.0,
+14,6,11,1,Anne,turns,"“Oh, I put it back on the bureau.",oh i put it back on the bureau,8,1.0,80.74,82.06,6.06,-29.26,15.9,6.18,63.3,2.36,3.05,2.95,4.65,-1.0,5.5,
+14,6,12,1,Anne,turns,I hadn’t it on a minute.,i hadn't it on a minute,6,1.0,82.44,83.6,5.17,-27.48,15.45,2.67,39.4,4.14,2.6,-0.56,-1.25,-2.7,-2.5,
+14,6,13,1,Anne,turns,"Truly, I didn’t mean to meddle, Marilla.",truly i didn't mean to meddle marilla,7,1.0,84.1,85.8,4.12,-30.08,12.9,4.22,11.1,1.54,0.05,0.99,-3.95,-7.2,-3.3,
+14,6,14,1,Anne,turns,I didn’t think about its being wrong to go in and try on the brooch; but I see now that it was and I’ll never do it again.,i didn't think about its being wrong to go in and try on the brooch but i see now that it was and i'll never do it again,28,1.0,86.18,91.54,5.22,-29.54,13.2,4.26,40.7,2.08,0.35,1.03,-1.45,-6.0,-2.7,"brooch,|0.22|+4.3"
+14,6,15,1,Anne,turns,That’s one good thing about me.,that's one good thing about me,6,1.0,91.92,93.44,3.95,-33.1,10.65,5.38,6.5,-1.48,-2.2,2.15,-8.9,-0.5,2.85,
+14,6,16,1,Anne,turns,I never do the same naughty thing twice.”,i never do the same naughty thing twice,8,1.0,92.92,95.56,3.03,-33.88,13.6,5.98,-18.3,-2.26,0.75,2.75,-11.95,0.0,0.0,
+14,7,17,1,Marilla,tag,"“You didn’t put it back,” said Marilla.",you didn't put it back,5,1.0,95.56,97.32,2.84,-43.46,1.65,0.0,-23.5,-11.84,-11.2,-3.23,0.0,0.0,0.0,
+14,7,18,1,Marilla,tag,“That brooch isn’t anywhere on the bureau.,that brooch isn't anywhere on the bureau,7,1.0,98.1,99.86,3.98,-27.59,15.05,3.71,7.3,4.03,2.2,0.48,-0.2,-2.9,-2.9,
+14,7,19,1,Marilla,tag,"You’ve taken it out or something, Anne.”",you've taken it out or something anne,7,1.0,100.26,102.24,3.54,-32.61,14.35,7.14,-4.6,-0.99,1.5,3.91,-12.7,0.0,0.0,
+14,8,20,1,Anne,tag,"“I did put it back,” said Anne quickly—pertly, Marilla thought.",i did put it back,5,1.0,102.24,103.56,3.79,-40.35,9.2,11.27,2.2,-8.73,-3.65,8.04,17.65,-0.8,25.4,
+14,8,21,1,Anne,tag,“I don’t just remember whether I stuck it on the pincushion or laid it in the china tray.,i don't just remember whether i stuck it on the pincushion or laid it in the china tray,18,0.94,106.24,110.78,3.96,-30.28,16.35,4.63,6.7,1.34,3.5,1.4,1.3,-1.7,0.1,
+14,8,22,1,Anne,tag,But I’m perfectly certain I put it back.”,but i'm perfectly certain i put it back,8,1.0,111.06,113.38,3.45,-34.81,13.65,7.35,-7.0,-3.19,0.8,4.12,-12.0,0.0,0.0,
+14,9,23,1,Marilla,tag,"“I’ll go and have another look,” said Marilla, determining to be just.",i'll go and have another look,6,1.0,113.38,115.14,3.41,-29.92,14.2,6.23,-8.1,1.7,1.35,3.0,1.65,-3.9,-1.6,
+14,9,24,1,Marilla,tag,“If you put that brooch back it’s there still.,if you put that brooch back it's there still,9,1.0,117.48,119.52,4.41,-32.25,15.55,4.13,18.9,-0.63,2.7,0.9,-3.6,-4.4,-3.7,
+14,9,25,1,Marilla,tag,"If it isn’t I’ll know you didn’t, that’s all!”",if it isn't i'll know you didn't that's all,9,1.0,119.84,122.78,3.06,-35.91,10.3,6.51,-17.5,-4.29,-2.55,3.28,-8.65,0.0,0.0,"isn't,|0.20|+nan"
+14,10,26,0,,,"Marilla went to her room and made a thorough search, not only over the bureau but in every other place she thought the brooch might possibly be.",,27,1.0,123.32,129.9,4.1,-29.24,14.25,2.2,10.5,2.38,1.4,-1.03,1.45,-0.9,2.0,"search,|0.22|+nan"
+14,10,27,0,,,It was not to be found and she returned to the kitchen.,,12,1.0,130.4,133.12,4.41,-33.16,12.85,5.46,18.9,-1.54,0.0,2.23,-10.9,0.0,0.0,
+14,11,28,1,Anne,turns,"“Anne, the brooch is gone.",anne the brooch is gone,5,1.0,134.32,135.8,3.38,-29.48,14.6,5.07,-8.9,2.14,1.75,1.84,-0.05,-2.7,-2.4,
+14,11,29,1,Anne,turns,By your own admission you were the last person to handle it.,by your own admission you were the last person to handle it,12,1.0,136.1,138.8,4.44,-30.47,12.65,4.73,19.7,1.15,-0.2,1.5,-11.0,-12.2,-10.6,
+14,11,30,1,Anne,turns,"Now, what have you done with it?",now what have you done with it,7,1.0,139.08,140.44,5.15,-29.98,14.05,4.07,38.8,1.64,1.2,0.84,-0.4,-7.1,-6.7,
+14,11,31,1,Anne,turns,Tell me the truth at once.,tell me the truth at once,6,1.0,140.74,141.72,6.12,-29.94,16.85,3.29,65.0,1.68,4.0,0.06,0.5,-2.6,3.0,
+14,11,32,1,Anne,turns,Did you take it out and lose it?”,did you take it out and lose it,8,1.0,142.1,143.96,4.3,-31.01,13.15,6.09,15.9,0.61,0.3,2.86,-11.5,0.0,0.0,
+14,12,33,1,Anne,tag,"“No, I didn’t,” said Anne solemnly, meeting Marilla’s angry gaze squarely.",no i didn't,3,1.0,143.96,145.14,2.54,-34.8,14.4,8.12,-31.5,-3.18,1.55,4.89,4.15,-1.2,15.1,
+14,12,34,1,Anne,tag,"“I never took the brooch out of your room and that is the truth, if I was to be led to the block for it—although I’m not very certain what a block is.",i never took the brooch out of your room and that is the truth if i was to be led to the block for it although i'm not very certain what a block is,34,1.0,149.04,155.68,5.12,-29.31,14.55,4.69,38.0,2.31,1.7,1.46,-2.65,-2.4,-1.8,
+14,12,35,1,Anne,tag,"So there, Marilla.”",so there marilla,3,1.0,156.02,157.58,1.92,-34.36,1.7,7.69,-48.2,-2.74,-11.15,4.46,-0.05,-1.1,0.0,"there,|0.60|-16.4"
+14,13,36,1,,tag,"Anne’s “so there” was only intended to emphasize her assertion, but Marilla took it as a display of defiance.",so there,2,1.0,158.6,159.28,2.94,-25.93,14.65,2.55,-20.8,5.69,1.8,-0.68,-3.85,-6.9,-5.8,
+14,14,37,1,Anne,turns,"“I believe you are telling me a falsehood, Anne,” she said sharply.",i believe you are telling me a falsehood anne,9,1.0,164.6,166.88,3.95,-29.03,13.45,5.07,6.5,2.59,0.6,1.84,1.5,-2.5,-1.1,
+14,14,38,1,Anne,turns,“I know you are.,i know you are,4,1.0,167.84,168.84,4.0,-29.5,10.35,5.75,7.8,2.12,-2.5,2.52,-2.0,-15.2,-13.5,
+14,14,39,1,Anne,turns,"There now, don’t say anything more unless you are prepared to tell the whole truth.",there now don't say anything more unless you are prepared to tell the whole truth,15,1.0,169.34,172.8,4.34,-28.01,13.95,3.37,17.0,3.61,1.1,0.14,0.0,-0.6,0.9,
+14,14,40,1,Anne,turns,Go to your room and stay there until you are ready to confess.”,go to your room and stay there until you are ready to confess,13,1.0,173.24,175.98,4.74,-29.48,14.35,4.93,27.8,2.14,1.5,1.7,-12.7,-0.2,0.0,
+14,15,41,1,Anne,tag,“Will I take the peas with me?” said Anne meekly.,will i take the peas with me,7,1.0,175.98,177.8,3.85,-36.03,15.25,6.85,3.8,-4.41,2.4,3.62,1.5,-0.9,1.9,
+14,16,42,1,,tag,"“No, I’ll finish shelling them myself.",no i'll finish shelling them myself,6,1.0,179.18,180.74,3.85,-28.28,14.45,4.55,3.8,3.34,1.6,1.32,0.15,-1.2,0.2,
+14,16,43,1,,tag,Do as I bid you.”,do as i bid you,5,1.0,181.14,182.42,3.91,-36.37,1.65,6.31,5.4,-4.75,-11.2,3.08,0.0,0.0,0.0,
+14,17,44,0,,,When Anne had gone Marilla went about her evening tasks in a very disturbed state of mind.,,17,1.0,182.84,187.4,3.73,-30.62,12.75,1.99,0.5,1.0,-0.1,-1.24,-2.65,-2.0,-0.4,"gone,|0.32|+1.4"
+14,17,45,0,,,She was worried about her valuable brooch.,,7,1.0,187.92,189.9,3.54,-28.46,12.55,3.82,-4.6,3.16,-0.3,0.59,0.2,-2.5,-0.5,
+14,17,46,0,,,What if Anne had lost it?,,6,1.0,190.24,191.42,5.08,-30.96,16.65,6.55,36.9,0.66,3.8,3.32,11.2,0.0,14.5,
+14,17,47,0,,,"And how wicked of the child to deny having taken it, when anybody could see she must have!",,18,1.0,191.72,196.26,3.96,-30.96,15.85,3.56,6.7,0.66,3.0,0.33,0.0,-6.9,-3.6,
+14,17,48,0,,,"With such an innocent face, too!",,6,1.0,196.58,198.16,3.8,-32.47,18.4,6.11,2.4,-0.85,5.55,2.88,3.3,-8.0,-2.6,
+14,18,49,1,Anne,turns,"“I don’t know what I wouldn’t sooner have had happen,” thought Marilla, as she nervously shelled the peas.",i don't know what i wouldn't sooner have had happen,10,1.0,198.86,201.18,4.31,-29.18,12.75,4.6,16.2,2.44,-0.1,1.37,-0.7,-4.0,-3.35,
+14,18,50,1,Anne,turns,"“Of course, I don’t suppose she meant to steal it or anything like that.",of course i don't suppose she meant to steal it or anything like that,14,1.0,203.84,207.06,4.35,-31.85,12.95,4.97,17.3,-0.23,0.1,1.74,-3.35,-3.6,-2.4,
+14,18,51,1,Anne,turns,She’s just taken it to play with or help along that imagination of hers.,she's just taken it to play with or help along that imagination of hers,14,1.0,207.36,210.68,4.22,-31.09,12.45,1.69,13.7,0.53,-0.4,-1.54,2.5,-0.2,3.9,
+14,18,52,1,Anne,turns,"She must have taken it, that’s clear, for there hasn’t been a soul in that room since she was in it, by her own story, until I went up tonight.",she must have taken it that's clear for there hasn't been a soul in that room since she was in it by her own story until i went up tonight,30,0.97,211.14,216.9,5.21,-30.82,12.65,4.06,40.4,0.8,-0.2,0.83,-1.05,-2.1,0.5,"clear,|0.30|-12.7"
+14,18,53,1,Anne,turns,"And the brooch is gone, there’s nothing surer.",and the brooch is gone there's nothing surer,8,1.0,217.56,219.96,3.33,-33.47,10.35,6.26,-10.2,-1.85,-2.5,3.03,2.9,-0.2,11.8,gone.|0.34|+nan
+14,18,54,1,Anne,turns,I suppose she has lost it and is afraid to own up for fear she’ll be punished.,i suppose she has lost it and is afraid to own up for fear she'll be punished,17,1.0,220.34,223.68,5.09,-30.97,13.15,1.18,37.2,0.65,0.3,-2.05,-0.45,-1.1,-0.8,
+14,18,55,1,Anne,turns,It’s a dreadful thing to think she tells falsehoods.,it's a dreadful thing to think she tells falsehoods,9,1.0,224.2,226.74,3.54,-35.78,1.65,4.61,-4.6,-4.16,-11.2,1.38,9.3,-0.2,0.0,
+14,18,56,1,Anne,turns,It’s a far worse thing than her fit of temper.,it's a far worse thing than her fit of temper,10,1.0,226.8,228.68,5.32,-31.49,13.75,4.95,43.4,0.13,0.9,1.72,3.2,-0.4,4.2,
+14,18,57,1,Anne,turns,It’s a fearful responsibility to have a child in your house you can’t trust.,it's a fearful responsibility to have a child in your house you can't trust,14,1.0,229.16,232.54,4.14,-33.4,11.15,1.74,11.6,-1.78,-1.7,-1.49,-1.05,-3.1,-1.8,
+14,18,58,1,Anne,turns,Slyness and untruthfulness—that’s what she has displayed.,slyness and untruthfulness that's what she has displayed,8,1.0,233.24,235.94,2.96,-34.39,13.95,2.14,-20.2,-2.77,1.1,-1.09,-3.85,-0.6,-0.1,
+14,18,59,1,Anne,turns,I declare I feel worse about that than about the brooch.,i declare i feel worse about that than about the brooch,11,1.0,236.42,239.24,3.9,-30.65,12.05,4.42,5.1,0.97,-0.8,1.19,3.8,-0.2,4.8,
+14,18,60,1,Anne,turns,If she’d only have told the truth about it I wouldn’t mind so much.”,if she'd only have told the truth about it i wouldn't mind so much,14,1.0,239.82,243.46,3.85,-32.68,14.55,6.91,3.8,-1.06,1.7,3.68,-12.9,0.0,0.0,
+14,19,61,0,,,"Marilla went to her room at intervals all through the evening and searched for the brooch, without finding it.",,19,1.0,243.46,248.12,4.08,-32.01,12.45,2.8,10.0,-0.39,-0.4,-0.43,-2.9,-11.3,-10.3,
+14,19,62,0,,,A bedtime visit to the east gable produced no result.,,10,1.0,248.54,251.32,3.6,-32.29,11.95,4.38,-3.0,-0.67,-0.9,1.15,-0.85,-3.6,-3.1,
+14,19,63,0,,,Anne persisted in denying that she knew anything about the brooch but Marilla was only the more firmly convinced that she did.,,22,1.0,252.0,257.66,3.89,-31.22,12.45,1.52,4.9,0.4,-0.4,-1.71,-0.2,-2.6,0.8,
+14,20,64,0,,,She told Matthew the story the next morning.,,8,1.0,258.4,260.34,4.12,-31.75,12.55,2.57,11.1,-0.13,-0.3,-0.66,-2.55,-3.5,-0.6,
+14,20,65,0,,,Matthew was confounded and puzzled; he could not so quickly lose faith in Anne but he had to admit that circumstances were against her.,,24,1.0,260.82,267.64,3.52,-33.58,13.35,3.68,-5.1,-1.96,0.5,0.45,-11.7,-8.4,-8.2,"puzzled.|0.46|+3.9 Anne,|0.20|+3.9"
+14,21,66,1,?,turns,“You’re sure it hasn’t fell down behind the bureau?” was the only suggestion he could offer.,you're sure it hasn't fell down behind the bureau,9,1.0,268.26,270.46,4.09,-29.82,17.65,5.08,10.2,1.8,4.8,1.85,2.3,-0.6,4.2,
+14,22,67,1,Marilla,tag,“I’ve moved the bureau and I’ve taken out the drawers and I’ve looked in every crack and cranny” was Marilla’s positive answer.,i've moved the bureau and i've taken out the drawers and i've looked in every crack and cranny,18,1.0,272.6,277.68,3.54,-29.97,14.85,3.81,-4.6,1.65,2.0,0.58,-9.8,-15.4,-15.3,
+14,22,68,1,Marilla,tag,“The brooch is gone and that child has taken it and lied about it.,the brooch is gone and that child has taken it and lied about it,14,1.0,279.56,282.88,4.22,-30.52,14.75,4.54,13.7,1.1,1.9,1.31,2.1,-0.2,2.2,
+14,22,69,1,Marilla,tag,"That’s the plain, ugly truth, Matthew Cuthbert, and we might as well look it in the face.”",that's the plain ugly truth matthew cuthbert and we might as well look it in the face,17,1.0,282.96,287.7,3.59,-34.02,13.65,5.21,-3.2,-2.4,0.8,1.98,-12.0,0.0,0.0,
+14,23,70,1,Matthew,tag,"“Well now, what are you going to do about it?”",well now what are you going to do about it,10,1.0,287.7,290.52,3.55,-37.16,10.35,7.15,-4.3,-5.54,-2.5,3.92,-8.7,-17.1,-15.7,now?|0.48|-0.8
+14,23,71,0,,,"Matthew asked forlornly, feeling secretly thankful that Marilla and not he had to deal with the situation.",,17,1.0,290.52,295.68,3.29,-33.45,10.9,2.77,-11.3,-1.83,-1.95,-0.46,-1.05,-2.1,-0.2,"forlornly,|0.20|+5.6"
+14,23,72,0,,,He felt no desire to put his oar in this time.,,11,1.0,296.3,298.74,4.51,-31.57,11.45,2.42,21.6,0.05,-1.4,-0.81,-1.55,-0.5,0.0,
+14,24,73,1,Marilla,tag,"“She’ll stay in her room until she confesses,” said Marilla grimly, remembering the success of this method in the former case.",she'll stay in her room until she confesses,8,1.0,299.34,301.22,4.26,-32.62,14.1,2.19,14.8,-1.0,1.25,-1.04,-2.55,-6.8,-6.4,
+14,24,74,1,Marilla,tag,“Then we’ll see.,then we'll see,3,1.0,305.56,306.44,3.41,-30.2,14.0,5.74,-8.1,1.42,1.15,2.51,0.5,-1.3,12.4,
+14,24,75,1,Marilla,tag,"Perhaps we’ll be able to find the brooch if she’ll only tell where she took it; but in any case she’ll have to be severely punished, Matthew.”",perhaps we'll be able to find the brooch if she'll only tell where she took it but in any case she'll have to be severely punished matthew,27,1.0,306.96,314.22,3.72,-33.18,11.75,4.61,0.3,-1.56,-1.1,1.38,-10.1,0.0,0.0,"it.|0.38|+nan case,|0.32|+nan"
+14,25,76,1,Matthew,tag,"“Well now, you’ll have to punish her,” said Matthew, reaching for his hat.",well now you'll have to punish her,7,1.0,314.22,316.18,3.57,-32.65,11.65,5.29,-3.8,-1.03,-1.2,2.06,0.6,-5.1,-1.6,
+14,25,77,1,Matthew,tag,"“I’ve nothing to do with it, remember.",i've nothing to do with it remember,7,1.0,317.76,319.26,4.67,-32.01,11.3,1.48,25.9,-0.39,-1.55,-1.75,-1.4,-3.2,-0.6,
+14,25,78,1,Matthew,tag,You warned me off yourself.”,you warned me off yourself,5,0.8,319.64,321.46,2.75,-39.63,1.65,5.54,-25.9,-8.01,-11.2,2.31,0.0,-0.6,0.0,
+14,26,79,0,,,Marilla felt deserted by everyone.,,5,1.0,322.06,323.66,3.12,-27.64,12.55,1.36,-15.9,3.98,-0.3,-1.87,-2.55,-2.4,-1.5,
+14,26,80,0,,,She could not even go to Mrs. Lynde for advice.,,10,1.0,324.12,326.24,4.72,-30.06,13.35,3.31,27.2,1.56,0.5,0.08,-3.6,-4.6,-3.9,Mrs.|0.22|+0.9
+14,26,81,0,,,She went up to the east gable with a very serious face and left it with a face more serious still.,,21,1.0,326.96,331.96,4.2,-30.69,12.65,2.95,13.2,0.93,-0.2,-0.28,-2.45,-4.8,-4.7,"face,|0.32|+nan"
+14,26,82,0,,,Anne steadfastly refused to confess.,,5,1.0,332.6,334.62,2.48,-32.67,13.35,1.39,-33.2,-1.05,0.5,-1.84,-2.65,-4.2,-1.8,
+14,26,83,0,,,She persisted in asserting that she had not taken the brooch.,,11,1.0,335.08,337.86,3.96,-32.62,13.05,2.21,6.7,-1.0,0.2,-1.02,-0.85,-3.1,-3.0,
+14,26,84,0,,,The child had evidently been crying and Marilla felt a pang of pity which she sternly repressed.,,17,1.0,338.34,343.0,3.65,-33.07,13.35,3.05,-1.6,-1.45,0.5,-0.18,-2.95,-3.7,-3.4,
+14,26,85,1,Marilla,turns,"By night she was, as she expressed it, “beat out.”",beat out,2,1.0,346.02,346.54,3.85,-30.07,,,3.8,1.55,,,,,,
+14,27,86,1,Matthew,turns,"“You’ll stay in this room until you confess, Anne.",you'll stay in this room until you confess anne,9,1.0,347.18,349.62,3.69,-29.82,15.05,5.4,-0.5,1.8,2.2,2.17,0.2,-1.5,1.3,
+14,27,87,1,Matthew,turns,"You can make up your mind to that,” she said firmly.",you can make up your mind to that,8,1.0,349.86,351.58,4.65,-29.95,13.55,2.86,25.3,1.67,0.7,-0.37,0.4,-0.4,1.2,
+14,28,88,1,Anne,tag,"“But the picnic is tomorrow, Marilla,” cried Anne.",but the picnic is tomorrow marilla,6,1.0,352.82,354.88,2.91,-30.29,13.85,6.94,-21.6,1.33,1.0,3.71,3.6,-1.2,10.0,
+14,28,89,1,Anne,tag,"“You won’t keep me from going to that, will you?",you won't keep me from going to that will you,10,1.0,355.58,357.88,4.35,-31.82,15.35,3.43,17.3,-0.2,2.5,0.2,0.35,-0.9,9.9,
+14,28,90,1,Anne,tag,"You’ll just let me out for the afternoon, won’t you?",you'll just let me out for the afternoon won't you,10,1.0,358.26,360.44,4.59,-29.77,16.05,3.22,23.7,1.85,3.2,-0.01,2.2,-0.7,-0.2,
+14,28,91,1,Anne,tag,Then I’ll stay here as long as you like afterwards cheerfully.,then i'll stay here as long as you like afterwards cheerfully,11,1.0,360.74,363.44,4.07,-28.95,15.2,3.05,9.7,2.67,2.35,-0.18,-3.45,-10.1,-9.1,"afterwards,|0.26|+nan"
+14,28,92,1,Anne,tag,But I must go to the picnic.”,but i must go to the picnic,7,1.0,363.84,365.76,3.65,-35.14,13.45,7.6,-1.6,-3.52,0.6,4.37,-11.8,0.0,0.0,
+14,29,93,1,Matthew,turns,"“You’ll not go to picnics nor anywhere else until you’ve confessed, Anne.”",you'll not go to picnics nor anywhere else until you've confessed anne,12,1.0,365.76,369.12,3.57,-30.4,13.95,4.61,-3.8,1.22,1.1,1.38,0.1,-1.7,3.0,"confessed,|0.36|+nan"
+14,30,94,1,Anne,tag,"“Oh, Marilla,” gasped Anne.",oh marilla,2,1.0,370.12,371.0,2.27,-30.47,14.35,9.26,-38.8,1.15,1.5,6.03,-12.7,-23.7,-23.0,
+14,31,95,0,,,But Marilla had gone out and shut the door.,,9,1.0,372.42,374.48,4.37,-27.67,14.4,4.34,17.8,3.95,1.55,1.11,-0.95,-4.5,-3.2,
+14,32,96,0,,,Wednesday morning dawned as bright and fair as if expressly made to order for the picnic.,,16,1.0,375.48,379.72,3.77,-30.1,13.0,1.42,1.6,1.52,0.15,-1.81,-0.45,-4.1,-3.2,
+14,32,97,0,,,"Birds sang around Green Gables; the Madonna lilies in the garden sent out whiffs of perfume that entered in on viewless winds at every door and window, and wandered through halls and rooms like spirits of benediction.",,37,0.95,380.4,391.14,3.45,-31.81,12.65,1.22,-7.0,-0.19,-0.2,-2.01,0.15,-0.5,0.5,"gables.|0.36|+2.3 in|0.56|+1.0 window,|0.34|+1.5"
+14,32,98,0,,,The birches in the hollow waved joyful hands as if watching for Anne’s usual morning greeting from the east gable.,,20,1.0,391.8,397.62,3.44,-32.47,12.95,1.99,-7.3,-0.85,0.1,-1.24,-1.1,-0.9,0.5,
+14,32,99,0,,,But Anne was not at her window.,,7,1.0,398.18,399.64,4.79,-31.48,13.45,4.9,29.1,0.14,0.6,1.67,-2.7,-4.8,-3.9,
+14,32,100,0,,,"When Marilla took her breakfast up to her she found the child sitting primly on her bed, pale and resolute, with tight-shut lips and gleaming eyes.",,27,1.0,400.22,407.94,3.5,-33.06,12.55,4.25,-5.7,-1.44,-0.3,1.02,-2.4,-3.3,-2.8,"her,|0.24|+4.2 bed,|0.34|+1.2 resolute,|0.38|+nan"
+14,33,101,1,Matthew,turns,"“Marilla, I’m ready to confess.”",marilla i'm ready to confess,5,1.0,408.7,411.2,2.0,-40.02,12.5,6.79,-46.1,-8.4,-0.35,3.56,-10.85,0.0,0.0,"""'Marilla,|0.34|-12.8"
+14,34,102,1,Anne,turns,“Ah!”,ah,1,1.0,,,,,,,,,,,,,,
+14,34,103,0,,,Marilla laid down her tray.,,5,1.0,412.32,413.56,4.03,-29.3,11.0,1.01,8.6,2.32,-1.85,-2.22,0.75,-4.1,-0.9,
+14,34,104,0,,,Once again her method had succeeded; but her success was very bitter to her.,,14,1.0,413.98,418.28,3.26,-35.04,12.25,4.42,-12.1,-3.42,-0.6,1.19,-1.6,-3.7,-1.65,succeeded.|0.46|+nan
+14,34,105,1,Anne,turns,"“Let me hear what you have to say then, Anne.”",let me hear what you have to say then anne,10,1.0,418.78,421.3,3.97,-34.64,1.9,5.75,7.0,-3.02,-10.95,2.52,-0.25,0.0,0.0,
+14,35,106,1,Anne,tag,"“I took the amethyst brooch,” said Anne, as if repeating a lesson she had learned.",i took the amethyst brooch,5,1.0,421.3,423.5,2.27,-36.91,13.25,6.69,-38.8,-5.29,0.4,3.46,-11.6,-13.5,-13.5,
+14,35,107,1,Anne,tag,“I took it just as you said.,i took it just as you said,7,1.0,425.96,427.5,4.55,-32.37,15.15,6.0,22.6,-0.75,2.3,2.77,1.4,-0.2,1.9,
+14,35,108,1,Anne,tag,I didn’t mean to take it when I went in.,i didn't mean to take it when i went in,10,1.0,427.78,429.84,4.85,-30.89,13.2,5.04,30.7,0.73,0.35,1.81,-2.5,-1.4,-1.4,
+14,35,109,1,Anne,tag,"But it did look so beautiful, Marilla, when I pinned it on my breast that I was overcome by an irresistible temptation.",but it did look so beautiful marilla when i pinned it on my breast that i was overcome by an irresistible temptation,22,1.0,430.16,435.9,3.83,-31.26,14.35,2.29,3.2,0.36,1.5,-0.94,-1.85,-3.2,-3.0,"beautiful,|0.26|-4.7 breast,|0.28|+nan"
+14,35,110,1,Anne,tag,I imagined how perfectly thrilling it would be to take it to Idlewild and play I was the Lady Cordelia Fitzgerald.,i imagined how perfectly thrilling it would be to take it to idlewild and play i was the lady cordelia fitzgerald,21,1.0,436.76,442.44,3.7,-32.29,13.95,2.74,-0.3,-0.67,1.1,-0.49,-0.9,-2.2,-0.9,
+14,35,111,1,Anne,tag,It would be so much easier to imagine I was the Lady Cordelia if I had a real amethyst brooch on.,it would be so much easier to imagine i was the lady cordelia if i had a real amethyst brooch on,21,0.95,443.02,447.96,4.25,-33.45,12.95,3.21,14.6,-1.83,0.1,-0.02,0.3,-0.2,-0.1,amethyst|0.36|-11.5
+14,35,112,1,Anne,tag,Diana and I make necklaces of roseberries but what are roseberries compared to amethysts?,diana and i make necklaces of roseberries but what are roseberries compared to amethysts,14,0.93,448.58,453.04,3.14,-32.6,14.75,2.23,-15.4,-0.98,1.9,-1.0,-13.1,-14.8,-14.7,I|0.22|+1.1
+14,35,113,1,Anne,tag,So I took the brooch.,so i took the brooch,5,1.0,453.26,454.4,4.39,-34.86,13.45,5.99,18.3,-3.24,0.6,2.76,1.25,-2.5,0.7,
+14,35,114,1,Anne,tag,I thought I could put it back before you came home.,i thought i could put it back before you came home,11,1.0,454.68,457.02,4.7,-33.86,13.95,2.9,26.7,-2.24,1.1,-0.33,-1.6,-4.7,-1.6,
+14,35,115,1,Anne,tag,I went all the way around by the road to lengthen out the time.,i went all the way around by the road to lengthen out the time,14,1.0,457.54,460.68,4.46,-28.32,13.2,1.73,20.2,3.3,0.35,-1.5,-1.3,-2.3,-1.2,
+14,35,116,1,Anne,tag,When I was going over the bridge across the Lake of Shining Waters I took the brooch off to have another look at it.,when i was going over the bridge across the lake of shining waters i took the brooch off to have another look at it,24,1.0,461.2,466.3,4.71,-31.67,13.5,2.85,27.0,-0.05,0.65,-0.38,-11.85,-13.6,-13.6,
+14,35,117,1,Anne,tag,"Oh, how it did shine in the sunlight!",oh how it did shine in the sunlight,8,1.0,466.52,468.46,4.12,-31.07,13.65,3.54,11.1,0.55,0.8,0.31,-2.6,-3.7,-3.6,
+14,35,118,1,Anne,tag,"And then, when I was leaning over the bridge, it just slipped through my fingers—so—and went down—down—down, all purply-sparkling, and sank forevermore beneath the Lake of Shining Waters.",and then when i was leaning over the bridge it just slipped through my fingers so and went down down down all purply sparkling and sank forevermore beneath the lake of shining waters,33,0.97,468.92,480.78,2.78,-32.42,14.25,2.8,-25.1,-0.8,1.4,-0.43,-2.55,-2.3,-2.0,"bridge,|0.28|+nan down,|0.34|-0.8 down,|0.46|-0.9 down,|0.36|+3.1 sank|0.76|-0.9"
+14,35,119,1,Anne,tag,"And that’s the best I can do at confessing, Marilla.”",and that's the best i can do at confessing marilla,10,1.0,481.34,484.36,3.31,-37.91,11.05,5.83,-10.8,-6.29,-1.8,2.6,-9.4,0.0,0.0,
+14,36,120,0,,,Marilla felt hot anger surge up into her heart again.,,10,1.0,484.36,487.7,2.99,-33.62,12.15,3.66,-19.4,-2.0,-0.7,0.43,-2.1,-2.9,-1.1,
+14,36,121,0,,,This child had taken and lost her treasured amethyst brooch and now sat there calmly reciting the details thereof without the least apparent compunction or repentance.,,26,1.0,488.28,496.76,3.07,-29.72,16.95,3.06,-17.3,1.9,4.1,-0.17,6.8,0.0,4.85,
+14,37,122,1,,tag,"“Anne, this is terrible,” she said, trying to speak calmly.",anne this is terrible,4,1.0,497.64,499.32,2.38,-31.21,16.05,6.57,-35.8,0.41,3.2,3.34,-14.4,-20.3,-17.1,
+14,37,123,1,,tag,“You are the very wickedest girl I ever heard of.”,you are the very wickedest girl i ever heard of,10,1.0,501.6,504.58,3.36,-30.65,15.35,5.38,-9.4,0.97,2.5,2.15,-13.7,-10.8,-8.9,
+14,38,124,1,Anne,tag,"“Yes, I suppose I am,” agreed Anne tranquilly.",yes i suppose i am,5,1.0,504.58,506.56,2.53,-34.92,10.65,6.22,-31.8,-3.3,-2.2,2.99,-9.0,-14.1,-13.7,"""'Yes,|0.24|+14.0"
+14,38,125,1,Anne,tag,“And I know I’ll have to be punished.,and i know i'll have to be punished,8,1.0,508.32,509.88,5.13,-30.56,15.6,2.1,38.3,1.06,2.75,-1.13,-0.85,-2.8,-2.4,
+14,38,126,1,Anne,tag,"It’ll be your duty to punish me, Marilla.",it'll be your duty to punish me marilla,8,1.0,510.26,512.12,4.3,-32.01,15.35,2.67,15.9,-0.39,2.5,-0.56,-5.4,-4.9,-4.1,
+14,38,127,1,Anne,tag,Won’t you please get it over right off because I’d like to go to the picnic with nothing on my mind.”,won't you please get it over right off because i'd like to go to the picnic with nothing on my mind,21,1.0,512.56,517.44,4.3,-31.77,13.55,5.2,15.9,-0.15,0.7,1.97,-11.9,0.0,0.0,"off,|0.26|+2.7"
+14,39,128,1,?,turns,"“Picnic, indeed!",picnic indeed,2,1.0,517.44,518.64,1.67,-35.37,1.65,0.0,-55.0,-3.75,-11.2,-3.23,0.0,0.0,0.0,
+14,39,129,1,?,turns,"You’ll go to no picnic today, Anne Shirley.",you'll go to no picnic today anne shirley,8,0.88,519.26,521.0,4.6,-29.57,14.15,5.13,24.0,2.05,1.3,1.9,-3.2,-3.8,-1.3,
+14,39,130,1,?,turns,That shall be your punishment.,that shall be your punishment,5,1.0,521.72,522.78,4.72,-29.26,12.95,0.5,27.2,2.36,0.1,-2.73,0.0,-0.6,0.0,
+14,39,131,1,?,turns,And it isn’t half severe enough either for what you’ve done!”,and it isn't half severe enough either for what you've done,11,1.0,522.78,526.92,2.66,-34.45,9.65,6.73,-28.3,-2.83,-3.2,3.5,-8.0,0.0,0.0,
+14,40,132,1,Anne,turns,“Not go to the picnic!”,not go to the picnic,5,1.0,526.92,528.86,2.58,-33.97,16.75,9.71,-30.5,-2.35,3.9,6.48,-15.1,-14.1,-13.0,
+14,40,133,0,,,Anne sprang to her feet and clutched Marilla’s hand.,,9,1.0,528.86,531.68,3.19,-30.98,12.9,3.64,-14.0,0.64,0.05,0.41,-0.95,-4.9,-2.6,
+14,40,134,1,Anne,turns,“But you promised me I might!,but you promised me i might,6,1.0,532.12,533.78,3.61,-28.29,16.0,6.26,-2.7,3.33,3.15,3.03,-3.3,-4.4,-4.3,
+14,40,135,1,Anne,turns,"Oh, Marilla, I must go to the picnic.",oh marilla i must go to the picnic,8,1.0,534.2,536.04,4.35,-26.66,17.15,5.08,17.3,4.96,4.3,1.85,0.2,-1.4,5.6,
+14,40,136,1,Anne,turns,That was why I confessed.,that was why i confessed,5,1.0,536.38,537.64,3.97,-28.59,22.05,2.4,7.0,3.03,9.2,-0.83,1.55,-6.1,3.0,
+14,40,137,1,Anne,turns,Punish me any way you like but that.,punish me any way you like but that,8,1.0,538.22,539.94,4.65,-27.12,20.75,1.93,25.3,4.5,7.9,-1.3,-2.1,-4.3,-4.2,
+14,40,138,1,Anne,turns,"Oh, Marilla, please, please, let me go to the picnic.",oh marilla please please let me go to the picnic,10,1.0,540.34,543.0,3.76,-29.67,21.05,2.01,1.3,1.95,8.2,-1.22,1.2,-0.5,3.9,"please,|0.42|+0.4"
+14,40,139,1,Anne,turns,Think of the ice cream!,think of the ice cream,5,1.0,543.42,544.42,5.0,-29.04,22.85,2.36,34.8,2.58,10.0,-0.87,1.75,-1.7,1.0,
+14,40,140,1,Anne,turns,For anything you know I may never have a chance to taste ice cream again.”,for anything you know i may never have a chance to taste ice cream again,15,1.0,544.82,548.7,3.87,-27.89,20.85,6.7,4.3,3.73,8.0,3.47,-19.2,-23.3,-13.25,
+14,41,141,0,,,Marilla disengaged Anne’s clinging hands stonily.,,6,1.0,549.24,552.04,2.14,-32.3,12.85,1.34,-42.3,-0.68,0.0,-1.89,-0.95,-2.0,0.7,
+14,42,142,1,?,turns,"“You needn’t plead, Anne.",you needn't plead anne,4,1.0,552.62,553.98,2.94,-31.39,14.1,6.02,-20.8,0.23,1.25,2.79,3.25,-0.2,16.4,"plead,|0.28|+nan"
+14,42,143,1,?,turns,You are not going to the picnic and that’s final.,you are not going to the picnic and that's final,10,1.0,554.18,556.62,4.1,-30.52,12.95,4.1,10.5,1.1,0.1,0.87,1.25,-0.2,3.7,
+14,42,144,1,?,turns,"No, not a word.”",no not a word,4,1.0,556.84,558.6,2.27,-34.23,2.95,5.82,-38.8,-2.61,-9.9,2.59,-1.3,-12.4,-11.6,No?|0.42|+12.6
+14,43,145,0,,,Anne realized that Marilla was not to be moved.,,9,1.0,558.6,561.62,2.98,-33.35,11.45,5.21,-19.7,-1.73,-1.4,1.98,-0.7,-2.5,-2.2,
+14,43,146,0,,,"She clasped her hands together, gave a piercing shriek, and then flung herself face downward on the bed, crying and writhing in an utter abandonment of disappointment and despair.",,29,1.0,562.14,571.38,3.14,-31.21,14.35,2.35,-15.4,0.41,1.5,-0.88,-0.45,-3.5,-3.1,"shriek,|0.24|+nan bed,|0.34|+3.5"
+14,44,147,1,Marilla,tag,"“For the land’s sake!” gasped Marilla, hastening from the room.",for the land's sake,4,0.5,,,,,,,,,,,,,,
+14,44,148,1,Marilla,tag,“I believe the child is crazy.,i believe the child is crazy,6,1.0,575.58,577.44,3.23,-33.3,16.15,3.11,-12.9,-1.68,3.3,-0.12,4.7,-1.5,-1.3,
+14,44,149,1,Marilla,tag,No child in her senses would behave as she does.,no child in her senses would behave as she does,10,1.0,577.86,580.1,4.46,-31.34,13.6,4.59,20.2,0.28,0.75,1.36,5.05,-2.7,4.4,
+14,44,150,1,Marilla,tag,If she isn’t she’s utterly bad.,if she isn't she's utterly bad,6,0.83,580.78,582.86,2.88,-32.57,13.05,6.09,-22.4,-0.95,0.2,2.86,-11.4,0.0,0.0,
+14,44,151,1,Marilla,tag,"Oh dear, I’m afraid Rachel was right from the first.",oh dear i'm afraid rachel was right from the first,10,1.0,581.7,585.04,2.99,-32.28,13.3,5.86,-19.4,-0.66,0.45,2.63,3.15,-0.9,2.5,
+14,44,152,1,Marilla,tag,But I’ve put my hand to the plow and I won’t look back.”,but i've put my hand to the plow and i won't look back,13,0.92,585.52,588.4,4.51,-30.5,15.05,5.88,21.6,1.12,2.2,2.65,-13.4,0.0,0.0,
+14,45,153,0,,,That was a dismal morning.,,5,1.0,589.02,590.5,3.38,-31.48,10.95,8.24,-8.9,0.14,-1.9,5.01,-0.6,-15.0,-14.7,
+14,45,154,0,,,Marilla worked fiercely and scrubbed the porch floor and the dairy shelves when she could find nothing else to do.,,20,1.0,591.3,595.86,4.39,-30.94,13.7,1.51,18.3,0.68,0.85,-1.72,-1.45,-0.3,0.2,
+14,45,155,0,,,Neither the shelves nor the porch needed it—but Marilla did.,,11,1.0,596.3,599.16,3.85,-29.21,14.25,4.02,3.8,2.41,1.4,0.79,-4.25,-3.9,7.6,
+14,45,156,0,,,Then she went out and raked the yard.,,8,1.0,599.58,601.28,4.71,-28.34,12.55,2.98,27.0,3.28,-0.3,-0.25,-0.9,-2.6,-2.2,
+14,46,157,0,,,When dinner was ready she went to the stairs and called Anne.,,12,1.0,601.28,604.76,3.45,-30.98,12.25,5.93,-7.0,0.64,-0.6,2.7,-1.25,-2.3,-2.0,
+14,46,158,0,,,"A tear-stained face appeared, looking tragically over the banisters.",,10,1.0,605.12,608.18,3.27,-30.73,12.05,2.3,-11.9,0.89,-0.8,-0.93,-1.7,-1.7,-0.6,
+14,47,159,1,?,turns,"“Come down to your dinner, Anne.”",come down to your dinner anne,6,1.0,608.92,610.34,4.23,-26.41,16.55,6.3,14.0,5.21,3.7,3.07,-5.8,-17.8,-16.9,
+14,48,160,1,Anne,tag,"“I don’t want any dinner, Marilla,” said Anne, sobbingly.",i don't want any dinner marilla,6,1.0,610.34,612.66,2.59,-30.12,13.15,6.52,-30.2,1.5,0.3,3.29,-0.5,-12.1,-11.8,
+14,48,161,1,Anne,tag,“I couldn’t eat anything.,i couldn't eat anything,4,1.0,614.12,615.48,2.94,-30.23,17.25,1.87,-20.8,1.39,4.4,-1.36,-0.55,-1.4,-0.6,
+14,48,162,1,Anne,tag,My heart is broken.,my heart is broken,4,1.0,615.64,616.8,3.45,-30.34,18.75,1.43,-7.0,1.28,5.9,-1.8,-2.5,-3.7,-3.4,
+14,48,163,1,Anne,tag,"You’ll feel remorse of conscience someday, I expect, for breaking it, Marilla, but I forgive you.",you'll feel remorse of conscience someday i expect for breaking it marilla but i forgive you,16,0.94,617.24,621.94,3.4,-30.08,16.25,3.0,-8.4,1.54,3.4,-0.23,8.8,-0.5,8.7,conscience|0.56|-4.6 Marilla.|0.20|+4.1
+14,48,164,1,Anne,tag,Remember when the time comes that I forgive you.,remember when the time comes that i forgive you,9,1.0,622.34,624.82,3.63,-29.11,17.55,2.12,-2.2,2.51,4.7,-1.11,-5.1,-5.8,-4.6,
+14,48,165,1,Anne,tag,"But please don’t ask me to eat anything, especially boiled pork and greens.",but please don't ask me to eat anything especially boiled pork and greens,13,1.0,625.28,629.42,3.14,-31.85,15.35,2.47,-15.4,-0.23,2.5,-0.76,-1.65,-3.1,-2.3,"anything,|0.36|+4.5"
+14,48,166,1,Anne,tag,Boiled pork and greens are so unromantic when one is in affliction.”,boiled pork and greens are so unromantic when one is in affliction,12,1.0,630.08,634.02,3.05,-32.23,12.25,5.29,-17.8,-0.61,-0.6,2.06,-10.6,0.0,0.0,
+14,49,167,0,,,"Exasperated, Marilla returned to the kitchen and poured out her tale of woe to Matthew, who, between his sense of justice and his unlawful sympathy with Anne, was a miserable man.",,31,0.97,634.7,644.12,3.29,-32.31,12.85,3.59,-11.3,-0.69,0.0,0.36,-2.25,-3.1,-3.0,"Exasperated,|0.20|+3.1 Matthew,|0.24|+13.8 sympathy|0.34|+nan"
+14,50,168,1,?,turns,"“Well now, she shouldn’t have taken the brooch, Marilla, or told stories about it,” he admitted, mournfully surveying his plateful of unromantic pork and greens as if he, like Anne, thought it a food unsuited to crises of feeling, “but she’s such a little thing—such an interesting little thing.",well now she shouldn't have taken the brooch marilla or told stories about it but she's such a little thing such an interesting little thing,25,1.0,645.18,661.52,3.36,-32.88,12.45,5.95,-9.4,-1.26,-0.4,2.72,0.4,-1.3,1.4,"now,|0.24|+nan"
+14,50,169,1,?,turns,Don’t you think it’s pretty rough not to let her go to the picnic when she’s so set on it?”,don't you think it's pretty rough not to let her go to the picnic when she's so set on it,20,1.0,661.96,665.8,5.21,-33.75,13.7,4.54,40.4,-2.13,0.85,1.31,0.25,-12.6,-11.5,
+14,51,170,1,Anne,turns,"“Matthew Cuthbert, I’m amazed at you.",matthew cuthbert i'm amazed at you,6,1.0,666.42,668.4,3.03,-34.75,11.55,3.43,-18.3,-3.13,-1.3,0.2,-2.3,-3.6,-3.4,
+14,51,171,1,Anne,turns,I think I’ve let her off entirely too easy.,i think i've let her off entirely too easy,9,1.0,668.7,671.0,3.91,-30.71,13.75,2.73,5.4,0.91,0.9,-0.5,2.15,-2.4,-0.1,
+14,51,172,1,Anne,turns,And she doesn’t appear to realize how wicked she’s been at all—that’s what worries me most.,and she doesn't appear to realize how wicked she's been at all that's what worries me most,17,1.0,671.34,675.74,3.86,-31.02,17.9,4.52,4.0,0.6,5.05,1.29,-4.4,-0.3,1.7,all.|0.40|-3.9
+14,51,173,1,Anne,turns,If she’d really felt sorry it wouldn’t be so bad.,if she'd really felt sorry it wouldn't be so bad,10,1.0,676.28,678.72,4.1,-29.73,12.2,5.47,10.5,1.89,-0.65,2.24,-1.0,-7.6,-0.7,
+14,51,174,1,Anne,turns,"And you don’t seem to realize it, neither; you’re making excuses for her all the time to yourself—I can see that.”",and you don't seem to realize it neither you're making excuses for her all the time to yourself i can see that,22,1.0,679.18,684.46,4.17,-31.02,14.25,4.38,12.4,0.6,1.4,1.15,-12.55,-0.05,0.0,neither.|0.40|+1.3
+14,52,175,1,?,turns,"“Well now, she’s such a little thing,” feebly reiterated Matthew.",well now she's such a little thing,7,1.0,685.14,687.44,3.04,-36.15,20.35,8.59,-18.1,-4.53,7.5,5.36,0.6,-0.2,2.1,
+14,52,176,1,?,turns,"“And there should be allowances made, Marilla.",and there should be allowances made marilla,7,1.0,689.06,691.04,3.54,-32.45,11.95,4.45,-4.6,-0.83,-0.9,1.22,0.3,-0.8,3.1,
+14,52,177,1,?,turns,You know she’s never had any bringing up.”,you know she's never had any bringing up,8,1.0,691.36,693.38,3.96,-33.3,11.1,5.64,6.7,-1.68,-1.75,2.41,-9.45,-10.0,-8.4,
+14,53,178,1,Marilla,tag,"“Well, she’s having it now” retorted Marilla.",well she's having it now,5,1.0,693.38,695.36,2.53,-35.72,1.65,6.41,-31.8,-4.1,-11.2,3.18,0.0,-14.1,-11.4,
+14,54,179,0,,,The retort silenced Matthew if it did not convince him.,,10,1.0,697.12,700.2,3.25,-36.9,13.05,6.17,-12.4,-5.28,0.2,2.94,-11.4,0.0,0.0,
+14,54,180,0,,,That dinner was a very dismal meal.,,7,1.0,700.64,702.44,3.89,-30.3,12.85,1.91,4.9,1.32,0.0,-1.32,-2.35,-3.3,-2.45,
+14,54,181,0,,,"The only cheerful thing about it was Jerry Buote, the hired boy, and Marilla resented his cheerfulness as a personal insult.",,21,0.95,702.92,708.76,3.6,-31.45,12.55,2.32,-3.0,0.17,-0.3,-0.91,1.8,-0.5,-0.4,Jerry|0.54|-0.9
+14,55,182,0,,,When her dishes were washed and her bread sponge set and her hens fed Marilla remembered that she had noticed a small rent in her best black lace shawl when she had taken it off on Monday afternoon on returning from the Ladies’ Aid.,,44,0.98,709.38,721.24,3.71,-31.52,12.25,3.61,0.0,0.1,-0.6,0.38,-0.1,-0.4,2.3,"fed,|0.52|+nan the|0.38|-9.1"
+14,56,183,0,,,She would go and mend it.,,6,1.0,721.82,722.86,5.77,-31.32,13.7,5.1,55.5,0.3,0.85,1.87,-12.05,-12.8,-11.8,
+14,56,184,0,,,The shawl was in a box in her trunk.,,9,1.0,723.24,724.86,5.56,-32.36,13.4,1.24,49.9,-0.74,0.55,-1.99,-2.2,-3.3,-3.2,
+14,56,185,0,,,"As Marilla lifted it out, the sunlight, falling through the vines that clustered thickly about the window, struck upon something caught in the shawl—something that glittered and sparkled in facets of violet light.",,34,1.0,725.52,735.86,3.29,-32.42,13.15,4.55,-11.3,-0.8,0.3,1.32,-0.6,-2.9,-1.5,"out,|0.24|+6.7 sunlight,|0.40|+1.1 window,|0.54|+2.9"
+14,56,186,0,,,Marilla snatched at it with a gasp.,,7,1.0,736.5,738.0,4.67,-32.57,14.15,4.09,25.9,-0.95,1.3,0.86,0.0,-1.2,0.3,
+14,56,187,0,,,"It was the amethyst brooch, hanging to a thread of the lace by its catch!",,15,1.0,738.58,741.98,4.41,-32.09,13.15,5.5,18.9,-0.47,0.3,2.27,-11.35,-8.0,-7.85,
+14,57,188,1,Marilla,tag,"“Dear life and heart,” said Marilla blankly, “what does this mean?",dear life and heart what does this mean,8,1.0,743.06,747.46,1.82,-34.73,12.55,8.47,-50.9,-3.11,-0.3,5.24,8.8,-9.9,-5.8,"heart,'|1.32|+nan"
+14,57,189,1,Marilla,tag,Here’s my brooch safe and sound that I thought was at the bottom of Barry’s pond.,here's my brooch safe and sound that i thought was at the bottom of barry's pond,16,1.0,747.88,751.52,4.4,-30.95,14.55,4.6,18.6,0.67,1.7,1.37,0.3,-0.2,2.4,
+14,57,190,1,Marilla,tag,Whatever did that girl mean by saying she took it and lost it?,whatever did that girl mean by saying she took it and lost it,13,1.0,752.12,755.26,4.14,-31.63,14.75,5.62,11.6,-0.01,1.9,2.39,-13.1,-23.5,-18.0,
+14,57,191,1,Marilla,tag,I declare I believe Green Gables is bewitched.,i declare i believe green gables is bewitched,8,1.0,755.54,758.24,2.96,-31.32,13.65,5.13,-20.2,0.3,0.8,1.9,0.55,-4.1,-3.6,
+14,57,192,1,Marilla,tag,I remember now that when I took off my shawl Monday afternoon I laid it on the bureau for a minute.,i remember now that when i took off my shawl monday afternoon i laid it on the bureau for a minute,21,1.0,758.88,763.68,4.38,-28.66,13.55,3.63,18.1,2.96,0.7,0.4,-3.15,-8.1,-7.7,
+14,57,193,1,Marilla,tag,I suppose the brooch got caught in it somehow.,i suppose the brooch got caught in it somehow,9,1.0,764.1,766.72,3.44,-37.42,11.55,7.11,-7.3,-5.8,-1.3,3.88,-9.9,0.0,0.0,
+14,57,194,1,Marilla,tag,Well!”,well,1,1.0,,,,,,,,,,,,,,
+14,58,195,0,,,"Marilla betook herself to the east gable, brooch in hand.",,10,1.0,768.64,771.56,3.42,-31.03,12.85,1.9,-7.8,0.59,0.0,-1.33,-2.4,-0.4,0.9,
+14,58,196,0,,,Anne had cried herself out and was sitting dejectedly by the window.,,12,1.0,772.28,775.26,4.03,-31.67,12.5,1.79,8.6,-0.05,-0.35,-1.44,-1.6,-0.8,1.2,
+14,59,197,1,Marilla,tag,"“Anne Shirley,” said Marilla solemnly, “I’ve just found my brooch hanging to my black lace shawl.",anne shirley i've just found my brooch hanging to my black lace shawl,13,1.0,776.2,782.08,3.01,-29.91,14.2,5.58,-18.9,1.71,1.35,2.35,-12.55,-11.9,-11.75,
+14,59,198,1,Marilla,tag,Now I want to know what that rigmarole you told me this morning meant.”,now i want to know what that rigmarole you told me this morning meant,14,0.93,782.44,786.18,3.74,-29.44,14.0,5.6,0.8,2.18,1.15,2.37,-12.35,-8.7,-8.0,that|0.58|-3.3
+14,60,199,1,Anne,tag,"“Why, you said you’d keep me here until I confessed,” returned Anne wearily, “and so I decided to confess because I was bound to get to the picnic.",why you said you'd keep me here until i confessed and so i decided to confess because i was bound to get to the picnic,25,1.0,786.18,793.86,4.11,-33.26,14.65,5.35,10.8,-1.64,1.8,2.12,0.65,-2.4,0.9,
+14,60,200,1,Anne,tag,I thought out a confession last night after I went to bed and made it as interesting as I could.,i thought out a confession last night after i went to bed and made it as interesting as i could,20,1.0,794.3,798.86,4.39,-31.14,13.6,3.23,18.3,0.48,0.75,0.0,-0.95,-3.5,-3.4,
+14,60,201,1,Anne,tag,And I said it over and over so that I wouldn’t forget it.,and i said it over and over so that i wouldn't forget it,13,1.0,799.12,801.62,5.2,-30.62,13.85,3.07,40.2,1.0,1.0,-0.16,-12.2,-13.1,-11.15,
+14,60,202,1,Anne,tag,"But you wouldn’t let me go to the picnic after all, so all my trouble was wasted.”",but you wouldn't let me go to the picnic after all so all my trouble was wasted,17,1.0,801.9,806.48,3.71,-33.23,14.15,5.72,0.0,-1.61,1.3,2.49,-12.5,0.0,0.0,
+14,61,203,0,,,Marilla had to laugh in spite of herself.,,8,1.0,806.48,808.54,3.88,-29.52,12.15,3.15,4.6,2.1,-0.7,-0.08,-1.6,-2.6,-2.1,
+14,61,204,0,,,But her conscience pricked her.,,5,1.0,808.94,810.3,3.68,-33.32,15.6,6.2,-0.8,-1.7,2.75,2.97,1.95,-3.1,1.1,
+14,62,205,1,Marilla,turns,"“Anne, you do beat all!",anne you do beat all,5,1.0,810.7,812.14,3.47,-30.72,13.55,3.18,-6.5,0.9,0.7,-0.05,-4.25,-6.5,-4.9,
+14,62,206,1,Marilla,turns,But I was wrong—I see that now.,but i was wrong i see that now,8,1.0,812.46,814.16,4.71,-30.47,10.45,4.44,27.0,1.15,-2.4,1.21,-0.75,-4.4,-1.9,
+14,62,207,1,Marilla,turns,I shouldn’t have doubted your word when I’d never known you to tell a story.,i shouldn't have doubted your word when i'd never known you to tell a story,15,1.0,814.36,817.42,4.9,-30.26,12.25,2.28,32.1,1.36,-0.6,-0.95,-1.6,-3.8,-1.2,
+14,62,208,1,Marilla,turns,"Of course, it wasn’t right for you to confess to a thing you hadn’t done—it was very wrong to do so.",of course it wasn't right for you to confess to a thing you hadn't done it was very wrong to do so,22,1.0,817.8,822.66,4.53,-32.58,13.45,3.09,22.1,-0.96,0.6,-0.14,-11.35,-0.15,0.0,"course,|0.24|+nan done.|0.28|+nan"
+14,62,209,1,Marilla,turns,But I drove you to it.,but i drove you to it,6,1.0,823.0,824.1,5.45,-29.81,15.95,6.35,46.9,1.81,3.1,3.12,11.9,0.0,13.2,
+14,62,210,1,Marilla,turns,"So if you’ll forgive me, Anne, I’ll forgive you and we’ll start square again.",so if you'll forgive me anne i'll forgive you and we'll start square again,14,1.0,824.44,827.72,4.27,-31.27,13.45,2.75,15.1,0.35,0.6,-0.48,-1.7,-1.7,-1.5,
+14,62,211,1,Marilla,turns,And now get yourself ready for the picnic.”,and now get yourself ready for the picnic,8,1.0,828.12,830.26,3.74,-32.89,13.15,6.06,0.8,-1.27,0.3,2.83,-11.5,0.0,0.0,
+14,63,212,0,,,Anne flew up like a rocket.,,6,1.0,830.26,831.66,4.29,-32.62,11.65,4.43,15.6,-1.0,-1.2,1.2,0.55,-0.9,0.7,
+14,64,213,1,Anne,turns,"“Oh, Marilla, isn’t it too late?”",oh marilla isn't it too late,6,1.0,832.2,834.06,3.23,-27.55,16.75,7.5,-12.9,4.07,3.9,4.27,0.6,-1.7,4.8,"Marilla,|0.48|+4.8"
+14,65,214,1,Marilla,turns,"“No, it’s only two o’clock.",no it's only two o'clock,5,0.8,834.48,835.4,5.43,-29.9,19.95,1.84,46.4,1.72,7.1,-1.39,-0.15,-2.8,1.5,
+14,65,215,1,Marilla,turns,They won’t be more than well gathered yet and it’ll be an hour before they have tea.,they won't be more than well gathered yet and it'll be an hour before they have tea,17,1.0,836.06,839.74,4.62,-27.7,14.35,1.63,24.5,3.92,1.5,-1.6,-0.85,-2.4,-2.2,"yet,|0.28|+nan"
+14,65,216,1,Marilla,turns,Wash your face and comb your hair and put on your gingham.,wash your face and comb your hair and put on your gingham,12,1.0,840.3,842.44,5.61,-29.25,13.85,2.88,51.2,2.37,1.0,-0.35,-1.0,-4.3,-1.55,
+14,65,217,1,Marilla,turns,I’ll fill a basket for you.,i'll fill a basket for you,6,1.0,842.68,843.92,4.84,-32.64,13.25,3.85,30.5,-1.02,0.4,0.62,0.8,-0.4,12.5,
+14,65,218,1,Marilla,turns,There’s plenty of stuff baked in the house.,there's plenty of stuff baked in the house,8,1.0,844.14,845.82,4.76,-32.71,,,28.3,-1.09,,,,,,
+14,65,219,1,Marilla,turns,And I’ll get Jerry to hitch up the sorrel and drive you down to the picnic ground.”,and i'll get jerry to hitch up the sorrel and drive you down to the picnic ground,17,1.0,846.22,849.94,4.57,-31.44,11.25,4.69,23.2,0.18,-1.6,1.46,-9.6,-8.1,-7.7,
+14,66,220,1,Anne,tag,"“Oh, Marilla,” exclaimed Anne, flying to the wash-stand.",oh marilla,2,1.0,849.94,851.18,1.61,-27.01,18.55,1.3,-56.6,4.61,5.7,-1.93,-0.95,-3.4,-2.4,
+14,66,221,1,Anne,tag,“Five minutes ago I was so miserable I was wishing I’d never been born and now I wouldn’t change places with an angel!”,five minutes ago i was so miserable i was wishing i'd never been born and now i wouldn't change places with an angel,23,1.0,853.46,859.48,3.82,-27.12,17.05,5.32,3.0,4.5,4.2,2.09,-15.4,0.0,0.0,"born,|0.38|+1.9"
+14,67,222,0,,,"That night a thoroughly happy, completely tired-out Anne returned to Green Gables in a state of beatification impossible to describe.",,21,1.0,859.48,866.92,2.82,-33.56,12.55,4.2,-24.0,-1.94,-0.3,0.97,-10.9,-9.1,-8.4,"happy,|0.22|+0.3"
+14,68,223,1,Marilla,turns,"“Oh, Marilla, I’ve had a perfectly scrumptious time.",oh marilla i've had a perfectly scrumptious time,8,1.0,866.92,870.34,2.34,-30.86,16.15,5.51,-36.9,0.76,3.3,2.28,-4.05,-6.0,-5.45,"Marilla,|0.34|+2.2"
+14,68,224,1,Marilla,turns,Scrumptious is a new word I learned today.,scrumptious is a new word i learned today,8,1.0,871.06,872.78,4.65,-28.24,13.95,2.28,25.3,3.38,1.1,-0.95,-2.5,-2.9,-1.1,
+14,68,225,1,Marilla,turns,I heard Mary Alice Bell use it.,i heard mary alice bell use it,7,1.0,873.08,874.78,4.12,-28.71,13.95,3.81,11.1,2.91,1.1,0.58,-2.85,-4.1,-2.25,
+14,68,226,1,Marilla,turns,Isn’t it very expressive?,isn't it very expressive,4,1.0,875.04,876.18,3.51,-30.55,15.05,3.5,-5.4,1.07,2.2,0.27,-1.7,-2.3,-2.0,
+14,68,227,1,Marilla,turns,Everything was lovely.,everything was lovely,3,1.0,876.96,878.16,2.5,-32.9,12.75,4.05,-32.6,-1.28,-0.1,0.82,-0.75,-3.1,-0.9,
+14,68,228,1,Marilla,turns,We had a splendid tea and then Mr. Harmon Andrews took us all for a row on the Lake of Shining Waters—six of us at a time.,we had a splendid tea and then mr harmon andrews took us all for a row on the lake of shining waters six of us at a time,28,1.0,878.5,884.94,4.35,-30.08,14.15,1.74,17.3,1.54,1.3,-1.49,-1.4,-3.3,-2.9,
+14,68,229,1,Marilla,turns,And Jane Andrews nearly fell overboard.,and jane andrews nearly fell overboard,6,1.0,885.3,887.14,3.26,-28.78,14.25,3.68,-12.1,2.84,1.4,0.45,-0.5,-0.4,0.7,
+14,68,230,1,Marilla,turns,She was leaning out to pick water lilies and if Mr. Andrews hadn’t caught her by her sash just in the nick of time she’d fallen in and prob’ly been drowned.,she was leaning out to pick water lilies and if mr andrews hadn't caught her by her sash just in the nick of time she'd fallen in and prob'ly been drowned,31,0.94,887.58,895.02,4.17,-31.42,15.15,2.98,12.4,0.2,2.3,-0.25,8.15,-0.8,10.8,Mr.|0.32|-5.4 and|0.24|+11.6
+14,68,231,1,Marilla,turns,I wish it had been me.,i wish it had been me,6,1.0,895.52,896.78,4.76,-34.86,12.65,3.04,28.3,-3.24,-0.2,-0.19,-1.0,-4.1,-2.4,
+14,68,232,1,Marilla,turns,It would have been such a romantic experience to have been nearly drowned.,it would have been such a romantic experience to have been nearly drowned,13,1.0,897.06,900.28,4.04,-30.47,13.45,2.68,8.9,1.15,0.6,-0.55,-1.5,-2.0,-1.8,
+14,68,233,1,Marilla,turns,It would be such a thrilling tale to tell.,it would be such a thrilling tale to tell,9,1.0,900.82,902.82,4.5,-32.25,17.35,3.71,21.3,-0.63,4.5,0.48,-7.4,-5.1,-5.0,
+14,68,234,1,Marilla,turns,And we had the ice cream.,and we had the ice cream,6,1.0,903.34,904.62,4.69,-31.53,13.65,1.23,26.4,0.09,0.8,-2.0,-1.8,-2.7,-0.7,
+14,68,235,1,Marilla,turns,Words fail me to describe that ice cream.,words fail me to describe that ice cream,8,1.0,905.1,907.3,3.64,-30.85,12.85,1.07,-1.9,0.77,0.0,-2.16,-0.8,-1.6,-0.2,
+14,68,236,1,Marilla,turns,"Marilla, I assure you it was sublime.”",marilla i assure you it was sublime,7,1.0,908.08,911.32,2.16,-35.82,11.95,5.97,-41.8,-4.2,-0.9,2.74,-10.3,0.0,0.0,
+14,69,237,0,,,That evening Marilla told the whole story to Matthew over her stocking basket.,,13,1.0,911.32,915.22,3.33,-32.35,11.8,2.53,-10.2,-0.73,-1.05,-0.7,-2.15,-3.5,-2.9,
+14,70,238,1,Anne,turns,"“I’m willing to own up that I made a mistake,” she concluded candidly, “but I’ve learned a lesson.",i'm willing to own up that i made a mistake but i've learned a lesson,15,1.0,915.86,920.48,4.81,-29.33,14.35,4.99,29.6,2.29,1.5,1.76,2.55,-1.5,3.3,
+14,70,239,1,Anne,turns,"I have to laugh when I think of Anne’s ‘confession,’ although I suppose I shouldn’t for it really was a falsehood.",i have to laugh when i think of anne's confession although i suppose i shouldn't for it really was a falsehood,21,1.0,920.98,926.3,3.95,-31.49,12.35,4.77,6.5,0.13,-0.5,1.54,-1.9,-5.1,-0.05,
+14,70,240,1,Anne,turns,"But it doesn’t seem as bad as the other would have been, somehow, and anyhow I’m responsible for it.",but it doesn't seem as bad as the other would have been somehow and anyhow i'm responsible for it,19,1.0,926.8,931.6,3.96,-32.55,10.95,5.43,6.7,-0.93,-1.9,2.2,-1.8,-8.3,-8.0,somehow.|0.32|+nan
+14,70,241,1,Anne,turns,That child is hard to understand in some respects.,that child is hard to understand in some respects,9,1.0,931.88,934.12,4.02,-32.44,11.75,2.93,8.4,-0.82,-1.1,-0.3,-1.4,-1.9,0.1,
+14,70,242,1,Anne,turns,But I believe she’ll turn out all right yet.,but i believe she'll turn out all right yet,9,1.0,934.66,936.56,4.74,-28.94,10.15,3.03,27.8,2.68,-2.7,-0.2,-0.55,-0.9,-0.1,
+14,70,243,1,Anne,turns,"And there’s one thing certain, no house will ever be dull that she’s in.”",and there's one thing certain no house will ever be dull that she's in,14,1.0,937.14,942.7,2.52,-37.29,1.65,5.48,-32.1,-5.67,-11.2,2.25,0.0,0.0,0.0,

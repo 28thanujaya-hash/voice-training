@@ -1,186 +1,186 @@
-chapter,para,sent,dialogue,text,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
-3,0,0,0,MARILLA came briskly forward as Matthew opened the door.,9,1.0,21.98,24.58,3.46,-30.54,13.55,4.92,-5.6,2.93,2.3,0.99,-5.2,-1.5,-0.9,
-3,0,1,0,"But when her eyes fell on the odd little figure in the stiff, ugly dress, with the long braids of red hair and the eager, luminous eyes, she stopped short in amazement.",32,1.0,24.9,33.06,3.92,-32.53,11.45,4.03,7.0,0.94,0.2,0.1,0.7,-11.5,-7.8,"stiff,|0.22|+nan eyes,|0.52|+nan"
-3,1,2,1,"“Matthew Cuthbert, who’s that?” she ejaculated.",6,0.83,33.92,36.12,2.73,-34.13,1.65,0.0,-25.5,-0.66,-9.6,-3.93,0.0,0.0,0.0,"Cuthbert,|0.26|+nan"
-3,1,3,1,“Where is the boy?”,4,0.5,,,,,,,,,,,,,,
-3,2,4,1,"“There wasn’t any boy,” said Matthew wretchedly.",7,0.86,37.26,40.04,2.52,-38.08,1.65,6.46,-31.2,-4.61,-9.6,2.53,0.0,-0.1,0.0,"""'There|0.30|+10.8"
-3,2,5,1,“There was only her.”,4,1.0,40.22,41.56,2.99,-34.69,1.8,6.25,-18.4,-1.22,-9.45,2.32,-0.15,-0.2,-0.1,
-3,3,6,0,"He nodded at the child, remembering that he had never even asked her name.",14,1.0,41.56,44.82,4.29,-31.33,10.55,4.05,17.1,2.14,-0.7,0.12,2.35,-0.7,2.9,
-3,4,7,1,“No boy!,2,1.0,45.26,46.44,1.69,-30.46,1.65,0.5,-53.9,3.01,-9.6,-3.43,0.0,-3.1,0.0,
-3,4,8,1,"But there must have been a boy,” insisted Marilla.",9,1.0,46.44,48.7,3.98,-33.18,8.95,9.34,8.6,0.29,-2.3,5.41,-0.45,-2.6,-1.2,
-3,4,9,1,“We sent word to Mrs. Spencer to bring a boy.”,10,1.0,49.0,51.32,4.31,-32.59,11.75,8.22,17.6,0.88,0.5,4.29,-10.1,-23.2,-22.1,Mrs.|0.24|+nan
-3,5,10,1,"“Well, she didn’t.",3,0.67,,,,,,,,,,,,,,
-3,5,11,1,She brought her.,3,1.0,52.4,53.24,3.57,-34.1,13.2,7.2,-2.6,-0.63,1.95,3.27,5.85,-0.1,6.4,
-3,5,12,1,I asked the stationmaster.,4,0.75,,,,,,,,,,,,,,
-3,5,13,1,And I had to bring her home.,7,1.0,55.26,56.34,6.48,-30.48,14.95,6.09,76.8,2.99,3.7,2.16,0.4,-1.8,14.2,
-3,5,14,1,"She couldn’t be left there, no matter where the mistake had come in.”",13,0.92,56.46,58.88,5.37,-31.07,13.15,5.55,46.5,2.4,1.9,1.62,-11.5,0.0,0.0,She|0.20|+nan
-3,6,15,1,"“Well, this is a pretty piece of business!” ejaculated Marilla.",10,1.0,59.34,62.78,2.91,-33.67,9.15,3.5,-20.6,-0.2,-2.1,-0.43,0.05,-1.2,-0.6,
-3,7,16,0,"During this dialogue the child had remained silent, her eyes roving from one to the other, all the animation fading out of her face.",24,1.0,63.26,70.08,3.52,-31.66,11.25,3.94,-4.0,1.81,0.0,0.01,-2.2,-3.6,-2.5,"silent,|0.28|+nan other,|0.30|+nan"
-3,7,17,0,Suddenly she seemed to grasp the full meaning of what had been said.,13,1.0,70.68,73.52,4.58,-31.59,12.35,3.39,25.0,1.88,1.1,-0.54,-3.1,-5.2,-4.2,
-3,7,18,0,Dropping her precious carpet-bag she sprang forward a step and clasped her hands.,14,1.0,74.2,77.88,3.8,-31.96,13.2,3.08,3.7,1.51,1.95,-0.85,-2.55,-3.8,-3.5,
-3,8,19,1,“You don’t want me!” she cried.,6,0.83,78.32,79.94,3.7,-30.04,17.75,7.61,1.0,3.43,6.5,3.68,-16.1,-22.5,-22.3,"""'You|0.26|+0.9"
-3,8,20,1,“You don’t want me because I’m not a boy!,9,0.78,,,,,,,,,,,,,,
-3,8,21,1,I might have expected it.,5,1.0,82.24,83.62,3.62,-33.13,15.85,5.34,-1.2,0.34,4.6,1.41,-14.2,-0.1,0.0,
-3,8,22,1,Nobody ever did want me.,5,1.0,83.86,85.18,3.79,-29.39,15.45,2.99,3.4,4.08,4.2,-0.94,-4.9,-8.4,-5.1,
-3,8,23,1,I might have known it was all too beautiful to last.,11,1.0,85.4,87.72,4.74,-28.68,13.45,4.01,29.3,4.79,2.2,0.08,-1.05,-1.5,-0.1,
-3,8,24,1,I might have known nobody really did want me.,9,1.0,88.08,90.26,4.13,-28.28,16.55,1.53,12.7,5.19,5.3,-2.4,-0.8,-1.9,0.1,
-3,8,25,1,"Oh, what shall I do?",5,1.0,90.46,91.64,4.24,-24.85,18.95,2.1,15.7,8.62,7.7,-1.83,-2.0,-2.7,-2.2,
-3,8,26,1,I’m going to burst into tears!”,6,0.83,92.38,94.04,3.61,-22.94,20.75,5.79,-1.5,10.53,9.5,1.86,-19.1,-23.1,-21.9,
-3,9,27,0,Burst into tears she did.,5,1.0,94.04,95.8,2.84,-34.68,10.9,5.8,-22.5,-1.21,-0.35,1.87,-9.25,-10.3,-9.2,
-3,9,28,0,"Sitting down on a chair by the table, flinging her arms out upon it, and burying her face in them, she proceeded to cry stormily.",25,1.0,96.22,102.96,3.71,-30.89,13.05,4.37,1.2,2.58,1.8,0.44,0.5,-3.7,-3.4,"table,|0.36|+nan them,|0.22|+13.0"
-3,9,29,0,Marilla and Matthew looked at each other deprecatingly across the stove.,11,1.0,103.58,106.62,3.62,-31.78,11.0,2.0,-1.2,1.69,-0.25,-1.93,-2.25,-0.7,0.0,
-3,9,30,0,Neither of them knew what to say or do.,9,1.0,107.26,108.7,6.25,-31.02,11.15,3.21,70.5,2.45,-0.1,-0.72,-0.55,-7.2,-6.9,
-3,9,31,0,Finally Marilla stepped lamely into the breach.,7,1.0,109.22,111.46,3.13,-30.75,11.9,3.43,-14.6,2.72,0.65,-0.5,-2.25,-2.1,-0.1,
-3,10,32,1,"“Well, well, there’s no need to cry so about it.”",10,0.9,111.98,114.68,3.7,-32.55,15.75,5.89,1.0,0.92,4.5,1.96,-14.1,0.0,0.0,"well,|0.60|+7.3"
-3,11,33,1,"“Yes, there is need!”",4,1.0,114.68,116.56,2.13,-31.17,17.0,7.56,-41.9,2.3,5.75,3.63,-1.35,-8.3,-8.2,
-3,11,34,0,"The child raised her head quickly, revealing a tear-stained face and trembling lips.",14,1.0,116.56,121.24,2.99,-35.23,10.05,1.47,-18.4,-1.76,-1.2,-2.46,-0.45,-0.3,1.0,
-3,11,35,1,"“You would cry, too, if you were an orphan and had come to a place you thought was going to be home and found that they didn’t want you because you weren’t a boy.",34,0.94,121.58,128.18,5.15,-28.57,16.05,2.87,40.5,4.9,4.8,-1.06,-1.35,-3.9,-2.9,they|0.24|+0.9
-3,11,36,1,"Oh, this is the most tragical thing that ever happened to me!”",12,0.92,128.62,132.52,3.08,-27.77,17.25,6.47,-16.0,5.7,6.0,2.54,-15.6,0.0,0.0,most|0.46|-2.0
-3,12,37,0,"Something like a reluctant smile, rather rusty from long disuse, mellowed Marilla’s grim expression.",14,0.93,132.52,139.12,2.12,-34.56,10.95,5.37,-42.2,-1.09,-0.3,1.44,-9.3,-9.2,-8.5,"smile,|0.46|+nan disuse,|0.30|+nan mellowed|0.60|+nan"
-3,13,38,1,"“Well, don’t cry any more.",5,0.8,139.72,141.6,2.66,-32.86,10.9,3.99,-27.4,0.61,-0.35,0.06,-0.6,-5.0,-3.4,"Well,|0.62|-1.3"
-3,13,39,1,We’re not going to turn you out-of-doors tonight.,10,0.9,142.16,143.86,5.88,-32.32,12.25,2.87,60.4,1.15,1.0,-1.06,-4.4,-6.2,-6.0,
-3,13,40,1,You’ll have to stay here until we investigate this affair.,10,0.9,144.7,146.66,5.1,-32.38,10.05,2.34,39.2,1.09,-1.2,-1.59,0.0,-1.6,1.8,
-3,13,41,1,What’s your name?”,3,0.67,,,,,,,,,,,,,,
-3,14,42,0,The child hesitated for a moment.,6,1.0,148.2,150.06,3.23,-37.44,1.65,0.0,-11.9,-3.97,-9.6,-3.93,0.0,0.0,0.0,
-3,15,43,1,“Will you please call me Cordelia?” she said eagerly.,9,1.0,150.88,153.46,3.49,-33.95,16.95,6.9,-4.8,-0.48,5.7,2.97,-15.3,-16.2,-10.7,
-3,16,44,1,“Call you Cordelia?,3,1.0,153.88,155.1,2.46,-36.46,1.65,0.0,-32.9,-2.99,-9.6,-3.93,0.0,0.0,0.0,
-3,16,45,1,Is that your name?”,4,1.0,155.3,156.34,3.85,-34.27,1.65,0.25,5.0,-0.8,-9.6,-3.68,0.0,-0.8,0.0,
-3,17,46,1,"“No-o-o, it’s not exactly my name, but I would love to be called Cordelia.",16,0.81,157.06,162.06,3.2,-33.81,15.45,6.7,-12.7,-0.34,4.2,2.77,5.9,-1.1,4.1,"""'No,|0.70|+6.3 name.|0.34|+0.0"
-3,17,47,1,It’s such a perfectly elegant name.”,6,0.83,162.66,165.02,2.54,-35.19,1.65,8.29,-30.7,-1.72,-9.6,4.36,0.0,0.0,0.0,
-3,18,48,1,“I don’t know what on earth you mean.,8,0.88,165.02,166.52,5.33,-29.7,13.6,4.44,45.4,3.77,2.35,0.51,-0.35,-5.0,-4.8,"""'I|0.24|+11.1"
-3,18,49,1,"If Cordelia isn’t your name, what is?”",7,0.86,166.62,169.04,2.89,-33.85,10.05,6.43,-21.1,-0.38,-1.2,2.5,-8.4,0.0,0.0,Cordelia|0.34|-7.3
-3,19,50,1,"“Anne Shirley,” reluctantly faltered forth the owner of that name, “but, oh, please do call me Cordelia.",17,1.0,169.04,175.08,2.81,-34.58,10.6,6.46,-23.3,-1.11,-0.65,2.53,3.35,-0.8,2.3,name.|0.34|+nan
-3,19,51,1,"It can’t matter much to you what you call me if I’m only going to be here a little while, can it?",22,0.82,175.3,179.14,5.73,-31.26,14.85,3.5,56.3,2.21,3.6,-0.43,6.15,-0.3,4.5,It|0.34|+nan
-3,19,52,1,And Anne is such an unromantic name.”,7,1.0,179.44,181.92,2.82,-32.67,13.85,5.48,-23.1,0.8,2.6,1.55,-12.2,0.0,0.0,an|0.68|+nan
-3,20,53,1,“Unromantic fiddlesticks!” said the unsympathetic Marilla.,6,1.0,182.98,185.14,2.78,-35.36,9.75,0.24,-24.1,-1.89,-1.5,-3.69,0.05,-0.2,0.1,
-3,20,54,1,“Anne is a real good plain sensible name.,8,1.0,185.58,187.84,3.54,-30.61,13.35,4.37,-3.4,2.86,2.1,0.44,-11.6,-11.2,-10.6,
-3,20,55,1,You’ve no need to be ashamed of it.”,8,0.88,188.28,189.72,5.56,-32.09,1.65,6.58,51.7,1.38,-9.6,2.65,0.0,-0.1,0.0,
-3,21,56,1,"“Oh, I’m not ashamed of it,” explained Anne, “only I like Cordelia better.",13,0.92,189.72,193.68,3.28,-32.93,17.45,6.5,-10.5,0.54,6.2,2.57,-1.55,-5.5,-5.35,Anne.|0.26|+nan
-3,21,57,1,"I’ve always imagined that my name was Cordelia—at least, I always have of late years.",15,0.87,194.44,198.52,3.68,-34.15,11.15,5.18,0.4,-0.68,-0.1,1.25,1.35,-3.4,-3.2,was|1.16|+6.9
-3,21,58,1,"When I was young I used to imagine it was Geraldine, but I like Cordelia better now.",17,1.0,198.84,202.5,4.64,-32.45,12.8,3.26,26.6,1.02,1.55,-0.67,-0.15,-6.4,-6.3,
-3,21,59,1,But if you call me Anne please call me Anne spelled with an E.”,14,1.0,203.02,207.0,3.52,-35.56,11.7,7.08,-4.0,-2.09,0.45,3.15,-10.05,0.0,0.0,"Anne,|0.20|+4.5"
-3,22,60,1,“What difference does it make how it’s spelled?” asked Marilla with another rusty smile as she picked up the teapot.,20,0.95,207.0,212.46,3.66,-36.26,1.95,3.71,-0.1,-2.79,-9.3,-0.22,-0.2,-7.2,-7.1,how|0.20|+nan
-3,23,61,1,"“Oh, it makes such a difference.",6,1.0,213.0,214.42,4.23,-35.25,1.65,0.17,15.4,-1.78,-9.6,-3.76,0.0,-0.6,0.0,
-3,23,62,1,It looks so much nicer.,5,1.0,214.68,216.02,3.73,-35.77,19.35,7.42,1.8,-2.3,8.1,3.49,0.4,-0.1,18.3,
-3,23,63,1,"When you hear a name pronounced can’t you always see it in your mind, just as if it was printed out?",21,0.95,216.38,220.28,5.38,-32.75,13.6,4.52,46.8,0.72,2.35,0.59,-0.8,-2.2,-1.5,"pronounced,|0.32|+nan"
-3,23,64,1,"I can; and A-n-n looks dreadful, but A-n-n-e looks so much more distinguished.",18,1.0,220.42,225.96,3.25,-33.53,13.35,5.13,-11.3,-0.06,2.1,1.2,4.0,-1.6,-1.5,can.|0.20|+nan .E.|0.32|+0.3
-3,23,65,1,If you’ll only call me Anne spelled with an E I shall try to reconcile myself to not being called Cordelia.”,21,0.95,226.38,232.12,3.66,-34.95,12.75,6.57,-0.1,-1.48,1.5,2.64,-11.1,0.0,0.0,
-3,24,66,1,"“Very well, then, Anne spelled with an E, can you tell us how this mistake came to be made?",19,1.0,232.12,236.78,4.08,-32.91,11.95,5.97,11.3,0.56,0.7,2.04,-1.3,-11.7,-11.4,"then,|0.22|+nan E.|0.26|+0.0"
-3,24,67,1,We sent word to Mrs. Spencer to bring us a boy.,11,1.0,236.98,238.9,5.73,-31.61,10.7,5.57,56.3,1.86,-0.55,1.64,3.25,-0.5,13.4,Mrs.|0.32|+nan
-3,24,68,1,Were there no boys at the asylum?”,7,1.0,239.38,241.24,3.76,-32.01,12.1,4.77,2.6,1.46,0.85,0.84,-10.45,-9.7,-9.3,
-3,25,69,1,"“Oh, yes, there was an abundance of them.",8,1.0,241.24,243.26,3.96,-29.46,16.35,7.83,8.0,4.01,5.1,3.9,8.4,-3.6,9.5,
-3,25,70,1,But Mrs. Spencer said distinctly that you wanted a girl about eleven years old.,14,1.0,243.48,247.38,3.59,-29.92,13.75,4.04,-2.0,3.55,2.5,0.11,1.3,-0.4,6.6,Mrs.|0.38|-2.8
-3,25,71,1,And the matron said she thought I would do.,9,1.0,247.48,249.52,4.41,-30.58,14.05,2.81,20.3,2.89,2.8,-1.12,5.2,-0.2,7.95,
-3,25,72,1,You don’t know how delighted I was.,7,0.86,250.06,251.78,4.07,-28.0,17.85,6.21,11.1,5.47,6.6,2.28,0.55,-1.3,0.3,
-3,25,73,1,I couldn’t sleep all last night for joy.,8,0.88,252.02,254.7,2.99,-32.51,16.95,6.98,-18.4,0.96,5.7,3.05,-15.3,-9.6,-9.3,I|0.30|-0.4
-3,25,74,1,"Oh,” she added reproachfully, turning to Matthew, “why didn’t you tell me at the station that you didn’t want me and leave me there?",24,0.92,254.7,261.74,3.41,-31.7,13.65,4.91,-7.0,1.77,2.4,0.98,-4.1,-10.2,-9.9,"Matthew,|0.40|+15.5 ""'why|0.28|-11.9 you|0.32|+1.3"
-3,25,75,1,If I hadn’t seen the White Way of Delight and the Lake of Shining Waters it wouldn’t be so hard.”,20,0.85,261.98,267.12,3.89,-29.91,15.35,4.76,6.1,3.56,4.1,0.83,-13.7,-17.9,-17.5,I|0.34|-2.7 it|0.26|+3.3
-3,26,76,1,"“What on earth does she mean?” demanded Marilla, staring at Matthew.",11,1.0,267.12,270.86,2.94,-34.93,9.75,7.51,-19.8,-1.46,-1.5,3.58,0.35,-3.6,-1.0,
-3,27,77,1,"“She—she’s just referring to some conversation we had on the road,” said Matthew hastily.",14,0.93,272.86,276.4,3.95,-34.54,1.65,4.26,7.8,-1.07,-9.6,0.33,0.0,-10.1,-9.3,
-3,27,78,1,"“I’m going out to put the mare in, Marilla.",9,0.89,277.44,278.78,6.72,-29.53,10.0,2.55,83.4,3.94,-1.25,-1.38,-1.4,-4.3,-2.9,
-3,27,79,1,Have tea ready when I come back.”,7,1.0,279.12,280.78,4.22,-31.75,1.65,0.15,15.1,1.72,-9.6,-3.78,0.0,-0.5,-0.2,
-3,28,80,1,“Did Mrs. Spencer bring anybody over besides you?” continued Marilla when Matthew had gone out.,15,1.0,281.28,285.98,3.19,-32.04,12.35,5.04,-13.0,1.43,1.1,1.11,-10.7,-0.1,0.0,Mrs.|0.40|-6.2
-3,29,81,1,“She brought Lily Jones for herself.,6,1.0,286.48,288.12,3.66,-30.73,16.5,5.73,-0.1,2.74,5.25,1.8,0.35,-0.6,0.3,
-3,29,82,1,Lily is only five years old and she is very beautiful and had nut-brown hair.,16,0.94,288.64,292.62,4.02,-30.77,12.45,1.63,9.7,2.7,1.2,-2.3,-0.3,-2.3,-1.3,and|0.24|+nan
-3,29,83,1,If I was very beautiful and had nut-brown hair would you keep me?”,14,1.0,293.06,296.6,3.95,-33.54,15.05,6.14,7.8,-0.07,3.8,2.21,-13.4,0.0,0.0,
-3,30,84,1,“No.,1,1.0,,,,,,,,,,,,,,
-3,30,85,1,We want a boy to help Matthew on the farm.,10,1.0,297.38,299.28,5.26,-31.95,10.55,1.59,43.5,1.52,-0.7,-2.34,-2.15,-3.7,-2.6,
-3,30,86,1,A girl would be of no use to us.,9,1.0,299.56,301.06,6.0,-33.52,8.95,5.3,63.7,-0.05,-2.3,1.37,-0.1,-8.5,-7.6,
-3,30,87,1,Take off your hat.,4,1.0,301.26,301.94,5.88,-33.63,,,60.4,-0.16,,,,,,
-3,30,88,1,I’ll lay it and your bag on the hall table.”,10,0.9,302.44,304.76,4.31,-33.79,7.9,4.82,17.6,-0.32,-3.35,0.89,-6.25,-0.1,0.0,
-3,31,89,0,Anne took off her hat meekly.,6,1.0,304.76,306.4,3.66,-35.15,11.65,5.34,-0.1,-1.68,0.4,1.41,0.9,-0.2,10.9,
-3,31,90,0,Matthew came back presently and they sat down to supper.,10,1.0,306.88,309.2,4.31,-32.71,10.95,1.93,17.6,0.76,-0.3,-2.0,-0.2,-0.6,1.9,
-3,31,91,0,But Anne could not eat.,5,1.0,309.68,310.74,4.72,-33.56,13.75,4.99,28.8,-0.09,2.5,1.06,-0.85,-3.1,-2.0,
-3,31,92,0,In vain she nibbled at the bread and butter and pecked at the crab-apple preserve out of the little scalloped glass dish by her plate.,26,1.0,311.16,316.76,4.64,-32.56,10.65,2.47,26.6,0.91,-0.6,-1.46,-0.6,-2.0,-0.6,
-3,31,93,0,She did not really make any headway at all.,9,1.0,317.3,319.18,4.79,-31.39,8.7,3.51,30.7,2.08,-2.55,-0.42,0.15,-2.1,1.1,
-3,32,94,1,"“You’re not eating anything,” said Marilla sharply, eying her as if it were a serious shortcoming.",16,0.88,320.08,324.6,3.54,-32.31,11.55,4.65,-3.4,1.16,0.3,0.72,-2.9,-6.3,-5.9,"sharply,|0.64|+nan"
-3,32,95,0,Anne sighed.,2,1.0,325.18,326.02,2.38,-34.18,1.65,0.0,-35.1,-0.71,-9.6,-3.93,0.0,0.0,0.0,
-3,33,96,1,“I can’t.,2,0.5,,,,,,,,,,,,,,
-3,33,97,1,I’m in the depths of despair.,6,0.83,328.42,329.58,5.17,-33.81,15.0,1.2,41.1,-0.34,3.75,-2.73,-2.25,-0.8,0.0,
-3,33,98,1,Can you eat when you are in the depths of despair?”,11,0.82,330.06,332.54,4.44,-33.39,13.05,5.9,21.1,0.08,1.8,1.97,-11.4,-13.0,-12.2,
-3,34,99,1,"“I’ve never been in the depths of despair, so I can’t say,” responded Marilla.",14,0.86,333.32,336.64,4.22,-34.71,12.95,4.86,15.1,-1.24,1.7,0.93,-11.3,0.0,0.0,I|0.28|+nan
-3,35,100,1,“Weren’t you?,2,0.5,,,,,,,,,,,,,,
-3,35,101,1,"Well, did you ever try to imagine you were in the depths of despair?”",14,1.0,338.38,342.42,3.47,-32.69,17.65,6.32,-5.3,0.78,6.4,2.39,-16.0,-18.7,-16.8,"""'Well,|0.42|-0.9"
-3,36,102,1,"“No, I didn’t.”",3,0.67,,,,,,,,,,,,,,
-3,37,103,1,“Then I don’t think you can understand what it’s like.,10,0.8,344.06,346.36,4.35,-33.55,11.75,5.63,18.7,-0.08,0.5,1.7,-2.2,-5.0,-3.2,I|0.22|-3.4
-3,37,104,1,It’s a very uncomfortable feeling indeed.,6,0.83,347.18,348.92,3.45,-33.06,12.15,2.82,-5.9,0.41,0.9,-1.11,-2.85,-3.9,-0.45,
-3,37,105,1,"When you try to eat a lump comes right up in your throat and you can’t swallow anything, not even if it was a chocolate caramel.",26,0.88,349.42,355.7,4.14,-33.79,12.9,5.02,13.0,-0.32,1.65,1.09,0.65,-2.0,11.3,you|0.38|+10.6 swallow|1.14|+1.3
-3,37,106,1,I had one chocolate caramel once two years ago and it was simply delicious.,14,1.0,356.2,360.28,3.43,-33.82,12.35,2.96,-6.4,-0.35,1.1,-0.97,0.7,-2.6,-1.35,
-3,37,107,1,"I’ve often dreamed since then that I had a lot of chocolate caramels, but I always wake up just when I’m going to eat them.",25,0.88,361.16,366.46,4.72,-32.93,11.75,5.09,28.8,0.54,0.5,1.16,-0.9,-4.0,-3.7,"caramels,|0.26|+nan"
-3,37,108,1,I do hope you won’t be offended because I can’t eat.,11,0.82,366.84,369.24,4.58,-33.62,11.45,4.69,25.0,-0.15,0.2,0.76,0.75,-3.2,-1.0,I|0.32|+nan
-3,37,109,1,"Everything is extremely nice, but still I cannot eat.”",9,1.0,369.7,373.38,2.45,-34.52,1.65,0.03,-33.2,-1.05,-9.6,-3.9,0.0,-0.2,0.0,nice.|0.50|+nan
-3,38,110,1,"“I guess she’s tired,” said Matthew, who hadn’t spoken since his return from the barn.",15,0.87,373.38,377.36,3.77,-34.84,9.55,5.28,2.9,-1.37,-1.7,1.35,-7.9,-10.1,-9.8,guess|0.28|-2.9 who|0.32|+nan
-3,38,111,1,"“Best put her to bed, Marilla.”",6,1.0,377.92,379.76,3.26,-38.18,1.65,0.0,-11.1,-4.71,-9.6,-3.93,0.0,0.0,0.0,
-3,39,112,0,Marilla had been wondering where Anne should be put to bed.,11,1.0,379.76,382.4,4.17,-32.0,12.05,4.61,13.8,1.47,0.8,0.68,-0.75,-1.5,-1.5,
-3,39,113,0,She had prepared a couch in the kitchen chamber for the desired and expected boy.,15,1.0,382.82,386.46,4.12,-32.62,10.25,5.28,12.4,0.85,-1.0,1.35,-0.6,-2.3,-1.8,
-3,39,114,0,"But, although it was neat and clean, it did not seem quite the thing to put a girl there somehow.",20,1.0,386.74,391.64,4.08,-35.34,13.55,5.52,11.3,-1.87,2.3,1.59,0.15,-2.3,-2.0,"clean,|0.24|+nan"
-3,39,115,0,"But the spare room was out of the question for such a stray waif, so there remained only the east gable room.",22,1.0,392.16,397.56,4.07,-33.42,11.75,6.49,11.1,0.05,0.5,2.56,-9.95,-0.75,0.0,"waif,|0.24|+0.0"
-3,39,116,0,"Marilla lighted a candle and told Anne to follow her, which Anne spiritlessly did, taking her hat and carpet-bag from the hall table as she passed.",27,1.0,398.14,405.64,3.6,-34.06,9.35,4.43,-1.8,-0.59,-1.9,0.5,-7.7,-0.6,0.0,"did,|0.26|+nan"
-3,39,117,0,The hall was fearsomely clean; the little gable chamber in which she presently found herself seemed still cleaner.,18,1.0,406.26,412.14,3.06,-34.6,11.2,5.8,-16.5,-1.13,-0.05,1.87,-1.75,-2.4,-0.5,clean.|0.40|+nan
-3,40,118,0,"Marilla set the candle on a three-legged, three-cornered table and turned down the bedclothes.",16,0.94,413.28,417.34,3.94,-32.81,11.25,2.38,7.5,0.66,0.0,-1.55,-0.2,-3.8,0.0,three|0.32|+nan
-3,41,119,1,“I suppose you have a nightgown?” she questioned.,8,1.0,417.94,420.14,3.64,-35.6,11.8,5.86,-0.7,-2.13,0.55,1.93,-9.95,-0.1,0.2,
-3,42,120,0,Anne nodded.,2,1.0,420.82,421.32,4.0,-34.15,,,9.1,-0.68,,,,,,
-3,43,121,1,"“Yes, I have two.",4,0.75,,,,,,,,,,,,,,
-3,43,122,1,The matron of the asylum made them for me.,9,1.0,423.32,425.46,4.21,-34.05,12.15,5.25,14.9,-0.58,0.9,1.32,-10.5,-10.3,-10.2,
-3,43,123,1,They’re fearfully skimpy.,3,0.67,,,,,,,,,,,,,,
-3,43,124,1,"There is never enough to go around in an asylum, so things are always skimpy—at least in a poor asylum like ours.",22,0.91,427.38,432.68,4.15,-34.11,10.15,5.01,13.2,-0.64,-1.1,1.08,-8.5,0.0,0.0,"asylum,|0.30|+nan"
-3,43,125,1,I hate skimpy night-dresses.,5,1.0,433.16,434.7,3.25,-37.88,1.65,0.0,-11.3,-4.41,-9.6,-3.93,0.0,0.0,0.0,
-3,43,126,1,"But one can dream just as well in them as in lovely trailing ones, with frills around the neck, that’s one consolation.”",22,0.95,435.32,440.94,3.91,-34.86,10.85,4.23,6.7,-1.39,-0.4,0.3,-9.2,0.0,0.0,neck.|0.60|+nan
-3,44,127,1,"“Well, undress as quick as you can and go to bed.",11,1.0,442.2,444.3,5.24,-29.07,15.65,4.99,43.0,4.4,4.4,1.06,-4.2,-5.5,-5.2,"""'Well,|0.30|+2.0"
-3,44,128,1,I’ll come back in a few minutes for the candle.,10,0.9,444.96,446.34,7.25,-30.79,13.7,1.95,97.8,2.68,2.45,-1.98,-1.35,-3.4,-3.1,
-3,44,129,1,I daren’t trust you to put it out yourself.,9,0.89,446.6,448.32,5.23,-32.02,10.95,4.11,42.7,1.45,-0.3,0.18,-1.1,-2.6,-1.9,I|0.34|+nan
-3,44,130,1,You’d likely set the place on fire.”,7,0.86,448.76,450.44,4.17,-35.21,1.65,4.6,13.8,-1.74,-9.6,0.67,0.0,0.0,0.0,
-3,45,131,0,When Marilla had gone Anne looked around her wistfully.,9,1.0,450.96,453.54,3.49,-33.7,12.15,2.72,-4.8,-0.23,0.9,-1.21,-1.8,-1.7,-1.55,"gone,|0.44|+1.1"
-3,45,132,0,The whitewashed walls were so painfully bare and staring that she thought they must ache over their own bareness.,19,0.95,453.82,459.22,3.52,-33.87,10.25,3.52,-4.0,-0.4,-1.0,-0.41,-1.15,-8.8,-8.6,The|0.44|+9.0
-3,45,133,0,"The floor was bare, too, except for a round braided mat in the middle such as Anne had never seen before.",21,1.0,459.82,464.94,4.1,-35.61,10.55,4.16,11.9,-2.14,-0.7,0.23,-0.2,-0.2,0.0,"too,|0.28|-8.2"
-3,45,134,0,"In one corner was the bed, a high, old-fashioned one, with four dark, low-turned posts.",17,0.88,465.42,470.8,3.16,-33.32,10.95,4.26,-13.8,0.15,-0.3,0.33,-9.2,-9.4,-8.5,"the|0.80|-0.3 dark,|0.30|+1.1"
-3,45,135,0,"In the other corner was the aforesaid three-cornered table adorned with a fat, red velvet pincushion hard enough to turn the point of the most adventurous pin.",28,0.96,471.62,479.2,3.69,-34.03,10.45,3.78,0.7,-0.56,-0.8,-0.15,0.3,-1.9,-1.8,three|0.34|+nan
-3,45,136,0,Above it hung a little six-by-eight mirror.,9,1.0,479.96,482.32,3.81,-33.15,14.5,3.35,4.0,0.32,3.25,-0.58,-3.75,-4.9,-4.3,
-3,45,137,0,"Midway between table and bed was the window, with an icy white muslin frill over it, and opposite it was the wash-stand.",23,0.91,482.84,489.28,3.57,-33.52,11.45,3.65,-2.6,-0.05,0.2,-0.28,0.7,-0.2,10.9,"window,|0.30|-1.9"
-3,45,138,0,"The whole apartment was of a rigidity not to be described in words, but which sent a shiver to the very marrow of Anne’s bones.",25,0.88,490.46,497.02,3.81,-32.77,11.65,3.64,4.0,0.7,0.4,-0.29,-2.25,-1.7,-1.3,"words,|0.22|+nan of|0.36|+0.0"
-3,45,139,0,"With a sob she hastily discarded her garments, put on the skimpy nightgown and sprang into bed where she burrowed face downward into the pillow and pulled the clothes over her head.",32,0.97,497.62,506.84,3.47,-33.63,12.05,3.93,-5.3,-0.16,0.8,0.0,-0.2,-5.1,-3.8,skimpy|0.68|+nan
-3,45,140,0,When Marilla came up for the light various skimpy articles of raiment scattered most untidily over the floor and a certain tempestuous appearance of the bed were the only indications of any presence save her own.,36,1.0,507.58,518.54,3.28,-33.74,11.8,3.91,-10.5,-0.27,0.55,-0.02,2.0,-1.1,-0.4,"light,|0.28|+1.6 floor,|0.38|+nan bed,|0.32|+nan"
-3,46,141,0,"She deliberately picked up Anne’s clothes, placed them neatly on a prim yellow chair, and then, taking up the candle, went over to the bed.",25,0.96,520.0,527.1,3.52,-33.96,11.15,5.25,-4.0,-0.49,-0.1,1.32,-9.1,-0.4,0.0,"up|0.46|+nan clothes,|0.34|+nan then,|0.32|-12.0 candle,|0.22|+nan"
-3,47,142,1,"“Good night,” she said, a little awkwardly, but not unkindly.",10,1.0,528.02,531.32,3.03,-36.97,1.65,0.0,-17.3,-3.5,-9.6,-3.93,0.0,0.0,0.0,
-3,48,143,0,Anne’s white face and big eyes appeared over the bedclothes with a startling suddenness.,14,0.86,532.34,536.14,3.68,-35.77,10.35,1.2,0.4,-2.3,-0.9,-2.73,0.0,-2.0,-1.1,the|0.42|+nan
-3,49,144,1,“How can you call it a good night when you know it must be the very worst night I’ve ever had?” she said reproachfully.,24,0.96,536.5,542.06,4.32,-34.78,12.85,5.22,17.9,-1.31,1.6,1.29,-11.2,0.0,0.0,night|0.22|+1.5
-3,50,145,0,Then she dived down into invisibility again.,7,1.0,542.66,544.78,3.3,-32.13,1.65,0.0,-10.0,1.34,-9.6,-3.93,0.0,0.0,0.0,
-3,51,146,0,Marilla went slowly down to the kitchen and proceeded to wash the supper dishes.,14,1.0,545.94,549.52,3.91,-32.73,14.75,1.6,6.7,0.74,3.5,-2.33,-2.65,-3.1,-2.6,
-3,51,147,0,Matthew was smoking—a sure sign of perturbation of mind.,9,0.89,550.14,553.48,2.69,-34.38,11.85,5.0,-26.6,-0.91,0.6,1.07,0.5,-2.3,-1.1,was|1.10|+nan
-3,51,148,0,"He seldom smoked, for Marilla set her face against it as a filthy habit; but at certain times and seasons he felt driven to it and then Marilla winked at the practice, realizing that a mere man must have some vent for his emotions.",44,1.0,553.84,565.82,3.67,-35.59,11.75,4.37,0.1,-2.12,0.5,0.44,-1.9,-3.2,-2.8,"smoked,|0.30|+nan habit.|0.28|+nan practice,|0.44|+nan"
-3,52,149,1,"“Well, this is a pretty kettle of fish,” she said wrathfully.",11,1.0,566.32,569.4,3.57,-34.99,13.6,7.11,-2.6,-1.52,2.35,3.18,2.7,-3.4,12.4,
-3,52,150,1,“This is what comes of sending word instead of going ourselves.,11,1.0,569.72,572.44,4.04,-30.43,11.05,1.33,10.2,3.04,-0.2,-2.6,-1.2,-1.6,-1.0,
-3,52,151,1,Richard Spencer’s folks have twisted that message somehow.,8,0.88,573.0,575.54,3.15,-33.53,,,-14.1,-0.06,,,,,,Richard|0.58|+nan
-3,52,152,1,"One of us will have to drive over and see Mrs. Spencer tomorrow, that’s certain.",15,0.93,576.02,579.54,4.26,-30.8,13.35,3.1,16.2,2.67,2.1,-0.83,-2.35,-3.8,-2.4,"Mrs.|0.20|+0.2 tomorrow,|0.44|+nan"
-3,52,153,1,This girl will have to be sent back to the asylum.”,11,1.0,579.82,582.76,3.74,-38.13,1.65,0.0,2.0,-4.66,-9.6,-3.93,0.0,0.0,0.0,
-3,53,154,1,"“Yes, I suppose so,” said Matthew reluctantly.",7,1.0,582.76,586.14,2.07,-38.13,1.65,5.89,-43.5,-4.66,-9.6,1.96,0.0,0.0,0.0,
-3,54,155,1,“You suppose so!,3,1.0,586.72,587.92,2.5,-33.34,1.65,0.0,-31.8,0.13,-9.6,-3.93,0.0,0.0,0.0,
-3,54,156,1,Don’t you know it?”,4,0.75,,,,,,,,,,,,,,
-3,55,157,1,"“Well now, she’s a real nice little thing, Marilla.",9,0.89,589.16,592.32,2.85,-35.97,17.75,11.13,-22.2,-2.5,6.5,7.2,8.3,-1.7,1.6,"now,|0.74|+nan"
-3,55,158,1,It’s kind of a pity to send her back when she’s so set on staying here.”,16,0.88,593.06,596.22,5.06,-33.35,21.55,5.3,38.1,0.12,10.3,1.37,-9.0,-1.1,-0.3,when|0.28|+nan
-3,56,159,1,"“Matthew Cuthbert, you don’t mean to say you think we ought to keep her!”",14,0.93,596.72,600.8,3.43,-33.04,1.65,0.07,-6.4,0.43,-9.6,-3.86,0.0,-0.5,0.0,"Cuthbert,|0.30|+nan you|0.28|+nan"
-3,57,160,0,Marilla’s astonishment could not have been greater if Matthew had expressed a predilection for standing on his head.,18,0.94,601.3,605.54,4.25,-32.41,11.75,1.49,16.0,1.06,0.5,-2.44,-10.1,-11.4,-9.9,
-3,58,161,1,"“Well, now, no, I suppose not—not exactly,” stammered Matthew, uncomfortably driven into a corner for his precise meaning.",18,1.0,606.2,613.34,2.52,-34.17,9.45,6.04,-31.2,-0.7,-1.8,2.11,-7.8,0.0,0.0,"""'Well,|0.24|+6.0"
-3,58,162,1,“I suppose—we could hardly be expected to keep her.”,9,0.89,613.8,617.68,2.32,-37.24,1.65,6.28,-36.7,-3.77,-9.6,2.35,0.0,0.0,0.0,"""'I|1.32|+nan"
-3,59,163,1,“I should say not.,4,1.0,617.68,619.28,2.5,-36.32,1.65,5.34,-31.8,-2.85,-9.6,1.41,11.05,-0.8,-0.4,
-3,59,164,1,What good would she be to us?”,7,1.0,619.64,621.38,4.02,-35.36,1.65,0.0,9.7,-1.89,-9.6,-3.93,0.0,0.0,0.0,
-3,60,165,1,"“We might be some good to her,” said Matthew suddenly and unexpectedly.",12,1.0,621.38,625.06,3.26,-35.0,10.45,4.84,-11.1,-1.53,-0.8,0.91,-1.4,-2.1,-1.8,
-3,61,166,1,"“Matthew Cuthbert, I believe that child has bewitched you!",9,1.0,625.9,628.98,2.92,-32.55,10.55,7.95,-20.3,0.92,-0.7,4.02,13.3,-0.6,15.0,"Cuthbert,|0.30|+nan"
-3,61,167,1,I can see as plain as plain that you want to keep her.”,13,1.0,629.2,632.24,4.28,-35.41,1.65,8.28,16.8,-1.94,-9.6,4.35,0.0,0.0,0.0,
-3,62,168,1,"“Well now, she’s a real interesting little thing,” persisted Matthew.",10,0.9,632.24,636.68,2.25,-35.6,9.65,8.32,-38.6,-2.13,-1.6,4.39,-8.0,0.0,0.0,"now,|0.82|+5.5"
-3,62,169,1,“You should have heard her talk coming from the station.”,10,0.9,636.9,639.82,3.42,-35.03,13.15,7.2,-6.7,-1.56,1.9,3.27,-11.5,0.0,0.0,talk|0.40|-4.5
-3,63,170,1,"“Oh, she can talk fast enough.",6,1.0,639.82,641.48,3.61,-32.53,12.55,5.56,-1.5,0.94,1.3,1.63,1.4,-1.2,0.5,
-3,63,171,1,I saw that at once.,5,1.0,641.54,642.88,3.73,-36.78,10.25,4.56,1.8,-3.31,-1.0,0.63,-8.6,0.0,0.0,
-3,63,172,1,"It’s nothing in her favor, either.",6,0.67,,,,,,,,,,,,,,
-3,63,173,1,I don’t like children who have so much to say.,10,0.9,644.82,646.98,4.63,-31.63,1.65,0.33,26.3,1.84,-9.6,-3.6,0.15,-1.2,-0.1,
-3,63,174,1,I don’t want an orphan girl and if I did she isn’t the style I’d pick out.,17,0.82,647.26,651.4,4.11,-30.21,12.85,3.97,12.1,3.26,1.6,0.04,1.2,-3.0,-2.5,"I|0.30|+12.9 -girl,|0.30|+nan did,|0.20|+4.7 she|0.28|-3.1 style|0.24|+nan"
-3,63,175,1,There’s something I don’t understand about her.,7,0.71,,,,,,,,,,,,,,
-3,63,176,1,"No, she’s got to be despatched straightway back to where she came from.”",13,0.77,,,,,,,,,,,,,,
-3,64,177,1,"“I could hire a French boy to help me,” said Matthew, “and she’d be company for you.”",17,0.94,657.84,662.26,3.85,-35.84,1.65,7.4,5.0,-2.37,-9.6,3.47,0.0,-0.2,0.0,"""'and|0.22|+nan"
-3,65,178,1,"“I’m not suffering for company,” said Marilla shortly.",8,0.88,662.84,664.92,3.85,-34.7,16.05,0.65,5.0,-1.23,4.8,-3.28,-0.3,-0.9,0.1,
-3,65,179,1,“And I’m not going to keep her.”,7,0.86,665.24,667.4,3.24,-33.18,1.65,4.91,-11.6,0.29,-9.6,0.98,0.0,0.0,0.0,"""'and|0.28|+2.6"
-3,66,180,1,"“Well now, it’s just as you say, of course, Marilla,” said Matthew rising and putting his pipe away.",18,0.94,667.4,672.4,3.6,-35.67,10.75,5.8,-1.8,-2.2,-0.5,1.87,-9.1,0.0,0.0,"now,|0.24|+nan"
-3,66,181,1,“I’m going to bed.”,4,0.75,,,,,,,,,,,,,,
-3,67,182,0,To bed went Matthew.,4,1.0,674.64,675.96,3.03,-32.68,13.95,6.64,-17.3,0.79,2.7,2.71,0.1,-2.6,-1.1,
-3,67,183,0,"And to bed, when she had put her dishes away, went Marilla, frowning most resolutely.",15,1.0,676.32,680.56,3.54,-33.66,10.05,4.05,-3.4,-0.19,-1.2,0.12,1.3,-1.3,9.1,"Marilla,|0.34|-0.3"
-3,67,184,0,"And up-stairs, in the east gable, a lonely, heart-hungry, friendless child cried herself to sleep.",17,0.88,681.08,688.92,2.17,-37.49,1.65,5.14,-40.8,-4.02,-9.6,1.21,0.0,0.0,0.0,"and|0.48|+11.3 gable,|0.36|+1.4 lonely,|0.52|-1.4 -hungry,|0.26|+1.5 child,|0.44|+0.0"
+chapter,para,sent,dialogue,speaker,spk_src,text,speech,words,coverage,start,end,rate,loud,pitch,move,rate_rel,loud_rel,pitch_rel,move_rel,end_hi,end_fall,end_rise,pauses
+3,0,0,0,,,MARILLA came briskly forward as Matthew opened the door.,,9,1.0,22.24,24.58,3.85,-29.98,14.15,3.46,4.9,3.58,2.78,-0.43,-5.8,-1.5,-0.9,
+3,0,1,0,,,"But when her eyes fell on the odd little figure in the stiff, ugly dress, with the long braids of red hair and the eager, luminous eyes, she stopped short in amazement.",,32,1.0,24.88,33.06,3.91,-32.54,11.45,4.06,6.5,1.02,0.07,0.17,0.7,-11.5,-7.8,"eyes,|0.52|+nan"
+3,1,2,1,,tag,"“Matthew Cuthbert, who’s that?” she ejaculated.",matthew cuthbert who's that,4,1.0,33.92,35.34,2.82,-33.17,1.65,0.0,-23.2,0.39,-9.72,-3.89,0.0,0.0,0.0,
+3,1,3,1,,tag,“Where is the boy?”,where is the boy,4,0.5,,,,,,,,,,,,,,
+3,2,4,1,Matthew,tag,"“There wasn’t any boy,” said Matthew wretchedly.",there wasn't any boy,4,1.0,37.28,38.76,2.7,-35.89,1.65,6.83,-26.4,-2.33,-9.72,2.94,0.0,-11.5,-9.9,
+3,2,5,1,Matthew,tag,“There was only her.”,there was only her,4,1.0,40.2,41.56,2.94,-35.45,1.75,6.24,-19.9,-1.89,-9.62,2.35,-0.1,-0.2,-0.1,
+3,3,6,0,,,"He nodded at the child, remembering that he had never even asked her name.",,14,1.0,41.56,44.82,4.29,-31.33,10.55,4.05,16.9,2.23,-0.82,0.16,2.35,-0.7,2.9,
+3,4,7,1,Marilla,tag,“No boy!,no boy,2,1.0,45.3,46.44,1.75,-29.94,1.65,0.52,-52.3,3.62,-9.72,-3.37,0.0,-3.1,0.0,
+3,4,8,1,Marilla,tag,"But there must have been a boy,” insisted Marilla.",but there must have been a boy,7,1.0,46.44,47.9,4.79,-31.36,20.65,10.79,30.5,2.2,9.27,6.9,5.35,-0.1,24.9,
+3,4,9,1,Marilla,tag,“We sent word to Mrs. Spencer to bring a boy.”,we sent word to mrs spencer to bring a boy,10,1.0,49.0,51.38,4.2,-32.54,11.35,8.28,14.4,1.02,-0.03,4.39,-9.7,-23.2,-22.5,Mrs.|0.24|+nan
+3,5,10,1,Matthew,turns,"“Well, she didn’t.",well she didn't,3,1.0,51.38,52.24,3.49,-35.88,1.65,0.0,-4.9,-2.32,-9.72,-3.89,0.0,0.0,0.0,
+3,5,11,1,Matthew,turns,She brought her.,she brought her,3,1.0,52.42,53.26,3.57,-33.54,13.35,7.12,-2.7,0.02,1.97,3.23,5.7,-0.1,6.4,
+3,5,12,1,Matthew,turns,I asked the stationmaster.,i asked the stationmaster,4,0.75,,,,,,,,,,,,,,
+3,5,13,1,Matthew,turns,And I had to bring her home.,and i had to bring her home,7,1.0,55.28,56.34,6.6,-30.2,15.0,5.59,79.8,3.36,3.62,1.7,0.35,-1.8,14.2,
+3,5,14,1,Matthew,turns,"She couldn’t be left there, no matter where the mistake had come in.”",she couldn't be left there no matter where the mistake had come in,13,1.0,56.48,58.88,5.42,-31.07,13.15,5.55,47.7,2.49,1.78,1.66,-11.5,0.0,0.0,
+3,6,15,1,Marilla,turns,"“Well, this is a pretty piece of business!” ejaculated Marilla.",well this is a pretty piece of business,8,1.0,59.34,61.74,3.33,-33.73,1.65,0.0,-9.3,-0.17,-9.72,-3.89,0.0,0.0,0.0,
+3,7,16,0,,,"During this dialogue the child had remained silent, her eyes roving from one to the other, all the animation fading out of her face.",,24,1.0,63.28,70.08,3.53,-31.62,11.25,3.88,-3.8,1.94,-0.12,-0.01,-2.2,-3.6,-2.5,"silent,|0.30|+nan other,|0.28|+nan"
+3,7,17,0,,,Suddenly she seemed to grasp the full meaning of what had been said.,,13,1.0,70.66,73.52,4.55,-31.61,12.3,3.49,24.0,1.95,0.93,-0.4,-3.05,-5.2,-4.2,
+3,7,18,0,,,Dropping her precious carpet-bag she sprang forward a step and clasped her hands.,,14,1.0,74.2,77.88,3.8,-31.96,13.2,3.08,3.5,1.6,1.82,-0.81,-2.55,-3.8,-3.5,
+3,8,19,1,Matthew,turns,“You don’t want me!” she cried.,you don't want me,4,1.0,78.26,79.32,3.77,-27.65,19.85,3.77,2.7,5.91,8.48,-0.12,-5.35,-12.7,-7.9,
+3,8,20,1,Matthew,turns,“You don’t want me because I’m not a boy!,you don't want me because i'm not a boy,9,1.0,80.26,82.26,4.5,-23.45,20.15,1.87,22.6,10.11,8.77,-2.02,2.7,-0.5,5.2,
+3,8,21,1,Matthew,turns,I might have expected it.,i might have expected it,5,1.0,82.26,83.62,3.68,-33.11,15.85,5.34,0.3,0.45,4.47,1.45,-14.2,-0.1,0.0,
+3,8,22,1,Matthew,turns,Nobody ever did want me.,nobody ever did want me,5,1.0,83.86,85.18,3.79,-29.39,15.45,2.99,3.3,4.17,4.07,-0.9,-4.9,-8.4,-5.1,
+3,8,23,1,Matthew,turns,I might have known it was all too beautiful to last.,i might have known it was all too beautiful to last,11,1.0,85.42,87.72,4.78,-28.49,13.45,3.88,30.2,5.07,2.07,-0.01,-1.05,-1.5,-0.1,
+3,8,24,1,Matthew,turns,I might have known nobody really did want me.,i might have known nobody really did want me,9,1.0,88.1,90.26,4.17,-28.06,16.55,1.53,13.6,5.5,5.18,-2.36,-0.8,-1.9,0.1,
+3,8,25,1,Matthew,turns,"Oh, what shall I do?",oh what shall i do,5,1.0,90.46,91.64,4.24,-24.85,18.95,2.1,15.5,8.71,7.57,-1.79,-2.0,-2.7,-2.2,
+3,8,26,1,Matthew,turns,I’m going to burst into tears!”,i'm going to burst into tears,6,1.0,91.9,94.04,2.8,-25.6,22.85,5.59,-23.7,7.96,11.48,1.7,-21.2,-23.1,-21.9,
+3,9,27,0,,,Burst into tears she did.,,5,1.0,94.04,95.8,2.84,-34.68,10.9,5.8,-22.6,-1.12,-0.47,1.91,-9.25,-10.3,-9.2,
+3,9,28,0,,,"Sitting down on a chair by the table, flinging her arms out upon it, and burying her face in them, she proceeded to cry stormily.",,25,1.0,96.24,102.96,3.72,-30.86,13.05,4.29,1.4,2.7,1.68,0.4,0.5,-3.7,-3.4,"table,|0.36|+nan them,|0.22|+13.0"
+3,9,29,0,,,Marilla and Matthew looked at each other deprecatingly across the stove.,,11,1.0,103.6,106.64,3.62,-31.93,10.85,2.02,-1.4,1.63,-0.53,-1.87,-1.9,-0.6,0.0,
+3,9,30,0,,,Neither of them knew what to say or do.,,9,1.0,107.26,108.72,6.16,-31.21,11.15,3.21,67.8,2.35,-0.22,-0.68,-0.55,-7.2,-6.9,
+3,9,31,0,,,Finally Marilla stepped lamely into the breach.,,7,1.0,109.3,111.46,3.24,-30.16,11.95,2.73,-11.7,3.4,0.57,-1.16,-2.3,-2.1,-0.1,
+3,10,32,1,Marilla,turns,"“Well, well, there’s no need to cry so about it.”",well well there's no need to cry so about it,10,1.0,111.92,114.7,3.6,-32.67,15.65,6.19,-1.9,0.89,4.28,2.3,-14.0,0.0,0.0,
+3,11,33,1,Matthew,turns,"“Yes, there is need!”",yes there is need,4,1.0,114.7,116.58,2.13,-31.17,17.35,7.45,-42.0,2.39,5.98,3.56,-1.7,-8.3,-8.2,
+3,11,34,0,,,"The child raised her head quickly, revealing a tear-stained face and trembling lips.",,14,1.0,116.58,121.24,3.0,-35.22,10.05,1.47,-18.3,-1.66,-1.32,-2.42,-0.45,-0.3,1.0,
+3,11,35,1,Matthew,turns,"“You would cry, too, if you were an orphan and had come to a place you thought was going to be home and found that they didn’t want you because you weren’t a boy.",you would cry too if you were an orphan and had come to a place you thought was going to be home and found that they didn't want you because you weren't a boy,34,1.0,121.62,128.2,5.17,-28.52,16.05,2.87,40.9,5.04,4.68,-1.02,-1.35,-3.9,-2.9,
+3,11,36,1,Matthew,turns,"Oh, this is the most tragical thing that ever happened to me!”",oh this is the most tragical thing that ever happened to me,12,0.92,128.6,132.58,3.02,-27.92,17.15,6.8,-17.7,5.64,5.77,2.91,-15.5,0.0,0.0,most|0.46|-2.0
+3,12,37,0,,,"Something like a reluctant smile, rather rusty from long disuse, mellowed Marilla’s grim expression.",,14,1.0,133.12,139.14,2.33,-33.72,11.75,4.31,-36.5,-0.16,0.38,0.42,-10.1,-9.2,-8.5,smile.|0.36|+nan
+3,13,38,1,Marilla,turns,"“Well, don’t cry any more.",well don't cry any more,5,1.0,139.74,141.6,2.69,-32.85,10.95,3.93,-26.7,0.71,-0.43,0.04,-0.65,-5.0,-3.4,"""'Well,|0.36|+1.6"
+3,13,39,1,Marilla,turns,We’re not going to turn you out-of-doors tonight.,we're not going to turn you out of doors tonight,10,1.0,141.9,143.86,5.1,-32.45,11.85,4.0,39.0,1.11,0.47,0.11,-4.0,-6.2,-6.0,
+3,13,40,1,Marilla,turns,You’ll have to stay here until we investigate this affair.,you'll have to stay here until we investigate this affair,10,1.0,144.36,146.68,4.31,-32.83,10.15,2.31,17.4,0.73,-1.22,-1.58,-0.1,-1.6,1.8,
+3,13,41,1,Marilla,turns,What’s your name?”,what's your name,3,1.0,147.12,148.08,3.12,-38.65,1.65,6.02,-15.0,-5.09,-9.72,2.13,0.0,-12.2,-11.6,
+3,14,42,0,,,The child hesitated for a moment.,,6,1.0,148.08,150.08,3.0,-38.34,1.65,0.0,-18.3,-4.78,-9.72,-3.89,0.0,0.0,0.0,
+3,15,43,1,Matthew,turns,“Will you please call me Cordelia?” she said eagerly.,will you please call me cordelia,6,1.0,150.88,152.64,3.41,-32.65,17.35,5.86,-7.1,0.91,5.98,1.97,-3.75,-17.8,-15.7,
+3,16,44,1,Marilla,turns,“Call you Cordelia?,call you cordelia,3,1.0,153.98,155.1,2.68,-35.71,,,-27.0,-2.15,,,,,,
+3,16,45,1,Marilla,turns,Is that your name?”,is that your name,4,1.0,155.32,156.34,3.92,-34.09,1.65,0.25,6.8,-0.53,-9.72,-3.64,0.0,-0.8,0.0,
+3,17,46,1,Matthew,turns,"“No-o-o, it’s not exactly my name, but I would love to be called Cordelia.",no o o it's not exactly my name but i would love to be called cordelia,16,0.88,157.1,162.06,3.23,-33.74,15.45,6.7,-12.0,-0.18,4.07,2.81,5.9,-1.1,4.1,name.|0.46|+14.5
+3,17,47,1,Matthew,turns,It’s such a perfectly elegant name.”,it's such a perfectly elegant name,6,1.0,162.4,165.0,2.31,-36.6,1.65,8.29,-37.1,-3.04,-9.72,4.4,0.0,0.0,0.0,
+3,18,48,1,Marilla,turns,“I don’t know what on earth you mean.,i don't know what on earth you mean,8,1.0,165.0,166.52,5.26,-29.82,13.55,4.56,43.3,3.74,2.18,0.67,-0.3,-5.0,-4.8,
+3,18,49,1,Marilla,turns,"If Cordelia isn’t your name, what is?”",if cordelia isn't your name what is,7,1.0,166.62,169.02,2.92,-33.75,10.25,6.41,-20.4,-0.19,-1.12,2.52,-8.6,0.0,0.0,
+3,19,50,1,Matthew,turns,"“Anne Shirley,” reluctantly faltered forth the owner of that name, “but, oh, please do call me Cordelia.",anne shirley but oh please do call me cordelia,9,1.0,169.02,175.08,2.3,-34.22,12.1,6.48,-37.3,-0.66,0.72,2.59,1.85,-0.8,2.3,
+3,19,51,1,Matthew,turns,"It can’t matter much to you what you call me if I’m only going to be here a little while, can it?",it can't matter much to you what you call me if i'm only going to be here a little while can it,22,0.91,175.32,179.12,5.79,-31.2,14.85,3.5,57.8,2.36,3.47,-0.39,6.15,-0.3,4.5,
+3,19,52,1,Matthew,turns,And Anne is such an unromantic name.”,and anne is such an unromantic name,7,1.0,179.46,182.04,2.71,-32.93,12.95,6.02,-26.2,0.63,1.57,2.13,-11.3,0.0,0.0,
+3,20,53,1,Marilla,tag,“Unromantic fiddlesticks!” said the unsympathetic Marilla.,unromantic fiddlesticks,2,1.0,182.98,183.86,2.27,-35.38,,,-38.1,-1.82,,,,,,
+3,20,54,1,Marilla,tag,“Anne is a real good plain sensible name.,anne is a real good plain sensible name,8,1.0,185.58,187.82,3.57,-30.38,13.45,4.15,-2.7,3.18,2.07,0.26,-11.7,-11.3,-10.7,
+3,20,55,1,Marilla,tag,You’ve no need to be ashamed of it.”,you've no need to be ashamed of it,8,1.0,188.04,189.64,5.0,-32.16,1.65,6.53,36.2,1.4,-9.72,2.64,0.0,-0.1,0.0,
+3,21,56,1,Anne,tag,"“Oh, I’m not ashamed of it,” explained Anne, “only I like Cordelia better.",oh i'm not ashamed of it only i like cordelia better,11,1.0,189.64,193.68,2.72,-33.13,17.15,6.82,-25.9,0.43,5.77,2.93,-1.25,-5.5,-5.35,"it,'|0.92|+nan"
+3,21,57,1,Anne,tag,"I’ve always imagined that my name was Cordelia—at least, I always have of late years.",i've always imagined that my name was cordelia at least i always have of late years,16,1.0,194.04,198.52,3.57,-34.19,11.15,5.49,-2.7,-0.63,-0.22,1.6,1.35,-3.4,-3.2,Cordelia.|0.44|-7.9
+3,21,58,1,Anne,tag,"When I was young I used to imagine it was Geraldine, but I like Cordelia better now.",when i was young i used to imagine it was geraldine but i like cordelia better now,17,1.0,198.84,202.48,4.67,-32.31,12.8,3.26,27.2,1.25,1.43,-0.63,-0.15,-6.4,-6.3,Geraldine.|0.22|+nan
+3,21,59,1,Anne,tag,But if you call me Anne please call me Anne spelled with an E.”,but if you call me anne please call me anne spelled with an e,14,1.0,203.02,206.92,3.59,-35.42,11.75,7.05,-2.2,-1.86,0.38,3.16,-10.1,0.0,0.0,"Anne,|0.22|+4.5"
+3,22,60,1,Marilla,tag,“What difference does it make how it’s spelled?” asked Marilla with another rusty smile as she picked up the teapot.,what difference does it make how it's spelled,8,1.0,207.34,209.46,3.77,-36.43,1.65,0.0,2.7,-2.87,-9.72,-3.89,0.0,0.0,0.0,
+3,23,61,1,Anne,turns,"“Oh, it makes such a difference.",oh it makes such a difference,6,1.0,213.0,214.42,4.23,-35.25,1.65,0.17,15.3,-1.69,-9.72,-3.72,0.0,-0.6,0.0,
+3,23,62,1,Anne,turns,It looks so much nicer.,it looks so much nicer,5,1.0,214.68,216.02,3.73,-35.77,19.35,7.42,1.6,-2.21,7.98,3.53,0.4,-0.1,18.3,
+3,23,63,1,Anne,turns,"When you hear a name pronounced can’t you always see it in your mind, just as if it was printed out?",when you hear a name pronounced can't you always see it in your mind just as if it was printed out,21,1.0,216.36,220.52,5.05,-32.97,13.05,5.49,37.6,0.59,1.68,1.6,-11.4,-12.7,-12.2,
+3,23,64,1,Anne,turns,"I can; and A-n-n looks dreadful, but A-n-n-e looks so much more distinguished.",i can and a n n looks dreadful but a n n e looks so much more distinguished,18,1.0,220.52,225.96,3.31,-33.36,13.4,4.45,-9.8,0.2,2.03,0.56,3.95,-1.6,-1.5,"dreadful,|0.26|+nan .E.|0.26|+nan"
+3,23,65,1,Anne,turns,If you’ll only call me Anne spelled with an E I shall try to reconcile myself to not being called Cordelia.”,if you'll only call me anne spelled with an e i shall try to reconcile myself to not being called cordelia,21,1.0,226.36,232.04,3.7,-34.83,12.75,6.53,0.8,-1.27,1.38,2.64,-11.1,0.0,0.0,
+3,24,66,1,Marilla,turns,"“Very well, then, Anne spelled with an E, can you tell us how this mistake came to be made?",very well then anne spelled with an e can you tell us how this mistake came to be made,19,1.0,232.04,236.78,4.01,-32.93,11.55,6.02,9.3,0.63,0.18,2.13,-0.9,-11.7,-11.4,"then,|0.24|+nan E.|0.28|+0.0"
+3,24,67,1,Marilla,turns,We sent word to Mrs. Spencer to bring us a boy.,we sent word to mrs spencer to bring us a boy,11,1.0,236.98,238.92,5.67,-31.61,10.7,5.57,54.5,1.95,-0.68,1.68,3.25,-0.5,13.4,Mrs.|0.32|+nan
+3,24,68,1,Marilla,turns,Were there no boys at the asylum?”,were there no boys at the asylum,7,1.0,239.4,241.24,3.8,-31.99,12.1,4.77,3.5,1.57,0.72,0.88,-10.45,-9.7,-9.3,
+3,25,69,1,Anne,turns,"“Oh, yes, there was an abundance of them.",oh yes there was an abundance of them,8,1.0,241.24,243.26,3.96,-29.46,16.35,7.83,7.9,4.1,4.98,3.94,8.4,-3.6,9.5,
+3,25,70,1,Anne,turns,But Mrs. Spencer said distinctly that you wanted a girl about eleven years old.,but mrs spencer said distinctly that you wanted a girl about eleven years old,14,1.0,243.5,247.38,3.61,-29.92,13.75,4.04,-1.6,3.64,2.38,0.15,1.3,-0.4,6.6,Mrs.|0.36|-2.8
+3,25,71,1,Anne,turns,And the matron said she thought I would do.,and the matron said she thought i would do,9,0.89,247.52,249.54,4.46,-30.58,14.05,2.81,21.5,2.98,2.68,-1.08,5.2,-0.2,7.95,
+3,25,72,1,Anne,turns,You don’t know how delighted I was.,you don't know how delighted i was,7,1.0,250.04,251.78,4.02,-28.1,17.8,6.38,9.5,5.46,6.43,2.49,0.6,-1.3,0.3,
+3,25,73,1,Anne,turns,I couldn’t sleep all last night for joy.,i couldn't sleep all last night for joy,8,1.0,252.0,254.7,2.96,-32.67,16.95,6.98,-19.3,0.89,5.57,3.09,-15.3,-9.6,-9.3,
+3,25,74,1,Anne,turns,"Oh,” she added reproachfully, turning to Matthew, “why didn’t you tell me at the station that you didn’t want me and leave me there?",oh why didn't you tell me at the station that you didn't want me and leave me there,18,1.0,254.7,261.72,3.86,-30.62,14.55,5.31,5.2,2.94,3.18,1.42,-4.9,-10.3,-10.0,
+3,25,75,1,Anne,turns,If I hadn’t seen the White Way of Delight and the Lake of Shining Waters it wouldn’t be so hard.”,if i hadn't seen the white way of delight and the lake of shining waters it wouldn't be so hard,20,0.95,261.96,267.12,3.88,-29.91,15.35,4.76,5.7,3.65,3.97,0.87,-13.7,-17.9,-17.5,
+3,26,76,1,Marilla,tag,"“What on earth does she mean?” demanded Marilla, staring at Matthew.",what on earth does she mean,6,1.0,267.12,269.14,2.97,-37.1,1.65,9.0,-19.1,-3.54,-9.72,5.11,0.0,-19.0,-16.6,
+3,27,77,1,Matthew,tag,"“She—she’s just referring to some conversation we had on the road,” said Matthew hastily.",she she's just referring to some conversation we had on the road,12,1.0,272.38,275.6,3.73,-34.11,1.65,4.16,1.6,-0.55,-9.72,0.27,0.0,-10.6,-9.6,
+3,27,78,1,Matthew,tag,"“I’m going out to put the mare in, Marilla.",i'm going out to put the mare in marilla,9,1.0,277.0,278.78,5.06,-29.92,9.05,4.25,37.9,3.64,-2.32,0.36,-0.45,-4.3,-2.9,
+3,27,79,1,Matthew,tag,Have tea ready when I come back.”,have tea ready when i come back,7,1.0,279.12,280.98,3.76,-32.11,1.65,0.14,2.5,1.45,-9.72,-3.75,0.0,-0.1,0.0,
+3,28,80,1,Marilla,tag,“Did Mrs. Spencer bring anybody over besides you?” continued Marilla when Matthew had gone out.,did mrs spencer bring anybody over besides you,8,1.0,280.98,284.02,2.63,-32.43,13.4,6.26,-28.3,1.13,2.03,2.37,-0.75,-2.0,2.0,Mrs.|0.38|-6.1
+3,29,81,1,Matthew,turns,“She brought Lily Jones for herself.,she brought lily jones for herself,6,1.0,286.4,288.12,3.49,-31.58,16.25,6.43,-4.9,1.98,4.88,2.54,0.6,-0.6,0.3,
+3,29,82,1,Matthew,turns,Lily is only five years old and she is very beautiful and had nut-brown hair.,lily is only five years old and she is very beautiful and had nut brown hair,16,0.94,288.62,292.62,4.0,-30.82,12.45,1.63,9.0,2.74,1.07,-2.26,-0.3,-2.3,-1.3,"beautiful,|0.26|+0.3 and|0.26|+nan"
+3,29,83,1,Matthew,turns,If I was very beautiful and had nut-brown hair would you keep me?”,if i was very beautiful and had nut brown hair would you keep me,14,1.0,293.02,296.56,3.95,-33.55,15.05,6.18,7.6,0.01,3.68,2.29,-13.4,0.0,0.0,
+3,30,84,1,Marilla,turns,“No.,no,1,1.0,,,,,,,,,,,,,,
+3,30,85,1,Marilla,turns,We want a boy to help Matthew on the farm.,we want a boy to help matthew on the farm,10,1.0,297.38,299.28,5.26,-31.95,10.55,1.59,43.3,1.61,-0.82,-2.3,-2.15,-3.7,-2.6,
+3,30,86,1,Marilla,turns,A girl would be of no use to us.,a girl would be of no use to us,9,1.0,299.52,301.04,5.92,-33.72,8.95,5.3,61.3,-0.16,-2.43,1.41,-0.1,-8.5,-7.6,
+3,30,87,1,Marilla,turns,Take off your hat.,take off your hat,4,1.0,301.26,301.94,5.88,-33.63,,,60.2,-0.07,,,,,,
+3,30,88,1,Marilla,turns,I’ll lay it and your bag on the hall table.”,i'll lay it and your bag on the hall table,10,1.0,302.2,304.86,3.76,-33.73,8.05,4.88,2.5,-0.17,-3.32,0.99,-6.4,-0.1,0.0,
+3,31,89,0,,,Anne took off her hat meekly.,,6,1.0,304.86,306.42,3.85,-34.85,12.45,5.03,4.9,-1.29,1.07,1.14,-10.8,0.0,0.0,
+3,31,90,0,,,Matthew came back presently and they sat down to supper.,,10,1.0,306.9,309.2,4.35,-32.61,11.0,1.52,18.5,0.95,-0.38,-2.37,-0.25,-0.6,1.9,
+3,31,91,0,,,But Anne could not eat.,,5,1.0,309.68,310.74,4.72,-33.56,13.75,4.99,28.6,0.0,2.38,1.1,-0.85,-3.1,-2.0,
+3,31,92,0,,,In vain she nibbled at the bread and butter and pecked at the crab-apple preserve out of the little scalloped glass dish by her plate.,,26,1.0,311.12,316.78,4.59,-32.59,10.55,2.66,25.1,0.97,-0.82,-1.23,-0.5,-2.0,-0.6,
+3,31,93,0,,,She did not really make any headway at all.,,9,1.0,317.28,319.18,4.74,-31.42,8.6,3.59,29.2,2.14,-2.78,-0.3,0.25,-2.1,1.1,
+3,32,94,1,Marilla,tag,"“You’re not eating anything,” said Marilla sharply, eying her as if it were a serious shortcoming.",you're not eating anything,4,1.0,319.74,321.02,3.13,-30.85,15.95,6.0,-14.7,2.71,4.57,2.11,1.5,-16.9,-14.7,
+3,32,95,0,,,Anne sighed.,,2,1.0,325.18,326.02,2.38,-34.18,1.65,0.0,-35.1,-0.62,-9.72,-3.89,0.0,0.0,0.0,
+3,33,96,1,,tag,“I can’t.,i can't,2,1.0,326.88,327.76,2.27,-35.1,1.65,0.0,-38.1,-1.54,-9.72,-3.89,0.0,0.0,0.0,
+3,33,97,1,,tag,I’m in the depths of despair.,i'm in the depths of despair,6,1.0,327.96,329.56,3.75,-34.23,13.25,6.67,2.2,-0.67,1.88,2.78,-0.35,-0.65,0.0,
+3,33,98,1,,tag,Can you eat when you are in the depths of despair?”,can you eat when you are in the depths of despair,11,0.82,330.02,332.48,4.47,-33.27,13.05,5.84,21.8,0.29,1.68,1.95,0.75,-13.0,-12.2,
+3,34,99,1,Marilla,turns,"“I’ve never been in the depths of despair, so I can’t say,” responded Marilla.",i've never been in the depths of despair so i can't say,12,0.92,333.32,335.84,4.76,-33.7,13.05,3.4,29.7,-0.14,1.68,-0.49,-11.4,0.0,0.0,
+3,35,100,1,?,turns,“Weren’t you?,weren't you,2,1.0,337.06,337.82,2.63,-32.47,1.65,0.0,-28.3,1.09,-9.72,-3.89,0.0,0.0,0.0,
+3,35,101,1,?,turns,"Well, did you ever try to imagine you were in the depths of despair?”",well did you ever try to imagine you were in the depths of despair,14,1.0,338.42,342.42,3.5,-32.5,17.65,6.16,-4.6,1.06,6.27,2.27,-16.0,-18.7,-16.8,"Well,|0.38|-0.8"
+3,36,102,1,Marilla,turns,"“No, I didn’t.”",no i didn't,3,1.0,342.42,344.04,1.85,-38.05,1.65,5.44,-49.6,-4.49,-9.72,1.55,0.0,0.0,0.0,
+3,37,103,1,?,turns,“Then I don’t think you can understand what it’s like.,then i don't think you can understand what it's like,10,1.0,344.04,346.34,4.35,-33.55,11.75,5.68,18.5,0.01,0.38,1.79,-2.2,-5.0,-3.2,
+3,37,104,1,?,turns,It’s a very uncomfortable feeling indeed.,it's a very uncomfortable feeling indeed,6,1.0,346.76,348.92,2.78,-33.87,11.5,5.12,-24.3,-0.31,0.12,1.23,-2.2,-3.9,-0.45,
+3,37,105,1,?,turns,"When you try to eat a lump comes right up in your throat and you can’t swallow anything, not even if it was a chocolate caramel.",when you try to eat a lump comes right up in your throat and you can't swallow anything not even if it was a chocolate caramel,26,1.0,349.42,355.66,4.17,-33.73,12.9,5.02,13.6,-0.17,1.53,1.13,0.65,-2.0,11.3,"throat,|0.32|+nan"
+3,37,106,1,?,turns,I had one chocolate caramel once two years ago and it was simply delicious.,i had one chocolate caramel once two years ago and it was simply delicious,14,1.0,356.2,360.28,3.43,-33.82,12.35,2.96,-6.5,-0.26,0.97,-0.93,0.7,-2.6,-1.35,
+3,37,107,1,?,turns,"I’ve often dreamed since then that I had a lot of chocolate caramels, but I always wake up just when I’m going to eat them.",i've often dreamed since then that i had a lot of chocolate caramels but i always wake up just when i'm going to eat them,25,0.96,360.74,366.48,4.36,-33.13,11.95,5.06,18.8,0.43,0.57,1.17,-10.3,-10.2,-9.9,"caramels,|0.24|+nan"
+3,37,108,1,?,turns,I do hope you won’t be offended because I can’t eat.,i do hope you won't be offended because i can't eat,11,1.0,366.84,369.24,4.58,-33.62,11.45,4.69,24.8,-0.06,0.07,0.8,0.75,-3.2,-1.0,
+3,37,109,1,?,turns,"Everything is extremely nice, but still I cannot eat.”",everything is extremely nice but still i cannot eat,9,1.0,369.64,373.32,2.45,-34.52,1.65,0.03,-33.2,-0.96,-9.72,-3.86,0.0,-0.2,0.0,nice.|0.52|+nan cannot|0.44|+nan
+3,38,110,1,Matthew,tag,"“I guess she’s tired,” said Matthew, who hadn’t spoken since his return from the barn.",i guess she's tired,4,1.0,373.32,374.56,3.23,-32.0,10.4,5.01,-12.0,1.56,-0.97,1.12,-0.65,-2.2,-1.9,
+3,38,111,1,Matthew,tag,"“Best put her to bed, Marilla.”",best put her to bed marilla,6,1.0,377.86,379.7,3.26,-38.18,1.65,0.0,-11.2,-4.62,-9.72,-3.89,0.0,0.0,0.0,
+3,39,112,0,,,Marilla had been wondering where Anne should be put to bed.,,11,1.0,380.16,382.4,4.91,-30.25,12.25,2.15,33.8,3.31,0.88,-1.74,-0.95,-1.5,-1.5,
+3,39,113,0,,,She had prepared a couch in the kitchen chamber for the desired and expected boy.,,15,1.0,382.82,386.46,4.12,-32.62,10.25,5.28,12.3,0.94,-1.12,1.39,-0.6,-2.3,-1.8,
+3,39,114,0,,,"But, although it was neat and clean, it did not seem quite the thing to put a girl there somehow.",,20,1.0,386.88,391.62,4.22,-34.79,13.95,5.03,15.0,-1.23,2.57,1.14,-0.25,-2.3,-2.0,"clean,|0.28|+nan"
+3,39,115,0,,,"But the spare room was out of the question for such a stray waif, so there remained only the east gable room.",,22,1.0,392.04,397.56,3.99,-33.6,11.6,6.54,8.7,-0.04,0.22,2.65,-9.8,-0.75,0.0,waif.|0.36|+7.2
+3,39,116,0,,,"Marilla lighted a candle and told Anne to follow her, which Anne spiritlessly did, taking her hat and carpet-bag from the hall table as she passed.",,27,1.0,398.18,405.64,3.62,-34.06,9.35,4.43,-1.4,-0.5,-2.03,0.54,-7.7,-0.6,0.0,"did,|0.26|+nan"
+3,39,117,0,,,The hall was fearsomely clean; the little gable chamber in which she presently found herself seemed still cleaner.,,18,1.0,406.3,412.12,3.09,-34.48,11.3,5.77,-15.8,-0.92,-0.07,1.88,-1.85,-2.4,-0.5,clean.|0.46|+nan
+3,40,118,0,,,"Marilla set the candle on a three-legged, three-cornered table and turned down the bedclothes.",,16,0.88,413.08,416.9,4.19,-32.92,10.9,4.07,14.2,0.64,-0.47,0.18,0.15,-3.8,0.0,three|0.32|+nan
+3,41,119,1,?,turns,“I suppose you have a nightgown?” she questioned.,i suppose you have a nightgown,6,1.0,417.92,419.54,3.7,-33.21,11.9,5.77,0.8,0.35,0.53,1.88,-10.25,-10.3,-10.2,
+3,42,120,0,,,Anne nodded.,,2,1.0,420.8,421.32,3.85,-33.78,,,4.9,-0.22,,,,,,
+3,43,121,1,Matthew,turns,"“Yes, I have two.",yes i have two,4,0.75,,,,,,,,,,,,,,
+3,43,122,1,Matthew,turns,The matron of the asylum made them for me.,the matron of the asylum made them for me,9,1.0,423.3,425.44,4.21,-34.1,12.15,5.25,14.7,-0.54,0.78,1.36,-10.5,-10.4,-10.3,
+3,43,123,1,Matthew,turns,They’re fearfully skimpy.,they're fearfully skimpy,3,1.0,425.62,426.78,2.59,-37.89,1.65,0.0,-29.4,-4.33,-9.72,-3.89,0.0,0.0,0.0,
+3,43,124,1,Matthew,turns,"There is never enough to go around in an asylum, so things are always skimpy—at least in a poor asylum like ours.",there is never enough to go around in an asylum so things are always skimpy at least in a poor asylum like ours,23,0.91,427.38,432.68,4.34,-34.11,10.15,5.01,18.3,-0.55,-1.22,1.12,-8.5,0.0,0.0,"asylum,|0.34|+nan"
+3,43,125,1,Matthew,turns,I hate skimpy night-dresses.,i hate skimpy night dresses,5,1.0,433.2,434.7,3.33,-37.3,1.65,0.0,-9.3,-3.74,-9.72,-3.89,0.0,0.0,0.0,
+3,43,126,1,Matthew,turns,"But one can dream just as well in them as in lovely trailing ones, with frills around the neck, that’s one consolation.”",but one can dream just as well in them as in lovely trailing ones with frills around the neck that's one consolation,22,1.0,435.3,442.02,3.27,-35.98,9.95,5.53,-10.9,-2.42,-1.43,1.64,-8.3,-0.2,0.0,neck.|0.32|+nan one|1.34|+nan
+3,44,127,1,?,turns,"“Well, undress as quick as you can and go to bed.",well undress as quick as you can and go to bed,11,1.0,442.02,444.3,4.82,-29.34,14.55,5.93,31.3,4.22,3.18,2.04,-3.1,-5.5,-5.2,"""'Well,|0.24|+1.8"
+3,44,128,1,?,turns,I’ll come back in a few minutes for the candle.,i'll come back in a few minutes for the candle,10,0.2,,,,,,,,,,,,,,
+3,44,129,1,?,turns,I daren’t trust you to put it out yourself.,i daren't trust you to put it out yourself,9,0.78,,,,,,,,,,,,,,
+3,44,130,1,?,turns,You’d likely set the place on fire.”,you'd likely set the place on fire,7,1.0,448.52,450.7,3.21,-36.42,1.65,3.99,-12.5,-2.86,-9.72,0.1,0.0,0.0,0.0,
+3,45,131,0,,,When Marilla had gone Anne looked around her wistfully.,,9,1.0,450.7,453.54,3.17,-34.34,11.8,4.65,-13.6,-0.78,0.43,0.76,-1.45,-1.7,-1.55,"gone,|0.44|+1.1"
+3,45,132,0,,,The whitewashed walls were so painfully bare and staring that she thought they must ache over their own bareness.,,19,0.95,453.98,459.22,3.63,-33.69,10.45,2.99,-1.1,-0.13,-0.93,-0.9,-1.35,-8.8,-8.6,The|0.46|+8.7
+3,45,133,0,,,"The floor was bare, too, except for a round braided mat in the middle such as Anne had never seen before.",,21,1.0,459.78,464.96,4.05,-35.65,10.55,4.21,10.4,-2.09,-0.82,0.32,-0.2,-0.2,0.0,"too,|0.26|-8.2"
+3,45,134,0,,,"In one corner was the bed, a high, old-fashioned one, with four dark, low-turned posts.",,17,1.0,465.46,470.76,3.21,-33.17,11.05,4.11,-12.5,0.39,-0.32,0.22,-9.3,-10.4,-8.9,"dark,|0.28|+1.1"
+3,45,135,0,,,"In the other corner was the aforesaid three-cornered table adorned with a fat, red velvet pincushion hard enough to turn the point of the most adventurous pin.",,28,0.64,,,,,,,,,,,,,,
+3,45,136,0,,,Above it hung a little six-by-eight mirror.,,9,1.0,480.08,482.34,3.98,-32.74,14.6,2.03,8.4,0.82,3.22,-1.86,-3.85,-4.9,-4.3,
+3,45,137,0,,,"Midway between table and bed was the window, with an icy white muslin frill over it, and opposite it was the wash-stand.",,23,0.91,482.76,489.28,3.53,-33.64,11.45,3.65,-3.8,-0.08,0.07,-0.24,0.7,-0.2,10.9,"window,|0.34|-1.8"
+3,45,138,0,,,"The whole apartment was of a rigidity not to be described in words, but which sent a shiver to the very marrow of Anne’s bones.",,25,0.96,490.54,497.0,3.87,-32.74,11.75,3.45,5.4,0.82,0.38,-0.44,-2.2,-1.7,-1.5,"words,|0.30|+nan"
+3,45,139,0,,,"With a sob she hastily discarded her garments, put on the skimpy nightgown and sprang into bed where she burrowed face downward into the pillow and pulled the clothes over her head.",,32,1.0,497.66,506.84,3.49,-33.63,12.05,3.87,-4.9,-0.07,0.68,-0.02,-0.2,-5.1,-3.8,"nightgown,|0.36|+nan pillow,|0.26|+nan"
+3,45,140,0,,,When Marilla came up for the light various skimpy articles of raiment scattered most untidily over the floor and a certain tempestuous appearance of the bed were the only indications of any presence save her own.,,36,1.0,507.58,518.54,3.28,-33.74,11.8,3.91,-10.6,-0.18,0.43,0.02,2.0,-1.1,-0.4,"light,|0.28|+1.6 floor,|0.30|+nan bed,|0.22|+nan"
+3,46,141,0,,,"She deliberately picked up Anne’s clothes, placed them neatly on a prim yellow chair, and then, taking up the candle, went over to the bed.",,25,1.0,520.08,527.1,3.56,-33.78,11.25,5.16,-3.0,-0.22,-0.12,1.27,-9.2,-0.4,0.0,"clothes,|0.36|+nan then,|0.26|-12.0 candle,|0.22|+nan"
+3,47,142,1,Matthew,turns,"“Good night,” she said, a little awkwardly, but not unkindly.",good night,2,1.0,527.96,528.76,2.5,-41.66,1.65,0.0,-31.9,-8.1,-9.72,-3.89,0.0,0.0,0.0,
+3,48,143,0,,,Anne’s white face and big eyes appeared over the bedclothes with a startling suddenness.,,14,1.0,531.96,536.14,3.35,-34.99,11.0,1.57,-8.7,-1.43,-0.38,-2.32,-0.65,-2.0,-1.1,
+3,49,144,1,?,turns,“How can you call it a good night when you know it must be the very worst night I’ve ever had?” she said reproachfully.,how can you call it a good night when you know it must be the very worst night i've ever had,21,1.0,536.44,540.96,4.65,-32.93,13.1,4.74,26.7,0.63,1.72,0.85,-11.45,-11.0,-10.65,
+3,50,145,0,,,Then she dived down into invisibility again.,,7,1.0,542.68,544.76,3.37,-32.12,1.65,0.0,-8.2,1.44,-9.72,-3.89,0.0,0.0,0.0,
+3,51,146,0,,,Marilla went slowly down to the kitchen and proceeded to wash the supper dishes.,,14,1.0,545.94,549.54,3.89,-32.75,14.75,1.6,6.0,0.81,3.38,-2.29,-2.65,-3.1,-2.6,
+3,51,147,0,,,Matthew was smoking—a sure sign of perturbation of mind.,,10,1.0,550.18,553.5,3.01,-34.34,12.15,3.9,-18.0,-0.78,0.78,0.01,0.2,-2.3,-1.1,"smoking,|0.46|+nan"
+3,51,148,0,,,"He seldom smoked, for Marilla set her face against it as a filthy habit; but at certain times and seasons he felt driven to it and then Marilla winked at the practice, realizing that a mere man must have some vent for his emotions.",,44,1.0,553.84,565.82,3.67,-35.59,11.75,4.37,0.0,-2.03,0.38,0.48,-1.9,-3.2,-2.8,"smoked,|0.32|+nan habit.|0.38|+nan practice,|0.44|+nan"
+3,52,149,1,Matthew,turns,"“Well, this is a pretty kettle of fish,” she said wrathfully.",well this is a pretty kettle of fish,8,1.0,566.32,568.38,3.88,-33.47,13.6,7.11,5.7,0.09,2.22,3.22,2.7,-3.4,12.4,
+3,52,150,1,Matthew,turns,“This is what comes of sending word instead of going ourselves.,this is what comes of sending word instead of going ourselves,11,1.0,569.66,572.44,3.96,-30.56,11.05,1.33,7.9,3.0,-0.32,-2.56,-1.2,-1.6,-1.0,
+3,52,151,1,Matthew,turns,Richard Spencer’s folks have twisted that message somehow.,richard spencer's folks have twisted that message somehow,8,1.0,573.04,575.54,3.2,-33.43,,,-12.8,0.13,,,,,,
+3,52,152,1,Matthew,turns,"One of us will have to drive over and see Mrs. Spencer tomorrow, that’s certain.",one of us will have to drive over and see mrs spencer tomorrow that's certain,15,0.93,576.08,579.52,4.36,-30.39,13.35,2.53,18.8,3.17,1.97,-1.36,-2.35,-3.8,-2.4,Mrs.|0.34|+0.2 Spencer|0.52|-2.2
+3,52,153,1,Matthew,turns,This girl will have to be sent back to the asylum.”,this girl will have to be sent back to the asylum,11,1.0,579.92,582.76,3.87,-37.47,1.65,0.0,5.4,-3.91,-9.72,-3.89,0.0,0.0,0.0,
+3,53,154,1,Matthew,tag,"“Yes, I suppose so,” said Matthew reluctantly.",yes i suppose so,4,1.0,582.76,585.04,1.75,-37.37,1.65,6.07,-52.3,-3.81,-9.72,2.18,0.0,-13.1,-12.3,
+3,54,155,1,,tag,“You suppose so!,you suppose so,3,1.0,586.62,587.92,2.31,-33.49,1.65,0.0,-37.1,0.07,-9.72,-3.89,0.0,0.0,0.0,
+3,54,156,1,,tag,Don’t you know it?”,don't you know it,4,1.0,588.06,589.16,3.64,-35.2,1.65,0.0,-0.8,-1.64,-9.72,-3.89,0.0,0.0,0.0,
+3,55,157,1,Matthew,turns,"“Well now, she’s a real nice little thing, Marilla.",well now she's a real nice little thing marilla,9,1.0,589.16,592.32,2.85,-35.97,17.75,11.13,-22.3,-2.41,6.38,7.24,8.3,-1.7,1.6,"now,|0.42|+nan"
+3,55,158,1,Matthew,turns,It’s kind of a pity to send her back when she’s so set on staying here.”,it's kind of a pity to send her back when she's so set on staying here,16,1.0,592.74,596.22,4.6,-33.89,21.55,5.3,25.3,-0.33,10.18,1.41,-9.0,-1.1,-0.3,
+3,56,159,1,?,turns,"“Matthew Cuthbert, you don’t mean to say you think we ought to keep her!”",matthew cuthbert you don't mean to say you think we ought to keep her,14,1.0,596.72,600.42,3.78,-32.22,1.65,0.09,3.0,1.34,-9.72,-3.8,0.0,-0.5,0.0,"Cuthbert,|0.30|+nan"
+3,57,160,0,,,Marilla’s astonishment could not have been greater if Matthew had expressed a predilection for standing on his head.,,18,1.0,600.84,605.54,3.83,-32.3,11.55,2.48,4.4,1.26,0.18,-1.41,-9.9,-11.4,-9.9,
+3,58,161,1,Matthew,tag,"“Well, now, no, I suppose not—not exactly,” stammered Matthew, uncomfortably driven into a corner for his precise meaning.",well now no i suppose not not exactly,8,1.0,606.26,609.68,2.34,-32.95,10.35,5.65,-36.2,0.61,-1.03,1.76,-8.7,0.0,0.0,"""'Well,|0.28|+6.6"
+3,58,162,1,Matthew,tag,“I suppose—we could hardly be expected to keep her.”,i suppose we could hardly be expected to keep her,10,1.0,613.84,618.02,2.39,-37.99,1.65,6.0,-34.9,-4.43,-9.72,2.11,0.0,0.0,0.0,
+3,59,163,1,?,turns,“I should say not.,i should say not,4,1.0,618.02,619.28,3.17,-32.58,11.15,5.58,-13.6,0.98,-0.22,1.69,1.55,-0.8,-0.4,
+3,59,164,1,?,turns,What good would she be to us?”,what good would she be to us,7,1.0,619.58,621.12,4.55,-34.73,1.65,0.0,24.0,-1.17,-9.72,-3.89,0.0,0.0,0.0,
+3,60,165,1,Matthew,tag,"“We might be some good to her,” said Matthew suddenly and unexpectedly.",we might be some good to her,7,1.0,621.12,623.32,3.18,-35.64,10.95,5.4,-13.4,-2.08,-0.43,1.51,-9.3,-11.6,-10.7,
+3,61,166,1,?,turns,"“Matthew Cuthbert, I believe that child has bewitched you!",matthew cuthbert i believe that child has bewitched you,9,1.0,626.0,629.0,3.0,-32.55,10.75,7.06,-18.3,1.01,-0.62,3.17,13.1,-0.6,15.0,
+3,61,167,1,?,turns,I can see as plain as plain that you want to keep her.”,i can see as plain as plain that you want to keep her,13,1.0,629.24,632.2,4.39,-35.27,1.65,8.39,19.6,-1.71,-9.72,4.5,0.0,0.0,0.0,
+3,62,168,1,Matthew,turns,"“Well now, she’s a real interesting little thing,” persisted Matthew.",well now she's a real interesting little thing,8,1.0,632.2,635.78,2.23,-36.29,9.85,8.32,-39.2,-2.73,-1.53,4.43,-8.2,0.0,0.0,"now,|0.52|+4.7"
+3,62,169,1,Matthew,turns,“You should have heard her talk coming from the station.”,you should have heard her talk coming from the station,10,0.9,636.98,639.34,4.24,-33.38,13.55,6.01,15.5,0.18,2.18,2.12,-3.0,-4.0,-2.8,talk|0.38|-4.4
+3,63,170,1,?,turns,"“Oh, she can talk fast enough.",oh she can talk fast enough,6,1.0,639.86,641.48,3.7,-32.31,12.65,5.4,0.8,1.25,1.28,1.51,1.3,-1.2,0.5,
+3,63,171,1,?,turns,I saw that at once.,i saw that at once,5,1.0,641.5,642.54,4.81,-32.57,11.05,0.8,31.1,0.99,-0.32,-3.09,0.8,-0.6,1.7,
+3,63,172,1,?,turns,"It’s nothing in her favor, either.",it's nothing in her favor either,6,0.83,643.1,644.64,3.9,-31.63,11.85,5.15,6.3,1.93,0.47,1.26,0.25,-1.2,0.0,her|0.26|+nan
+3,63,173,1,?,turns,I don’t like children who have so much to say.,i don't like children who have so much to say,10,1.0,644.82,646.98,4.63,-31.63,1.65,0.33,26.2,1.93,-9.72,-3.56,0.15,-1.2,-0.1,
+3,63,174,1,?,turns,I don’t want an orphan girl and if I did she isn’t the style I’d pick out.,i don't want an orphan girl and if i did she isn't the style i'd pick out,17,1.0,647.24,651.4,4.09,-30.23,12.85,4.07,11.4,3.33,1.47,0.18,1.2,-3.0,-2.5,"-girl,|0.24|+nan did,|0.22|+4.6"
+3,63,175,1,?,turns,There’s something I don’t understand about her.,there's something i don't understand about her,7,1.0,651.7,653.62,3.65,-32.82,14.35,4.77,-0.5,0.74,2.97,0.88,-0.2,-4.2,2.0,
+3,63,176,1,?,turns,"No, she’s got to be despatched straightway back to where she came from.”",no she's got to be despatched straightway back to where she came from,13,0.85,654.06,657.92,3.37,-33.59,10.95,5.91,-8.2,-0.03,-0.43,2.02,-9.3,0.0,0.0,be|1.12|+nan
+3,64,177,1,Matthew,tag,"“I could hire a French boy to help me,” said Matthew, “and she’d be company for you.”",i could hire a french boy to help me and she'd be company for you,15,1.0,657.92,662.4,3.35,-35.85,1.65,7.35,-8.7,-2.29,-9.72,3.46,0.0,-0.2,0.0,"me,'|0.74|+15.9"
+3,65,178,1,Marilla,tag,"“I’m not suffering for company,” said Marilla shortly.",i'm not suffering for company,5,1.0,662.4,668.86,0.77,-34.01,10.55,5.98,-79.0,-0.45,-0.82,2.09,0.9,-3.6,-3.5,
+3,65,179,1,Marilla,tag,“And I’m not going to keep her.”,and i'm not going to keep her,7,0.0,,,,,,,,,,,,,,
+3,66,180,1,Matthew,tag,"“Well now, it’s just as you say, of course, Marilla,” said Matthew rising and putting his pipe away.",well now it's just as you say of course marilla,10,0.7,,,,,,,,,,,,,,
+3,66,181,1,Matthew,tag,“I’m going to bed.”,i'm going to bed,4,1.0,672.92,674.68,2.27,-35.87,1.65,5.28,-38.1,-2.31,-9.72,1.39,0.0,0.0,0.0,
+3,67,182,0,,,To bed went Matthew.,,4,1.0,674.68,675.96,3.12,-32.68,14.0,6.56,-15.0,0.88,2.62,2.67,0.05,-2.6,-1.1,
+3,67,183,0,,,"And to bed, when she had put her dishes away, went Marilla, frowning most resolutely.",,15,1.0,676.36,680.56,3.57,-33.63,10.2,3.99,-2.7,-0.07,-1.18,0.1,1.15,-1.3,9.1,"Marilla,|0.48|+0.4"
+3,67,184,0,,,"And up-stairs, in the east gable, a lonely, heart-hungry, friendless child cried herself to sleep.",,17,0.82,681.04,689.14,2.1,-37.91,1.65,5.1,-42.8,-4.35,-9.72,1.21,0.0,0.0,0.0,"and|0.44|+11.2 gable,|0.36|+1.4 lonely,|0.64|-0.9 -hungry,|0.22|+1.5 child,|0.44|+0.0"
