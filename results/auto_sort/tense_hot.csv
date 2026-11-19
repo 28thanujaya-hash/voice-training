@@ -1,0 +1,147 @@
+run,id,mood,var,take,decision,score,q,speed_pct,d_lufs,d_f0_med,d_f0_sd,d_h1h2,gap,hold,hiss,text,heard
+full_tense_hot_1,m3t11,tense,T,0,keep,2.75,,38.4,3.2,-0.9,0.93,-1.15,0.28,0.22,0.02,Then he threw the menu on the table and walked out without paying.,Then he threw the menu on the table and walked out without paying.
+full_tense_hot_1,m3t11,tense,T,1,keep,0.32,,21.7,1.5,-2.35,0.04,-4.15,0.09,0.38,0.0,Then he threw the menu on the table and walked out without paying.,Then he threw the menu on the table and walked out without paying.
+full_tense_hot_1,m3t14,tense,T,0,keep,11.01,,22.3,6.3,9.42,3.75,1.97,0.0,0.09,0.11,I can't believe she said that.,I can't believe she said that.
+full_tense_hot_1,m3t14,tense,T,2,keep,6.43,,39.8,4.65,3.55,1.67,0.97,0.0,0.16,0.11,I can't believe she said that.,I can't believe she said that.
+full_tense_hot_1,m3t14,tense,T,3,spare,3.12,,30.0,2.86,0.53,0.46,3.65,0.05,0.1,0.11,I can't believe she said that.,I can't believe she said that.
+full_tense_hot_1,m3t16,tense,T,0,drop-flat,-0.33,,20.8,0.56,-1.79,0.37,-1.48,0.4,0.2,0.08,He clicked his fingers at me. Like I was a dog.,"He clicked his fingers at me, like I was a dog."
+full_tense_hot_1,m3t16,tense,T,2,drop-flat,-1.24,,14.5,-0.59,-1.3,0.42,-5.17,0.39,0.31,0.02,He clicked his fingers at me. Like I was a dog.,"He clicked his fingers at me, like I was a dog."
+full_tense_hot_1,m3t16,tense,T,3,keep,1.80,,23.5,2.46,-1.31,1.57,-2.42,0.53,0.14,0.05,He clicked his fingers at me. Like I was a dog.,"He clicked his fingers at me, like I was a dog."
+full_tense_hot_1,m3t18,tense,T,0,keep,3.31,,-1.0,3.57,-0.52,0.56,-0.66,0.55,0.31,0.11,"I told my manager everything, and she said, ""Just smile."" Smile?",I told my manager everything and she said just smile. Smile?
+full_tense_hot_1,m3t18,tense,T,1,spare,3.18,,5.2,3.05,0.26,1.49,-0.56,0.53,0.21,0.11,"I told my manager everything, and she said, ""Just smile."" Smile?",I told my manager everything and she said just smile. Smile?
+full_tense_hot_1,m3t18,tense,T,2,keep,3.56,,7.1,3.44,0.23,1.94,0.16,0.44,0.16,0.2,"I told my manager everything, and she said, ""Just smile."" Smile?","I told my manager everything. And she said, just smile. Smile?"
+full_tense_hot_1,m3t18,tense,T,3,spare,3.13,,-1.5,3.21,-0.16,0.8,-2.07,0.38,0.2,0.13,"I told my manager everything, and she said, ""Just smile."" Smile?",I told my manager everything and she said just smile. Smile?
+full_tense_hot_1,m3t22,tense,T,0,keep,4.71,,38.6,4.95,-0.49,1.46,-4.09,0.25,0.24,0.08,"Three people saw what happened, and nobody said a word.",Three people saw what happened and nobody said a word.
+full_tense_hot_1,m3t22,tense,T,1,spare,3.91,,19.7,3.29,1.24,1.54,0.99,0.31,0.23,0.07,"Three people saw what happened, and nobody said a word.",Three people saw what happened and nobody said a word.
+full_tense_hot_1,m3t22,tense,T,2,spare,1.40,,19.7,2.05,-1.3,1.12,-0.35,0.77,0.21,0.08,"Three people saw what happened, and nobody said a word.",Three people saw what happened and nobody said a word.
+full_tense_hot_1,m3t22,tense,T,3,keep,6.96,,41.0,6.86,0.19,1.19,-2.65,0.25,0.23,0.06,"Three people saw what happened, and nobody said a word.","Three people saw what happened, and nobody said a word."
+full_tense_hot_1,m3t24,tense,T,0,keep,3.08,,40.8,3.14,-0.11,0.42,-3.72,0.27,0.34,0.14,"He owes the café two thousand rupees, and he's never coming back.","He owes the cafe 2,000 rupees, and he's never coming back."
+full_tense_hot_1,m3t24,tense,T,1,spare,1.66,,7.1,1.97,-0.63,1.04,-3.34,0.23,0.4,0.18,"He owes the café two thousand rupees, and he's never coming back.","He owes the cafe 2,000 rupees, and he's never coming back."
+full_tense_hot_1,m3t24,tense,T,3,keep,3.87,,10.5,3.88,-0.02,0.97,-1.71,0.39,0.27,0.13,"He owes the café two thousand rupees, and he's never coming back.","He owes the cafe 2,000 rupees. And he's never coming back."
+full_tense_hot_1,m3t41,tense,T,0,spare,2.57,,-6.0,2.48,0.18,-0.04,5.1,0.42,0.35,0.07,The landlord wants more rent. Again. For the same tiny flat.,"The landlord wants more rent, again, for the same tiny flat."
+full_tense_hot_1,m3t41,tense,T,1,keep,5.64,,18.4,5.97,-0.65,0.57,-5.92,0.44,0.29,0.1,The landlord wants more rent. Again. For the same tiny flat.,The landlord wants more rent. Again. For the same tiny flat.
+full_tense_hot_1,m3t41,tense,T,2,keep,5.55,,-11.0,4.3,2.51,1.19,-0.09,0.73,0.36,0.1,The landlord wants more rent. Again. For the same tiny flat.,"The landlord wants more rent. Again, for the same tiny flat."
+full_tense_hot_1,m3t41,tense,T,3,spare,1.99,,5.3,2.71,-1.44,0.4,-1.66,0.31,0.25,0.07,The landlord wants more rent. Again. For the same tiny flat.,The landlord wants more rent. Again. For the same tiny flat.
+full_tense_hot_1,m3t42,tense,T,0,spare,2.66,,38.6,2.37,0.58,1.36,-5.0,0.58,0.18,0.13,The bus driver didn't stop. I was standing right there.,The bus driver didn't stop. I was standing right there.
+full_tense_hot_1,m3t42,tense,T,1,keep,6.68,,28.2,5.38,2.6,1.57,0.74,0.13,0.14,0.11,The bus driver didn't stop. I was standing right there.,The bus driver didn't stop. I was standing right there.
+full_tense_hot_1,m3t42,tense,T,2,drop-flat,-0.12,,22.1,0.56,-1.37,-0.11,-2.99,0.52,0.23,0.13,The bus driver didn't stop. I was standing right there.,The bus driver didn't stop. I was standing right there.
+full_tense_hot_1,m3t42,tense,T,3,keep,3.31,,29.3,3.09,0.44,0.5,-2.06,0.41,0.17,0.11,The bus driver didn't stop. I was standing right there.,The bus driver didn't stop. I was standing right there.
+full_tense_hot_1,m3t43,tense,T,0,keep,5.06,,68.3,4.29,1.54,2.08,-0.68,0.24,0.17,0.08,"Somebody parked in front of our gate, so we couldn't get out.","Somebody parked in front of our gate, so we couldn't get out."
+full_tense_hot_1,m3t43,tense,T,1,drop-flat,0.98,,59.1,0.26,1.45,0.77,1.84,0.0,0.2,0.09,"Somebody parked in front of our gate, so we couldn't get out.",Somebody parked in front of our gate so we couldn't get out.
+full_tense_hot_1,m3t43,tense,T,2,keep,3.15,,53.3,2.22,1.85,1.65,0.51,0.0,0.15,0.1,"Somebody parked in front of our gate, so we couldn't get out.",Somebody parked in front of our gate so we couldn't get out.
+full_tense_hot_1,m3t43,tense,T,3,spare,1.75,,55.2,2.0,-0.51,2.12,-0.6,0.04,0.17,0.11,"Somebody parked in front of our gate, so we couldn't get out.",Somebody parked in front of our gate so we couldn't get out.
+full_tense_hot_1,m3t44,tense,T,0,keep,2.94,,25.5,3.91,-1.95,0.25,-6.72,0.11,0.3,0.1,"The shop gave me the wrong change, and then they said it was my mistake.",The shop gave me the wrong change and then they said it was my mistake.
+full_tense_hot_1,m3t44,tense,T,2,spare,2.48,,15.2,2.04,0.89,1.14,3.34,0.72,0.3,0.12,"The shop gave me the wrong change, and then they said it was my mistake.",The shop gave me the wrong change. And then they said it was my mistake.
+full_tense_hot_1,m3t44,tense,T,3,keep,3.46,,5.0,2.45,2.03,2.0,1.68,0.42,0.23,0.1,"The shop gave me the wrong change, and then they said it was my mistake.",The shop gave me the wrong change. And then they said it was my mistake.
+full_tense_hot_1,m3t45,tense,T,0,keep,2.34,,20.1,3.26,-1.83,-0.26,-6.29,0.03,0.21,0.04,My neighbour plays loud music every night until two.,My neighbor plays loud music every night until two.
+full_tense_hot_1,m3t45,tense,T,1,spare,0.53,,14.3,1.11,-1.17,0.04,-4.25,0.01,0.51,0.04,My neighbour plays loud music every night until two.,My neighbor plays loud music every night until 2.
+full_tense_hot_1,m3t45,tense,T,2,spare,2.19,,28.0,3.04,-1.71,0.28,-3.54,0.03,0.16,0.04,My neighbour plays loud music every night until two.,My neighbor plays loud music every night until two.
+full_tense_hot_1,m3t45,tense,T,3,keep,3.28,,19.7,4.04,-1.52,0.31,-4.17,0.01,0.66,0.04,My neighbour plays loud music every night until two.,My neighbor plays loud music every night until two.
+full_tense_hot_1,m3t47,tense,T,0,spare,1.65,,-11.7,1.16,0.97,1.92,1.04,0.02,0.29,0.11,Priya used my shampoo again without asking.,Priya used my shampoo again without asking.
+full_tense_hot_1,m3t47,tense,T,1,spare,4.49,,8.5,3.89,1.19,1.89,0.99,0.19,0.21,0.08,Priya used my shampoo again without asking.,Priya used my shampoo again without asking.
+full_tense_hot_1,m3t47,tense,T,2,keep,6.10,,-0.2,5.2,1.8,2.02,2.47,0.0,0.22,0.08,Priya used my shampoo again without asking.,Try I've used my shampoo again without asking.
+full_tense_hot_1,m3t47,tense,T,3,keep,5.75,,2.9,6.12,-0.74,1.89,-3.15,0.0,0.2,0.08,Priya used my shampoo again without asking.,Freely used my shampoo again without asking.
+full_tense_hot_1,m3t48,tense,T,0,spare,2.54,,29.6,3.08,-1.09,0.4,-4.15,0.39,0.42,0.06,"The internet's been down since morning, and nobody's answering the phone.",The internet's been down since morning and nobody's answering the phone.
+full_tense_hot_1,m3t48,tense,T,1,keep,3.96,,53.9,4.22,-0.52,0.89,-4.5,0.27,0.22,0.06,"The internet's been down since morning, and nobody's answering the phone.","The internet's been down since morning, and nobody's answering the phone."
+full_tense_hot_1,m3t48,tense,T,2,spare,3.77,,37.1,3.47,0.59,1.8,-1.31,0.4,0.17,0.06,"The internet's been down since morning, and nobody's answering the phone.",The internet's been down since morning and nobody's answering the phone.
+full_tense_hot_1,m3t48,tense,T,3,keep,8.63,,36.2,7.55,2.17,1.79,1.89,0.26,0.2,0.05,"The internet's been down since morning, and nobody's answering the phone.","The internet's been down since morning, and nobody's answering the phone."
+full_tense_hot_1,m3t49,tense,T,0,keep,7.37,,16.5,7.06,0.62,2.19,0.69,0.38,0.24,0.12,The man next to me talked on the phone the whole journey. Loudly.,The man next to me talked on the phone the whole journey. Loudly.
+full_tense_hot_1,m3t49,tense,T,1,spare,1.37,,20.0,1.23,0.28,1.06,4.24,0.44,0.28,0.11,The man next to me talked on the phone the whole journey. Loudly.,The man next to me talked on the phone the whole journey. Loudly.
+full_tense_hot_1,m3t49,tense,T,2,drop-quality,3.43,gap,33.0,3.04,0.78,1.48,0.5,1.57,0.2,0.13,The man next to me talked on the phone the whole journey. Loudly.,The man next to me talked on the phone the whole journey. Loudly.
+full_tense_hot_1,m3t49,tense,T,3,keep,5.24,,26.9,5.02,0.45,2.11,1.15,0.33,0.2,0.05,The man next to me talked on the phone the whole journey. Loudly.,"The man next to me talked on the phone the whole journey, loudly."
+full_tense_hot_1,m3t50,tense,T,0,drop-flat,0.47,,12.4,0.37,0.21,1.5,3.09,0.66,0.33,0.08,Someone took my umbrella from the café. My new one.,Someone took my umbrella from the cafe. My new one.
+full_tense_hot_1,m3t50,tense,T,1,keep,5.08,,31.5,4.93,0.3,2.03,-1.02,0.34,0.17,0.1,Someone took my umbrella from the café. My new one.,Someone took my umbrella from the cafe. My new one.
+full_tense_hot_1,m3t50,tense,T,2,keep,9.42,,19.3,8.13,2.57,3.42,-2.49,0.42,0.22,0.08,Someone took my umbrella from the café. My new one.,Someone took my umbrella from the cafe. My new one.
+full_tense_hot_1,m3t50,tense,T,3,drop-flat,-0.05,,24.1,0.69,-1.48,1.16,-4.45,0.68,0.31,0.09,Someone took my umbrella from the café. My new one.,Someone took my umbrella from the cafe. My new one.
+full_tense_hot_1,m3t51,tense,T,0,keep,4.61,,38.2,4.07,1.07,2.18,1.36,0.37,0.19,0.19,"I cleaned the kitchen this morning, and it's already a mess.","I cleaned the kitchen this morning, and it's already a mess."
+full_tense_hot_1,m3t51,tense,T,1,spare,2.65,,25.1,2.64,0.01,0.38,-2.6,0.24,0.22,0.23,"I cleaned the kitchen this morning, and it's already a mess.","I cleaned the kitchen this morning, and it's already a mess."
+full_tense_hot_1,m3t51,tense,T,2,keep,2.76,,15.4,3.17,-0.82,1.86,-4.24,0.14,0.26,0.24,"I cleaned the kitchen this morning, and it's already a mess.",I cleaned the kitchen this morning and it's already a mess.
+full_tense_hot_1,m3t51,tense,T,3,spare,2.56,,30.1,2.7,-0.28,1.69,-0.88,0.05,0.38,0.22,"I cleaned the kitchen this morning, and it's already a mess.",I cleaned the kitchen this morning and it's already a mess.
+full_tense_hot_1,m3t52,tense,T,0,keep,5.52,,12.4,4.99,1.05,0.42,5.55,0.28,0.19,0.19,"They changed the class time again, and nobody told us.","They changed the class time again, and nobody told us."
+full_tense_hot_1,m3t52,tense,T,1,keep,1.95,,7.7,0.86,2.18,1.31,-0.17,0.23,0.24,0.18,"They changed the class time again, and nobody told us.","They changed the class time again, and nobody told us."
+full_tense_hot_1,m3t52,tense,T,2,drop-flat,-0.97,,18.4,-0.14,-1.67,0.78,-2.74,0.22,0.19,0.16,"They changed the class time again, and nobody told us.","They changed the class time again, and nobody told us."
+full_tense_hot_1,m3t53,tense,T,0,keep,11.20,,-9.5,7.82,6.76,3.71,3.88,0.26,0.16,0.09,Wait. He said what?,"Wait, he said what?"
+full_tense_hot_1,m3t53,tense,T,1,spare,2.28,,4.5,1.92,0.72,0.77,1.03,0.68,0.13,0.07,Wait. He said what?,"Wait, he said what?"
+full_tense_hot_1,m3t53,tense,T,3,keep,8.12,,-13.6,6.31,3.62,3.27,-4.86,0.43,0.12,0.08,Wait. He said what?,"Wait, he said what?"
+full_tense_hot_1,m3t54,tense,T,0,keep,7.20,,39.8,4.97,4.46,2.66,4.05,0.33,0.14,0.14,Seriously? After everything you did for him?,Seriously? After everything you did for him?
+full_tense_hot_1,m3t54,tense,T,1,keep,8.46,,37.3,5.4,6.12,2.29,8.19,0.34,0.3,0.09,Seriously? After everything you did for him?,Seriously? After everything you did for him?
+full_tense_hot_1,m3t54,tense,T,2,spare,2.00,,30.9,0.65,2.71,-0.01,2.84,0.5,0.21,0.13,Seriously? After everything you did for him?,Seriously? After everything you did for him?
+full_tense_hot_1,m3t54,tense,T,3,spare,6.31,,23.1,4.08,4.47,1.78,4.86,0.36,0.37,0.16,Seriously? After everything you did for him?,Seriously? After everything you did for him?
+full_tense_hot_1,m3t57,tense,T,0,spare,6.90,,53.3,5.91,1.98,0.11,1.01,0.0,0.17,0.05,Then why didn't he just tell you?,Then why didn't he just tell you?
+full_tense_hot_1,m3t57,tense,T,2,keep,9.05,,66.8,8.57,0.97,1.55,9.47,0.0,0.14,0.12,Then why didn't he just tell you?,Then why didn't he just tell you?
+full_tense_hot_1,m3t57,tense,T,3,keep,14.27,,53.3,9.24,10.05,1.43,12.61,0.0,0.21,0.04,Then why didn't he just tell you?,Then why didn't he just tell you?
+full_tense_hot_1,m3t58,tense,T,0,spare,6.21,,21.4,5.41,1.59,0.32,3.53,0.0,0.24,0.07,And you just let him say that?,And you just let him say that?
+full_tense_hot_1,m3t58,tense,T,1,keep,9.32,,55.5,8.4,1.84,1.18,-2.83,0.0,0.19,0.04,And you just let him say that?,And you just let him say that?
+full_tense_hot_1,m3t58,tense,T,2,spare,8.17,,30.0,6.77,2.8,1.3,1.77,0.0,0.17,0.08,And you just let him say that?,And you just let him say that?
+full_tense_hot_1,m3t58,tense,T,3,keep,8.70,,31.0,7.51,2.37,0.3,4.29,0.0,0.19,0.09,And you just let him say that?,And you just let him say that?
+full_tense_hot_2,m3t68,tense,T,0,drop-flat,0.66,,13.5,0.38,0.56,1.99,0.05,0.63,0.25,0.13,Someone deleted my photos from the shared folder. Without asking.,Someone deleted my photos from the shared folder without asking.
+full_tense_hot_2,m3t68,tense,T,1,drop-flat,0.20,,46.9,0.83,-1.25,0.05,-2.51,0.44,0.29,0.1,Someone deleted my photos from the shared folder. Without asking.,"Someone deleted my photos from the shared folder, without asking."
+full_tense_hot_2,m3t68,tense,T,2,keep,5.38,,30.8,5.4,-0.05,1.33,-2.24,0.36,0.18,0.09,Someone deleted my photos from the shared folder. Without asking.,"Someone deleted my photos from the shared folder, without asking."
+full_tense_hot_2,m3t68,tense,T,3,keep,2.74,,26.7,3.52,-1.56,1.1,-3.22,0.31,0.2,0.11,Someone deleted my photos from the shared folder. Without asking.,Someone deleted my photos from the shared folder without asking.
+full_tense_hot_2,m3t69,tense,T,0,spare,5.53,,32.6,5.23,0.6,1.71,-1.5,0.28,0.22,0.03,They cancelled the train to Madurai. Two days before.,They canceled the train to Madurai two days before.
+full_tense_hot_2,m3t69,tense,T,1,spare,1.33,,14.4,1.47,-0.28,0.75,-3.56,0.37,0.24,0.05,They cancelled the train to Madurai. Two days before.,They canceled the train to Nanari two days before.
+full_tense_hot_2,m3t69,tense,T,2,keep,6.60,,39.8,6.64,-0.07,0.81,-0.47,0.29,0.21,0.04,They cancelled the train to Madurai. Two days before.,They cancelled the train to Matarai two days before.
+full_tense_hot_2,m3t69,tense,T,3,keep,8.12,,19.3,5.37,5.49,2.76,3.63,0.24,0.13,0.03,They cancelled the train to Madurai. Two days before.,They canceled the train to Matarai two days before.
+full_tense_hot_2,m3t70,tense,T,0,spare,2.95,,37.1,2.78,0.35,0.83,-1.22,0.35,0.23,0.09,"First he complained about the tea, then about the cake, and then he wanted a discount.","First he complained about the tea, then about the cake, and then he wanted a discount."
+full_tense_hot_2,m3t70,tense,T,1,spare,6.78,,41.4,5.44,2.68,0.99,2.31,0.3,0.25,0.09,"First he complained about the tea, then about the cake, and then he wanted a discount.","First he complained about the tea, then about the cake, and then he wanted a discount."
+full_tense_hot_2,m3t70,tense,T,2,keep,8.06,,70.3,7.08,1.96,0.82,-1.45,0.34,0.21,0.06,"First he complained about the tea, then about the cake, and then he wanted a discount.","First he complained about the tea, then about the cake, and then he wanted a discount."
+full_tense_hot_2,m3t70,tense,T,3,keep,8.20,,46.8,6.79,2.81,1.58,-1.87,0.34,0.24,0.05,"First he complained about the tea, then about the cake, and then he wanted a discount.","First he complained about the tea, then about the cake, and then he wanted a discount."
+full_tense_hot_2,m3t72,tense,T,1,spare,3.46,,31.6,2.71,1.51,2.18,-1.61,0.43,0.17,0.02,"After that, he took a photo of my name badge. Can you believe it?","After that, he took a photo of my name badge. Can you believe it?"
+full_tense_hot_2,m3t72,tense,T,2,keep,5.47,,29.9,2.54,5.87,3.07,-2.42,0.4,0.18,0.03,"After that, he took a photo of my name badge. Can you believe it?","After that, he took a photo of my name badge. Can you believe it?"
+full_tense_hot_2,m3t72,tense,T,3,keep,6.19,,27.5,4.68,3.02,2.23,0.43,0.32,0.2,0.04,"After that, he took a photo of my name badge. Can you believe it?","After that, he took a photo of my name badge. Can you believe it?"
+full_tense_hot_2,m3t74,tense,T,0,keep,6.33,,29.2,6.46,-0.25,0.23,-1.08,0.36,0.17,0.07,Thirty-three rupees for a bottle of water? That's too much.,33 rupees for a bottle of water. That's too much.
+full_tense_hot_2,m3t74,tense,T,1,spare,3.06,,20.8,3.21,-0.29,0.54,-2.32,0.34,0.31,0.08,Thirty-three rupees for a bottle of water? That's too much.,33 rupees for a bottle of water? That's too much.
+full_tense_hot_2,m3t74,tense,T,2,spare,1.65,,22.9,1.47,0.35,0.99,0.73,0.4,0.31,0.05,Thirty-three rupees for a bottle of water? That's too much.,33 rupees for a bottle of water? That's too much.
+full_tense_hot_2,m3t74,tense,T,3,keep,7.07,,29.6,5.97,2.21,1.33,-1.79,0.52,0.33,0.08,Thirty-three rupees for a bottle of water? That's too much.,33 rupees for a bottle of water? That's too much.
+full_tense_hot_2,m3xt01,tense,T,1,keep,10.69,,-4.9,9.23,2.92,3.64,3.65,0.38,0.14,0.02,Who told you that you could take it?,Who told you that you could take it?
+full_tense_hot_2,m3xt01,tense,T,2,keep,7.32,,22.7,4.42,5.81,2.24,7.39,0.0,0.1,0.03,Who told you that you could take it?,Who told you that you could take it?
+full_tense_hot_2,m3xt01,tense,T,3,spare,5.33,,35.8,3.87,2.92,2.43,2.63,0.01,0.17,0.03,Who told you that you could take it?,Who told you that you could take it?
+full_tense_hot_2,m3xt22,tense,T,0,keep,3.40,,-10.3,3.61,-0.42,0.71,-0.62,0.37,0.24,0.05,That's not the point — you lied.,That's not the point. You lied.
+full_tense_hot_2,m3xt22,tense,T,1,keep,4.53,,-11.4,4.56,-0.05,1.39,3.18,0.31,0.23,0.05,That's not the point — you lied.,That's not the point. You lied.
+full_tense_hot_2,m3xt22,tense,T,3,spare,1.03,,-17.1,1.52,-0.98,-0.1,-2.18,0.25,0.25,0.07,That's not the point — you lied.,That's not the point. You lied.
+full_tense_hot_2,m3xt26,tense,T,0,spare,4.75,,52.6,5.4,-1.3,0.8,-0.37,0.35,0.13,0.04,He knew — and he said nothing.,"He knew, and he said nothing."
+full_tense_hot_2,m3xt26,tense,T,1,keep,8.02,,2.7,8.3,-0.57,0.4,2.57,0.46,0.22,0.09,He knew — and he said nothing.,"He knew, and he said nothing."
+full_tense_hot_2,m3xt26,tense,T,2,spare,2.08,,-11.5,1.99,0.18,0.26,6.85,0.64,0.3,0.08,He knew — and he said nothing.,He knew and he said nothing.
+full_tense_hot_2,m3xt26,tense,T,3,keep,6.21,,14.7,6.45,-0.49,0.21,-1.68,0.54,0.2,0.06,He knew — and he said nothing.,"He knew, and he said nothing."
+full_tense_hot_2,m3xt29,tense,T,0,keep,13.80,,0.4,10.43,6.74,1.68,11.41,0.0,0.14,0.17,You read my messages?!,You read my messages?
+full_tense_hot_2,m3xt29,tense,T,1,spare,11.08,,16.9,8.18,5.8,2.21,10.36,0.0,0.09,0.16,You read my messages?!,You read my messages?
+full_tense_hot_2,m3xt29,tense,T,2,keep,13.62,,-7.4,9.13,8.99,0.89,15.72,0.0,0.16,0.14,You read my messages?!,You read my messages?
+full_tense_hot_2,m3xt29,tense,T,3,spare,11.94,,-8.0,9.59,4.69,0.49,9.18,0.0,0.36,0.16,You read my messages?!,You read my messages!
+full_tense_hot_2,m3xt30,tense,T,0,spare,9.30,,19.6,7.33,3.94,2.03,6.09,0.0,0.15,0.08,You took my bag without asking?!,You took my bag without asking?
+full_tense_hot_2,m3xt30,tense,T,1,keep,12.06,,17.4,9.29,5.54,1.54,4.27,0.0,0.18,0.08,You took my bag without asking?!,You took my bag without asking?
+full_tense_hot_2,m3xt30,tense,T,2,keep,9.36,,15.9,8.54,1.64,1.41,1.05,0.0,0.21,0.08,You took my bag without asking?!,You took my bag without asking?
+full_tense_hot_2,m3xt30,tense,T,3,spare,9.21,,13.9,6.48,5.47,3.22,3.13,0.0,0.12,0.09,You took my bag without asking?!,You took my bag without asking?
+full_tense_hot_2,m3xt31,tense,T,0,keep,11.96,,18.8,7.96,8.01,0.61,11.19,0.0,0.18,0.04,He shouted at you too?!,He shouted at you too?
+full_tense_hot_2,m3xt31,tense,T,1,keep,11.87,,35.8,7.37,9.0,1.6,5.58,0.0,0.15,0.05,He shouted at you too?!,He shouted at you too?
+full_tense_hot_2,m3xt31,tense,T,2,spare,9.77,,4.9,8.27,3.01,1.6,1.78,0.0,0.17,0.05,He shouted at you too?!,He shouted at you too?
+full_tense_hot_2,m3xt31,tense,T,3,spare,9.38,,8.0,7.75,3.25,1.64,3.85,0.0,0.12,0.02,He shouted at you too?!,He shouted at you too?
+full_tense_hot_2,m3xt32,tense,T,0,spare,7.05,,10.5,4.63,4.85,1.19,1.65,0.0,0.19,0.0,You told my manager?!,You told my manager!
+full_tense_hot_2,m3xt32,tense,T,1,keep,10.43,,22.9,8.69,3.48,1.79,3.93,0.0,0.16,0.01,You told my manager?!,You told my manager?
+full_tense_hot_2,m3xt32,tense,T,2,keep,11.77,,5.6,9.95,3.65,0.75,2.56,0.0,0.2,0.0,You told my manager?!,You told my manager?
+full_tense_hot_2,m3xt32,tense,T,3,spare,6.91,,-17.6,5.62,2.58,1.43,1.47,0.0,0.2,0.02,You told my manager?!,You told my manager?
+full_tense_hot_2,m3xt33,tense,T,0,keep,9.46,,22.9,7.95,3.01,3.08,3.48,0.0,0.14,0.05,They cancelled it again?!,They cancelled it again.
+full_tense_hot_2,m3xt33,tense,T,1,keep,8.18,,26.2,6.29,3.78,2.35,1.64,0.0,0.22,0.07,They cancelled it again?!,They cancelled it again?
+full_tense_hot_2,m3xt33,tense,T,2,spare,7.80,,15.0,5.87,3.87,0.95,-2.25,0.0,0.21,0.0,They cancelled it again?!,They cancelled it again?
+full_tense_hot_2,m3xt34,tense,T,0,keep,10.92,,9.9,8.89,4.05,1.24,2.94,0.0,0.16,0.0,You call that an apology?!,You call that an apology?
+full_tense_hot_2,m3xt34,tense,T,1,keep,13.64,,30.2,10.3,6.68,3.8,-0.62,0.15,0.19,0.03,You call that an apology?!,You call that an apology?
+full_tense_hot_2,m3xt34,tense,T,2,spare,9.64,,29.3,9.26,0.77,1.51,-2.56,0.0,0.24,0.0,You call that an apology?!,You call that an apology?
+full_tense_hot_2,m3xt34,tense,T,3,spare,9.85,,32.0,8.6,2.5,1.49,2.74,0.0,0.15,0.0,You call that an apology?!,You call that an apology?
+full_tense_hot_2,m3xt35,tense,T,0,keep,7.79,,-13.0,3.37,8.83,3.61,0.1,0.21,0.12,0.05,Who parked there?!,Who parked there?
+full_tense_hot_2,m3xt36,tense,T,0,keep,11.09,,-22.1,8.15,5.88,1.66,13.76,0.0,0.14,0.13,You lost the keys?!,You lost the keys?
+full_tense_hot_2,m3xt36,tense,T,1,keep,5.48,,-26.9,4.33,2.3,0.7,5.03,0.03,0.21,0.15,You lost the keys?!,You lost the keys.
+full_tense_hot_2,m3xt37,tense,T,0,spare,6.35,,-39.4,4.71,3.28,1.53,5.09,0.02,0.17,0.11,He's late again?!,He's late again.
+full_tense_hot_2,m3xt37,tense,T,1,keep,7.60,,-14.4,6.43,2.34,2.44,-3.22,0.0,0.19,0.0,He's late again?!,He's late again?
+full_tense_hot_2,m3xt37,tense,T,2,keep,9.55,,-18.0,9.07,0.97,0.95,-4.54,0.0,0.13,0.0,He's late again?!,He's late again.
+full_tense_hot_2,m3xt37,tense,T,3,spare,5.50,,-13.6,4.29,2.42,2.11,4.04,0.24,0.17,0.0,He's late again?!,He's late... again?
+full_tense_hot_2,m3xt38,tense,T,0,spare,7.94,,13.2,6.2,3.47,-0.14,1.17,0.0,0.13,0.15,You said that to her?!,You said that to her?
+full_tense_hot_2,m3xt38,tense,T,1,spare,12.59,,13.2,8.58,8.01,0.88,-0.33,0.0,0.27,0.05,You said that to her?!,You said that to her?
+full_tense_hot_2,m3xt38,tense,T,2,keep,16.20,,4.2,10.45,11.49,1.06,7.24,0.0,0.28,0.13,You said that to her?!,You said that to her?
+full_tense_hot_2,m3xt38,tense,T,3,keep,13.50,,9.0,8.43,10.15,0.93,3.18,0.0,0.21,0.13,You said that to her?!,You said that to her?
+full_tense_hot_2,m3xt48,tense,T,0,spare,7.04,,3.3,5.45,3.18,1.91,3.16,0.0,0.08,0.0,We're moving?!,We're moving.
+full_tense_hot_2,m3xt48,tense,T,1,spare,12.99,,-17.1,10.71,4.55,2.92,8.66,0.0,0.12,0.0,We're moving?!,We're moving?
+full_tense_hot_2,m3xt48,tense,T,2,keep,14.10,,-3.6,10.07,8.05,1.24,9.53,0.0,0.19,0.0,We're moving?!,We're moving...
+full_tense_hot_2,m3xt48,tense,T,3,keep,13.73,,8.0,12.18,3.1,2.39,7.52,0.0,0.23,0.0,We're moving?!,We're moving?
+full_tense_hot_2,m3xt52,tense,T,0,keep,12.88,,-17.3,8.46,8.83,1.47,3.53,0.0,0.27,0.11,No more classes?!,No more classes?
+full_tense_hot_2,m3xt52,tense,T,1,spare,10.11,,-12.0,4.85,10.51,0.49,5.48,0.0,0.12,0.14,No more classes?!,No more classes?
+full_tense_hot_2,m3xt52,tense,T,2,spare,10.95,,-19.4,8.21,5.47,1.63,0.02,0.0,0.17,0.15,No more classes?!,No more classes?
+full_tense_hot_2,m3xt52,tense,T,3,keep,13.38,,-21.4,9.98,6.81,2.53,-0.06,0.0,0.18,0.16,No more classes?!,No more classes.
