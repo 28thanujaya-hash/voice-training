@@ -1,0 +1,153 @@
+run,id,mood,var,take,decision,score,q,speed_pct,d_lufs,d_f0_med,d_f0_sd,d_h1h2,gap,hold,hiss,text,heard,end_hi,end_peak,end_fall,end_rise,end_loud,end_len
+full_bright_1,m3b01,bright,T,2,keep,5.65,,3.7,5.28,0.7,1.59,-5.01,0.32,0.33,0.12,"I got it! I'm shift leader now, and I start on Monday!","I got it. I'm shift leader now, and I start on Monday.",0.35,2.20,-0.10,0.60,2.24,0.43
+full_bright_1,m3b01,bright,T,1,drop-flat,7.63,,14.0,6.23,-0.26,0.43,-4.17,0.69,0.24,0.12,"I got it! I'm shift leader now, and I start on Monday!",I got it. I'm shift leader now and I start on Monday.,0.20,3.90,-5.90,-2.00,2.16,0.79
+full_bright_1,m3b03,bright,T,1,keep,3.79,,33.9,0.4,-1.34,-0.29,-3.31,0.17,0.36,0.08,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so I know she's really better.",-1.60,0.00,-1.50,-1.20,-2.57,1.21
+full_bright_1,m3b03,bright,T,2,drop-flat,2.35,,20.0,0.35,-0.82,0.14,-3.72,0.25,0.46,0.11,"She's cooking crab curry again, so I know she's really better!","She's cooking crab curry again, so I know she's really better.",0.05,5.90,-7.40,-0.50,-6.84,0.31
+full_bright_1,m3b04,bright,T,1,keep,0.73,,-28.9,3.62,1.11,1.03,0.37,0.29,0.51,0.04,"Chennai, Madurai, and maybe the beach too! I can't wait!","Tonight, Matarai and maybe the beach too. I can't wait.",3.50,4.80,-1.20,0.90,0.88,0.78
+full_bright_1,m3b04,bright,T,0,drop-flat,0.52,,-20.0,2.52,1.96,0.2,3.74,0.92,0.77,0.1,"Chennai, Madurai, and maybe the beach too! I can't wait!","Chennai, Naderai, and maybe the beach too. I can't wait.",-5.00,2.30,-12.30,-10.40,-0.92,0.09
+full_bright_1,m3b05,bright,T,1,keep,3.44,,21.7,1.27,1.09,0.09,7.62,0.46,0.26,0.17,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea.",-1.95,-0.15,-1.80,-1.10,0.50,1.32
+full_bright_1,m3b05,bright,T,2,drop-flat,5.74,,6.4,5.1,3.64,1.51,-1.68,0.38,0.26,0.16,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea.",-5.05,0.60,-6.60,-5.50,-0.34,1.21
+full_bright_1,m3b06,bright,T,1,keep,0.93,,-18.5,2.78,2.18,0.68,3.95,0.68,0.19,0.14,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam? The Nuka's first smile? That's so sweet.,1.55,2.70,-1.30,1.40,-8.56,0.50
+full_bright_1,m3b06,bright,T,3,drop-flat,-3.77,,-34.7,-0.3,1.15,-0.22,1.87,0.39,0.3,0.22,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam. Benka's first smile. That's so sweet.,-8.80,2.70,-12.10,-8.80,-2.94,0.12
+full_bright_1,m3b07,bright,T,1,keep,4.30,,-5.9,4.89,3.48,0.4,3.76,0.34,0.13,0.11,"Wait, really? That's amazing news!","Wait, really? That's amazing news.",0.35,2.30,-3.00,-1.10,1.53,1.01
+full_bright_1,m3b07,bright,T,0,drop-flat,4.19,,-21.8,6.37,4.67,2.65,6.59,0.63,0.11,0.16,"Wait, really? That's amazing news!","Wait, really? That's amazing news.",-6.00,7.40,-13.60,-4.80,1.94,0.20
+full_bright_1,m3b09,bright,T,2,keep,7.35,,12.6,6.09,0.55,1.32,-3.29,0.31,0.21,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.,1.55,1.85,-0.30,4.20,-6.22,1.08
+full_bright_1,m3b09,bright,T,1,drop-flat,8.68,,21.3,6.55,0.99,0.77,1.31,0.51,0.31,0.0,You finally did it! I knew you could!,You finally did it. I knew you could.,-4.85,1.60,-6.60,-6.40,-2.00,0.91
+full_bright_1,m3b13,bright,T,3,keep,-1.18,,-19.0,0.72,-1.74,0.79,-3.22,0.69,0.24,0.06,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done.",-1.25,2.00,-2.90,-2.90,-1.15,0.71
+full_bright_1,m3b13,bright,T,2,drop-flat,-0.99,,-17.1,0.72,-0.07,0.97,1.24,0.61,0.17,0.03,"Wow, that was a long answer! Well done!","Wow, that was a long answer. Well done.",-4.95,1.60,-10.90,-8.30,-3.60,0.08
+full_bright_1,m3b14,bright,T,0,keep,1.78,,2.7,1.51,0.41,-0.22,-0.76,0.23,0.47,0.21,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.,-2.20,0.00,0.00,1.80,0.96,0.96
+full_bright_1,m3b14,bright,T,2,drop-flat,3.76,,25.5,1.21,1.63,0.83,-5.61,0.41,0.31,0.14,The sunset was so pretty tonight! The whole sky was orange!,The sunset was so pretty tonight. The whole sky was orange.,-4.70,3.50,-8.30,-8.20,-0.52,0.75
+full_bright_1,m3b19,bright,T,0,keep,3.87,,4.2,3.45,2.91,2.02,-0.34,0.27,0.16,0.11,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.,-2.70,-0.10,-1.90,-1.30,-2.24,1.27
+full_bright_1,m3b19,bright,T,3,drop-flat,1.24,,10.0,0.24,2.89,0.68,3.49,0.0,0.2,0.08,Thank you so much! That's really kind of you!,Thank you so much. That's really kind of you.,-5.60,3.00,-8.70,-7.60,-5.31,1.27
+full_bright_1,m3b23,bright,T,3,keep,2.56,,-7.2,3.28,-1.17,0.02,-4.8,0.0,0.53,0.14,It's Sunday again!,It's Sunday again.,-0.20,0.20,-0.50,-0.20,-5.00,1.08
+full_bright_1,m3b23,bright,T,2,drop-flat,3.36,,-13.3,4.69,7.34,2.35,-1.21,0.0,0.18,0.14,It's Sunday again!,It's Sunday again!,-5.60,1.20,-7.50,-6.30,-11.36,1.47
+full_bright_1,m3b24,bright,T,1,keep,3.13,,-8.6,3.99,8.75,1.8,9.9,0.0,0.12,0.0,Really?!,Really?,2.35,3.30,-0.80,8.10,-4.55,0.66
+full_bright_1,m3b24,bright,T,3,drop-flat,5.14,,-33.1,8.45,2.9,1.92,6.97,0.0,0.22,0.0,Really?!,Really?,-3.90,6.60,-10.50,-10.10,-10.14,0.87
+full_bright_1,m3b25,bright,T,2,keep,2.44,,-27.3,5.17,5.24,1.74,-0.04,0.22,0.35,0.03,"Okay, tell me EVERYTHING!","Okay, tell me everything.",-4.80,-1.70,-3.90,0.40,-9.73,0.24
+full_bright_1,m3b25,bright,T,3,drop-flat,8.47,,5.3,7.94,1.42,0.76,-5.16,0.28,0.19,0.0,"Okay, tell me EVERYTHING!","Okay, tell me everything.",-4.65,3.65,-8.40,-8.10,0.76,0.72
+full_bright_1,m3b30,bright,T,3,keep,3.48,,20.7,1.41,-1.41,0.06,-3.34,0.08,0.29,0.07,Thenuka's getting so big! Sam showed me a photo!,That nuke is getting so big. Sam showed me a photo.,-1.00,0.70,-1.70,-0.10,-4.27,1.18
+full_bright_1,m3b30,bright,T,2,drop-flat,1.10,,-7.2,1.82,3.53,1.25,-0.24,0.52,0.28,0.11,Thenuka's getting so big! Sam showed me a photo!,Bantuka's getting so big. Sam showed me a photo.,-6.60,1.90,-8.20,-4.05,-0.94,1.35
+full_bright_1,m3b33,bright,T,0,keep,2.67,,-8.4,3.51,-1.34,0.04,-3.78,0.23,0.35,0.07,"Paati made crab curry for the whole street, and everyone loved it!","Body made crab curry for the whole street, and everyone loved it.",-1.50,0.60,-2.70,-2.20,-0.76,1.22
+full_bright_1,m3b33,bright,T,3,drop-flat,0.67,,3.3,0.34,-1.27,2.71,-2.21,0.1,0.4,0.08,"Paati made crab curry for the whole street, and everyone loved it!",Patsy made crab curry for the whole street and everyone loved it.,-0.70,12.20,-13.90,-13.50,-0.90,0.19
+full_bright_2,m3b37,bright,T,0,keep,0.34,,-16.8,2.02,6.96,2.64,6.28,0.64,0.29,0.03,"No way, you met him? What was he like?!",No way! You met him? What was he like?,4.60,4.80,0.00,2.60,2.39,0.17
+full_bright_2,m3b37,bright,T,2,drop-flat,1.80,,-28.0,4.6,2.5,2.67,4.36,0.53,0.21,0.02,"No way, you met him? What was he like?!",No way? You met him? What was he like?,-4.80,11.30,-17.20,-17.20,1.18,0.75
+full_bright_2,m3b38,bright,T,2,keep,3.59,,-30.1,6.6,1.14,2.56,3.74,0.46,0.15,0.0,"Wow, you remembered! Thank you!",Wow! You remembered! Thank you!,-4.40,8.50,-11.70,-11.55,-1.50,0.10
+full_bright_2,m3b38,bright,T,0,drop-flat,6.02,,-23.3,8.35,3.95,3.28,2.0,0.63,0.24,0.0,"Wow, you remembered! Thank you!","Wow, you remembered. Thank you.",-4.15,12.35,-16.50,-15.90,2.16,0.71
+full_bright_2,m3b41,bright,T,1,keep,5.61,,-4.9,6.1,6.14,1.77,7.45,0.38,0.15,0.06,Seriously? That's the best news this week!,Seriously? That's the best news this week.,0.35,2.70,-0.40,3.50,1.07,0.23
+full_bright_2,m3b41,bright,T,2,drop-flat,1.89,,-4.2,2.31,6.49,2.21,3.41,0.78,0.39,0.17,Seriously? That's the best news this week!,Seriously? That's the best news this week.,-9.45,2.45,-13.40,-13.00,1.39,0.82
+full_bright_2,m3b42,bright,T,0,keep,4.82,,-8.9,5.71,5.87,1.73,5.73,0.46,0.26,0.01,"Oh, how wonderful! When did you find out?!","Oh, how wonderful! When did you find out?",1.35,4.50,-1.90,-1.70,0.37,0.93
+full_bright_2,m3b42,bright,T,3,drop-flat,4.16,,0.7,4.09,5.71,1.47,3.41,0.42,0.16,0.0,"Oh, how wonderful! When did you find out?!","Oh, how wonderful! When did you find out?",-4.70,0.60,-7.90,-6.70,-0.99,1.06
+full_bright_2,m3b44,bright,T,1,keep,8.30,,-6.2,8.92,9.13,3.03,5.11,0.74,0.3,0.0,You're joking! Both of you?!,You're joking. Both of you?,4.95,5.35,-0.40,2.20,-0.32,0.85
+full_bright_2,m3b44,bright,T,3,drop-flat,5.46,,2.6,5.2,5.66,2.28,-0.76,0.63,0.18,0.0,You're joking! Both of you?!,You're joking. Both of you.,-1.00,7.30,-8.30,-8.00,-0.00,0.75
+full_bright_2,m3b45,bright,T,0,keep,3.48,,-12.3,4.71,5.6,2.71,9.0,0.26,0.15,0.23,That was brilliant! You didn't stop once!,That was brilliant! You didn't stop once!,-3.80,0.70,-1.90,0.60,0.78,0.57
+full_bright_2,m3b45,bright,T,1,drop-flat,2.30,,-14.8,3.78,3.6,2.47,0.17,0.4,0.15,0.25,That was brilliant! You didn't stop once!,That was brilliant. You didn't stop once.,-1.75,7.20,-10.30,-8.30,3.04,0.58
+full_bright_2,m3b47,bright,T,3,keep,1.36,,-16.2,2.98,5.19,2.81,4.41,0.84,0.17,0.04,"Great question! Okay, let me think!","Great question. Okay, let me think.",6.35,7.60,-1.30,5.60,9.53,0.53
+full_bright_2,m3b47,bright,T,1,drop-flat,-1.51,,-10.3,-0.48,2.55,3.17,-3.69,0.63,0.15,0.04,"Great question! Okay, let me think!","Great question. Okay, let me think.",-1.40,3.75,-7.70,-4.50,7.76,0.51
+full_bright_2,m3b48,bright,T,1,keep,4.31,,-15.5,5.86,1.39,2.58,-0.61,0.29,0.17,0.22,"Oh, nice! That's a much better word!",Oh nice! That's a much better word.,-6.40,-3.00,-3.30,-2.20,-5.73,1.32
+full_bright_2,m3b48,bright,T,3,drop-flat,2.89,,-19.8,4.87,3.1,3.84,1.32,0.56,0.27,0.13,"Oh, nice! That's a much better word!",Oh nice. That's a much better word.,-6.90,1.10,-8.90,-8.80,-1.35,0.46
+full_bright_2,m3b49,bright,T,2,keep,6.20,,11.7,5.03,-1.01,-0.02,-0.89,0.4,0.24,0.1,Good job! You're getting faster every day!,Good job. You're getting faster every day.,-1.90,-0.50,-1.80,-0.80,-1.71,0.91
+full_bright_2,m3b49,bright,T,1,drop-flat,3.10,,8.5,2.25,4.66,1.94,3.07,0.56,0.16,0.05,Good job! You're getting faster every day!,Good job. You're getting faster every day.,-5.90,0.40,-10.00,-6.00,-5.73,0.93
+full_bright_2,m3b51,bright,T,1,keep,4.57,,22.2,2.35,2.13,1.25,-5.94,0.75,0.17,0.19,"Yes, that's it! Say it like that every time!",Yes. That's it. Say it like that every time.,2.95,4.00,-1.20,2.70,-2.80,1.36
+full_bright_2,m3b51,bright,T,0,drop-flat,10.99,,5.4,10.45,6.99,1.81,-3.82,0.35,0.14,0.19,"Yes, that's it! Say it like that every time!",Yes! That's it! Say it like that every time!,-8.90,-0.20,-8.60,-7.70,-7.23,0.88
+full_bright_2,m3b54,bright,T,3,keep,5.53,,8.0,4.73,2.23,1.13,1.54,0.04,0.26,0.1,"The rain stopped, and there's a rainbow over the sea!",The rain stopped and there's a rainbow over the sea.,-0.65,1.35,-0.10,5.40,-3.35,0.10
+full_bright_2,m3b54,bright,T,1,drop-flat,6.60,,12.3,5.37,4.8,1.11,6.39,0.56,0.15,0.12,"The rain stopped, and there's a rainbow over the sea!",The rain stopped and there's a rainbow over the sea.,-5.85,6.05,-11.60,-4.70,-3.08,0.96
+full_bright_2,m3b55,bright,T,0,keep,3.74,,26.0,1.14,0.1,1.77,-1.79,0.83,0.37,0.0,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.,-0.35,1.10,-1.30,0.40,-2.19,1.74
+full_bright_2,m3b55,bright,T,1,drop-flat,5.47,,14.0,4.07,2.37,0.33,1.35,0.34,0.26,0.0,I found my umbrella! It was in my bag the whole time!,I found my umbrella. It was in my bag the whole time.,-4.30,1.50,-5.80,-4.30,-4.84,1.73
+full_bright_2,m3b57,bright,T,0,keep,3.68,,31.5,0.53,-0.66,-0.42,-1.61,0.0,0.41,0.13,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days.",-0.45,1.20,-2.00,-0.70,1.64,2.40
+full_bright_2,m3b57,bright,T,1,drop-flat,-0.13,,9.5,-1.08,-1.07,0.11,-3.79,0.05,0.3,0.18,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm gonna sleep for two days.",-7.65,-1.25,-6.40,-5.80,-1.92,0.09
+full_bright_2,m3b59,bright,T,2,keep,2.82,,2.1,2.61,0.19,-0.7,-3.86,0.29,0.38,0.04,Guess what? Priya's getting a dog!,Guess what? Priya's getting a dog.,-0.95,0.20,-0.80,0.10,-0.08,1.06
+full_bright_2,m3b59,bright,T,3,drop-flat,1.72,,-0.4,1.76,3.32,0.28,-1.95,0.36,0.2,0.02,Guess what? Priya's getting a dog!,Guess what? Priya's getting a dog.,-1.35,4.30,-6.10,-6.00,1.99,0.71
+full_bright_2,m3b60,bright,T,0,keep,7.04,,40.7,2.97,1.38,-0.12,-1.49,0.0,0.25,0.03,"The new bakery opened near the station, and the bread is amazing!",The new bakery opened near the station and the bread is amazing.,1.95,2.85,-0.90,0.50,-17.72,3.13
+full_bright_2,m3b60,bright,T,2,drop-flat,4.47,,4.3,4.04,-0.26,0.09,-3.88,0.07,0.37,0.05,"The new bakery opened near the station, and the bread is amazing!",The new bakery opened near the station and the bread is amazing.,-1.25,4.00,-7.00,-4.70,-0.27,0.84
+full_bright_2,m3b61,bright,T,3,keep,1.97,,-31.4,5.11,4.83,1.85,-4.35,0.44,0.26,0.15,"Finally, a day off! No work, no class, nothing!","Finally, a day off. No work, no class, nothing.",-1.10,1.90,-3.10,-2.50,-14.95,0.92
+full_bright_2,m3b61,bright,T,0,drop-flat,4.91,,-17.3,6.64,1.7,1.0,-0.03,0.4,0.43,0.17,"Finally, a day off! No work, no class, nothing!","Finally, a day off. No work, no class, nothing.",-1.90,5.30,-7.20,-6.90,-5.27,0.84
+full_bright_2,m3b63,bright,T,0,keep,6.40,,29.3,3.47,-1.12,1.18,-2.7,0.69,0.2,0.06,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.,0.25,1.40,-1.40,0.40,-5.19,1.35
+full_bright_2,m3b63,bright,T,3,drop-flat,1.63,,19.2,-0.29,2.77,0.96,7.13,0.73,0.41,0.03,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out. I'm going on the first day.,-2.45,4.65,-7.30,-3.50,-4.06,1.51
+full_bright_2,m3b66,bright,T,3,keep,3.37,,26.4,0.73,2.81,-0.06,2.43,0.5,0.23,0.02,"Look, the hotel in Chennai has a pool!","Look, the hotel in Chennai has a pool.",-0.70,0.00,-0.55,2.95,-3.96,0.09
+full_bright_2,m3b66,bright,T,1,drop-flat,1.94,,2.4,1.7,5.39,1.52,2.67,0.57,0.15,0.05,"Look, the hotel in Chennai has a pool!",Look! The hotel in Chennai has a pool.,-5.95,0.85,-6.80,-3.40,0.65,1.17
+full_bright_2,m3b68,bright,T,2,keep,4.85,,11.8,3.67,5.18,2.06,7.58,0.41,0.21,0.05,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.,4.65,5.80,-1.30,3.10,6.52,0.49
+full_bright_2,m3b68,bright,T,0,drop-flat,6.56,,19.2,4.64,7.1,2.65,6.54,0.35,0.16,0.04,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window. It's beautiful.,-9.35,5.90,-14.80,-13.50,-2.63,0.39
+full_bright_2,m3b69,bright,T,1,keep,2.18,,-26.4,4.82,2.5,0.85,-4.65,0.4,0.33,0.25,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help.",-3.05,0.70,-3.00,-2.30,-0.66,0.78
+full_bright_2,m3b69,bright,T,0,drop-flat,-0.67,,-34.2,2.75,2.83,0.31,0.84,0.05,0.21,0.18,"Yes, of course! I'd love to help!","Yes, of course. I'd love to help.",-3.00,1.50,-7.50,-7.20,0.42,0.96
+full_bright_3,m3b72,bright,T,2,keep,-0.49,,-8.0,0.31,0.18,0.32,-1.46,0.54,0.58,0.15,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, don't worry, you're the best.",-8.60,-8.60,0.00,0.00,-24.34,0.45
+full_bright_3,m3b72,bright,T,3,drop-flat,2.10,,12.6,0.84,-0.33,0.63,-1.3,0.62,0.42,0.17,"So first I was late, but then the manager said, ""Don't worry, you're the best!""","So first I was late, but then the manager said, Don't worry, you're the best.",-0.30,4.90,-7.40,-4.90,2.87,0.51
+full_bright_3,m3b73,bright,T,2,keep,3.09,,9.7,2.12,0.34,-0.08,-1.65,0.16,0.28,0.18,"And after all that, the bus came early for once!","And after all that, the bus came early for once.",-2.85,0.90,-1.50,-1.30,-1.13,0.93
+full_bright_3,m3b73,bright,T,3,drop-flat,-1.00,,-8.0,-0.2,0.09,0.18,-0.95,0.28,0.33,0.22,"And after all that, the bus came early for once!","And after all that, the bus came early for once.",-4.65,1.60,-5.50,-4.70,-0.53,1.01
+full_bright_3,m3t09,bright,T,1,keep,3.26,,5.5,2.71,1.37,1.14,3.66,0.8,0.25,0.16,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.,1.40,1.70,-0.40,1.40,-5.47,0.14
+full_bright_3,m3t09,bright,T,2,drop-flat,-2.82,,-12.2,-1.6,1.39,1.32,2.27,0.64,0.32,0.16,Batman doesn't need a flying suit. He's just smart. Stop laughing!,Batman doesn't need a flying suit. He's just smart. Stop laughing.,-0.35,5.80,-7.90,-7.30,3.34,0.64
+full_bright_3,m3xb02,bright,T,0,keep,1.21,,-22.9,3.5,-0.16,0.27,-3.45,0.38,0.33,0.23,And the winner is… you!,And the winner is... you.,3.50,4.20,-0.80,4.60,-8.07,0.78
+full_bright_3,m3xb02,bright,T,3,drop-flat,4.93,,-26.9,7.62,1.08,1.22,-0.8,0.24,0.19,0.0,And the winner is… you!,And the winner is... you!,-0.95,6.05,-10.20,-4.25,0.96,2.16
+full_bright_3,m3xb04,bright,T,2,keep,-0.04,,-11.4,1.1,11.28,1.95,3.02,0.4,0.25,0.25,Oh… look at all the lights!,Look at all the lights!,-1.10,1.60,-0.40,0.90,2.63,0.10
+full_bright_3,m3xb04,bright,T,3,drop-flat,1.78,,-29.1,4.69,6.82,1.42,1.79,0.37,0.33,0.22,Oh… look at all the lights!,Oh! Look at all the lights!,0.90,2.70,-8.60,-6.30,0.62,1.02
+full_bright_3,m3xb05,bright,T,3,keep,1.72,,-19.9,3.71,-1.19,-0.11,-1.62,0.39,0.19,0.12,So… I have some good news!,"So, I have some good news.",-0.55,0.20,-0.40,-0.20,-0.37,1.04
+full_bright_3,m3xb05,bright,T,2,drop-flat,2.67,,-13.0,3.97,3.26,0.91,0.74,0.19,0.24,0.12,So… I have some good news!,"So, I have some good news.",-3.90,5.40,-9.40,-5.80,0.00,0.71
+full_bright_3,m3xb06,bright,T,0,keep,3.78,,-6.8,4.46,5.63,3.08,4.24,0.35,0.28,0.11,Look… the sun's coming out!,Look! The sun's coming out!,-7.20,-3.50,-3.40,-3.00,-2.00,0.67
+full_bright_3,m3xb06,bright,T,1,drop-flat,5.84,,1.9,5.65,7.39,3.54,2.79,0.28,0.12,0.09,Look… the sun's coming out!,Look! The sun's coming out!,-9.60,4.00,-14.90,-13.60,0.45,0.81
+full_bright_3,m3xb08,bright,T,0,keep,5.05,,1.7,4.88,3.47,0.02,-0.64,0.07,0.43,0.03,We won — we actually won!,We won. We actually won.,-5.00,-0.10,-4.90,-2.70,-3.57,1.96
+full_bright_3,m3xb08,bright,T,3,drop-flat,6.26,,5.6,5.7,2.7,1.0,-1.05,0.41,0.22,0.0,We won — we actually won!,We won. We actually won.,-5.50,4.10,-11.40,-8.30,2.88,0.51
+full_bright_3,m3xb09,bright,T,0,keep,-2.83,,-22.1,-0.62,8.19,0.65,3.75,0.56,0.12,0.27,Look at this — it's perfect!,Look at this. It's perfect.,1.25,2.10,-0.40,4.00,-1.94,0.26
+full_bright_3,m3xb09,bright,T,3,drop-flat,-1.34,,-22.1,0.87,8.73,2.15,5.89,0.43,0.16,0.2,Look at this — it's perfect!,Look at this! It's perfect!,-10.20,2.50,-12.30,-9.90,7.33,0.20
+full_bright_3,m3xb12,bright,T,3,keep,2.76,,-11.2,3.88,0.43,1.33,-1.21,0.4,0.25,0.04,The best part — no work tomorrow!,"The best part, no work tomorrow.",-3.50,0.25,-2.40,-0.40,-1.60,0.68
+full_bright_3,m3xb12,bright,T,2,drop-flat,1.07,,-4.0,1.47,2.2,0.28,-0.56,0.1,0.27,0.03,The best part — no work tomorrow!,"The best part, no work tomorrow.",-3.55,3.70,-7.80,-6.60,-1.72,0.65
+full_bright_3,m3xb13,bright,T,3,keep,1.47,,-16.6,3.13,3.15,2.02,5.8,0.52,0.32,0.0,Oh — you're here already!,"Oh, you're here already.",-1.25,3.15,-4.10,-2.30,-1.67,1.27
+full_bright_3,m3xb13,bright,T,0,drop-flat,3.27,,-23.7,5.64,3.74,3.56,-0.97,0.19,0.22,0.0,Oh — you're here already!,"Oh, you're here already.",-7.90,7.85,-15.60,-15.30,-4.65,1.20
+full_bright_3,m3xb15,bright,T,1,keep,2.83,,-17.1,4.54,1.11,-0.16,2.43,0.04,0.29,0.15,Two weeks — just two weeks until the trip!,Two weeks. Just two weeks until the trip.,-1.05,0.70,-2.10,-0.50,-1.71,0.28
+full_bright_3,m3xb15,bright,T,0,drop-flat,1.58,,-2.8,1.86,5.33,1.11,-0.65,0.18,0.18,0.17,Two weeks — just two weeks until the trip!,Two weeks. Just two weeks until the trip.,-1.60,4.70,-7.00,-7.00,0.71,0.92
+full_bright_3,m3xb16,bright,T,0,keep,8.36,,-6.8,9.04,8.22,0.68,3.2,0.0,0.17,0.0,You got the job?!,You got the job?,5.60,5.90,0.00,4.70,0.12,0.17
+full_bright_3,m3xb16,bright,T,1,drop-flat,6.02,,-23.3,8.35,8.48,2.64,0.95,0.0,0.24,0.0,You got the job?!,You got the job!,-9.10,6.35,-15.60,-14.20,-3.33,0.28
+full_bright_3,m3xb18,bright,T,1,keep,0.03,,-19.2,1.95,5.85,2.28,13.46,0.0,0.16,0.2,You bought me flowers?!,You bought me flowers?,7.50,9.05,-0.10,10.30,2.86,1.23
+full_bright_3,m3xb18,bright,T,2,drop-flat,3.85,,-4.9,4.34,6.59,0.99,9.13,0.0,0.2,0.15,You bought me flowers?!,You bought me flowers!,-6.00,1.30,-9.70,-9.60,0.34,1.14
+full_bright_3,m3xb20,bright,T,2,keep,3.36,,-12.0,4.56,4.04,0.25,11.65,0.0,0.13,0.1,You finally passed?!,You finally passed!,1.85,2.05,-0.20,0.00,-1.36,0.15
+full_bright_3,m3xb20,bright,T,1,drop-flat,0.50,,-21.8,2.68,6.7,0.29,15.28,0.0,0.15,0.15,You finally passed?!,You finally passed!,-1.45,2.35,-6.90,-6.20,-0.30,0.35
+full_bright_3,m3xb21,bright,T,0,keep,1.08,,-17.1,2.79,2.39,2.44,9.76,0.0,0.1,0.07,That's for me?!,That's for me?,7.70,9.20,-0.40,8.90,0.66,0.57
+full_bright_3,m3xb21,bright,T,2,drop-flat,7.87,,-15.1,9.38,5.88,0.29,12.93,0.03,0.12,0.08,That's for me?!,That's for me?,2.65,4.35,-4.40,0.20,-3.73,0.64
+full_bright_3,m3xb23,bright,T,3,keep,0.13,,-33.1,3.44,4.3,0.86,5.23,0.13,0.28,0.25,They gave us free tickets?!,They gave us free tickets?,6.55,8.20,-0.30,6.60,0.77,0.37
+full_bright_3,m3xb23,bright,T,0,drop-flat,6.31,,-11.4,7.45,4.7,0.17,1.6,0.0,0.17,0.21,They gave us free tickets?!,They gave us free tickets.,-5.10,1.40,-7.50,-5.20,-2.50,0.44
+full_bright_3,m3xb24,bright,T,1,keep,5.31,,22.9,3.02,3.23,0.46,0.02,0.0,0.16,0.11,Sam actually cooked?!,Sam actually cooked?,0.90,3.20,-0.50,4.10,-0.63,0.42
+full_bright_3,m3xb24,bright,T,0,drop-flat,4.67,,16.9,2.98,2.97,0.24,-0.35,0.01,0.18,0.1,Sam actually cooked?!,Sam actually cooked,-1.00,4.20,-7.90,-7.90,-3.64,0.85
+full_bright_3,m3xb25,bright,T,1,keep,-2.82,,-57.4,2.92,0.3,-0.71,-2.51,0.2,0.28,0.11,That was the BEST day!,That was the best day.,1.55,3.20,-1.10,11.40,-1.65,0.38
+full_bright_3,m3xb25,bright,T,2,drop-flat,4.80,,-37.8,8.58,3.65,-0.33,-10.4,0.05,0.2,0.07,That was the BEST day!,That was the best day.,-4.50,0.70,-5.30,-4.70,-7.30,0.66
+full_bright_3,m3xb27,bright,T,3,keep,6.34,,-24.7,8.81,1.56,1.21,4.26,0.02,0.44,0.0,You were AMAZING today!,You were amazing today.,-3.30,-1.40,-0.80,1.20,-12.66,2.29
+full_bright_3,m3xb27,bright,T,1,drop-flat,4.48,,-8.6,5.34,1.99,1.73,1.25,0.0,0.18,0.0,You were AMAZING today!,You were amazing today.,-6.80,-1.10,-7.70,-6.70,-4.33,1.32
+full_bright_4,m3xb30,bright,T,1,keep,4.33,,-15.1,5.84,0.29,0.26,-4.54,0.1,0.17,0.06,We did it TOGETHER!,We did it together.,-0.80,0.00,-1.40,-0.50,-5.69,0.96
+full_bright_4,m3xb30,bright,T,0,drop-flat,6.75,,21.9,4.56,3.63,0.11,-2.74,0.03,0.25,0.04,We did it TOGETHER!,We did it together.,-3.50,1.20,-6.20,-5.80,1.18,0.48
+full_bright_4,m3xb32,bright,T,1,keep,0.23,,-27.2,2.95,1.14,-0.17,-6.02,0.01,0.13,0.06,I can't WAIT!,I can't wait.,-2.75,1.00,-4.70,-4.50,1.87,0.85
+full_bright_4,m3xb32,bright,T,2,drop-flat,-4.35,,-28.0,-1.55,4.44,1.32,-0.74,0.0,0.09,0.05,I can't WAIT!,I can't wait.,-1.20,4.70,-9.00,-8.00,1.88,0.80
+full_bright_4,m3xb33,bright,T,3,keep,6.14,,-10.7,7.21,7.33,4.35,-5.37,0.06,0.18,0.07,That's EXACTLY what I wanted!,That's exactly what I wanted.,0.90,6.20,-0.40,6.90,6.66,0.08
+full_bright_4,m3xb33,bright,T,1,drop-flat,7.14,,8.6,6.28,2.25,1.1,-2.43,0.02,0.35,0.08,That's EXACTLY what I wanted!,That's exactly what I wanted.,-2.95,0.60,-4.80,-4.30,-1.63,1.34
+full_bright_4,m3xb34,bright,T,1,keep,1.84,,-24.9,4.33,3.16,0.39,7.11,0.0,0.28,0.0,We're moving!,We're moving.,-4.05,1.10,-4.80,-3.80,-3.91,1.10
+full_bright_4,m3xb34,bright,T,3,drop-flat,0.73,,-19.0,2.63,3.38,2.75,3.24,0.0,0.24,0.0,We're moving!,We're moving.,-1.35,10.95,-12.40,-11.35,-4.60,0.52
+full_bright_4,m3xb37,bright,T,1,keep,2.48,,-9.2,3.4,0.36,0.15,1.46,0.13,0.22,0.09,"See you tomorrow, then!","See you tomorrow, then.",1.30,1.50,-0.10,1.60,-7.64,0.84
+full_bright_4,m3xb37,bright,T,3,drop-flat,1.72,,-14.6,3.18,-0.74,0.96,6.33,0.29,0.19,0.1,"See you tomorrow, then!",See you tomorrow. Then.,-0.20,5.80,-6.30,-2.80,-7.45,0.29
+full_bright_4,m3xb38,bright,T,0,keep,0.87,,-29.1,3.78,1.85,0.54,-2.02,0.0,0.18,0.1,No more classes!,No more classes.,-3.40,0.00,-3.30,-1.20,-6.41,0.16
+full_bright_4,m3xb38,bright,T,3,drop-flat,3.72,,-11.2,4.84,3.01,1.78,0.11,0.0,0.13,0.12,No more classes!,No more classes.,-4.40,6.70,-11.40,-11.25,-2.72,0.96
+full_bright_4,m3xb39,bright,T,3,keep,1.93,,-41.1,6.04,5.52,1.22,7.45,0.35,0.1,0.01,Wait… you're here!,Wait! You're here!,1.75,2.80,-0.30,5.00,9.98,0.48
+full_bright_4,m3xb39,bright,T,1,drop-flat,4.52,,-45.6,9.08,6.7,2.43,11.86,0.51,0.1,0.04,Wait… you're here!,Wait! You're here!,-10.15,3.75,-13.90,-12.40,4.01,0.50
+full_bright_4,m3xb41,bright,T,2,keep,0.75,,-30.1,3.76,8.13,2.13,7.07,0.01,0.23,0.0,Oh… you remembered!,"Oh, you remembered.",-8.00,-0.85,-5.80,-4.90,-9.40,1.83
+full_bright_4,m3xb41,bright,T,3,drop-flat,2.76,,-25.3,5.29,6.92,3.76,7.57,0.4,0.18,0.0,Oh… you remembered!,"Oh, you remembered.",-9.10,5.40,-14.20,-13.90,-2.43,0.99
+full_bright_4,m3xb42,bright,T,0,keep,2.60,,-22.8,4.88,1.71,1.8,-1.67,0.47,0.22,0.06,And now… the best part!,"And now, the best part.",-3.95,-0.50,-3.50,-2.30,-0.42,0.35
+full_bright_4,m3xb42,bright,T,1,drop-flat,-2.70,,-57.1,3.01,2.65,-0.38,3.43,0.62,0.65,0.03,And now… the best part!,"And now, the best part.",-4.50,-1.90,-8.90,-7.90,-1.79,0.08
+full_bright_4,m3xb43,bright,T,0,keep,6.07,,-26.3,8.7,2.38,2.18,-5.43,0.56,0.15,0.16,Ready… set… go!,"Ready, set, go.",-2.35,-0.90,-1.10,7.80,10.94,0.29
+full_bright_4,m3xb43,bright,T,1,drop-flat,0.03,,-32.1,3.24,1.7,0.76,3.12,0.36,0.32,0.12,Ready… set… go!,"Ready, set, go.",-4.70,1.60,-6.00,-5.20,1.40,0.52
+full_bright_4,m3xb45,bright,T,0,keep,-2.32,,-38.4,1.52,6.64,2.58,-1.39,0.67,0.51,0.09,Guess where we're going… Ella!,Guess where we're going.,6.20,6.90,-0.40,0.05,-3.76,0.45
+full_bright_4,m3xb45,bright,T,3,drop-flat,3.31,,-0.4,3.35,-0.76,0.37,-0.7,0.69,0.21,0.13,Guess where we're going… Ella!,Guess where we're going. Ella.,-0.50,6.00,-6.60,-5.30,5.64,0.55
+full_bright_4,m3xb47,bright,T,3,keep,1.43,,-30.8,4.51,9.8,2.59,4.32,0.29,0.15,0.16,It's… perfect!,It's perfect!,4.70,5.10,-0.40,0.00,2.15,0.13
+full_bright_4,m3xb47,bright,T,0,drop-flat,2.24,,-55.7,7.81,9.65,2.08,-6.71,0.43,0.3,0.2,It's… perfect!,It's perfect!,-8.70,4.20,-14.10,-14.00,7.95,0.82
+full_bright_4,m3xb48,bright,T,1,keep,3.27,,-20.2,5.29,7.46,1.84,7.21,0.23,0.13,0.25,You did… all of this?!,You did all of this?,8.00,9.10,-0.50,12.10,1.10,0.24
+full_bright_4,m3xb48,bright,T,2,drop-flat,0.64,,-34.3,4.07,3.4,2.73,1.86,0.04,0.12,0.24,You did… all of this?!,You did all of this?,-3.85,6.00,-10.20,-3.40,1.15,0.56
+full_bright_4,m4g11b,bright,T,2,keep,1.85,,7.1,1.14,-0.52,0.97,-0.49,0.0,0.25,0.04,He called me last night!,He called me last night.,-0.30,0.70,-1.20,0.70,-1.69,0.29
+full_bright_4,m4g11b,bright,T,1,drop-flat,9.21,,25.1,6.7,-1.06,1.48,-2.82,0.0,0.23,0.02,He called me last night!,He called me last night.,-1.25,5.20,-6.00,-3.50,-2.34,0.93
+full_bright_4,m4g12b,bright,T,3,keep,2.54,,-11.2,3.66,-0.81,0.34,-7.43,0.0,0.17,0.0,They changed the plan!,They changed the plan.,-0.80,1.60,-1.30,-1.20,-2.05,0.86
+full_bright_4,m4g12b,bright,T,2,drop-flat,1.56,,-10.3,2.59,5.26,2.2,2.1,0.0,0.17,0.03,They changed the plan!,They changed the plan.,-7.85,1.30,-8.70,-5.60,-4.14,1.15
+full_bright_4,m4g13b,bright,T,1,keep,0.53,,-1.0,0.63,2.63,0.4,3.95,0.0,0.12,0.21,We got the results!,We got the results!,0.65,3.00,-1.50,1.00,1.92,0.58
+full_bright_4,m4g13b,bright,T,3,drop-flat,2.05,,-6.4,2.69,0.46,0.1,1.6,0.0,0.19,0.19,We got the results!,We got the results!,-1.90,1.60,-5.80,-4.30,0.72,1.04
+full_bright_4,m4g14b,bright,T,2,keep,4.06,,27.0,1.36,6.38,1.6,5.65,0.0,0.1,0.1,I saw him at the market!,I saw him at the market.,0.65,3.80,-1.80,-1.00,-0.87,0.71
+full_bright_4,m4g14b,bright,T,3,drop-flat,10.16,,39.8,6.18,6.12,2.02,2.28,0.0,0.11,0.1,I saw him at the market!,I saw him at the market.,-7.50,3.80,-10.90,-4.30,-11.77,0.12
+full_bright_4,m4g15b,bright,T,3,keep,2.03,,19.7,0.06,2.35,1.62,4.56,0.11,0.11,0.07,The letter came this morning!,The letter came this morning.,0.15,0.75,-0.70,2.30,-6.54,0.17
+full_bright_4,m4g15b,bright,T,1,drop-flat,6.83,,9.5,5.88,6.14,0.96,-2.06,0.0,0.25,0.01,The letter came this morning!,The letter came this morning.,-7.35,1.50,-8.90,-8.80,-7.95,1.63
+full_bright_4,m4g16b,bright,T,0,keep,3.89,,-6.8,4.57,2.71,2.14,2.5,0.01,0.14,0.05,She told me everything!,She told me everything.,-1.40,0.65,-3.30,-2.70,-0.10,0.91
+full_bright_4,m4g16b,bright,T,2,drop-flat,6.50,,24.0,4.1,4.11,2.38,-0.75,0.0,0.19,0.07,She told me everything!,She told me everything.,-13.60,0.10,-13.70,-13.60,-13.45,0.07
+full_bright_4,m4g17b,bright,T,1,keep,5.47,,4.9,4.98,6.54,2.33,8.42,0.0,0.21,0.07,He finally answered!,He finally answered.,3.00,5.90,-1.50,2.10,1.29,1.06
+full_bright_4,m4g17b,bright,T,0,drop-flat,7.13,,-4.9,7.62,9.23,2.82,7.05,0.0,0.2,0.08,He finally answered!,He finally answered.,-11.15,2.60,-13.60,-11.80,-4.43,0.39
+full_bright_4,m4g18b,bright,T,0,keep,8.48,,38.8,4.6,-0.88,0.1,-5.35,0.0,0.34,0.02,My brother is getting married!,My brother is getting married.,-1.10,-0.20,-0.60,-0.40,-4.59,1.47
+full_bright_4,m4g18b,bright,T,2,drop-flat,6.29,,21.9,4.1,-1.67,-0.05,-7.58,0.1,0.32,0.02,My brother is getting married!,My brother is getting married.,-4.60,1.00,-5.60,-2.80,-28.21,0.17
