@@ -1,0 +1,10 @@
+C1 bright
+C2 bright
+C3 bright
+C4 bright
+C5 bright
+C6 bright
+C7 bright
+C8 bright
+C9 odd
+C10 bright
