@@ -124,7 +124,7 @@ def main():
             for j in range(n): match[a + j] = ai[b + j]
         # audio features for the whole chapter
         hop = 256; fr = hop / sr
-        f0, vf, _ = librosa.pyin(y, fmin=70, fmax=500, sr=sr, frame_length=1024, hop_length=hop)
+        f0, vf, _ = librosa.pyin(y, fmin=110, fmax=500, sr=sr, frame_length=1024, hop_length=hop)
         st = 12 * np.log2(np.where(vf, f0, np.nan) / 100.0)
         db = 20 * np.log10(np.maximum(librosa.feature.rms(y=y, frame_length=1024, hop_length=hop)[0][: len(st)], 1e-6))
         rows = []
