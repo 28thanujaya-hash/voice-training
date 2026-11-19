@@ -6,7 +6,7 @@ For every right-word take:
   1. Quality: drop hiss > 0.3 s (0.15 caught normal s-sounds), a monotone hold > 0.8 s, or a mid-line gap
      > 1.0 s (1.5 s on lines with "…" or "—").
   2. Mood strength vs F's normal voice (the d_* columns):
-       bright = loud + speed/10;              no mood cut (numbers can't tell bright from normal)
+       bright = loud;                         no mood cut; keep the 2 loudest per line (checks 1-4)
        tense  = loud + 0.5·pitch;             drop when loud < +1 dB and pitch < +1.5 st
        low    = −loud − speed/10 + 0.3·breath; drop when pitch ≥ +2.5 st (not on plain "?" questions)
        normal = closeness to F's normal voice; drop when |loud| > 3 dB or |pitch| > 2.5 st
@@ -23,7 +23,9 @@ f = lambda r, k: float(r[k] or 0)
 
 
 def strength(r, mood):
-    if mood == "bright": return f(r, "d_lufs") + f(r, "speed_pct") / 10
+    # check4 (19 Nov): how the last word ends did NOT predict bright (ends-on-top 3/10 bright); loudness did best:
+    # over 54 marked clips, takes >= +3 dB were bright 22/30 vs 32/54 overall. So bright keeps the 2 loudest per line.
+    if mood == "bright": return f(r, "d_lufs")
     if mood == "tense": return f(r, "d_lufs") + 0.5 * f(r, "d_f0_med")
     if mood == "normal": return -(abs(f(r, "d_lufs")) / 3 + abs(f(r, "d_f0_med")) / 2.5 + abs(f(r, "speed_pct")) / 30)
     return -f(r, "d_lufs") - f(r, "speed_pct") / 10 + 0.3 * f(r, "d_h1h2")
