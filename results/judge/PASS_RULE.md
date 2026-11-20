@@ -5,7 +5,7 @@
 **Pass rule (user, 09:50; 0.8 at 09:47 was too strict):** a take passes when the judge gives its mood with **confidence above 0.5**:
 | Mood | Must be judged | with p > 0.5 |
 |---|---|---|
-| normal | neutral; or happy / angry only mildly | top answer neutral, or top answer happy with p_happy ≤ 0.5, or top answer angry with p_angry < 0.5 (user, 09:56: mild happy or angry is F's own voice; strong happy belongs to bright) |
+| normal | neutral; or happy / angry / sad only mildly | top answer neutral, or top answer happy with p_happy ≤ 0.5, or top answer angry with p_angry < 0.5, or top answer sad with p_sad < 0.5 (user, 09:56–09:57: mild happy, angry or sad is F's own voice; strong ones belong to bright, tense, low) |
 | bright | happy | p_happy > 0.5 |
 | low | sad | p_sad > 0.5 |
 | tense | angry | p_angry > 0.5 |
