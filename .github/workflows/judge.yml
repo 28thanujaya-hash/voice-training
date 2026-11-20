@@ -1,0 +1,47 @@
+name: Mood judge
+# Rebuilds the 4-way mood judge on free CPU machines (tools/judge/): embeddings per dataset part in parallel,
+# then the cross-dataset test and tara's takes judged. Everything is committed to results/judge/.
+on:
+  workflow_dispatch:
+    inputs:
+      sets: { description: 'parts to (re)embed, space separated', required: false, default: 'crema ravdess esd:0 esd:1 esd:2 esd:3 esd:4 esd:5 esd:6 tara' }
+permissions:
+  contents: write
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs: { parts: '${{ steps.p.outputs.parts }}' }
+    steps:
+      - id: p
+        run: python3 -c "import json;print('parts='+json.dumps('${{ inputs.sets }}'.split()))" >> "$GITHUB_OUTPUT"
+  embed:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix: { part: '${{ fromJson(needs.plan.outputs.parts) }}' }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q torch --index-url https://download.pytorch.org/whl/cpu && pip install -q transformers librosa soundfile pandas pyarrow
+      - run: python tools/judge/embed.py $(echo "${{ matrix.part }}" | tr ':' ' ')
+      - uses: actions/upload-artifact@v4
+        with: { name: 'emb-${{ strategy.job-index }}', path: results/judge/emb/ }
+  judge:
+    needs: embed
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q scikit-learn pandas numpy
+      - uses: actions/download-artifact@v4
+        with: { pattern: 'emb-*', path: results/judge/emb, merge-multiple: true }
+      - run: python tools/judge/judge.py
+      - run: |
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add results/judge && git commit -q -m "Mood judge: embeddings + report [skip ci]" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done
