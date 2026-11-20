@@ -14,4 +14,7 @@ jobs:
       - run: pip install -q modal
       - run: |
           [ -n "$MODAL_TOKEN_ID" ] && [ -n "$MODAL_TOKEN_SECRET" ] && echo "tokens set" || echo "MISSING TOKEN"
+          python -c "import os
+          for k in ['MODAL_TOKEN_ID','MODAL_TOKEN_SECRET']:
+              v=os.environ[k]; print(k, 'len', len(v), 'starts', v[:3], 'spaces', any(c.isspace() for c in v), 'dashdash', '--' in v)"
           modal run tools/modal/gpu_check.py
