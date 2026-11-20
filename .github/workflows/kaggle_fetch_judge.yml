@@ -1,0 +1,56 @@
+name: Fetch old takes from Kaggle and judge them
+# For runs whose audio stayed on Kaggle (run5/run6): downloads the notebook output, saves compact mp3s to results/<run>/takes/,
+# and judges them with Meta superb (tools/judge/superb_old.py). One machine per run.
+on:
+  workflow_dispatch:
+    inputs:
+      runs: { description: 'runs, space separated (job names)', required: true, default: 'run5_add run5_rec_a run5_rec_b run6_orph' }
+permissions:
+  contents: write
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs: { runs: '${{ steps.p.outputs.runs }}' }
+    steps:
+      - id: p
+        run: python3 -c "import json;print('runs='+json.dumps('${{ inputs.runs }}'.split()))" >> "$GITHUB_OUTPUT"
+  fetch:
+    needs: plan
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: { run: '${{ fromJson(needs.plan.outputs.runs) }}' }
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+      KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: |
+          sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q --upgrade kaggle six && pip install -q torch --index-url https://download.pytorch.org/whl/cpu && pip install -q transformers librosa soundfile
+      - name: Download from Kaggle
+        run: |
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          U="${KAGGLE_USERNAME:-thusharajayawardane}"
+          SLUG="se-$(echo ${{ matrix.run }} | tr '_' '-')"
+          mkdir -p /tmp/out && kaggle kernels output "$U/$SLUG" -p /tmp/out
+          find /tmp/out -type f | head -5; echo "audio files: $(find /tmp/out -type f \( -name '*.wav' -o -name '*.mp3' \) | wc -l)"
+          for z in $(find /tmp/out -name '*.zip'); do unzip -q -o "$z" -d /tmp/out/unz; done
+      - run: python tools/judge/superb_old.py ${{ matrix.run }} /tmp/out
+      - uses: actions/upload-artifact@v4
+        with: { name: 'old-${{ strategy.job-index }}', path: "results/" }
+  commit:
+    needs: fetch
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: { pattern: 'old-*', path: results, merge-multiple: true }
+      - run: |
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add results && git commit -q -m "Old runs fetched from Kaggle and judged (Meta superb) [skip ci]" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done
