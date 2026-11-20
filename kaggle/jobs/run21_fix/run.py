@@ -20,7 +20,7 @@ try:
     import marks as MK, meas as ME
     GPU = torch.cuda.is_available()   # 18 Nov: also runs on Kaggle CPU (GPU quota used up): float32, time guard below
     dev = "cuda:0" if GPU else "cpu"; dev2 = "cuda:1" if torch.cuda.device_count() > 1 else dev
-    DT = torch.float16 if GPU else torch.float32; STOP_H = 0.6   # Kaggle sessions end at 12 h: stop recording in time to write the report
+    DT = torch.float16 if GPU else torch.float32; STOP_H = 0.6 if GPU else 11.0   # Kaggle sessions end at 12 h: stop recording in time to write the report
     log(f"device {dev}/{dev2}, {torch.get_num_threads()} CPU threads" if not GPU else f"device {dev}/{dev2}")
     MK.setup(dev2)
     L = {l[0]: l for l in build()}; L.update(EXTRA)
@@ -42,6 +42,8 @@ try:
         if not l1 or min(l1 + l2 + l3) < 0 or max(l1 + l2 + l3) > 4095: return None
         with torch.inference_mode(): return snac.decode([torch.tensor(x, device=dev)[None] for x in (l1, l2, l3)]).squeeze().float().cpu().numpy()
     def encode(path):   # audio -> Orpheus audio tokens (7 per SNAC frame, same layout to_audio reads back)
+        if not os.path.exists(path):   # Kaggle gets only the code: fetch context clips from the public repo
+            import urllib.request; urllib.request.urlretrieve("https://raw.githubusercontent.com/28thanujaya-hash/voice-training/main/kaggle/jobs/run21_fix/" + path, path)
         y, _ = librosa.load(path, sr=24000)
         with torch.inference_mode(): c = snac.encode(torch.tensor(y, device=dev, dtype=torch.float32)[None, None])
         l1, l2, l3 = [x[0].tolist() for x in c]; out = []

@@ -20,7 +20,7 @@ try:
     import marks as MK, meas as ME
     GPU = torch.cuda.is_available()   # 18 Nov: also runs on Kaggle CPU (GPU quota used up): float32, time guard below
     dev = "cuda:0" if GPU else "cpu"; dev2 = "cuda:1" if torch.cuda.device_count() > 1 else dev
-    DT = torch.float16 if GPU else torch.float32; STOP_H = 0.6   # Kaggle sessions end at 12 h: stop recording in time to write the report
+    DT = torch.float16 if GPU else torch.float32; STOP_H = 0.6 if GPU else 11.0   # Kaggle sessions end at 12 h: stop recording in time to write the report
     log(f"device {dev}/{dev2}, {torch.get_num_threads()} CPU threads" if not GPU else f"device {dev}/{dev2}")
     MK.setup(dev2)
     L = {l[0]: l for l in build()}
