@@ -1,0 +1,30 @@
+[{"stream_name":"stdout","time":1.394602752,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe praat-parselmouth cmudict num2words\n"}
+,{"stream_name":"stderr","time":67.076396335,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":67.076450762,"data":"I0000 00:00:1795151004.728195       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":87.646148997,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":87.646181981,"data":"I0000 00:00:1795151025.299597       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":93.959677604,"data":"WARNING:torchao.kernel.intmm:Warning: Detected no triton, on systems without Triton certain kernels will not work\n"}
+,{"stream_name":"stdout","time":96.881154787,"data":"[  1.6 min] device cpu/cpu, 2 CPU threads\n"}
+,{"stream_name":"stderr","time":113.760957302,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":113.760998141,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stderr","time":116.728865657,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":150.165476722,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:33\u003c00:33, 33.26s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:33\u003c00:00, 16.63s/it]\n"}
+,{"stream_name":"stderr","time":159.795132149,"data":"\rLoading checkpoint shards:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rLoading checkpoint shards:  50%|█████     | 1/2 [00:04\u003c00:04,  4.74s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:06\u003c00:00,  2.84s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:06\u003c00:00,  3.12s/it]\n"}
+,{"stream_name":"stderr","time":161.589720252,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":174.668286375,"data":"Device set to use cpu\n"}
+,{"stream_name":"stdout","time":194.080905039,"data":"[  3.2 min] context tokens: {'low': 199}\n"}
+,{"stream_name":"stdout","time":7809.383451965,"data":"[130.1 min] recorded low A\n"}
+,{"stream_name":"stderr","time":7829.160358555,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stdout","time":14659.126888024,"data":"[244.3 min] recorded low E\n"}
+,{"stream_name":"stdout","time":19203.035760137,"data":"[320.0 min] recorded low D\n"}
+,{"stream_name":"stdout","time":22836.53621666,"data":"[380.6 min] recorded low Q\n"}
+,{"stream_name":"stdout","time":23375.099848913,"data":"[389.6 min] 100 takes done\n"}
+,{"stream_name":"stderr","time":23375.121168889,"data":"/kaggle/src/script.py:175: RuntimeWarning: All-NaN slice encountered\n"}
+,{"stream_name":"stderr","time":23375.121211557,"data":"  md = lambda k: np.nanmedian([r.get(k, np.nan) for r in s_]) if s_ else np.nan\n"}
+,{"stream_name":"stderr","time":23394.37622543,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":23394.376283622,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":23394.864246515,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":23394.864287052,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":23397.736215603,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":23399.16768263,"data":"[NbConvertApp] Writing 461603 bytes to __results__.html\n"}
+]
