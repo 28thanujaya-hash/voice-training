@@ -1,0 +1,51 @@
+name: Saturn GPU test
+on: { workflow_dispatch: {} }
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      SATURN_TOKEN: ${{ secrets.SATURN_TOKEN }}
+      SATURN_BASE_URL: https://app.community.saturnenterprise.io
+    steps:
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q saturn-client ruamel.yaml
+      - name: images
+        run: |
+          for t in image images image_tag; do echo "== $t"; sc options --option-type $t 2>&1 | grep -iE 'pytorch|gpu|name' | head -20; done
+          python - <<'P'
+          from saturn_client import SaturnConnection
+          import json
+          c=SaturnConnection()
+          for t in ['image','images','image_tag','image_tags']:
+              try: print(t, json.dumps(c.list_options(t), default=str)[:2500])
+              except Exception as e: print(t,'ERR',e)
+          P
+      - name: tiny GPU job
+        run: |
+          python - <<'P'
+          import time, json
+          from saturn_client import SaturnConnection
+          c=SaturnConnection()
+          r={'type':'job','spec':{'name':'gpu-test','image':'community/saturncloud/saturn-python-pytorch:2023.09.01',
+             'instance_type':'g4dnxlarge','command':'nvidia-smi; python -c "import torch;print(torch.cuda.is_available())"',
+             'working_directory':'/home/jovyan/workspace','environment_variables':{},'git_repositories':[],'secrets':[],
+             'shared_folders':[],'start_script':'','scale':1,'use_spot_instance':False,'schedule':None}}
+          try:
+              res=c.apply(r); print('APPLY', json.dumps(res, default=str)[:1500])
+          except Exception as e:
+              print('APPLY ERR', e); raise SystemExit
+          rid=res['state']['id']
+          try: print('START', c.start('job', rid))
+          except Exception as e: print('START ERR', e)
+          for i in range(30):
+              time.sleep(60)
+              st=c.get_resource('job', rid)
+              s=st.get('state',{}).get('status'); print(i, s, flush=True)
+              if s in ('stopped','error','completed','failed'): break
+          try: pods=c.get_pods('job', rid); print('PODS', json.dumps(pods, default=str)[:1500])
+          except Exception as e: print('PODS ERR', e)
+          P
+          sc pods job gpu-test 2>&1 | head; P=$(sc pods job gpu-test -o json 2>/dev/null | python -c "import sys,json;d=json.load(sys.stdin);print(d[0]['name'] if d else '')" 2>/dev/null); [ -n "$P" ] && sc logs job gpu-test "$P" 2>&1 | tail -40
+          sc stop job gpu-test 2>&1 | tail -2 || true
