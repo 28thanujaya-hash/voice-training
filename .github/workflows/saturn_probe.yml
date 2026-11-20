@@ -20,8 +20,16 @@ jobs:
           from saturn_client import SaturnConnection
           c = SaturnConnection()
           print([m for m in dir(c) if not m.startswith('_')])
-          for m in ['list_options','get_options','options','list_sizes','list_images','current_user','get_user']:
-              if hasattr(c, m):
-                  try: print(m, str(getattr(c, m)())[:3000])
-                  except Exception as e: print(m, 'ERR', e)
+          import json
+          print('OPTIONS keys', list(c.options.keys()) if isinstance(c.options, dict) else c.options)
+          for k,v in (c.options.items() if isinstance(c.options, dict) else []):
+              print('==', k, json.dumps(v, default=str)[:4000])
+          print('USER', json.dumps(c.current_user, default=str)[:1500])
+          try: print('USAGE', json.dumps(c.get_user_usage(c.current_user['id']), default=str)[:3000])
+          except Exception as e: print('USAGE ERR', e)
+          try: print('LIMITS', json.dumps(c.get_all_usage_limits(), default=str)[:3000])
+          except Exception as e: print('LIMITS ERR', e)
+          try: print('SUB', json.dumps(c.get_org_subscription(c.primary_org['id']), default=str)[:3000])
+          except Exception as e: print('SUB ERR', e)
           P
+          sc options 2>&1 | head -80
