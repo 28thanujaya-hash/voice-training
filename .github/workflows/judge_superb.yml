@@ -1,0 +1,41 @@
+name: Mood judge (Meta superb)
+# Judges tara takes with superb/hubert-large-superb-er on free CPU machines; one machine per run. Commits results/judge/superb_<run>.csv.
+on:
+  workflow_dispatch:
+    inputs:
+      runs: { description: 'runs, space separated', required: true, default: 'full_bright_1 full_bright_2 full_bright_3 full_bright_4 full_tense_1 full_tense_2 full_tense_3 full_tense_4 full_tense_hot_1 full_tense_hot_2 full_low_1 full_low_2 full_low_3 full_low_4 full_normal_1 full_normal_2 full_normal_3' }
+permissions:
+  contents: write
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs: { runs: '${{ steps.p.outputs.runs }}' }
+    steps:
+      - id: p
+        run: python3 -c "import json;print('runs='+json.dumps('${{ inputs.runs }}'.split()))" >> "$GITHUB_OUTPUT"
+  judge:
+    needs: plan
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: { run: '${{ fromJson(needs.plan.outputs.runs) }}' }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q torch --index-url https://download.pytorch.org/whl/cpu && pip install -q transformers librosa soundfile
+      - run: python tools/judge/superb.py ${{ matrix.run }}
+      - uses: actions/upload-artifact@v4
+        with: { name: 'sup-${{ strategy.job-index }}', path: 'results/judge/superb_*.csv' }
+  commit:
+    needs: judge
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: { pattern: 'sup-*', path: results/judge, merge-multiple: true }
+      - run: |
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add results/judge && git commit -q -m "Meta superb judge results [skip ci]" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done
