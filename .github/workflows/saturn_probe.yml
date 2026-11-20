@@ -1,0 +1,27 @@
+name: Saturn probe
+on: { workflow_dispatch: {} }
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    env:
+      SATURN_TOKEN: ${{ secrets.SATURN_TOKEN }}
+      SATURN_BASE_URL: https://app.community.saturnenterprise.io
+    steps:
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q saturn-client ruamel.yaml
+      - run: |
+          [ -n "$SATURN_TOKEN" ] && echo "token set" || echo "NO TOKEN"
+          sc --help || true
+          for c in options sizes images list; do echo "== sc $c"; sc $c --help 2>&1 | head -30; done
+          python - <<'P'
+          import saturn_client, inspect
+          print(saturn_client.__file__)
+          from saturn_client import SaturnConnection
+          c = SaturnConnection()
+          print([m for m in dir(c) if not m.startswith('_')])
+          for m in ['list_options','get_options','options','list_sizes','list_images','current_user','get_user']:
+              if hasattr(c, m):
+                  try: print(m, str(getattr(c, m)())[:3000])
+                  except Exception as e: print(m, 'ERR', e)
+          P
