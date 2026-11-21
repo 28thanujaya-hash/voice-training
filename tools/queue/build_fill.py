@@ -1,4 +1,4 @@
-"""Builds Kaggle top-up jobs so every script line gets >=2 judge-passing takes (21 Nov, user: queue, continue the full run).
+"""Builds (no tags; marks per reading rules) Kaggle top-up jobs so every script line gets >=2 judge-passing takes (21 Nov, user: queue, continue the full run).
 low_fill: low lines with <2 passes (not in low_scene_1), full Anne grief scene. tense_scene_1/2: tense lines with <2 passes, full Anne "How dare you" scene, tags removed.
 normal_fill_1/2: normal lines with <2 passes (incl. never recorded), plain as in the full run. Meta superb pass rule as in results/judge/PASS_RULE.md."""
 import csv, collections, os, re, shutil, sys
@@ -39,18 +39,24 @@ def make(J, tmpl, mood, ids, txt, arms, takes, head):
     open(f"{KJ}/{J}/pilot.py", "w").write(f"# {J} (21 Nov): {head}\n" + '\n'.join(out)); print(J, len(ids))
 def halves(x): h = (len(x) + 1) // 2; return [x[:h], x[h:]]
 untag = lambda t: re.sub(r"<[^>]+>\s*", "", t).strip()
+def clean(t, mood):   # user 21 Nov: remove all tags; marks only as the reading rules need
+    t = untag(t)
+    if mood == 'low': t = t.replace('?!', '…?').replace('!', '.').replace(' — ', '… ').replace('—', '… '); t = re.sub(r"\b([A-Z]{2,})\b", lambda m: m.group(1).lower(), t)
+    if mood == 'tense': t = t.replace('?!', '!').replace('…', '.').replace(' — ', '. ').replace('—', '. ')
+    if mood == 'normal': t = t.replace('?!', '?').replace('!', '.').replace('…', ',').replace(' — ', ', ').replace('—', ', '); t = re.sub(r"\b([A-Z]{2,})\b", lambda m: m.group(1).lower(), t)
+    return re.sub(r"\s+", " ", t).strip()
 # low
 c = passes('low'); ids, T = ids_text('low'); ls1 = set(pil('low_scene_1')['LINES']['low'])
 SC = pil('run28b_longscene')['TXT'][('m3l50', 'K')].split(' || ')[0]
 low = [i for i in ids if c[i] < 2 and i not in ls1]
-make('low_fill', 'run28b_longscene', 'low', low, {(i, 'K'): SC + ' || ' + T[i] for i in low}, "{'low': {'K': (False, None, False)}}", 3, f"low top-up, full grief scene, lines with <2 passes ({len(low)})")
+make('low_fill', 'run28b_longscene', 'low', low, {(i, 'K'): SC + ' || ' + clean(T[i], 'low') for i in low}, "{'low': {'K': (False, None, False)}}", 3, f"low top-up, full grief scene, lines with <2 passes ({len(low)})")
 # tense
 c = passes('tense'); ids, T = ids_text('tense'); TS = pil('run29a_prefix')['SCENE']['tense']
 ten = [i for i in ids if c[i] < 2]
 for k, part in enumerate(halves(ten), 1):
-    make(f'tense_scene_{k}', 'run28b_longscene', 'tense', part, {(i, 'K'): TS + ' || ' + untag(T[i]) for i in part}, "{'tense': {'K': (False, None, False)}}", 3, f"tense top-up, full 'How dare you' scene, no tags, lines with <2 passes ({len(part)})")
+    make(f'tense_scene_{k}', 'run28b_longscene', 'tense', part, {(i, 'K'): TS + ' || ' + clean(T[i], 'tense') for i in part}, "{'tense': {'K': (False, None, False)}}", 3, f"tense top-up, full 'How dare you' scene, no tags, lines with <2 passes ({len(part)})")
 # normal
 c = passes('normal'); ids, T = ids_text('normal')
 nor = [i for i in ids if c[i] < 2]
 for k, part in enumerate(halves(nor), 1):
-    make(f'normal_fill_{k}', 'full_normal_1', 'normal', part, {i: T[i] for i in part if T[i] != BASE[i]}, "{'normal': {'T': (False, None, False)}}", 4, f"normal top-up, plain as in the full run, lines with <2 passes ({len(part)})")
+    make(f'normal_fill_{k}', 'full_normal_1', 'normal', part, {i: clean(T[i], 'normal') for i in part}, "{'normal': {'T': (False, None, False)}}", 4, f"normal top-up, plain as in the full run, lines with <2 passes ({len(part)})")

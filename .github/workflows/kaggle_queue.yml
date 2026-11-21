@@ -1,0 +1,44 @@
+name: Kaggle queue
+# Kaggle allows only 2 GPU sessions (queued ones count). This pushes the listed jobs one by one as slots free up,
+# collects each finished job (kaggle.yml collect), and re-dispatches itself with what is left before the 6 h Actions limit.
+on:
+  workflow_dispatch:
+    inputs:
+      jobs: { description: 'job folders to push, in order, space separated', required: true }
+      watch: { description: 'jobs already pushed, to collect when they finish', required: false, default: '' }
+permissions: { contents: write, actions: write }
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+      KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+      GH_TOKEN: ${{ github.token }}
+      REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q --upgrade kaggle six
+      - name: Loop
+        run: |
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          U="$KAGGLE_USERNAME"; [ -z "$U" ] && U=$(kaggle config view 2>/dev/null | awk -F': ' '/username/{print $2}' | tr -d ' ')
+          TODO="${{ inputs.jobs }}"; WATCH="${{ inputs.watch }}"; T0=$(date +%s)
+          st() { kaggle kernels status "$U/se-$(echo $1 | tr '_' '-')" 2>&1 | tail -1; }
+          disp() { gh api -X POST repos/$REPO/actions/workflows/$1/dispatches -f ref=main "${@:2}" >/dev/null && echo "$(date -u +%H:%M) dispatched $1 ${*:2}"; }
+          while [ -n "$TODO$WATCH" ]; do
+            busy=0; NW=""
+            for j in $WATCH; do s=$(st $j)
+              if echo "$s" | grep -qiE 'complete|error|cancel'; then echo "$(date -u +%H:%M) $j: $s"; disp kaggle.yml -f inputs[job]=$j -f inputs[action]=collect -f inputs[wait]=1
+              else NW="$NW $j"; echo "$s" | grep -qiE 'queued|running' && busy=$((busy+1)); fi
+            done; WATCH="$NW"
+            set -- $TODO
+            if [ -n "$1" ] && [ $busy -lt 2 ]; then disp kaggle.yml -f inputs[job]=$1 -f inputs[action]=start -f inputs[gpu]=T4; sleep 120
+              if st $1 | grep -qiE 'queued|running'; then WATCH="$WATCH $1"; shift; TODO="$*"; fi
+            fi
+            if [ $(( $(date +%s) - T0 )) -gt 19800 ]; then
+              disp kaggle_queue.yml -f "inputs[jobs]=$(echo $TODO)" -f "inputs[watch]=$(echo $WATCH)"; exit 0; fi
+            echo "$(date -u +%H:%M) todo: [$TODO] watch: [$WATCH]"; sleep 600
+          done
