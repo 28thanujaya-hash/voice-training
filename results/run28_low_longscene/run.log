@@ -1,0 +1,137 @@
+[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe praat-parselmouth cmudict num2words
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795237900.085479     868 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795237902.395085     868 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+[  1.6 min] device cuda:0/cuda:0
+Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]
+Fetching 2 files:  50%|█████     | 1/2 [01:33<01:33, 93.56s/it]
+Fetching 2 files: 100%|██████████| 2/2 [01:33<00:00, 46.78s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:20<00:20, 20.63s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:27<00:00, 12.48s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:27<00:00, 13.71s/it]
+/usr/local/lib/python3.13/dist-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+`torch_dtype` is deprecated! Use `dtype` instead!
+Device set to use cuda:0
+[  4.7 min] context tokens: {'A': 199}
+[  7.1 min] recorded low B
+`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.
+You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+[W1121 05:19:49.985058236 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 109051904 bytes (free: 48037888, total: 15637086208).
+[W1121 05:20:22.510300263 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 130023424 bytes (free: 104660992, total: 15637086208).
+[W1121 05:20:47.572652425 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 144703488 bytes (free: 89980928, total: 15637086208).
+[W1121 05:21:06.797566570 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 155189248 bytes (free: 150798336, total: 15637086208).
+[W1121 05:21:26.034387842 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 165675008 bytes (free: 102563840, total: 15637086208).
+[W1121 05:21:43.861114522 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 174063616 bytes (free: 163381248, total: 15637086208).
+[W1121 05:21:52.593343104 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 178257920 bytes (free: 117243904, total: 15637086208).
+[W1121 05:22:00.290990339 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 182452224 bytes (free: 52232192, total: 15637086208).
+[W1121 05:22:05.935097583 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 184549376 bytes (free: 154992640, total: 15637086208).
+[W1121 05:22:10.369519479 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 186646528 bytes (free: 27066368, total: 15637086208).
+[W1121 05:22:14.873701702 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 188743680 bytes (free: 18677760, total: 15637086208).
+[W1121 05:22:19.599364532 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 190840832 bytes (free: 119341056, total: 15637086208).
+[W1121 05:22:19.885731356 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 190840832 bytes (free: 165478400, total: 15637086208).
+[W1121 05:22:23.207995720 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 192937984 bytes (free: 85786624, total: 15637086208).
+[W1121 05:22:28.837604867 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 195035136 bytes (free: 33357824, total: 15637086208).
+[W1121 05:22:33.716625622 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 197132288 bytes (free: 16580608, total: 15637086208).
+[W1121 05:22:33.761509470 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 197132288 bytes (free: 71106560, total: 15637086208).
+[W1121 05:22:33.865944246 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 197132288 bytes (free: 39649280, total: 15637086208).
+[W1121 05:22:33.199527071 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 197132288 bytes (free: 10289152, total: 15637086208).
+[W1121 05:22:33.237165892 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 197132288 bytes (free: 12386304, total: 15637086208).
+Traceback (most recent call last):
+  File "/content/vt/kaggle/jobs/run28_low_longscene/run.py", line 103, in <module>
+    raw = record(texts, TAKES, pre=CTXI[ctx if isinstance(ctx, str) else mood] if ctx else ()); log(f"recorded {mood} {var}")
+  File "/content/vt/kaggle/jobs/run28_low_longscene/run.py", line 64, in record
+    g = om.generate(ids, attention_mask=att, max_new_tokens=3600, do_sample=True, temperature=0.6, top_p=0.95,
+                    repetition_penalty=1.1, num_return_sequences=n, eos_token_id=128258, pad_token_id=128263)
+  File "/usr/local/lib/python3.13/dist-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/generation/utils.py", line 2566, in generate
+    result = decoding_method(
+        self,
+    ...<5 lines>...
+        **model_kwargs,
+    )
+  File "/usr/local/lib/python3.13/dist-packages/transformers/generation/utils.py", line 2789, in _sample
+    outputs = model_forward(**model_inputs, return_dict=True)
+  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/utils/generic.py", line 918, in wrapper
+    output = func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/models/llama/modeling_llama.py", line 459, in forward
+    outputs: BaseModelOutputWithPast = self.model(
+                                       ~~~~~~~~~~^
+        input_ids=input_ids,
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/utils/generic.py", line 1072, in wrapper
+    outputs = func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/models/llama/modeling_llama.py", line 395, in forward
+    hidden_states = decoder_layer(
+        hidden_states,
+    ...<5 lines>...
+        **kwargs,
+    )
+  File "/usr/local/lib/python3.13/dist-packages/transformers/modeling_layers.py", line 94, in __call__
+    return super().__call__(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/models/llama/modeling_llama.py", line 294, in forward
+    hidden_states, _ = self.self_attn(
+                       ~~~~~~~~~~~~~~^
+        hidden_states=hidden_states,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/models/llama/modeling_llama.py", line 252, in forward
+    attn_output, attn_weights = attention_interface(
+                                ~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/usr/local/lib/python3.13/dist-packages/transformers/integrations/sdpa_attention.py", line 68, in sdpa_attention_forward
+    value = repeat_kv(value, module.num_key_value_groups)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/integrations/sdpa_attention.py", line 27, in repeat_kv
+    return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 188.00 MiB. GPU 0 has a total capacity of 14.56 GiB of which 11.81 MiB is free. Including non-PyTorch memory, this process has 14.55 GiB memory in use. Of the allocated memory 12.52 GiB is allocated by PyTorch, and 1.89 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+
