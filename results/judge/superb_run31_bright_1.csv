@@ -1,0 +1,17 @@
+run,mood,var,id,take,judged,p_neutral,p_happy,p_angry,p_sad
+run31_bright_1,bright,K,m3b31,m3b31_K_0,sad,0.08,0.291,0.228,0.401
+run31_bright_1,bright,K,m3b31,m3b31_K_1,angry,0.108,0.209,0.644,0.039
+run31_bright_1,bright,K,m3b74,m3b74_K_0,neutral,0.439,0.363,0.183,0.016
+run31_bright_1,bright,K,m3b74,m3b74_K_1,angry,0.073,0.216,0.698,0.012
+run31_bright_1,bright,K,m3xb10,m3xb10_K_0,angry,0.01,0.415,0.574,0.001
+run31_bright_1,bright,K,m3xb10,m3xb10_K_1,angry,0.009,0.101,0.889,0.001
+run31_bright_1,bright,K,m3b51,m3b51_K_0,happy,0.395,0.568,0.036,0.001
+run31_bright_1,bright,K,m3b51,m3b51_K_1,happy,0.264,0.642,0.093,0.001
+run31_bright_1,bright,K,m3b12,m3b12_K_0,angry,0.049,0.285,0.628,0.038
+run31_bright_1,bright,K,m3b12,m3b12_K_1,happy,0.277,0.624,0.095,0.003
+run31_bright_1,bright,K,m3b41,m3b41_K_0,happy,0.11,0.875,0.014,0.001
+run31_bright_1,bright,K,m3b41,m3b41_K_1,angry,0.018,0.323,0.659,0.0
+run31_bright_1,bright,K,m3b44,m3b44_K_0,happy,0.335,0.423,0.238,0.004
+run31_bright_1,bright,K,m3b44,m3b44_K_1,angry,0.002,0.058,0.939,0.001
+run31_bright_1,bright,K,m3xb33,m3xb33_K_0,angry,0.002,0.195,0.803,0.0
+run31_bright_1,bright,K,m3xb33,m3xb33_K_1,angry,0.006,0.443,0.551,0.0
