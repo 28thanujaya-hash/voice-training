@@ -1,0 +1,58 @@
+Each pair: tag take, then a plain take of the same line.
+1. m3l50 A_1 · Priya's gone home for the weekend, so the flat's empty.
+2. m3l50 A_2 · Priya's gone home for the weekend, so the flat's empty.
+3. m3l50 A_3 · Priya's gone home for the weekend, so the flat's empty.
+4. m3l10 A_0 · Some nights the flat feels very quiet… and I miss Jaffna.
+5. m3l10 A_1 · Some nights the flat feels very quiet… and I miss Jaffna.
+6. m3l10 A_2 · Some nights the flat feels very quiet… and I miss Jaffna.
+7. m3l10 A_3 · Some nights the flat feels very quiet… and I miss Jaffna.
+8. m3l22 A_1 · Appa says she's sleeping a lot… and she's not eating much.
+9. m3l22 A_2 · Appa says she's sleeping a lot… and she's not eating much.
+10. m3l22 A_3 · Appa says she's sleeping a lot… and she's not eating much.
+11. m3l23 A_0 · I looked at the bus times to Jaffna three times today.
+12. m3l23 A_1 · I looked at the bus times to Jaffna three times today.
+13. m3l23 A_2 · I looked at the bus times to Jaffna three times today.
+14. m3l23 A_3 · I looked at the bus times to Jaffna three times today.
+15. m3l49 A_0 · It's been raining for three days, and I haven't seen the sun once.
+16. m3l49 A_1 · It's been raining for three days, and I haven't seen the sun once.
+17. m3l49 A_2 · It's been raining for three days, and I haven't seen the sun once.
+18. m3l49 A_3 · It's been raining for three days, and I haven't seen the sun once.
+19. m3l56 A_0 · Nobody remembered my birthday this year… except Priya.
+20. m3l56 A_1 · Nobody remembered my birthday this year… except Priya.
+21. m3l56 A_2 · Nobody remembered my birthday this year… except Priya.
+22. m3l56 A_3 · Nobody remembered my birthday this year… except Priya.
+23. m3l66 A_0 · I watched an old film tonight… the one Paati liked.
+24. m3l66 A_2 · I watched an old film tonight… the one Paati liked.
+25. m3l66 A_3 · I watched an old film tonight… the one Paati liked.
+26. m3l32 A_0 · Arun asked when I'm coming home… and I didn't have an answer.
+27. m3l32 A_1 · Arun asked when I'm coming home… and I didn't have an answer.
+28. m3l32 A_2 · Arun asked when I'm coming home… and I didn't have an answer.
+29. m3l32 A_3 · Arun asked when I'm coming home… and I didn't have an answer.
+30. m3l50 B_0 · Priya's gone home for the weekend, so the flat's empty.
+31. m3l50 B_1 · Priya's gone home for the weekend, so the flat's empty.
+32. m3l50 B_2 · Priya's gone home for the weekend, so the flat's empty.
+33. m3l50 B_3 · Priya's gone home for the weekend, so the flat's empty.
+34. m3l10 B_0 · Some nights the flat feels very quiet… and I miss Jaffna.
+35. m3l10 B_1 · Some nights the flat feels very quiet… and I miss Jaffna.
+36. m3l10 B_2 · Some nights the flat feels very quiet… and I miss Jaffna.
+37. m3l10 B_3 · Some nights the flat feels very quiet… and I miss Jaffna.
+38. m3l22 B_1 · Appa says she's sleeping a lot… and she's not eating much.
+39. m3l22 B_3 · Appa says she's sleeping a lot… and she's not eating much.
+40. m3l23 B_1 · I looked at the bus times to Jaffna three times today.
+41. m3l23 B_2 · I looked at the bus times to Jaffna three times today.
+42. m3l49 B_0 · It's been raining for three days, and I haven't seen the sun once.
+43. m3l49 B_1 · It's been raining for three days, and I haven't seen the sun once.
+44. m3l49 B_2 · It's been raining for three days, and I haven't seen the sun once.
+45. m3l49 B_3 · It's been raining for three days, and I haven't seen the sun once.
+46. m3l56 B_0 · Nobody remembered my birthday this year… except Priya.
+47. m3l56 B_1 · Nobody remembered my birthday this year… except Priya.
+48. m3l56 B_2 · Nobody remembered my birthday this year… except Priya.
+49. m3l56 B_3 · Nobody remembered my birthday this year… except Priya.
+50. m3l66 B_0 · I watched an old film tonight… the one Paati liked.
+51. m3l66 B_1 · I watched an old film tonight… the one Paati liked.
+52. m3l66 B_2 · I watched an old film tonight… the one Paati liked.
+53. m3l66 B_3 · I watched an old film tonight… the one Paati liked.
+54. m3l32 B_0 · Arun asked when I'm coming home… and I didn't have an answer.
+55. m3l32 B_1 · Arun asked when I'm coming home… and I didn't have an answer.
+56. m3l32 B_2 · Arun asked when I'm coming home… and I didn't have an answer.
+57. m3l32 B_3 · Arun asked when I'm coming home… and I didn't have an answer.
