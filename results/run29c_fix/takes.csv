@@ -1,0 +1,65 @@
+id,mood,var,take,text,status,sec,heard,judged,p_sad
+m3l50,low,B,0,"Priya's gone home for the weekend, so the flat's empty.",fail,4.27,"Priya's gone home for the weekend, so the flat's empty.",happy,0.128
+m3l50,low,B,1,"Priya's gone home for the weekend, so the flat's empty.",fail,5.63,"Priya's gone home for the weekend, so the flat's empty.",happy,0.114
+m3l50,low,B,2,"Priya's gone home for the weekend, so the flat's empty.",fail,4.35,"Priya's gone home for the weekend, so the flat's empty.",happy,0.04
+m3l50,low,B,3,"Priya's gone home for the weekend, so the flat's empty.",fail,4.69,"Priya's gone home for the weekend, so the flat's empty.",happy,0.072
+m3l50,low,C,0,"Priya's gone home for the weekend, so the flat's empty.",fail,4.69,"Priya's gone home for the weekend, so the flat's empty.",happy,0.258
+m3l50,low,C,1,"Priya's gone home for the weekend, so the flat's empty.",fail,5.97,"Priya's gone home for the weekend, so the flat's empty.",happy,0.116
+m3l50,low,C,2,"Priya's gone home for the weekend, so the flat's empty.",fail,5.03,"Priya's gone home for the weekend, so the flat's empty.",happy,0.206
+m3l50,low,C,3,"Priya's gone home for the weekend, so the flat's empty.",words,5.8,"Priya's going home for the weekend, so the flat's empty.",,
+m3l10,low,B,0,Some nights the flat feels very quiet… and I miss Jaffna.,fail,6.23,Some nights the flat feels very quiet and I miss Jaffna.,happy,0.253
+m3l10,low,B,1,Some nights the flat feels very quiet… and I miss Jaffna.,fail,5.72,Some nights the flat feels very quiet and I miss Jaffna.,happy,0.168
+m3l10,low,B,2,Some nights the flat feels very quiet… and I miss Jaffna.,fail,5.29,"Some nights the flat feels very quiet, and I miss Jaffna.",happy,0.121
+m3l10,low,B,3,Some nights the flat feels very quiet… and I miss Jaffna.,words,7.08,Some nights the flat feels very quiet and I miss Jaffa.,,
+m3l10,low,C,0,Some nights the flat feels very quiet… and I miss Jaffna.,words,3.33,I miss Jaffna.,,
+m3l10,low,C,1,Some nights the flat feels very quiet… and I miss Jaffna.,fail,6.06,Some nights the flat feels very quiet and I miss Jaffna.,happy,0.125
+m3l10,low,C,2,Some nights the flat feels very quiet… and I miss Jaffna.,words,6.74,some nights the flat feels very quiet and I miss Jaffa,,
+m3l10,low,C,3,Some nights the flat feels very quiet… and I miss Jaffna.,fail,6.23,"Some nights the flat feels very quiet, and I miss Jaffna.",happy,0.366
+m3l22,low,B,0,Appa says she's sleeping a lot… and she's not eating much.,words,5.63,Aipa says she's sleeping a lot and she's not eating much.,,
+m3l22,low,B,1,Appa says she's sleeping a lot… and she's not eating much.,fail,5.21,"Appa says she's sleeping a lot, and she's not eating much.",happy,0.455
+m3l22,low,B,2,Appa says she's sleeping a lot… and she's not eating much.,words,4.86,"Ah, Appa says she's sleeping a lot and she's not eating much.",,
+m3l22,low,B,3,Appa says she's sleeping a lot… and she's not eating much.,fail,5.21,"Appa says she's sleeping a lot, and she's not eating much.",happy,0.474
+m3l22,low,C,0,Appa says she's sleeping a lot… and she's not eating much.,fail,5.63,Appa says she's sleeping a lot and she's not eating much.,happy,0.023
+m3l22,low,C,1,Appa says she's sleeping a lot… and she's not eating much.,fail,6.06,Appa says she's sleeping a lot and she's not eating much.,happy,0.268
+m3l22,low,C,2,Appa says she's sleeping a lot… and she's not eating much.,words,5.55,Appa said she's sleeping a lot and she's not eating much.,,
+m3l22,low,C,3,Appa says she's sleeping a lot… and she's not eating much.,fail,5.46,Appa says she's sleeping a lot and she's not eating much.,happy,0.204
+m3l23,low,B,0,I looked at the bus times to Jaffna three times today.,fail,4.78,I looked at the bus times to Jaffna three times today.,happy,0.104
+m3l23,low,B,1,I looked at the bus times to Jaffna three times today.,fail,6.06,I looked at the bus times to Jaffna three times today.,happy,0.144
+m3l23,low,B,2,I looked at the bus times to Jaffna three times today.,fail,5.29,I looked at the bus times to Jaffna three times today.,sad,0.476
+m3l23,low,B,3,I looked at the bus times to Jaffna three times today.,words,4.27,I looked at the bus times to Jaffa three times today.,,
+m3l23,low,C,0,I looked at the bus times to Jaffna three times today.,fail,5.12,I looked at the bus times to Jaffna three times today.,happy,0.298
+m3l23,low,C,1,I looked at the bus times to Jaffna three times today.,fail,4.86,I looked at the bus times to Jaffna three times today.,happy,0.313
+m3l23,low,C,2,I looked at the bus times to Jaffna three times today.,PASS,5.72,I looked at the bus times to Jaffna three times today.,sad,0.624
+m3l23,low,C,3,I looked at the bus times to Jaffna three times today.,words,5.55,I looked at the bus times to Jaffa three times today.,,
+m3l49,low,B,0,"It's been raining for three days, and I haven't seen the sun once.",fail,7.42,"It's been raining for three days, and I haven't seen the sun once.",happy,0.403
+m3l49,low,B,1,"It's been raining for three days, and I haven't seen the sun once.",fail,7.08,It's been raining for three days and I haven't seen the sun once.,happy,0.301
+m3l49,low,B,2,"It's been raining for three days, and I haven't seen the sun once.",fail,4.44,It's been raining for three days and I haven't seen the sun once...,happy,0.132
+m3l49,low,B,3,"It's been raining for three days, and I haven't seen the sun once.",fail,5.29,It's been raining for three days and I haven't seen the sun once.,happy,0.09
+m3l49,low,C,0,"It's been raining for three days, and I haven't seen the sun once.",PASS,5.12,It's been raining for three days and I haven't seen the sun once.,sad,0.643
+m3l49,low,C,1,"It's been raining for three days, and I haven't seen the sun once.",fail,5.8,It's been raining for three days and I haven't seen the sun once.,happy,0.223
+m3l49,low,C,2,"It's been raining for three days, and I haven't seen the sun once.",fail,5.89,It's been raining for three days and I haven't seen the sun once.,happy,0.259
+m3l49,low,C,3,"It's been raining for three days, and I haven't seen the sun once.",fail,5.55,It's been raining for three days and I haven't seen the sun once.,happy,0.317
+m3l56,low,B,0,Nobody remembered my birthday this year… except Priya.,fail,6.4,"Nobody remembered my birthday this year, except Priya.",happy,0.133
+m3l56,low,B,1,Nobody remembered my birthday this year… except Priya.,fail,5.03,"Nobody remembered my birthday this year, except Priya.",happy,0.131
+m3l56,low,B,2,Nobody remembered my birthday this year… except Priya.,fail,5.38,Nobody remembered my birthday this year. Except Priya.,happy,0.223
+m3l56,low,B,3,Nobody remembered my birthday this year… except Priya.,fail,5.97,"Nobody remembered my birthday this year, except Priya.",happy,0.117
+m3l56,low,C,0,Nobody remembered my birthday this year… except Priya.,fail,5.38,Nobody remembered my birthday this year except Priya.,happy,0.215
+m3l56,low,C,1,Nobody remembered my birthday this year… except Priya.,fail,5.21,Nobody remembered my birthday this year except Priya.,happy,0.053
+m3l56,low,C,2,Nobody remembered my birthday this year… except Priya.,fail,5.8,"Nobody remembered my birthday this year, except Priya.",happy,0.376
+m3l56,low,C,3,Nobody remembered my birthday this year… except Priya.,fail,6.74,"Nobody remembered my birthday this year, except Priya.",happy,0.112
+m3l66,low,B,0,I watched an old film tonight… the one Paati liked.,words,5.63,"I watched an old film tonight, but one potty liked.",,
+m3l66,low,B,1,I watched an old film tonight… the one Paati liked.,words,6.14,"I watched an old film tonight, but one party liked...",,
+m3l66,low,B,2,I watched an old film tonight… the one Paati liked.,words,4.86,"I watched an old film tonight, the one part he liked.",,
+m3l66,low,B,3,I watched an old film tonight… the one Paati liked.,words,5.97,I watched an old film tonight. The one party liked.,,
+m3l66,low,C,0,I watched an old film tonight… the one Paati liked.,words,5.63,"I watched an old film tonight, but one part you liked...",,
+m3l66,low,C,1,I watched an old film tonight… the one Paati liked.,words,7.94,"I watched an old film tonight, the one Patsy liked.",,
+m3l66,low,C,2,I watched an old film tonight… the one Paati liked.,words,5.46,"I watched an old film tonight, the one Potty liked.",,
+m3l66,low,C,3,I watched an old film tonight… the one Paati liked.,words,5.63,"I watched an old film tonight, the one party liked.",,
+m3l32,low,B,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,6.06,"Arun asked when I'm coming home, and I didn't have an answer.",happy,0.412
+m3l32,low,B,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,5.97,Arun asked when I'm coming home and I didn't have an answer.,happy,0.376
+m3l32,low,B,2,Arun asked when I'm coming home… and I didn't have an answer.,words,6.14,"I'm a mess when I'm coming home, and I didn't have an answer.",,
+m3l32,low,B,3,Arun asked when I'm coming home… and I didn't have an answer.,fail,5.46,Arun asked when I'm coming home and I didn't have an answer.,happy,0.443
+m3l32,low,C,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,6.91,"Arun asked when I'm coming home, and I didn't have an answer.",sad,0.483
+m3l32,low,C,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,6.14,"Arun asked when I'm coming home, and I didn't have an answer.",happy,0.432
+m3l32,low,C,2,Arun asked when I'm coming home… and I didn't have an answer.,words,5.97,"A room asked when I'm coming home, and I didn't have an answer.",,
+m3l32,low,C,3,Arun asked when I'm coming home… and I didn't have an answer.,fail,8.02,Arun asked when I'm coming home and I didn't have an answer.,happy,0.424
