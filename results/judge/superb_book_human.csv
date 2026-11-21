@@ -1,0 +1,16 @@
+run,mood,var,id,take,judged,p_neutral,p_happy,p_angry,p_sad
+book_human,bright,H,bk02_064,bk02_064_H_0,happy,0.013,0.905,0.071,0.011
+book_human,bright,H,bk02_108,bk02_108_H_0,happy,0.015,0.935,0.041,0.009
+book_human,low,H,bk02_229,bk02_229_H_0,happy,0.0,0.999,0.0,0.0
+book_human,low,H,bk02_176,bk02_176_H_0,happy,0.136,0.789,0.017,0.058
+book_human,low,H,bk02_185,bk02_185_H_0,happy,0.252,0.607,0.064,0.078
+book_human,tense,H,bk09_048,bk09_048_H_0,angry,0.014,0.122,0.863,0.0
+book_human,tense,H,bk09_057,bk09_057_H_0,angry,0.001,0.005,0.994,0.0
+book_human,low,H,bk37_062,bk37_062_H_0,angry,0.118,0.036,0.624,0.223
+book_human,low,H,bk37_058,bk37_058_H_0,sad,0.19,0.23,0.017,0.563
+book_human,low,H,bk37_040,bk37_040_H_0,neutral,0.466,0.404,0.007,0.123
+book_human,normal,H,nr0202,nr0202_H_0,neutral,0.821,0.145,0.019,0.015
+book_human,normal,H,nr0215,nr0215_H_0,neutral,0.878,0.072,0.036,0.014
+book_human,normal,H,nr3710,nr3710_H_0,happy,0.147,0.487,0.004,0.363
+book_human,normal,H,nr3726,nr3726_H_0,happy,0.385,0.456,0.012,0.147
+book_human,normal,H,nr2736,nr2736_H_0,happy,0.052,0.833,0.048,0.067
