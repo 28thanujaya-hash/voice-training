@@ -1,0 +1,20 @@
+name: Voice match
+on:
+  workflow_dispatch:
+    inputs:
+      run: { required: true }
+      ref: { required: true, default: 'full_low_1' }
+      extra: { required: false, default: '' }
+permissions: { contents: write }
+jobs:
+  vm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: sudo apt-get -qq install -y ffmpeg >/dev/null && pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu && pip install -q speechbrain librosa pandas
+      - run: python tools/judge/voice_match.py "${{ inputs.run }}" "${{ inputs.ref }}" ${{ inputs.extra }}
+      - run: |
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add results/judge && git commit -q -m "Voice match: ${{ inputs.run }} [skip ci]" && git pull -q --rebase && git push -q
