@@ -1,0 +1,281 @@
+{
+ "part1": {
+  "low": [
+   {
+    "method": "Old recipe (context + sigh), full run",
+    "n": 28,
+    "mean": 0.12,
+    "median": 0.088,
+    "pass_pct": 0
+   },
+   {
+    "method": "Context: slowest passing take (run22 B)",
+    "n": 28,
+    "mean": 0.138,
+    "median": 0.083,
+    "pass_pct": 4
+   },
+   {
+    "method": "Context: saddest take (run22 C)",
+    "n": 30,
+    "mean": 0.184,
+    "median": 0.121,
+    "pass_pct": 10
+   },
+   {
+    "method": "Context: 3-turn sad scene as earlier turns (run24)",
+    "n": 29,
+    "mean": 0.226,
+    "median": 0.114,
+    "pass_pct": 21
+   },
+   {
+    "method": "Context: actress sad clips (run25 H3)",
+    "n": 25,
+    "mean": 0.145,
+    "median": 0.141,
+    "pass_pct": 0
+   },
+   {
+    "method": "Lead-in \"I am so sad.\" (run30b)",
+    "n": 26,
+    "mean": 0.241,
+    "median": 0.275,
+    "pass_pct": 12
+   },
+   {
+    "method": "Scene, last 2 sentences (run30 S1)",
+    "n": 31,
+    "mean": 0.218,
+    "median": 0.152,
+    "pass_pct": 10
+   },
+   {
+    "method": "Scene, last half (run30 S2)",
+    "n": 26,
+    "mean": 0.227,
+    "median": 0.205,
+    "pass_pct": 8
+   },
+   {
+    "method": "Full scene: Anne grief (run28b K)",
+    "n": 30,
+    "mean": 0.808,
+    "median": 0.815,
+    "pass_pct": 100
+   },
+   {
+    "method": "Full scene: F's own (run28b F)",
+    "n": 27,
+    "mean": 0.753,
+    "median": 0.769,
+    "pass_pct": 96
+   }
+  ],
+  "bright": [
+   {
+    "method": "Old recipe (tag, \"!\"), full run",
+    "n": 32,
+    "mean": 0.119,
+    "median": 0.065,
+    "pass_pct": 0
+   },
+   {
+    "method": "Lead-in \"I am so happy.\" (run30b)",
+    "n": 31,
+    "mean": 0.223,
+    "median": 0.147,
+    "pass_pct": 13
+   }
+  ],
+  "tense": [
+   {
+    "method": "Old recipe (context \"Give it back!\"), full run",
+    "n": 36,
+    "mean": 0.111,
+    "median": 0.081,
+    "pass_pct": 0
+   },
+   {
+    "method": "Lead-in \"I am so angry.\" (run30b)",
+    "n": 32,
+    "mean": 0.173,
+    "median": 0.083,
+    "pass_pct": 9
+   }
+  ]
+ },
+ "part2": [
+  {
+   "mood": "low",
+   "lever": "Tag: sigh",
+   "run": "run9_low",
+   "plain": 0.132,
+   "with_lever": 0.219,
+   "change": 0.087,
+   "n": 22
+  },
+  {
+   "mood": "low",
+   "lever": "Context \"Oh\u2026 you're back.\"",
+   "run": "run9_low",
+   "plain": 0.132,
+   "with_lever": 0.173,
+   "change": 0.041,
+   "n": 22
+  },
+  {
+   "mood": "low",
+   "lever": "Context + sigh",
+   "run": "run9_low",
+   "plain": 0.132,
+   "with_lever": 0.319,
+   "change": 0.187,
+   "n": 24
+  },
+  {
+   "mood": "low",
+   "lever": "Tag: sniffle",
+   "run": "run10_tags",
+   "plain": 0.154,
+   "with_lever": 0.195,
+   "change": 0.041,
+   "n": 22
+  },
+  {
+   "mood": "low",
+   "lever": "Marks: \"\u2026\" at pauses",
+   "run": "run17_low",
+   "plain": 0.17,
+   "with_lever": 0.386,
+   "change": 0.216,
+   "n": 20
+  },
+  {
+   "mood": "low",
+   "lever": "Writing: GPT rewrite",
+   "run": "run23_writing",
+   "plain": 0.114,
+   "with_lever": 0.122,
+   "change": 0.008,
+   "n": 20
+  },
+  {
+   "mood": "bright",
+   "lever": "Tag: chuckle",
+   "run": "run10_tags",
+   "plain": 0.483,
+   "with_lever": 0.79,
+   "change": 0.307,
+   "n": 23
+  },
+  {
+   "mood": "bright",
+   "lever": "Tag: laugh",
+   "run": "run10_tags",
+   "plain": 0.483,
+   "with_lever": 0.771,
+   "change": 0.288,
+   "n": 22
+  },
+  {
+   "mood": "bright",
+   "lever": "Tag: gasp",
+   "run": "run10_tags",
+   "plain": 0.483,
+   "with_lever": 0.348,
+   "change": -0.135,
+   "n": 23
+  },
+  {
+   "mood": "bright",
+   "lever": "Context (bright clip)",
+   "run": "run11_ctx",
+   "plain": 0.464,
+   "with_lever": 0.442,
+   "change": -0.022,
+   "n": 22
+  },
+  {
+   "mood": "bright",
+   "lever": "Marks: \"!\" instead of \".\"",
+   "run": "run13_bright",
+   "plain": 0.522,
+   "with_lever": 0.435,
+   "change": -0.087,
+   "n": 35
+  },
+  {
+   "mood": "bright",
+   "lever": "Marks \"!\" + tag",
+   "run": "run13_bright",
+   "plain": 0.522,
+   "with_lever": 0.71,
+   "change": 0.188,
+   "n": 25
+  },
+  {
+   "mood": "tense",
+   "lever": "Tag: groan",
+   "run": "run10_tags",
+   "plain": 0.456,
+   "with_lever": 0.363,
+   "change": -0.093,
+   "n": 22
+  },
+  {
+   "mood": "tense",
+   "lever": "Context \"Give it back!\"",
+   "run": "run14_tense",
+   "plain": 0.257,
+   "with_lever": 0.549,
+   "change": 0.292,
+   "n": 30
+  },
+  {
+   "mood": "tense",
+   "lever": "Context + gasp",
+   "run": "run14_tense",
+   "plain": 0.257,
+   "with_lever": 0.513,
+   "change": 0.256,
+   "n": 34
+  },
+  {
+   "mood": "tense",
+   "lever": "Context + \"!\" ending",
+   "run": "run14_tense",
+   "plain": 0.257,
+   "with_lever": 0.694,
+   "change": 0.437,
+   "n": 31
+  },
+  {
+   "mood": "tense",
+   "lever": "Marks: one CAPS word, short units",
+   "run": "run21_fix",
+   "plain": 0.299,
+   "with_lever": 0.638,
+   "change": 0.339,
+   "n": 38
+  },
+  {
+   "mood": "tense",
+   "lever": "CAPS rewrite + context",
+   "run": "run21_fix",
+   "plain": 0.299,
+   "with_lever": 0.802,
+   "change": 0.503,
+   "n": 36
+  },
+  {
+   "mood": "normal",
+   "lever": "Writing: GPT rewrite",
+   "run": "run23_writing",
+   "plain": 0.129,
+   "with_lever": 0.112,
+   "change": -0.017,
+   "n": 22
+  }
+ ]
+}
