@@ -1,0 +1,129 @@
+id,mood,var,take,text,status,heard,wer
+m3l50,low,N,0,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,N,1,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,N,2,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,N,3,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,SAD,0,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,SAD,1,"Priya's gone home for the weekend, so the flat's empty.",PASS,Priya's gone home for the weekend. So the flat's empty.,0.0
+m3l50,low,SAD,2,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,SAD,3,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,MEL,0,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,MEL,1,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,MEL,2,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,MEL,3,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,EA,0,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,EA,1,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,EA,2,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,EA,3,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l10,low,N,0,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,N,1,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,N,2,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,N,3,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,Some nights the flat feels very quiet and I miss Jaffna.,0.0
+m3l10,low,SAD,0,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,SAD,1,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,SAD,2,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet. And I miss Jaffna.",0.0
+m3l10,low,SAD,3,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,MEL,0,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,Some nights the flat feels very quiet and I miss Jaffna.,0.0
+m3l10,low,MEL,1,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet. And I miss Jaffna.",0.0
+m3l10,low,MEL,2,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,Some nights the flat feels very quiet and I miss Jaffna.,0.0
+m3l10,low,MEL,3,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,Some nights the flat feels very quiet and I miss Jaffna.,0.0
+m3l10,low,EA,0,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,EA,1,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,Some nights the flat feels very quiet and I miss Jaffna.,0.0
+m3l10,low,EA,2,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,EA,3,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet, and I miss Jaffna.",0.0
+m3l22,low,N,0,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,N,1,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,N,2,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,N,3,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,SAD,0,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,SAD,1,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,SAD,2,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,SAD,3,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot. And she is not eating much.,0.364
+m3l22,low,MEL,0,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,MEL,1,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot. And she is not eating much.,0.364
+m3l22,low,MEL,2,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,MEL,3,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,EA,0,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,EA,1,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,EA,2,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,EA,3,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l23,low,N,0,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,N,1,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,N,2,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,N,3,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jafna three times today.,0.091
+m3l23,low,SAD,0,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,SAD,1,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,SAD,2,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,SAD,3,I looked at the bus times to Jaffna three times today.,PASS,I looked the bus times to Jaffna three times today.,0.091
+m3l23,low,MEL,0,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,MEL,1,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,MEL,2,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,MEL,3,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,EA,0,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,EA,1,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,EA,2,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,EA,3,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l49,low,N,0,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,N,1,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,N,2,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,N,3,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,SAD,0,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,SAD,1,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,SAD,2,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,SAD,3,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,MEL,0,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,MEL,1,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,MEL,2,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,MEL,3,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,EA,0,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,EA,1,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,EA,2,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,EA,3,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l56,low,N,0,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,N,1,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,N,2,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,N,3,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,SAD,0,Nobody remembered my birthday this year… except Priya.,PASS,Nobody remembered my birthday this year. Except Priya.,0.0
+m3l56,low,SAD,1,Nobody remembered my birthday this year… except Priya.,PASS,Nobody remembered my birthday this year. Except Priya.,0.0
+m3l56,low,SAD,2,Nobody remembered my birthday this year… except Priya.,PASS,Nobody remembered my birthday this year. Except Priya.,0.0
+m3l56,low,SAD,3,Nobody remembered my birthday this year… except Priya.,PASS,Nobody remembered my birthday this year. Except Priya.,0.0
+m3l56,low,MEL,0,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,MEL,1,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,MEL,2,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,MEL,3,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,EA,0,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,EA,1,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,EA,2,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,EA,3,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l66,low,N,0,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one potty liked.",0.1
+m3l66,low,N,1,I watched an old film tonight… the one Paati liked.,fail,"I watched an old film tonight, The One Potty Light.",0.2
+m3l66,low,N,2,I watched an old film tonight… the one Paati liked.,fail,"I watched an old film tonight, The One Potty Like.",0.2
+m3l66,low,N,3,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Papati liked.",0.1
+m3l66,low,SAD,0,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Papati liked.",0.1
+m3l66,low,SAD,1,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Papadi liked.",0.1
+m3l66,low,SAD,2,I watched an old film tonight… the one Paati liked.,PASS,I watched an old film tonight. The one Papati liked.,0.1
+m3l66,low,SAD,3,I watched an old film tonight… the one Paati liked.,PASS,I watched an old film tonight. The one Papati liked.,0.1
+m3l66,low,MEL,0,I watched an old film tonight… the one Paati liked.,PASS,I watched an old film tonight. The one Papati liked.,0.1
+m3l66,low,MEL,1,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Papati liked.",0.1
+m3l66,low,MEL,2,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Papati liked.",0.1
+m3l66,low,MEL,3,I watched an old film tonight… the one Paati liked.,PASS,I watched an old film tonight. The one Papati liked.,0.1
+m3l66,low,EA,0,I watched an old film tonight… the one Paati liked.,fail,"I watched an old film tonight, The One Putty Like.",0.2
+m3l66,low,EA,1,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Potati liked.",0.1
+m3l66,low,EA,2,I watched an old film tonight… the one Paati liked.,fail,"I watched an old film tonight, The One Putty Light.",0.2
+m3l66,low,EA,3,I watched an old film tonight… the one Paati liked.,fail,"I watched an old film tonight, The One Papati Light.",0.2
+m3l32,low,N,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,N,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aran asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,N,2,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aaron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,N,3,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aaron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,SAD,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,SAD,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,SAD,2,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aaron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,SAD,3,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,MEL,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aaron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,MEL,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,MEL,2,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,MEL,3,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,EA,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aaron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,EA,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Uran asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,EA,2,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,EA,3,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167

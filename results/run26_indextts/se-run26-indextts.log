@@ -1,0 +1,152 @@
+[{"stream_name":"stdout","time":1.5144774810000001,"data":"[  0.0 min] $ ffmpeg -loglevel error -y -i spk_tara.mp3 -ar 24000 -ac 1 spk_tara.wav \u0026\u0026 ffmpeg -loglevel error -y -i emo_sad.mp3 -ar 24000 -ac 1 emo_sad.wav\n"}
+,{"stream_name":"stdout","time":2.401490915,"data":"[  0.0 min] $ git clone -q --depth 1 https://github.com/index-tts/index-tts.git /tmp/itts \u0026\u0026 cd /tmp/itts \u0026\u0026 git lfs pull 2\u003e/dev/null; true\n"}
+,{"stream_name":"stdout","time":4.522633658,"data":"[  0.1 min] $ pip install -q -U uv 'huggingface_hub[cli]'\n"}
+,{"stream_name":"stdout","time":11.250599601,"data":"[  0.2 min] $ uv sync\n"}
+,{"stream_name":"stdout","time":243.198372959,"data":"[  4.0 min] $ python -c \"from huggingface_hub import snapshot_download; snapshot_download('IndexTeam/IndexTTS-2', local_dir='/tmp/itts/checkpoints_2')\"\n"}
+,{"stream_name":"stdout","time":268.580779379,"data":"[  4.5 min] $ PYTHONPATH=. uv run python gen.py\n"}
+,{"stream_name":"stdout","time":1435.663875351,"data":"[ 23.9 min] generation done: 128 ok, 0 failed\n"}
+,{"stream_name":"stdout","time":1435.665052005,"data":"[ 23.9 min] $ pip install -q 'transformers==4.57.6' jiwer librosa soundfile\n"}
+,{"stream_name":"stderr","time":1482.906670858,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":1482.906723947,"data":"I0000 00:00:1795232817.330971       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":1492.294942958,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":1505.291400611,"data":"Device set to use cuda:0\n"}
+,{"stream_name":"stdout","time":1505.952293236,"data":"[ 25.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_N_0.wav -b:a 96k /kaggle/working/takes/m3l50_N_0.mp3\n"}
+,{"stream_name":"stderr","time":1506.701479218,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":1506.709405584,"data":"Using custom `forced_decoder_ids` from the (generation) config. This is deprecated in favor of the `task` and `language` flags/config options.\n"}
+,{"stream_name":"stderr","time":1506.709428197,"data":"Transcription using a multilingual Whisper will default to language detection followed by transcription instead of translation to English. This might be a breaking change for your use case. If you want to instead always translate your audio to English, make sure to pass `language='en'`. See https://github.com/huggingface/transformers/pull/28687 for more details.\n"}
+,{"stream_name":"stdout","time":1511.95755358,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_N_1.wav -b:a 96k /kaggle/working/takes/m3l50_N_1.mp3\n"}
+,{"stream_name":"stdout","time":1512.67628241,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_N_2.wav -b:a 96k /kaggle/working/takes/m3l50_N_2.mp3\n"}
+,{"stream_name":"stdout","time":1513.392750415,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_N_3.wav -b:a 96k /kaggle/working/takes/m3l50_N_3.mp3\n"}
+,{"stream_name":"stdout","time":1514.115170645,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_SAD_0.wav -b:a 96k /kaggle/working/takes/m3l50_SAD_0.mp3\n"}
+,{"stream_name":"stdout","time":1514.83884435,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_SAD_1.wav -b:a 96k /kaggle/working/takes/m3l50_SAD_1.mp3\n"}
+,{"stream_name":"stdout","time":1515.565436604,"data":"[ 25.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_SAD_2.wav -b:a 96k /kaggle/working/takes/m3l50_SAD_2.mp3\n"}
+,{"stream_name":"stdout","time":1516.302091235,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_SAD_3.wav -b:a 96k /kaggle/working/takes/m3l50_SAD_3.mp3\n"}
+,{"stream_name":"stdout","time":1517.03200923,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_MEL_0.wav -b:a 96k /kaggle/working/takes/m3l50_MEL_0.mp3\n"}
+,{"stream_name":"stdout","time":1517.752274435,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_MEL_1.wav -b:a 96k /kaggle/working/takes/m3l50_MEL_1.mp3\n"}
+,{"stream_name":"stdout","time":1518.48677352,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_MEL_2.wav -b:a 96k /kaggle/working/takes/m3l50_MEL_2.mp3\n"}
+,{"stream_name":"stderr","time":1518.639452505,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":1519.216018385,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_MEL_3.wav -b:a 96k /kaggle/working/takes/m3l50_MEL_3.mp3\n"}
+,{"stream_name":"stdout","time":1519.963395952,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_EA_0.wav -b:a 96k /kaggle/working/takes/m3l50_EA_0.mp3\n"}
+,{"stream_name":"stdout","time":1520.702272764,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_EA_1.wav -b:a 96k /kaggle/working/takes/m3l50_EA_1.mp3\n"}
+,{"stream_name":"stdout","time":1521.445023268,"data":"[ 25.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_EA_2.wav -b:a 96k /kaggle/working/takes/m3l50_EA_2.mp3\n"}
+,{"stream_name":"stdout","time":1522.176316739,"data":"[ 25.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l50_EA_3.wav -b:a 96k /kaggle/working/takes/m3l50_EA_3.mp3\n"}
+,{"stream_name":"stdout","time":1522.906789907,"data":"[ 25.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_N_0.wav -b:a 96k /kaggle/working/takes/m3l10_N_0.mp3\n"}
+,{"stream_name":"stdout","time":1523.649261676,"data":"[ 25.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_N_1.wav -b:a 96k /kaggle/working/takes/m3l10_N_1.mp3\n"}
+,{"stream_name":"stdout","time":1524.395337212,"data":"[ 25.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_N_2.wav -b:a 96k /kaggle/working/takes/m3l10_N_2.mp3\n"}
+,{"stream_name":"stdout","time":1525.13445891,"data":"[ 25.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_N_3.wav -b:a 96k /kaggle/working/takes/m3l10_N_3.mp3\n"}
+,{"stream_name":"stdout","time":1525.881432279,"data":"[ 25.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_SAD_0.wav -b:a 96k /kaggle/working/takes/m3l10_SAD_0.mp3\n"}
+,{"stream_name":"stdout","time":1526.6559757,"data":"[ 25.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_SAD_1.wav -b:a 96k /kaggle/working/takes/m3l10_SAD_1.mp3\n"}
+,{"stream_name":"stdout","time":1527.392196165,"data":"[ 25.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_SAD_2.wav -b:a 96k /kaggle/working/takes/m3l10_SAD_2.mp3\n"}
+,{"stream_name":"stdout","time":1528.158789585,"data":"[ 25.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_SAD_3.wav -b:a 96k /kaggle/working/takes/m3l10_SAD_3.mp3\n"}
+,{"stream_name":"stdout","time":1528.92913211,"data":"[ 25.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_MEL_0.wav -b:a 96k /kaggle/working/takes/m3l10_MEL_0.mp3\n"}
+,{"stream_name":"stdout","time":1529.708866309,"data":"[ 25.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_MEL_1.wav -b:a 96k /kaggle/working/takes/m3l10_MEL_1.mp3\n"}
+,{"stream_name":"stdout","time":1530.499657582,"data":"[ 25.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_MEL_2.wav -b:a 96k /kaggle/working/takes/m3l10_MEL_2.mp3\n"}
+,{"stream_name":"stdout","time":1531.276141578,"data":"[ 25.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_MEL_3.wav -b:a 96k /kaggle/working/takes/m3l10_MEL_3.mp3\n"}
+,{"stream_name":"stdout","time":1532.026562538,"data":"[ 25.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_EA_0.wav -b:a 96k /kaggle/working/takes/m3l10_EA_0.mp3\n"}
+,{"stream_name":"stdout","time":1532.779082037,"data":"[ 25.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_EA_1.wav -b:a 96k /kaggle/working/takes/m3l10_EA_1.mp3\n"}
+,{"stream_name":"stdout","time":1533.53069651,"data":"[ 25.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_EA_2.wav -b:a 96k /kaggle/working/takes/m3l10_EA_2.mp3\n"}
+,{"stream_name":"stdout","time":1534.279684963,"data":"[ 25.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l10_EA_3.wav -b:a 96k /kaggle/working/takes/m3l10_EA_3.mp3\n"}
+,{"stream_name":"stdout","time":1535.041370033,"data":"[ 25.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_N_0.wav -b:a 96k /kaggle/working/takes/m3l22_N_0.mp3\n"}
+,{"stream_name":"stdout","time":1535.801063515,"data":"[ 25.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_N_1.wav -b:a 96k /kaggle/working/takes/m3l22_N_1.mp3\n"}
+,{"stream_name":"stdout","time":1536.539435291,"data":"[ 25.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_N_2.wav -b:a 96k /kaggle/working/takes/m3l22_N_2.mp3\n"}
+,{"stream_name":"stdout","time":1537.297994873,"data":"[ 25.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_N_3.wav -b:a 96k /kaggle/working/takes/m3l22_N_3.mp3\n"}
+,{"stream_name":"stdout","time":1538.050560702,"data":"[ 25.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_SAD_0.wav -b:a 96k /kaggle/working/takes/m3l22_SAD_0.mp3\n"}
+,{"stream_name":"stdout","time":1538.84311733,"data":"[ 25.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_SAD_1.wav -b:a 96k /kaggle/working/takes/m3l22_SAD_1.mp3\n"}
+,{"stream_name":"stdout","time":1539.614844976,"data":"[ 25.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_SAD_2.wav -b:a 96k /kaggle/working/takes/m3l22_SAD_2.mp3\n"}
+,{"stream_name":"stdout","time":1540.392414558,"data":"[ 25.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_SAD_3.wav -b:a 96k /kaggle/working/takes/m3l22_SAD_3.mp3\n"}
+,{"stream_name":"stdout","time":1541.186397473,"data":"[ 25.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_MEL_0.wav -b:a 96k /kaggle/working/takes/m3l22_MEL_0.mp3\n"}
+,{"stream_name":"stdout","time":1541.976484268,"data":"[ 25.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_MEL_1.wav -b:a 96k /kaggle/working/takes/m3l22_MEL_1.mp3\n"}
+,{"stream_name":"stdout","time":1542.765222306,"data":"[ 25.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_MEL_2.wav -b:a 96k /kaggle/working/takes/m3l22_MEL_2.mp3\n"}
+,{"stream_name":"stdout","time":1543.547008561,"data":"[ 25.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_MEL_3.wav -b:a 96k /kaggle/working/takes/m3l22_MEL_3.mp3\n"}
+,{"stream_name":"stdout","time":1544.333042893,"data":"[ 25.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_EA_0.wav -b:a 96k /kaggle/working/takes/m3l22_EA_0.mp3\n"}
+,{"stream_name":"stdout","time":1545.09826368,"data":"[ 25.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_EA_1.wav -b:a 96k /kaggle/working/takes/m3l22_EA_1.mp3\n"}
+,{"stream_name":"stdout","time":1545.870432793,"data":"[ 25.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_EA_2.wav -b:a 96k /kaggle/working/takes/m3l22_EA_2.mp3\n"}
+,{"stream_name":"stdout","time":1546.642135881,"data":"[ 25.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l22_EA_3.wav -b:a 96k /kaggle/working/takes/m3l22_EA_3.mp3\n"}
+,{"stream_name":"stdout","time":1547.413070892,"data":"[ 25.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_N_0.wav -b:a 96k /kaggle/working/takes/m3l23_N_0.mp3\n"}
+,{"stream_name":"stdout","time":1548.16089035,"data":"[ 25.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_N_1.wav -b:a 96k /kaggle/working/takes/m3l23_N_1.mp3\n"}
+,{"stream_name":"stdout","time":1548.903975307,"data":"[ 25.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_N_2.wav -b:a 96k /kaggle/working/takes/m3l23_N_2.mp3\n"}
+,{"stream_name":"stdout","time":1549.609759485,"data":"[ 25.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_N_3.wav -b:a 96k /kaggle/working/takes/m3l23_N_3.mp3\n"}
+,{"stream_name":"stdout","time":1550.352392849,"data":"[ 25.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_SAD_0.wav -b:a 96k /kaggle/working/takes/m3l23_SAD_0.mp3\n"}
+,{"stream_name":"stdout","time":1551.137874867,"data":"[ 25.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_SAD_1.wav -b:a 96k /kaggle/working/takes/m3l23_SAD_1.mp3\n"}
+,{"stream_name":"stdout","time":1551.959052818,"data":"[ 25.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_SAD_2.wav -b:a 96k /kaggle/working/takes/m3l23_SAD_2.mp3\n"}
+,{"stream_name":"stdout","time":1552.720153335,"data":"[ 25.9 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_SAD_3.wav -b:a 96k /kaggle/working/takes/m3l23_SAD_3.mp3\n"}
+,{"stream_name":"stdout","time":1553.494112658,"data":"[ 25.9 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_MEL_0.wav -b:a 96k /kaggle/working/takes/m3l23_MEL_0.mp3\n"}
+,{"stream_name":"stdout","time":1554.274483157,"data":"[ 25.9 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_MEL_1.wav -b:a 96k /kaggle/working/takes/m3l23_MEL_1.mp3\n"}
+,{"stream_name":"stdout","time":1555.072170254,"data":"[ 25.9 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_MEL_2.wav -b:a 96k /kaggle/working/takes/m3l23_MEL_2.mp3\n"}
+,{"stream_name":"stdout","time":1555.839263391,"data":"[ 25.9 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_MEL_3.wav -b:a 96k /kaggle/working/takes/m3l23_MEL_3.mp3\n"}
+,{"stream_name":"stdout","time":1556.632664991,"data":"[ 25.9 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_EA_0.wav -b:a 96k /kaggle/working/takes/m3l23_EA_0.mp3\n"}
+,{"stream_name":"stdout","time":1557.394206333,"data":"[ 25.9 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_EA_1.wav -b:a 96k /kaggle/working/takes/m3l23_EA_1.mp3\n"}
+,{"stream_name":"stdout","time":1558.141617728,"data":"[ 26.0 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_EA_2.wav -b:a 96k /kaggle/working/takes/m3l23_EA_2.mp3\n"}
+,{"stream_name":"stdout","time":1558.899513763,"data":"[ 26.0 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l23_EA_3.wav -b:a 96k /kaggle/working/takes/m3l23_EA_3.mp3\n"}
+,{"stream_name":"stdout","time":1559.653254068,"data":"[ 26.0 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_N_0.wav -b:a 96k /kaggle/working/takes/m3l49_N_0.mp3\n"}
+,{"stream_name":"stdout","time":1560.42593849,"data":"[ 26.0 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_N_1.wav -b:a 96k /kaggle/working/takes/m3l49_N_1.mp3\n"}
+,{"stream_name":"stdout","time":1561.22003041,"data":"[ 26.0 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_N_2.wav -b:a 96k /kaggle/working/takes/m3l49_N_2.mp3\n"}
+,{"stream_name":"stdout","time":1561.995021687,"data":"[ 26.0 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_N_3.wav -b:a 96k /kaggle/working/takes/m3l49_N_3.mp3\n"}
+,{"stream_name":"stdout","time":1562.765948122,"data":"[ 26.0 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_SAD_0.wav -b:a 96k /kaggle/working/takes/m3l49_SAD_0.mp3\n"}
+,{"stream_name":"stdout","time":1563.553289504,"data":"[ 26.0 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_SAD_1.wav -b:a 96k /kaggle/working/takes/m3l49_SAD_1.mp3\n"}
+,{"stream_name":"stdout","time":1564.349262962,"data":"[ 26.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_SAD_2.wav -b:a 96k /kaggle/working/takes/m3l49_SAD_2.mp3\n"}
+,{"stream_name":"stdout","time":1565.159300307,"data":"[ 26.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_SAD_3.wav -b:a 96k /kaggle/working/takes/m3l49_SAD_3.mp3\n"}
+,{"stream_name":"stdout","time":1565.964444186,"data":"[ 26.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_MEL_0.wav -b:a 96k /kaggle/working/takes/m3l49_MEL_0.mp3\n"}
+,{"stream_name":"stdout","time":1566.761648268,"data":"[ 26.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_MEL_1.wav -b:a 96k /kaggle/working/takes/m3l49_MEL_1.mp3\n"}
+,{"stream_name":"stdout","time":1567.55075591,"data":"[ 26.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_MEL_2.wav -b:a 96k /kaggle/working/takes/m3l49_MEL_2.mp3\n"}
+,{"stream_name":"stdout","time":1568.350732113,"data":"[ 26.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_MEL_3.wav -b:a 96k /kaggle/working/takes/m3l49_MEL_3.mp3\n"}
+,{"stream_name":"stdout","time":1569.146871474,"data":"[ 26.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_EA_0.wav -b:a 96k /kaggle/working/takes/m3l49_EA_0.mp3\n"}
+,{"stream_name":"stdout","time":1569.929501404,"data":"[ 26.1 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_EA_1.wav -b:a 96k /kaggle/working/takes/m3l49_EA_1.mp3\n"}
+,{"stream_name":"stdout","time":1570.733695238,"data":"[ 26.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_EA_2.wav -b:a 96k /kaggle/working/takes/m3l49_EA_2.mp3\n"}
+,{"stream_name":"stdout","time":1571.548976803,"data":"[ 26.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l49_EA_3.wav -b:a 96k /kaggle/working/takes/m3l49_EA_3.mp3\n"}
+,{"stream_name":"stdout","time":1572.338724342,"data":"[ 26.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_N_0.wav -b:a 96k /kaggle/working/takes/m3l56_N_0.mp3\n"}
+,{"stream_name":"stdout","time":1573.027594767,"data":"[ 26.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_N_1.wav -b:a 96k /kaggle/working/takes/m3l56_N_1.mp3\n"}
+,{"stream_name":"stdout","time":1573.752159672,"data":"[ 26.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_N_2.wav -b:a 96k /kaggle/working/takes/m3l56_N_2.mp3\n"}
+,{"stream_name":"stdout","time":1574.488256975,"data":"[ 26.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_N_3.wav -b:a 96k /kaggle/working/takes/m3l56_N_3.mp3\n"}
+,{"stream_name":"stdout","time":1575.210169754,"data":"[ 26.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_SAD_0.wav -b:a 96k /kaggle/working/takes/m3l56_SAD_0.mp3\n"}
+,{"stream_name":"stdout","time":1575.94411185,"data":"[ 26.2 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_SAD_1.wav -b:a 96k /kaggle/working/takes/m3l56_SAD_1.mp3\n"}
+,{"stream_name":"stdout","time":1576.689029159,"data":"[ 26.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_SAD_2.wav -b:a 96k /kaggle/working/takes/m3l56_SAD_2.mp3\n"}
+,{"stream_name":"stdout","time":1577.445099632,"data":"[ 26.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_SAD_3.wav -b:a 96k /kaggle/working/takes/m3l56_SAD_3.mp3\n"}
+,{"stream_name":"stdout","time":1578.194094042,"data":"[ 26.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_MEL_0.wav -b:a 96k /kaggle/working/takes/m3l56_MEL_0.mp3\n"}
+,{"stream_name":"stdout","time":1578.925774648,"data":"[ 26.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_MEL_1.wav -b:a 96k /kaggle/working/takes/m3l56_MEL_1.mp3\n"}
+,{"stream_name":"stdout","time":1579.66164647,"data":"[ 26.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_MEL_2.wav -b:a 96k /kaggle/working/takes/m3l56_MEL_2.mp3\n"}
+,{"stream_name":"stdout","time":1580.407798119,"data":"[ 26.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_MEL_3.wav -b:a 96k /kaggle/working/takes/m3l56_MEL_3.mp3\n"}
+,{"stream_name":"stdout","time":1581.150347821,"data":"[ 26.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_EA_0.wav -b:a 96k /kaggle/working/takes/m3l56_EA_0.mp3\n"}
+,{"stream_name":"stdout","time":1581.870145603,"data":"[ 26.3 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_EA_1.wav -b:a 96k /kaggle/working/takes/m3l56_EA_1.mp3\n"}
+,{"stream_name":"stdout","time":1582.632439675,"data":"[ 26.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_EA_2.wav -b:a 96k /kaggle/working/takes/m3l56_EA_2.mp3\n"}
+,{"stream_name":"stdout","time":1583.35393715,"data":"[ 26.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l56_EA_3.wav -b:a 96k /kaggle/working/takes/m3l56_EA_3.mp3\n"}
+,{"stream_name":"stdout","time":1584.08589015,"data":"[ 26.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_N_0.wav -b:a 96k /kaggle/working/takes/m3l66_N_0.mp3\n"}
+,{"stream_name":"stdout","time":1584.794584838,"data":"[ 26.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_N_1.wav -b:a 96k /kaggle/working/takes/m3l66_N_1.mp3\n"}
+,{"stream_name":"stdout","time":1585.539082237,"data":"[ 26.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_N_2.wav -b:a 96k /kaggle/working/takes/m3l66_N_2.mp3\n"}
+,{"stream_name":"stdout","time":1586.267593679,"data":"[ 26.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_N_3.wav -b:a 96k /kaggle/working/takes/m3l66_N_3.mp3\n"}
+,{"stream_name":"stdout","time":1586.997409552,"data":"[ 26.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_SAD_0.wav -b:a 96k /kaggle/working/takes/m3l66_SAD_0.mp3\n"}
+,{"stream_name":"stdout","time":1587.764709858,"data":"[ 26.4 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_SAD_1.wav -b:a 96k /kaggle/working/takes/m3l66_SAD_1.mp3\n"}
+,{"stream_name":"stdout","time":1588.529050009,"data":"[ 26.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_SAD_2.wav -b:a 96k /kaggle/working/takes/m3l66_SAD_2.mp3\n"}
+,{"stream_name":"stdout","time":1589.305434264,"data":"[ 26.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_SAD_3.wav -b:a 96k /kaggle/working/takes/m3l66_SAD_3.mp3\n"}
+,{"stream_name":"stdout","time":1590.057125796,"data":"[ 26.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_MEL_0.wav -b:a 96k /kaggle/working/takes/m3l66_MEL_0.mp3\n"}
+,{"stream_name":"stdout","time":1590.816754115,"data":"[ 26.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_MEL_1.wav -b:a 96k /kaggle/working/takes/m3l66_MEL_1.mp3\n"}
+,{"stream_name":"stdout","time":1591.602082041,"data":"[ 26.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_MEL_2.wav -b:a 96k /kaggle/working/takes/m3l66_MEL_2.mp3\n"}
+,{"stream_name":"stdout","time":1592.337544404,"data":"[ 26.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_MEL_3.wav -b:a 96k /kaggle/working/takes/m3l66_MEL_3.mp3\n"}
+,{"stream_name":"stdout","time":1593.10662079,"data":"[ 26.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_EA_0.wav -b:a 96k /kaggle/working/takes/m3l66_EA_0.mp3\n"}
+,{"stream_name":"stdout","time":1593.856096088,"data":"[ 26.5 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_EA_1.wav -b:a 96k /kaggle/working/takes/m3l66_EA_1.mp3\n"}
+,{"stream_name":"stdout","time":1594.605185861,"data":"[ 26.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_EA_2.wav -b:a 96k /kaggle/working/takes/m3l66_EA_2.mp3\n"}
+,{"stream_name":"stdout","time":1595.323296043,"data":"[ 26.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l66_EA_3.wav -b:a 96k /kaggle/working/takes/m3l66_EA_3.mp3\n"}
+,{"stream_name":"stdout","time":1596.054389425,"data":"[ 26.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_N_0.wav -b:a 96k /kaggle/working/takes/m3l32_N_0.mp3\n"}
+,{"stream_name":"stdout","time":1596.830006956,"data":"[ 26.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_N_1.wav -b:a 96k /kaggle/working/takes/m3l32_N_1.mp3\n"}
+,{"stream_name":"stdout","time":1597.599025343,"data":"[ 26.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_N_2.wav -b:a 96k /kaggle/working/takes/m3l32_N_2.mp3\n"}
+,{"stream_name":"stdout","time":1598.381669456,"data":"[ 26.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_N_3.wav -b:a 96k /kaggle/working/takes/m3l32_N_3.mp3\n"}
+,{"stream_name":"stdout","time":1599.16909765,"data":"[ 26.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_SAD_0.wav -b:a 96k /kaggle/working/takes/m3l32_SAD_0.mp3\n"}
+,{"stream_name":"stdout","time":1599.962458221,"data":"[ 26.6 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_SAD_1.wav -b:a 96k /kaggle/working/takes/m3l32_SAD_1.mp3\n"}
+,{"stream_name":"stdout","time":1600.779276837,"data":"[ 26.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_SAD_2.wav -b:a 96k /kaggle/working/takes/m3l32_SAD_2.mp3\n"}
+,{"stream_name":"stdout","time":1601.603711807,"data":"[ 26.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_SAD_3.wav -b:a 96k /kaggle/working/takes/m3l32_SAD_3.mp3\n"}
+,{"stream_name":"stdout","time":1602.389286949,"data":"[ 26.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_MEL_0.wav -b:a 96k /kaggle/working/takes/m3l32_MEL_0.mp3\n"}
+,{"stream_name":"stdout","time":1603.193857673,"data":"[ 26.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_MEL_1.wav -b:a 96k /kaggle/working/takes/m3l32_MEL_1.mp3\n"}
+,{"stream_name":"stdout","time":1603.98763118,"data":"[ 26.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_MEL_2.wav -b:a 96k /kaggle/working/takes/m3l32_MEL_2.mp3\n"}
+,{"stream_name":"stdout","time":1604.775801651,"data":"[ 26.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_MEL_3.wav -b:a 96k /kaggle/working/takes/m3l32_MEL_3.mp3\n"}
+,{"stream_name":"stdout","time":1605.568520331,"data":"[ 26.7 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_EA_0.wav -b:a 96k /kaggle/working/takes/m3l32_EA_0.mp3\n"}
+,{"stream_name":"stdout","time":1606.326990137,"data":"[ 26.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_EA_1.wav -b:a 96k /kaggle/working/takes/m3l32_EA_1.mp3\n"}
+,{"stream_name":"stdout","time":1607.082958915,"data":"[ 26.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_EA_2.wav -b:a 96k /kaggle/working/takes/m3l32_EA_2.mp3\n"}
+,{"stream_name":"stdout","time":1607.846975536,"data":"[ 26.8 min] $ ffmpeg -loglevel error -y -i /kaggle/working/raw_m3l32_EA_3.wav -b:a 96k /kaggle/working/takes/m3l32_EA_3.mp3\n"}
+,{"stream_name":"stdout","time":1608.618955784,"data":"[ 26.8 min] 128 takes, 75 with right words\n"}
+,{"stream_name":"stderr","time":1616.797854815,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1616.797884556,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1617.018995858,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1617.019022329,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1617.78612845,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1618.317596899,"data":"[NbConvertApp] Writing 297925 bytes to __results__.html\n"}
+]
