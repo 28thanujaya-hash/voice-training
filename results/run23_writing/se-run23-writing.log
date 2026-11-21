@@ -1,0 +1,28 @@
+[{"stream_name":"stdout","time":1.23681302,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe praat-parselmouth cmudict num2words\n"}
+,{"stream_name":"stderr","time":65.560542694,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":65.560579891,"data":"I0000 00:00:1795220251.273351       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":72.454916773,"data":"[  1.2 min] device cuda:0/cuda:1\n"}
+,{"stream_name":"stderr","time":78.093031154,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":78.093068359,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stderr","time":91.36766369,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":115.503224474,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:23\u003c00:23, 23.96s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:23\u003c00:00, 11.98s/it]\n"}
+,{"stream_name":"stderr","time":131.844222637,"data":"\rLoading checkpoint shards:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rLoading checkpoint shards:  50%|█████     | 1/2 [00:03\u003c00:03,  3.17s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  1.97s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  2.15s/it]\n"}
+,{"stream_name":"stderr","time":135.805821217,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":146.904659016,"data":"Device set to use cuda:1\n"}
+,{"stream_name":"stdout","time":168.175842181,"data":"[  2.8 min] context tokens: {'low': 199}\n"}
+,{"stream_name":"stdout","time":259.232241658,"data":"[  4.3 min] recorded low O\n"}
+,{"stream_name":"stderr","time":261.898980212,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":278.33484089,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":384.23956827,"data":"[  6.4 min] recorded low R\n"}
+,{"stream_name":"stdout","time":501.751632998,"data":"[  8.3 min] recorded normal O\n"}
+,{"stream_name":"stdout","time":630.636147467,"data":"[ 10.5 min] recorded normal R\n"}
+,{"stream_name":"stdout","time":665.594500129,"data":"[ 11.1 min] 96 takes done\n"}
+,{"stream_name":"stderr","time":665.598572267,"data":"/kaggle/src/script.py:175: RuntimeWarning: All-NaN slice encountered\n"}
+,{"stream_name":"stderr","time":665.598591943,"data":"  md = lambda k: np.nanmedian([r.get(k, np.nan) for r in s_]) if s_ else np.nan\n"}
+,{"stream_name":"stderr","time":676.149040568,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":676.149068899,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":676.461362217,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":676.46138972,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":677.326138814,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":678.194974962,"data":"[NbConvertApp] Writing 462343 bytes to __results__.html\n"}
+]
