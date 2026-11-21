@@ -1,0 +1,31 @@
+[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe praat-parselmouth cmudict num2words
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795254728.803955    2415 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795254731.974016    2415 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+[  0.9 min] device cuda:0/cuda:0
+Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]
+Fetching 2 files:  50%|█████     | 1/2 [01:16<01:16, 76.55s/it]
+Fetching 2 files: 100%|██████████| 2/2 [01:16<00:00, 38.28s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:20<00:20, 20.70s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:27<00:00, 12.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:27<00:00, 13.74s/it]
+/usr/local/lib/python3.13/dist-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+`torch_dtype` is deprecated! Use `dtype` instead!
+Device set to use cuda:0
+[  5.0 min] context tokens: {'A': 199}
+[ 11.7 min] recorded low S1
+`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.
+You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+[ 23.6 min] recorded low S2
+[ 24.5 min] 64 takes done
+/content/vt/kaggle/jobs/run30_short/run.py:169: RuntimeWarning: All-NaN slice encountered
+  md = lambda k: np.nanmedian([r.get(k, np.nan) for r in s_]) if s_ else np.nan
