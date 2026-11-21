@@ -1,0 +1,24 @@
+name: Kaggle stop
+# Stops a running Kaggle job by deleting its notebook (the Kaggle tool has no cancel). Use only when the user asks to stop a job.
+on:
+  workflow_dispatch:
+    inputs:
+      job: { description: 'job name, e.g. big_low_1 (notebook se-big-low-1)', required: true }
+jobs:
+  stop:
+    runs-on: ubuntu-latest
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+      KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+    steps:
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: |
+          pip install -q --upgrade kaggle six
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          U="$KAGGLE_USERNAME"; [ -z "$U" ] && U=$(python -c "from kaggle.api.kaggle_api_extended import KaggleApi; a=KaggleApi(); a.authenticate(); print(a.get_config_value('username'))")
+          S="se-$(echo '${{ inputs.job }}' | tr '_' '-')"
+          kaggle kernels status "$U/$S" || true
+          kaggle kernels delete "$U/$S" -y && echo "deleted $S"
+          sleep 20; kaggle kernels status "$U/$S" || echo "gone"
