@@ -86,6 +86,13 @@
     "mean": 0.223,
     "median": 0.147,
     "pass_pct": 13
+   },
+   {
+    "method": "Full scene: Anne picnic joy (run31)",
+    "n": 32,
+    "mean": 0.403,
+    "median": 0.385,
+    "pass_pct": 31
    }
   ],
   "tense": [
