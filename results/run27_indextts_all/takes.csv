@@ -1,0 +1,289 @@
+id,mood,var,take,text,status,heard,wer
+m3b31,bright,V,0,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b31,bright,V,1,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b31,bright,V,2,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b31,bright,T,0,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b31,bright,T,1,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b31,bright,T,2,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b31,bright,A,0,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b31,bright,A,1,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b31,bright,A,2,Sam passed his driving test! He called me the moment he got out!,PASS,Sam passed his driving test. He called me the moment he got out.,0.0
+m3b74,bright,V,0,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees! That is exactly what I needed for the trip!",0.417
+m3b74,bright,V,1,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees. That is exactly what I needed for the trip.",0.417
+m3b74,bright,V,2,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees! That is exactly what I needed for the trip!",0.417
+m3b74,bright,T,0,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees? That is exactly what I needed for the trip.",0.417
+m3b74,bright,T,1,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees. That is exactly what I needed for the trip.",0.417
+m3b74,bright,T,2,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees. That is exactly what I needed for the trip.",0.417
+m3b74,bright,A,0,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees. That is exactly what I needed for the trip.",0.417
+m3b74,bright,A,1,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees. That is exactly what I needed for the trip.",0.417
+m3b74,bright,A,2,Twenty-two thousand rupees! That's exactly what I needed for the trip!,fail,"22,000 rupees? That is exactly what I needed for the trip.",0.417
+m3xb10,bright,V,0,I know what we'll do — let's go to the beach!,PASS,I know what we'll do. Let's go to the beach.,0.0
+m3xb10,bright,V,1,I know what we'll do — let's go to the beach!,PASS,I know what we'll do. Let's go to the beach.,0.0
+m3xb10,bright,V,2,I know what we'll do — let's go to the beach!,PASS,I know what we'll do. Let's go to the beach.,0.0
+m3xb10,bright,T,0,I know what we'll do — let's go to the beach!,PASS,I know what we'll do. Let's go to the beach.,0.0
+m3xb10,bright,T,1,I know what we'll do — let's go to the beach!,PASS,I know what we'll do. Let's go to the beach.,0.0
+m3xb10,bright,T,2,I know what we'll do — let's go to the beach!,PASS,I know what we'll do. Let's go to the beach.,0.0
+m3xb10,bright,A,0,I know what we'll do — let's go to the beach!,PASS,I know what we'll do. Let's go to the beach.,0.0
+m3xb10,bright,A,1,I know what we'll do — let's go to the beach!,PASS,I know what we'll do. Let's go to the beach.,0.0
+m3xb10,bright,A,2,I know what we'll do — let's go to the beach!,fail,I know it will do! Let's go to the beach!,0.2
+m3b51,bright,V,0,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it. Say it like that every time.",0.222
+m3b51,bright,V,1,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it! Say it like that every time!",0.222
+m3b51,bright,V,2,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it. Say it like that every time.",0.222
+m3b51,bright,T,0,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it. Say it like that every time.",0.222
+m3b51,bright,T,1,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it. Say it like that every time.",0.222
+m3b51,bright,T,2,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it. Say it like that every time.",0.222
+m3b51,bright,A,0,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it. Say it like that every time.",0.222
+m3b51,bright,A,1,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it. Say it like that every time.",0.222
+m3b51,bright,A,2,"Yes, that's it! Say it like that every time!",fail,"Yes, that is it. Say it like that every time.",0.222
+m3b12,bright,V,0,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b12,bright,V,1,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b12,bright,V,2,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b12,bright,T,0,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b12,bright,T,1,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b12,bright,T,2,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b12,bright,A,0,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b12,bright,A,1,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b12,bright,A,2,Much better! I understood every word that time!,PASS,Much better. I understood every word that time.,0.0
+m3b41,bright,V,0,Seriously? That's the best news this week!,fail,"Seriously, that is the best news this week.",0.286
+m3b41,bright,V,1,Seriously? That's the best news this week!,fail,Seriously? That is the best news this week!,0.286
+m3b41,bright,V,2,Seriously? That's the best news this week!,fail,"Seriously, that is the best news this week!",0.286
+m3b41,bright,T,0,Seriously? That's the best news this week!,fail,"Seriously, that is the best news this week.",0.286
+m3b41,bright,T,1,Seriously? That's the best news this week!,fail,"Seriously, that is the best news this week.",0.286
+m3b41,bright,T,2,Seriously? That's the best news this week!,fail,"Seriously, that is the best news this week.",0.286
+m3b41,bright,A,0,Seriously? That's the best news this week!,fail,"Seriously, that is the best news this week.",0.286
+m3b41,bright,A,1,Seriously? That's the best news this week!,fail,"Seriously, that is the best news this week.",0.286
+m3b41,bright,A,2,Seriously? That's the best news this week!,fail,"Seriously, that is the best news this week.",0.286
+m3b44,bright,V,0,You're joking! Both of you?!,fail,You are joking? Both of you!,0.4
+m3b44,bright,V,1,You're joking! Both of you?!,fail,You are joking! Both of you!,0.4
+m3b44,bright,V,2,You're joking! Both of you?!,fail,"You are joking, both of you!",0.4
+m3b44,bright,T,0,You're joking! Both of you?!,fail,"You are joking, both of you.",0.4
+m3b44,bright,T,1,You're joking! Both of you?!,fail,"You are joking, both of you.",0.4
+m3b44,bright,T,2,You're joking! Both of you?!,fail,"You are joking, both of you.",0.4
+m3b44,bright,A,0,You're joking! Both of you?!,fail,"You are joking, both of you.",0.4
+m3b44,bright,A,1,You're joking! Both of you?!,fail,"You are joking, both of you.",0.4
+m3b44,bright,A,2,You're joking! Both of you?!,fail,"You are joking, both of you.",0.4
+m3xb33,bright,V,0,That's EXACTLY what I wanted!,fail,That is exactly what I wanted.,0.4
+m3xb33,bright,V,1,That's EXACTLY what I wanted!,fail,That is exactly what I wanted!,0.4
+m3xb33,bright,V,2,That's EXACTLY what I wanted!,fail,That is exactly what I wanted.,0.4
+m3xb33,bright,T,0,That's EXACTLY what I wanted!,fail,That is exactly what I wanted.,0.4
+m3xb33,bright,T,1,That's EXACTLY what I wanted!,fail,That is exactly what I wanted.,0.4
+m3xb33,bright,T,2,That's EXACTLY what I wanted!,fail,That is exactly what I wanted.,0.4
+m3xb33,bright,A,0,That's EXACTLY what I wanted!,fail,That is exactly what I wanted.,0.4
+m3xb33,bright,A,1,That's EXACTLY what I wanted!,fail,That is exactly what I wanted.,0.4
+m3xb33,bright,A,2,That's EXACTLY what I wanted!,fail,That is exactly what I wanted.,0.4
+m3t65,tense,V,0,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud, and the ending made no sense.",0.0
+m3t65,tense,V,1,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud, and the ending made no sense.",0.0
+m3t65,tense,V,2,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud, and the ending made no sense.",0.0
+m3t65,tense,T,0,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud, and the ending made no sense.",0.0
+m3t65,tense,T,1,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud. And the ending made no sense.",0.0
+m3t65,tense,T,2,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud. And the ending made no sense.",0.0
+m3t65,tense,A,0,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud, and the ending made no sense.",0.0
+m3t65,tense,A,1,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud, and the ending made no sense.",0.0
+m3t65,tense,A,2,"That film was too long, too loud, and the ending made no sense.",PASS,"That film was too long, too loud, and the ending made no sense.",0.0
+m3t51,tense,V,0,"I cleaned the kitchen this morning, and it's already a mess.",fail,"I cleaned the kitchen this morning, and it is already a mess.",0.182
+m3t51,tense,V,1,"I cleaned the kitchen this morning, and it's already a mess.",fail,"I cleaned the kitchen this morning, and it is already a mess.",0.182
+m3t51,tense,V,2,"I cleaned the kitchen this morning, and it's already a mess.",fail,"I cleaned the kitchen this morning, and it is already a mess.",0.182
+m3t51,tense,T,0,"I cleaned the kitchen this morning, and it's already a mess.",fail,"I cleaned the kitchen this morning, and it is already a mess.",0.182
+m3t51,tense,T,1,"I cleaned the kitchen this morning, and it's already a mess.",fail,"I cleaned the kitchen this morning, and it is already a mess.",0.182
+m3t51,tense,T,2,"I cleaned the kitchen this morning, and it's already a mess.",fail,I cleaned the kitchen this morning and it is already a mess.,0.182
+m3t51,tense,A,0,"I cleaned the kitchen this morning, and it's already a mess.",fail,I cleaned the kitchen this morning and it is already a mess.,0.182
+m3t51,tense,A,1,"I cleaned the kitchen this morning, and it's already a mess.",fail,I cleaned the kitchen this morning and it is already a mess.,0.182
+m3t51,tense,A,2,"I cleaned the kitchen this morning, and it's already a mess.",fail,I cleaned the kitchen this morning and it is already a mess.,0.182
+m3xt02,tense,V,0,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m3xt02,tense,V,1,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m3xt02,tense,V,2,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m3xt02,tense,T,0,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m3xt02,tense,T,1,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m3xt02,tense,T,2,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m3xt02,tense,A,0,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m3xt02,tense,A,1,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m3xt02,tense,A,2,Do you know what time it is?,PASS,Do you know what time it is?,0.0
+m4g14t,tense,V,0,I saw him at the market.,PASS,I saw him at the market!,0.0
+m4g14t,tense,V,1,I saw him at the market.,PASS,I saw him at the market!,0.0
+m4g14t,tense,V,2,I saw him at the market.,PASS,I saw him at the market!,0.0
+m4g14t,tense,T,0,I saw him at the market.,PASS,I saw him at the market.,0.0
+m4g14t,tense,T,1,I saw him at the market.,PASS,I saw him at the market.,0.0
+m4g14t,tense,T,2,I saw him at the market.,PASS,I saw him at the market.,0.0
+m4g14t,tense,A,0,I saw him at the market.,PASS,I saw him at the market.,0.0
+m4g14t,tense,A,1,I saw him at the market.,PASS,I saw him at the market.,0.0
+m4g14t,tense,A,2,I saw him at the market.,PASS,I saw him at the market.,0.0
+m4g11t,tense,V,0,He called me last night.,PASS,He called me last night.,0.0
+m4g11t,tense,V,1,He called me last night.,PASS,He called me last night.,0.0
+m4g11t,tense,V,2,He called me last night.,PASS,He called me last night.,0.0
+m4g11t,tense,T,0,He called me last night.,PASS,He called me last night.,0.0
+m4g11t,tense,T,1,He called me last night.,PASS,He called me last night.,0.0
+m4g11t,tense,T,2,He called me last night.,PASS,He called me last night.,0.0
+m4g11t,tense,A,0,He called me last night.,PASS,He called me last night!,0.0
+m4g11t,tense,A,1,He called me last night.,PASS,He called me last night.,0.0
+m4g11t,tense,A,2,He called me last night.,PASS,He called me last night.,0.0
+m4g15t,tense,V,0,The letter came this morning.,PASS,The letter came! This morning!,0.0
+m4g15t,tense,V,1,The letter came this morning.,PASS,The letter came! This morning!,0.0
+m4g15t,tense,V,2,The letter came this morning.,PASS,The letter came this morning.,0.0
+m4g15t,tense,T,0,The letter came this morning.,PASS,The letter came this morning.,0.0
+m4g15t,tense,T,1,The letter came this morning.,PASS,The letter came this morning.,0.0
+m4g15t,tense,T,2,The letter came this morning.,PASS,The letter came this morning.,0.0
+m4g15t,tense,A,0,The letter came this morning.,PASS,The letter came this morning.,0.0
+m4g15t,tense,A,1,The letter came this morning.,PASS,The letter came this morning.,0.0
+m4g15t,tense,A,2,The letter came this morning.,PASS,The letter came this morning.,0.0
+m4g16t,tense,V,0,She told me everything.,PASS,She told me everything.,0.0
+m4g16t,tense,V,1,She told me everything.,PASS,She told me everything.,0.0
+m4g16t,tense,V,2,She told me everything.,PASS,She told me everything.,0.0
+m4g16t,tense,T,0,She told me everything.,PASS,She told me everything.,0.0
+m4g16t,tense,T,1,She told me everything.,PASS,She told me everything.,0.0
+m4g16t,tense,T,2,She told me everything.,PASS,She told me everything.,0.0
+m4g16t,tense,A,0,She told me everything.,PASS,She told me everything.,0.0
+m4g16t,tense,A,1,She told me everything.,PASS,She told me everything.,0.0
+m4g16t,tense,A,2,She told me everything.,PASS,She told me everything.,0.0
+m4g19t,tense,V,0,I'm going home tomorrow.,fail,I am going home. Tomorrow.,0.5
+m4g19t,tense,V,1,I'm going home tomorrow.,fail,I am going home. Tomorrow.,0.5
+m4g19t,tense,V,2,I'm going home tomorrow.,fail,I am going home! Tomorrow!,0.5
+m4g19t,tense,T,0,I'm going home tomorrow.,fail,I am going home tomorrow.,0.5
+m4g19t,tense,T,1,I'm going home tomorrow.,fail,I am going home. Tomorrow.,0.5
+m4g19t,tense,T,2,I'm going home tomorrow.,fail,I am going home tomorrow.,0.5
+m4g19t,tense,A,0,I'm going home tomorrow.,fail,I am going home tomorrow.,0.5
+m4g19t,tense,A,1,I'm going home tomorrow.,fail,I am going home tomorrow.,0.5
+m4g19t,tense,A,2,I'm going home tomorrow.,fail,I am going home tomorrow.,0.5
+m3n21,normal,V,0,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",PASS,"Here is one way to say it. Usually I get up at six, but today I slept late.",0.118
+m3n21,normal,V,1,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",fail,"Here is one way to say it. Usually, I get up at 6, but today I slept late.",0.176
+m3n21,normal,V,2,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",PASS,"Here's one way to say it. Usually I get up at six, but today I slept late.",0.0
+m3n21,normal,T,0,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",fail,"Here is one way to say it. Usually I get up at 6, but today I slept late.",0.176
+m3n21,normal,T,1,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",PASS,"Here is one way to say it. Usually I get up at six, but today I slept late.",0.118
+m3n21,normal,T,2,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",fail,"Here is one way to say it. Usually I get up at 6, but today I slept late.",0.176
+m3n21,normal,A,0,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",PASS,"Here is one way to say it. Usually I get up at six, but today I slept late.",0.118
+m3n21,normal,A,1,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",fail,"Here is one way to say it. Usually, I get up at 6. But today, I slept late.",0.176
+m3n21,normal,A,2,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""",PASS,"Here is one way to say it. Usually I get up at six, but today I slept late.",0.118
+m3n08,normal,V,0,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,"My cousin Priya and I share a small flat, and it is always a bit messy.",0.133
+m3n08,normal,V,1,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,My cousin Priya and I share a small flat and it is always a bit messy.,0.133
+m3n08,normal,V,2,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,My cousin Priya and I share a small flat and it is always a bit messy.,0.133
+m3n08,normal,T,0,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,My cousin Priya and I share a small flat and it is always a bit messy.,0.133
+m3n08,normal,T,1,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,My cousin Priya and I share a small flat and it is always a bit messy.,0.133
+m3n08,normal,T,2,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,"My cousin Priya and I share a small flat, and it is always a bit messy.",0.133
+m3n08,normal,A,0,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,"My cousin Priya and I share a small flat, and it is always a bit messy.",0.133
+m3n08,normal,A,1,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,"My cousin Priya and I share a small flat, and it is always a bit messy.",0.133
+m3n08,normal,A,2,"My cousin Priya and I share a small flat, and it's always a bit messy.",PASS,"My cousin Priya and I share a small flat, and it is always a bit messy.",0.133
+m3n64,normal,V,0,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,I am saving a little every week for the trip so I don't eat out much.,0.133
+m3n64,normal,V,1,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,"I am saving a little every week for the trip, so I don't eat out much.",0.133
+m3n64,normal,V,2,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,"I am saving a little every week for the trip, so I don't eat out much.",0.133
+m3n64,normal,T,0,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,"I am saving a little every week for the trip, so I don't eat out much.",0.133
+m3n64,normal,T,1,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,"I am saving a little every week for the trip, so I don't eat out much.",0.133
+m3n64,normal,T,2,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,"I am saving a little every week for the trip, so I don't eat out much.",0.133
+m3n64,normal,A,0,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,"I am saving a little every week for the trip, so I don't eat out much.",0.133
+m3n64,normal,A,1,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,"I am saving a little every week for the trip, so I don't eat out much.",0.133
+m3n64,normal,A,2,"I'm saving a little every week for the trip, so I don't eat out much.",PASS,"I am saving a little every week for the trip, so I don't eat out much.",0.133
+m3n11,normal,V,0,"I usually walk along Galle Face after work, because the air is so cool.",fail,I usually walk a long gal face after work because the air is so cool.,0.214
+m3n11,normal,V,1,"I usually walk along Galle Face after work, because the air is so cool.",PASS,I usually walk along gala face after work because the air is so cool.,0.071
+m3n11,normal,V,2,"I usually walk along Galle Face after work, because the air is so cool.",PASS,I usually walk along gal face after work because the air is so cool.,0.071
+m3n11,normal,T,0,"I usually walk along Galle Face after work, because the air is so cool.",PASS,I usually walk along Galiface after work because the air is so cool.,0.143
+m3n11,normal,T,1,"I usually walk along Galle Face after work, because the air is so cool.",PASS,I usually walk along gala face after work because the air is so cool.,0.071
+m3n11,normal,T,2,"I usually walk along Galle Face after work, because the air is so cool.",PASS,I usually walk along galley face after work because the air is so cool.,0.071
+m3n11,normal,A,0,"I usually walk along Galle Face after work, because the air is so cool.",PASS,"I usually walk along gala face after work, because the air is so cool.",0.071
+m3n11,normal,A,1,"I usually walk along Galle Face after work, because the air is so cool.",PASS,I usually walk along gala face after work because the air is so cool,0.071
+m3n11,normal,A,2,"I usually walk along Galle Face after work, because the air is so cool.",PASS,I usually walk along gala face after work because the air is so cool.,0.071
+m3n01,normal,V,0,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the cafe in the evenings, so I study in the mornings,",0.071
+m3n01,normal,V,1,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the KFE in the evenings, so I study in the mornings.",0.071
+m3n01,normal,V,2,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the cafe in the evenings, so I study in the mornings.",0.071
+m3n01,normal,T,0,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the cafe in the evenings, so I study in the mornings.",0.071
+m3n01,normal,T,1,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the KFE in the evenings, so I study in the mornings.",0.071
+m3n01,normal,T,2,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the cafe in the evenings, so I study in the mornings.",0.071
+m3n01,normal,A,0,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the café in the evenings, so I study in the mornings,",0.0
+m3n01,normal,A,1,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the KFE in the evenings, so I study in the mornings.",0.071
+m3n01,normal,A,2,"I work at the café in the evenings, so I study in the mornings.",PASS,"I work at the Café C in the evenings, so I study in the mornings.",0.071
+m3n43,normal,V,0,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n43,normal,V,1,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n43,normal,V,2,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n43,normal,T,0,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n43,normal,T,1,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n43,normal,T,2,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n43,normal,A,0,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n43,normal,A,1,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n43,normal,A,2,"The road near our flat is so noisy in the mornings, especially on Mondays.",PASS,"The road near our flat is so noisy in the mornings, especially on Mondays.",0.0
+m3n44,normal,V,0,"I like the bus when it's empty, because I can look at the sea.",PASS,I like the bus when it is empty because I can look at the sea.,0.143
+m3n44,normal,V,1,"I like the bus when it's empty, because I can look at the sea.",PASS,I like the bus when it is empty because I can look at the sea.,0.143
+m3n44,normal,V,2,"I like the bus when it's empty, because I can look at the sea.",PASS,I like the bus when it is empty because I can look at the sea.,0.143
+m3n44,normal,T,0,"I like the bus when it's empty, because I can look at the sea.",PASS,I like the bus when it is empty because I can look at the sea.,0.143
+m3n44,normal,T,1,"I like the bus when it's empty, because I can look at the sea.",PASS,I like the bus when it is empty because I can look at the sea.,0.143
+m3n44,normal,T,2,"I like the bus when it's empty, because I can look at the sea.",fail,I like the bus when it is empty because I can look at the seat.,0.214
+m3n44,normal,A,0,"I like the bus when it's empty, because I can look at the sea.",fail,I like the bus when it is empty because I can look at the seat.,0.214
+m3n44,normal,A,1,"I like the bus when it's empty, because I can look at the sea.",PASS,I like the bus when it is empty because I can look at the sea.,0.143
+m3n44,normal,A,2,"I like the bus when it's empty, because I can look at the sea.",fail,"I like the bus when it is empty, because I can look at the seat.",0.214
+m3n29,normal,V,0,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,I took a photo of the sea this evening and the colors were beautiful.,0.071
+m3n29,normal,V,1,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,I took a photo of the sea this evening and the colors were beautiful.,0.071
+m3n29,normal,V,2,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,I took a photo of the sea this evening and the colors were beautiful.,0.071
+m3n29,normal,T,0,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,I took a photo of the sea this evening and the colors were beautiful.,0.071
+m3n29,normal,T,1,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,"I took a photo of the sea this evening, and the colors were beautiful.",0.071
+m3n29,normal,T,2,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,I took a photo of the sea this evening and the colors were beautiful.,0.071
+m3n29,normal,A,0,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,"I took a photo of the sea this evening, and the colors were beautiful.",0.071
+m3n29,normal,A,1,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,"I took a photo of the sea this evening, and the colors were beautiful.",0.071
+m3n29,normal,A,2,"I took a photo of the sea this evening, and the colours were beautiful.",PASS,I took a photo of the sea this evening and the colors were beautiful.,0.071
+m3l50,low,V,0,"Priya's gone home for the weekend, so the flat's empty.",PASS,Priya's gone home for the weekend. So the flat's empty.,0.0
+m3l50,low,V,1,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend. So, the flat's empty.",0.0
+m3l50,low,V,2,"Priya's gone home for the weekend, so the flat's empty.",PASS,Priya's gone home for the weekend. So the flat's empty.,0.0
+m3l50,low,T,0,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,T,1,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,T,2,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,A,0,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,A,1,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l50,low,A,2,"Priya's gone home for the weekend, so the flat's empty.",PASS,"Priya's gone home for the weekend, so the flat's empty.",0.0
+m3l10,low,V,0,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet, and I miss Japhna.",0.091
+m3l10,low,V,1,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,V,2,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights, the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,T,0,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,T,1,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,T,2,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,A,0,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,A,1,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l10,low,A,2,Some nights the flat feels very quiet… and I miss Jaffna.,PASS,"Some nights the flat feels very quiet, and I miss Jaffna.",0.0
+m3l22,low,V,0,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,V,1,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,V,2,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,T,0,Appa says she's sleeping a lot… and she's not eating much.,fail,"Appa says she is sleeping a lot, and she is not eating much.",0.364
+m3l22,low,T,1,Appa says she's sleeping a lot… and she's not eating much.,fail,"Appa says she is sleeping a lot, and she is not eating much.",0.364
+m3l22,low,T,2,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,A,0,Appa says she's sleeping a lot… and she's not eating much.,fail,"Appa says she is sleeping a lot, and she is not eating much.",0.364
+m3l22,low,A,1,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l22,low,A,2,Appa says she's sleeping a lot… and she's not eating much.,fail,Appa says she is sleeping a lot and she is not eating much.,0.364
+m3l23,low,V,0,I looked at the bus times to Jaffna three times today.,PASS,"I looked at the bus, times to Jaffna, three times today.",0.0
+m3l23,low,V,1,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times. To Jephna. Three times. Today.,0.091
+m3l23,low,V,2,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times. To Jaffna. Three times today.,0.0
+m3l23,low,T,0,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,T,1,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,T,2,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jafna three times today.,0.091
+m3l23,low,A,0,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,A,1,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l23,low,A,2,I looked at the bus times to Jaffna three times today.,PASS,I looked at the bus times to Jaffna three times today.,0.0
+m3l49,low,V,0,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,V,1,"It's been raining for three days, and I haven't seen the sun once.",fail,"It is been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,V,2,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,T,0,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,T,1,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,T,2,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,A,0,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,A,1,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l49,low,A,2,"It's been raining for three days, and I haven't seen the sun once.",fail,"It has been raining for three days, and I haven't seen the sun once.",0.154
+m3l56,low,V,0,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,V,1,Nobody remembered my birthday this year… except Priya.,fail,"""'Nobody remembered my birthday this year, ""'except Priya.'",0.375
+m3l56,low,V,2,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,T,0,Nobody remembered my birthday this year… except Priya.,PASS,Nobody remembered my birthday this year. Except Priya.,0.0
+m3l56,low,T,1,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,T,2,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,A,0,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,A,1,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l56,low,A,2,Nobody remembered my birthday this year… except Priya.,PASS,"Nobody remembered my birthday this year, except Priya.",0.0
+m3l66,low,V,0,I watched an old film tonight… the one Paati liked.,PASS,I watched an old film tonight. The one Papati liked.,0.1
+m3l66,low,V,1,I watched an old film tonight… the one Paati liked.,PASS,I watched an old film tonight. The one Papati liked...,0.1
+m3l66,low,V,2,I watched an old film tonight… the one Paati liked.,PASS,I watched an old film tonight. The one Papati liked.,0.1
+m3l66,low,T,0,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Papadi liked.",0.1
+m3l66,low,T,1,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Papati liked.",0.1
+m3l66,low,T,2,I watched an old film tonight… the one Paati liked.,PASS,"I watched an old film tonight, the one Papadi liked.",0.1
+m3l66,low,A,0,I watched an old film tonight… the one Paati liked.,fail,"I watched an old film tonight, The One Papadi Light.",0.2
+m3l66,low,A,1,I watched an old film tonight… the one Paati liked.,fail,"I watched an old film tonight, The One Papati Life.",0.2
+m3l66,low,A,2,I watched an old film tonight… the one Paati liked.,fail,"I watched an old film tonight, The One Potty Light.",0.2
+m3l32,low,V,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,V,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,V,2,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,T,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aaron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,T,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Aaron asked when I am coming home, and I didn't have an answer.",0.25
+m3l32,low,T,2,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,A,0,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,A,1,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Arun asked when I am coming home, and I didn't have an answer.",0.167
+m3l32,low,A,2,Arun asked when I'm coming home… and I didn't have an answer.,fail,"Haran asked when I am coming home, and I didn't have an answer.",0.25
