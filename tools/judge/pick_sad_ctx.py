@@ -32,6 +32,6 @@ for _, r in D.iterrows():
     pick.append(r); used_i.add(r.item); used_s.add(r.spk)
     if len(pick) == N: break
 for k, r in enumerate(pick, 1):
-    w = f"/tmp/h{k}.wav"; sf.write(w, r.audio, r.sr); os.system(f"ffmpeg -loglevel error -y -i {w} -b:a 128k {out}/human_{k}.mp3")
+    w = f"/tmp/h{k}.wav"; sf.write(w, r.audio, r.sr); os.system(f"ffmpeg -loglevel error -y -i {w} -b:a 128k {out}/{EMO.lower()}_{k}.mp3")
 P = pd.DataFrame([{k: r[k] for k in ("file", "spk", "item", "level", "dur", "p_sad")} for r in pick]); P["text"] = P.item.map(TXT)
 P.to_csv(f"{out}/picks_{EMO.lower()}.csv", index=False); print(P.to_string())
