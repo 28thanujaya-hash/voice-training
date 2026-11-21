@@ -1,0 +1,16 @@
+Each pair: tag take, then a plain take of the same line.
+1. m3b31 K_0 · Sam passed his driving test! He called me the moment he got out!
+2. m3b31 K_1 · Sam passed his driving test! He called me the moment he got out!
+3. m3b74 K_0 · Twenty-two thousand rupees! That's exactly what I needed for the trip!
+4. m3b74 K_1 · Twenty-two thousand rupees! That's exactly what I needed for the trip!
+5. m3xb10 K_0 · I know what we'll do — let's go to the beach!
+6. m3xb10 K_1 · I know what we'll do — let's go to the beach!
+7. m3b51 K_0 · Yes, that's it! Say it like that every time!
+8. m3b51 K_1 · Yes, that's it! Say it like that every time!
+9. m3b12 K_1 · Much better! I understood every word that time.
+10. m3b41 K_0 · Seriously? That's the best news this week!
+11. m3b41 K_1 · Seriously? That's the best news this week!
+12. m3b44 K_0 · You're joking! Both of you?
+13. m3b44 K_1 · You're joking! Both of you?
+14. m3xb33 K_0 · That's EXACTLY what I wanted!
+15. m3xb33 K_1 · That's EXACTLY what I wanted!
