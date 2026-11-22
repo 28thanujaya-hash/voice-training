@@ -1,0 +1,23 @@
+name: Voice match, many runs (CPU)
+# Same as voice_match.yml for a list of runs, one machine. ref may be a comma list (equal share of takes from each).
+on:
+  workflow_dispatch:
+    inputs:
+      runs: { required: true, description: 'space separated' }
+      ref: { required: true, default: 'full_normal_1,full_bright_1,full_low_1,full_tense_1' }
+permissions: { contents: write }
+jobs:
+  vm:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu && pip install -q speechbrain librosa pandas
+      - run: for r in ${{ inputs.runs }}; do [ -d results/$r/takes ] && python tools/judge/voice_match.py "$r" "${{ inputs.ref }}" | tail -3; done
+      - if: always()
+        run: |
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add results/judge && git commit -q -m "Voice match (mixed ref), many runs [skip ci]" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done
