@@ -1,0 +1,62 @@
+[{"stream_name":"stdout","time":1.253097587,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' snac jiwer pyloudnorm soundfile librosa torchcrepe praat-parselmouth cmudict num2words\n"}
+,{"stream_name":"stderr","time":67.491221996,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":67.491260841,"data":"I0000 00:00:1795325145.903635       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":74.529809313,"data":"[  1.2 min] device cuda:0/cuda:1\n"}
+,{"stream_name":"stderr","time":94.964050549,"data":"Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-large-960h-lv60-self and are newly initialized: ['wav2vec2.masked_spec_embed']\n"}
+,{"stream_name":"stderr","time":94.9640827,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stderr","time":101.4316473,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":121.624331448,"data":"\rFetching 2 files:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rFetching 2 files:  50%|█████     | 1/2 [00:19\u003c00:19, 19.47s/it]\rFetching 2 files: 100%|██████████| 2/2 [00:19\u003c00:00,  9.73s/it]\n"}
+,{"stream_name":"stderr","time":141.311027002,"data":"\rLoading checkpoint shards:   0%|          | 0/2 [00:00\u003c?, ?it/s]\rLoading checkpoint shards:  50%|█████     | 1/2 [00:03\u003c00:03,  3.06s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  1.89s/it]\rLoading checkpoint shards: 100%|██████████| 2/2 [00:04\u003c00:00,  2.07s/it]\n"}
+,{"stream_name":"stderr","time":146.75952573,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":160.007049612,"data":"Device set to use cuda:1\n"}
+,{"stream_name":"stderr","time":166.157290154,"data":"/kaggle/src/script.py:53: UserWarning: PySoundFile failed. Trying audioread instead.\n"}
+,{"stream_name":"stderr","time":166.157326415,"data":"  y, _ = librosa.load(path, sr=24000)\n"}
+,{"stream_name":"stderr","time":166.157339199,"data":"/usr/local/lib/python3.13/dist-packages/librosa/core/audio.py:184: FutureWarning: librosa.core.audio.__audioread_load\n"}
+,{"stream_name":"stderr","time":166.157345481,"data":"\tDeprecated as of librosa version 0.10.0.\n"}
+,{"stream_name":"stderr","time":166.157350607,"data":"\tIt will be removed in librosa version 1.0.\n"}
+,{"stream_name":"stderr","time":166.157355053,"data":"  y, sr_native = __audioread_load(path, offset, duration, dtype)\n"}
+,{"stream_name":"stdout","time":166.166230626,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":166.166252608,"data":"  File \"/usr/local/lib/python3.13/dist-packages/librosa/core/audio.py\", line 176, in load\n"}
+,{"stream_name":"stdout","time":166.16625941,"data":"    y, sr_native = __soundfile_load(path, offset, duration, dtype)\n"}
+,{"stream_name":"stdout","time":166.166265064,"data":"                   ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":166.166270601,"data":"  File \"/usr/local/lib/python3.13/dist-packages/librosa/core/audio.py\", line 209, in __soundfile_load\n"}
+,{"stream_name":"stdout","time":166.166276593,"data":"    context = sf.SoundFile(path)\n"}
+,{"stream_name":"stdout","time":166.166281912,"data":"  File \"/usr/local/lib/python3.13/dist-packages/soundfile.py\", line 708, in __init__\n"}
+,{"stream_name":"stdout","time":166.166287374,"data":"    self._file = self._open(file, mode_int, closefd)\n"}
+,{"stream_name":"stdout","time":166.166292859,"data":"                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":166.16630929,"data":"  File \"/usr/local/lib/python3.13/dist-packages/soundfile.py\", line 1296, in _open\n"}
+,{"stream_name":"stdout","time":166.166314366,"data":"    raise LibsndfileError(err, prefix=f\"Error opening {self.name!r}: \")\n"}
+,{"stream_name":"stdout","time":166.166318917,"data":"soundfile.LibsndfileError: Error opening 'ctx_tense.mp3': System error.\n"}
+,{"stream_name":"stdout","time":166.166323679,"data":"\n"}
+,{"stream_name":"stdout","time":166.166327608,"data":"During handling of the above exception, another exception occurred:\n"}
+,{"stream_name":"stdout","time":166.166333656,"data":"\n"}
+,{"stream_name":"stdout","time":166.166337888,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":166.166342473,"data":"  File \"/kaggle/src/script.py\", line 100, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":166.166347183,"data":"    CTXI = {m: turn(c['text']) + [128261, 128257] + encode(c['file']) + [128258, 128262] for m, c in CTX.items()}; log(f\"context tokens: { {m: len(v) for m, v in CTXI.items()} }\")\n"}
+,{"stream_name":"stdout","time":166.166352064,"data":"                                                    ~~~~~~^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":166.166356593,"data":"  File \"/kaggle/src/script.py\", line 53, in encode\n"}
+,{"stream_name":"stdout","time":166.166361066,"data":"    y, _ = librosa.load(path, sr=24000)\n"}
+,{"stream_name":"stdout","time":166.166364917,"data":"           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":166.16636888,"data":"  File \"/usr/local/lib/python3.13/dist-packages/librosa/core/audio.py\", line 184, in load\n"}
+,{"stream_name":"stdout","time":166.166372871,"data":"    y, sr_native = __audioread_load(path, offset, duration, dtype)\n"}
+,{"stream_name":"stdout","time":166.166376672,"data":"                   ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":166.166380469,"data":"  File \"/usr/local/lib/python3.13/dist-packages/decorator/__init__.py\", line 247, in fun\n"}
+,{"stream_name":"stdout","time":166.166384701,"data":"    return caller(func, *(extras + args), **kw)\n"}
+,{"stream_name":"stdout","time":166.166389356,"data":"  File \"/usr/local/lib/python3.13/dist-packages/librosa/util/decorators.py\", line 63, in __wrapper\n"}
+,{"stream_name":"stdout","time":166.166394099,"data":"    return func(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":166.166398089,"data":"  File \"/usr/local/lib/python3.13/dist-packages/librosa/core/audio.py\", line 240, in __audioread_load\n"}
+,{"stream_name":"stdout","time":166.166402006,"data":"    reader = audioread.audio_open(path)\n"}
+,{"stream_name":"stdout","time":166.166406931,"data":"  File \"/usr/local/lib/python3.13/dist-packages/audioread/__init__.py\", line 126, in audio_open\n"}
+,{"stream_name":"stdout","time":166.166411334,"data":"    return BackendClass(path)\n"}
+,{"stream_name":"stdout","time":166.166415522,"data":"  File \"/usr/local/lib/python3.13/dist-packages/audioread/rawread.py\", line 59, in __init__\n"}
+,{"stream_name":"stdout","time":166.166420046,"data":"    self._fh = open(filename, 'rb')\n"}
+,{"stream_name":"stdout","time":166.166424476,"data":"               ~~~~^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":166.166428517,"data":"FileNotFoundError: [Errno 2] No such file or directory: 'ctx_tense.mp3'\n"}
+,{"stream_name":"stdout","time":166.166432531,"data":"\n"}
+,{"stream_name":"stderr","time":174.894689171,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":174.894734601,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":175.181003664,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":175.181032714,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":176.00369173,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":176.874414618,"data":"[NbConvertApp] Writing 459212 bytes to __results__.html\n"}
+]
