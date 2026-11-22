@@ -1,6 +1,7 @@
 name: Kaggle queue
 # Kaggle allows only 2 GPU sessions (queued ones count). This pushes the listed jobs one by one as slots free up,
 # collects each finished job (kaggle.yml collect), and re-dispatches itself with what is left before the 6 h Actions limit.
+# A job waits while any job in its sources.json is still being watched (not finished). 'job:none' = CPU job.
 on:
   workflow_dispatch:
     inputs:
@@ -18,6 +19,7 @@ jobs:
       GH_TOKEN: ${{ github.token }}
       REPO: ${{ github.repository }}
     steps:
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
       - run: pip install -q --upgrade kaggle six
@@ -35,8 +37,11 @@ jobs:
               else NW="$NW $j"; echo "$s" | grep -qiE 'queued|running' && busy=$((busy+1)); fi
             done; WATCH="$NW"
             set -- $TODO
-            if [ -n "$1" ] && [ $busy -lt 2 ]; then disp kaggle.yml -f inputs[job]=$1 -f inputs[action]=start -f inputs[gpu]=T4; sleep 120
-              if st $1 | grep -qiE 'queued|running'; then WATCH="$WATCH $1"; shift; TODO="$*"; fi
+            J=${1%%:*}; G=T4; [ "$1" != "$J" ] && G=${1#*:}   # job:none = CPU
+            DEP=""; [ -n "$J" ] && [ -f kaggle/jobs/$J/sources.json ] && for d in $(python3 -c "import json;print(' '.join(json.load(open('kaggle/jobs/$J/sources.json')).get('jobs',[])))"); do
+              case " $WATCH " in *" $d "*) DEP="$DEP $d";; esac; done   # wait until the jobs it reads have finished
+            if [ -n "$J" ] && [ -z "$DEP" ] && { [ $busy -lt 2 ] || [ "$G" = none ]; }; then disp kaggle.yml -f inputs[job]=$J -f inputs[action]=start -f inputs[gpu]=$G; sleep 120
+              if st $J | grep -qiE 'queued|running|complete'; then WATCH="$WATCH $J"; shift; TODO="$*"; fi
             fi
             if [ $(( $(date +%s) - T0 )) -gt 19800 ]; then
               disp kaggle_queue.yml -f "inputs[jobs]=$(echo $TODO)" -f "inputs[watch]=$(echo $WATCH)"; exit 0; fi
