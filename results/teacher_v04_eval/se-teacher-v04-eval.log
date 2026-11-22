@@ -1,0 +1,22 @@
+[{"stream_name":"stdout","time":0.90159402,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6' jiwer soundfile librosa loguru munch einops einops-exts nltk pydub accelerate\n"}
+,{"stream_name":"stdout","time":23.368966418,"data":"[  0.4 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-check\n"}
+,{"stream_name":"stdout","time":24.753610961,"data":"[  0.4 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix M\n"}
+,{"stream_name":"stdout","time":34.762249087,"data":"[  0.6 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":37.746237672,"data":"[  0.6 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":49.067312572,"data":"[  0.8 min] $ pip install -q --no-deps -e /kaggle/tmp/kt/kokoro\n"}
+,{"stream_name":"stderr","time":76.913743583,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":76.91377477,"data":"I0000 00:00:1795381015.711629       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":86.964633804,"data":"[  1.4 min] model /kaggle/input/notebooks/thusharajayawardane/se-teacher-v04-t2/kokoro_f_v04_A.pth\n"}
+,{"stream_name":"stderr","time":93.885006363,"data":"`torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":99.543696911,"data":"Device set to use cuda\n"}
+,{"stream_name":"stderr","time":137.34710576,"data":"`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.\n"}
+,{"stream_name":"stderr","time":143.571471717,"data":"You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset\n"}
+,{"stream_name":"stdout","time":420.819180044,"data":"[  7.0 min] v04 done\n"}
+,{"stream_name":"stdout","time":687.583160039,"data":"[ 11.4 min] stock done\n"}
+,{"stream_name":"stderr","time":695.439140674,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":695.439170685,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":695.626010018,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":695.62603497,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":696.405373462,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":696.934587693,"data":"[NbConvertApp] Writing 332886 bytes to __results__.html\n"}
+]
