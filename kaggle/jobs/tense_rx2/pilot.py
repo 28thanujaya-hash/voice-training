@@ -1,0 +1,10 @@
+# tense_rx (21 Nov): tense top-up, context + one-CAPS rewrite, no tags (26)
+# Full run · F tense, batch 1/4 (user 19 Nov 00:53: tense = context "Give it back!" only, no tag; 4 takes; all marked by ear)
+LINES = {'tense': ['m3t02', 'm3t07', 'm3t14', 'm3t15', 'm3t50', 'm3t51', 'm3t65', 'm3xt02', 'm3xt10', 'm3xt12', 'm3xt29', 'm3xt35', 'm3xt38', 'm3xt47', 'm3xt48', 'm3xt57', 'm3xt63', 'm4g11t', 'm4g12t', 'm4g14t', 'm4g15t', 'm4g16t', 'm4g17t', 'm4g18t', 'm4g19t', 'm4g20t']}
+REF = {'artic': 4.2075, 'lufs': -27.388, 'f0_med': 10.970500000000001, 'f0_sd': 2.0309999999999997, 'h1h2': 7.1315, 'slope': -0.7204999999999999, 'int_drop': -3.503, 'final_drop': -1.3359999999999999}
+CTX = {'tense': {"file": "ctx_tense.mp3", "text": "Give it back!"}}
+ARMS = {'tense': {'T': (True, None, False)}}
+def excl(t): return t
+TAKES = 4
+
+TXT = {'m3t02': "I said sorry TWICE. And he still wouldn't listen!", 'm3t07': "No, thank you. I've ALREADY made my decision.", 'm3t14': "I can't BELIEVE she said that.", 'm3t15': 'REALLY.', 'm3t50': 'Someone took my umbrella from the café. My NEW one.', 'm3t51': "I cleaned the kitchen this morning. And it's ALREADY a mess!", 'm3t65': 'That film was too long, too loud, and the ending made no sense.', 'm3xt02': 'Do you know what TIME it is?', 'm3xt10': 'Leave her ALONE!', 'm3xt12': "I'm waiting. STILL waiting.", 'm3xt29': 'You read my MESSAGES!', 'm3xt35': 'WHO parked there!', 'm3xt38': 'You said that to HER!', 'm3xt47': 'WHO took my umbrella?', 'm3xt48': "We're MOVING!", 'm3xt57': 'Close the DOOR!', 'm3xt63': 'Answer the QUESTION!', 'm4g11t': 'He called me LAST night.', 'm4g12t': 'They changed the PLAN.', 'm4g14t': 'I saw him at the MARKET.', 'm4g15t': 'The letter came THIS morning.', 'm4g16t': 'She told me EVERYTHING.', 'm4g17t': 'He FINALLY answered.', 'm4g18t': 'My brother is getting MARRIED.', 'm4g19t': "I'm going home TOMORROW.", 'm4g20t': 'That was my LAST exam.'}
