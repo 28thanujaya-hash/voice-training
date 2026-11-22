@@ -45,3 +45,40 @@ Part 1 (chats 1–5) is voice-chat-history.md and stays as it is. Start a new ch
 - Collect and judge run29a/run29b (results in results/run29a_prefix, results/run29b_prefix; move mp3s into takes/, judge_superb.yml, voice_match.yml). If the prefix method matches run28b, re-record the script that way (2–3 GPU h), then the first Kokoro teacher.
 - Pending user calls: the 13 mood moves (reading-rules-script-f.md); a fixed loudness gain.
 - Claude's weekly usage was at ~94% on 21 Nov 13:45.
+
+---
+
+## Chat 7 · 21–22 Nov 2026
+
+**Start:** repo attached with push access; push check OK.
+
+**run29 (scene reused as prefix) failed:** run29b lost all 32 low takes. Cause (run29c, Colab): after the recorded scene Orpheus emits end-of-speech at once on every line (the scene is a finished utterance). With end-of-speech blocked for ~1 s the takes have audio but are not sad: 0/23 (whole scene), 2/22 (scene silence cut). run29a (same code, queued on Kaggle) was deleted on the user's request.
+
+**Cheaper variants of the scene, all judged, all failed:**
+- run30 shorter scenes: last 2 sentences 3/31, last half 2/26, voice ~0.70.
+- run30b one-sentence lead-ins (user's idea) "I am so sad / happy / angry.": low 3/26, bright 4/31 (heard angry), tense 3/32; voice 0.49–0.69.
+- → Only the full ~55-word scene, spoken in the same generation, works.
+
+**Bright / tense with full scenes:** run31 bright (Anne picnic joy) 10/32, heard angry 18, voice 0.55; tense crashed on Colab (memory). run32 calm happy scene (Anne ch. 15 + ch. 33, user: "calmer scene from the book", marks and tags removed): K 10/30, fewer heard angry; no-scene control 8/32.
+
+**Method comparison** (user asked to see judge confidence by scene / marks / tags): tools/judge/compare_levers.py. Same 8 hard low lines: old recipe 0.12, context clips ≤0.23, lead-in 0.24, short scene 0.22, full scene 0.75–0.81.
+
+**Rules set by the user:**
+- GPU order **1. Colab, 2. Kaggle**; use everything Colab gives; short Colab jobs; save each job's results to GitHub at once.
+- **"Service Unavailable" on Colab → move the job to Kaggle at once; try Colab again only after 24 h** (next: 22 Nov 18:50).
+- **Queue the script top-ups without checking back** ("continue full run"); remove all tags, marks as needed.
+
+**Kaggle:** only 2 GPU sessions at once, queued included ("Maximum batch GPU session count of 2"). New **kaggle_queue.yml** pushes jobs as slots free, collects them, re-dispatches itself. Kaggle jobs get only .py files: tense_rx failed because ctx_tense.mp3 wasn't there (tense_rx2 downloads it).
+
+**Top-ups (lines with < 2 passing takes):**
+- low_scene_1/2 (grief scene + script text with sigh): 45/68, 56/70, voice 0.82.
+- low_fill (scene, **no sigh**): 3/104, voice 0.53 → **the sigh is essential**; low_fill_2 (sigh back): 91/149, voice 0.80.
+- tense_scene_1/2 (full "How dare you" scene, no tags): 13/100 → tense goes back to context + one-CAPS rewrite (tense_rx2).
+- normal_fill_1/2 (plain, no tags, "!" → "."): 170/436.
+- bright_calm_fill (calm scene, plain line without "!"): 17/76, mostly neutral → bright_fill_3 keeps "!".
+
+**Coverage 22 Nov 14:00 (lines with 2+ passing takes):** low 135/155, bright 114/134, tense 136/162, normal 107/171.
+
+**Running:** normal_fill_3, tense_rx2, low_fill_3, bright_fill_3 (kaggle_queue). Tools: tools/queue/ (build_fill*.py, coverage.py, tense_rewrites.json), tools/diag/run29_diag.py.
+
+**Open:** judge round 3, more top-ups until every line has 2 passing takes; pick takes (judge + words + voice ≥ ~0.7); first Kokoro teacher. Pending user calls: 13 mood moves; loudness gain.
