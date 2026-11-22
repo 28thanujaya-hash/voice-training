@@ -1,0 +1,40 @@
+[{"stream_name":"stdout","time":1.686653016,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6'\n"}
+,{"stream_name":"stdout","time":24.612220917,"data":"   gradio 6.30.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stdout","time":24.612258084,"data":"   diffusers 0.42.0 requires huggingface-hub\u003c3.0,\u003e=1.32.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":24.945651003000002,"data":"[  0.4 min] 800 clips from /kaggle/input/notebooks/thusharajayawardane/se-teacher-v04-data: Counter({'train': 737, 'val': 63})\n"}
+,{"stream_name":"stdout","time":24.945689687,"data":"[  0.4 min] $ git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm \u0026\u0026 cd llm \u0026\u0026 git sparse-checkout set to\n"}
+,{"stream_name":"stdout","time":27.000622875,"data":"[  0.4 min] $ cmake -S /kaggle/tmp/llm/tools/misaki-g2p -B /kaggle/tmp/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' \n"}
+,{"stream_name":"stdout","time":38.959318876,"data":"   [ 90%] Building CXX object CMakeFiles/misaki-g2p-cli.dir/tools/misaki-g2p-cli.cpp.o\n"}
+,{"stream_name":"stdout","time":38.959348118,"data":"   [100%] Linking CXX executable misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":38.959353736,"data":"   [100%] Built target misaki-g2p-cli\n"}
+,{"stream_name":"stdout","time":38.959358665,"data":"[  0.6 min] $ python /kaggle/tmp/llm/tools/misaki-g2p/convert_misaki_lexicon.py --fetch /kaggle/tmp/lexc -o /kaggle/tmp/misaki-en-us.lex\n"}
+,{"stream_name":"stdout","time":42.19139096,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_gold.json\n"}
+,{"stream_name":"stdout","time":42.191458905,"data":"   fetching https://raw.githubusercontent.com/hexgrad/misaki/fba1236595f2d2bf21d414ba6e57d25256afada3/misaki/data/us_silver.json\n"}
+,{"stream_name":"stdout","time":42.304362429,"data":"[  0.7 min] phonemes done; CAPS lines carrying ↗: 47\n"}
+,{"stream_name":"stdout","time":42.304405573,"data":"[  0.7 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":51.537769392,"data":"[  0.8 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile\n"}
+,{"stream_name":"stdout","time":54.296592858,"data":"[  0.9 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":109.412371107,"data":"[  1.8 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stdout","time":167.841148621,"data":"[  2.8 min] $ python train_first.py --config_path /kaggle/tmp/kt/configs/s1.yml  (log: train_first_log.txt)\n"}
+,{"stream_name":"stdout","time":6643.468933718,"data":"   Time elasped: 1220.0309891700745\n"}
+,{"stream_name":"stdout","time":6643.46901013,"data":"   Epoch [5/5], Step [480/485], Mel Loss: 0.27463, Gen Loss: 2.76637, Disc Loss: 3.95079, Mono Loss: 0.13653, S2S Loss: 1.15033, SLM Loss: 1.79498\n"}
+,{"stream_name":"stdout","time":6643.469017334,"data":"   Time elasped: 1245.4937191009521\n"}
+,{"stream_name":"stdout","time":6643.469022472,"data":"   Epochs: 5\n"}
+,{"stream_name":"stdout","time":6643.469027672,"data":"   Validation loss: 0.261\n"}
+,{"stream_name":"stdout","time":6643.469032567,"data":"   \n"}
+,{"stream_name":"stdout","time":6643.46903777,"data":"   \n"}
+,{"stream_name":"stdout","time":6643.469042919,"data":"   \n"}
+,{"stream_name":"stdout","time":6643.46904805,"data":"   \n"}
+,{"stream_name":"stdout","time":6643.469066147,"data":"   \n"}
+,{"stream_name":"stdout","time":6643.469070599,"data":"   \n"}
+,{"stream_name":"stdout","time":6643.469074577,"data":"   \n"}
+,{"stream_name":"stdout","time":6643.469078863,"data":"   \n"}
+,{"stream_name":"stdout","time":6643.469082521,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":6643.469086487,"data":"   Saving..\n"}
+,{"stream_name":"stderr","time":6647.279603624,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":6647.279637547,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":6647.719172008,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":6647.719197482,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":6648.692738903,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6649.781028531,"data":"[NbConvertApp] Writing 323496 bytes to __results__.html\n"}
+]
