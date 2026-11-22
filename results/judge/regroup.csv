@@ -7,7 +7,7 @@ m3l05,low,10,4,low,{'bright': 6},I went to the back room and cried. I felt so sm
 m3l06,low,4,3,low,{'bright': 1},"Oh, Sam… I'm so sorry about Bruno. He was family.",yes,
 m3l07,low,7,4,low,{'bright': 2},I keep thinking about her cooking in that small kitchen…,yes,
 m3l08,low,6,2,low,{'bright': 4},Oh no… that must be really hard.,yes,
-m3l09,low,9,1,low,"{'tense': 5, 'bright': 1}",I'm sorry. Do you want to talk about it?,yes,
+m3l09,low,13,1,low,"{'tense': 8, 'bright': 2}",I'm sorry. Do you want to talk about it?,yes,
 m3l10,low,10,5,low,{'bright': 5},Some nights the flat feels very quiet… and I miss Jaffna.,yes,
 m3l11,low,3,3,low,{},"I'm tired today. I worked late, and I didn't sleep well.",yes,
 m3l14,low,4,2,low,{'bright': 2},I'm really sorry. I didn't mean to hurt you.,yes,
@@ -35,10 +35,10 @@ m3l37,low,6,2,low,{'bright': 4},That sounds really lonely…,yes,
 m3l38,low,10,2,low,{'bright': 8},Oh no. Are you okay?,yes,
 m3l39,low,4,2,low,{'bright': 1},I understand… it's not easy.,yes,
 m3l40,low,8,3,low,{'bright': 4},Hmm… that's sad. I'm sorry it happened.,yes,
-m3l41,low,9,1,low,{'tense': 6},Take all the time you need. I'm here.,yes,
+m3l41,low,13,1,low,{'tense': 10},Take all the time you need. I'm here.,yes,
 m3l42,low,9,4,low,"{'bright': 4, 'normal': 1}",Oh… that must have hurt.,yes,
 m3l43,low,4,3,low,{'bright': 1},I know… some days are just like that.,yes,
-m3l46,low,9,0,bright,{'bright': 9},Don't be sad about it. It was a really difficult question.,doubtful,normal: gentle comfort
+m3l46,low,13,0,bright,{'bright': 13},Don't be sad about it. It was a really difficult question.,doubtful,normal: gentle comfort
 m3l49,low,10,8,low,{'bright': 2},"It's been raining for three days, and I haven't seen the sun once.",yes,
 m3l50,low,10,7,low,{'bright': 3},"Priya's gone home for the weekend, so the flat's empty.",yes,
 m3l51,low,3,2,low,{},I'm too tired to cook tonight… I'll just have some bread.,yes,
@@ -69,12 +69,12 @@ m3l75,low,7,3,low,{'bright': 4},"The thick, grey clouds stayed there the whole w
 m3xl01,low,6,2,low,"{'bright': 2, 'normal': 2}",Do you think she's okay?,yes,
 m3xl02,low,8,4,low,"{'bright': 3, 'tense': 1}",Why didn't you tell me sooner?,yes,
 m3xl03,low,5,2,low,{'normal': 3},Is it my fault?,yes,
-m3xl04,low,9,0,bright,"{'bright': 7, 'normal': 2}",Will you call me when you get there?,no,low/normal: a caring question
+m3xl04,low,13,0,bright,"{'bright': 9, 'normal': 4}",Will you call me when you get there?,no,low/normal: a caring question
 m3xl05,low,4,4,low,{},Can we talk tomorrow instead?,any (neutral words),
 m3xl06,low,6,2,low,"{'normal': 1, 'tense': 1}",Did he ask about me?,yes,
 m3xl07,low,6,2,low,"{'bright': 3, 'normal': 1}",I miss her so much!,yes,
 m3xl08,low,6,2,low,{'bright': 4},I just wanted one good day!,yes,
-m3xl09,low,9,0,tense,{'tense': 9},"Please, just call me back!",doubtful,low: pleading
+m3xl09,low,13,0,tense,{'tense': 13},"Please, just call me back!",doubtful,low: pleading
 m3xl10,low,6,2,low,{'bright': 3},I tried so hard!,yes,
 m3xl11,low,10,4,low,"{'bright': 3, 'normal': 3}",I wish I was home!,yes,
 m3xl12,low,4,4,low,{},I'm so tired of being alone!,yes,
@@ -90,16 +90,16 @@ m3xl21,low,5,2,low,{'bright': 3},He used to sing — every morning.,yes,
 m3xl22,low,6,2,low,{'bright': 4},I didn't mean it — I'm sorry.,yes,
 m3xl23,low,3,3,low,{},One more week — then I can go home.,doubtful,bright or low
 m3xl24,low,4,4,low,{},I don't know — maybe I'm just tired.,yes,
-m3xl25,low,9,0,normal,"{'normal': 8, 'tense': 1}",You're leaving tomorrow?!,no,low: sad shock
-m3xl26,low,9,0,tense,"{'tense': 7, 'bright': 1}",She didn't even say goodbye?!,yes,
-m3xl27,low,8,0,normal,"{'tense': 2, 'normal': 3}",You forgot again?!,no,tense
-m3xl28,low,8,0,tense,"{'tense': 7, 'normal': 1}",He said that about me?!,yes,
-m3xl29,low,9,0,bright,"{'bright': 5, 'tense': 3}",They sold the old house?!,no,low: sad shock
-m3xl30,low,9,0,normal,"{'normal': 7, 'tense': 1}",Nobody told me?!,no,tense/low: hurt
-m3xl31,low,8,0,tense,"{'normal': 4, 'tense': 4}",It's closing for good?!,no,low: sad shock
-m3xl32,low,7,0,normal,"{'bright': 3, 'normal': 3}",You knew all along?!,no,tense
-m3xl33,low,12,0,tense,"{'tense': 6, 'normal': 4}",After all this time?!,doubtful,low or tense
-m3xl34,low,12,0,normal,"{'bright': 4, 'tense': 1, 'normal': 7}",She's moving away?!,no,low: sad shock
+m3xl25,low,13,0,normal,"{'normal': 11, 'tense': 1}",You're leaving tomorrow?!,no,low: sad shock
+m3xl26,low,13,0,tense,"{'tense': 9, 'bright': 2}",She didn't even say goodbye?!,yes,
+m3xl27,low,12,0,normal,"{'tense': 3, 'normal': 5}",You forgot again?!,no,tense
+m3xl28,low,12,0,tense,"{'tense': 8, 'normal': 3}",He said that about me?!,yes,
+m3xl29,low,13,0,bright,"{'bright': 7, 'tense': 4}",They sold the old house?!,no,low: sad shock
+m3xl30,low,13,0,normal,"{'normal': 11, 'tense': 1}",Nobody told me?!,no,tense/low: hurt
+m3xl31,low,12,0,normal,"{'normal': 8, 'tense': 4}",It's closing for good?!,no,low: sad shock
+m3xl32,low,10,0,normal,"{'bright': 3, 'normal': 6}",You knew all along?!,no,tense
+m3xl33,low,16,0,tense,"{'tense': 9, 'normal': 4}",After all this time?!,doubtful,low or tense
+m3xl34,low,16,0,normal,"{'bright': 7, 'tense': 1, 'normal': 8}",She's moving away?!,no,low: sad shock
 m3xl35,low,6,2,low,"{'bright': 3, 'normal': 1}",I really TRIED.,yes,
 m3xl36,low,6,2,low,{'normal': 2},Nobody ASKED me.,yes,
 m3xl37,low,3,2,low,{},I just wanted to say GOODBYE.,yes,
@@ -125,18 +125,18 @@ m3xl56,low,10,4,low,"{'bright': 3, 'normal': 2}",Everything went wrong!,doubtful
 m3xl57,low,4,3,low,{'tense': 1},I'm tired of saying goodbye!,yes,
 m3xl58,low,6,2,low,{'bright': 4},It was my last chance!,yes,
 m3xl59,low,5,2,low,{'bright': 3},I should never have left!,yes,
-m3xl60,low,9,0,normal,"{'tense': 2, 'bright': 1, 'normal': 5}",Please don't go!,no,low: pleading
+m3xl60,low,13,0,normal,"{'tense': 2, 'bright': 1, 'normal': 9}",Please don't go!,no,low: pleading
 m3xl61,low,6,2,low,{'bright': 4},I lost everything!,yes,
 m3xl62,low,5,2,low,"{'normal': 1, 'bright': 2}",I really thought he cared!,yes,
-m3xl63,low,12,0,tense,"{'tense': 7, 'normal': 2, 'bright': 2}","Not her, please!",no,low: pleading grief
+m3xl63,low,16,0,tense,"{'tense': 9, 'normal': 4, 'bright': 2}","Not her, please!",no,low: pleading grief
 m3xl64,low,6,2,low,"{'normal': 2, 'bright': 1}",I just needed a hug!,yes,
 m3xl65,low,11,4,low,"{'bright': 6, 'normal': 1}",It hurts so much!,yes,
 m3xl66,low,6,2,low,"{'bright': 1, 'tense': 2}",I waited all day for nothing!,yes,
-m3xl67,low,12,0,normal,"{'normal': 8, 'bright': 4}",Are you still awake?,any (neutral words),
-m3xl68,low,11,0,normal,"{'tense': 1, 'bright': 1, 'normal': 6}",Did you eat anything today?,any (neutral words),
+m3xl67,low,16,0,normal,"{'normal': 11, 'bright': 5}",Are you still awake?,any (neutral words),
+m3xl68,low,15,0,normal,"{'tense': 1, 'bright': 2, 'normal': 8}",Did you eat anything today?,any (neutral words),
 m3xl69,low,4,4,low,{},I almost called you — but I couldn't.,yes,
 m3xl70,low,6,2,low,{'bright': 4},I only wanted ONE thing.,yes,
-m3xl71,low,12,0,normal,"{'tense': 5, 'normal': 7}",He's not coming back?!,no,low: sad shock
+m3xl71,low,16,0,normal,"{'tense': 5, 'normal': 11}",He's not coming back?!,no,low: sad shock
 m4l01,low,6,2,low,{'bright': 4},It's Monday again…,yes,
 m4l02,low,9,4,low,{'bright': 5},I keep reading her old messages…,yes,
 m4l03,low,3,2,low,{},The house feels so empty without him.,yes,
