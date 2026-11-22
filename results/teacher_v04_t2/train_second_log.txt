@@ -1,0 +1,209 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795363475.257991     251 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+WARNING:kokoro_tb_utils:Could not load German G2P for TensorBoard inference: No module named 'misaki'
+TensorBoard inference: no test sentences available (misaki/espeak not found?)
+WARNING:__main__:TensorBoard inference: no test sentences available (misaki/espeak not found?)
+Extracting Stage 1 baseline voicepack for TensorBoard...
+INFO:__main__:Extracting Stage 1 baseline voicepack for TensorBoard...
+  acoustic_norm=1.8282  prosodic_norm=1.8282
+INFO:__main__:  acoustic_norm=1.8282  prosodic_norm=1.8282
+Loading the first stage model at /kaggle/tmp/logs/s2/first_stage.pth ...
+bert loaded
+bert_encoder loaded
+predictor loaded
+decoder loaded
+text_encoder loaded
+style_encoder loaded
+text_aligner loaded
+pitch_extractor loaded
+BERT AdamW (
+Parameter Group 0
+    amsgrad: False
+    base_momentum: 0.85
+    betas: (0.9, 0.99)
+    capturable: False
+    decoupled_weight_decay: True
+    differentiable: False
+    eps: 1e-09
+    foreach: None
+    fused: None
+    initial_lr: 1e-05
+    lr: 1e-05
+    max_lr: 2e-05
+    max_momentum: 0.95
+    maximize: False
+    min_lr: 0
+    weight_decay: 0.01
+)
+decoder AdamW (
+Parameter Group 0
+    amsgrad: False
+    base_momentum: 0.85
+    betas: (0.0, 0.99)
+    capturable: False
+    decoupled_weight_decay: True
+    differentiable: False
+    eps: 1e-09
+    foreach: None
+    fused: None
+    initial_lr: 0.0001
+    lr: 0.0001
+    max_lr: 0.0002
+    max_momentum: 0.95
+    maximize: False
+    min_lr: 0
+    weight_decay: 0.0001
+)
+Epoch [1/99], Step [20/485], Loss: 0.74732, Disc Loss: 4.84852, Dur Loss: 1.49226, CE Loss: 0.09632, Norm Loss: 2.06826, F0 Loss: 6.94847, LM Loss: 2.13901, Gen Loss: 4.60345, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.99300, GenLM Loss: 0.98650
+INFO:__main__:Epoch [1/99], Step [20/485], Loss: 0.74732, Disc Loss: 4.84852, Dur Loss: 1.49226, CE Loss: 0.09632, Norm Loss: 2.06826, F0 Loss: 6.94847, LM Loss: 2.13901, Gen Loss: 4.60345, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.99300, GenLM Loss: 0.98650
+Epoch [1/99], Step [30/485], Loss: 0.39386, Disc Loss: 4.59021, Dur Loss: 0.77662, CE Loss: 0.03768, Norm Loss: 1.00627, F0 Loss: 3.55289, LM Loss: 1.65561, Gen Loss: 3.93330, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.94946, GenLM Loss: 0.94945
+INFO:__main__:Epoch [1/99], Step [30/485], Loss: 0.39386, Disc Loss: 4.59021, Dur Loss: 0.77662, CE Loss: 0.03768, Norm Loss: 1.00627, F0 Loss: 3.55289, LM Loss: 1.65561, Gen Loss: 3.93330, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.94946, GenLM Loss: 0.94945
+Epoch [1/99], Step [40/485], Loss: 0.38973, Disc Loss: 4.11233, Dur Loss: 1.06106, CE Loss: 0.06009, Norm Loss: 1.43395, F0 Loss: 4.63132, LM Loss: 1.91032, Gen Loss: 2.78935, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.88833, GenLM Loss: 0.88720
+INFO:__main__:Epoch [1/99], Step [40/485], Loss: 0.38973, Disc Loss: 4.11233, Dur Loss: 1.06106, CE Loss: 0.06009, Norm Loss: 1.43395, F0 Loss: 4.63132, LM Loss: 1.91032, Gen Loss: 2.78935, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.88833, GenLM Loss: 0.88720
+Epoch [1/99], Step [50/485], Loss: 0.35362, Disc Loss: 4.03896, Dur Loss: 0.90046, CE Loss: 0.04823, Norm Loss: 1.02560, F0 Loss: 4.42041, LM Loss: 1.56706, Gen Loss: 2.61887, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.85254, GenLM Loss: 0.83543
+INFO:__main__:Epoch [1/99], Step [50/485], Loss: 0.35362, Disc Loss: 4.03896, Dur Loss: 0.90046, CE Loss: 0.04823, Norm Loss: 1.02560, F0 Loss: 4.42041, LM Loss: 1.56706, Gen Loss: 2.61887, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.85254, GenLM Loss: 0.83543
+Epoch [1/99], Step [60/485], Loss: 0.41874, Disc Loss: 4.02796, Dur Loss: 1.27271, CE Loss: 0.05213, Norm Loss: 1.13731, F0 Loss: 4.39012, LM Loss: 1.75833, Gen Loss: 2.60603, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.74980, GenLM Loss: 0.73206
+INFO:__main__:Epoch [1/99], Step [60/485], Loss: 0.41874, Disc Loss: 4.02796, Dur Loss: 1.27271, CE Loss: 0.05213, Norm Loss: 1.13731, F0 Loss: 4.39012, LM Loss: 1.75833, Gen Loss: 2.60603, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.74980, GenLM Loss: 0.73206
+Epoch [1/99], Step [70/485], Loss: 0.46197, Disc Loss: 3.98862, Dur Loss: 1.52255, CE Loss: 0.10326, Norm Loss: 1.02162, F0 Loss: 1.78284, LM Loss: 2.36798, Gen Loss: 2.79777, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.72011, GenLM Loss: 0.65944
+INFO:__main__:Epoch [1/99], Step [70/485], Loss: 0.46197, Disc Loss: 3.98862, Dur Loss: 1.52255, CE Loss: 0.10326, Norm Loss: 1.02162, F0 Loss: 1.78284, LM Loss: 2.36798, Gen Loss: 2.79777, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.72011, GenLM Loss: 0.65944
+Epoch [1/99], Step [80/485], Loss: 0.39934, Disc Loss: 4.00680, Dur Loss: 1.29177, CE Loss: 0.06727, Norm Loss: 1.24485, F0 Loss: 6.23595, LM Loss: 1.88529, Gen Loss: 2.84645, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.64218, GenLM Loss: 0.54961
+INFO:__main__:Epoch [1/99], Step [80/485], Loss: 0.39934, Disc Loss: 4.00680, Dur Loss: 1.29177, CE Loss: 0.06727, Norm Loss: 1.24485, F0 Loss: 6.23595, LM Loss: 1.88529, Gen Loss: 2.84645, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.64218, GenLM Loss: 0.54961
+Epoch [1/99], Step [90/485], Loss: 0.36146, Disc Loss: 4.04594, Dur Loss: 0.96183, CE Loss: 0.05998, Norm Loss: 1.03231, F0 Loss: 3.33895, LM Loss: 2.27091, Gen Loss: 2.70770, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.60771, GenLM Loss: 0.41086
+INFO:__main__:Epoch [1/99], Step [90/485], Loss: 0.36146, Disc Loss: 4.04594, Dur Loss: 0.96183, CE Loss: 0.05998, Norm Loss: 1.03231, F0 Loss: 3.33895, LM Loss: 2.27091, Gen Loss: 2.70770, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.60771, GenLM Loss: 0.41086
+Epoch [1/99], Step [100/485], Loss: 0.34406, Disc Loss: 4.07010, Dur Loss: 1.01098, CE Loss: 0.05920, Norm Loss: 0.70405, F0 Loss: 4.96346, LM Loss: 1.51303, Gen Loss: 3.22878, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.56763, GenLM Loss: 0.30419
+INFO:__main__:Epoch [1/99], Step [100/485], Loss: 0.34406, Disc Loss: 4.07010, Dur Loss: 1.01098, CE Loss: 0.05920, Norm Loss: 0.70405, F0 Loss: 4.96346, LM Loss: 1.51303, Gen Loss: 3.22878, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.56763, GenLM Loss: 0.30419
+Epoch [1/99], Step [110/485], Loss: 0.34568, Disc Loss: 3.99946, Dur Loss: 1.41676, CE Loss: 0.07882, Norm Loss: 1.71490, F0 Loss: 4.27530, LM Loss: 2.82294, Gen Loss: 2.58970, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.69448, GenLM Loss: 0.16380
+INFO:__main__:Epoch [1/99], Step [110/485], Loss: 0.34568, Disc Loss: 3.99946, Dur Loss: 1.41676, CE Loss: 0.07882, Norm Loss: 1.71490, F0 Loss: 4.27530, LM Loss: 2.82294, Gen Loss: 2.58970, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.69448, GenLM Loss: 0.16380
+Epoch [1/99], Step [120/485], Loss: 0.39414, Disc Loss: 4.06433, Dur Loss: 1.04036, CE Loss: 0.04568, Norm Loss: 1.06757, F0 Loss: 3.92075, LM Loss: 1.68240, Gen Loss: 2.90257, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.59077, GenLM Loss: 0.19922
+INFO:__main__:Epoch [1/99], Step [120/485], Loss: 0.39414, Disc Loss: 4.06433, Dur Loss: 1.04036, CE Loss: 0.04568, Norm Loss: 1.06757, F0 Loss: 3.92075, LM Loss: 1.68240, Gen Loss: 2.90257, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.59077, GenLM Loss: 0.19922
+Epoch [1/99], Step [130/485], Loss: 0.38651, Disc Loss: 4.10173, Dur Loss: 1.10284, CE Loss: 0.07528, Norm Loss: 1.21512, F0 Loss: 4.58260, LM Loss: 1.77505, Gen Loss: 3.40056, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.50543, GenLM Loss: 0.26676
+INFO:__main__:Epoch [1/99], Step [130/485], Loss: 0.38651, Disc Loss: 4.10173, Dur Loss: 1.10284, CE Loss: 0.07528, Norm Loss: 1.21512, F0 Loss: 4.58260, LM Loss: 1.77505, Gen Loss: 3.40056, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.50543, GenLM Loss: 0.26676
+Epoch [1/99], Step [140/485], Loss: 0.35516, Disc Loss: 4.08960, Dur Loss: 0.76125, CE Loss: 0.03893, Norm Loss: 0.67741, F0 Loss: 3.32075, LM Loss: 1.49076, Gen Loss: 3.14198, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54201, GenLM Loss: 0.24932
+INFO:__main__:Epoch [1/99], Step [140/485], Loss: 0.35516, Disc Loss: 4.08960, Dur Loss: 0.76125, CE Loss: 0.03893, Norm Loss: 0.67741, F0 Loss: 3.32075, LM Loss: 1.49076, Gen Loss: 3.14198, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54201, GenLM Loss: 0.24932
+Epoch [1/99], Step [150/485], Loss: 0.43784, Disc Loss: 3.99752, Dur Loss: 0.78787, CE Loss: 0.04090, Norm Loss: 0.90468, F0 Loss: 3.77906, LM Loss: 1.54763, Gen Loss: 2.95687, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54100, GenLM Loss: 0.26578
+INFO:__main__:Epoch [1/99], Step [150/485], Loss: 0.43784, Disc Loss: 3.99752, Dur Loss: 0.78787, CE Loss: 0.04090, Norm Loss: 0.90468, F0 Loss: 3.77906, LM Loss: 1.54763, Gen Loss: 2.95687, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54100, GenLM Loss: 0.26578
+Epoch [1/99], Step [160/485], Loss: 0.35962, Disc Loss: 3.98059, Dur Loss: 1.08123, CE Loss: 0.05431, Norm Loss: 1.02207, F0 Loss: 3.50713, LM Loss: 1.54794, Gen Loss: 2.74235, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54508, GenLM Loss: 0.28942
+INFO:__main__:Epoch [1/99], Step [160/485], Loss: 0.35962, Disc Loss: 3.98059, Dur Loss: 1.08123, CE Loss: 0.05431, Norm Loss: 1.02207, F0 Loss: 3.50713, LM Loss: 1.54794, Gen Loss: 2.74235, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54508, GenLM Loss: 0.28942
+Epoch [1/99], Step [170/485], Loss: 0.35901, Disc Loss: 3.95836, Dur Loss: 1.06910, CE Loss: 0.05331, Norm Loss: 0.68403, F0 Loss: 3.05296, LM Loss: 1.46971, Gen Loss: 3.08597, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.55780, GenLM Loss: 0.28592
+INFO:__main__:Epoch [1/99], Step [170/485], Loss: 0.35901, Disc Loss: 3.95836, Dur Loss: 1.06910, CE Loss: 0.05331, Norm Loss: 0.68403, F0 Loss: 3.05296, LM Loss: 1.46971, Gen Loss: 3.08597, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.55780, GenLM Loss: 0.28592
+Epoch [1/99], Step [180/485], Loss: 0.40732, Disc Loss: 3.89865, Dur Loss: 0.66784, CE Loss: 0.02798, Norm Loss: 0.66678, F0 Loss: 2.96157, LM Loss: 1.55056, Gen Loss: 3.30951, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.52151, GenLM Loss: 0.30660
+INFO:__main__:Epoch [1/99], Step [180/485], Loss: 0.40732, Disc Loss: 3.89865, Dur Loss: 0.66784, CE Loss: 0.02798, Norm Loss: 0.66678, F0 Loss: 2.96157, LM Loss: 1.55056, Gen Loss: 3.30951, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.52151, GenLM Loss: 0.30660
+Epoch [1/99], Step [190/485], Loss: 0.39611, Disc Loss: 4.02284, Dur Loss: 1.41927, CE Loss: 0.17762, Norm Loss: 0.48836, F0 Loss: 2.02828, LM Loss: 1.39723, Gen Loss: 2.95265, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.47211, GenLM Loss: 0.34966
+INFO:__main__:Epoch [1/99], Step [190/485], Loss: 0.39611, Disc Loss: 4.02284, Dur Loss: 1.41927, CE Loss: 0.17762, Norm Loss: 0.48836, F0 Loss: 2.02828, LM Loss: 1.39723, Gen Loss: 2.95265, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.47211, GenLM Loss: 0.34966
+Epoch [1/99], Step [200/485], Loss: 0.37728, Disc Loss: 3.98726, Dur Loss: 0.97534, CE Loss: 0.04599, Norm Loss: 0.87177, F0 Loss: 3.63378, LM Loss: 1.83341, Gen Loss: 2.63494, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49205, GenLM Loss: 0.34750
+INFO:__main__:Epoch [1/99], Step [200/485], Loss: 0.37728, Disc Loss: 3.98726, Dur Loss: 0.97534, CE Loss: 0.04599, Norm Loss: 0.87177, F0 Loss: 3.63378, LM Loss: 1.83341, Gen Loss: 2.63494, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49205, GenLM Loss: 0.34750
+Epoch [1/99], Step [210/485], Loss: 0.39948, Disc Loss: 3.96094, Dur Loss: 1.20301, CE Loss: 0.06504, Norm Loss: 0.87757, F0 Loss: 4.94364, LM Loss: 1.71541, Gen Loss: 3.03545, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.51888, GenLM Loss: 0.33596
+INFO:__main__:Epoch [1/99], Step [210/485], Loss: 0.39948, Disc Loss: 3.96094, Dur Loss: 1.20301, CE Loss: 0.06504, Norm Loss: 0.87757, F0 Loss: 4.94364, LM Loss: 1.71541, Gen Loss: 3.03545, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.51888, GenLM Loss: 0.33596
+Epoch [1/99], Step [220/485], Loss: 0.37412, Disc Loss: 3.99977, Dur Loss: 0.99437, CE Loss: 0.06251, Norm Loss: 0.94428, F0 Loss: 4.04149, LM Loss: 1.62786, Gen Loss: 2.57866, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49576, GenLM Loss: 0.31523
+INFO:__main__:Epoch [1/99], Step [220/485], Loss: 0.37412, Disc Loss: 3.99977, Dur Loss: 0.99437, CE Loss: 0.06251, Norm Loss: 0.94428, F0 Loss: 4.04149, LM Loss: 1.62786, Gen Loss: 2.57866, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49576, GenLM Loss: 0.31523
+Epoch [1/99], Step [230/485], Loss: 0.32910, Disc Loss: 4.05754, Dur Loss: 0.63892, CE Loss: 0.03134, Norm Loss: 0.73147, F0 Loss: 1.88495, LM Loss: 1.37400, Gen Loss: 3.19772, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.48818, GenLM Loss: 0.29257
+INFO:__main__:Epoch [1/99], Step [230/485], Loss: 0.32910, Disc Loss: 4.05754, Dur Loss: 0.63892, CE Loss: 0.03134, Norm Loss: 0.73147, F0 Loss: 1.88495, LM Loss: 1.37400, Gen Loss: 3.19772, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.48818, GenLM Loss: 0.29257
+Epoch [1/99], Step [240/485], Loss: 0.36516, Disc Loss: 4.01440, Dur Loss: 0.80063, CE Loss: 0.03778, Norm Loss: 2.05904, F0 Loss: 3.37976, LM Loss: 2.27109, Gen Loss: 2.85796, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54327, GenLM Loss: 0.26064
+INFO:__main__:Epoch [1/99], Step [240/485], Loss: 0.36516, Disc Loss: 4.01440, Dur Loss: 0.80063, CE Loss: 0.03778, Norm Loss: 2.05904, F0 Loss: 3.37976, LM Loss: 2.27109, Gen Loss: 2.85796, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54327, GenLM Loss: 0.26064
+Epoch [1/99], Step [250/485], Loss: 0.30164, Disc Loss: 3.99101, Dur Loss: 1.19847, CE Loss: 0.05625, Norm Loss: 0.75382, F0 Loss: 4.05004, LM Loss: 1.45530, Gen Loss: 2.87635, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49132, GenLM Loss: 0.25738
+INFO:__main__:Epoch [1/99], Step [250/485], Loss: 0.30164, Disc Loss: 3.99101, Dur Loss: 1.19847, CE Loss: 0.05625, Norm Loss: 0.75382, F0 Loss: 4.05004, LM Loss: 1.45530, Gen Loss: 2.87635, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49132, GenLM Loss: 0.25738
+Epoch [1/99], Step [260/485], Loss: 0.37588, Disc Loss: 3.96669, Dur Loss: 0.90100, CE Loss: 0.04220, Norm Loss: 0.59293, F0 Loss: 4.25395, LM Loss: 1.57865, Gen Loss: 2.70476, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49519, GenLM Loss: 0.26623
+INFO:__main__:Epoch [1/99], Step [260/485], Loss: 0.37588, Disc Loss: 3.96669, Dur Loss: 0.90100, CE Loss: 0.04220, Norm Loss: 0.59293, F0 Loss: 4.25395, LM Loss: 1.57865, Gen Loss: 2.70476, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49519, GenLM Loss: 0.26623
+Epoch [1/99], Step [270/485], Loss: 0.36840, Disc Loss: 4.08434, Dur Loss: 1.02208, CE Loss: 0.04373, Norm Loss: 0.55374, F0 Loss: 3.70767, LM Loss: 1.62737, Gen Loss: 3.21378, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.45886, GenLM Loss: 0.28019
+INFO:__main__:Epoch [1/99], Step [270/485], Loss: 0.36840, Disc Loss: 4.08434, Dur Loss: 1.02208, CE Loss: 0.04373, Norm Loss: 0.55374, F0 Loss: 3.70767, LM Loss: 1.62737, Gen Loss: 3.21378, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.45886, GenLM Loss: 0.28019
+Epoch [1/99], Step [280/485], Loss: 0.31993, Disc Loss: 3.98809, Dur Loss: 0.58106, CE Loss: 0.02894, Norm Loss: 0.68826, F0 Loss: 2.70369, LM Loss: 1.51773, Gen Loss: 3.23491, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.47843, GenLM Loss: 0.26856
+INFO:__main__:Epoch [1/99], Step [280/485], Loss: 0.31993, Disc Loss: 3.98809, Dur Loss: 0.58106, CE Loss: 0.02894, Norm Loss: 0.68826, F0 Loss: 2.70369, LM Loss: 1.51773, Gen Loss: 3.23491, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.47843, GenLM Loss: 0.26856
+Epoch [1/99], Step [290/485], Loss: 0.34495, Disc Loss: 3.99554, Dur Loss: 0.65108, CE Loss: 0.03479, Norm Loss: 1.63387, F0 Loss: 4.25328, LM Loss: 2.19207, Gen Loss: 2.86058, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.51521, GenLM Loss: 0.27250
+INFO:__main__:Epoch [1/99], Step [290/485], Loss: 0.34495, Disc Loss: 3.99554, Dur Loss: 0.65108, CE Loss: 0.03479, Norm Loss: 1.63387, F0 Loss: 4.25328, LM Loss: 2.19207, Gen Loss: 2.86058, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.51521, GenLM Loss: 0.27250
+Epoch [1/99], Step [300/485], Loss: 0.40448, Disc Loss: 3.96751, Dur Loss: 1.31680, CE Loss: 0.06662, Norm Loss: 1.88583, F0 Loss: 5.34554, LM Loss: 2.25275, Gen Loss: 2.68021, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.52881, GenLM Loss: 0.30773
+INFO:__main__:Epoch [1/99], Step [300/485], Loss: 0.40448, Disc Loss: 3.96751, Dur Loss: 1.31680, CE Loss: 0.06662, Norm Loss: 1.88583, F0 Loss: 5.34554, LM Loss: 2.25275, Gen Loss: 2.68021, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.52881, GenLM Loss: 0.30773
+Epoch [1/99], Step [310/485], Loss: 0.37566, Disc Loss: 3.92722, Dur Loss: 1.08358, CE Loss: 0.04629, Norm Loss: 0.67100, F0 Loss: 3.90099, LM Loss: 1.52508, Gen Loss: 3.28174, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49817, GenLM Loss: 0.27833
+INFO:__main__:Epoch [1/99], Step [310/485], Loss: 0.37566, Disc Loss: 3.92722, Dur Loss: 1.08358, CE Loss: 0.04629, Norm Loss: 0.67100, F0 Loss: 3.90099, LM Loss: 1.52508, Gen Loss: 3.28174, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49817, GenLM Loss: 0.27833
+Epoch [1/99], Step [320/485], Loss: 0.35506, Disc Loss: 4.00019, Dur Loss: 0.74758, CE Loss: 0.03734, Norm Loss: 1.55347, F0 Loss: 5.58924, LM Loss: 2.01210, Gen Loss: 2.65145, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.50529, GenLM Loss: 0.28092
+INFO:__main__:Epoch [1/99], Step [320/485], Loss: 0.35506, Disc Loss: 4.00019, Dur Loss: 0.74758, CE Loss: 0.03734, Norm Loss: 1.55347, F0 Loss: 5.58924, LM Loss: 2.01210, Gen Loss: 2.65145, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.50529, GenLM Loss: 0.28092
+Epoch [1/99], Step [330/485], Loss: 0.32175, Disc Loss: 3.97535, Dur Loss: 0.85601, CE Loss: 0.05048, Norm Loss: 0.82793, F0 Loss: 3.37326, LM Loss: 1.62008, Gen Loss: 2.88327, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.56607, GenLM Loss: 0.27745
+INFO:__main__:Epoch [1/99], Step [330/485], Loss: 0.32175, Disc Loss: 3.97535, Dur Loss: 0.85601, CE Loss: 0.05048, Norm Loss: 0.82793, F0 Loss: 3.37326, LM Loss: 1.62008, Gen Loss: 2.88327, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.56607, GenLM Loss: 0.27745
+Epoch [1/99], Step [340/485], Loss: 0.32753, Disc Loss: 3.99738, Dur Loss: 0.63337, CE Loss: 0.02822, Norm Loss: 0.50314, F0 Loss: 4.43507, LM Loss: 1.29106, Gen Loss: 3.08133, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.45634, GenLM Loss: 0.34166
+INFO:__main__:Epoch [1/99], Step [340/485], Loss: 0.32753, Disc Loss: 3.99738, Dur Loss: 0.63337, CE Loss: 0.02822, Norm Loss: 0.50314, F0 Loss: 4.43507, LM Loss: 1.29106, Gen Loss: 3.08133, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.45634, GenLM Loss: 0.34166
+Epoch [1/99], Step [350/485], Loss: 0.37981, Disc Loss: 3.94453, Dur Loss: 0.82814, CE Loss: 0.04215, Norm Loss: 1.72158, F0 Loss: 5.60981, LM Loss: 2.24899, Gen Loss: 2.80568, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.56130, GenLM Loss: 0.33000
+INFO:__main__:Epoch [1/99], Step [350/485], Loss: 0.37981, Disc Loss: 3.94453, Dur Loss: 0.82814, CE Loss: 0.04215, Norm Loss: 1.72158, F0 Loss: 5.60981, LM Loss: 2.24899, Gen Loss: 2.80568, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.56130, GenLM Loss: 0.33000
+Epoch [1/99], Step [360/485], Loss: 0.32339, Disc Loss: 3.91899, Dur Loss: 0.96878, CE Loss: 0.04669, Norm Loss: 0.74454, F0 Loss: 3.09488, LM Loss: 1.54663, Gen Loss: 3.61051, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54204, GenLM Loss: 0.29353
+INFO:__main__:Epoch [1/99], Step [360/485], Loss: 0.32339, Disc Loss: 3.91899, Dur Loss: 0.96878, CE Loss: 0.04669, Norm Loss: 0.74454, F0 Loss: 3.09488, LM Loss: 1.54663, Gen Loss: 3.61051, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54204, GenLM Loss: 0.29353
+Epoch [1/99], Step [370/485], Loss: 0.35775, Disc Loss: 4.02716, Dur Loss: 1.05562, CE Loss: 0.07173, Norm Loss: 1.09608, F0 Loss: 5.23378, LM Loss: 1.84978, Gen Loss: 2.68566, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.44702, GenLM Loss: 0.30297
+INFO:__main__:Epoch [1/99], Step [370/485], Loss: 0.35775, Disc Loss: 4.02716, Dur Loss: 1.05562, CE Loss: 0.07173, Norm Loss: 1.09608, F0 Loss: 5.23378, LM Loss: 1.84978, Gen Loss: 2.68566, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.44702, GenLM Loss: 0.30297
+Epoch [1/99], Step [380/485], Loss: 0.30987, Disc Loss: 4.00952, Dur Loss: 0.83084, CE Loss: 0.04175, Norm Loss: 1.16080, F0 Loss: 4.37564, LM Loss: 1.51786, Gen Loss: 2.77790, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.43288, GenLM Loss: 0.36435
+INFO:__main__:Epoch [1/99], Step [380/485], Loss: 0.30987, Disc Loss: 4.00952, Dur Loss: 0.83084, CE Loss: 0.04175, Norm Loss: 1.16080, F0 Loss: 4.37564, LM Loss: 1.51786, Gen Loss: 2.77790, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.43288, GenLM Loss: 0.36435
+Epoch [1/99], Step [390/485], Loss: 0.34155, Disc Loss: 3.95335, Dur Loss: 0.86673, CE Loss: 0.04153, Norm Loss: 0.70877, F0 Loss: 2.66937, LM Loss: 1.51779, Gen Loss: 3.18646, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54108, GenLM Loss: 0.33315
+INFO:__main__:Epoch [1/99], Step [390/485], Loss: 0.34155, Disc Loss: 3.95335, Dur Loss: 0.86673, CE Loss: 0.04153, Norm Loss: 0.70877, F0 Loss: 2.66937, LM Loss: 1.51779, Gen Loss: 3.18646, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.54108, GenLM Loss: 0.33315
+Epoch [1/99], Step [400/485], Loss: 0.37345, Disc Loss: 3.95259, Dur Loss: 0.94943, CE Loss: 0.06182, Norm Loss: 2.21266, F0 Loss: 4.83544, LM Loss: 2.80867, Gen Loss: 2.76944, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.52857, GenLM Loss: 0.26567
+INFO:__main__:Epoch [1/99], Step [400/485], Loss: 0.37345, Disc Loss: 3.95259, Dur Loss: 0.94943, CE Loss: 0.06182, Norm Loss: 2.21266, F0 Loss: 4.83544, LM Loss: 2.80867, Gen Loss: 2.76944, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.52857, GenLM Loss: 0.26567
+Epoch [1/99], Step [410/485], Loss: 0.34060, Disc Loss: 3.97117, Dur Loss: 0.99979, CE Loss: 0.05326, Norm Loss: 0.85452, F0 Loss: 4.14465, LM Loss: 1.71640, Gen Loss: 3.15820, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.53503, GenLM Loss: 0.26847
+INFO:__main__:Epoch [1/99], Step [410/485], Loss: 0.34060, Disc Loss: 3.97117, Dur Loss: 0.99979, CE Loss: 0.05326, Norm Loss: 0.85452, F0 Loss: 4.14465, LM Loss: 1.71640, Gen Loss: 3.15820, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.53503, GenLM Loss: 0.26847
+Epoch [1/99], Step [420/485], Loss: 0.33677, Disc Loss: 4.02330, Dur Loss: 0.64738, CE Loss: 0.02921, Norm Loss: 0.75467, F0 Loss: 3.76849, LM Loss: 1.54451, Gen Loss: 3.01734, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.52623, GenLM Loss: 0.27288
+INFO:__main__:Epoch [1/99], Step [420/485], Loss: 0.33677, Disc Loss: 4.02330, Dur Loss: 0.64738, CE Loss: 0.02921, Norm Loss: 0.75467, F0 Loss: 3.76849, LM Loss: 1.54451, Gen Loss: 3.01734, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.52623, GenLM Loss: 0.27288
+Epoch [1/99], Step [430/485], Loss: 0.29612, Disc Loss: 4.01097, Dur Loss: 1.06940, CE Loss: 0.04979, Norm Loss: 0.46519, F0 Loss: 2.26632, LM Loss: 1.43285, Gen Loss: 2.89927, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.45968, GenLM Loss: 0.25941
+INFO:__main__:Epoch [1/99], Step [430/485], Loss: 0.29612, Disc Loss: 4.01097, Dur Loss: 1.06940, CE Loss: 0.04979, Norm Loss: 0.46519, F0 Loss: 2.26632, LM Loss: 1.43285, Gen Loss: 2.89927, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.45968, GenLM Loss: 0.25941
+Epoch [1/99], Step [440/485], Loss: 0.36976, Disc Loss: 3.90286, Dur Loss: 0.88299, CE Loss: 0.04564, Norm Loss: 0.85262, F0 Loss: 4.43613, LM Loss: 1.60339, Gen Loss: 3.55784, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.48145, GenLM Loss: 0.28580
+INFO:__main__:Epoch [1/99], Step [440/485], Loss: 0.36976, Disc Loss: 3.90286, Dur Loss: 0.88299, CE Loss: 0.04564, Norm Loss: 0.85262, F0 Loss: 4.43613, LM Loss: 1.60339, Gen Loss: 3.55784, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.48145, GenLM Loss: 0.28580
+Epoch [1/99], Step [450/485], Loss: 0.31527, Disc Loss: 3.92330, Dur Loss: 0.62748, CE Loss: 0.02878, Norm Loss: 0.65078, F0 Loss: 4.91576, LM Loss: 1.63314, Gen Loss: 2.99278, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.55075, GenLM Loss: 0.30613
+INFO:__main__:Epoch [1/99], Step [450/485], Loss: 0.31527, Disc Loss: 3.92330, Dur Loss: 0.62748, CE Loss: 0.02878, Norm Loss: 0.65078, F0 Loss: 4.91576, LM Loss: 1.63314, Gen Loss: 2.99278, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.55075, GenLM Loss: 0.30613
+Epoch [1/99], Step [460/485], Loss: 0.33211, Disc Loss: 3.97833, Dur Loss: 1.01175, CE Loss: 0.05513, Norm Loss: 0.35056, F0 Loss: 3.34692, LM Loss: 1.51839, Gen Loss: 2.95854, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.53064, GenLM Loss: 0.30921
+INFO:__main__:Epoch [1/99], Step [460/485], Loss: 0.33211, Disc Loss: 3.97833, Dur Loss: 1.01175, CE Loss: 0.05513, Norm Loss: 0.35056, F0 Loss: 3.34692, LM Loss: 1.51839, Gen Loss: 2.95854, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.53064, GenLM Loss: 0.30921
+Epoch [1/99], Step [480/485], Loss: 0.64588, Disc Loss: 3.96937, Dur Loss: 0.84189, CE Loss: 0.03764, Norm Loss: 0.67625, F0 Loss: 3.59541, LM Loss: 1.61156, Gen Loss: 2.79051, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49357, GenLM Loss: 0.30779
+INFO:__main__:Epoch [1/99], Step [480/485], Loss: 0.64588, Disc Loss: 3.96937, Dur Loss: 0.84189, CE Loss: 0.03764, Norm Loss: 0.67625, F0 Loss: 3.59541, LM Loss: 1.61156, Gen Loss: 2.79051, Sty Loss: 0.00000, Diff Loss: 0.00000, DiscLM Loss: 0.49357, GenLM Loss: 0.30779
+Validation loss: 0.389, Dur loss: 1.767, F0 loss: 4.389
+
+
+
+INFO:__main__:Validation loss: 0.389, Dur loss: 1.767, F0 loss: 4.389
+
+
+
+Time elasped: 191.61982083320618
+Time elasped: 283.809202671051
+Time elasped: 373.4395682811737
+Time elasped: 465.3111045360565
+Time elasped: 558.8162291049957
+Time elasped: 651.3988254070282
+Time elasped: 744.1883678436279
+Time elasped: 836.5358488559723
+Time elasped: 925.7192854881287
+Time elasped: 1015.5912356376648
+Time elasped: 1108.2393381595612
+Time elasped: 1201.2508625984192
+Time elasped: 1294.0873515605927
+Time elasped: 1387.5853798389435
+Time elasped: 1479.5091025829315
+Time elasped: 1572.2191181182861
+Time elasped: 1664.0774960517883
+Time elasped: 1757.612511396408
+Time elasped: 1849.5710973739624
+Time elasped: 1943.4198803901672
+Time elasped: 2036.4910473823547
+Time elasped: 2127.980071544647
+Time elasped: 2217.9323732852936
+Time elasped: 2309.7978389263153
+Time elasped: 2398.8855295181274
+Time elasped: 2489.4962792396545
+Time elasped: 2579.9616718292236
+Time elasped: 2672.2701036930084
+Time elasped: 2762.963840484619
+Time elasped: 2857.2588963508606
+Time elasped: 2950.5922825336456
+Time elasped: 3041.54745721817
+Time elasped: 3133.141341686249
+Time elasped: 3226.3869297504425
+Time elasped: 3317.8862538337708
+Time elasped: 3410.433164358139
+Time elasped: 3500.4292306900024
+Time elasped: 3593.0335643291473
+Time elasped: 3686.283782720566
+Time elasped: 3779.780864715576
+Time elasped: 3872.849867105484
+Time elasped: 3961.967544078827
+Time elasped: 4054.7540822029114
+Time elasped: 4145.449045658112
+Time elasped: 4237.678624629974
+Time elasped: 4421.847534894943
+Epochs: 1
+
+
+
+
+Saving..
+PEAK_GB [10.01, 6.56] saved /kaggle/tmp/logs/s2/epoch_2nd_00000.pth
