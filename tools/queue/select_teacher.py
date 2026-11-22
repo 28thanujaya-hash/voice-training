@@ -1,11 +1,11 @@
 """Teacher v0.3 clip choice (22 Nov). Per (mood, line): the best 2 takes that pass the judge (own mood, or normal via the rejects rule),
-have the right words (the judge CSVs hold only right-word takes) and voice match >= 0.70; ranked by judge confidence for the mood.
+have the right words (the judge CSVs hold only right-word takes) and voice match not in the run's worst 20% (and >= 0.35); ranked by judge confidence for the mood.
 Student lines (split.csv) are left out. ~8% of teacher lines (fixed seed) are validation. Text = the take's own spoken text (tags removed).
 Writes results/teacher_v03/train.csv: file,row,text_b,text,split,id,url (url = raw GitHub mp3)."""
 import csv, os, re, sys, random, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import coverage as C
-R = C.R; RAW = "https://raw.githubusercontent.com/28thanujaya-hash/voice-training/main/results"; MINV = 0.70
+R = C.R; RAW = "https://raw.githubusercontent.com/28thanujaya-hash/voice-training/main/results"; MINV = 0.35   # 22 Nov: absolute 0.70 was unfair (batches 3-4 score ~0.45 with the same recipe)
 split = {(r['mood'], r['id']): r['set'] for r in csv.DictReader(open(f"{R}/results/judge/split.csv"))}
 def texts(run):
     f = f"{R}/results/{run}/takes.csv"; d = {}
@@ -14,13 +14,16 @@ def texts(run):
     return d
 def voice(run):
     f = f"{R}/results/judge/voice_{run}_mix.csv"   # mixed reference (all 4 moods)
-    return {r['file'][:-4]: float(r['cos']) for r in csv.DictReader(open(f))} if os.path.exists(f) else {}
+    if not os.path.exists(f): return {}
+    d = {r['file'][:-4]: float(r['cos']) for r in csv.DictReader(open(f))}
+    v = sorted(d.values()); cut = max(MINV, v[int(len(v) * 0.2)])   # relative: drop each run's worst 20% (the score also depends on the sentences)
+    return {k: x for k, x in d.items() if x >= cut}
 cand = collections.defaultdict(list)   # (row, id) -> (score, run, take, text, voice)
 def add(run, rows, row_of):
     T, V = texts(run), voice(run)
     for r in rows:
         row = row_of(r); k = C.K[row]; v = V.get(r['take'])
-        if v is None or v < MINV or r['take'] not in T: continue
+        if v is None or r['take'] not in T: continue
         score = float(r['p_' + k]) if row != 'normal' else float(r['p_neutral'])
         cand[(row, r['id'])].append((score, run, r['take'], T[r['take']], round(v, 3)))
 for m in C.K:
