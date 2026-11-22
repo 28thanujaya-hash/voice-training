@@ -6,7 +6,7 @@ K = {'low': 'sad', 'bright': 'happy', 'tense': 'angry', 'normal': 'neutral'}
 FULL = {'low': [f'full_low_{i}' for i in range(1, 5)], 'bright': [f'full_bright_{i}' for i in range(1, 5)],
         'tense': [f'full_tense_{i}' for i in range(1, 5)] + ['full_tense_hot_1', 'full_tense_hot_2'], 'normal': [f'full_normal_{i}' for i in range(1, 5)]}
 TOP = {'low': ['low_scene_1', 'low_scene_2', 'run28b_longscene', 'low_fill', 'low_fill_2', 'low_fill_3'],
-       'bright': ['run31_bright_1', 'run31_bright_2', 'run32_bright_calm', 'run32_bright_calm_2', 'bright_calm_fill', 'bright_fill_3'],
+       'bright': ['run31_bright_1', 'run31_bright_2', 'run32_bright_calm', 'run32_bright_calm_2', 'bright_calm_fill', 'bright_fill_3', 'bright_fill_4'],
        'tense': ['tense_scene_1', 'tense_scene_2', 'tense_rx2', 'tense_fill_3'], 'normal': ['normal_fill_1', 'normal_fill_2', 'normal_fill_3', 'normal_fill_4']}
 def ok(r, m):
     p = {k: float(r['p_' + k]) for k in ('neutral', 'happy', 'sad', 'angry')}
