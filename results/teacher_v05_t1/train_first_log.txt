@@ -1,0 +1,1031 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795401427.632810     389 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+DEBUG:root:Skipping import of cpp extensions: Could not load this library: /usr/local/lib/python3.13/dist-packages/torchao/_C.abi3.so
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /microsoft/wavlm-base-plus/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /api/resolve-cache/models/microsoft/wavlm-base-plus/4c66d4806a428f2e922ccfa1a962776e232d487b/config.json HTTP/1.1" 200 0
+DEBUG:filelock:Attempting to acquire lock 139792245364048 on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/b7b4e5f6c410f71283a59e26250e40855ca99310.lock
+DEBUG:filelock:Lock 139792245364048 acquired on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/b7b4e5f6c410f71283a59e26250e40855ca99310.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /api/resolve-cache/models/microsoft/wavlm-base-plus/4c66d4806a428f2e922ccfa1a962776e232d487b/config.json HTTP/1.1" 200 None
+DEBUG:filelock:Attempting to release lock 139792245364048 on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/b7b4e5f6c410f71283a59e26250e40855ca99310.lock
+DEBUG:filelock:Lock 139792245364048 released on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/b7b4e5f6c410f71283a59e26250e40855ca99310.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /microsoft/wavlm-base-plus/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /microsoft/wavlm-base-plus/resolve/main/model.safetensors HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /microsoft/wavlm-base-plus/resolve/main/model.safetensors.index.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /microsoft/wavlm-base-plus/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+DEBUG:filelock:Attempting to acquire lock 139792243599120 on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/3bb273a6ace99408b50cfc81afdbb7ef2de02da2eab0234e18db608ce692fe51.lock
+DEBUG:filelock:Lock 139792243599120 acquired on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/3bb273a6ace99408b50cfc81afdbb7ef2de02da2eab0234e18db608ce692fe51.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /api/models/microsoft/wavlm-base-plus/xet-read-token/4c66d4806a428f2e922ccfa1a962776e232d487b HTTP/1.1" 200 483
+DEBUG:filelock:Attempting to release lock 139792243599120 on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/3bb273a6ace99408b50cfc81afdbb7ef2de02da2eab0234e18db608ce692fe51.lock
+DEBUG:filelock:Lock 139792243599120 released on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/3bb273a6ace99408b50cfc81afdbb7ef2de02da2eab0234e18db608ce692fe51.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /microsoft/wavlm-base-plus/resolve/main/model.safetensors HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /api/models/microsoft/wavlm-base-plus HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /api/models/microsoft/wavlm-base-plus/commits/main HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /api/models/microsoft/wavlm-base-plus/discussions?p=0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /api/models/microsoft/wavlm-base-plus/commits/refs%2Fpr%2F2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /microsoft/wavlm-base-plus/resolve/refs%2Fpr%2F2/model.safetensors.index.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /microsoft/wavlm-base-plus/resolve/refs%2Fpr%2F2/model.safetensors HTTP/1.1" 302 0
+DEBUG:filelock:Attempting to acquire lock 139792243378448 on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/1a252e49ddf1897f1f07f0d73c2a7cca86a05b0ad8d0189a6edc0ad3e55f1ae6.lock
+DEBUG:filelock:Lock 139792243378448 acquired on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/1a252e49ddf1897f1f07f0d73c2a7cca86a05b0ad8d0189a6edc0ad3e55f1ae6.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /api/models/microsoft/wavlm-base-plus/xet-read-token/98fd61b9c652129c839c0a25a05987d8f59256a4 HTTP/1.1" 200 483
+WARNING:kokoro_tb_utils:Could not load German G2P for TensorBoard inference: No module named 'misaki'
+WARNING:__main__:[RANK 0] TensorBoard inference: no test sentences available (misaki/espeak not found?)
+INFO:__main__:[RANK 0] Extracting pretrained baseline voicepack for TensorBoard...
+DEBUG:filelock:Attempting to release lock 139792243378448 on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/1a252e49ddf1897f1f07f0d73c2a7cca86a05b0ad8d0189a6edc0ad3e55f1ae6.lock
+DEBUG:filelock:Lock 139792243378448 released on /root/.cache/huggingface/hub/.locks/models--microsoft--wavlm-base-plus/1a252e49ddf1897f1f07f0d73c2a7cca86a05b0ad8d0189a6edc0ad3e55f1ae6.lock
+INFO:__main__:[RANK 0]   acoustic_norm=0.3824  prosodic_norm=0.3326
+bert loaded
+bert_encoder loaded
+predictor loaded
+decoder loaded
+text_encoder loaded
+INFO:__main__:[RANK 0] Epoch [1/5], Step [10/563], Mel Loss: 0.52311, Gen Loss: 4.95718, Disc Loss: 5.36879, Mono Loss: 0.16005, S2S Loss: 6.95705, SLM Loss: 2.10779
+INFO:__main__:[RANK 0] Epoch [1/5], Step [20/563], Mel Loss: 0.43526, Gen Loss: 3.80882, Disc Loss: 4.87829, Mono Loss: 0.26811, S2S Loss: 7.88264, SLM Loss: 2.30738
+INFO:__main__:[RANK 0] Epoch [1/5], Step [30/563], Mel Loss: 0.46487, Gen Loss: 3.12483, Disc Loss: 4.25539, Mono Loss: 0.16555, S2S Loss: 5.64691, SLM Loss: 2.20011
+INFO:__main__:[RANK 0] Epoch [1/5], Step [40/563], Mel Loss: 0.40587, Gen Loss: 2.68449, Disc Loss: 4.05739, Mono Loss: 0.21306, S2S Loss: 5.48340, SLM Loss: 1.86093
+INFO:__main__:[RANK 0] Epoch [1/5], Step [50/563], Mel Loss: 0.41095, Gen Loss: 2.63629, Disc Loss: 4.02932, Mono Loss: 0.15379, S2S Loss: 4.96062, SLM Loss: 1.87191
+INFO:__main__:[RANK 0] Epoch [1/5], Step [60/563], Mel Loss: 0.40425, Gen Loss: 2.66645, Disc Loss: 4.03493, Mono Loss: 0.17098, S2S Loss: 5.26227, SLM Loss: 2.01594
+INFO:__main__:[RANK 0] Epoch [1/5], Step [70/563], Mel Loss: 0.36322, Gen Loss: 2.53679, Disc Loss: 4.03692, Mono Loss: 0.16077, S2S Loss: 3.68844, SLM Loss: 1.86470
+INFO:__main__:[RANK 0] Epoch [1/5], Step [80/563], Mel Loss: 0.36476, Gen Loss: 2.73325, Disc Loss: 4.00732, Mono Loss: 0.12930, S2S Loss: 5.30580, SLM Loss: 2.10948
+INFO:__main__:[RANK 0] Epoch [1/5], Step [90/563], Mel Loss: 0.36842, Gen Loss: 2.63530, Disc Loss: 4.02122, Mono Loss: 0.20509, S2S Loss: 3.95691, SLM Loss: 2.12811
+INFO:__main__:[RANK 0] Epoch [1/5], Step [100/563], Mel Loss: 0.40598, Gen Loss: 2.69299, Disc Loss: 4.04590, Mono Loss: 0.08971, S2S Loss: 4.75989, SLM Loss: 2.13596
+INFO:__main__:[RANK 0] Epoch [1/5], Step [110/563], Mel Loss: 0.36988, Gen Loss: 2.68187, Disc Loss: 4.10307, Mono Loss: 0.28356, S2S Loss: 4.77406, SLM Loss: 2.63979
+INFO:__main__:[RANK 0] Epoch [1/5], Step [120/563], Mel Loss: 0.40815, Gen Loss: 2.93602, Disc Loss: 3.98317, Mono Loss: 0.21224, S2S Loss: 4.84422, SLM Loss: 1.76213
+INFO:__main__:[RANK 0] Epoch [1/5], Step [130/563], Mel Loss: 0.35813, Gen Loss: 2.53091, Disc Loss: 4.05671, Mono Loss: 0.11056, S2S Loss: 4.50167, SLM Loss: 2.02739
+INFO:__main__:[RANK 0] Epoch [1/5], Step [140/563], Mel Loss: 0.37249, Gen Loss: 2.71629, Disc Loss: 4.02415, Mono Loss: 0.30161, S2S Loss: 4.33082, SLM Loss: 1.99687
+INFO:__main__:[RANK 0] Epoch [1/5], Step [150/563], Mel Loss: 0.33208, Gen Loss: 2.65506, Disc Loss: 4.08334, Mono Loss: 0.30590, S2S Loss: 4.25570, SLM Loss: 1.55921
+INFO:__main__:[RANK 0] Epoch [1/5], Step [160/563], Mel Loss: 0.32519, Gen Loss: 3.23118, Disc Loss: 3.93975, Mono Loss: 0.29806, S2S Loss: 3.88425, SLM Loss: 1.31486
+INFO:__main__:[RANK 0] Epoch [1/5], Step [170/563], Mel Loss: 0.36500, Gen Loss: 3.52480, Disc Loss: 3.92159, Mono Loss: 0.39008, S2S Loss: 3.35064, SLM Loss: 1.59071
+INFO:__main__:[RANK 0] Epoch [1/5], Step [180/563], Mel Loss: 0.33859, Gen Loss: 2.67836, Disc Loss: 3.98573, Mono Loss: 0.16571, S2S Loss: 3.52799, SLM Loss: 1.85921
+INFO:__main__:[RANK 0] Epoch [1/5], Step [190/563], Mel Loss: 0.30440, Gen Loss: 2.61563, Disc Loss: 4.09165, Mono Loss: 0.19531, S2S Loss: 3.68338, SLM Loss: 1.53432
+INFO:__main__:[RANK 0] Epoch [1/5], Step [200/563], Mel Loss: 0.37939, Gen Loss: 2.66726, Disc Loss: 4.02657, Mono Loss: 0.09976, S2S Loss: 3.78095, SLM Loss: 2.14029
+INFO:__main__:[RANK 0] Epoch [1/5], Step [210/563], Mel Loss: 0.34984, Gen Loss: 3.28159, Disc Loss: 3.99559, Mono Loss: 0.42685, S2S Loss: 4.02508, SLM Loss: 1.61986
+INFO:__main__:[RANK 0] Epoch [1/5], Step [220/563], Mel Loss: 0.31790, Gen Loss: 2.59013, Disc Loss: 4.03219, Mono Loss: 0.13831, S2S Loss: 3.06601, SLM Loss: 1.54603
+INFO:__main__:[RANK 0] Epoch [1/5], Step [230/563], Mel Loss: 0.33452, Gen Loss: 2.55114, Disc Loss: 3.99382, Mono Loss: 0.15421, S2S Loss: 4.29992, SLM Loss: 2.13913
+INFO:__main__:[RANK 0] Epoch [1/5], Step [240/563], Mel Loss: 0.32547, Gen Loss: 2.56128, Disc Loss: 4.02065, Mono Loss: 0.19307, S2S Loss: 3.62064, SLM Loss: 2.14828
+INFO:__main__:[RANK 0] Epoch [1/5], Step [250/563], Mel Loss: 0.29225, Gen Loss: 2.61790, Disc Loss: 3.99778, Mono Loss: 0.14239, S2S Loss: 3.19296, SLM Loss: 1.77206
+INFO:__main__:[RANK 0] Epoch [1/5], Step [260/563], Mel Loss: 0.32724, Gen Loss: 2.57918, Disc Loss: 4.05522, Mono Loss: 0.13877, S2S Loss: 3.41017, SLM Loss: 1.64900
+INFO:__main__:[RANK 0] Epoch [1/5], Step [270/563], Mel Loss: 0.34724, Gen Loss: 2.91418, Disc Loss: 4.00179, Mono Loss: 0.32139, S2S Loss: 3.41536, SLM Loss: 1.57964
+INFO:__main__:[RANK 0] Epoch [1/5], Step [280/563], Mel Loss: 0.31738, Gen Loss: 2.82073, Disc Loss: 3.98270, Mono Loss: 0.13168, S2S Loss: 3.20125, SLM Loss: 1.65661
+INFO:__main__:[RANK 0] Epoch [1/5], Step [290/563], Mel Loss: 0.29045, Gen Loss: 2.74893, Disc Loss: 3.97147, Mono Loss: 0.25020, S2S Loss: 3.96627, SLM Loss: 1.84393
+INFO:__main__:[RANK 0] Epoch [1/5], Step [300/563], Mel Loss: 0.29276, Gen Loss: 2.65990, Disc Loss: 4.02769, Mono Loss: 0.35430, S2S Loss: 2.65447, SLM Loss: 1.58529
+INFO:__main__:[RANK 0] Epoch [1/5], Step [310/563], Mel Loss: 0.32488, Gen Loss: 2.91461, Disc Loss: 4.00775, Mono Loss: 0.14863, S2S Loss: 2.91769, SLM Loss: 1.46767
+INFO:__main__:[RANK 0] Epoch [1/5], Step [320/563], Mel Loss: 0.30451, Gen Loss: 2.68203, Disc Loss: 3.98282, Mono Loss: 0.10014, S2S Loss: 3.30386, SLM Loss: 1.36135
+INFO:__main__:[RANK 0] Epoch [1/5], Step [330/563], Mel Loss: 0.32543, Gen Loss: 2.29636, Disc Loss: 4.00773, Mono Loss: 0.21920, S2S Loss: 2.73344, SLM Loss: 1.66214
+INFO:__main__:[RANK 0] Epoch [1/5], Step [340/563], Mel Loss: 0.33071, Gen Loss: 2.50615, Disc Loss: 4.01167, Mono Loss: 0.32263, S2S Loss: 3.91888, SLM Loss: 2.19665
+INFO:__main__:[RANK 0] Epoch [1/5], Step [350/563], Mel Loss: 0.32844, Gen Loss: 2.70175, Disc Loss: 3.96048, Mono Loss: 0.15566, S2S Loss: 2.70192, SLM Loss: 1.47746
+INFO:__main__:[RANK 0] Epoch [1/5], Step [360/563], Mel Loss: 0.28380, Gen Loss: 2.77870, Disc Loss: 3.97826, Mono Loss: 0.13680, S2S Loss: 2.59971, SLM Loss: 1.98596
+INFO:__main__:[RANK 0] Epoch [1/5], Step [370/563], Mel Loss: 0.35157, Gen Loss: 2.44297, Disc Loss: 3.99833, Mono Loss: 0.11434, S2S Loss: 3.04822, SLM Loss: 1.67874
+INFO:__main__:[RANK 0] Epoch [1/5], Step [380/563], Mel Loss: 0.28248, Gen Loss: 2.44337, Disc Loss: 3.99960, Mono Loss: 0.13928, S2S Loss: 3.05449, SLM Loss: 1.67310
+INFO:__main__:[RANK 0] Epoch [1/5], Step [390/563], Mel Loss: 0.31641, Gen Loss: 2.61330, Disc Loss: 4.00737, Mono Loss: 0.18212, S2S Loss: 3.12946, SLM Loss: 1.47381
+INFO:__main__:[RANK 0] Epoch [1/5], Step [400/563], Mel Loss: 0.31730, Gen Loss: 2.75165, Disc Loss: 3.96321, Mono Loss: 0.32082, S2S Loss: 2.54180, SLM Loss: 1.51265
+INFO:__main__:[RANK 0] Epoch [1/5], Step [410/563], Mel Loss: 0.31382, Gen Loss: 2.85998, Disc Loss: 3.95453, Mono Loss: 0.14340, S2S Loss: 3.00436, SLM Loss: 1.63091
+INFO:__main__:[RANK 0] Epoch [1/5], Step [420/563], Mel Loss: 0.27924, Gen Loss: 2.50465, Disc Loss: 3.98744, Mono Loss: 0.11523, S2S Loss: 2.32276, SLM Loss: 1.55772
+INFO:__main__:[RANK 0] Epoch [1/5], Step [430/563], Mel Loss: 0.29252, Gen Loss: 2.44280, Disc Loss: 4.00813, Mono Loss: 0.11833, S2S Loss: 3.49340, SLM Loss: 1.41363
+INFO:__main__:[RANK 0] Epoch [1/5], Step [440/563], Mel Loss: 0.30642, Gen Loss: 2.62342, Disc Loss: 3.99249, Mono Loss: 0.14724, S2S Loss: 2.48728, SLM Loss: 1.76582
+INFO:__main__:[RANK 0] Epoch [1/5], Step [450/563], Mel Loss: 0.31391, Gen Loss: 2.49710, Disc Loss: 4.04187, Mono Loss: 0.12124, S2S Loss: 3.46633, SLM Loss: 1.78619
+INFO:__main__:[RANK 0] Epoch [1/5], Step [460/563], Mel Loss: 0.30504, Gen Loss: 2.64612, Disc Loss: 4.00097, Mono Loss: 0.14831, S2S Loss: 2.27330, SLM Loss: 1.53536
+INFO:__main__:[RANK 0] Epoch [1/5], Step [470/563], Mel Loss: 0.28522, Gen Loss: 2.50957, Disc Loss: 4.00639, Mono Loss: 0.16455, S2S Loss: 2.28615, SLM Loss: 1.34846
+Epoch [1/5], Step [10/563], Mel Loss: 0.52311, Gen Loss: 4.95718, Disc Loss: 5.36879, Mono Loss: 0.16005, S2S Loss: 6.95705, SLM Loss: 2.10779
+Time elasped: 27.990308046340942
+Epoch [1/5], Step [20/563], Mel Loss: 0.43526, Gen Loss: 3.80882, Disc Loss: 4.87829, Mono Loss: 0.26811, S2S Loss: 7.88264, SLM Loss: 2.30738
+Time elasped: 53.82866430282593
+Epoch [1/5], Step [30/563], Mel Loss: 0.46487, Gen Loss: 3.12483, Disc Loss: 4.25539, Mono Loss: 0.16555, S2S Loss: 5.64691, SLM Loss: 2.20011
+Time elasped: 78.85098218917847
+Epoch [1/5], Step [40/563], Mel Loss: 0.40587, Gen Loss: 2.68449, Disc Loss: 4.05739, Mono Loss: 0.21306, S2S Loss: 5.48340, SLM Loss: 1.86093
+Time elasped: 105.17192649841309
+Epoch [1/5], Step [50/563], Mel Loss: 0.41095, Gen Loss: 2.63629, Disc Loss: 4.02932, Mono Loss: 0.15379, S2S Loss: 4.96062, SLM Loss: 1.87191
+Time elasped: 132.2801492214203
+Epoch [1/5], Step [60/563], Mel Loss: 0.40425, Gen Loss: 2.66645, Disc Loss: 4.03493, Mono Loss: 0.17098, S2S Loss: 5.26227, SLM Loss: 2.01594
+Time elasped: 158.73237204551697
+Epoch [1/5], Step [70/563], Mel Loss: 0.36322, Gen Loss: 2.53679, Disc Loss: 4.03692, Mono Loss: 0.16077, S2S Loss: 3.68844, SLM Loss: 1.86470
+Time elasped: 185.8311071395874
+Epoch [1/5], Step [80/563], Mel Loss: 0.36476, Gen Loss: 2.73325, Disc Loss: 4.00732, Mono Loss: 0.12930, S2S Loss: 5.30580, SLM Loss: 2.10948
+Time elasped: 210.06825995445251
+Epoch [1/5], Step [90/563], Mel Loss: 0.36842, Gen Loss: 2.63530, Disc Loss: 4.02122, Mono Loss: 0.20509, S2S Loss: 3.95691, SLM Loss: 2.12811
+Time elasped: 234.5493049621582
+Epoch [1/5], Step [100/563], Mel Loss: 0.40598, Gen Loss: 2.69299, Disc Loss: 4.04590, Mono Loss: 0.08971, S2S Loss: 4.75989, SLM Loss: 2.13596
+Time elasped: 260.8408136367798
+Epoch [1/5], Step [110/563], Mel Loss: 0.36988, Gen Loss: 2.68187, Disc Loss: 4.10307, Mono Loss: 0.28356, S2S Loss: 4.77406, SLM Loss: 2.63979
+Time elasped: 286.9921646118164
+Epoch [1/5], Step [120/563], Mel Loss: 0.40815, Gen Loss: 2.93602, Disc Loss: 3.98317, Mono Loss: 0.21224, S2S Loss: 4.84422, SLM Loss: 1.76213
+Time elasped: 313.9453823566437
+Epoch [1/5], Step [130/563], Mel Loss: 0.35813, Gen Loss: 2.53091, Disc Loss: 4.05671, Mono Loss: 0.11056, S2S Loss: 4.50167, SLM Loss: 2.02739
+Time elasped: 339.6560037136078
+Epoch [1/5], Step [140/563], Mel Loss: 0.37249, Gen Loss: 2.71629, Disc Loss: 4.02415, Mono Loss: 0.30161, S2S Loss: 4.33082, SLM Loss: 1.99687
+Time elasped: 366.9221022129059
+Epoch [1/5], Step [150/563], Mel Loss: 0.33208, Gen Loss: 2.65506, Disc Loss: 4.08334, Mono Loss: 0.30590, S2S Loss: 4.25570, SLM Loss: 1.55921
+Time elasped: 390.7527759075165
+Epoch [1/5], Step [160/563], Mel Loss: 0.32519, Gen Loss: 3.23118, Disc Loss: 3.93975, Mono Loss: 0.29806, S2S Loss: 3.88425, SLM Loss: 1.31486
+Time elasped: 416.09197521209717
+Epoch [1/5], Step [170/563], Mel Loss: 0.36500, Gen Loss: 3.52480, Disc Loss: 3.92159, Mono Loss: 0.39008, S2S Loss: 3.35064, SLM Loss: 1.59071
+Time elasped: 444.1900968551636
+Epoch [1/5], Step [180/563], Mel Loss: 0.33859, Gen Loss: 2.67836, Disc Loss: 3.98573, Mono Loss: 0.16571, S2S Loss: 3.52799, SLM Loss: 1.85921
+Time elasped: 468.5200457572937
+Epoch [1/5], Step [190/563], Mel Loss: 0.30440, Gen Loss: 2.61563, Disc Loss: 4.09165, Mono Loss: 0.19531, S2S Loss: 3.68338, SLM Loss: 1.53432
+Time elasped: 493.62329840660095
+Epoch [1/5], Step [200/563], Mel Loss: 0.37939, Gen Loss: 2.66726, Disc Loss: 4.02657, Mono Loss: 0.09976, S2S Loss: 3.78095, SLM Loss: 2.14029
+Time elasped: 520.9842870235443
+Epoch [1/5], Step [210/563], Mel Loss: 0.34984, Gen Loss: 3.28159, Disc Loss: 3.99559, Mono Loss: 0.42685, S2S Loss: 4.02508, SLM Loss: 1.61986
+Time elasped: 548.288877248764
+Epoch [1/5], Step [220/563], Mel Loss: 0.31790, Gen Loss: 2.59013, Disc Loss: 4.03219, Mono Loss: 0.13831, S2S Loss: 3.06601, SLM Loss: 1.54603
+Time elasped: 574.4628474712372
+Epoch [1/5], Step [230/563], Mel Loss: 0.33452, Gen Loss: 2.55114, Disc Loss: 3.99382, Mono Loss: 0.15421, S2S Loss: 4.29992, SLM Loss: 2.13913
+Time elasped: 600.7158570289612
+Epoch [1/5], Step [240/563], Mel Loss: 0.32547, Gen Loss: 2.56128, Disc Loss: 4.02065, Mono Loss: 0.19307, S2S Loss: 3.62064, SLM Loss: 2.14828
+Time elasped: 625.6992633342743
+Epoch [1/5], Step [250/563], Mel Loss: 0.29225, Gen Loss: 2.61790, Disc Loss: 3.99778, Mono Loss: 0.14239, S2S Loss: 3.19296, SLM Loss: 1.77206
+Time elasped: 651.9745786190033
+Epoch [1/5], Step [260/563], Mel Loss: 0.32724, Gen Loss: 2.57918, Disc Loss: 4.05522, Mono Loss: 0.13877, S2S Loss: 3.41017, SLM Loss: 1.64900
+Time elasped: 679.3002483844757
+Epoch [1/5], Step [270/563], Mel Loss: 0.34724, Gen Loss: 2.91418, Disc Loss: 4.00179, Mono Loss: 0.32139, S2S Loss: 3.41536, SLM Loss: 1.57964
+Time elasped: 705.2842366695404
+Epoch [1/5], Step [280/563], Mel Loss: 0.31738, Gen Loss: 2.82073, Disc Loss: 3.98270, Mono Loss: 0.13168, S2S Loss: 3.20125, SLM Loss: 1.65661
+Time elasped: 730.3802044391632
+Epoch [1/5], Step [290/563], Mel Loss: 0.29045, Gen Loss: 2.74893, Disc Loss: 3.97147, Mono Loss: 0.25020, S2S Loss: 3.96627, SLM Loss: 1.84393
+Time elasped: 753.8459684848785
+Epoch [1/5], Step [300/563], Mel Loss: 0.29276, Gen Loss: 2.65990, Disc Loss: 4.02769, Mono Loss: 0.35430, S2S Loss: 2.65447, SLM Loss: 1.58529
+Time elasped: 777.2351670265198
+Epoch [1/5], Step [310/563], Mel Loss: 0.32488, Gen Loss: 2.91461, Disc Loss: 4.00775, Mono Loss: 0.14863, S2S Loss: 2.91769, SLM Loss: 1.46767
+Time elasped: 803.3104348182678
+Epoch [1/5], Step [320/563], Mel Loss: 0.30451, Gen Loss: 2.68203, Disc Loss: 3.98282, Mono Loss: 0.10014, S2S Loss: 3.30386, SLM Loss: 1.36135
+Time elasped: 828.1280329227448
+Epoch [1/5], Step [330/563], Mel Loss: 0.32543, Gen Loss: 2.29636, Disc Loss: 4.00773, Mono Loss: 0.21920, S2S Loss: 2.73344, SLM Loss: 1.66214
+Time elasped: 854.7619791030884
+Epoch [1/5], Step [340/563], Mel Loss: 0.33071, Gen Loss: 2.50615, Disc Loss: 4.01167, Mono Loss: 0.32263, S2S Loss: 3.91888, SLM Loss: 2.19665
+Time elasped: 880.9901356697083
+Epoch [1/5], Step [350/563], Mel Loss: 0.32844, Gen Loss: 2.70175, Disc Loss: 3.96048, Mono Loss: 0.15566, S2S Loss: 2.70192, SLM Loss: 1.47746
+Time elasped: 905.6260809898376
+Epoch [1/5], Step [360/563], Mel Loss: 0.28380, Gen Loss: 2.77870, Disc Loss: 3.97826, Mono Loss: 0.13680, S2S Loss: 2.59971, SLM Loss: 1.98596
+Time elasped: 930.7089288234711
+Epoch [1/5], Step [370/563], Mel Loss: 0.35157, Gen Loss: 2.44297, Disc Loss: 3.99833, Mono Loss: 0.11434, S2S Loss: 3.04822, SLM Loss: 1.67874
+Time elasped: 957.0183143615723
+Epoch [1/5], Step [380/563], Mel Loss: 0.28248, Gen Loss: 2.44337, Disc Loss: 3.99960, Mono Loss: 0.13928, S2S Loss: 3.05449, SLM Loss: 1.67310
+Time elasped: 981.043096780777
+Epoch [1/5], Step [390/563], Mel Loss: 0.31641, Gen Loss: 2.61330, Disc Loss: 4.00737, Mono Loss: 0.18212, S2S Loss: 3.12946, SLM Loss: 1.47381
+Time elasped: 1008.0342977046967
+Epoch [1/5], Step [400/563], Mel Loss: 0.31730, Gen Loss: 2.75165, Disc Loss: 3.96321, Mono Loss: 0.32082, S2S Loss: 2.54180, SLM Loss: 1.51265
+Time elasped: 1034.4655566215515
+Epoch [1/5], Step [410/563], Mel Loss: 0.31382, Gen Loss: 2.85998, Disc Loss: 3.95453, Mono Loss: 0.14340, S2S Loss: 3.00436, SLM Loss: 1.63091
+Time elasped: 1061.8597798347473
+Epoch [1/5], Step [420/563], Mel Loss: 0.27924, Gen Loss: 2.50465, Disc Loss: 3.98744, Mono Loss: 0.11523, S2S Loss: 2.32276, SLM Loss: 1.55772
+Time elasped: 1087.188687324524
+Epoch [1/5], Step [430/563], Mel Loss: 0.29252, Gen Loss: 2.44280, Disc Loss: 4.00813, Mono Loss: 0.11833, S2S Loss: 3.49340, SLM Loss: 1.41363
+Time elasped: 1111.7572095394135
+Epoch [1/5], Step [440/563], Mel Loss: 0.30642, Gen Loss: 2.62342, Disc Loss: 3.99249, Mono Loss: 0.14724, S2S Loss: 2.48728, SLM Loss: 1.76582
+Time elasped: 1136.3428127765656
+Epoch [1/5], Step [450/563], Mel Loss: 0.31391, Gen Loss: 2.49710, Disc Loss: 4.04187, Mono Loss: 0.12124, S2S Loss: 3.46633, SLM Loss: 1.78619
+Time elasped: 1161.4995489120483
+Epoch [1/5], Step [460/563], Mel Loss: 0.30504, Gen Loss: 2.64612, Disc Loss: 4.00097, Mono Loss: 0.14831, S2S Loss: 2.27330, SLM Loss: 1.53536
+Time elasped: 1187.2314236164093
+Epoch [1/5], Step [470/563], Mel Loss: 0.28522, Gen Loss: 2.50957, Disc Loss: 4.00639, Mono Loss: 0.16455, S2S Loss: 2.28615, SLM Loss: 1.34846INFO:__main__:[RANK 0] Epoch [1/5], Step [480/563], Mel Loss: 0.30152, Gen Loss: 2.54046, Disc Loss: 3.98923, Mono Loss: 0.20335, S2S Loss: 3.33429, SLM Loss: 2.28127
+INFO:__main__:[RANK 0] Epoch [1/5], Step [490/563], Mel Loss: 0.30803, Gen Loss: 2.89826, Disc Loss: 4.01114, Mono Loss: 0.12364, S2S Loss: 2.70817, SLM Loss: 1.59497
+INFO:__main__:[RANK 0] Epoch [1/5], Step [500/563], Mel Loss: 0.28542, Gen Loss: 2.88260, Disc Loss: 3.96425, Mono Loss: 0.20246, S2S Loss: 2.19700, SLM Loss: 1.69657
+INFO:__main__:[RANK 0] Epoch [1/5], Step [510/563], Mel Loss: 0.29074, Gen Loss: 2.73765, Disc Loss: 3.94453, Mono Loss: 0.30054, S2S Loss: 2.15505, SLM Loss: 1.50894
+INFO:__main__:[RANK 0] Epoch [1/5], Step [520/563], Mel Loss: 0.25983, Gen Loss: 2.82436, Disc Loss: 3.98676, Mono Loss: 0.27387, S2S Loss: 3.09953, SLM Loss: 1.37716
+INFO:__main__:[RANK 0] Epoch [1/5], Step [530/563], Mel Loss: 0.29908, Gen Loss: 2.80379, Disc Loss: 3.96852, Mono Loss: 0.11653, S2S Loss: 3.23606, SLM Loss: 1.83630
+INFO:__main__:[RANK 0] Epoch [1/5], Step [540/563], Mel Loss: 0.25894, Gen Loss: 2.59909, Disc Loss: 4.01899, Mono Loss: 0.21945, S2S Loss: 1.97654, SLM Loss: 1.33051
+INFO:__main__:[RANK 0] Epoch [1/5], Step [550/563], Mel Loss: 0.29638, Gen Loss: 2.86140, Disc Loss: 4.01983, Mono Loss: 0.09577, S2S Loss: 1.85233, SLM Loss: 1.37779
+INFO:__main__:[RANK 0] Epoch [1/5], Step [560/563], Mel Loss: 0.27713, Gen Loss: 2.81361, Disc Loss: 3.98165, Mono Loss: 0.16399, S2S Loss: 2.32183, SLM Loss: 1.45079
+INFO:__main__:[RANK 0] Validation loss: 0.302
+
+
+
+
+DEBUG:matplotlib.pyplot:Loaded backend agg version v2.2.
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf', name='Liberation Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf', name='Liberation Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/humor-sans/Humor-Sans.ttf', name='Humor Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.13/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+INFO:__main__:[RANK 0] Epoch 0: extracting voicepack for TensorBoard inference...
+INFO:__main__:[RANK 0]   acoustic_norm=1.9063  prosodic_norm=0.3325
+
+Time elasped: 1215.6071910858154
+Epoch [1/5], Step [480/563], Mel Loss: 0.30152, Gen Loss: 2.54046, Disc Loss: 3.98923, Mono Loss: 0.20335, S2S Loss: 3.33429, SLM Loss: 2.28127
+Time elasped: 1242.2933387756348
+Epoch [1/5], Step [490/563], Mel Loss: 0.30803, Gen Loss: 2.89826, Disc Loss: 4.01114, Mono Loss: 0.12364, S2S Loss: 2.70817, SLM Loss: 1.59497
+Time elasped: 1267.392199754715
+Epoch [1/5], Step [500/563], Mel Loss: 0.28542, Gen Loss: 2.88260, Disc Loss: 3.96425, Mono Loss: 0.20246, S2S Loss: 2.19700, SLM Loss: 1.69657
+Time elasped: 1293.3283166885376
+Epoch [1/5], Step [510/563], Mel Loss: 0.29074, Gen Loss: 2.73765, Disc Loss: 3.94453, Mono Loss: 0.30054, S2S Loss: 2.15505, SLM Loss: 1.50894
+Time elasped: 1317.58940076828
+Epoch [1/5], Step [520/563], Mel Loss: 0.25983, Gen Loss: 2.82436, Disc Loss: 3.98676, Mono Loss: 0.27387, S2S Loss: 3.09953, SLM Loss: 1.37716
+Time elasped: 1339.828066110611
+Epoch [1/5], Step [530/563], Mel Loss: 0.29908, Gen Loss: 2.80379, Disc Loss: 3.96852, Mono Loss: 0.11653, S2S Loss: 3.23606, SLM Loss: 1.83630
+Time elasped: 1365.8922638893127
+Epoch [1/5], Step [540/563], Mel Loss: 0.25894, Gen Loss: 2.59909, Disc Loss: 4.01899, Mono Loss: 0.21945, S2S Loss: 1.97654, SLM Loss: 1.33051
+Time elasped: 1392.299962759018
+Epoch [1/5], Step [550/563], Mel Loss: 0.29638, Gen Loss: 2.86140, Disc Loss: 4.01983, Mono Loss: 0.09577, S2S Loss: 1.85233, SLM Loss: 1.37779
+Time elasped: 1419.0373723506927
+Epoch [1/5], Step [560/563], Mel Loss: 0.27713, Gen Loss: 2.81361, Disc Loss: 3.98165, Mono Loss: 0.16399, S2S Loss: 2.32183, SLM Loss: 1.45079
+Time elasped: 1443.1156642436981
+Epochs: 1
+Validation loss: 0.302
+
+
+
+
+
+
+
+
+Saving..
+INFO:__main__:[RANK 0] Epoch [2/5], Step [10/563], Mel Loss: 0.27025, Gen Loss: 2.90818, Disc Loss: 4.02647, Mono Loss: 0.14508, S2S Loss: 2.29097, SLM Loss: 1.52142
+INFO:__main__:[RANK 0] Epoch [2/5], Step [20/563], Mel Loss: 0.34227, Gen Loss: 2.64061, Disc Loss: 3.97380, Mono Loss: 0.11090, S2S Loss: 2.00885, SLM Loss: 1.69282
+INFO:__main__:[RANK 0] Epoch [2/5], Step [30/563], Mel Loss: 0.30610, Gen Loss: 2.85712, Disc Loss: 3.94681, Mono Loss: 0.11666, S2S Loss: 2.57221, SLM Loss: 1.66144
+INFO:__main__:[RANK 0] Epoch [2/5], Step [40/563], Mel Loss: 0.29566, Gen Loss: 2.47667, Disc Loss: 3.97607, Mono Loss: 0.15683, S2S Loss: 2.15265, SLM Loss: 2.32279
+INFO:__main__:[RANK 0] Epoch [2/5], Step [50/563], Mel Loss: 0.32965, Gen Loss: 2.55027, Disc Loss: 3.99820, Mono Loss: 0.14483, S2S Loss: 2.89334, SLM Loss: 2.19119
+INFO:__main__:[RANK 0] Epoch [2/5], Step [60/563], Mel Loss: 0.33892, Gen Loss: 2.85015, Disc Loss: 3.98321, Mono Loss: 0.14750, S2S Loss: 2.34325, SLM Loss: 1.83694
+INFO:__main__:[RANK 0] Epoch [2/5], Step [70/563], Mel Loss: 0.29242, Gen Loss: 2.59610, Disc Loss: 4.03700, Mono Loss: 0.12478, S2S Loss: 2.20624, SLM Loss: 1.29272
+INFO:__main__:[RANK 0] Epoch [2/5], Step [80/563], Mel Loss: 0.29240, Gen Loss: 2.38874, Disc Loss: 3.98678, Mono Loss: 0.12177, S2S Loss: 3.23710, SLM Loss: 1.95795
+INFO:__main__:[RANK 0] Epoch [2/5], Step [90/563], Mel Loss: 0.26997, Gen Loss: 2.71886, Disc Loss: 3.95577, Mono Loss: 0.11155, S2S Loss: 2.37795, SLM Loss: 1.62532
+INFO:__main__:[RANK 0] Epoch [2/5], Step [100/563], Mel Loss: 0.30931, Gen Loss: 2.53530, Disc Loss: 3.97664, Mono Loss: 0.16659, S2S Loss: 2.43310, SLM Loss: 2.31812
+INFO:__main__:[RANK 0] Epoch [2/5], Step [110/563], Mel Loss: 0.26566, Gen Loss: 3.40164, Disc Loss: 3.96615, Mono Loss: 0.11529, S2S Loss: 2.43505, SLM Loss: 1.57138
+INFO:__main__:[RANK 0] Epoch [2/5], Step [120/563], Mel Loss: 0.29283, Gen Loss: 3.40823, Disc Loss: 4.01515, Mono Loss: 0.07931, S2S Loss: 2.22674, SLM Loss: 1.71092
+INFO:__main__:[RANK 0] Epoch [2/5], Step [130/563], Mel Loss: 0.28642, Gen Loss: 2.59842, Disc Loss: 3.97427, Mono Loss: 0.08921, S2S Loss: 3.15091, SLM Loss: 1.95985
+INFO:__main__:[RANK 0] Epoch [2/5], Step [140/563], Mel Loss: 0.29032, Gen Loss: 2.51160, Disc Loss: 3.99288, Mono Loss: 0.18984, S2S Loss: 2.23976, SLM Loss: 1.68030
+INFO:__main__:[RANK 0] Epoch [2/5], Step [150/563], Mel Loss: 0.31338, Gen Loss: 2.27962, Disc Loss: 4.00136, Mono Loss: 0.09616, S2S Loss: 2.93201, SLM Loss: 1.90336
+INFO:__main__:[RANK 0] Epoch [2/5], Step [160/563], Mel Loss: 0.29377, Gen Loss: 2.56714, Disc Loss: 3.98647, Mono Loss: 0.15117, S2S Loss: 2.29594, SLM Loss: 1.67750
+INFO:__main__:[RANK 0] Epoch [2/5], Step [170/563], Mel Loss: 0.30692, Gen Loss: 2.79287, Disc Loss: 4.00098, Mono Loss: 0.16836, S2S Loss: 1.83437, SLM Loss: 1.68845
+INFO:__main__:[RANK 0] Epoch [2/5], Step [180/563], Mel Loss: 0.25380, Gen Loss: 3.34446, Disc Loss: 3.91378, Mono Loss: 0.13603, S2S Loss: 2.30249, SLM Loss: 1.47493
+INFO:__main__:[RANK 0] Epoch [2/5], Step [190/563], Mel Loss: 0.24899, Gen Loss: 3.06329, Disc Loss: 3.93122, Mono Loss: 0.32574, S2S Loss: 2.12420, SLM Loss: 1.29559
+INFO:__main__:[RANK 0] Epoch [2/5], Step [200/563], Mel Loss: 0.28122, Gen Loss: 2.52103, Disc Loss: 4.01855, Mono Loss: 0.20378, S2S Loss: 1.87772, SLM Loss: 1.51380
+INFO:__main__:[RANK 0] Epoch [2/5], Step [210/563], Mel Loss: 0.26455, Gen Loss: 2.49458, Disc Loss: 4.02971, Mono Loss: 0.09955, S2S Loss: 2.02723, SLM Loss: 1.96632
+INFO:__main__:[RANK 0] Epoch [2/5], Step [220/563], Mel Loss: 0.27501, Gen Loss: 2.63650, Disc Loss: 3.99857, Mono Loss: 0.09642, S2S Loss: 1.98511, SLM Loss: 1.39120
+INFO:__main__:[RANK 0] Epoch [2/5], Step [230/563], Mel Loss: 0.27376, Gen Loss: 2.30017, Disc Loss: 3.98859, Mono Loss: 0.15309, S2S Loss: 2.80465, SLM Loss: 1.70677
+INFO:__main__:[RANK 0] Epoch [2/5], Step [240/563], Mel Loss: 0.30070, Gen Loss: 2.97697, Disc Loss: 3.97223, Mono Loss: 0.18659, S2S Loss: 2.03346, SLM Loss: 1.24681
+INFO:__main__:[RANK 0] Epoch [2/5], Step [250/563], Mel Loss: 0.29841, Gen Loss: 2.38027, Disc Loss: 3.98113, Mono Loss: 0.44985, S2S Loss: 2.50157, SLM Loss: 2.16330
+INFO:__main__:[RANK 0] Epoch [2/5], Step [260/563], Mel Loss: 0.25504, Gen Loss: 2.61140, Disc Loss: 4.00706, Mono Loss: 0.14812, S2S Loss: 2.80206, SLM Loss: 1.39426
+INFO:__main__:[RANK 0] Epoch [2/5], Step [270/563], Mel Loss: 0.27655, Gen Loss: 2.82548, Disc Loss: 4.01263, Mono Loss: 0.20988, S2S Loss: 3.26613, SLM Loss: 1.63041
+INFO:__main__:[RANK 0] Epoch [2/5], Step [280/563], Mel Loss: 0.28168, Gen Loss: 2.80773, Disc Loss: 4.00140, Mono Loss: 0.10207, S2S Loss: 2.44304, SLM Loss: 1.45938
+INFO:__main__:[RANK 0] Epoch [2/5], Step [290/563], Mel Loss: 0.24773, Gen Loss: 2.85395, Disc Loss: 3.98886, Mono Loss: 0.19291, S2S Loss: 2.13527, SLM Loss: 1.38123
+INFO:__main__:[RANK 0] Epoch [2/5], Step [300/563], Mel Loss: 0.25004, Gen Loss: 2.77433, Disc Loss: 3.99753, Mono Loss: 0.28202, S2S Loss: 1.92483, SLM Loss: 1.36779
+INFO:__main__:[RANK 0] Epoch [2/5], Step [310/563], Mel Loss: 0.25415, Gen Loss: 2.56740, Disc Loss: 4.01003, Mono Loss: 0.10936, S2S Loss: 1.95465, SLM Loss: 1.35628
+INFO:__main__:[RANK 0] Epoch [2/5], Step [320/563], Mel Loss: 0.25567, Gen Loss: 2.45580, Disc Loss: 3.99292, Mono Loss: 0.13348, S2S Loss: 2.20982, SLM Loss: 1.61857
+INFO:__main__:[RANK 0] Epoch [2/5], Step [330/563], Mel Loss: 0.27854, Gen Loss: 2.26569, Disc Loss: 3.99992, Mono Loss: 0.16695, S2S Loss: 1.84597, SLM Loss: 1.36559
+INFO:__main__:[RANK 0] Epoch [2/5], Step [340/563], Mel Loss: 0.27724, Gen Loss: 2.68431, Disc Loss: 4.00599, Mono Loss: 0.09285, S2S Loss: 2.19030, SLM Loss: 1.76173
+INFO:__main__:[RANK 0] Epoch [2/5], Step [350/563], Mel Loss: 0.28103, Gen Loss: 2.54151, Disc Loss: 3.99792, Mono Loss: 0.09368, S2S Loss: 1.94626, SLM Loss: 1.69781
+INFO:__main__:[RANK 0] Epoch [2/5], Step [360/563], Mel Loss: 0.29320, Gen Loss: 2.50763, Disc Loss: 3.97899, Mono Loss: 0.09567, S2S Loss: 1.19459, SLM Loss: 2.05281
+INFO:__main__:[RANK 0] Epoch [2/5], Step [370/563], Mel Loss: 0.29292, Gen Loss: 2.81932, Disc Loss: 4.01394, Mono Loss: 0.09212, S2S Loss: 2.53699, SLM Loss: 1.34546
+INFO:__main__:[RANK 0] Epoch [2/5], Step [380/563], Mel Loss: 0.27029, Gen Loss: 2.82546, Disc Loss: 3.99933, Mono Loss: 0.13789, S2S Loss: 2.30837, SLM Loss: 1.37242
+INFO:__main__:[RANK 0] Epoch [2/5], Step [390/563], Mel Loss: 0.29153, Gen Loss: 2.87681, Disc Loss: 3.97896, Mono Loss: 0.09419, S2S Loss: 1.36994, SLM Loss: 1.92683
+INFO:__main__:[RANK 0] Epoch [2/5], Step [400/563], Mel Loss: 0.26636, Gen Loss: 2.54919, Disc Loss: 3.97008, Mono Loss: 0.11840, S2S Loss: 2.02949, SLM Loss: 1.63163
+INFO:__main__:[RANK 0] Epoch [2/5], Step [410/563], Mel Loss: 0.28171, Gen Loss: 2.94545, Disc Loss: 3.93638, Mono Loss: 0.08260, S2S Loss: 1.85022, SLM Loss: 1.50518
+INFO:__main__:[RANK 0] Epoch [2/5], Step [420/563], Mel Loss: 0.24324, Gen Loss: 2.53977, Disc Loss: 3.99207, Mono Loss: 0.11449, S2S Loss: 1.54207, SLM Loss: 1.18454
+INFO:__main__:[RANK 0] Epoch [2/5], Step [430/563], Mel Loss: 0.27732, Gen Loss: 3.29598, Disc Loss: 3.97117, Mono Loss: 0.23827, S2S Loss: 1.63808, SLM Loss: 1.18196
+INFO:__main__:[RANK 0] Epoch [2/5], Step [440/563], Mel Loss: 0.28136, Gen Loss: 2.59735, Disc Loss: 3.98466, Mono Loss: 0.13331, S2S Loss: 1.67730, SLM Loss: 1.74250
+INFO:__main__:[RANK 0] Epoch [2/5], Step [450/563], Mel Loss: 0.27789, Gen Loss: 2.65440, Disc Loss: 4.02258, Mono Loss: 0.13681, S2S Loss: 1.94389, SLM Loss: 1.39700
+INFO:__main__:[RANK 0] Epoch [2/5], Step [460/563], Mel Loss: 0.30221, Gen Loss: 2.79595, Disc Loss: 3.99349, Mono Loss: 0.13054, S2S Loss: 1.72425, SLM Loss: 1.52175
+INFO:__main__:[RANK 0] Epoch [2/5], Step [470/563], Mel Loss: 0.29804, Gen Loss: 2.64745, Disc Loss: 3.97314, Mono Loss: 0.11940, S2S Loss: 2.32110, SLM Loss: 2.01146
+Epoch [2/5], Step [10/563], Mel Loss: 0.27025, Gen Loss: 2.90818, Disc Loss: 4.02647, Mono Loss: 0.14508, S2S Loss: 2.29097, SLM Loss: 1.52142
+Time elasped: 26.024930715560913
+Epoch [2/5], Step [20/563], Mel Loss: 0.34227, Gen Loss: 2.64061, Disc Loss: 3.97380, Mono Loss: 0.11090, S2S Loss: 2.00885, SLM Loss: 1.69282
+Time elasped: 54.06061863899231
+Epoch [2/5], Step [30/563], Mel Loss: 0.30610, Gen Loss: 2.85712, Disc Loss: 3.94681, Mono Loss: 0.11666, S2S Loss: 2.57221, SLM Loss: 1.66144
+Time elasped: 81.71117520332336
+Epoch [2/5], Step [40/563], Mel Loss: 0.29566, Gen Loss: 2.47667, Disc Loss: 3.97607, Mono Loss: 0.15683, S2S Loss: 2.15265, SLM Loss: 2.32279
+Time elasped: 108.0470085144043
+Epoch [2/5], Step [50/563], Mel Loss: 0.32965, Gen Loss: 2.55027, Disc Loss: 3.99820, Mono Loss: 0.14483, S2S Loss: 2.89334, SLM Loss: 2.19119
+Time elasped: 132.84402537345886
+Epoch [2/5], Step [60/563], Mel Loss: 0.33892, Gen Loss: 2.85015, Disc Loss: 3.98321, Mono Loss: 0.14750, S2S Loss: 2.34325, SLM Loss: 1.83694
+Time elasped: 157.51611185073853
+Epoch [2/5], Step [70/563], Mel Loss: 0.29242, Gen Loss: 2.59610, Disc Loss: 4.03700, Mono Loss: 0.12478, S2S Loss: 2.20624, SLM Loss: 1.29272
+Time elasped: 181.7216317653656
+Epoch [2/5], Step [80/563], Mel Loss: 0.29240, Gen Loss: 2.38874, Disc Loss: 3.98678, Mono Loss: 0.12177, S2S Loss: 3.23710, SLM Loss: 1.95795
+Time elasped: 207.54119753837585
+Epoch [2/5], Step [90/563], Mel Loss: 0.26997, Gen Loss: 2.71886, Disc Loss: 3.95577, Mono Loss: 0.11155, S2S Loss: 2.37795, SLM Loss: 1.62532
+Time elasped: 233.51833367347717
+Epoch [2/5], Step [100/563], Mel Loss: 0.30931, Gen Loss: 2.53530, Disc Loss: 3.97664, Mono Loss: 0.16659, S2S Loss: 2.43310, SLM Loss: 2.31812
+Time elasped: 260.3484799861908
+Epoch [2/5], Step [110/563], Mel Loss: 0.26566, Gen Loss: 3.40164, Disc Loss: 3.96615, Mono Loss: 0.11529, S2S Loss: 2.43505, SLM Loss: 1.57138
+Time elasped: 283.74732065200806
+Epoch [2/5], Step [120/563], Mel Loss: 0.29283, Gen Loss: 3.40823, Disc Loss: 4.01515, Mono Loss: 0.07931, S2S Loss: 2.22674, SLM Loss: 1.71092
+Time elasped: 309.14173460006714
+Epoch [2/5], Step [130/563], Mel Loss: 0.28642, Gen Loss: 2.59842, Disc Loss: 3.97427, Mono Loss: 0.08921, S2S Loss: 3.15091, SLM Loss: 1.95985
+Time elasped: 335.88302278518677
+Epoch [2/5], Step [140/563], Mel Loss: 0.29032, Gen Loss: 2.51160, Disc Loss: 3.99288, Mono Loss: 0.18984, S2S Loss: 2.23976, SLM Loss: 1.68030
+Time elasped: 362.6998133659363
+Epoch [2/5], Step [150/563], Mel Loss: 0.31338, Gen Loss: 2.27962, Disc Loss: 4.00136, Mono Loss: 0.09616, S2S Loss: 2.93201, SLM Loss: 1.90336
+Time elasped: 387.41832756996155
+Epoch [2/5], Step [160/563], Mel Loss: 0.29377, Gen Loss: 2.56714, Disc Loss: 3.98647, Mono Loss: 0.15117, S2S Loss: 2.29594, SLM Loss: 1.67750
+Time elasped: 413.2293782234192
+Epoch [2/5], Step [170/563], Mel Loss: 0.30692, Gen Loss: 2.79287, Disc Loss: 4.00098, Mono Loss: 0.16836, S2S Loss: 1.83437, SLM Loss: 1.68845
+Time elasped: 439.2816174030304
+Epoch [2/5], Step [180/563], Mel Loss: 0.25380, Gen Loss: 3.34446, Disc Loss: 3.91378, Mono Loss: 0.13603, S2S Loss: 2.30249, SLM Loss: 1.47493
+Time elasped: 463.2943449020386
+Epoch [2/5], Step [190/563], Mel Loss: 0.24899, Gen Loss: 3.06329, Disc Loss: 3.93122, Mono Loss: 0.32574, S2S Loss: 2.12420, SLM Loss: 1.29559
+Time elasped: 487.7576997280121
+Epoch [2/5], Step [200/563], Mel Loss: 0.28122, Gen Loss: 2.52103, Disc Loss: 4.01855, Mono Loss: 0.20378, S2S Loss: 1.87772, SLM Loss: 1.51380
+Time elasped: 515.7616496086121
+Epoch [2/5], Step [210/563], Mel Loss: 0.26455, Gen Loss: 2.49458, Disc Loss: 4.02971, Mono Loss: 0.09955, S2S Loss: 2.02723, SLM Loss: 1.96632
+Time elasped: 541.8306937217712
+Epoch [2/5], Step [220/563], Mel Loss: 0.27501, Gen Loss: 2.63650, Disc Loss: 3.99857, Mono Loss: 0.09642, S2S Loss: 1.98511, SLM Loss: 1.39120
+Time elasped: 566.0611197948456
+Epoch [2/5], Step [230/563], Mel Loss: 0.27376, Gen Loss: 2.30017, Disc Loss: 3.98859, Mono Loss: 0.15309, S2S Loss: 2.80465, SLM Loss: 1.70677
+Time elasped: 590.825528383255
+Epoch [2/5], Step [240/563], Mel Loss: 0.30070, Gen Loss: 2.97697, Disc Loss: 3.97223, Mono Loss: 0.18659, S2S Loss: 2.03346, SLM Loss: 1.24681
+Time elasped: 616.4096930027008
+Epoch [2/5], Step [250/563], Mel Loss: 0.29841, Gen Loss: 2.38027, Disc Loss: 3.98113, Mono Loss: 0.44985, S2S Loss: 2.50157, SLM Loss: 2.16330
+Time elasped: 642.2019145488739
+Epoch [2/5], Step [260/563], Mel Loss: 0.25504, Gen Loss: 2.61140, Disc Loss: 4.00706, Mono Loss: 0.14812, S2S Loss: 2.80206, SLM Loss: 1.39426
+Time elasped: 666.2604455947876
+Epoch [2/5], Step [270/563], Mel Loss: 0.27655, Gen Loss: 2.82548, Disc Loss: 4.01263, Mono Loss: 0.20988, S2S Loss: 3.26613, SLM Loss: 1.63041
+Time elasped: 691.483166217804
+Epoch [2/5], Step [280/563], Mel Loss: 0.28168, Gen Loss: 2.80773, Disc Loss: 4.00140, Mono Loss: 0.10207, S2S Loss: 2.44304, SLM Loss: 1.45938
+Time elasped: 719.1364402770996
+Epoch [2/5], Step [290/563], Mel Loss: 0.24773, Gen Loss: 2.85395, Disc Loss: 3.98886, Mono Loss: 0.19291, S2S Loss: 2.13527, SLM Loss: 1.38123
+Time elasped: 744.9344012737274
+Epoch [2/5], Step [300/563], Mel Loss: 0.25004, Gen Loss: 2.77433, Disc Loss: 3.99753, Mono Loss: 0.28202, S2S Loss: 1.92483, SLM Loss: 1.36779
+Time elasped: 769.3924205303192
+Epoch [2/5], Step [310/563], Mel Loss: 0.25415, Gen Loss: 2.56740, Disc Loss: 4.01003, Mono Loss: 0.10936, S2S Loss: 1.95465, SLM Loss: 1.35628
+Time elasped: 795.2734589576721
+Epoch [2/5], Step [320/563], Mel Loss: 0.25567, Gen Loss: 2.45580, Disc Loss: 3.99292, Mono Loss: 0.13348, S2S Loss: 2.20982, SLM Loss: 1.61857
+Time elasped: 820.4563663005829
+Epoch [2/5], Step [330/563], Mel Loss: 0.27854, Gen Loss: 2.26569, Disc Loss: 3.99992, Mono Loss: 0.16695, S2S Loss: 1.84597, SLM Loss: 1.36559
+Time elasped: 845.9913356304169
+Epoch [2/5], Step [340/563], Mel Loss: 0.27724, Gen Loss: 2.68431, Disc Loss: 4.00599, Mono Loss: 0.09285, S2S Loss: 2.19030, SLM Loss: 1.76173
+Time elasped: 871.1120409965515
+Epoch [2/5], Step [350/563], Mel Loss: 0.28103, Gen Loss: 2.54151, Disc Loss: 3.99792, Mono Loss: 0.09368, S2S Loss: 1.94626, SLM Loss: 1.69781
+Time elasped: 897.1385273933411
+Epoch [2/5], Step [360/563], Mel Loss: 0.29320, Gen Loss: 2.50763, Disc Loss: 3.97899, Mono Loss: 0.09567, S2S Loss: 1.19459, SLM Loss: 2.05281
+Time elasped: 925.3492066860199
+Epoch [2/5], Step [370/563], Mel Loss: 0.29292, Gen Loss: 2.81932, Disc Loss: 4.01394, Mono Loss: 0.09212, S2S Loss: 2.53699, SLM Loss: 1.34546
+Time elasped: 951.041357755661
+Epoch [2/5], Step [380/563], Mel Loss: 0.27029, Gen Loss: 2.82546, Disc Loss: 3.99933, Mono Loss: 0.13789, S2S Loss: 2.30837, SLM Loss: 1.37242
+Time elasped: 975.775162935257
+Epoch [2/5], Step [390/563], Mel Loss: 0.29153, Gen Loss: 2.87681, Disc Loss: 3.97896, Mono Loss: 0.09419, S2S Loss: 1.36994, SLM Loss: 1.92683
+Time elasped: 1000.2557649612427
+Epoch [2/5], Step [400/563], Mel Loss: 0.26636, Gen Loss: 2.54919, Disc Loss: 3.97008, Mono Loss: 0.11840, S2S Loss: 2.02949, SLM Loss: 1.63163
+Time elasped: 1026.5181322097778
+Epoch [2/5], Step [410/563], Mel Loss: 0.28171, Gen Loss: 2.94545, Disc Loss: 3.93638, Mono Loss: 0.08260, S2S Loss: 1.85022, SLM Loss: 1.50518
+Time elasped: 1050.709216594696
+Epoch [2/5], Step [420/563], Mel Loss: 0.24324, Gen Loss: 2.53977, Disc Loss: 3.99207, Mono Loss: 0.11449, S2S Loss: 1.54207, SLM Loss: 1.18454
+Time elasped: 1077.7960500717163
+Epoch [2/5], Step [430/563], Mel Loss: 0.27732, Gen Loss: 3.29598, Disc Loss: 3.97117, Mono Loss: 0.23827, S2S Loss: 1.63808, SLM Loss: 1.18196
+Time elasped: 1101.9497745037079
+Epoch [2/5], Step [440/563], Mel Loss: 0.28136, Gen Loss: 2.59735, Disc Loss: 3.98466, Mono Loss: 0.13331, S2S Loss: 1.67730, SLM Loss: 1.74250
+Time elasped: 1128.953122138977
+Epoch [2/5], Step [450/563], Mel Loss: 0.27789, Gen Loss: 2.65440, Disc Loss: 4.02258, Mono Loss: 0.13681, S2S Loss: 1.94389, SLM Loss: 1.39700
+Time elasped: 1154.7183701992035
+Epoch [2/5], Step [460/563], Mel Loss: 0.30221, Gen Loss: 2.79595, Disc Loss: 3.99349, Mono Loss: 0.13054, S2S Loss: 1.72425, SLM Loss: 1.52175
+Time elasped: 1180.6063828468323
+Epoch [2/5], Step [470/563], Mel Loss: 0.29804, Gen Loss: 2.64745, Disc Loss: 3.97314, Mono Loss: 0.11940, S2S Loss: 2.32110, SLM Loss: 2.01146INFO:__main__:[RANK 0] Epoch [2/5], Step [480/563], Mel Loss: 0.25929, Gen Loss: 2.66491, Disc Loss: 3.98244, Mono Loss: 0.09192, S2S Loss: 2.15277, SLM Loss: 1.10739
+INFO:__main__:[RANK 0] Epoch [2/5], Step [490/563], Mel Loss: 0.23261, Gen Loss: 2.52683, Disc Loss: 3.99909, Mono Loss: 0.10468, S2S Loss: 1.91775, SLM Loss: 1.56650
+INFO:__main__:[RANK 0] Epoch [2/5], Step [500/563], Mel Loss: 0.23884, Gen Loss: 2.85124, Disc Loss: 4.02675, Mono Loss: 0.30202, S2S Loss: 1.85037, SLM Loss: 1.17989
+INFO:__main__:[RANK 0] Epoch [2/5], Step [510/563], Mel Loss: 0.25112, Gen Loss: 2.68041, Disc Loss: 3.95710, Mono Loss: 0.17963, S2S Loss: 1.33410, SLM Loss: 1.38528
+INFO:__main__:[RANK 0] Epoch [2/5], Step [520/563], Mel Loss: 0.26992, Gen Loss: 2.51727, Disc Loss: 4.00924, Mono Loss: 0.28787, S2S Loss: 1.86300, SLM Loss: 1.16565
+INFO:__main__:[RANK 0] Epoch [2/5], Step [530/563], Mel Loss: 0.27367, Gen Loss: 2.50277, Disc Loss: 4.01038, Mono Loss: 0.14419, S2S Loss: 1.75113, SLM Loss: 1.68876
+INFO:__main__:[RANK 0] Epoch [2/5], Step [540/563], Mel Loss: 0.28326, Gen Loss: 2.73567, Disc Loss: 3.96754, Mono Loss: 0.19357, S2S Loss: 1.65692, SLM Loss: 1.90768
+INFO:__main__:[RANK 0] Epoch [2/5], Step [550/563], Mel Loss: 0.26281, Gen Loss: 2.58287, Disc Loss: 4.00803, Mono Loss: 0.31139, S2S Loss: 2.21560, SLM Loss: 0.98256
+INFO:__main__:[RANK 0] Epoch [2/5], Step [560/563], Mel Loss: 0.28919, Gen Loss: 2.67509, Disc Loss: 4.00349, Mono Loss: 0.14118, S2S Loss: 1.70538, SLM Loss: 1.44617
+INFO:__main__:[RANK 0] Validation loss: 0.285
+
+
+
+
+DEBUG:matplotlib.pyplot:Loaded backend agg version v2.2.
+INFO:__main__:[RANK 0] Epoch 1: extracting voicepack for TensorBoard inference...
+INFO:__main__:[RANK 0]   acoustic_norm=1.8418  prosodic_norm=0.3325
+
+Time elasped: 1206.6987476348877
+Epoch [2/5], Step [480/563], Mel Loss: 0.25929, Gen Loss: 2.66491, Disc Loss: 3.98244, Mono Loss: 0.09192, S2S Loss: 2.15277, SLM Loss: 1.10739
+Time elasped: 1230.6359770298004
+Epoch [2/5], Step [490/563], Mel Loss: 0.23261, Gen Loss: 2.52683, Disc Loss: 3.99909, Mono Loss: 0.10468, S2S Loss: 1.91775, SLM Loss: 1.56650
+Time elasped: 1256.3678719997406
+Epoch [2/5], Step [500/563], Mel Loss: 0.23884, Gen Loss: 2.85124, Disc Loss: 4.02675, Mono Loss: 0.30202, S2S Loss: 1.85037, SLM Loss: 1.17989
+Time elasped: 1280.8838875293732
+Epoch [2/5], Step [510/563], Mel Loss: 0.25112, Gen Loss: 2.68041, Disc Loss: 3.95710, Mono Loss: 0.17963, S2S Loss: 1.33410, SLM Loss: 1.38528
+Time elasped: 1306.4222676753998
+Epoch [2/5], Step [520/563], Mel Loss: 0.26992, Gen Loss: 2.51727, Disc Loss: 4.00924, Mono Loss: 0.28787, S2S Loss: 1.86300, SLM Loss: 1.16565
+Time elasped: 1333.0982620716095
+Epoch [2/5], Step [530/563], Mel Loss: 0.27367, Gen Loss: 2.50277, Disc Loss: 4.01038, Mono Loss: 0.14419, S2S Loss: 1.75113, SLM Loss: 1.68876
+Time elasped: 1359.6649405956268
+Epoch [2/5], Step [540/563], Mel Loss: 0.28326, Gen Loss: 2.73567, Disc Loss: 3.96754, Mono Loss: 0.19357, S2S Loss: 1.65692, SLM Loss: 1.90768
+Time elasped: 1386.3396525382996
+Epoch [2/5], Step [550/563], Mel Loss: 0.26281, Gen Loss: 2.58287, Disc Loss: 4.00803, Mono Loss: 0.31139, S2S Loss: 2.21560, SLM Loss: 0.98256
+Time elasped: 1411.4347217082977
+Epoch [2/5], Step [560/563], Mel Loss: 0.28919, Gen Loss: 2.67509, Disc Loss: 4.00349, Mono Loss: 0.14118, S2S Loss: 1.70538, SLM Loss: 1.44617
+Time elasped: 1438.8268349170685
+Epochs: 2
+Validation loss: 0.285
+
+
+
+
+
+
+
+
+Saving..
+INFO:__main__:[RANK 0] Epoch [3/5], Step [10/563], Mel Loss: 0.23982, Gen Loss: 2.36546, Disc Loss: 3.99620, Mono Loss: 0.16872, S2S Loss: 1.95419, SLM Loss: 1.46493
+INFO:__main__:[RANK 0] Epoch [3/5], Step [20/563], Mel Loss: 0.24731, Gen Loss: 2.79170, Disc Loss: 3.99060, Mono Loss: 0.12730, S2S Loss: 1.72572, SLM Loss: 1.58815
+INFO:__main__:[RANK 0] Epoch [3/5], Step [30/563], Mel Loss: 0.24519, Gen Loss: 2.70672, Disc Loss: 3.98529, Mono Loss: 0.22450, S2S Loss: 1.71769, SLM Loss: 1.53160
+INFO:__main__:[RANK 0] Epoch [3/5], Step [40/563], Mel Loss: 0.27101, Gen Loss: 2.86548, Disc Loss: 3.98120, Mono Loss: 0.14192, S2S Loss: 1.73879, SLM Loss: 1.46212
+INFO:__main__:[RANK 0] Epoch [3/5], Step [50/563], Mel Loss: 0.26045, Gen Loss: 2.62643, Disc Loss: 3.98621, Mono Loss: 0.18759, S2S Loss: 1.09431, SLM Loss: 1.25255
+INFO:__main__:[RANK 0] Epoch [3/5], Step [60/563], Mel Loss: 0.25706, Gen Loss: 2.68195, Disc Loss: 4.00564, Mono Loss: 0.13843, S2S Loss: 1.70318, SLM Loss: 1.59337
+INFO:__main__:[RANK 0] Epoch [3/5], Step [70/563], Mel Loss: 0.28877, Gen Loss: 2.65523, Disc Loss: 3.96613, Mono Loss: 0.12344, S2S Loss: 1.91559, SLM Loss: 1.73519
+INFO:__main__:[RANK 0] Epoch [3/5], Step [80/563], Mel Loss: 0.29027, Gen Loss: 2.50599, Disc Loss: 3.98642, Mono Loss: 0.17246, S2S Loss: 1.47440, SLM Loss: 2.11998
+INFO:__main__:[RANK 0] Epoch [3/5], Step [90/563], Mel Loss: 0.25571, Gen Loss: 3.00975, Disc Loss: 3.98421, Mono Loss: 0.37680, S2S Loss: 1.33106, SLM Loss: 1.00836
+INFO:__main__:[RANK 0] Epoch [3/5], Step [100/563], Mel Loss: 0.25793, Gen Loss: 2.48388, Disc Loss: 3.97425, Mono Loss: 0.12799, S2S Loss: 1.88813, SLM Loss: 1.73681
+INFO:__main__:[RANK 0] Epoch [3/5], Step [110/563], Mel Loss: 0.32027, Gen Loss: 2.92543, Disc Loss: 4.00647, Mono Loss: 0.09120, S2S Loss: 2.34362, SLM Loss: 1.31075
+INFO:__main__:[RANK 0] Epoch [3/5], Step [120/563], Mel Loss: 0.25806, Gen Loss: 3.02017, Disc Loss: 3.95366, Mono Loss: 0.31039, S2S Loss: 1.56643, SLM Loss: 1.55925
+INFO:__main__:[RANK 0] Epoch [3/5], Step [130/563], Mel Loss: 0.26211, Gen Loss: 2.93302, Disc Loss: 4.03027, Mono Loss: 0.12150, S2S Loss: 1.15945, SLM Loss: 1.29441
+INFO:__main__:[RANK 0] Epoch [3/5], Step [140/563], Mel Loss: 0.26890, Gen Loss: 2.68535, Disc Loss: 3.98670, Mono Loss: 0.07163, S2S Loss: 1.64116, SLM Loss: 1.96456
+INFO:__main__:[RANK 0] Epoch [3/5], Step [150/563], Mel Loss: 0.32587, Gen Loss: 2.75143, Disc Loss: 3.97518, Mono Loss: 0.12523, S2S Loss: 2.39852, SLM Loss: 1.64239
+INFO:__main__:[RANK 0] Epoch [3/5], Step [160/563], Mel Loss: 0.24725, Gen Loss: 2.58337, Disc Loss: 3.97196, Mono Loss: 0.14104, S2S Loss: 1.34829, SLM Loss: 1.37235
+INFO:__main__:[RANK 0] Epoch [3/5], Step [170/563], Mel Loss: 0.26527, Gen Loss: 2.95883, Disc Loss: 3.96485, Mono Loss: 0.12026, S2S Loss: 1.59454, SLM Loss: 1.76099
+INFO:__main__:[RANK 0] Epoch [3/5], Step [180/563], Mel Loss: 0.25457, Gen Loss: 2.58311, Disc Loss: 3.98568, Mono Loss: 0.08397, S2S Loss: 1.77215, SLM Loss: 1.85560
+INFO:__main__:[RANK 0] Epoch [3/5], Step [190/563], Mel Loss: 0.27442, Gen Loss: 3.10901, Disc Loss: 3.94978, Mono Loss: 0.10761, S2S Loss: 1.18005, SLM Loss: 1.94793
+INFO:__main__:[RANK 0] Epoch [3/5], Step [200/563], Mel Loss: 0.26983, Gen Loss: 2.69227, Disc Loss: 3.96150, Mono Loss: 0.20809, S2S Loss: 1.60760, SLM Loss: 1.98161
+INFO:__main__:[RANK 0] Epoch [3/5], Step [210/563], Mel Loss: 0.29403, Gen Loss: 2.92508, Disc Loss: 3.99188, Mono Loss: 0.11384, S2S Loss: 1.35624, SLM Loss: 1.34489
+INFO:__main__:[RANK 0] Epoch [3/5], Step [220/563], Mel Loss: 0.26785, Gen Loss: 2.82282, Disc Loss: 3.98695, Mono Loss: 0.09056, S2S Loss: 2.07808, SLM Loss: 1.43767
+INFO:__main__:[RANK 0] Epoch [3/5], Step [230/563], Mel Loss: 0.24807, Gen Loss: 2.98000, Disc Loss: 3.99302, Mono Loss: 0.13400, S2S Loss: 1.43529, SLM Loss: 1.49259
+INFO:__main__:[RANK 0] Epoch [3/5], Step [240/563], Mel Loss: 0.23199, Gen Loss: 2.65188, Disc Loss: 4.00938, Mono Loss: 0.11436, S2S Loss: 1.10782, SLM Loss: 1.19350
+INFO:__main__:[RANK 0] Epoch [3/5], Step [250/563], Mel Loss: 0.26092, Gen Loss: 3.16858, Disc Loss: 3.94365, Mono Loss: 0.09991, S2S Loss: 1.45079, SLM Loss: 1.18444
+INFO:__main__:[RANK 0] Epoch [3/5], Step [260/563], Mel Loss: 0.24707, Gen Loss: 3.25420, Disc Loss: 3.96613, Mono Loss: 0.29496, S2S Loss: 1.44844, SLM Loss: 0.99674
+INFO:__main__:[RANK 0] Epoch [3/5], Step [270/563], Mel Loss: 0.26167, Gen Loss: 2.77784, Disc Loss: 3.95190, Mono Loss: 0.11722, S2S Loss: 1.37966, SLM Loss: 1.59240
+INFO:__main__:[RANK 0] Epoch [3/5], Step [280/563], Mel Loss: 0.23743, Gen Loss: 2.54541, Disc Loss: 3.97580, Mono Loss: 0.25402, S2S Loss: 1.19144, SLM Loss: 1.23553
+INFO:__main__:[RANK 0] Epoch [3/5], Step [290/563], Mel Loss: 0.24775, Gen Loss: 2.97310, Disc Loss: 3.99323, Mono Loss: 0.31541, S2S Loss: 1.61725, SLM Loss: 1.17162
+INFO:__main__:[RANK 0] Epoch [3/5], Step [300/563], Mel Loss: 0.25629, Gen Loss: 2.46183, Disc Loss: 3.96890, Mono Loss: 0.19381, S2S Loss: 1.57268, SLM Loss: 2.17884
+INFO:__main__:[RANK 0] Epoch [3/5], Step [310/563], Mel Loss: 0.25636, Gen Loss: 2.59073, Disc Loss: 3.97132, Mono Loss: 0.07691, S2S Loss: 1.44328, SLM Loss: 1.44811
+INFO:__main__:[RANK 0] Epoch [3/5], Step [320/563], Mel Loss: 0.27722, Gen Loss: 2.91760, Disc Loss: 4.03790, Mono Loss: 0.17209, S2S Loss: 1.14700, SLM Loss: 1.44883
+INFO:__main__:[RANK 0] Epoch [3/5], Step [330/563], Mel Loss: 0.24911, Gen Loss: 2.64235, Disc Loss: 3.98547, Mono Loss: 0.20826, S2S Loss: 1.14473, SLM Loss: 1.28277
+INFO:__main__:[RANK 0] Epoch [3/5], Step [340/563], Mel Loss: 0.27760, Gen Loss: 3.18559, Disc Loss: 3.96777, Mono Loss: 0.09090, S2S Loss: 1.56262, SLM Loss: 1.38503
+INFO:__main__:[RANK 0] Epoch [3/5], Step [350/563], Mel Loss: 0.26267, Gen Loss: 2.68032, Disc Loss: 3.99030, Mono Loss: 0.08814, S2S Loss: 1.55328, SLM Loss: 1.27767
+INFO:__main__:[RANK 0] Epoch [3/5], Step [360/563], Mel Loss: 0.21180, Gen Loss: 2.49782, Disc Loss: 3.97150, Mono Loss: 0.25135, S2S Loss: 1.72238, SLM Loss: 1.94513
+INFO:__main__:[RANK 0] Epoch [3/5], Step [370/563], Mel Loss: 0.24648, Gen Loss: 2.79313, Disc Loss: 3.96209, Mono Loss: 0.20568, S2S Loss: 1.29036, SLM Loss: 1.39991
+INFO:__main__:[RANK 0] Epoch [3/5], Step [380/563], Mel Loss: 0.24594, Gen Loss: 2.64220, Disc Loss: 3.99401, Mono Loss: 0.16196, S2S Loss: 1.30339, SLM Loss: 1.27562
+INFO:__main__:[RANK 0] Epoch [3/5], Step [390/563], Mel Loss: 0.25776, Gen Loss: 2.71288, Disc Loss: 3.96656, Mono Loss: 0.09249, S2S Loss: 0.90784, SLM Loss: 1.72397
+INFO:__main__:[RANK 0] Epoch [3/5], Step [400/563], Mel Loss: 0.27267, Gen Loss: 2.45784, Disc Loss: 3.99127, Mono Loss: 0.07238, S2S Loss: 1.36475, SLM Loss: 1.74886
+INFO:__main__:[RANK 0] Epoch [3/5], Step [410/563], Mel Loss: 0.27473, Gen Loss: 2.46669, Disc Loss: 3.98500, Mono Loss: 0.13581, S2S Loss: 1.83646, SLM Loss: 1.45771
+INFO:__main__:[RANK 0] Epoch [3/5], Step [420/563], Mel Loss: 0.24217, Gen Loss: 2.72536, Disc Loss: 3.99930, Mono Loss: 0.34780, S2S Loss: 2.27475, SLM Loss: 1.50861
+INFO:__main__:[RANK 0] Epoch [3/5], Step [430/563], Mel Loss: 0.27773, Gen Loss: 2.92691, Disc Loss: 4.02151, Mono Loss: 0.09798, S2S Loss: 1.86714, SLM Loss: 1.34983
+INFO:__main__:[RANK 0] Epoch [3/5], Step [440/563], Mel Loss: 0.24792, Gen Loss: 3.01362, Disc Loss: 3.97075, Mono Loss: 0.15431, S2S Loss: 1.35764, SLM Loss: 1.23320
+INFO:__main__:[RANK 0] Epoch [3/5], Step [450/563], Mel Loss: 0.26842, Gen Loss: 2.62515, Disc Loss: 3.97560, Mono Loss: 0.10299, S2S Loss: 1.38864, SLM Loss: 1.12458
+INFO:__main__:[RANK 0] Epoch [3/5], Step [460/563], Mel Loss: 0.25944, Gen Loss: 3.02780, Disc Loss: 3.95534, Mono Loss: 0.17093, S2S Loss: 1.53750, SLM Loss: 1.43312
+INFO:__main__:[RANK 0] Epoch [3/5], Step [470/563], Mel Loss: 0.25264, Gen Loss: 3.08273, Disc Loss: 3.93339, Mono Loss: 0.23356, S2S Loss: 1.16829, SLM Loss: 1.26987
+Epoch [3/5], Step [10/563], Mel Loss: 0.23982, Gen Loss: 2.36546, Disc Loss: 3.99620, Mono Loss: 0.16872, S2S Loss: 1.95419, SLM Loss: 1.46493
+Time elasped: 24.81514835357666
+Epoch [3/5], Step [20/563], Mel Loss: 0.24731, Gen Loss: 2.79170, Disc Loss: 3.99060, Mono Loss: 0.12730, S2S Loss: 1.72572, SLM Loss: 1.58815
+Time elasped: 48.68413853645325
+Epoch [3/5], Step [30/563], Mel Loss: 0.24519, Gen Loss: 2.70672, Disc Loss: 3.98529, Mono Loss: 0.22450, S2S Loss: 1.71769, SLM Loss: 1.53160
+Time elasped: 76.0780599117279
+Epoch [3/5], Step [40/563], Mel Loss: 0.27101, Gen Loss: 2.86548, Disc Loss: 3.98120, Mono Loss: 0.14192, S2S Loss: 1.73879, SLM Loss: 1.46212
+Time elasped: 102.508460521698
+Epoch [3/5], Step [50/563], Mel Loss: 0.26045, Gen Loss: 2.62643, Disc Loss: 3.98621, Mono Loss: 0.18759, S2S Loss: 1.09431, SLM Loss: 1.25255
+Time elasped: 127.18341183662415
+Epoch [3/5], Step [60/563], Mel Loss: 0.25706, Gen Loss: 2.68195, Disc Loss: 4.00564, Mono Loss: 0.13843, S2S Loss: 1.70318, SLM Loss: 1.59337
+Time elasped: 151.539053440094
+Epoch [3/5], Step [70/563], Mel Loss: 0.28877, Gen Loss: 2.65523, Disc Loss: 3.96613, Mono Loss: 0.12344, S2S Loss: 1.91559, SLM Loss: 1.73519
+Time elasped: 178.38391041755676
+Epoch [3/5], Step [80/563], Mel Loss: 0.29027, Gen Loss: 2.50599, Disc Loss: 3.98642, Mono Loss: 0.17246, S2S Loss: 1.47440, SLM Loss: 2.11998
+Time elasped: 205.83673286437988
+Epoch [3/5], Step [90/563], Mel Loss: 0.25571, Gen Loss: 3.00975, Disc Loss: 3.98421, Mono Loss: 0.37680, S2S Loss: 1.33106, SLM Loss: 1.00836
+Time elasped: 232.6441044807434
+Epoch [3/5], Step [100/563], Mel Loss: 0.25793, Gen Loss: 2.48388, Disc Loss: 3.97425, Mono Loss: 0.12799, S2S Loss: 1.88813, SLM Loss: 1.73681
+Time elasped: 255.87787246704102
+Epoch [3/5], Step [110/563], Mel Loss: 0.32027, Gen Loss: 2.92543, Disc Loss: 4.00647, Mono Loss: 0.09120, S2S Loss: 2.34362, SLM Loss: 1.31075
+Time elasped: 281.75602531433105
+Epoch [3/5], Step [120/563], Mel Loss: 0.25806, Gen Loss: 3.02017, Disc Loss: 3.95366, Mono Loss: 0.31039, S2S Loss: 1.56643, SLM Loss: 1.55925
+Time elasped: 307.0668292045593
+Epoch [3/5], Step [130/563], Mel Loss: 0.26211, Gen Loss: 2.93302, Disc Loss: 4.03027, Mono Loss: 0.12150, S2S Loss: 1.15945, SLM Loss: 1.29441
+Time elasped: 330.683167219162
+Epoch [3/5], Step [140/563], Mel Loss: 0.26890, Gen Loss: 2.68535, Disc Loss: 3.98670, Mono Loss: 0.07163, S2S Loss: 1.64116, SLM Loss: 1.96456
+Time elasped: 356.8329451084137
+Epoch [3/5], Step [150/563], Mel Loss: 0.32587, Gen Loss: 2.75143, Disc Loss: 3.97518, Mono Loss: 0.12523, S2S Loss: 2.39852, SLM Loss: 1.64239
+Time elasped: 383.4571259021759
+Epoch [3/5], Step [160/563], Mel Loss: 0.24725, Gen Loss: 2.58337, Disc Loss: 3.97196, Mono Loss: 0.14104, S2S Loss: 1.34829, SLM Loss: 1.37235
+Time elasped: 410.3741645812988
+Epoch [3/5], Step [170/563], Mel Loss: 0.26527, Gen Loss: 2.95883, Disc Loss: 3.96485, Mono Loss: 0.12026, S2S Loss: 1.59454, SLM Loss: 1.76099
+Time elasped: 435.9375309944153
+Epoch [3/5], Step [180/563], Mel Loss: 0.25457, Gen Loss: 2.58311, Disc Loss: 3.98568, Mono Loss: 0.08397, S2S Loss: 1.77215, SLM Loss: 1.85560
+Time elasped: 461.52616477012634
+Epoch [3/5], Step [190/563], Mel Loss: 0.27442, Gen Loss: 3.10901, Disc Loss: 3.94978, Mono Loss: 0.10761, S2S Loss: 1.18005, SLM Loss: 1.94793
+Time elasped: 488.67014956474304
+Epoch [3/5], Step [200/563], Mel Loss: 0.26983, Gen Loss: 2.69227, Disc Loss: 3.96150, Mono Loss: 0.20809, S2S Loss: 1.60760, SLM Loss: 1.98161
+Time elasped: 515.1236691474915
+Epoch [3/5], Step [210/563], Mel Loss: 0.29403, Gen Loss: 2.92508, Disc Loss: 3.99188, Mono Loss: 0.11384, S2S Loss: 1.35624, SLM Loss: 1.34489
+Time elasped: 541.2623896598816
+Epoch [3/5], Step [220/563], Mel Loss: 0.26785, Gen Loss: 2.82282, Disc Loss: 3.98695, Mono Loss: 0.09056, S2S Loss: 2.07808, SLM Loss: 1.43767
+Time elasped: 567.8020188808441
+Epoch [3/5], Step [230/563], Mel Loss: 0.24807, Gen Loss: 2.98000, Disc Loss: 3.99302, Mono Loss: 0.13400, S2S Loss: 1.43529, SLM Loss: 1.49259
+Time elasped: 591.704567193985
+Epoch [3/5], Step [240/563], Mel Loss: 0.23199, Gen Loss: 2.65188, Disc Loss: 4.00938, Mono Loss: 0.11436, S2S Loss: 1.10782, SLM Loss: 1.19350
+Time elasped: 618.0602881908417
+Epoch [3/5], Step [250/563], Mel Loss: 0.26092, Gen Loss: 3.16858, Disc Loss: 3.94365, Mono Loss: 0.09991, S2S Loss: 1.45079, SLM Loss: 1.18444
+Time elasped: 643.3802509307861
+Epoch [3/5], Step [260/563], Mel Loss: 0.24707, Gen Loss: 3.25420, Disc Loss: 3.96613, Mono Loss: 0.29496, S2S Loss: 1.44844, SLM Loss: 0.99674
+Time elasped: 668.2944881916046
+Epoch [3/5], Step [270/563], Mel Loss: 0.26167, Gen Loss: 2.77784, Disc Loss: 3.95190, Mono Loss: 0.11722, S2S Loss: 1.37966, SLM Loss: 1.59240
+Time elasped: 693.5151507854462
+Epoch [3/5], Step [280/563], Mel Loss: 0.23743, Gen Loss: 2.54541, Disc Loss: 3.97580, Mono Loss: 0.25402, S2S Loss: 1.19144, SLM Loss: 1.23553
+Time elasped: 718.4440870285034
+Epoch [3/5], Step [290/563], Mel Loss: 0.24775, Gen Loss: 2.97310, Disc Loss: 3.99323, Mono Loss: 0.31541, S2S Loss: 1.61725, SLM Loss: 1.17162
+Time elasped: 743.3463335037231
+Epoch [3/5], Step [300/563], Mel Loss: 0.25629, Gen Loss: 2.46183, Disc Loss: 3.96890, Mono Loss: 0.19381, S2S Loss: 1.57268, SLM Loss: 2.17884
+Time elasped: 770.3923451900482
+Epoch [3/5], Step [310/563], Mel Loss: 0.25636, Gen Loss: 2.59073, Disc Loss: 3.97132, Mono Loss: 0.07691, S2S Loss: 1.44328, SLM Loss: 1.44811
+Time elasped: 795.4385225772858
+Epoch [3/5], Step [320/563], Mel Loss: 0.27722, Gen Loss: 2.91760, Disc Loss: 4.03790, Mono Loss: 0.17209, S2S Loss: 1.14700, SLM Loss: 1.44883
+Time elasped: 820.3599991798401
+Epoch [3/5], Step [330/563], Mel Loss: 0.24911, Gen Loss: 2.64235, Disc Loss: 3.98547, Mono Loss: 0.20826, S2S Loss: 1.14473, SLM Loss: 1.28277
+Time elasped: 845.4798128604889
+Epoch [3/5], Step [340/563], Mel Loss: 0.27760, Gen Loss: 3.18559, Disc Loss: 3.96777, Mono Loss: 0.09090, S2S Loss: 1.56262, SLM Loss: 1.38503
+Time elasped: 871.1894142627716
+Epoch [3/5], Step [350/563], Mel Loss: 0.26267, Gen Loss: 2.68032, Disc Loss: 3.99030, Mono Loss: 0.08814, S2S Loss: 1.55328, SLM Loss: 1.27767
+Time elasped: 897.4970524311066
+Epoch [3/5], Step [360/563], Mel Loss: 0.21180, Gen Loss: 2.49782, Disc Loss: 3.97150, Mono Loss: 0.25135, S2S Loss: 1.72238, SLM Loss: 1.94513
+Time elasped: 919.4320492744446
+Epoch [3/5], Step [370/563], Mel Loss: 0.24648, Gen Loss: 2.79313, Disc Loss: 3.96209, Mono Loss: 0.20568, S2S Loss: 1.29036, SLM Loss: 1.39991
+Time elasped: 943.9631063938141
+Epoch [3/5], Step [380/563], Mel Loss: 0.24594, Gen Loss: 2.64220, Disc Loss: 3.99401, Mono Loss: 0.16196, S2S Loss: 1.30339, SLM Loss: 1.27562
+Time elasped: 968.9686005115509
+Epoch [3/5], Step [390/563], Mel Loss: 0.25776, Gen Loss: 2.71288, Disc Loss: 3.96656, Mono Loss: 0.09249, S2S Loss: 0.90784, SLM Loss: 1.72397
+Time elasped: 994.3722558021545
+Epoch [3/5], Step [400/563], Mel Loss: 0.27267, Gen Loss: 2.45784, Disc Loss: 3.99127, Mono Loss: 0.07238, S2S Loss: 1.36475, SLM Loss: 1.74886
+Time elasped: 1021.6316018104553
+Epoch [3/5], Step [410/563], Mel Loss: 0.27473, Gen Loss: 2.46669, Disc Loss: 3.98500, Mono Loss: 0.13581, S2S Loss: 1.83646, SLM Loss: 1.45771
+Time elasped: 1048.1187176704407
+Epoch [3/5], Step [420/563], Mel Loss: 0.24217, Gen Loss: 2.72536, Disc Loss: 3.99930, Mono Loss: 0.34780, S2S Loss: 2.27475, SLM Loss: 1.50861
+Time elasped: 1072.619389295578
+Epoch [3/5], Step [430/563], Mel Loss: 0.27773, Gen Loss: 2.92691, Disc Loss: 4.02151, Mono Loss: 0.09798, S2S Loss: 1.86714, SLM Loss: 1.34983
+Time elasped: 1099.5664629936218
+Epoch [3/5], Step [440/563], Mel Loss: 0.24792, Gen Loss: 3.01362, Disc Loss: 3.97075, Mono Loss: 0.15431, S2S Loss: 1.35764, SLM Loss: 1.23320
+Time elasped: 1126.9188721179962
+Epoch [3/5], Step [450/563], Mel Loss: 0.26842, Gen Loss: 2.62515, Disc Loss: 3.97560, Mono Loss: 0.10299, S2S Loss: 1.38864, SLM Loss: 1.12458
+Time elasped: 1154.1742625236511
+Epoch [3/5], Step [460/563], Mel Loss: 0.25944, Gen Loss: 3.02780, Disc Loss: 3.95534, Mono Loss: 0.17093, S2S Loss: 1.53750, SLM Loss: 1.43312
+Time elasped: 1180.9252820014954
+Epoch [3/5], Step [470/563], Mel Loss: 0.25264, Gen Loss: 3.08273, Disc Loss: 3.93339, Mono Loss: 0.23356, S2S Loss: 1.16829, SLM Loss: 1.26987INFO:__main__:[RANK 0] Epoch [3/5], Step [480/563], Mel Loss: 0.25801, Gen Loss: 2.77257, Disc Loss: 3.97118, Mono Loss: 0.07288, S2S Loss: 1.45988, SLM Loss: 1.68913
+INFO:__main__:[RANK 0] Epoch [3/5], Step [490/563], Mel Loss: 0.27522, Gen Loss: 3.02192, Disc Loss: 3.94718, Mono Loss: 0.17413, S2S Loss: 1.00928, SLM Loss: 1.84365
+INFO:__main__:[RANK 0] Epoch [3/5], Step [500/563], Mel Loss: 0.27111, Gen Loss: 2.67178, Disc Loss: 3.97096, Mono Loss: 0.14618, S2S Loss: 1.88439, SLM Loss: 1.61184
+INFO:__main__:[RANK 0] Epoch [3/5], Step [510/563], Mel Loss: 0.27189, Gen Loss: 2.48371, Disc Loss: 3.97743, Mono Loss: 0.07157, S2S Loss: 1.62945, SLM Loss: 1.68437
+INFO:__main__:[RANK 0] Epoch [3/5], Step [520/563], Mel Loss: 0.25533, Gen Loss: 2.83903, Disc Loss: 3.97818, Mono Loss: 0.14975, S2S Loss: 1.43908, SLM Loss: 1.72015
+INFO:__main__:[RANK 0] Epoch [3/5], Step [530/563], Mel Loss: 0.24823, Gen Loss: 3.18338, Disc Loss: 3.97980, Mono Loss: 0.26462, S2S Loss: 1.24999, SLM Loss: 1.23733
+INFO:__main__:[RANK 0] Epoch [3/5], Step [540/563], Mel Loss: 0.23691, Gen Loss: 2.56437, Disc Loss: 3.97368, Mono Loss: 0.10877, S2S Loss: 1.26123, SLM Loss: 1.40632
+INFO:__main__:[RANK 0] Epoch [3/5], Step [550/563], Mel Loss: 0.23558, Gen Loss: 3.01425, Disc Loss: 3.97291, Mono Loss: 0.20852, S2S Loss: 1.18702, SLM Loss: 1.46510
+INFO:__main__:[RANK 0] Epoch [3/5], Step [560/563], Mel Loss: 0.29690, Gen Loss: 2.61209, Disc Loss: 3.97716, Mono Loss: 0.08116, S2S Loss: 1.31362, SLM Loss: 1.68393
+INFO:__main__:[RANK 0] Validation loss: 0.271
+
+
+
+
+DEBUG:matplotlib.pyplot:Loaded backend agg version v2.2.
+INFO:__main__:[RANK 0] Epoch 2: extracting voicepack for TensorBoard inference...
+INFO:__main__:[RANK 0]   acoustic_norm=1.8169  prosodic_norm=0.3325
+
+Time elasped: 1206.1522517204285
+Epoch [3/5], Step [480/563], Mel Loss: 0.25801, Gen Loss: 2.77257, Disc Loss: 3.97118, Mono Loss: 0.07288, S2S Loss: 1.45988, SLM Loss: 1.68913
+Time elasped: 1231.8181676864624
+Epoch [3/5], Step [490/563], Mel Loss: 0.27522, Gen Loss: 3.02192, Disc Loss: 3.94718, Mono Loss: 0.17413, S2S Loss: 1.00928, SLM Loss: 1.84365
+Time elasped: 1258.560879945755
+Epoch [3/5], Step [500/563], Mel Loss: 0.27111, Gen Loss: 2.67178, Disc Loss: 3.97096, Mono Loss: 0.14618, S2S Loss: 1.88439, SLM Loss: 1.61184
+Time elasped: 1285.7436435222626
+Epoch [3/5], Step [510/563], Mel Loss: 0.27189, Gen Loss: 2.48371, Disc Loss: 3.97743, Mono Loss: 0.07157, S2S Loss: 1.62945, SLM Loss: 1.68437
+Time elasped: 1313.0941245555878
+Epoch [3/5], Step [520/563], Mel Loss: 0.25533, Gen Loss: 2.83903, Disc Loss: 3.97818, Mono Loss: 0.14975, S2S Loss: 1.43908, SLM Loss: 1.72015
+Time elasped: 1338.8166136741638
+Epoch [3/5], Step [530/563], Mel Loss: 0.24823, Gen Loss: 3.18338, Disc Loss: 3.97980, Mono Loss: 0.26462, S2S Loss: 1.24999, SLM Loss: 1.23733
+Time elasped: 1364.3733141422272
+Epoch [3/5], Step [540/563], Mel Loss: 0.23691, Gen Loss: 2.56437, Disc Loss: 3.97368, Mono Loss: 0.10877, S2S Loss: 1.26123, SLM Loss: 1.40632
+Time elasped: 1389.0861113071442
+Epoch [3/5], Step [550/563], Mel Loss: 0.23558, Gen Loss: 3.01425, Disc Loss: 3.97291, Mono Loss: 0.20852, S2S Loss: 1.18702, SLM Loss: 1.46510
+Time elasped: 1413.6612644195557
+Epoch [3/5], Step [560/563], Mel Loss: 0.29690, Gen Loss: 2.61209, Disc Loss: 3.97716, Mono Loss: 0.08116, S2S Loss: 1.31362, SLM Loss: 1.68393
+Time elasped: 1440.863178730011
+Epochs: 3
+Validation loss: 0.271
+
+
+
+
+
+
+
+
+Saving..
+INFO:__main__:[RANK 0] Epoch [4/5], Step [10/563], Mel Loss: 0.27871, Gen Loss: 2.64210, Disc Loss: 3.98539, Mono Loss: 0.13110, S2S Loss: 1.66869, SLM Loss: 1.41776
+INFO:__main__:[RANK 0] Epoch [4/5], Step [20/563], Mel Loss: 0.26354, Gen Loss: 3.25567, Disc Loss: 3.98808, Mono Loss: 0.34855, S2S Loss: 1.02868, SLM Loss: 1.07695
+INFO:__main__:[RANK 0] Epoch [4/5], Step [30/563], Mel Loss: 0.29375, Gen Loss: 2.78037, Disc Loss: 3.97643, Mono Loss: 0.58731, S2S Loss: 1.18217, SLM Loss: 1.90565
+INFO:__main__:[RANK 0] Epoch [4/5], Step [40/563], Mel Loss: 0.23491, Gen Loss: 2.57326, Disc Loss: 3.98417, Mono Loss: 0.18879, S2S Loss: 1.04724, SLM Loss: 1.01857
+INFO:__main__:[RANK 0] Epoch [4/5], Step [50/563], Mel Loss: 0.25887, Gen Loss: 2.77614, Disc Loss: 3.96689, Mono Loss: 0.19785, S2S Loss: 1.13516, SLM Loss: 1.65080
+INFO:__main__:[RANK 0] Epoch [4/5], Step [60/563], Mel Loss: 0.27359, Gen Loss: 2.94819, Disc Loss: 3.96694, Mono Loss: 0.12118, S2S Loss: 1.62564, SLM Loss: 1.55925
+INFO:__main__:[RANK 0] Epoch [4/5], Step [70/563], Mel Loss: 0.26590, Gen Loss: 2.67128, Disc Loss: 3.97129, Mono Loss: 0.13524, S2S Loss: 1.26053, SLM Loss: 1.37425
+INFO:__main__:[RANK 0] Epoch [4/5], Step [80/563], Mel Loss: 0.24483, Gen Loss: 2.91514, Disc Loss: 3.98781, Mono Loss: 0.39116, S2S Loss: 1.63281, SLM Loss: 1.14503
+INFO:__main__:[RANK 0] Epoch [4/5], Step [90/563], Mel Loss: 0.25151, Gen Loss: 2.80593, Disc Loss: 3.97185, Mono Loss: 0.11207, S2S Loss: 1.58338, SLM Loss: 1.44579
+INFO:__main__:[RANK 0] Epoch [4/5], Step [100/563], Mel Loss: 0.28822, Gen Loss: 2.80001, Disc Loss: 3.96472, Mono Loss: 0.13405, S2S Loss: 1.76298, SLM Loss: 2.28016
+INFO:__main__:[RANK 0] Epoch [4/5], Step [110/563], Mel Loss: 0.27008, Gen Loss: 2.90871, Disc Loss: 3.99279, Mono Loss: 0.13037, S2S Loss: 1.24081, SLM Loss: 1.33151
+INFO:__main__:[RANK 0] Epoch [4/5], Step [120/563], Mel Loss: 0.25617, Gen Loss: 3.18089, Disc Loss: 3.99373, Mono Loss: 0.11032, S2S Loss: 1.78299, SLM Loss: 1.11063
+INFO:__main__:[RANK 0] Epoch [4/5], Step [130/563], Mel Loss: 0.25320, Gen Loss: 2.82022, Disc Loss: 3.98969, Mono Loss: 0.22283, S2S Loss: 0.63889, SLM Loss: 1.36388
+INFO:__main__:[RANK 0] Epoch [4/5], Step [140/563], Mel Loss: 0.21952, Gen Loss: 2.79735, Disc Loss: 4.02765, Mono Loss: 0.12724, S2S Loss: 1.08037, SLM Loss: 1.20770
+INFO:__main__:[RANK 0] Epoch [4/5], Step [150/563], Mel Loss: 0.28109, Gen Loss: 2.99070, Disc Loss: 3.96556, Mono Loss: 0.17794, S2S Loss: 1.46673, SLM Loss: 1.64743
+INFO:__main__:[RANK 0] Epoch [4/5], Step [160/563], Mel Loss: 0.23938, Gen Loss: 2.88805, Disc Loss: 3.95748, Mono Loss: 0.13617, S2S Loss: 1.22259, SLM Loss: 1.46973
+INFO:__main__:[RANK 0] Epoch [4/5], Step [170/563], Mel Loss: 0.24446, Gen Loss: 2.83958, Disc Loss: 4.01236, Mono Loss: 0.12958, S2S Loss: 1.40994, SLM Loss: 1.35982
+INFO:__main__:[RANK 0] Epoch [4/5], Step [180/563], Mel Loss: 0.24373, Gen Loss: 2.56561, Disc Loss: 3.97053, Mono Loss: 0.20734, S2S Loss: 1.26185, SLM Loss: 1.55244
+INFO:__main__:[RANK 0] Epoch [4/5], Step [190/563], Mel Loss: 0.24067, Gen Loss: 2.83701, Disc Loss: 3.96698, Mono Loss: 0.13728, S2S Loss: 1.16839, SLM Loss: 1.26949
+INFO:__main__:[RANK 0] Epoch [4/5], Step [200/563], Mel Loss: 0.26211, Gen Loss: 2.37247, Disc Loss: 3.98495, Mono Loss: 0.10544, S2S Loss: 0.96943, SLM Loss: 1.13434
+INFO:__main__:[RANK 0] Epoch [4/5], Step [210/563], Mel Loss: 0.26459, Gen Loss: 3.34746, Disc Loss: 3.99528, Mono Loss: 0.17393, S2S Loss: 1.12796, SLM Loss: 1.29005
+INFO:__main__:[RANK 0] Epoch [4/5], Step [220/563], Mel Loss: 0.23913, Gen Loss: 2.63247, Disc Loss: 3.97808, Mono Loss: 0.10761, S2S Loss: 1.21503, SLM Loss: 1.24472
+INFO:__main__:[RANK 0] Epoch [4/5], Step [230/563], Mel Loss: 0.23856, Gen Loss: 2.91314, Disc Loss: 3.96159, Mono Loss: 0.23281, S2S Loss: 0.95643, SLM Loss: 1.31805
+INFO:__main__:[RANK 0] Epoch [4/5], Step [240/563], Mel Loss: 0.24563, Gen Loss: 3.39848, Disc Loss: 3.95582, Mono Loss: 0.17648, S2S Loss: 0.80991, SLM Loss: 1.30760
+INFO:__main__:[RANK 0] Epoch [4/5], Step [250/563], Mel Loss: 0.25118, Gen Loss: 2.82540, Disc Loss: 3.97825, Mono Loss: 0.12620, S2S Loss: 1.13836, SLM Loss: 1.48191
+INFO:__main__:[RANK 0] Epoch [4/5], Step [260/563], Mel Loss: 0.26337, Gen Loss: 2.76524, Disc Loss: 3.98313, Mono Loss: 0.11760, S2S Loss: 1.36086, SLM Loss: 1.22170
+INFO:__main__:[RANK 0] Epoch [4/5], Step [270/563], Mel Loss: 0.24573, Gen Loss: 2.90943, Disc Loss: 3.97011, Mono Loss: 0.10975, S2S Loss: 0.97685, SLM Loss: 1.17590
+INFO:__main__:[RANK 0] Epoch [4/5], Step [280/563], Mel Loss: 0.24178, Gen Loss: 2.39431, Disc Loss: 3.97629, Mono Loss: 0.12902, S2S Loss: 0.88600, SLM Loss: 1.63749
+INFO:__main__:[RANK 0] Epoch [4/5], Step [290/563], Mel Loss: 0.26521, Gen Loss: 2.72404, Disc Loss: 3.97281, Mono Loss: 0.13689, S2S Loss: 1.54647, SLM Loss: 1.45433
+INFO:__main__:[RANK 0] Epoch [4/5], Step [300/563], Mel Loss: 0.27003, Gen Loss: 2.82023, Disc Loss: 3.94356, Mono Loss: 0.17488, S2S Loss: 1.63512, SLM Loss: 1.49183
+INFO:__main__:[RANK 0] Epoch [4/5], Step [310/563], Mel Loss: 0.27005, Gen Loss: 2.85629, Disc Loss: 3.98876, Mono Loss: 0.16388, S2S Loss: 0.77228, SLM Loss: 1.19282
+INFO:__main__:[RANK 0] Epoch [4/5], Step [320/563], Mel Loss: 0.22655, Gen Loss: 2.66672, Disc Loss: 3.99023, Mono Loss: 0.25301, S2S Loss: 0.82295, SLM Loss: 1.04445
+INFO:__main__:[RANK 0] Epoch [4/5], Step [330/563], Mel Loss: 0.25394, Gen Loss: 3.19633, Disc Loss: 3.92982, Mono Loss: 0.21221, S2S Loss: 0.96482, SLM Loss: 1.66542
+INFO:__main__:[RANK 0] Epoch [4/5], Step [340/563], Mel Loss: 0.26741, Gen Loss: 2.87048, Disc Loss: 3.98976, Mono Loss: 0.18402, S2S Loss: 1.14076, SLM Loss: 1.34676
+INFO:__main__:[RANK 0] Epoch [4/5], Step [350/563], Mel Loss: 0.24564, Gen Loss: 2.74539, Disc Loss: 3.96716, Mono Loss: 0.18454, S2S Loss: 1.21258, SLM Loss: 1.20832
+INFO:__main__:[RANK 0] Epoch [4/5], Step [360/563], Mel Loss: 0.23832, Gen Loss: 3.01445, Disc Loss: 3.98509, Mono Loss: 0.29942, S2S Loss: 1.25740, SLM Loss: 1.32281
+INFO:__main__:[RANK 0] Epoch [4/5], Step [370/563], Mel Loss: 0.27726, Gen Loss: 3.23242, Disc Loss: 3.96358, Mono Loss: 0.07421, S2S Loss: 1.05285, SLM Loss: 1.31413
+INFO:__main__:[RANK 0] Epoch [4/5], Step [380/563], Mel Loss: 0.25538, Gen Loss: 2.65339, Disc Loss: 3.99486, Mono Loss: 0.12715, S2S Loss: 1.23808, SLM Loss: 1.18084
+INFO:__main__:[RANK 0] Epoch [4/5], Step [390/563], Mel Loss: 0.26649, Gen Loss: 2.53150, Disc Loss: 3.97816, Mono Loss: 0.22017, S2S Loss: 1.16833, SLM Loss: 1.45381
+INFO:__main__:[RANK 0] Epoch [4/5], Step [400/563], Mel Loss: 0.30198, Gen Loss: 2.49532, Disc Loss: 3.98744, Mono Loss: 0.11229, S2S Loss: 1.20383, SLM Loss: 1.75355
+INFO:__main__:[RANK 0] Epoch [4/5], Step [410/563], Mel Loss: 0.28396, Gen Loss: 2.48218, Disc Loss: 3.98486, Mono Loss: 0.13172, S2S Loss: 0.90579, SLM Loss: 1.52430
+INFO:__main__:[RANK 0] Epoch [4/5], Step [420/563], Mel Loss: 0.26755, Gen Loss: 2.68350, Disc Loss: 3.99570, Mono Loss: 0.10539, S2S Loss: 1.54574, SLM Loss: 1.49636
+INFO:__main__:[RANK 0] Epoch [4/5], Step [430/563], Mel Loss: 0.22595, Gen Loss: 2.70725, Disc Loss: 3.97784, Mono Loss: 0.24923, S2S Loss: 0.73482, SLM Loss: 1.26505
+INFO:__main__:[RANK 0] Epoch [4/5], Step [440/563], Mel Loss: 0.28584, Gen Loss: 3.37019, Disc Loss: 3.97650, Mono Loss: 0.09733, S2S Loss: 1.16904, SLM Loss: 1.80594
+INFO:__main__:[RANK 0] Epoch [4/5], Step [450/563], Mel Loss: 0.27629, Gen Loss: 2.96457, Disc Loss: 3.99390, Mono Loss: 0.15582, S2S Loss: 0.90279, SLM Loss: 1.37458
+INFO:__main__:[RANK 0] Epoch [4/5], Step [460/563], Mel Loss: 0.24556, Gen Loss: 2.36658, Disc Loss: 3.99466, Mono Loss: 0.07031, S2S Loss: 1.03196, SLM Loss: 1.66169
+INFO:__main__:[RANK 0] Epoch [4/5], Step [470/563], Mel Loss: 0.22643, Gen Loss: 2.62481, Disc Loss: 3.98577, Mono Loss: 0.17340, S2S Loss: 0.95820, SLM Loss: 1.42881
+Epoch [4/5], Step [10/563], Mel Loss: 0.27871, Gen Loss: 2.64210, Disc Loss: 3.98539, Mono Loss: 0.13110, S2S Loss: 1.66869, SLM Loss: 1.41776
+Time elasped: 25.20229434967041
+Epoch [4/5], Step [20/563], Mel Loss: 0.26354, Gen Loss: 3.25567, Disc Loss: 3.98808, Mono Loss: 0.34855, S2S Loss: 1.02868, SLM Loss: 1.07695
+Time elasped: 52.77722144126892
+Epoch [4/5], Step [30/563], Mel Loss: 0.29375, Gen Loss: 2.78037, Disc Loss: 3.97643, Mono Loss: 0.58731, S2S Loss: 1.18217, SLM Loss: 1.90565
+Time elasped: 78.692880153656
+Epoch [4/5], Step [40/563], Mel Loss: 0.23491, Gen Loss: 2.57326, Disc Loss: 3.98417, Mono Loss: 0.18879, S2S Loss: 1.04724, SLM Loss: 1.01857
+Time elasped: 103.73625755310059
+Epoch [4/5], Step [50/563], Mel Loss: 0.25887, Gen Loss: 2.77614, Disc Loss: 3.96689, Mono Loss: 0.19785, S2S Loss: 1.13516, SLM Loss: 1.65080
+Time elasped: 130.4891858100891
+Epoch [4/5], Step [60/563], Mel Loss: 0.27359, Gen Loss: 2.94819, Disc Loss: 3.96694, Mono Loss: 0.12118, S2S Loss: 1.62564, SLM Loss: 1.55925
+Time elasped: 155.49000096321106
+Epoch [4/5], Step [70/563], Mel Loss: 0.26590, Gen Loss: 2.67128, Disc Loss: 3.97129, Mono Loss: 0.13524, S2S Loss: 1.26053, SLM Loss: 1.37425
+Time elasped: 181.23193073272705
+Epoch [4/5], Step [80/563], Mel Loss: 0.24483, Gen Loss: 2.91514, Disc Loss: 3.98781, Mono Loss: 0.39116, S2S Loss: 1.63281, SLM Loss: 1.14503
+Time elasped: 204.7543032169342
+Epoch [4/5], Step [90/563], Mel Loss: 0.25151, Gen Loss: 2.80593, Disc Loss: 3.97185, Mono Loss: 0.11207, S2S Loss: 1.58338, SLM Loss: 1.44579
+Time elasped: 230.96017265319824
+Epoch [4/5], Step [100/563], Mel Loss: 0.28822, Gen Loss: 2.80001, Disc Loss: 3.96472, Mono Loss: 0.13405, S2S Loss: 1.76298, SLM Loss: 2.28016
+Time elasped: 257.66668009757996
+Epoch [4/5], Step [110/563], Mel Loss: 0.27008, Gen Loss: 2.90871, Disc Loss: 3.99279, Mono Loss: 0.13037, S2S Loss: 1.24081, SLM Loss: 1.33151
+Time elasped: 281.5443844795227
+Epoch [4/5], Step [120/563], Mel Loss: 0.25617, Gen Loss: 3.18089, Disc Loss: 3.99373, Mono Loss: 0.11032, S2S Loss: 1.78299, SLM Loss: 1.11063
+Time elasped: 305.9691379070282
+Epoch [4/5], Step [130/563], Mel Loss: 0.25320, Gen Loss: 2.82022, Disc Loss: 3.98969, Mono Loss: 0.22283, S2S Loss: 0.63889, SLM Loss: 1.36388
+Time elasped: 329.0021028518677
+Epoch [4/5], Step [140/563], Mel Loss: 0.21952, Gen Loss: 2.79735, Disc Loss: 4.02765, Mono Loss: 0.12724, S2S Loss: 1.08037, SLM Loss: 1.20770
+Time elasped: 353.83029532432556
+Epoch [4/5], Step [150/563], Mel Loss: 0.28109, Gen Loss: 2.99070, Disc Loss: 3.96556, Mono Loss: 0.17794, S2S Loss: 1.46673, SLM Loss: 1.64743
+Time elasped: 380.0373110771179
+Epoch [4/5], Step [160/563], Mel Loss: 0.23938, Gen Loss: 2.88805, Disc Loss: 3.95748, Mono Loss: 0.13617, S2S Loss: 1.22259, SLM Loss: 1.46973
+Time elasped: 405.660183429718
+Epoch [4/5], Step [170/563], Mel Loss: 0.24446, Gen Loss: 2.83958, Disc Loss: 4.01236, Mono Loss: 0.12958, S2S Loss: 1.40994, SLM Loss: 1.35982
+Time elasped: 429.39961886405945
+Epoch [4/5], Step [180/563], Mel Loss: 0.24373, Gen Loss: 2.56561, Disc Loss: 3.97053, Mono Loss: 0.20734, S2S Loss: 1.26185, SLM Loss: 1.55244
+Time elasped: 454.25227546691895
+Epoch [4/5], Step [190/563], Mel Loss: 0.24067, Gen Loss: 2.83701, Disc Loss: 3.96698, Mono Loss: 0.13728, S2S Loss: 1.16839, SLM Loss: 1.26949
+Time elasped: 479.23685026168823
+Epoch [4/5], Step [200/563], Mel Loss: 0.26211, Gen Loss: 2.37247, Disc Loss: 3.98495, Mono Loss: 0.10544, S2S Loss: 0.96943, SLM Loss: 1.13434
+Time elasped: 503.40052247047424
+Epoch [4/5], Step [210/563], Mel Loss: 0.26459, Gen Loss: 3.34746, Disc Loss: 3.99528, Mono Loss: 0.17393, S2S Loss: 1.12796, SLM Loss: 1.29005
+Time elasped: 531.2283873558044
+Epoch [4/5], Step [220/563], Mel Loss: 0.23913, Gen Loss: 2.63247, Disc Loss: 3.97808, Mono Loss: 0.10761, S2S Loss: 1.21503, SLM Loss: 1.24472
+Time elasped: 557.6195600032806
+Epoch [4/5], Step [230/563], Mel Loss: 0.23856, Gen Loss: 2.91314, Disc Loss: 3.96159, Mono Loss: 0.23281, S2S Loss: 0.95643, SLM Loss: 1.31805
+Time elasped: 582.840478181839
+Epoch [4/5], Step [240/563], Mel Loss: 0.24563, Gen Loss: 3.39848, Disc Loss: 3.95582, Mono Loss: 0.17648, S2S Loss: 0.80991, SLM Loss: 1.30760
+Time elasped: 608.3736300468445
+Epoch [4/5], Step [250/563], Mel Loss: 0.25118, Gen Loss: 2.82540, Disc Loss: 3.97825, Mono Loss: 0.12620, S2S Loss: 1.13836, SLM Loss: 1.48191
+Time elasped: 635.2693059444427
+Epoch [4/5], Step [260/563], Mel Loss: 0.26337, Gen Loss: 2.76524, Disc Loss: 3.98313, Mono Loss: 0.11760, S2S Loss: 1.36086, SLM Loss: 1.22170
+Time elasped: 662.7836592197418
+Epoch [4/5], Step [270/563], Mel Loss: 0.24573, Gen Loss: 2.90943, Disc Loss: 3.97011, Mono Loss: 0.10975, S2S Loss: 0.97685, SLM Loss: 1.17590
+Time elasped: 689.4564180374146
+Epoch [4/5], Step [280/563], Mel Loss: 0.24178, Gen Loss: 2.39431, Disc Loss: 3.97629, Mono Loss: 0.12902, S2S Loss: 0.88600, SLM Loss: 1.63749
+Time elasped: 714.3861010074615
+Epoch [4/5], Step [290/563], Mel Loss: 0.26521, Gen Loss: 2.72404, Disc Loss: 3.97281, Mono Loss: 0.13689, S2S Loss: 1.54647, SLM Loss: 1.45433
+Time elasped: 739.4045934677124
+Epoch [4/5], Step [300/563], Mel Loss: 0.27003, Gen Loss: 2.82023, Disc Loss: 3.94356, Mono Loss: 0.17488, S2S Loss: 1.63512, SLM Loss: 1.49183
+Time elasped: 765.2034366130829
+Epoch [4/5], Step [310/563], Mel Loss: 0.27005, Gen Loss: 2.85629, Disc Loss: 3.98876, Mono Loss: 0.16388, S2S Loss: 0.77228, SLM Loss: 1.19282
+Time elasped: 792.00763463974
+Epoch [4/5], Step [320/563], Mel Loss: 0.22655, Gen Loss: 2.66672, Disc Loss: 3.99023, Mono Loss: 0.25301, S2S Loss: 0.82295, SLM Loss: 1.04445
+Time elasped: 816.2648050785065
+Epoch [4/5], Step [330/563], Mel Loss: 0.25394, Gen Loss: 3.19633, Disc Loss: 3.92982, Mono Loss: 0.21221, S2S Loss: 0.96482, SLM Loss: 1.66542
+Time elasped: 840.7813816070557
+Epoch [4/5], Step [340/563], Mel Loss: 0.26741, Gen Loss: 2.87048, Disc Loss: 3.98976, Mono Loss: 0.18402, S2S Loss: 1.14076, SLM Loss: 1.34676
+Time elasped: 867.1792988777161
+Epoch [4/5], Step [350/563], Mel Loss: 0.24564, Gen Loss: 2.74539, Disc Loss: 3.96716, Mono Loss: 0.18454, S2S Loss: 1.21258, SLM Loss: 1.20832
+Time elasped: 893.2373342514038
+Epoch [4/5], Step [360/563], Mel Loss: 0.23832, Gen Loss: 3.01445, Disc Loss: 3.98509, Mono Loss: 0.29942, S2S Loss: 1.25740, SLM Loss: 1.32281
+Time elasped: 919.0381875038147
+Epoch [4/5], Step [370/563], Mel Loss: 0.27726, Gen Loss: 3.23242, Disc Loss: 3.96358, Mono Loss: 0.07421, S2S Loss: 1.05285, SLM Loss: 1.31413
+Time elasped: 946.2632632255554
+Epoch [4/5], Step [380/563], Mel Loss: 0.25538, Gen Loss: 2.65339, Disc Loss: 3.99486, Mono Loss: 0.12715, S2S Loss: 1.23808, SLM Loss: 1.18084
+Time elasped: 971.7329907417297
+Epoch [4/5], Step [390/563], Mel Loss: 0.26649, Gen Loss: 2.53150, Disc Loss: 3.97816, Mono Loss: 0.22017, S2S Loss: 1.16833, SLM Loss: 1.45381
+Time elasped: 997.980571269989
+Epoch [4/5], Step [400/563], Mel Loss: 0.30198, Gen Loss: 2.49532, Disc Loss: 3.98744, Mono Loss: 0.11229, S2S Loss: 1.20383, SLM Loss: 1.75355
+Time elasped: 1024.972468137741
+Epoch [4/5], Step [410/563], Mel Loss: 0.28396, Gen Loss: 2.48218, Disc Loss: 3.98486, Mono Loss: 0.13172, S2S Loss: 0.90579, SLM Loss: 1.52430
+Time elasped: 1051.8440110683441
+Epoch [4/5], Step [420/563], Mel Loss: 0.26755, Gen Loss: 2.68350, Disc Loss: 3.99570, Mono Loss: 0.10539, S2S Loss: 1.54574, SLM Loss: 1.49636
+Time elasped: 1077.9536323547363
+Epoch [4/5], Step [430/563], Mel Loss: 0.22595, Gen Loss: 2.70725, Disc Loss: 3.97784, Mono Loss: 0.24923, S2S Loss: 0.73482, SLM Loss: 1.26505
+Time elasped: 1102.0931107997894
+Epoch [4/5], Step [440/563], Mel Loss: 0.28584, Gen Loss: 3.37019, Disc Loss: 3.97650, Mono Loss: 0.09733, S2S Loss: 1.16904, SLM Loss: 1.80594
+Time elasped: 1128.7711839675903
+Epoch [4/5], Step [450/563], Mel Loss: 0.27629, Gen Loss: 2.96457, Disc Loss: 3.99390, Mono Loss: 0.15582, S2S Loss: 0.90279, SLM Loss: 1.37458
+Time elasped: 1155.9721586704254
+Epoch [4/5], Step [460/563], Mel Loss: 0.24556, Gen Loss: 2.36658, Disc Loss: 3.99466, Mono Loss: 0.07031, S2S Loss: 1.03196, SLM Loss: 1.66169
+Time elasped: 1181.0022988319397
+Epoch [4/5], Step [470/563], Mel Loss: 0.22643, Gen Loss: 2.62481, Disc Loss: 3.98577, Mono Loss: 0.17340, S2S Loss: 0.95820, SLM Loss: 1.42881INFO:__main__:[RANK 0] Epoch [4/5], Step [480/563], Mel Loss: 0.24192, Gen Loss: 2.55448, Disc Loss: 3.96811, Mono Loss: 0.08271, S2S Loss: 1.10919, SLM Loss: 1.79329
+INFO:__main__:[RANK 0] Epoch [4/5], Step [490/563], Mel Loss: 0.25634, Gen Loss: 2.86883, Disc Loss: 3.95749, Mono Loss: 0.14942, S2S Loss: 1.55246, SLM Loss: 1.59826
+INFO:__main__:[RANK 0] Epoch [4/5], Step [500/563], Mel Loss: 0.23792, Gen Loss: 2.97575, Disc Loss: 3.97428, Mono Loss: 0.29977, S2S Loss: 1.14799, SLM Loss: 1.49170
+INFO:__main__:[RANK 0] Epoch [4/5], Step [510/563], Mel Loss: 0.24678, Gen Loss: 2.79928, Disc Loss: 4.00380, Mono Loss: 0.13170, S2S Loss: 1.16446, SLM Loss: 1.43552
+INFO:__main__:[RANK 0] Epoch [4/5], Step [520/563], Mel Loss: 0.27734, Gen Loss: 2.86927, Disc Loss: 3.96215, Mono Loss: 0.07267, S2S Loss: 1.00939, SLM Loss: 1.79165
+INFO:__main__:[RANK 0] Epoch [4/5], Step [530/563], Mel Loss: 0.26359, Gen Loss: 2.86725, Disc Loss: 3.94718, Mono Loss: 0.20267, S2S Loss: 0.65137, SLM Loss: 1.56509
+INFO:__main__:[RANK 0] Epoch [4/5], Step [540/563], Mel Loss: 0.26046, Gen Loss: 2.86525, Disc Loss: 3.97860, Mono Loss: 0.08314, S2S Loss: 1.56690, SLM Loss: 1.48463
+INFO:__main__:[RANK 0] Epoch [4/5], Step [550/563], Mel Loss: 0.23387, Gen Loss: 2.67565, Disc Loss: 3.97214, Mono Loss: 0.10782, S2S Loss: 1.34765, SLM Loss: 1.42311
+INFO:__main__:[RANK 0] Epoch [4/5], Step [560/563], Mel Loss: 0.25586, Gen Loss: 3.02687, Disc Loss: 3.95738, Mono Loss: 0.10443, S2S Loss: 1.07958, SLM Loss: 1.79166
+INFO:__main__:[RANK 0] Validation loss: 0.268
+
+
+
+
+DEBUG:matplotlib.pyplot:Loaded backend agg version v2.2.
+INFO:__main__:[RANK 0] Epoch 3: extracting voicepack for TensorBoard inference...
+INFO:__main__:[RANK 0]   acoustic_norm=1.5550  prosodic_norm=0.3325
+
+Time elasped: 1206.2404770851135
+Epoch [4/5], Step [480/563], Mel Loss: 0.24192, Gen Loss: 2.55448, Disc Loss: 3.96811, Mono Loss: 0.08271, S2S Loss: 1.10919, SLM Loss: 1.79329
+Time elasped: 1231.1448819637299
+Epoch [4/5], Step [490/563], Mel Loss: 0.25634, Gen Loss: 2.86883, Disc Loss: 3.95749, Mono Loss: 0.14942, S2S Loss: 1.55246, SLM Loss: 1.59826
+Time elasped: 1256.7902238368988
+Epoch [4/5], Step [500/563], Mel Loss: 0.23792, Gen Loss: 2.97575, Disc Loss: 3.97428, Mono Loss: 0.29977, S2S Loss: 1.14799, SLM Loss: 1.49170
+Time elasped: 1282.8811082839966
+Epoch [4/5], Step [510/563], Mel Loss: 0.24678, Gen Loss: 2.79928, Disc Loss: 4.00380, Mono Loss: 0.13170, S2S Loss: 1.16446, SLM Loss: 1.43552
+Time elasped: 1308.6370437145233
+Epoch [4/5], Step [520/563], Mel Loss: 0.27734, Gen Loss: 2.86927, Disc Loss: 3.96215, Mono Loss: 0.07267, S2S Loss: 1.00939, SLM Loss: 1.79165
+Time elasped: 1335.6220266819
+Epoch [4/5], Step [530/563], Mel Loss: 0.26359, Gen Loss: 2.86725, Disc Loss: 3.94718, Mono Loss: 0.20267, S2S Loss: 0.65137, SLM Loss: 1.56509
+Time elasped: 1361.9611461162567
+Epoch [4/5], Step [540/563], Mel Loss: 0.26046, Gen Loss: 2.86525, Disc Loss: 3.97860, Mono Loss: 0.08314, S2S Loss: 1.56690, SLM Loss: 1.48463
+Time elasped: 1387.5263965129852
+Epoch [4/5], Step [550/563], Mel Loss: 0.23387, Gen Loss: 2.67565, Disc Loss: 3.97214, Mono Loss: 0.10782, S2S Loss: 1.34765, SLM Loss: 1.42311
+Time elasped: 1412.466869354248
+Epoch [4/5], Step [560/563], Mel Loss: 0.25586, Gen Loss: 3.02687, Disc Loss: 3.95738, Mono Loss: 0.10443, S2S Loss: 1.07958, SLM Loss: 1.79166
+Time elasped: 1437.2147815227509
+Epochs: 4
+Validation loss: 0.268
+
+
+
+
+
+
+
+
+Saving..
+INFO:__main__:[RANK 0] Epoch [5/5], Step [10/563], Mel Loss: 0.27215, Gen Loss: 3.09133, Disc Loss: 3.96242, Mono Loss: 0.31172, S2S Loss: 0.89548, SLM Loss: 1.25260
+INFO:__main__:[RANK 0] Epoch [5/5], Step [20/563], Mel Loss: 0.27249, Gen Loss: 2.96762, Disc Loss: 3.97100, Mono Loss: 0.10109, S2S Loss: 0.93235, SLM Loss: 1.88247
+INFO:__main__:[RANK 0] Epoch [5/5], Step [30/563], Mel Loss: 0.24523, Gen Loss: 3.20849, Disc Loss: 4.00495, Mono Loss: 0.26918, S2S Loss: 1.14392, SLM Loss: 1.11746
+INFO:__main__:[RANK 0] Epoch [5/5], Step [40/563], Mel Loss: 0.24867, Gen Loss: 2.72875, Disc Loss: 3.99088, Mono Loss: 0.13197, S2S Loss: 1.00449, SLM Loss: 1.08653
+INFO:__main__:[RANK 0] Epoch [5/5], Step [50/563], Mel Loss: 0.24864, Gen Loss: 3.14628, Disc Loss: 3.98695, Mono Loss: 0.08981, S2S Loss: 1.02246, SLM Loss: 1.82575
+INFO:__main__:[RANK 0] Epoch [5/5], Step [60/563], Mel Loss: 0.27311, Gen Loss: 2.93761, Disc Loss: 3.96748, Mono Loss: 0.13422, S2S Loss: 1.04875, SLM Loss: 1.37790
+INFO:__main__:[RANK 0] Epoch [5/5], Step [70/563], Mel Loss: 0.25168, Gen Loss: 3.03626, Disc Loss: 3.96313, Mono Loss: 0.11899, S2S Loss: 1.22501, SLM Loss: 1.41106
+INFO:__main__:[RANK 0] Epoch [5/5], Step [80/563], Mel Loss: 0.24251, Gen Loss: 3.05418, Disc Loss: 3.96833, Mono Loss: 0.23315, S2S Loss: 0.84663, SLM Loss: 1.16930
+INFO:__main__:[RANK 0] Epoch [5/5], Step [90/563], Mel Loss: 0.23927, Gen Loss: 2.89091, Disc Loss: 3.95893, Mono Loss: 0.24805, S2S Loss: 0.62834, SLM Loss: 1.16194
+INFO:__main__:[RANK 0] Epoch [5/5], Step [100/563], Mel Loss: 0.24846, Gen Loss: 2.89796, Disc Loss: 4.00812, Mono Loss: 0.17757, S2S Loss: 1.02590, SLM Loss: 1.21457
+INFO:__main__:[RANK 0] Epoch [5/5], Step [110/563], Mel Loss: 0.27605, Gen Loss: 3.03617, Disc Loss: 3.98122, Mono Loss: 0.18211, S2S Loss: 0.79430, SLM Loss: 1.19825
+INFO:__main__:[RANK 0] Epoch [5/5], Step [120/563], Mel Loss: 0.23323, Gen Loss: 2.79427, Disc Loss: 3.98215, Mono Loss: 0.21389, S2S Loss: 0.99787, SLM Loss: 1.38968
+INFO:__main__:[RANK 0] Epoch [5/5], Step [130/563], Mel Loss: 0.25784, Gen Loss: 2.84363, Disc Loss: 4.04852, Mono Loss: 0.17930, S2S Loss: 1.07748, SLM Loss: 1.21601
+INFO:__main__:[RANK 0] Epoch [5/5], Step [140/563], Mel Loss: 0.25982, Gen Loss: 2.66500, Disc Loss: 3.98418, Mono Loss: 0.18763, S2S Loss: 0.77600, SLM Loss: 1.67865
+INFO:__main__:[RANK 0] Epoch [5/5], Step [150/563], Mel Loss: 0.26535, Gen Loss: 2.92585, Disc Loss: 3.99324, Mono Loss: 0.18300, S2S Loss: 1.10068, SLM Loss: 1.24408
+INFO:__main__:[RANK 0] Epoch [5/5], Step [160/563], Mel Loss: 0.24581, Gen Loss: 3.13934, Disc Loss: 4.00960, Mono Loss: 0.20004, S2S Loss: 1.30314, SLM Loss: 1.52305
+INFO:__main__:[RANK 0] Epoch [5/5], Step [170/563], Mel Loss: 0.23520, Gen Loss: 2.73387, Disc Loss: 3.96091, Mono Loss: 0.11949, S2S Loss: 1.52164, SLM Loss: 1.77601
+INFO:__main__:[RANK 0] Epoch [5/5], Step [180/563], Mel Loss: 0.26570, Gen Loss: 3.10390, Disc Loss: 3.95886, Mono Loss: 0.10527, S2S Loss: 1.33645, SLM Loss: 1.45393
+INFO:__main__:[RANK 0] Epoch [5/5], Step [190/563], Mel Loss: 0.24828, Gen Loss: 2.96058, Disc Loss: 3.97251, Mono Loss: 0.12959, S2S Loss: 1.02596, SLM Loss: 1.74912
+INFO:__main__:[RANK 0] Epoch [5/5], Step [200/563], Mel Loss: 0.25010, Gen Loss: 2.85184, Disc Loss: 3.98658, Mono Loss: 0.18937, S2S Loss: 0.71856, SLM Loss: 1.12549
+INFO:__main__:[RANK 0] Epoch [5/5], Step [210/563], Mel Loss: 0.22607, Gen Loss: 2.77173, Disc Loss: 4.01232, Mono Loss: 0.17643, S2S Loss: 0.84094, SLM Loss: 1.25971
+INFO:__main__:[RANK 0] Epoch [5/5], Step [220/563], Mel Loss: 0.23315, Gen Loss: 3.07997, Disc Loss: 3.96528, Mono Loss: 0.20808, S2S Loss: 0.69369, SLM Loss: 1.25516
+INFO:__main__:[RANK 0] Epoch [5/5], Step [230/563], Mel Loss: 0.21666, Gen Loss: 2.58291, Disc Loss: 3.99415, Mono Loss: 0.13284, S2S Loss: 1.15257, SLM Loss: 1.41976
+INFO:__main__:[RANK 0] Epoch [5/5], Step [240/563], Mel Loss: 0.22718, Gen Loss: 2.95883, Disc Loss: 3.98740, Mono Loss: 0.11884, S2S Loss: 1.38998, SLM Loss: 1.19675
+INFO:__main__:[RANK 0] Epoch [5/5], Step [250/563], Mel Loss: 0.25519, Gen Loss: 3.00588, Disc Loss: 3.95065, Mono Loss: 0.13080, S2S Loss: 0.95902, SLM Loss: 1.57482
+INFO:__main__:[RANK 0] Epoch [5/5], Step [260/563], Mel Loss: 0.24491, Gen Loss: 2.87684, Disc Loss: 3.97678, Mono Loss: 0.21421, S2S Loss: 1.00885, SLM Loss: 1.30417
+INFO:__main__:[RANK 0] Epoch [5/5], Step [270/563], Mel Loss: 0.27190, Gen Loss: 2.92595, Disc Loss: 3.97448, Mono Loss: 0.15347, S2S Loss: 0.81058, SLM Loss: 1.48652
+INFO:__main__:[RANK 0] Epoch [5/5], Step [280/563], Mel Loss: 0.25740, Gen Loss: 3.34680, Disc Loss: 3.92830, Mono Loss: 0.25492, S2S Loss: 0.56514, SLM Loss: 1.45763
+INFO:__main__:[RANK 0] Epoch [5/5], Step [290/563], Mel Loss: 0.24430, Gen Loss: 2.50160, Disc Loss: 3.99140, Mono Loss: 0.08958, S2S Loss: 1.10184, SLM Loss: 1.66804
+INFO:__main__:[RANK 0] Epoch [5/5], Step [300/563], Mel Loss: 0.27830, Gen Loss: 2.87250, Disc Loss: 3.95654, Mono Loss: 0.36190, S2S Loss: 0.87411, SLM Loss: 2.09119
+INFO:__main__:[RANK 0] Epoch [5/5], Step [310/563], Mel Loss: 0.26751, Gen Loss: 3.06241, Disc Loss: 3.97641, Mono Loss: 0.21711, S2S Loss: 1.06810, SLM Loss: 1.26784
+INFO:__main__:[RANK 0] Epoch [5/5], Step [320/563], Mel Loss: 0.23884, Gen Loss: 2.82582, Disc Loss: 3.99519, Mono Loss: 0.18425, S2S Loss: 1.05712, SLM Loss: 1.23616
+INFO:__main__:[RANK 0] Epoch [5/5], Step [330/563], Mel Loss: 0.22939, Gen Loss: 2.82112, Disc Loss: 3.98133, Mono Loss: 0.38694, S2S Loss: 0.69201, SLM Loss: 1.09952
+INFO:__main__:[RANK 0] Epoch [5/5], Step [340/563], Mel Loss: 0.28415, Gen Loss: 2.88838, Disc Loss: 3.98448, Mono Loss: 0.09713, S2S Loss: 1.42456, SLM Loss: 1.41279
+INFO:__main__:[RANK 0] Epoch [5/5], Step [350/563], Mel Loss: 0.26039, Gen Loss: 2.76161, Disc Loss: 3.99452, Mono Loss: 0.20855, S2S Loss: 0.71791, SLM Loss: 1.31624
+INFO:__main__:[RANK 0] Epoch [5/5], Step [360/563], Mel Loss: 0.25080, Gen Loss: 3.11302, Disc Loss: 3.94217, Mono Loss: 0.10868, S2S Loss: 0.87209, SLM Loss: 1.29897
+INFO:__main__:[RANK 0] Epoch [5/5], Step [370/563], Mel Loss: 0.24517, Gen Loss: 3.28343, Disc Loss: 3.97761, Mono Loss: 0.12655, S2S Loss: 1.10692, SLM Loss: 1.16870
+INFO:__main__:[RANK 0] Epoch [5/5], Step [380/563], Mel Loss: 0.25835, Gen Loss: 2.96043, Disc Loss: 3.98452, Mono Loss: 0.10476, S2S Loss: 0.85470, SLM Loss: 1.40131
+INFO:__main__:[RANK 0] Epoch [5/5], Step [390/563], Mel Loss: 0.22181, Gen Loss: 2.71354, Disc Loss: 3.99275, Mono Loss: 0.11605, S2S Loss: 0.89703, SLM Loss: 1.31800
+INFO:__main__:[RANK 0] Epoch [5/5], Step [400/563], Mel Loss: 0.23559, Gen Loss: 2.76086, Disc Loss: 3.98487, Mono Loss: 0.13785, S2S Loss: 1.12584, SLM Loss: 1.41837
+INFO:__main__:[RANK 0] Epoch [5/5], Step [410/563], Mel Loss: 0.25019, Gen Loss: 2.52930, Disc Loss: 3.97702, Mono Loss: 0.11487, S2S Loss: 0.85071, SLM Loss: 1.72937
+INFO:__main__:[RANK 0] Epoch [5/5], Step [420/563], Mel Loss: 0.25907, Gen Loss: 3.16316, Disc Loss: 3.95460, Mono Loss: 0.12218, S2S Loss: 1.07066, SLM Loss: 1.79002
+INFO:__main__:[RANK 0] Epoch [5/5], Step [430/563], Mel Loss: 0.29378, Gen Loss: 3.48690, Disc Loss: 3.97111, Mono Loss: 0.13135, S2S Loss: 0.80135, SLM Loss: 1.38093
+INFO:__main__:[RANK 0] Epoch [5/5], Step [440/563], Mel Loss: 0.26492, Gen Loss: 3.02923, Disc Loss: 3.98369, Mono Loss: 0.13604, S2S Loss: 1.16347, SLM Loss: 1.23874
+INFO:__main__:[RANK 0] Epoch [5/5], Step [450/563], Mel Loss: 0.23295, Gen Loss: 2.73708, Disc Loss: 3.97021, Mono Loss: 0.19187, S2S Loss: 0.68035, SLM Loss: 1.41965
+INFO:__main__:[RANK 0] Epoch [5/5], Step [460/563], Mel Loss: 0.26244, Gen Loss: 3.18219, Disc Loss: 3.93987, Mono Loss: 0.13097, S2S Loss: 0.81376, SLM Loss: 2.42403
+INFO:__main__:[RANK 0] Epoch [5/5], Step [470/563], Mel Loss: 0.25161, Gen Loss: 3.25850, Disc Loss: 3.96898, Mono Loss: 0.19841, S2S Loss: 0.80577, SLM Loss: 1.25914
+Epoch [5/5], Step [10/563], Mel Loss: 0.27215, Gen Loss: 3.09133, Disc Loss: 3.96242, Mono Loss: 0.31172, S2S Loss: 0.89548, SLM Loss: 1.25260
+Time elasped: 27.49150013923645
+Epoch [5/5], Step [20/563], Mel Loss: 0.27249, Gen Loss: 2.96762, Disc Loss: 3.97100, Mono Loss: 0.10109, S2S Loss: 0.93235, SLM Loss: 1.88247
+Time elasped: 54.83647871017456
+Epoch [5/5], Step [30/563], Mel Loss: 0.24523, Gen Loss: 3.20849, Disc Loss: 4.00495, Mono Loss: 0.26918, S2S Loss: 1.14392, SLM Loss: 1.11746
+Time elasped: 81.07911777496338
+Epoch [5/5], Step [40/563], Mel Loss: 0.24867, Gen Loss: 2.72875, Disc Loss: 3.99088, Mono Loss: 0.13197, S2S Loss: 1.00449, SLM Loss: 1.08653
+Time elasped: 104.50778698921204
+Epoch [5/5], Step [50/563], Mel Loss: 0.24864, Gen Loss: 3.14628, Disc Loss: 3.98695, Mono Loss: 0.08981, S2S Loss: 1.02246, SLM Loss: 1.82575
+Time elasped: 130.1386456489563
+Epoch [5/5], Step [60/563], Mel Loss: 0.27311, Gen Loss: 2.93761, Disc Loss: 3.96748, Mono Loss: 0.13422, S2S Loss: 1.04875, SLM Loss: 1.37790
+Time elasped: 157.48152923583984
+Epoch [5/5], Step [70/563], Mel Loss: 0.25168, Gen Loss: 3.03626, Disc Loss: 3.96313, Mono Loss: 0.11899, S2S Loss: 1.22501, SLM Loss: 1.41106
+Time elasped: 183.6630895137787
+Epoch [5/5], Step [80/563], Mel Loss: 0.24251, Gen Loss: 3.05418, Disc Loss: 3.96833, Mono Loss: 0.23315, S2S Loss: 0.84663, SLM Loss: 1.16930
+Time elasped: 209.01086044311523
+Epoch [5/5], Step [90/563], Mel Loss: 0.23927, Gen Loss: 2.89091, Disc Loss: 3.95893, Mono Loss: 0.24805, S2S Loss: 0.62834, SLM Loss: 1.16194
+Time elasped: 234.18833422660828
+Epoch [5/5], Step [100/563], Mel Loss: 0.24846, Gen Loss: 2.89796, Disc Loss: 4.00812, Mono Loss: 0.17757, S2S Loss: 1.02590, SLM Loss: 1.21457
+Time elasped: 259.58006143569946
+Epoch [5/5], Step [110/563], Mel Loss: 0.27605, Gen Loss: 3.03617, Disc Loss: 3.98122, Mono Loss: 0.18211, S2S Loss: 0.79430, SLM Loss: 1.19825
+Time elasped: 285.40347027778625
+Epoch [5/5], Step [120/563], Mel Loss: 0.23323, Gen Loss: 2.79427, Disc Loss: 3.98215, Mono Loss: 0.21389, S2S Loss: 0.99787, SLM Loss: 1.38968
+Time elasped: 309.48453879356384
+Epoch [5/5], Step [130/563], Mel Loss: 0.25784, Gen Loss: 2.84363, Disc Loss: 4.04852, Mono Loss: 0.17930, S2S Loss: 1.07748, SLM Loss: 1.21601
+Time elasped: 336.7097041606903
+Epoch [5/5], Step [140/563], Mel Loss: 0.25982, Gen Loss: 2.66500, Disc Loss: 3.98418, Mono Loss: 0.18763, S2S Loss: 0.77600, SLM Loss: 1.67865
+Time elasped: 361.2433485984802
+Epoch [5/5], Step [150/563], Mel Loss: 0.26535, Gen Loss: 2.92585, Disc Loss: 3.99324, Mono Loss: 0.18300, S2S Loss: 1.10068, SLM Loss: 1.24408
+Time elasped: 386.7017569541931
+Epoch [5/5], Step [160/563], Mel Loss: 0.24581, Gen Loss: 3.13934, Disc Loss: 4.00960, Mono Loss: 0.20004, S2S Loss: 1.30314, SLM Loss: 1.52305
+Time elasped: 412.0149667263031
+Epoch [5/5], Step [170/563], Mel Loss: 0.23520, Gen Loss: 2.73387, Disc Loss: 3.96091, Mono Loss: 0.11949, S2S Loss: 1.52164, SLM Loss: 1.77601
+Time elasped: 436.00196623802185
+Epoch [5/5], Step [180/563], Mel Loss: 0.26570, Gen Loss: 3.10390, Disc Loss: 3.95886, Mono Loss: 0.10527, S2S Loss: 1.33645, SLM Loss: 1.45393
+Time elasped: 462.4108998775482
+Epoch [5/5], Step [190/563], Mel Loss: 0.24828, Gen Loss: 2.96058, Disc Loss: 3.97251, Mono Loss: 0.12959, S2S Loss: 1.02596, SLM Loss: 1.74912
+Time elasped: 488.24858713150024
+Epoch [5/5], Step [200/563], Mel Loss: 0.25010, Gen Loss: 2.85184, Disc Loss: 3.98658, Mono Loss: 0.18937, S2S Loss: 0.71856, SLM Loss: 1.12549
+Time elasped: 515.0404860973358
+Epoch [5/5], Step [210/563], Mel Loss: 0.22607, Gen Loss: 2.77173, Disc Loss: 4.01232, Mono Loss: 0.17643, S2S Loss: 0.84094, SLM Loss: 1.25971
+Time elasped: 538.911333322525
+Epoch [5/5], Step [220/563], Mel Loss: 0.23315, Gen Loss: 3.07997, Disc Loss: 3.96528, Mono Loss: 0.20808, S2S Loss: 0.69369, SLM Loss: 1.25516
+Time elasped: 562.3515703678131
+Epoch [5/5], Step [230/563], Mel Loss: 0.21666, Gen Loss: 2.58291, Disc Loss: 3.99415, Mono Loss: 0.13284, S2S Loss: 1.15257, SLM Loss: 1.41976
+Time elasped: 586.4358201026917
+Epoch [5/5], Step [240/563], Mel Loss: 0.22718, Gen Loss: 2.95883, Disc Loss: 3.98740, Mono Loss: 0.11884, S2S Loss: 1.38998, SLM Loss: 1.19675
+Time elasped: 612.6723785400391
+Epoch [5/5], Step [250/563], Mel Loss: 0.25519, Gen Loss: 3.00588, Disc Loss: 3.95065, Mono Loss: 0.13080, S2S Loss: 0.95902, SLM Loss: 1.57482
+Time elasped: 639.495542049408
+Epoch [5/5], Step [260/563], Mel Loss: 0.24491, Gen Loss: 2.87684, Disc Loss: 3.97678, Mono Loss: 0.21421, S2S Loss: 1.00885, SLM Loss: 1.30417
+Time elasped: 665.0193109512329
+Epoch [5/5], Step [270/563], Mel Loss: 0.27190, Gen Loss: 2.92595, Disc Loss: 3.97448, Mono Loss: 0.15347, S2S Loss: 0.81058, SLM Loss: 1.48652
+Time elasped: 691.7820348739624
+Epoch [5/5], Step [280/563], Mel Loss: 0.25740, Gen Loss: 3.34680, Disc Loss: 3.92830, Mono Loss: 0.25492, S2S Loss: 0.56514, SLM Loss: 1.45763
+Time elasped: 716.9195585250854
+Epoch [5/5], Step [290/563], Mel Loss: 0.24430, Gen Loss: 2.50160, Disc Loss: 3.99140, Mono Loss: 0.08958, S2S Loss: 1.10184, SLM Loss: 1.66804
+Time elasped: 743.1197395324707
+Epoch [5/5], Step [300/563], Mel Loss: 0.27830, Gen Loss: 2.87250, Disc Loss: 3.95654, Mono Loss: 0.36190, S2S Loss: 0.87411, SLM Loss: 2.09119
+Time elasped: 769.7877109050751
+Epoch [5/5], Step [310/563], Mel Loss: 0.26751, Gen Loss: 3.06241, Disc Loss: 3.97641, Mono Loss: 0.21711, S2S Loss: 1.06810, SLM Loss: 1.26784
+Time elasped: 796.3166151046753
+Epoch [5/5], Step [320/563], Mel Loss: 0.23884, Gen Loss: 2.82582, Disc Loss: 3.99519, Mono Loss: 0.18425, S2S Loss: 1.05712, SLM Loss: 1.23616
+Time elasped: 822.4649486541748
+Epoch [5/5], Step [330/563], Mel Loss: 0.22939, Gen Loss: 2.82112, Disc Loss: 3.98133, Mono Loss: 0.38694, S2S Loss: 0.69201, SLM Loss: 1.09952
+Time elasped: 845.9355463981628
+Epoch [5/5], Step [340/563], Mel Loss: 0.28415, Gen Loss: 2.88838, Disc Loss: 3.98448, Mono Loss: 0.09713, S2S Loss: 1.42456, SLM Loss: 1.41279
+Time elasped: 874.5423617362976
+Epoch [5/5], Step [350/563], Mel Loss: 0.26039, Gen Loss: 2.76161, Disc Loss: 3.99452, Mono Loss: 0.20855, S2S Loss: 0.71791, SLM Loss: 1.31624
+Time elasped: 899.8080546855927
+Epoch [5/5], Step [360/563], Mel Loss: 0.25080, Gen Loss: 3.11302, Disc Loss: 3.94217, Mono Loss: 0.10868, S2S Loss: 0.87209, SLM Loss: 1.29897
+Time elasped: 922.91557097435
+Epoch [5/5], Step [370/563], Mel Loss: 0.24517, Gen Loss: 3.28343, Disc Loss: 3.97761, Mono Loss: 0.12655, S2S Loss: 1.10692, SLM Loss: 1.16870
+Time elasped: 946.1727509498596
+Epoch [5/5], Step [380/563], Mel Loss: 0.25835, Gen Loss: 2.96043, Disc Loss: 3.98452, Mono Loss: 0.10476, S2S Loss: 0.85470, SLM Loss: 1.40131
+Time elasped: 973.5989954471588
+Epoch [5/5], Step [390/563], Mel Loss: 0.22181, Gen Loss: 2.71354, Disc Loss: 3.99275, Mono Loss: 0.11605, S2S Loss: 0.89703, SLM Loss: 1.31800
+Time elasped: 998.5581979751587
+Epoch [5/5], Step [400/563], Mel Loss: 0.23559, Gen Loss: 2.76086, Disc Loss: 3.98487, Mono Loss: 0.13785, S2S Loss: 1.12584, SLM Loss: 1.41837
+Time elasped: 1023.2778022289276
+Epoch [5/5], Step [410/563], Mel Loss: 0.25019, Gen Loss: 2.52930, Disc Loss: 3.97702, Mono Loss: 0.11487, S2S Loss: 0.85071, SLM Loss: 1.72937
+Time elasped: 1050.998949289322
+Epoch [5/5], Step [420/563], Mel Loss: 0.25907, Gen Loss: 3.16316, Disc Loss: 3.95460, Mono Loss: 0.12218, S2S Loss: 1.07066, SLM Loss: 1.79002
+Time elasped: 1076.5148885250092
+Epoch [5/5], Step [430/563], Mel Loss: 0.29378, Gen Loss: 3.48690, Disc Loss: 3.97111, Mono Loss: 0.13135, S2S Loss: 0.80135, SLM Loss: 1.38093
+Time elasped: 1103.0881142616272
+Epoch [5/5], Step [440/563], Mel Loss: 0.26492, Gen Loss: 3.02923, Disc Loss: 3.98369, Mono Loss: 0.13604, S2S Loss: 1.16347, SLM Loss: 1.23874
+Time elasped: 1130.3965022563934
+Epoch [5/5], Step [450/563], Mel Loss: 0.23295, Gen Loss: 2.73708, Disc Loss: 3.97021, Mono Loss: 0.19187, S2S Loss: 0.68035, SLM Loss: 1.41965
+Time elasped: 1153.744768857956
+Epoch [5/5], Step [460/563], Mel Loss: 0.26244, Gen Loss: 3.18219, Disc Loss: 3.93987, Mono Loss: 0.13097, S2S Loss: 0.81376, SLM Loss: 2.42403
+Time elasped: 1179.2425479888916
+Epoch [5/5], Step [470/563], Mel Loss: 0.25161, Gen Loss: 3.25850, Disc Loss: 3.96898, Mono Loss: 0.19841, S2S Loss: 0.80577, SLM Loss: 1.25914INFO:__main__:[RANK 0] Epoch [5/5], Step [480/563], Mel Loss: 0.27490, Gen Loss: 3.13020, Disc Loss: 3.95644, Mono Loss: 0.09091, S2S Loss: 1.09151, SLM Loss: 1.86256
+INFO:__main__:[RANK 0] Epoch [5/5], Step [490/563], Mel Loss: 0.23881, Gen Loss: 2.81646, Disc Loss: 3.98569, Mono Loss: 0.11346, S2S Loss: 0.91513, SLM Loss: 1.76773
+INFO:__main__:[RANK 0] Epoch [5/5], Step [500/563], Mel Loss: 0.24364, Gen Loss: 2.85350, Disc Loss: 3.96827, Mono Loss: 0.07636, S2S Loss: 0.80180, SLM Loss: 1.53013
+INFO:__main__:[RANK 0] Epoch [5/5], Step [510/563], Mel Loss: 0.24034, Gen Loss: 2.75827, Disc Loss: 3.96438, Mono Loss: 0.09425, S2S Loss: 0.99643, SLM Loss: 1.63807
+INFO:__main__:[RANK 0] Epoch [5/5], Step [520/563], Mel Loss: 0.24265, Gen Loss: 2.83455, Disc Loss: 3.95493, Mono Loss: 0.11194, S2S Loss: 1.53672, SLM Loss: 1.54592
+INFO:__main__:[RANK 0] Epoch [5/5], Step [530/563], Mel Loss: 0.24836, Gen Loss: 3.14788, Disc Loss: 3.95864, Mono Loss: 0.19287, S2S Loss: 0.93007, SLM Loss: 1.27938
+INFO:__main__:[RANK 0] Epoch [5/5], Step [540/563], Mel Loss: 0.24985, Gen Loss: 3.15184, Disc Loss: 3.96092, Mono Loss: 0.15961, S2S Loss: 0.70099, SLM Loss: 1.50512
+INFO:__main__:[RANK 0] Epoch [5/5], Step [550/563], Mel Loss: 0.23343, Gen Loss: 3.03577, Disc Loss: 3.96145, Mono Loss: 0.15401, S2S Loss: 0.61985, SLM Loss: 1.63120
+INFO:__main__:[RANK 0] Epoch [5/5], Step [560/563], Mel Loss: 0.22881, Gen Loss: 2.71824, Disc Loss: 4.00209, Mono Loss: 0.21074, S2S Loss: 1.00860, SLM Loss: 1.16419
+INFO:__main__:[RANK 0] Validation loss: 0.262
+
+
+
+
+DEBUG:matplotlib.pyplot:Loaded backend agg version v2.2.
+INFO:__main__:[RANK 0] Epoch 4: extracting voicepack for TensorBoard inference...
+INFO:__main__:[RANK 0]   acoustic_norm=1.5735  prosodic_norm=0.3325
+
+Time elasped: 1205.265296459198
+Epoch [5/5], Step [480/563], Mel Loss: 0.27490, Gen Loss: 3.13020, Disc Loss: 3.95644, Mono Loss: 0.09091, S2S Loss: 1.09151, SLM Loss: 1.86256
+Time elasped: 1232.7420468330383
+Epoch [5/5], Step [490/563], Mel Loss: 0.23881, Gen Loss: 2.81646, Disc Loss: 3.98569, Mono Loss: 0.11346, S2S Loss: 0.91513, SLM Loss: 1.76773
+Time elasped: 1258.160739183426
+Epoch [5/5], Step [500/563], Mel Loss: 0.24364, Gen Loss: 2.85350, Disc Loss: 3.96827, Mono Loss: 0.07636, S2S Loss: 0.80180, SLM Loss: 1.53013
+Time elasped: 1285.770497083664
+Epoch [5/5], Step [510/563], Mel Loss: 0.24034, Gen Loss: 2.75827, Disc Loss: 3.96438, Mono Loss: 0.09425, S2S Loss: 0.99643, SLM Loss: 1.63807
+Time elasped: 1312.5155596733093
+Epoch [5/5], Step [520/563], Mel Loss: 0.24265, Gen Loss: 2.83455, Disc Loss: 3.95493, Mono Loss: 0.11194, S2S Loss: 1.53672, SLM Loss: 1.54592
+Time elasped: 1337.78280544281
+Epoch [5/5], Step [530/563], Mel Loss: 0.24836, Gen Loss: 3.14788, Disc Loss: 3.95864, Mono Loss: 0.19287, S2S Loss: 0.93007, SLM Loss: 1.27938
+Time elasped: 1364.8066511154175
+Epoch [5/5], Step [540/563], Mel Loss: 0.24985, Gen Loss: 3.15184, Disc Loss: 3.96092, Mono Loss: 0.15961, S2S Loss: 0.70099, SLM Loss: 1.50512
+Time elasped: 1388.8395795822144
+Epoch [5/5], Step [550/563], Mel Loss: 0.23343, Gen Loss: 3.03577, Disc Loss: 3.96145, Mono Loss: 0.15401, S2S Loss: 0.61985, SLM Loss: 1.63120
+Time elasped: 1412.5303092002869
+Epoch [5/5], Step [560/563], Mel Loss: 0.22881, Gen Loss: 2.71824, Disc Loss: 4.00209, Mono Loss: 0.21074, S2S Loss: 1.00860, SLM Loss: 1.16419
+Time elasped: 1438.7922630310059
+Epochs: 5
+Validation loss: 0.262
+
+
+
+
+
+
+
+
+Saving..
+Saving..

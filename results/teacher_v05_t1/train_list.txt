@@ -1,0 +1,1127 @@
+bright_m3b02_T_3_full_bright_1.wav|pˈɑtiz hˈOm! ʃˌi kˈɔld mˌi, ænd ʃi sˈWndz sˌO stɹˈɔŋ əɡˈɛn!|0
+bright_m3b02_T_1_full_bright_1.wav|pˈɑtiz hˈOm! ʃˌi kˈɔld mˌi, ænd ʃi sˈWndz sˌO stɹˈɔŋ əɡˈɛn!|0
+bright_m3b02_T_0_full_bright_1.wav|pˈɑtiz hˈOm! ʃˌi kˈɔld mˌi, ænd ʃi sˈWndz sˌO stɹˈɔŋ əɡˈɛn!|0
+bright_m3b04_T_1_full_bright_1.wav|ʧɛnˈI, mˈɑdʊɹI, ænd mˈAbi ðə bˈiʧ tˈu! ˌI kˈænt wˈAt!|0
+bright_m3b04_T_2_full_bright_1.wav|ʧɛnˈI, mˈɑdʊɹI, ænd mˈAbi ðə bˈiʧ tˈu! ˌI kˈænt wˈAt!|0
+bright_m3b04_T_3_full_bright_1.wav|ʧɛnˈI, mˈɑdʊɹI, ænd mˈAbi ðə bˈiʧ tˈu! ˌI kˈænt wˈAt!|0
+bright_m3b05_T_1_full_bright_1.wav|ˈɛlə wɪð ðə hˈOl klˈæs? ˌOkˈA, ðˈæts ɐ bɹˈɪljənt Idˈiə!|0
+bright_m3b05_T_1_full_bright_1.wav|ˈɛlə wɪð ðə hˈOl klˈæs? ˌOkˈA, ðˈæts ɐ bɹˈɪljənt Idˈiə!|0
+bright_m3b05_T_3_full_bright_1.wav|ˈɛlə wɪð ðə hˈOl klˈæs? ˌOkˈA, ðˈæts ɐ bɹˈɪljənt Idˈiə!|0
+bright_m3b05_T_3_full_bright_1.wav|ˈɛlə wɪð ðə hˈOl klˈæs? ˌOkˈA, ðˈæts ɐ bɹˈɪljənt Idˈiə!|0
+bright_m3b06_T_3_full_bright_1.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+bright_m3b06_T_3_full_bright_1.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+bright_m3b06_T_0_full_bright_1.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+bright_m3b06_T_0_full_bright_1.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+bright_m3b06_T_1_full_bright_1.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+bright_m3b06_T_1_full_bright_1.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+bright_m3b06_T_2_full_bright_1.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+bright_m3b06_T_2_full_bright_1.wav|hˌi smˈIld æt sˈæm? tˌiˌAʧˌiˌɛnjˌukˌAˌAˈɛs fˈɜɹst smˈIl? ðˈæts sˌO swˈit!|0
+bright_m3b07_T_1_full_bright_1.wav|wˈAt, ɹˈiᵊli? ðˈæts əmˈAzɪŋ nˈuz!|0
+bright_m3b07_T_1_full_bright_1.wav|wˈAt, ɹˈiᵊli? ðˈæts əmˈAzɪŋ nˈuz!|0
+bright_m3b08_T_1_full_bright_1.wav|ˈO, kənɡɹˌæʧəlˈAʃənz! jˌu mˈʌst bi sˌO hˈæpi!|0
+bright_m3b08_T_2_full_bright_1.wav|ˈO, kənɡɹˌæʧəlˈAʃənz! jˌu mˈʌst bi sˌO hˈæpi!|0
+bright_m3b08_T_3_full_bright_1.wav|ˈO, kənɡɹˌæʧəlˈAʃənz! jˌu mˈʌst bi sˌO hˈæpi!|0
+bright_m3b09_T_1_full_bright_1.wav|jˌu fˈInᵊli dˈɪd ɪt! ˌI nˈu ju kˈʊd!|0
+bright_m3b10_T_1_full_bright_1.wav|ˌI kˈænt bəlˈiv ɪt! jˌu ˈækʧəwəli kˈɔld hˌɪm?!|0
+bright_m3b10_T_1_full_bright_1.wav|ˌI kˈænt bəlˈiv ɪt! jˌu ˈækʧəwəli kˈɔld hˌɪm?!|0
+bright_m3b15_T_3_full_bright_1.wav|ˌI sˈAvd ɪnˈʌf fɔɹ ðə tɹˈAn tˈɪkət! ˈOnli ðə hOtˈɛl lˈɛft nˈW!|0
+bright_m3b15_T_1_full_bright_1.wav|ˌI sˈAvd ɪnˈʌf fɔɹ ðə tɹˈAn tˈɪkət! ˈOnli ðə hOtˈɛl lˈɛft nˈW!|0
+bright_m3b15_T_0_full_bright_1.wav|ˌI sˈAvd ɪnˈʌf fɔɹ ðə tɹˈAn tˈɪkət! ˈOnli ðə hOtˈɛl lˈɛft nˈW!|0
+bright_m3b15_T_2_full_bright_1.wav|ˌI sˈAvd ɪnˈʌf fɔɹ ðə tɹˈAn tˈɪkət! ˈOnli ðə hOtˈɛl lˈɛft nˈW!|0
+bright_m3b18_T_2_full_bright_1.wav|ˌOkˈA, mˈɑɹvəl wˈʌzᵊnt bˈæd. dˈOnt tˈɛl sˈæm ˌI sˈɛd ðˈæt!|0
+bright_m3b18_T_0_full_bright_1.wav|ˌOkˈA, mˈɑɹvəl wˈʌzᵊnt bˈæd. dˈOnt tˈɛl sˈæm ˌI sˈɛd ðˈæt!|0
+bright_m3b18_T_1_full_bright_1.wav|ˌOkˈA, mˈɑɹvəl wˈʌzᵊnt bˈæd. dˈOnt tˈɛl sˈæm ˌI sˈɛd ðˈæt!|0
+bright_m3b18_T_3_full_bright_1.wav|ˌOkˈA, mˈɑɹvəl wˈʌzᵊnt bˈæd. dˈOnt tˈɛl sˈæm ˌI sˈɛd ðˈæt!|0
+bright_m3b20_T_2_full_bright_1.wav|ˌænd ðˈɛn, sˈʌdᵊnli, ðə hˈOl  stˈɑɹTᵻd sˈɪŋɪŋ fɔɹ hɜɹ bˈɜɹθdˌA!|0
+bright_m3b20_T_1_full_bright_1.wav|ˌænd ðˈɛn, sˈʌdᵊnli, ðə hˈOl  stˈɑɹTᵻd sˈɪŋɪŋ fɔɹ hɜɹ bˈɜɹθdˌA!|0
+bright_m3b20_T_0_full_bright_1.wav|ˌænd ðˈɛn, sˈʌdᵊnli, ðə hˈOl  stˈɑɹTᵻd sˈɪŋɪŋ fɔɹ hɜɹ bˈɜɹθdˌA!|0
+bright_m3b20_T_3_full_bright_1.wav|ˌænd ðˈɛn, sˈʌdᵊnli, ðə hˈOl  stˈɑɹTᵻd sˈɪŋɪŋ fɔɹ hɜɹ bˈɜɹθdˌA!|0
+bright_m3b25_T_2_full_bright_1.wav|ˌOkˈA, tˈɛl mˌi ↗ˈɛvəɹiθˌɪŋ!|0
+bright_m3b25_T_2_full_bright_1.wav|ˌOkˈA, tˈɛl mˌi ↗ˈɛvəɹiθˌɪŋ!|0
+bright_m3b25_T_2_full_bright_1.wav|ˌOkˈA, tˈɛl mˌi ↗ˈɛvəɹiθˌɪŋ!|0
+bright_m3b26_T_3_full_bright_1.wav|ðˌA sˈɛd jˈɛs! ˌI kæn tˈAk ðə hˈOl ʌv nˈɛkst mˈʌnθ ˈɔf fɔɹ ˈɪndiə!|0
+bright_m3b26_T_2_full_bright_1.wav|ðˌA sˈɛd jˈɛs! ˌI kæn tˈAk ðə hˈOl ʌv nˈɛkst mˈʌnθ ˈɔf fɔɹ ˈɪndiə!|0
+bright_m3b27_T_1_full_bright_1.wav|pˈɑti wˈɔkt tə ðə ɡˈAt bI həɹsˈɛlf tədˈA! ˌAˌɑɹjˌuˈɛn sˈɛnt mˌi ɐ vˈɪdiO!|0
+bright_m3b27_T_0_full_bright_1.wav|pˈɑti wˈɔkt tə ðə ɡˈAt bI həɹsˈɛlf tədˈA! ˌAˌɑɹjˌuˈɛn sˈɛnt mˌi ɐ vˈɪdiO!|0
+bright_m3b27_T_2_full_bright_1.wav|pˈɑti wˈɔkt tə ðə ɡˈAt bI həɹsˈɛlf tədˈA! ˌAˌɑɹjˌuˈɛn sˈɛnt mˌi ɐ vˈɪdiO!|0
+bright_m3b29_T_0_full_bright_1.wav|ˌI bˈʊkt ðə tɹˈAn tə mˈɑdʊɹI! ˌɪts ɹˈiᵊli hˈæpᵊnɪŋ!|0
+bright_m3b29_T_2_full_bright_1.wav|ˌI bˈʊkt ðə tɹˈAn tə mˈɑdʊɹI! ˌɪts ɹˈiᵊli hˈæpᵊnɪŋ!|0
+bright_m3b29_T_3_full_bright_1.wav|ˌI bˈʊkt ðə tɹˈAn tə mˈɑdʊɹI! ˌɪts ɹˈiᵊli hˈæpᵊnɪŋ!|0
+bright_m3b31_L_2_bright_fill_4.wav|sˈæm pˈæst hɪz dɹˈIvɪŋ tˈɛst! hˌi kˈɔld mˌi ðə mˈOmᵊnt hi ɡɑt ˈWt!|0
+bright_m3b31_L_1_bright_fill_4.wav|sˈæm pˈæst hɪz dɹˈIvɪŋ tˈɛst! hˌi kˈɔld mˌi ðə mˈOmᵊnt hi ɡɑt ˈWt!|0
+bright_m3b31_L_3_bright_fill_4.wav|sˈæm pˈæst hɪz dɹˈIvɪŋ tˈɛst! hˌi kˈɔld mˌi ðə mˈOmᵊnt hi ɡɑt ˈWt!|0
+bright_m3b32_T_3_full_bright_1.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə! ðə hˈOl klˈæs sˈɛd jˈɛs!|0
+bright_m3b33_T_1_full_bright_1.wav|pˈɑti mˌAd kɹˈæb kˈɜɹi fɔɹ ðə hˈOl stɹˈit, ænd ˈɛvɹiwən lˈʌvd ɪt!|0
+bright_m3b33_T_0_full_bright_1.wav|pˈɑti mˌAd kɹˈæb kˈɜɹi fɔɹ ðə hˈOl stɹˈit, ænd ˈɛvɹiwən lˈʌvd ɪt!|0
+bright_m3b33_T_3_full_bright_1.wav|pˈɑti mˌAd kɹˈæb kˈɜɹi fɔɹ ðə hˈOl stɹˈit, ænd ˈɛvɹiwən lˈʌvd ɪt!|0
+bright_m3b33_T_2_full_bright_1.wav|pˈɑti mˌAd kɹˈæb kˈɜɹi fɔɹ ðə hˈOl stɹˈit, ænd ˈɛvɹiwən lˈʌvd ɪt!|0
+bright_m3b34_T_0_full_bright_1.wav|mˌI mˈænɪʤəɹ sˈɛd ˌIm ðə bˈɛst ʃˈɪft lˈidəɹ ðAv hˌæd!|0
+bright_m3b34_T_2_full_bright_1.wav|mˌI mˈænɪʤəɹ sˈɛd ˌIm ðə bˈɛst ʃˈɪft lˈidəɹ ðAv hˌæd!|0
+bright_m3b35_T_0_full_bright_1.wav|pˈɑtiz kˈʌmɪŋ tə kəlˈʌmbO! ʃˌi sˈɛd jˈɛs!|0
+bright_m3b36_T_3_full_bright_2.wav|ˈO, ðˈæts lˈʌvli! tˈɛl mˌi mˈɔɹ!|0
+bright_m3b36_T_0_full_bright_2.wav|ˈO, ðˈæts lˈʌvli! tˈɛl mˌi mˈɔɹ!|0
+bright_m3b36_T_2_full_bright_2.wav|ˈO, ðˈæts lˈʌvli! tˈɛl mˌi mˈɔɹ!|0
+bright_m3b37_K_1_bright_calm_fill.wav|nˈO wˈA, ju mˈɛt hˌɪm? wˌʌt wʌz hi lˈIk.|0
+bright_m3b37_K_1_bright_calm_fill.wav|nˈO wˈA, ju mˈɛt hˌɪm? wˌʌt wʌz hi lˈIk.|0
+bright_m3b37_K_2_bright_calm_fill.wav|nˈO wˈA, ju mˈɛt hˌɪm? wˌʌt wʌz hi lˈIk.|0
+bright_m3b37_K_2_bright_calm_fill.wav|nˈO wˈA, ju mˈɛt hˌɪm? wˌʌt wʌz hi lˈIk.|0
+bright_m3b38_K_2_bright_calm_fill.wav|wˈW, ju ɹəmˈɛmbəɹd. θˈæŋk ju.|0
+bright_m3b38_K_2_bright_calm_fill.wav|wˈW, ju ɹəmˈɛmbəɹd. θˈæŋk ju.|0
+bright_m3b39_T_2_full_bright_2.wav|ðˈæts sˌO ɡˈʊd tə hˈɪɹ! ˌIm ɹˈiᵊli hˈæpi fɔɹ ju!|0
+bright_m3b39_T_0_full_bright_2.wav|ðˈæts sˌO ɡˈʊd tə hˈɪɹ! ˌIm ɹˈiᵊli hˈæpi fɔɹ ju!|0
+bright_m3b39_T_1_full_bright_2.wav|ðˈæts sˌO ɡˈʊd tə hˈɪɹ! ˌIm ɹˈiᵊli hˈæpi fɔɹ ju!|0
+bright_m3b39_T_3_full_bright_2.wav|ðˈæts sˌO ɡˈʊd tə hˈɪɹ! ˌIm ɹˈiᵊli hˈæpi fɔɹ ju!|0
+bright_m3b41_K_0_run32_bright_calm.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik.|0
+bright_m3b41_K_0_run32_bright_calm.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik.|0
+bright_m3b41_K_0_run31_bright_2.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik!|0
+bright_m3b41_K_0_run31_bright_2.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik!|0
+bright_m3b41_K_0_run31_bright_1.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik!|0
+bright_m3b41_K_0_run31_bright_1.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik!|0
+bright_m3b41_K_1_run32_bright_calm.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik.|0
+bright_m3b41_K_1_run32_bright_calm.wav|sˈɪɹiəsli? ðˈæts ðə bˈɛst nˈuz ðɪs wˈik.|0
+bright_m3b45_T_2_full_bright_2.wav|ðˈæt wʌz bɹˈɪljənt! jˌu dˈɪdᵊnt stˈɑp wˈʌns!|0
+bright_m3b46_K_2_bright_calm_fill.wav|jˈɛs. jˌu jˈuzd “ðˈɛn” ænd “ˈæftəɹ ðæt”, pˈɜɹfəkt.|0
+bright_m3b46_K_2_bright_calm_fill.wav|jˈɛs. jˌu jˈuzd “ðˈɛn” ænd “ˈæftəɹ ðæt”, pˈɜɹfəkt.|0
+bright_m3b46_T_1_full_bright_2.wav|jˈɛs! jˌu jˈuzd “ðˈɛn” ænd “ˈæftəɹ ðæt” — pˈɜɹfəkt!|0
+bright_m3b46_T_1_full_bright_2.wav|jˈɛs! jˌu jˈuzd “ðˈɛn” ænd “ˈæftəɹ ðæt” — pˈɜɹfəkt!|0
+bright_m3b47_T_2_full_bright_2.wav|ɡɹˈAt kwˈɛsʧᵊn! ˌOkˈA, lˈɛt mˌi θˈɪŋk!|0
+bright_m3b47_T_0_full_bright_2.wav|ɡɹˈAt kwˈɛsʧᵊn! ˌOkˈA, lˈɛt mˌi θˈɪŋk!|0
+bright_m3b49_T_3_full_bright_2.wav|ɡˈʊd ʤˈɑb! jˌʊɹ ɡˈɛTɪŋ fˈæstəɹ ˈɛvəɹi dˈA!|0
+bright_m3b49_T_0_full_bright_2.wav|ɡˈʊd ʤˈɑb! jˌʊɹ ɡˈɛTɪŋ fˈæstəɹ ˈɛvəɹi dˈA!|0
+bright_m3b50_T_0_full_bright_2.wav|pˈɜɹfəkt! ˌI ˌʌndəɹstˈʊd ˈɛvəɹi sˈɪŋɡᵊl wˈɜɹd!|0
+bright_m3b50_T_3_full_bright_2.wav|pˈɜɹfəkt! ˌI ˌʌndəɹstˈʊd ˈɛvəɹi sˈɪŋɡᵊl wˈɜɹd!|0
+bright_m3b50_T_1_full_bright_2.wav|pˈɜɹfəkt! ˌI ˌʌndəɹstˈʊd ˈɛvəɹi sˈɪŋɡᵊl wˈɜɹd!|0
+bright_m3b50_T_2_full_bright_2.wav|pˈɜɹfəkt! ˌI ˌʌndəɹstˈʊd ˈɛvəɹi sˈɪŋɡᵊl wˈɜɹd!|0
+bright_m3b52_T_2_full_bright_2.wav|ðə  ɡˈAv ˈɛvɹiwən fɹˈi kˈAk tədˈA, bəkˈʌz ɪts ði ˈOnəɹz bˈɜɹθdˌA!|0
+bright_m3b52_T_0_full_bright_2.wav|ðə  ɡˈAv ˈɛvɹiwən fɹˈi kˈAk tədˈA, bəkˈʌz ɪts ði ˈOnəɹz bˈɜɹθdˌA!|0
+bright_m3b52_T_3_full_bright_2.wav|ðə  ɡˈAv ˈɛvɹiwən fɹˈi kˈAk tədˈA, bəkˈʌz ɪts ði ˈOnəɹz bˈɜɹθdˌA!|0
+bright_m3b53_T_2_full_bright_2.wav|pɹˈiə klˈind ðə hˈOl flˈæt! ˌI dˈOnt ˈivən nˈO wˌʌt hˈæpənd!|0
+bright_m3b53_T_0_full_bright_2.wav|pɹˈiə klˈind ðə hˈOl flˈæt! ˌI dˈOnt ˈivən nˈO wˌʌt hˈæpənd!|0
+bright_m3b53_T_1_full_bright_2.wav|pɹˈiə klˈind ðə hˈOl flˈæt! ˌI dˈOnt ˈivən nˈO wˌʌt hˈæpənd!|0
+bright_m3b57_T_0_full_bright_2.wav|ˌɪts ɐ lˈɔŋ wˈikˌɛnd, sˌO ˌIm ɡˈOɪŋ tə slˈip fɔɹ tˈu dˈAz!|0
+bright_m3b57_T_1_full_bright_2.wav|ˌɪts ɐ lˈɔŋ wˈikˌɛnd, sˌO ˌIm ɡˈOɪŋ tə slˈip fɔɹ tˈu dˈAz!|0
+bright_m3b58_T_0_full_bright_2.wav|ˌAˌɑɹjˌuˈɛn ɡɑt ðə tˈɑp mˈɑɹk ɪn hɪz klˈæs! mˌI lˈɪTᵊl bɹˈʌðəɹ!|0
+bright_m3b58_T_1_full_bright_2.wav|ˌAˌɑɹjˌuˈɛn ɡɑt ðə tˈɑp mˈɑɹk ɪn hɪz klˈæs! mˌI lˈɪTᵊl bɹˈʌðəɹ!|0
+bright_m3b58_T_3_full_bright_2.wav|ˌAˌɑɹjˌuˈɛn ɡɑt ðə tˈɑp mˈɑɹk ɪn hɪz klˈæs! mˌI lˈɪTᵊl bɹˈʌðəɹ!|0
+bright_m3b60_T_3_full_bright_2.wav|ðə nˈu bˈAkəɹi ˈOpᵊnd nˌɪɹ ðə stˈAʃən, ænd ðə bɹˈɛd ɪz əmˈAzɪŋ!|0
+bright_m3b60_T_2_full_bright_2.wav|ðə nˈu bˈAkəɹi ˈOpᵊnd nˌɪɹ ðə stˈAʃən, ænd ðə bɹˈɛd ɪz əmˈAzɪŋ!|0
+bright_m3b60_T_1_full_bright_2.wav|ðə nˈu bˈAkəɹi ˈOpᵊnd nˌɪɹ ðə stˈAʃən, ænd ðə bɹˈɛd ɪz əmˈAzɪŋ!|0
+bright_m3b60_T_0_full_bright_2.wav|ðə nˈu bˈAkəɹi ˈOpᵊnd nˌɪɹ ðə stˈAʃən, ænd ðə bɹˈɛd ɪz əmˈAzɪŋ!|0
+bright_m3b61_T_1_full_bright_2.wav|fˈInᵊli, ɐ dˈA ˈɔf! nˈO wˈɜɹk, nˈO klˈæs, nˈʌθɪŋ!|0
+bright_m3b61_T_3_full_bright_2.wav|fˈInᵊli, ɐ dˈA ˈɔf! nˈO wˈɜɹk, nˈO klˈæs, nˈʌθɪŋ!|0
+bright_m3b62_K_2_bright_calm_fill.wav|ˌI tˈʊk ðə bˈɛst fˈOTO ʌv mI lˈIf tədˈA. ɐ fˈɪʃəɹmən ænd hɪz bˈOt æt sˈʌnsˌɛt.|0
+bright_m3b62_K_2_bright_calm_fill.wav|ˌI tˈʊk ðə bˈɛst fˈOTO ʌv mI lˈIf tədˈA. ɐ fˈɪʃəɹmən ænd hɪz bˈOt æt sˈʌnsˌɛt.|0
+bright_m3b62_T_1_full_bright_2.wav|ˌI tˈʊk ðə bˈɛst fˈOTO ʌv mI lˈIf tədˈA! ɐ fˈɪʃəɹmən ænd hɪz bˈOt æt sˈʌnsˌɛt!|0
+bright_m3b63_K_0_bright_calm_fill.wav|ðˌɛɹz ɐ nˈu bˈætmən fˈɪlm kˈʌmɪŋ ˈWt. ˌIm ɡˈOɪŋ ˌɔn ðə fˈɜɹst dˈA.|0
+bright_m3b63_K_0_bright_calm_fill.wav|ðˌɛɹz ɐ nˈu bˈætmən fˈɪlm kˈʌmɪŋ ˈWt. ˌIm ɡˈOɪŋ ˌɔn ðə fˈɜɹst dˈA.|0
+bright_m3b63_T_2_full_bright_2.wav|ðˌɛɹz ɐ nˈu bˈætmən fˈɪlm kˈʌmɪŋ ˈWt! ˌIm ɡˈOɪŋ ˌɔn ðə fˈɜɹst dˈA!|0
+bright_m3b64_T_2_full_bright_2.wav|ˌI fˈInᵊli mˌAd pˈɑtiz kɹˈæb kˈɜɹi, ænd ɪt ˈækʧəwəli tˈAstᵻd lˈIk hˈɜɹz!|0
+bright_m3b64_T_3_full_bright_2.wav|ˌI fˈInᵊli mˌAd pˈɑtiz kɹˈæb kˈɜɹi, ænd ɪt ˈækʧəwəli tˈAstᵻd lˈIk hˈɜɹz!|0
+bright_m3b64_T_0_full_bright_2.wav|ˌI fˈInᵊli mˌAd pˈɑtiz kɹˈæb kˈɜɹi, ænd ɪt ˈækʧəwəli tˈAstᵻd lˈIk hˈɜɹz!|0
+bright_m3b66_T_0_full_bright_2.wav|lˈʊk, ðə hOtˈɛl ɪn ʧɛnˈI hæz ɐ pˈul!|0
+bright_m3b66_T_3_full_bright_2.wav|lˈʊk, ðə hOtˈɛl ɪn ʧɛnˈI hæz ɐ pˈul!|0
+bright_m3b66_T_2_full_bright_2.wav|lˈʊk, ðə hOtˈɛl ɪn ʧɛnˈI hæz ɐ pˈul!|0
+bright_m3b68_T_2_full_bright_2.wav|ˌI kæn sˈi ðə tˈɛmpᵊl fɹʌm ðə tɹˈAn wˈɪndO! ˌɪts bjˈuTəfəl!|0
+bright_m3b68_T_1_full_bright_2.wav|ˌI kæn sˈi ðə tˈɛmpᵊl fɹʌm ðə tɹˈAn wˈɪndO! ˌɪts bjˈuTəfəl!|0
+bright_m3b68_T_3_full_bright_2.wav|ˌI kæn sˈi ðə tˈɛmpᵊl fɹʌm ðə tɹˈAn wˈɪndO! ˌɪts bjˈuTəfəl!|0
+bright_m3b68_T_0_full_bright_2.wav|ˌI kæn sˈi ðə tˈɛmpᵊl fɹʌm ðə tɹˈAn wˈɪndO! ˌɪts bjˈuTəfəl!|0
+bright_m3b69_T_3_full_bright_2.wav|jˈɛs, ʌv kˈɔɹs! ˌId lˈʌv tə hˈɛlp!|0
+bright_m3b69_T_0_full_bright_2.wav|jˈɛs, ʌv kˈɔɹs! ˌId lˈʌv tə hˈɛlp!|0
+bright_m3b69_T_1_full_bright_2.wav|jˈɛs, ʌv kˈɔɹs! ˌId lˈʌv tə hˈɛlp!|0
+bright_m3b69_T_2_full_bright_2.wav|jˈɛs, ʌv kˈɔɹs! ˌId lˈʌv tə hˈɛlp!|0
+bright_m3b70_T_3_full_bright_3.wav|θˈæŋk ju! jˌu ɹˈiᵊli dˈɪdᵊnt hæv tə dˈu ðˈæt!|0
+bright_m3b70_T_0_full_bright_3.wav|θˈæŋk ju! jˌu ɹˈiᵊli dˈɪdᵊnt hæv tə dˈu ðˈæt!|0
+bright_m3b71_T_2_full_bright_3.wav|ðˈɛn, ʤˈʌst æz wi ɹˈiʧt ðə tˈɑp, ðə klˈWdz ˈOpᵊnd, ænd wi sˈɔ ˈɛvəɹiθˌɪŋ!|0
+bright_m3b71_T_1_full_bright_3.wav|ðˈɛn, ʤˈʌst æz wi ɹˈiʧt ðə tˈɑp, ðə klˈWdz ˈOpᵊnd, ænd wi sˈɔ ˈɛvəɹiθˌɪŋ!|0
+bright_m3b71_T_3_full_bright_3.wav|ðˈɛn, ʤˈʌst æz wi ɹˈiʧt ðə tˈɑp, ðə klˈWdz ˈOpᵊnd, ænd wi sˈɔ ˈɛvəɹiθˌɪŋ!|0
+bright_m3b74_K_0_run31_bright_2.wav|twˈɛntitˌu θˈWzᵊnd ɹupˈiz! ðˈæts ɪɡzˈæktli wˌʌt ˌI nˈidᵻd fɔɹ ðə tɹˈɪp!|0
+bright_m3b74_K_0_run32_bright_calm_2.wav|twˈɛntitˌu θˈWzᵊnd ɹupˈiz. ðˈæts ɪɡzˈæktli wˌʌt ˌI nˈidᵻd fɔɹ ðə tɹˈɪp.|0
+bright_m3b74_K_0_run32_bright_calm_2.wav|twˈɛntitˌu θˈWzᵊnd ɹupˈiz. ðˈæts ɪɡzˈæktli wˌʌt ˌI nˈidᵻd fɔɹ ðə tɹˈɪp.|0
+bright_m3b75_T_3_full_bright_3.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+bright_m3b75_T_3_full_bright_3.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+bright_m3b75_T_2_full_bright_3.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+bright_m3b75_T_2_full_bright_3.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+bright_m3b75_T_0_full_bright_3.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+bright_m3b75_T_0_full_bright_3.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+bright_m3b75_T_1_full_bright_3.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+bright_m3b75_T_1_full_bright_3.wav|θɹˈi tɹˈAnz, tˈu bˈʌsᵻz, ænd fˈInᵊli, ðɛɹ ɪt wʌz — ðə sˈi!|0
+bright_m3xb02_T_0_full_bright_3.wav|ˌænd ðə wˈɪnəɹ ɪz… ju!|0
+bright_m3xb02_T_1_full_bright_3.wav|ˌænd ðə wˈɪnəɹ ɪz… ju!|0
+bright_m3xb03_T_2_full_bright_3.wav|ɡˈɛs wˌʌt… ˌI ɡɑt ðə tˈɪkəts!|0
+bright_m3xb03_T_3_full_bright_3.wav|ɡˈɛs wˌʌt… ˌI ɡɑt ðə tˈɪkəts!|0
+bright_m3xb03_T_0_full_bright_3.wav|ɡˈɛs wˌʌt… ˌI ɡɑt ðə tˈɪkəts!|0
+bright_m3xb04_T_2_full_bright_3.wav|ˈO… lˈʊk æt ˈɔl ðə lˈIts!|0
+bright_m3xb04_T_1_full_bright_3.wav|ˈO… lˈʊk æt ˈɔl ðə lˈIts!|0
+bright_m3xb05_T_2_full_bright_3.wav|sˌO… ˌI hæv sˌʌm ɡˈʊd nˈuz!|0
+bright_m3xb05_T_3_full_bright_3.wav|sˌO… ˌI hæv sˌʌm ɡˈʊd nˈuz!|0
+bright_m3xb05_T_1_full_bright_3.wav|sˌO… ˌI hæv sˌʌm ɡˈʊd nˈuz!|0
+bright_m3xb05_T_0_full_bright_3.wav|sˌO… ˌI hæv sˌʌm ɡˈʊd nˈuz!|0
+bright_m3xb06_T_0_full_bright_3.wav|lˈʊk… ðə sˈʌnz kˈʌmɪŋ ˈWt!|0
+bright_m3xb07_T_3_full_bright_3.wav|klˈOz jʊɹ ˈIz… ˌOkˈA, nˈW ˈOpᵊn ðˌɛm!|0
+bright_m3xb07_T_0_full_bright_3.wav|klˈOz jʊɹ ˈIz… ˌOkˈA, nˈW ˈOpᵊn ðˌɛm!|0
+bright_m3xb07_T_1_full_bright_3.wav|klˈOz jʊɹ ˈIz… ˌOkˈA, nˈW ˈOpᵊn ðˌɛm!|0
+bright_m3xb07_T_2_full_bright_3.wav|klˈOz jʊɹ ˈIz… ˌOkˈA, nˈW ˈOpᵊn ðˌɛm!|0
+bright_m3xb08_T_1_full_bright_3.wav|wˌi wˈʌn — wi ˈækʧəwəli wˈʌn!|0
+bright_m3xb08_T_1_full_bright_3.wav|wˌi wˈʌn — wi ˈækʧəwəli wˈʌn!|0
+bright_m3xb08_T_0_full_bright_3.wav|wˌi wˈʌn — wi ˈækʧəwəli wˈʌn!|0
+bright_m3xb08_T_0_full_bright_3.wav|wˌi wˈʌn — wi ˈækʧəwəli wˈʌn!|0
+bright_m3xb08_T_2_full_bright_3.wav|wˌi wˈʌn — wi ˈækʧəwəli wˈʌn!|0
+bright_m3xb08_T_2_full_bright_3.wav|wˌi wˈʌn — wi ˈækʧəwəli wˈʌn!|0
+bright_m3xb08_T_3_full_bright_3.wav|wˌi wˈʌn — wi ˈækʧəwəli wˈʌn!|0
+bright_m3xb08_T_3_full_bright_3.wav|wˌi wˈʌn — wi ˈækʧəwəli wˈʌn!|0
+bright_m3xb09_T_1_full_bright_3.wav|lˈʊk æt ðˈɪs — ɪts pˈɜɹfəkt!|0
+bright_m3xb09_T_1_full_bright_3.wav|lˈʊk æt ðˈɪs — ɪts pˈɜɹfəkt!|0
+bright_m3xb09_T_0_full_bright_3.wav|lˈʊk æt ðˈɪs — ɪts pˈɜɹfəkt!|0
+bright_m3xb09_T_0_full_bright_3.wav|lˈʊk æt ðˈɪs — ɪts pˈɜɹfəkt!|0
+bright_m3xb09_T_3_full_bright_3.wav|lˈʊk æt ðˈɪs — ɪts pˈɜɹfəkt!|0
+bright_m3xb09_T_3_full_bright_3.wav|lˈʊk æt ðˈɪs — ɪts pˈɜɹfəkt!|0
+bright_m3xb10_K_0_run32_bright_calm.wav|ˌI nˈO wˌʌt wil dˈu, lˈɛts ɡˌO tə ðə bˈiʧ.|0
+bright_m3xb10_K_0_run32_bright_calm.wav|ˌI nˈO wˌʌt wil dˈu, lˈɛts ɡˌO tə ðə bˈiʧ.|0
+bright_m3xb10_K_1_run32_bright_calm_2.wav|ˌI nˈO wˌʌt wil dˈu, lˈɛts ɡˌO tə ðə bˈiʧ.|0
+bright_m3xb10_K_1_run32_bright_calm_2.wav|ˌI nˈO wˌʌt wil dˈu, lˈɛts ɡˌO tə ðə bˈiʧ.|0
+bright_m3xb12_T_0_full_bright_3.wav|ðə bˈɛst pˈɑɹt — nˈO wˈɜɹk təmˈɑɹO!|0
+bright_m3xb12_T_0_full_bright_3.wav|ðə bˈɛst pˈɑɹt — nˈO wˈɜɹk təmˈɑɹO!|0
+bright_m3xb12_T_2_full_bright_3.wav|ðə bˈɛst pˈɑɹt — nˈO wˈɜɹk təmˈɑɹO!|0
+bright_m3xb12_T_2_full_bright_3.wav|ðə bˈɛst pˈɑɹt — nˈO wˈɜɹk təmˈɑɹO!|0
+bright_m3xb13_T_2_full_bright_3.wav|ˈO — jʊɹ hˈɪɹ ˌɔlɹˈɛdi!|0
+bright_m3xb13_T_2_full_bright_3.wav|ˈO — jʊɹ hˈɪɹ ˌɔlɹˈɛdi!|0
+bright_m3xb13_T_0_full_bright_3.wav|ˈO — jʊɹ hˈɪɹ ˌɔlɹˈɛdi!|0
+bright_m3xb13_T_0_full_bright_3.wav|ˈO — jʊɹ hˈɪɹ ˌɔlɹˈɛdi!|0
+bright_m3xb16_L_2_bright_fill_4.wav|jˌu ɡɑt ðə ʤˈɑb?!|0
+bright_m3xb16_L_2_bright_fill_4.wav|jˌu ɡɑt ðə ʤˈɑb?!|0
+bright_m3xb16_L_1_bright_fill_4.wav|jˌu ɡɑt ðə ʤˈɑb?!|0
+bright_m3xb16_L_1_bright_fill_4.wav|jˌu ɡɑt ðə ʤˈɑb?!|0
+bright_m3xb16_L_0_bright_fill_4.wav|jˌu ɡɑt ðə ʤˈɑb?!|0
+bright_m3xb16_L_0_bright_fill_4.wav|jˌu ɡɑt ðə ʤˈɑb?!|0
+bright_m3xb17_T_0_full_bright_3.wav|pˈɑtiz ɹˈiᵊli kˈʌmɪŋ?!|0
+bright_m3xb17_T_0_full_bright_3.wav|pˈɑtiz ɹˈiᵊli kˈʌmɪŋ?!|0
+bright_m3xb17_T_3_full_bright_3.wav|pˈɑtiz ɹˈiᵊli kˈʌmɪŋ?!|0
+bright_m3xb17_T_3_full_bright_3.wav|pˈɑtiz ɹˈiᵊli kˈʌmɪŋ?!|0
+bright_m3xb19_T_1_full_bright_3.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+bright_m3xb19_T_1_full_bright_3.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+bright_m3xb19_T_0_full_bright_3.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+bright_m3xb19_T_0_full_bright_3.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+bright_m3xb19_T_3_full_bright_3.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+bright_m3xb19_T_3_full_bright_3.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+bright_m3xb19_T_2_full_bright_3.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+bright_m3xb19_T_2_full_bright_3.wav|wˌɪɹ ɡˈOɪŋ tʊ ˈɛlə ðɪs wˈikˌɛnd?!|0
+bright_m3xb20_T_1_full_bright_3.wav|jˌu fˈInᵊli pˈæst?!|0
+bright_m3xb20_T_1_full_bright_3.wav|jˌu fˈInᵊli pˈæst?!|0
+bright_m3xb20_T_0_full_bright_3.wav|jˌu fˈInᵊli pˈæst?!|0
+bright_m3xb20_T_0_full_bright_3.wav|jˌu fˈInᵊli pˈæst?!|0
+bright_m3xb20_T_2_full_bright_3.wav|jˌu fˈInᵊli pˈæst?!|0
+bright_m3xb20_T_2_full_bright_3.wav|jˌu fˈInᵊli pˈæst?!|0
+bright_m3xb21_L_1_bright_fill_4.wav|ðˈæts fɔɹ mˌi?!|0
+bright_m3xb21_L_1_bright_fill_4.wav|ðˈæts fɔɹ mˌi?!|0
+bright_m3xb21_L_0_bright_fill_4.wav|ðˈæts fɔɹ mˌi?!|0
+bright_m3xb21_L_0_bright_fill_4.wav|ðˈæts fɔɹ mˌi?!|0
+bright_m3xb21_L_2_bright_fill_4.wav|ðˈæts fɔɹ mˌi?!|0
+bright_m3xb21_L_2_bright_fill_4.wav|ðˈæts fɔɹ mˌi?!|0
+bright_m3xb25_T_2_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_2_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_2_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_1_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_1_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_1_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_3_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_3_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_3_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_0_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_0_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb25_T_0_full_bright_3.wav|ðˈæt wʌz ðə ↗bˈɛst dˈA!|0
+bright_m3xb26_T_3_full_bright_3.wav|ˌI ↗lˈʌv ðɪs plˈAs!|0
+bright_m3xb26_T_3_full_bright_3.wav|ˌI ↗lˈʌv ðɪs plˈAs!|0
+bright_m3xb26_T_3_full_bright_3.wav|ˌI ↗lˈʌv ðɪs plˈAs!|0
+bright_m3xb27_T_0_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_0_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_0_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_2_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_2_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_2_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_3_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_3_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_3_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_1_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_1_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb27_T_1_full_bright_3.wav|jˌu wɜɹ ↗əmˈAzɪŋ tədˈA!|0
+bright_m3xb29_T_2_full_bright_4.wav|ðˌɪs ɪz ↗sˈO ɡˈʊd!|0
+bright_m3xb29_T_2_full_bright_4.wav|ðˌɪs ɪz ↗sˈO ɡˈʊd!|0
+bright_m3xb29_T_2_full_bright_4.wav|ðˌɪs ɪz ↗sˈO ɡˈʊd!|0
+bright_m3xb33_K_0_run32_bright_calm_2.wav|ðˈæts ɪɡzˈæktli wˌʌt ˌI wˈɑntᵻd.|0
+bright_m3xb33_K_0_run32_bright_calm_2.wav|ðˈæts ɪɡzˈæktli wˌʌt ˌI wˈɑntᵻd.|0
+bright_m3xb33_K_1_run32_bright_calm_2.wav|ðˈæts ɪɡzˈæktli wˌʌt ˌI wˈɑntᵻd.|0
+bright_m3xb33_K_1_run32_bright_calm_2.wav|ðˈæts ɪɡzˈæktli wˌʌt ˌI wˈɑntᵻd.|0
+bright_m3xb34_L_1_bright_fill_4.wav|wˌɪɹ mˈuvɪŋ!|0
+bright_m3xb34_L_2_bright_fill_4.wav|wˌɪɹ mˈuvɪŋ!|0
+bright_m3xb34_L_3_bright_fill_4.wav|wˌɪɹ mˈuvɪŋ!|0
+bright_m3xb35_T_0_full_bright_4.wav|ˌɪts dˈʌn!|0
+bright_m3xb35_K_2_bright_fill_3.wav|ˌɪts dˈʌn!|0
+bright_m3xb37_T_2_full_bright_4.wav|sˈi ju təmˈɑɹO, ðˈɛn!|0
+bright_m3xb37_T_0_full_bright_4.wav|sˈi ju təmˈɑɹO, ðˈɛn!|0
+bright_m3xb37_T_3_full_bright_4.wav|sˈi ju təmˈɑɹO, ðˈɛn!|0
+bright_m3xb37_T_1_full_bright_4.wav|sˈi ju təmˈɑɹO, ðˈɛn!|0
+bright_m3xb38_T_1_full_bright_4.wav|nˈO mˈɔɹ klˈæsᵻz!|0
+bright_m3xb39_K_1_bright_calm_fill.wav|wˈAt, jʊɹ hˈɪɹ.|0
+bright_m3xb39_K_1_bright_calm_fill.wav|wˈAt, jʊɹ hˈɪɹ.|0
+bright_m3xb39_K_2_bright_calm_fill.wav|wˈAt, jʊɹ hˈɪɹ.|0
+bright_m3xb39_K_2_bright_calm_fill.wav|wˈAt, jʊɹ hˈɪɹ.|0
+bright_m3xb40_K_3_bright_fill_3.wav|ˌɪz ðˈæt… ɐ pˈʌpi?!|0
+bright_m3xb40_K_3_bright_fill_3.wav|ˌɪz ðˈæt… ɐ pˈʌpi?!|0
+bright_m3xb41_T_3_full_bright_4.wav|ˈO… ju ɹəmˈɛmbəɹd!|0
+bright_m3xb41_T_2_full_bright_4.wav|ˈO… ju ɹəmˈɛmbəɹd!|0
+bright_m3xb42_T_1_full_bright_4.wav|ˌænd nˈW… ðə bˈɛst pˈɑɹt!|0
+bright_m3xb42_T_3_full_bright_4.wav|ˌænd nˈW… ðə bˈɛst pˈɑɹt!|0
+bright_m3xb42_T_2_full_bright_4.wav|ˌænd nˈW… ðə bˈɛst pˈɑɹt!|0
+bright_m3xb42_T_0_full_bright_4.wav|ˌænd nˈW… ðə bˈɛst pˈɑɹt!|0
+bright_m3xb44_T_3_full_bright_4.wav|lˈʊk hˌuz bˈæk… ˌAˌɑɹjˌuˈɛn!|0
+bright_m3xb44_T_1_full_bright_4.wav|lˈʊk hˌuz bˈæk… ˌAˌɑɹjˌuˈɛn!|0
+bright_m3xb45_T_0_full_bright_4.wav|ɡˈɛs wˌɛɹ wɪɹ ɡˈOɪŋ… ˈɛlə!|0
+bright_m3xb45_T_2_full_bright_4.wav|ɡˈɛs wˌɛɹ wɪɹ ɡˈOɪŋ… ˈɛlə!|0
+bright_m3xb45_T_3_full_bright_4.wav|ɡˈɛs wˌɛɹ wɪɹ ɡˈOɪŋ… ˈɛlə!|0
+bright_m3xb45_T_1_full_bright_4.wav|ɡˈɛs wˌɛɹ wɪɹ ɡˈOɪŋ… ˈɛlə!|0
+bright_m3xb46_T_1_full_bright_4.wav|θɹˈi… tˈu… wˈʌn… hˈæpi nˈu jˈɪɹ!|0
+bright_m3xb46_T_3_full_bright_4.wav|θɹˈi… tˈu… wˈʌn… hˈæpi nˈu jˈɪɹ!|0
+bright_m3xb46_T_0_full_bright_4.wav|θɹˈi… tˈu… wˈʌn… hˈæpi nˈu jˈɪɹ!|0
+bright_m3xb46_T_2_full_bright_4.wav|θɹˈi… tˈu… wˈʌn… hˈæpi nˈu jˈɪɹ!|0
+bright_m3xb47_T_0_full_bright_4.wav|ˌɪts… pˈɜɹfəkt!|0
+bright_m3xb47_T_1_full_bright_4.wav|ˌɪts… pˈɜɹfəkt!|0
+bright_m3xb48_T_1_full_bright_4.wav|jˌu dˈɪd… ˈɔl ʌv ðˈɪs?!|0
+bright_m3xb48_T_1_full_bright_4.wav|jˌu dˈɪd… ˈɔl ʌv ðˈɪs?!|0
+bright_m3xb49_T_0_full_bright_4.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+bright_m3xb49_T_0_full_bright_4.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+bright_m3xb49_T_2_full_bright_4.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+bright_m3xb49_T_2_full_bright_4.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+bright_m3xb49_T_3_full_bright_4.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+bright_m3xb49_T_3_full_bright_4.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+bright_m3xb49_T_1_full_bright_4.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+bright_m3xb49_T_1_full_bright_4.wav|lˈʊk — ɐ ɹˈAnbˌO!|0
+bright_m4g11b_T_3_full_bright_4.wav|hˌi kˈɔld mˌi lˈæst nˈIt!|0
+bright_m4g11b_T_1_full_bright_4.wav|hˌi kˈɔld mˌi lˈæst nˈIt!|0
+bright_m4g12b_T_1_full_bright_4.wav|ðˌA ʧˈAnʤd ðə plˈæn!|0
+bright_m4g12b_T_2_full_bright_4.wav|ðˌA ʧˈAnʤd ðə plˈæn!|0
+bright_m4g14b_T_2_full_bright_4.wav|ˌI sˈɔ hˌɪm æt ðə mˈɑɹkət!|0
+bright_m4g14b_T_1_full_bright_4.wav|ˌI sˈɔ hˌɪm æt ðə mˈɑɹkət!|0
+bright_m4g14b_T_3_full_bright_4.wav|ˌI sˈɔ hˌɪm æt ðə mˈɑɹkət!|0
+bright_m4g15b_T_3_full_bright_4.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ!|0
+bright_m4g15b_T_0_full_bright_4.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ!|0
+bright_m4g15b_T_1_full_bright_4.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ!|0
+bright_m4g15t_T_2_full_tense_4.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+bright_m4g15t_T_2_full_tense_4.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+bright_m4g15t_T_1_tense_rx2.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+bright_m4g15t_T_1_tense_rx2.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+bright_m4g15t_T_1_full_tense_4.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+bright_m4g15t_T_1_full_tense_4.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+bright_m4g15t_T_0_tense_rx2.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+bright_m4g15t_T_0_tense_rx2.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+bright_m4g16b_T_1_full_bright_4.wav|ʃˌi tˈOld mˌi ˈɛvəɹiθˌɪŋ!|0
+bright_m4g16b_T_3_full_bright_4.wav|ʃˌi tˈOld mˌi ˈɛvəɹiθˌɪŋ!|0
+bright_m4g17b_L_1_bright_fill_4.wav|hˌi fˈInᵊli ˈænsəɹd!|0
+bright_m4g17b_L_2_bright_fill_4.wav|hˌi fˈInᵊli ˈænsəɹd!|0
+bright_m4g17b_L_3_bright_fill_4.wav|hˌi fˈInᵊli ˈænsəɹd!|0
+bright_m4g17b_L_0_bright_fill_4.wav|hˌi fˈInᵊli ˈænsəɹd!|0
+bright_m4g18b_T_0_full_bright_4.wav|mˌI bɹˈʌðəɹ ɪz ɡˈɛTɪŋ mˈɛɹid!|0
+bright_m4g18b_T_2_full_bright_4.wav|mˌI bɹˈʌðəɹ ɪz ɡˈɛTɪŋ mˈɛɹid!|0
+bright_m4g18b_T_3_full_bright_4.wav|mˌI bɹˈʌðəɹ ɪz ɡˈɛTɪŋ mˈɛɹid!|0
+low_m3l01_T_0_full_low_1.wav|pˈɑtiz ɪn hˈɑspˌɪTᵊl əɡˈɛn, ænd ˌIm sˌO fˈɑɹ əwˈA…|0
+low_m3l01_T_2_full_low_1.wav|pˈɑtiz ɪn hˈɑspˌɪTᵊl əɡˈɛn, ænd ˌIm sˌO fˈɑɹ əwˈA…|0
+low_m3l02_K_1_low_scene_1.wav|ˌAˌɛmˌɛmˈA sˈɛz ʃiz ˌOkˈA, bˌʌt ˌI kæn hˈɪɹ ɪt ɪn hɜɹ vˈYs…|0
+low_m3l02_K_0_low_scene_1.wav|ˌAˌɛmˌɛmˈA sˈɛz ʃiz ˌOkˈA, bˌʌt ˌI kæn hˈɪɹ ɪt ɪn hɜɹ vˈYs…|0
+low_m3l03_T_0_full_low_1.wav|ˌI ʤˈʌst wˈɑnt tə sˈɪt nˈɛkst tə hɜɹ ænd hˈOld hɜɹ hˈænd.|0
+low_m3l03_T_1_full_low_1.wav|ˌI ʤˈʌst wˈɑnt tə sˈɪt nˈɛkst tə hɜɹ ænd hˈOld hɜɹ hˈænd.|0
+low_m3l04_K_2_low_fill_2.wav|hˌi ʃˈWTᵻd æt mˌi ɪn fɹˈʌnt ʌv ˈɛvɹiwən… ænd ˌI dˈɪdᵊnt sˈA ˈɛniθˌɪŋ.|0
+low_m3l04_K_0_low_fill_2.wav|hˌi ʃˈWTᵻd æt mˌi ɪn fɹˈʌnt ʌv ˈɛvɹiwən… ænd ˌI dˈɪdᵊnt sˈA ˈɛniθˌɪŋ.|0
+low_m3l06_T_3_full_low_1.wav|ˈO, sˈæm… ˌIm sˌO sˈɔɹi əbˈWt bˌiˌɑɹjˌuˌɛnˈO. hˌi wʌz fˈæmᵊli.|0
+low_m3l06_T_0_full_low_1.wav|ˈO, sˈæm… ˌIm sˌO sˈɔɹi əbˈWt bˌiˌɑɹjˌuˌɛnˈO. hˌi wʌz fˈæmᵊli.|0
+low_m3l09_K_1_low_fill_2.wav|ˌIm sˈɔɹi. dˈu ju wˈɑnt tə tˈɔk əbˈWt ɪt?|0
+low_m3l09_K_1_low_fill_2.wav|ˌIm sˈɔɹi. dˈu ju wˈɑnt tə tˈɔk əbˈWt ɪt?|0
+low_m3l09_K_1_low_fill_2.wav|ˌIm sˈɔɹi. dˈu ju wˈɑnt tə tˈɔk əbˈWt ɪt?|0
+low_m3l10_K_1_run28b_longscene.wav|sˌʌm nˈIts ðə flˈæt fˈilz vˈɛɹi kwˈIət… ænd ˌI mˈɪs ʤˈɑfnə.|0
+low_m3l10_K_2_run28b_longscene.wav|sˌʌm nˈIts ðə flˈæt fˈilz vˈɛɹi kwˈIət… ænd ˌI mˈɪs ʤˈɑfnə.|0
+low_m3l11_T_3_full_low_1.wav|ˌIm tˈIəɹd tədˈA. ˌI wˈɜɹkt lˈAt, ænd ˌI dˈɪdᵊnt slˈip wˈɛl.|0
+low_m3l11_T_1_full_low_1.wav|ˌIm tˈIəɹd tədˈA. ˌI wˈɜɹkt lˈAt, ænd ˌI dˈɪdᵊnt slˈip wˈɛl.|0
+low_m3l14_T_1_full_low_1.wav|ˌIm ɹˈiᵊli sˈɔɹi. ˌI dˈɪdᵊnt mˈin tə hˈɜɹt ju.|0
+low_m3l14_T_3_full_low_1.wav|ˌIm ɹˈiᵊli sˈɔɹi. ˌI dˈɪdᵊnt mˈin tə hˈɜɹt ju.|0
+low_m3l20_K_0_low_fill_2.wav|ˌOkˈA… tˈɛl mˌi ˈɛvəɹiθˌɪŋ.|0
+low_m3l20_K_1_low_fill_2.wav|ˌOkˈA… tˈɛl mˌi ˈɛvəɹiθˌɪŋ.|0
+low_m3l21_T_3_full_low_1.wav|ðˌA tˈʊk hɜɹ tə ðə hˈɑspˌɪTᵊl æt nˈIt, ænd nˈObˌɑdi kˈɔld mˌi ˌʌntˈɪl mˈɔɹnɪŋ…|0
+low_m3l21_T_2_full_low_1.wav|ðˌA tˈʊk hɜɹ tə ðə hˈɑspˌɪTᵊl æt nˈIt, ænd nˈObˌɑdi kˈɔld mˌi ˌʌntˈɪl mˈɔɹnɪŋ…|0
+low_m3l22_F_0_run28b_longscene.wav|ˌApˌipˌiˈA sˈɛz ʃiz slˈipɪŋ ɐ lˈɑt… ænd ʃiz nˌɑt ˈiTɪŋ mˈʌʧ.|0
+low_m3l22_K_3_run28b_longscene.wav|ˌApˌipˌiˈA sˈɛz ʃiz slˈipɪŋ ɐ lˈɑt… ænd ʃiz nˌɑt ˈiTɪŋ mˈʌʧ.|0
+low_m3l23_K_3_run28b_longscene.wav|ˌI lˈʊkt æt ðə bˈʌs tˈImz tə ʤˈɑfnə θɹˈi tˈImz tədˈA.|0
+low_m3l23_F_1_run28b_longscene.wav|ˌI lˈʊkt æt ðə bˈʌs tˈImz tə ʤˈɑfnə θɹˈi tˈImz tədˈA.|0
+low_m3l24_T_1_full_low_1.wav|ˌI kˈænt ɡˌO hˈOm ðɪs wˈik. ðə  nˈidz mˌi… ænd ˌI hˈAt ɪt.|0
+low_m3l24_T_2_full_low_1.wav|ˌI kˈænt ɡˌO hˈOm ðɪs wˈik. ðə  nˈidz mˌi… ænd ˌI hˈAt ɪt.|0
+low_m3l27_T_3_full_low_1.wav|ˌI dˈɪdᵊnt wˈɑnt ˈɛniwˌʌn tə sˈi mˌi kɹˈI… bˌʌt ðA ˈɔl dˈɪd.|0
+low_m3l27_T_0_full_low_1.wav|ˌI dˈɪdᵊnt wˈɑnt ˈɛniwˌʌn tə sˈi mˌi kɹˈI… bˌʌt ðA ˈɔl dˈɪd.|0
+low_m3l28_T_1_full_low_1.wav|sˈæmz bɪn sˌO kwˈIət sˈɪns bˌiˌɑɹjˌuˌɛnˈO dˈId… ˌI dˈOnt nˈO wˌʌt tə sˈA tə hˌɪm.|0
+low_m3l28_T_3_full_low_1.wav|sˈæmz bɪn sˌO kwˈIət sˈɪns bˌiˌɑɹjˌuˌɛnˈO dˈId… ˌI dˈOnt nˈO wˌʌt tə sˈA tə hˌɪm.|0
+low_m3l30_K_1_low_scene_1.wav|mˈAbi ˌI ʃˌʊd hæv stˈAd ɪn ʤˈɑfnə… nˌɪɹ mI fˈæmᵊli.|0
+low_m3l30_K_0_low_scene_1.wav|mˈAbi ˌI ʃˌʊd hæv stˈAd ɪn ʤˈɑfnə… nˌɪɹ mI fˈæmᵊli.|0
+low_m3l31_T_3_full_low_1.wav|wˌɛn ˌI lˈɛft ʤˈɑfnə, pˈɑti hˈɛld mI hˈænd æt ðə bˈʌs stˈænd… ænd dˈɪdᵊnt lˈɛt ɡˌO.|0
+low_m3l31_T_0_full_low_1.wav|wˌɛn ˌI lˈɛft ʤˈɑfnə, pˈɑti hˈɛld mI hˈænd æt ðə bˈʌs stˈænd… ænd dˈɪdᵊnt lˈɛt ɡˌO.|0
+low_m3l32_F_3_run28b_longscene.wav|ˌAˌɑɹjˌuˈɛn ˈæskt wˌɛn ˌIm kˈʌmɪŋ hˈOm… ænd ˌI dˈɪdᵊnt hæv ɐn ˈænsəɹ.|0
+low_m3l32_K_0_run28b_longscene.wav|ˌAˌɑɹjˌuˈɛn ˈæskt wˌɛn ˌIm kˈʌmɪŋ hˈOm… ænd ˌI dˈɪdᵊnt hæv ɐn ˈænsəɹ.|0
+low_m3l34_K_1_low_fill_2.wav|ˈivən ðə sˈi lˈʊks ɡɹˈA tə mˌi tədˈA…|0
+low_m3l34_K_0_low_fill_2.wav|ˈivən ðə sˈi lˈʊks ɡɹˈA tə mˌi tədˈA…|0
+low_m3l35_T_2_full_low_1.wav|ˌI ʤˈʌst wˈɑnt tə hˈɪɹ hɜɹ sˈA mI nˈAm əɡˈɛn.|0
+low_m3l38_K_2_low_fill_2.wav|ˈO nˈO. ˌɑɹ ju ˌOkˈA?|0
+low_m3l38_K_2_low_fill_2.wav|ˈO nˈO. ˌɑɹ ju ˌOkˈA?|0
+low_m3l38_K_2_low_fill_2.wav|ˈO nˈO. ˌɑɹ ju ˌOkˈA?|0
+low_m3l40_K_1_low_fill_2.wav|hmm… ðˈæts sˈæd. ˌIm sˈɔɹi ɪt hˈæpənd.|0
+low_m3l40_K_0_low_fill_2.wav|hmm… ðˈæts sˈæd. ˌIm sˈɔɹi ɪt hˈæpənd.|0
+low_m3l41_K_1_low_fill_2.wav|tˈAk ˈɔl ðə tˈIm ju nˈid. ˌIm hˈɪɹ.|0
+low_m3l50_K_1_run28b_longscene.wav|pˌiˌɑɹˌIwˌIˌAˈɛs ɡɔn hˈOm fɔɹ ðə wˈikˌɛnd, sˌO ðə flˈæts ˈɛmpti.|0
+low_m3l50_F_1_run28b_longscene.wav|pˌiˌɑɹˌIwˌIˌAˈɛs ɡɔn hˈOm fɔɹ ðə wˈikˌɛnd, sˌO ðə flˈæts ˈɛmpti.|0
+low_m3l51_T_3_full_low_2.wav|ˌIm tˈu tˈIəɹd tə kˈʊk tənˈIt… ˌIl ʤˈʌst hæv sˌʌm bɹˈɛd.|0
+low_m3l51_T_2_full_low_2.wav|ˌIm tˈu tˈIəɹd tə kˈʊk tənˈIt… ˌIl ʤˈʌst hæv sˌʌm bɹˈɛd.|0
+low_m3l53_K_0_low_fill_2.wav|sˈʌmtˌImz ˌI ˈit lˈʌnʧ əlˈOn ɪn ðə pˈɑɹk, ænd ˌI wˈɑʧ ðə fˈæmᵊliz.|0
+low_m3l53_K_1_low_fill_2.wav|sˈʌmtˌImz ˌI ˈit lˈʌnʧ əlˈOn ɪn ðə pˈɑɹk, ænd ˌI wˈɑʧ ðə fˈæmᵊliz.|0
+low_m3l54_K_1_low_scene_1.wav|mˌI fˈit hˈɜɹt sˌO mˈʌʧ ˈæftəɹ wˈɜɹk tənˈIt…|0
+low_m3l54_K_0_low_scene_1.wav|mˌI fˈit hˈɜɹt sˌO mˈʌʧ ˈæftəɹ wˈɜɹk tənˈIt…|0
+low_m3l55_T_0_full_low_2.wav|ˌI wˈɑntᵻd tə kˈɔl hˈOm, bˌʌt ɪt wʌz tˈu lˈAt… ðA wɜɹ ˌɔlɹˈɛdi əslˈip.|0
+low_m3l55_T_2_full_low_2.wav|ˌI wˈɑntᵻd tə kˈɔl hˈOm, bˌʌt ɪt wʌz tˈu lˈAt… ðA wɜɹ ˌɔlɹˈɛdi əslˈip.|0
+low_m3l56_K_3_run28b_longscene.wav|nˈObˌɑdi ɹəmˈɛmbəɹd mI bˈɜɹθdˌA ðɪs jˈɪɹ… ɪksˈɛpt pɹˈiə.|0
+low_m3l56_K_1_run28b_longscene.wav|nˈObˌɑdi ɹəmˈɛmbəɹd mI bˈɜɹθdˌA ðɪs jˈɪɹ… ɪksˈɛpt pɹˈiə.|0
+low_m3l57_T_3_full_low_2.wav|ˌI dˈOnt fˈil lˈIk tˈɔkɪŋ tədˈA… sˈɔɹi.|0
+low_m3l57_T_2_full_low_2.wav|ˌI dˈOnt fˈil lˈIk tˈɔkɪŋ tədˈA… sˈɔɹi.|0
+low_m3l59_T_2_full_low_2.wav|ˌI θˈɪŋk ˌIm ɡˈɛTɪŋ ɐ kˈOld… mI hˈɛdz sˌO hˈɛvi.|0
+low_m3l59_T_0_full_low_2.wav|ˌI θˈɪŋk ˌIm ɡˈɛTɪŋ ɐ kˈOld… mI hˈɛdz sˌO hˈɛvi.|0
+low_m3l60_K_1_low_fill.wav|ˌI lˈɔst mI pˈɜɹs ˌɔn ðə bˈʌs… wɪð ˈɔl mI sˈAvɪŋz ɪnsˈId.|0
+low_m3l60_T_1_full_low_2.wav|ˌI lˈɔst mI pˈɜɹs ˌɔn ðə bˈʌs… wɪð ˈɔl mI sˈAvɪŋz ɪnsˈId.|0
+low_m3l61_T_3_full_low_2.wav|ˌIm sˈɔɹi. ˌI ʃˌʊd hæv tˈOld ju ˈɜɹliəɹ.|0
+low_m3l61_T_1_full_low_2.wav|ˌIm sˈɔɹi. ˌI ʃˌʊd hæv tˈOld ju ˈɜɹliəɹ.|0
+low_m3l63_K_2_low_fill_2.wav|mˈAbi jʊɹ ɹˈIt. ˌI dˈOnt ɹˈiᵊli nˈO ˌɛnimˈɔɹ.|0
+low_m3l63_K_1_low_fill_2.wav|mˈAbi jʊɹ ɹˈIt. ˌI dˈOnt ɹˈiᵊli nˈO ˌɛnimˈɔɹ.|0
+low_m3l65_T_2_full_low_2.wav|ˌI hˈævᵊnt lˈɪsᵊnd tə mjˈuzɪk fɔɹ dˈAz… ɪt ʤˈʌst dˈʌzᵊnt fˈil ðə sˈAm.|0
+low_m3l65_T_0_full_low_2.wav|ˌI hˈævᵊnt lˈɪsᵊnd tə mjˈuzɪk fɔɹ dˈAz… ɪt ʤˈʌst dˈʌzᵊnt fˈil ðə sˈAm.|0
+low_m3l66_K_3_run28b_longscene.wav|ˌI wˈɑʧt ɐn ˈOld fˈɪlm tənˈIt… ðə wˈʌn pˈɑti lˈIkt.|0
+low_m3l66_K_1_run28b_longscene.wav|ˌI wˈɑʧt ɐn ˈOld fˈɪlm tənˈIt… ðə wˈʌn pˈɑti lˈIkt.|0
+low_m3l67_T_3_full_low_2.wav|ˌI dəlˈiTᵻd ˈɔl ðə fˈOTOz bI məstˈAk… ɐ hˈOl jˈɪɹ ʌv fˈOTOz.|0
+low_m3l67_T_2_full_low_2.wav|ˌI dəlˈiTᵻd ˈɔl ðə fˈOTOz bI məstˈAk… ɐ hˈOl jˈɪɹ ʌv fˈOTOz.|0
+low_m3l68_T_1_full_low_2.wav|sˈæmz tˈim lˈɔst ðə fˈInᵊl… hi dˈɪdᵊnt sˈA ɐ wˈɜɹd ˈɔl ˈivnɪŋ.|0
+low_m3l68_T_0_full_low_2.wav|sˈæmz tˈim lˈɔst ðə fˈInᵊl… hi dˈɪdᵊnt sˈA ɐ wˈɜɹd ˈɔl ˈivnɪŋ.|0
+low_m3l69_T_1_full_low_2.wav|ˌI tɹˈId tə kˈʊk hɜɹ kˈɜɹi tənˈIt, bˌʌt ɪt dˈɪdᵊnt tˈAst ðə sˈAm…|0
+low_m3l69_T_3_full_low_2.wav|ˌI tɹˈId tə kˈʊk hɜɹ kˈɜɹi tənˈIt, bˌʌt ɪt dˈɪdᵊnt tˈAst ðə sˈAm…|0
+low_m3l70_K_1_low_scene_1.wav|fˈɜɹst ðə bˈʌs dˈɪdᵊnt kˈʌm, ðˈɛn ɪt stˈɑɹTᵻd ɹˈAnɪŋ, ænd ðˈɛn mI fˈOn dˈId.|0
+low_m3l70_K_0_low_scene_1.wav|fˈɜɹst ðə bˈʌs dˈɪdᵊnt kˈʌm, ðˈɛn ɪt stˈɑɹTᵻd ɹˈAnɪŋ, ænd ðˈɛn mI fˈOn dˈId.|0
+low_m3l72_K_0_low_fill_2.wav|ˈæftəɹ ðə kˈɔl, ˌI ʤˈʌst sˈæt ðˈɛɹ… fɔɹ ɐ lˈɔŋ tˈIm.|0
+low_m3l72_K_1_low_fill_2.wav|ˈæftəɹ ðə kˈɔl, ˌI ʤˈʌst sˈæt ðˈɛɹ… fɔɹ ɐ lˈɔŋ tˈIm.|0
+low_m3l73_T_3_full_low_2.wav|sˌO ɪn ði ˈɛnd, ˌI wˈɔkt hˈOm əlˈOn… ænd ɪt wʌz dˈɑɹk.|0
+low_m3l73_T_0_full_low_2.wav|sˌO ɪn ði ˈɛnd, ˌI wˈɔkt hˈOm əlˈOn… ænd ɪt wʌz dˈɑɹk.|0
+low_m3l74_T_3_full_low_2.wav|θɹˈi wˈiks… θˈɜɹTiθɹˌi dˈAz… ˌIm kˈWntɪŋ ˈɛvəɹi dˈA.|0
+low_m3l74_T_0_full_low_2.wav|θɹˈi wˈiks… θˈɜɹTiθɹˌi dˈAz… ˌIm kˈWntɪŋ ˈɛvəɹi dˈA.|0
+low_m3l75_K_0_low_fill_2.wav|ðə θˈɪk, ɡɹˈA klˈWdz stˈAd ðɛɹ ðə hˈOl wˈikˌɛnd.|0
+low_m3l75_K_1_low_fill_2.wav|ðə θˈɪk, ɡɹˈA klˈWdz stˈAd ðɛɹ ðə hˈOl wˈikˌɛnd.|0
+low_m3xl01_K_0_low_scene_1.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+low_m3xl01_K_0_low_scene_1.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+low_m3xl01_K_0_low_scene_1.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+low_m3xl01_K_1_low_scene_1.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+low_m3xl01_K_1_low_scene_1.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+low_m3xl01_K_1_low_scene_1.wav|dˈu ju θˈɪŋk ʃiz ˌOkˈA?|0
+low_m3xl02_K_0_low_fill_2.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+low_m3xl02_K_0_low_fill_2.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+low_m3xl02_K_0_low_fill_2.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+low_m3xl02_K_0_low_scene_1.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+low_m3xl02_K_0_low_scene_1.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+low_m3xl02_K_0_low_scene_1.wav|wˌI dˈɪdᵊnt ju tˈɛl mˌi sˈunəɹ?|0
+low_m3xl05_T_1_full_low_2.wav|kˌæn wi tˈɔk təmˈɑɹO ɪnstˈɛd?|0
+low_m3xl05_T_1_full_low_2.wav|kˌæn wi tˈɔk təmˈɑɹO ɪnstˈɛd?|0
+low_m3xl05_T_1_full_low_2.wav|kˌæn wi tˈɔk təmˈɑɹO ɪnstˈɛd?|0
+low_m3xl06_K_1_low_scene_1.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+low_m3xl06_K_1_low_scene_1.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+low_m3xl06_K_1_low_scene_1.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+low_m3xl06_K_0_low_scene_1.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+low_m3xl06_K_0_low_scene_1.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+low_m3xl06_K_0_low_scene_1.wav|dˈɪd hi ˈæsk əbˈWt mˌi?|0
+low_m3xl07_K_0_low_scene_1.wav|ˌI mˈɪs hɜɹ sˌO mˈʌʧ!|0
+low_m3xl07_K_1_low_scene_1.wav|ˌI mˈɪs hɜɹ sˌO mˈʌʧ!|0
+low_m3xl08_K_1_low_scene_1.wav|ˌI ʤˈʌst wˈɑntᵻd wˈʌn ɡˈʊd dˈA!|0
+low_m3xl08_K_0_low_scene_1.wav|ˌI ʤˈʌst wˈɑntᵻd wˈʌn ɡˈʊd dˈA!|0
+low_m3xl10_K_1_low_scene_1.wav|ˌI tɹˈId sˌO hˈɑɹd!|0
+low_m3xl10_K_0_low_scene_1.wav|ˌI tɹˈId sˌO hˈɑɹd!|0
+low_m3xl11_K_2_low_fill_2.wav|ˌI wˈɪʃ ˌI wʌz hˈOm!|0
+low_m3xl11_K_1_low_fill_2.wav|ˌI wˈɪʃ ˌI wʌz hˈOm!|0
+low_m3xl12_T_3_full_low_3.wav|ˌIm sˌO tˈIəɹd ʌv bˈiɪŋ əlˈOn!|0
+low_m3xl12_T_0_full_low_3.wav|ˌIm sˌO tˈIəɹd ʌv bˈiɪŋ əlˈOn!|0
+low_m3xl14_K_2_low_fill_2.wav|ˌI ʃˌʊd hæv bɪn ðˈɛɹ!|0
+low_m3xl14_K_0_low_fill_2.wav|ˌI ʃˌʊd hæv bɪn ðˈɛɹ!|0
+low_m3xl15_T_3_full_low_3.wav|ˌI wˈɑntᵻd tə sˈA — nˈɛvəɹ mˈInd.|0
+low_m3xl15_T_3_full_low_3.wav|ˌI wˈɑntᵻd tə sˈA — nˈɛvəɹ mˈInd.|0
+low_m3xl15_T_1_full_low_3.wav|ˌI wˈɑntᵻd tə sˈA — nˈɛvəɹ mˈInd.|0
+low_m3xl15_T_1_full_low_3.wav|ˌI wˈɑntᵻd tə sˈA — nˈɛvəɹ mˈInd.|0
+low_m3xl16_K_1_low_fill_2.wav|ʃˌi wʌz fˈIn jˈɛstəɹdˌA — ænd nˈW ðˈɪs.|0
+low_m3xl16_K_1_low_fill_2.wav|ʃˌi wʌz fˈIn jˈɛstəɹdˌA — ænd nˈW ðˈɪs.|0
+low_m3xl16_K_0_low_fill_2.wav|ʃˌi wʌz fˈIn jˈɛstəɹdˌA — ænd nˈW ðˈɪs.|0
+low_m3xl16_K_0_low_fill_2.wav|ʃˌi wʌz fˈIn jˈɛstəɹdˌA — ænd nˈW ðˈɪs.|0
+low_m3xl17_T_1_full_low_3.wav|ˌI tɹˈId tə kˈɔl — bˌʌt nˈObˌɑdi ˈænsəɹd.|0
+low_m3xl17_T_1_full_low_3.wav|ˌI tɹˈId tə kˈɔl — bˌʌt nˈObˌɑdi ˈænsəɹd.|0
+low_m3xl17_T_2_full_low_3.wav|ˌI tɹˈId tə kˈɔl — bˌʌt nˈObˌɑdi ˈænsəɹd.|0
+low_m3xl17_T_2_full_low_3.wav|ˌI tɹˈId tə kˈɔl — bˌʌt nˈObˌɑdi ˈænsəɹd.|0
+low_m3xl18_K_2_low_fill_2.wav|ˌɪts ʤˈʌst — ˌI ɹˈiᵊli mˈɪs ðˌɛm.|0
+low_m3xl18_K_2_low_fill_2.wav|ˌɪts ʤˈʌst — ˌI ɹˈiᵊli mˈɪs ðˌɛm.|0
+low_m3xl18_T_3_full_low_3.wav|ˌɪts ʤˈʌst — ˌI ɹˈiᵊli mˈɪs ðˌɛm.|0
+low_m3xl18_T_3_full_low_3.wav|ˌɪts ʤˈʌst — ˌI ɹˈiᵊli mˈɪs ðˌɛm.|0
+low_m3xl19_K_1_low_scene_1.wav|wˌi hæd plˈænz — bˈɪɡ plˈænz.|0
+low_m3xl19_K_1_low_scene_1.wav|wˌi hæd plˈænz — bˈɪɡ plˈænz.|0
+low_m3xl19_K_0_low_scene_1.wav|wˌi hæd plˈænz — bˈɪɡ plˈænz.|0
+low_m3xl19_K_0_low_scene_1.wav|wˌi hæd plˈænz — bˈɪɡ plˈænz.|0
+low_m3xl21_K_0_low_scene_1.wav|hˌi jˈust tə sˈɪŋ — ˈɛvəɹi mˈɔɹnɪŋ.|0
+low_m3xl21_K_0_low_scene_1.wav|hˌi jˈust tə sˈɪŋ — ˈɛvəɹi mˈɔɹnɪŋ.|0
+low_m3xl21_K_1_low_scene_1.wav|hˌi jˈust tə sˈɪŋ — ˈɛvəɹi mˈɔɹnɪŋ.|0
+low_m3xl21_K_1_low_scene_1.wav|hˌi jˈust tə sˈɪŋ — ˈɛvəɹi mˈɔɹnɪŋ.|0
+low_m3xl22_K_0_low_scene_1.wav|ˌI dˈɪdᵊnt mˈin ɪt — ˌIm sˈɔɹi.|0
+low_m3xl22_K_0_low_scene_1.wav|ˌI dˈɪdᵊnt mˈin ɪt — ˌIm sˈɔɹi.|0
+low_m3xl22_K_1_low_scene_1.wav|ˌI dˈɪdᵊnt mˈin ɪt — ˌIm sˈɔɹi.|0
+low_m3xl22_K_1_low_scene_1.wav|ˌI dˈɪdᵊnt mˈin ɪt — ˌIm sˈɔɹi.|0
+low_m3xl35_K_0_low_scene_2.wav|ˌI ɹˈiᵊli ↗tɹˈId.|0
+low_m3xl35_K_0_low_scene_2.wav|ˌI ɹˈiᵊli ↗tɹˈId.|0
+low_m3xl35_K_1_low_scene_2.wav|ˌI ɹˈiᵊli ↗tɹˈId.|0
+low_m3xl35_K_1_low_scene_2.wav|ˌI ɹˈiᵊli ↗tɹˈId.|0
+low_m3xl36_K_0_low_scene_2.wav|nˈObˌɑdi ↗ˈæskt mˌi.|0
+low_m3xl36_K_0_low_scene_2.wav|nˈObˌɑdi ↗ˈæskt mˌi.|0
+low_m3xl36_K_1_low_scene_2.wav|nˈObˌɑdi ↗ˈæskt mˌi.|0
+low_m3xl36_K_1_low_scene_2.wav|nˈObˌɑdi ↗ˈæskt mˌi.|0
+low_m3xl38_K_1_low_scene_2.wav|ˌɪt wʌz ↗mˈI fˈɔlt.|0
+low_m3xl38_K_1_low_scene_2.wav|ˌɪt wʌz ↗mˈI fˈɔlt.|0
+low_m3xl38_K_0_low_scene_2.wav|ˌɪt wʌz ↗mˈI fˈɔlt.|0
+low_m3xl38_K_0_low_scene_2.wav|ˌɪt wʌz ↗mˈI fˈɔlt.|0
+low_m3xl39_K_2_low_fill_2.wav|ˌI mˈɪs hɜɹ ↗ˈɛvəɹi dˈA.|0
+low_m3xl39_K_2_low_fill_2.wav|ˌI mˈɪs hɜɹ ↗ˈɛvəɹi dˈA.|0
+low_m3xl39_K_1_low_fill_2.wav|ˌI mˈɪs hɜɹ ↗ˈɛvəɹi dˈA.|0
+low_m3xl39_K_1_low_fill_2.wav|ˌI mˈɪs hɜɹ ↗ˈɛvəɹi dˈA.|0
+low_m3xl41_K_0_low_scene_2.wav|ˌI dˈɪdᵊnt ˈivən ɡɛt tə ↗sˈi hˌɜɹ.|0
+low_m3xl41_K_0_low_scene_2.wav|ˌI dˈɪdᵊnt ˈivən ɡɛt tə ↗sˈi hˌɜɹ.|0
+low_m3xl41_K_1_low_scene_2.wav|ˌI dˈɪdᵊnt ˈivən ɡɛt tə ↗sˈi hˌɜɹ.|0
+low_m3xl41_K_1_low_scene_2.wav|ˌI dˈɪdᵊnt ˈivən ɡɛt tə ↗sˈi hˌɜɹ.|0
+low_m3xl42_K_1_low_scene_2.wav|ˌɪts bɪn ↗sˈO lˈɔŋ.|0
+low_m3xl42_K_1_low_scene_2.wav|ˌɪts bɪn ↗sˈO lˈɔŋ.|0
+low_m3xl42_K_0_low_scene_2.wav|ˌɪts bɪn ↗sˈO lˈɔŋ.|0
+low_m3xl42_K_0_low_scene_2.wav|ˌɪts bɪn ↗sˈO lˈɔŋ.|0
+low_m3xl43_T_0_full_low_3.wav|ˌI ʃˌʊd hæv ↗stˈAd.|0
+low_m3xl43_T_0_full_low_3.wav|ˌI ʃˌʊd hæv ↗stˈAd.|0
+low_m3xl43_T_1_full_low_3.wav|ˌI ʃˌʊd hæv ↗stˈAd.|0
+low_m3xl43_T_1_full_low_3.wav|ˌI ʃˌʊd hæv ↗stˈAd.|0
+low_m3xl44_K_1_low_fill_2.wav|↗nˈObˌɑdi kˈɔld.|0
+low_m3xl44_K_1_low_fill_2.wav|↗nˈObˌɑdi kˈɔld.|0
+low_m3xl44_K_0_low_fill_2.wav|↗nˈObˌɑdi kˈɔld.|0
+low_m3xl44_K_0_low_fill_2.wav|↗nˈObˌɑdi kˈɔld.|0
+low_m3xl45_K_0_low_scene_2.wav|wˌɪɹ mˈuvɪŋ…|0
+low_m3xl45_K_1_low_scene_2.wav|wˌɪɹ mˈuvɪŋ…|0
+low_m3xl46_K_0_low_scene_2.wav|ˌɪts dˈʌn…|0
+low_m3xl46_K_1_low_scene_2.wav|ˌɪts dˈʌn…|0
+low_m3xl47_K_2_low_fill_2.wav|ˈO… jʊɹ bˈæk.|0
+low_m3xl47_K_1_low_scene_2.wav|ˈO… jʊɹ bˈæk.|0
+low_m3xl48_K_0_low_scene_2.wav|təmˈɑɹO, ðˈɛn…|0
+low_m3xl48_K_1_low_scene_2.wav|təmˈɑɹO, ðˈɛn…|0
+low_m3xl49_K_2_low_fill_2.wav|nˈO mˈɔɹ klˈæsᵻz…|0
+low_m3xl49_K_1_low_scene_2.wav|nˈO mˈɔɹ klˈæsᵻz…|0
+low_m3xl52_K_1_low_scene_2.wav|nˈObˌɑdi lˈɪsᵊnz tə mˌi!|0
+low_m3xl52_K_0_low_scene_2.wav|nˈObˌɑdi lˈɪsᵊnz tə mˌi!|0
+low_m3xl53_K_0_low_scene_2.wav|ˌI mˈɪs ʤˈɑfnə sˌO mˈʌʧ!|0
+low_m3xl53_K_1_low_scene_2.wav|ˌI mˈɪs ʤˈɑfnə sˌO mˈʌʧ!|0
+low_m3xl54_K_0_low_scene_2.wav|ˌIm sˌO sˈɔɹi, pˈɑti!|0
+low_m3xl54_K_1_low_scene_2.wav|ˌIm sˌO sˈɔɹi, pˈɑti!|0
+low_m3xl55_K_0_low_fill.wav|ˌI wˈɑntᵻd tə bi ðɛɹ fɔɹ hˌɜɹ.|0
+low_m3xl55_T_3_full_low_4.wav|ˌI wˈɑntᵻd tə bi ðɛɹ fɔɹ hˌɜɹ!|0
+low_m3xl56_K_0_low_fill_2.wav|ˈɛvəɹiθˌɪŋ wˈɛnt ɹˈɔŋ!|0
+low_m3xl56_K_2_low_fill_2.wav|ˈɛvəɹiθˌɪŋ wˈɛnt ɹˈɔŋ!|0
+low_m3xl57_T_1_full_low_4.wav|ˌIm tˈIəɹd ʌv sˈAɪŋ ɡˌʊdbˈI!|0
+low_m3xl57_T_2_full_low_4.wav|ˌIm tˈIəɹd ʌv sˈAɪŋ ɡˌʊdbˈI!|0
+low_m3xl59_K_0_low_scene_2.wav|ˌI ʃˌʊd nˈɛvəɹ hæv lˈɛft!|0
+low_m3xl59_K_1_low_scene_2.wav|ˌI ʃˌʊd nˈɛvəɹ hæv lˈɛft!|0
+low_m3xl61_K_1_low_scene_2.wav|ˌI lˈɔst ˈɛvəɹiθˌɪŋ!|0
+low_m3xl61_K_0_low_scene_2.wav|ˌI lˈɔst ˈɛvəɹiθˌɪŋ!|0
+low_m3xl62_K_1_low_scene_2.wav|ˌI ɹˈiᵊli θˈɔt hi kˈɛɹd!|0
+low_m3xl62_K_0_low_scene_2.wav|ˌI ɹˈiᵊli θˈɔt hi kˈɛɹd!|0
+low_m3xl64_K_0_low_scene_2.wav|ˌI ʤˈʌst nˈidᵻd ɐ hˈʌɡ!|0
+low_m3xl64_K_1_low_scene_2.wav|ˌI ʤˈʌst nˈidᵻd ɐ hˈʌɡ!|0
+low_m3xl66_K_1_low_scene_2.wav|ˌI wˈATᵻd ˈɔl dˈA fɔɹ nˈʌθɪŋ!|0
+low_m3xl66_K_0_low_scene_2.wav|ˌI wˈATᵻd ˈɔl dˈA fɔɹ nˈʌθɪŋ!|0
+low_m3xl69_T_0_full_low_4.wav|ˌI ˈɔlmOst kˈɔld ju — bˌʌt ˌI kˈʊdᵊnt.|0
+low_m3xl69_T_0_full_low_4.wav|ˌI ˈɔlmOst kˈɔld ju — bˌʌt ˌI kˈʊdᵊnt.|0
+low_m3xl69_T_3_full_low_4.wav|ˌI ˈɔlmOst kˈɔld ju — bˌʌt ˌI kˈʊdᵊnt.|0
+low_m3xl69_T_3_full_low_4.wav|ˌI ˈɔlmOst kˈɔld ju — bˌʌt ˌI kˈʊdᵊnt.|0
+low_m4g12l_K_1_low_scene_2.wav|ðˌA ʧˈAnʤd ðə plˈæn…|0
+low_m4g12l_K_0_low_fill_2.wav|ðˌA ʧˈAnʤd ðə plˈæn…|0
+low_m4g14l_K_0_low_scene_2.wav|ˌI sˈɔ hˌɪm æt ðə mˈɑɹkət…|0
+low_m4g14l_K_1_low_scene_2.wav|ˌI sˈɔ hˌɪm æt ðə mˈɑɹkət…|0
+low_m4g15l_K_1_low_scene_2.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ…|0
+low_m4g15l_K_0_low_scene_2.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ…|0
+low_m4g16l_T_0_full_low_4.wav|ʃˌi tˈOld mˌi ˈɛvəɹiθˌɪŋ…|0
+low_m4g16l_T_3_full_low_4.wav|ʃˌi tˈOld mˌi ˈɛvəɹiθˌɪŋ…|0
+low_m4g20l_K_0_low_fill_2.wav|ðˈæt wʌz mI lˈæst ɪɡzˈæm…|0
+low_m4g20l_K_0_low_scene_2.wav|ðˈæt wʌz mI lˈæst ɪɡzˈæm…|0
+low_m4l01_K_1_low_scene_2.wav|ˌɪts mˈʌndˌA əɡˈɛn…|0
+low_m4l01_K_0_low_scene_2.wav|ˌɪts mˈʌndˌA əɡˈɛn…|0
+low_m4l03_T_3_full_low_4.wav|ðə hˈWs fˈilz sˌO ˈɛmpti wɪðˈWt hˌɪm.|0
+low_m4l03_T_1_full_low_4.wav|ðə hˈWs fˈilz sˌO ˈɛmpti wɪðˈWt hˌɪm.|0
+low_m4l04_T_0_full_low_4.wav|ˌI wˈɑntᵻd tə tˈɛl hˌɜɹ, bˌʌt ɪt wʌz tˈu lˈAt.|0
+low_m4l04_T_2_full_low_4.wav|ˌI wˈɑntᵻd tə tˈɛl hˌɜɹ, bˌʌt ɪt wʌz tˈu lˈAt.|0
+low_m4l05_T_1_full_low_4.wav|nˈObˌɑdi ˈivən nˈOTəst ˌI wʌz ɡˈɔn.|0
+low_m4l05_T_0_full_low_4.wav|nˈObˌɑdi ˈivən nˈOTəst ˌI wʌz ɡˈɔn.|0
+low_m4l06_T_2_full_low_4.wav|ˌIm ʤˈʌst sˌO tˈIəɹd ʌv wˈATɪŋ.|0
+low_m4l06_T_0_full_low_4.wav|ˌIm ʤˈʌst sˌO tˈIəɹd ʌv wˈATɪŋ.|0
+low_m4l07_T_1_full_low_4.wav|ˌI dˈOnt θˈɪŋk ʃiz kˈʌmɪŋ bˈæk…|0
+low_m4l07_T_2_full_low_4.wav|ˌI dˈOnt θˈɪŋk ʃiz kˈʌmɪŋ bˈæk…|0
+normal_m3l13_T_0_full_normal_2.wav|dˈOnt wˈɜɹi əbˈWt məstˈAks. ˈɛvɹiwən mˌAks ðˌɛm.|0
+normal_m3l13_T_1_full_normal_2.wav|dˈOnt wˈɜɹi əbˈWt məstˈAks. ˈɛvɹiwən mˌAks ðˌɛm.|0
+normal_m3l44_T_2_full_normal_2.wav|ˌɪts ˌOkˈA ɪf ju dˈOnt nˈO ðə wˈɜɹd. ʤˈʌst sˈA wˌʌt ju kˈæn.|0
+normal_m3l44_T_0_full_normal_2.wav|ˌɪts ˌOkˈA ɪf ju dˈOnt nˈO ðə wˈɜɹd. ʤˈʌst sˈA wˌʌt ju kˈæn.|0
+normal_m3l45_T_3_normal_fill_1.wav|ðˈæts ɔlɹˈIt, wi kæn kˈʌm bˈæk tə ðɪs wˈʌn lˈATəɹ.|0
+normal_m3l45_T_0_normal_fill_1.wav|ðˈæts ɔlɹˈIt, wi kæn kˈʌm bˈæk tə ðɪs wˈʌn lˈATəɹ.|0
+normal_m3n04_T_1_full_normal_1.wav|ˌɪts bɪn ɹˈAnɪŋ ˈɔl wˈik, ænd mI ʃˈuz ɑɹ stˈɪl wˈɛt.|0
+normal_m3n04_T_3_normal_fill_1.wav|ˌɪts bɪn ɹˈAnɪŋ ˈɔl wˈik, ænd mI ʃˈuz ɑɹ stˈɪl wˈɛt.|0
+normal_m3n05_T_2_full_normal_1.wav|dˈu ju jˈuʒəwəli stˈʌdi æt hˈOm, ɔɹ dˈu ju ɡˌO tə ðə lˈIbɹˌɛɹi?|0
+normal_m3n05_T_0_full_normal_1.wav|dˈu ju jˈuʒəwəli stˈʌdi æt hˈOm, ɔɹ dˈu ju ɡˌO tə ðə lˈIbɹˌɛɹi?|0
+normal_m3n08_T_3_normal_fill_1.wav|mˌI kˈʌzᵊn pɹˈiə ænd ˌI ʃˈɛɹ ɐ smˈɔl flˈæt, ænd ɪts ˈɔlwˌAz ɐ bˈɪt mˈɛsi.|0
+normal_m3n09_T_0_full_normal_1.wav|wˌɛɹ dˈu ju jˈuʒəwəli ɡˌO ˌɔn wˈikˌɛndz?|0
+normal_m3n12_T_0_normal_fill_1.wav|hmm, ˈɪntɹəstɪŋ. ˌænd ðˈɛn wˌʌt dˈɪd ju sˈA?|0
+normal_m3n12_T_1_normal_fill_1.wav|hmm, ˈɪntɹəstɪŋ. ˌænd ðˈɛn wˌʌt dˈɪd ju sˈA?|0
+normal_m3n14_T_1_full_normal_1.wav|fˈɛɹ ɪnˈʌf. ˌI θˈɪŋk ˌId dˈu ðə sˈAm.|0
+normal_m3n16_T_3_full_normal_1.wav|lˈɪsᵊn fˈɜɹst, ænd ðˈɛn sˈA ɪt bˈæk tə mˌi.|0
+normal_m3n16_T_0_full_normal_1.wav|lˈɪsᵊn fˈɜɹst, ænd ðˈɛn sˈA ɪt bˈæk tə mˌi.|0
+normal_m3n20_T_3_normal_fill_3.wav|kˌæn ju sˈA ðˈæt əɡˈɛn, ɐ lˈɪTᵊl slˈOəɹ?|0
+normal_m3n20_T_3_normal_fill_1.wav|kˌæn ju sˈA ðˈæt əɡˈɛn, ɐ lˈɪTᵊl slˈOəɹ?|0
+normal_m3n21_T_3_normal_fill_1.wav|hˈɪɹz wˈʌn wˈA tə sˈA ɪt: “jˈuʒəwəli ˌI ɡɛt ˌʌp æt sˈɪks, bˌʌt tədˈA ˌI slˈɛpt lˈAt.”|0
+normal_m3n21_T_3_normal_fill_3.wav|hˈɪɹz wˈʌn wˈA tə sˈA ɪt: “jˈuʒəwəli ˌI ɡɛt ˌʌp æt sˈɪks, bˌʌt tədˈA ˌI slˈɛpt lˈAt.”|0
+normal_m3n22_T_1_full_normal_1.wav|lˈɛts tɹˈI ɐ lˈɔŋɡəɹ ˈænsəɹ ðɪs tˈIm. jˈuz “ænd” ɔɹ “bˌʌt”.|0
+normal_m3n22_T_0_full_normal_1.wav|lˈɛts tɹˈI ɐ lˈɔŋɡəɹ ˈænsəɹ ðɪs tˈIm. jˈuz “ænd” ɔɹ “bˌʌt”.|0
+normal_m3n24_T_0_full_normal_1.wav|sˈæmz mˈʌm ɪz hˈOm wɪð ðə bˈAbi nˈW, ænd ˈɛvɹiwənz hˈɛlpɪŋ.|0
+normal_m3n24_T_1_full_normal_1.wav|sˈæmz mˈʌm ɪz hˈOm wɪð ðə bˈAbi nˈW, ænd ˈɛvɹiwənz hˈɛlpɪŋ.|0
+normal_m3n26_T_2_full_normal_1.wav|wˌʊd ju mˈInd mˈuvɪŋ jʊɹ bˈæɡ, plˈiz? ˌId lˈIk tə sˈɪt dˌWn.|0
+normal_m3n26_T_1_full_normal_1.wav|wˌʊd ju mˈInd mˈuvɪŋ jʊɹ bˈæɡ, plˈiz? ˌId lˈIk tə sˈɪt dˌWn.|0
+normal_m3n27_T_1_full_normal_1.wav|ˌIm sˈɔɹi, bˌʌt ˌI θˈɪŋk jʊɹ nˈɛkst ɪn ðə kjˈu, nˌɑt mˌi.|0
+normal_m3n27_T_2_full_normal_1.wav|ˌIm sˈɔɹi, bˌʌt ˌI θˈɪŋk jʊɹ nˈɛkst ɪn ðə kjˈu, nˌɑt mˌi.|0
+normal_m3n31_T_2_full_normal_1.wav|fˈɜɹst ˌI mˌAd ðə tˈi, ðˈɛn ˌI klˈind ðə tˈAbᵊlz, ænd ˈæftəɹ ðæt ˌI fˈInᵊli sˈæt dˌWn.|0
+normal_m3n31_T_0_full_normal_1.wav|fˈɜɹst ˌI mˌAd ðə tˈi, ðˈɛn ˌI klˈind ðə tˈAbᵊlz, ænd ˈæftəɹ ðæt ˌI fˈInᵊli sˈæt dˌWn.|0
+normal_m3n32_T_0_full_normal_1.wav|mˈinhwˌIl, pɹˈiə wʌz ˌɔn ðə fˈOn wɪð hɜɹ mˈʌm, sˌO ˌI kˈʊkt dˈɪnəɹ.|0
+normal_m3n32_T_2_full_normal_1.wav|mˈinhwˌIl, pɹˈiə wʌz ˌɔn ðə fˈOn wɪð hɜɹ mˈʌm, sˌO ˌI kˈʊkt dˈɪnəɹ.|0
+normal_m3n33_T_0_full_normal_1.wav|ðˌɛɹ ɑɹ θɹˈi θˈɪŋz ˌɔn ðə lˈɪst: ɹˈIs, vˈɛʤtəbəlz, ænd ðə θˈɪk jˈɛlO dˈɑl.|0
+normal_m3n33_T_3_full_normal_1.wav|ðˌɛɹ ɑɹ θɹˈi θˈɪŋz ˌɔn ðə lˈɪst: ɹˈIs, vˈɛʤtəbəlz, ænd ðə θˈɪk jˈɛlO dˈɑl.|0
+normal_m3n34_T_3_full_normal_1.wav|ðə tɹˈAn lˈivz æt sˈɛvən θˈɜɹTi, ænd ðə tˈɪkət ɪz fˈɔɹ hˈʌndɹəd ænd fˈɪfti ɹupˈiz.|0
+normal_m3n34_T_2_full_normal_1.wav|ðə tɹˈAn lˈivz æt sˈɛvən θˈɜɹTi, ænd ðə tˈɪkət ɪz fˈɔɹ hˈʌndɹəd ænd fˈɪfti ɹupˈiz.|0
+normal_m3n36_T_2_full_normal_1.wav|tˈɛnʊkə, kˈʌvi ænd nˈɪməl: θɹˈi bɹˈʌðəɹz ɪn wˈʌn smˈɔl hˈWs.|0
+normal_m3n36_T_1_normal_fill_1.wav|tˈɛnʊkə, kˈʌvi ænd nˈɪməl: θɹˈi bɹˈʌðəɹz ɪn wˈʌn smˈɔl hˈWs.|0
+normal_m3n40_T_2_normal_fill_1.wav|ˌOkˈA, tˈɛl mˌi ˈɛvəɹiθˌɪŋ.|0
+normal_m3n40_T_0_full_normal_1.wav|ˌOkˈA, tˈɛl mˌi ˈɛvəɹiθˌɪŋ.|0
+normal_m3n41_T_0_full_normal_1.wav|mˌI ʃˈɪft stˈɑɹts æt fˈIv, sˌO ˌI jˈuʒəwəli ˈit sˈʌmθˌɪŋ lˈIt bəfˈɔɹ wˈɜɹk.|0
+normal_m3n41_T_3_full_normal_1.wav|mˌI ʃˈɪft stˈɑɹts æt fˈIv, sˌO ˌI jˈuʒəwəli ˈit sˈʌmθˌɪŋ lˈIt bəfˈɔɹ wˈɜɹk.|0
+normal_m3n42_T_2_full_normal_1.wav|pɹˈiə ænd ˌI tˈAk tˈɜɹnz kˈʊkɪŋ, bˌʌt ʃi ˈɔlwˌAz fəɹɡˈɛts tə bˈI ˈʌnjᵊnz.|0
+normal_m3n42_T_3_full_normal_1.wav|pɹˈiə ænd ˌI tˈAk tˈɜɹnz kˈʊkɪŋ, bˌʌt ʃi ˈɔlwˌAz fəɹɡˈɛts tə bˈI ˈʌnjᵊnz.|0
+normal_m3n44_T_2_normal_fill_1.wav|ˌI lˈIk ðə bˈʌs wˌɛn ɪts ˈɛmpti, bəkˈʌz ˌI kæn lˈʊk æt ðə sˈi.|0
+normal_m3n45_T_0_full_normal_2.wav|wˌi hæv ɐ smˈɔl bˈælkəni, ænd ˌI kˈip tˈu plˈænts ðˈɛɹ.|0
+normal_m3n45_T_1_normal_fill_1.wav|wˌi hæv ɐ smˈɔl bˈælkəni, ænd ˌI kˈip tˈu plˈænts ðˈɛɹ.|0
+normal_m3n46_T_1_normal_fill_1.wav|dˈu ju pɹifˈɜɹ tˈi ɔɹ kˈɔfi ɪn ðə mˈɔɹnɪŋ?|0
+normal_m3n46_T_0_normal_fill_1.wav|dˈu ju pɹifˈɜɹ tˈi ɔɹ kˈɔfi ɪn ðə mˈɔɹnɪŋ?|0
+normal_m3n47_T_2_full_normal_2.wav|ˌWəɹ tˈiʧəɹ ɡˈAv ˌʌs ɐ lˈɑt ʌv hˈOmwˌɜɹk, sˌO ˌIl bi ˌʌp lˈAt tənˈIt.|0
+normal_m3n47_T_1_full_normal_2.wav|ˌWəɹ tˈiʧəɹ ɡˈAv ˌʌs ɐ lˈɑt ʌv hˈOmwˌɜɹk, sˌO ˌIl bi ˌʌp lˈAt tənˈIt.|0
+normal_m3n48_T_3_full_normal_2.wav|ˌI bˈɔt ɐ nˈu ˌʌmbɹˈɛlə lˈæst wˈik, ænd ˌIv ˌɔlɹˈɛdi lˈɔst ɪt.|0
+normal_m3n48_T_0_normal_fill_1.wav|ˌI bˈɔt ɐ nˈu ˌʌmbɹˈɛlə lˈæst wˈik, ænd ˌIv ˌɔlɹˈɛdi lˈɔst ɪt.|0
+normal_m3n49_T_2_full_normal_2.wav|ˌɪz jʊɹ kˈɑlɪʤ fˈɑɹ fɹʌm jʊɹ hˈWs, ɔɹ kæn ju wˈɔk ðˈɛɹ?|0
+normal_m3n49_T_0_full_normal_2.wav|ˌɪz jʊɹ kˈɑlɪʤ fˈɑɹ fɹʌm jʊɹ hˈWs, ɔɹ kæn ju wˈɔk ðˈɛɹ?|0
+normal_m3n50_T_1_full_normal_2.wav|ðə ʃˈɑp nˌɪɹ ðə stˈAʃən sˈɛlz ðə bˈɛst mˈæŋɡOz, bˌʌt ɪt klˈOzᵻz ˈɜɹli.|0
+normal_m3n50_T_2_normal_fill_1.wav|ðə ʃˈɑp nˌɪɹ ðə stˈAʃən sˈɛlz ðə bˈɛst mˈæŋɡOz, bˌʌt ɪt klˈOzᵻz ˈɜɹli.|0
+normal_m3n51_T_2_full_normal_2.wav|hmm… sˌO wˌʌt dˈɪd jʊɹ mˈʌm sˈA əbˈWt ðˈæt?|0
+normal_m3n51_T_2_full_normal_2.wav|hmm… sˌO wˌʌt dˈɪd jʊɹ mˈʌm sˈA əbˈWt ðˈæt?|0
+normal_m3n51_T_2_full_normal_2.wav|hmm… sˌO wˌʌt dˈɪd jʊɹ mˈʌm sˈA əbˈWt ðˈæt?|0
+normal_m3n53_T_1_normal_fill_1.wav|ðˌæt sˈWndz nˈIs. hˌW lˈɔŋ dˈɪd ɪt tˈAk tə ɡɛt ðˈɛɹ?|0
+normal_m3n53_T_3_normal_fill_1.wav|ðˌæt sˈWndz nˈIs. hˌW lˈɔŋ dˈɪd ɪt tˈAk tə ɡɛt ðˈɛɹ?|0
+normal_m3n55_T_1_full_normal_2.wav|ɹˈIt, ˌI ˌʌndəɹstˈænd. ˌænd hˌW dˈu ju fˈil əbˈWt ɪt nˈW?|0
+normal_m3n55_T_3_full_normal_2.wav|ɹˈIt, ˌI ˌʌndəɹstˈænd. ˌænd hˌW dˈu ju fˈil əbˈWt ɪt nˈW?|0
+normal_m3n56_T_2_full_normal_2.wav|ɡˈʊd. nˈW tˈɛl mˌi əbˈWt jʊɹ mˈɔɹnɪŋ, jˈuzɪŋ “fˈɜɹst” ænd “ðˈɛn”.|0
+normal_m3n56_T_1_full_normal_2.wav|ɡˈʊd. nˈW tˈɛl mˌi əbˈWt jʊɹ mˈɔɹnɪŋ, jˈuzɪŋ “fˈɜɹst” ænd “ðˈɛn”.|0
+normal_m3n57_T_1_full_normal_2.wav|lˈɛts pɹˈæktəs ðɪs wˈʌn təɡˈɛðəɹ. ˌIl sˈA ɪt, ænd ju ɹəpˈit ɪt.|0
+normal_m3n57_T_2_full_normal_2.wav|lˈɛts pɹˈæktəs ðɪs wˈʌn təɡˈɛðəɹ. ˌIl sˈA ɪt, ænd ju ɹəpˈit ɪt.|0
+normal_m3n58_T_0_full_normal_2.wav|tɹˈI tʊ ˈænsəɹ wɪð tˈu sˈɛntᵊnsᵻz ðɪs tˈIm.|0
+normal_m3n61_T_1_full_normal_2.wav|hˈɪɹz ɐ kwˈɛsʧᵊn fɔɹ ju: wˌʌts ðə bˈɛst θˈɪŋ əbˈWt jʊɹ tˈWn?|0
+normal_m3n61_T_0_full_normal_2.wav|hˈɪɹz ɐ kwˈɛsʧᵊn fɔɹ ju: wˌʌts ðə bˈɛst θˈɪŋ əbˈWt jʊɹ tˈWn?|0
+normal_m3n62_T_0_full_normal_2.wav|sˈæm sˈɛz ðə bˈAbi slˈips ˈɔl dˈA ænd kɹˈIz ˈɔl nˈIt.|0
+normal_m3n62_T_2_normal_fill_1.wav|sˈæm sˈɛz ðə bˈAbi slˈips ˈɔl dˈA ænd kɹˈIz ˈɔl nˈIt.|0
+normal_m3n63_T_1_full_normal_2.wav|bˈiɪŋ ʃˈɪft lˈidəɹ mˈinz ˌI hæv tə kˈWnt ðə mˈʌni æt ði ˈɛnd ʌv ðə dˈA.|0
+normal_m3n63_T_2_full_normal_2.wav|bˈiɪŋ ʃˈɪft lˈidəɹ mˈinz ˌI hæv tə kˈWnt ðə mˈʌni æt ði ˈɛnd ʌv ðə dˈA.|0
+normal_m3n64_T_0_normal_fill_1.wav|ˌIm sˈAvɪŋ ɐ lˈɪTᵊl ˈɛvəɹi wˈik fɔɹ ðə tɹˈɪp, sˌO ˌI dˈOnt ˈit ˈWt mˈʌʧ.|0
+normal_m3n64_T_1_normal_fill_1.wav|ˌIm sˈAvɪŋ ɐ lˈɪTᵊl ˈɛvəɹi wˈik fɔɹ ðə tɹˈɪp, sˌO ˌI dˈOnt ˈit ˈWt mˈʌʧ.|0
+normal_m3n65_T_3_normal_fill_1.wav|kˌʊd ju sˈɛnd mˌi ðə nˈOts fɹʌm tədˈAz klˈæs, plˈiz?|0
+normal_m3n65_T_2_full_normal_2.wav|kˌʊd ju sˈɛnd mˌi ðə nˈOts fɹʌm tədˈAz klˈæs, plˈiz?|0
+normal_m3n66_T_2_full_normal_2.wav|ˌI dˈOnt əɡɹˈi, bˌʌt ˌI ˌʌndəɹstˈænd wˌI ju θˈɪŋk ðˈæt.|0
+normal_m3n66_T_0_full_normal_2.wav|ˌI dˈOnt əɡɹˈi, bˌʌt ˌI ˌʌndəɹstˈænd wˌI ju θˈɪŋk ðˈæt.|0
+normal_m3n67_T_3_full_normal_2.wav|lˈɛts wˈAt fɔɹ ði ˈʌðəɹz, ænd ðˈɛn wi kæn dəsˈId təɡˈɛðəɹ.|0
+normal_m3n67_T_0_full_normal_2.wav|lˈɛts wˈAt fɔɹ ði ˈʌðəɹz, ænd ðˈɛn wi kæn dəsˈId təɡˈɛðəɹ.|0
+normal_m3n68_T_3_normal_fill_1.wav|ˌI lˈIk ˈOld tˈæmᵊl sˈɔŋz, əspˈɛʃəli wˌɛn ɪts ɹˈAnɪŋ ˌWtsˈId.|0
+normal_m3n68_T_1_full_normal_2.wav|ˌI lˈIk ˈOld tˈæmᵊl sˈɔŋz, əspˈɛʃəli wˌɛn ɪts ɹˈAnɪŋ ˌWtsˈId.|0
+normal_m3n69_T_1_normal_fill_3.wav|sˈæm θˈɪŋks ˈɛvəɹi fˈɪlm nˈidz ɐ bˈɪɡ fˈIt æt ði ˈɛnd, bˌʌt ˌI dˈOnt.|0
+normal_m3n69_T_2_normal_fill_3.wav|sˈæm θˈɪŋks ˈɛvəɹi fˈɪlm nˈidz ɐ bˈɪɡ fˈIt æt ði ˈɛnd, bˌʌt ˌI dˈOnt.|0
+normal_m3n70_T_3_full_normal_2.wav|ˌI jˈuʒəwəli tˈAk fˈOTOz ʌv pˈipᵊlz hˈændz wˌɛn ðɛɹ kˈʊkɪŋ.|0
+normal_m3n70_T_1_full_normal_2.wav|ˌI jˈuʒəwəli tˈAk fˈOTOz ʌv pˈipᵊlz hˈændz wˌɛn ðɛɹ kˈʊkɪŋ.|0
+normal_m3n71_T_2_full_normal_2.wav|jˈɛstəɹdˌA ˌI mˈɪst ðə bˈʌs, sˌO ˌI tˈʊk ɐ tˈʊktʊk, bˌʌt ðˈɛn wi ɡɑt stˈʌk ɪn tɹˈæfɪk.|0
+normal_m3n71_T_1_full_normal_2.wav|jˈɛstəɹdˌA ˌI mˈɪst ðə bˈʌs, sˌO ˌI tˈʊk ɐ tˈʊktʊk, bˌʌt ðˈɛn wi ɡɑt stˈʌk ɪn tɹˈæfɪk.|0
+normal_m3n73_T_0_normal_fill_1.wav|ʃˌi θˈɪŋks ðə θˈɜɹd θˈɜɹzdˌA ɪz fɹˈi, bˌʌt ˌIm nˌɑt ʃˈʊɹ.|0
+normal_m3n73_T_2_normal_fill_1.wav|ʃˌi θˈɪŋks ðə θˈɜɹd θˈɜɹzdˌA ɪz fɹˈi, bˌʌt ˌIm nˌɑt ʃˈʊɹ.|0
+normal_m3xl67_K_0_low_fill_3.wav|ˌɑɹ ju stˈɪl əwˈAk?|0
+normal_m3xl67_K_1_low_fill_2.wav|ˌɑɹ ju stˈɪl əwˈAk?|0
+normal_m3xl68_K_2_low_fill.wav|dˈɪd ju ˈit ˈɛniθˌɪŋ tədˈA?|0
+normal_m3xl68_K_0_low_fill_3.wav|dˈɪd ju ˈit ˈɛniθˌɪŋ tədˈA?|0
+normal_m3xn06_T_3_full_normal_3.wav|jˌʊɹ tˈɜɹn!|0
+normal_m3xn06_T_3_full_normal_3.wav|jˌʊɹ tˈɜɹn!|0
+normal_m3xn06_T_3_full_normal_3.wav|jˌʊɹ tˈɜɹn!|0
+normal_m3xn07_T_1_full_normal_3.wav|dˈOnt fəɹɡˈɛt jʊɹ ˌʌmbɹˈɛlə!|0
+normal_m3xn07_T_1_full_normal_3.wav|dˈOnt fəɹɡˈɛt jʊɹ ˌʌmbɹˈɛlə!|0
+normal_m3xn07_T_1_full_normal_3.wav|dˈOnt fəɹɡˈɛt jʊɹ ˌʌmbɹˈɛlə!|0
+normal_m3xn07_T_3_full_normal_3.wav|dˈOnt fəɹɡˈɛt jʊɹ ˌʌmbɹˈɛlə!|0
+normal_m3xn07_T_3_full_normal_3.wav|dˈOnt fəɹɡˈɛt jʊɹ ˌʌmbɹˈɛlə!|0
+normal_m3xn07_T_3_full_normal_3.wav|dˈOnt fəɹɡˈɛt jʊɹ ˌʌmbɹˈɛlə!|0
+normal_m3xn08_T_1_full_normal_3.wav|lˈʌnʧ ɪz ɹˈɛdi!|0
+normal_m3xn08_T_1_full_normal_3.wav|lˈʌnʧ ɪz ɹˈɛdi!|0
+normal_m3xn08_T_1_full_normal_3.wav|lˈʌnʧ ɪz ɹˈɛdi!|0
+normal_m3xn08_T_0_full_normal_3.wav|lˈʌnʧ ɪz ɹˈɛdi!|0
+normal_m3xn08_T_0_full_normal_3.wav|lˈʌnʧ ɪz ɹˈɛdi!|0
+normal_m3xn08_T_0_full_normal_3.wav|lˈʌnʧ ɪz ɹˈɛdi!|0
+normal_m3xn09_T_1_normal_fill_1.wav|lˈɛt mˌi θˈɪŋk, mˈAbi θˈɜɹzdˌA.|0
+normal_m3xn09_T_0_normal_fill_1.wav|lˈɛt mˌi θˈɪŋk, mˈAbi θˈɜɹzdˌA.|0
+normal_m3xn12_T_3_full_normal_3.wav|ðə bˈʌs ɪz jˈuʒəwəli hˈɪɹ bI nˈW… lˈɛts wˈAt ɐ bˈɪt.|0
+normal_m3xn12_T_3_full_normal_3.wav|ðə bˈʌs ɪz jˈuʒəwəli hˈɪɹ bI nˈW… lˈɛts wˈAt ɐ bˈɪt.|0
+normal_m3xn12_T_3_full_normal_3.wav|ðə bˈʌs ɪz jˈuʒəwəli hˈɪɹ bI nˈW… lˈɛts wˈAt ɐ bˈɪt.|0
+normal_m3xn12_T_0_full_normal_3.wav|ðə bˈʌs ɪz jˈuʒəwəli hˈɪɹ bI nˈW… lˈɛts wˈAt ɐ bˈɪt.|0
+normal_m3xn12_T_0_full_normal_3.wav|ðə bˈʌs ɪz jˈuʒəwəli hˈɪɹ bI nˈW… lˈɛts wˈAt ɐ bˈɪt.|0
+normal_m3xn12_T_0_full_normal_3.wav|ðə bˈʌs ɪz jˈuʒəwəli hˈɪɹ bI nˈW… lˈɛts wˈAt ɐ bˈɪt.|0
+normal_m3xn15_T_2_full_normal_3.wav|wˈʌn mˈɔɹ θˈɪŋ… bɹˈɪŋ jʊɹ nˈOts təmˈɑɹO.|0
+normal_m3xn15_T_2_full_normal_3.wav|wˈʌn mˈɔɹ θˈɪŋ… bɹˈɪŋ jʊɹ nˈOts təmˈɑɹO.|0
+normal_m3xn15_T_2_full_normal_3.wav|wˈʌn mˈɔɹ θˈɪŋ… bɹˈɪŋ jʊɹ nˈOts təmˈɑɹO.|0
+normal_m3xn15_T_1_full_normal_3.wav|wˈʌn mˈɔɹ θˈɪŋ… bɹˈɪŋ jʊɹ nˈOts təmˈɑɹO.|0
+normal_m3xn15_T_1_full_normal_3.wav|wˈʌn mˈɔɹ θˈɪŋ… bɹˈɪŋ jʊɹ nˈOts təmˈɑɹO.|0
+normal_m3xn15_T_1_full_normal_3.wav|wˈʌn mˈɔɹ θˈɪŋ… bɹˈɪŋ jʊɹ nˈOts təmˈɑɹO.|0
+normal_m3xn16_T_3_normal_fill_3.wav|ˌI wʌz ɡˈOɪŋ tə kˈɔl, sˈɔɹi, ˌI fəɹɡˈɑt.|0
+normal_m3xn17_T_1_normal_fill_1.wav|tˈAk ðə bˈʌs, ɪts fˈæstəɹ ðən wˈɔkɪŋ.|0
+normal_m3xn17_T_1_full_normal_3.wav|tˈAk ðə bˈʌs — ɪts fˈæstəɹ ðən wˈɔkɪŋ.|0
+normal_m3xn17_T_1_full_normal_3.wav|tˈAk ðə bˈʌs — ɪts fˈæstəɹ ðən wˈɔkɪŋ.|0
+normal_m3xn17_T_1_full_normal_3.wav|tˈAk ðə bˈʌs — ɪts fˈæstəɹ ðən wˈɔkɪŋ.|0
+normal_m3xn19_T_3_normal_fill_1.wav|wˌi nˈid θɹˈi θˈɪŋz, mˈɪlk, bɹˈɛd ænd ˈɛɡz.|0
+normal_m3xn19_T_1_normal_fill_1.wav|wˌi nˈid θɹˈi θˈɪŋz, mˈɪlk, bɹˈɛd ænd ˈɛɡz.|0
+normal_m3xn20_T_0_normal_fill_3.wav|mˌI kˈʌzᵊn, ðə wˈʌn ɪn dˌʌbᵊljuˌiˌɛlˌɛlˌAdˌʌbᵊljuˌAtˌitˌiˈi, ɪz kˈʌmɪŋ ˈOvəɹ.|0
+normal_m3xn20_T_1_full_normal_3.wav|mˌI kˈʌzᵊn — ðə wˈʌn ɪn dˌʌbᵊljuˌiˌɛlˌɛlˌAdˌʌbᵊljuˌAtˌitˌiˈi — ɪz kˈʌmɪŋ ˈOvəɹ.|0
+normal_m3xn20_T_1_full_normal_3.wav|mˌI kˈʌzᵊn — ðə wˈʌn ɪn dˌʌbᵊljuˌiˌɛlˌɛlˌAdˌʌbᵊljuˌAtˌitˌiˈi — ɪz kˈʌmɪŋ ˈOvəɹ.|0
+normal_m3xn20_T_1_full_normal_3.wav|mˌI kˈʌzᵊn — ðə wˈʌn ɪn dˌʌbᵊljuˌiˌɛlˌɛlˌAdˌʌbᵊljuˌAtˌitˌiˈi — ɪz kˈʌmɪŋ ˈOvəɹ.|0
+normal_m3xn22_T_1_full_normal_3.wav|ði ˈænsəɹ ɪz sˈɪmpəl — pɹˈæktəs ˈɛvəɹi dˈA.|0
+normal_m3xn22_T_1_full_normal_3.wav|ði ˈænsəɹ ɪz sˈɪmpəl — pɹˈæktəs ˈɛvəɹi dˈA.|0
+normal_m3xn22_T_1_full_normal_3.wav|ði ˈænsəɹ ɪz sˈɪmpəl — pɹˈæktəs ˈɛvəɹi dˈA.|0
+normal_m3xn22_T_2_full_normal_3.wav|ði ˈænsəɹ ɪz sˈɪmpəl — pɹˈæktəs ˈɛvəɹi dˈA.|0
+normal_m3xn22_T_2_full_normal_3.wav|ði ˈænsəɹ ɪz sˈɪmpəl — pɹˈæktəs ˈɛvəɹi dˈA.|0
+normal_m3xn22_T_2_full_normal_3.wav|ði ˈænsəɹ ɪz sˈɪmpəl — pɹˈæktəs ˈɛvəɹi dˈA.|0
+normal_m3xn23_T_1_full_normal_3.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+normal_m3xn23_T_1_full_normal_3.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+normal_m3xn23_T_1_full_normal_3.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+normal_m3xn23_T_3_full_normal_3.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+normal_m3xn23_T_3_full_normal_3.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+normal_m3xn23_T_3_full_normal_3.wav|ˌIl bi ðɛɹ æt sˈɪks — mˈAbi ɐ bˈɪt lˈATəɹ.|0
+normal_m3xn24_T_3_normal_fill_2.wav|wˈAt, wˌɪʧ pˈAʤ ɑɹ wi ˌɔn?|0
+normal_m3xn25_T_3_normal_fill_2.wav|ˌɪts nˌɑt fˈɑɹ, əbˈWt tˈɛn mˈɪnəts ˌɔn fˈʊt.|0
+normal_m3xn25_T_1_normal_fill_2.wav|ˌɪts nˌɑt fˈɑɹ, əbˈWt tˈɛn mˈɪnəts ˌɔn fˈʊt.|0
+normal_m3xn26_T_2_normal_fill_3.wav|jˌu wˈɔkt ˈɔl ðə wˈA hˈɪɹ?|0
+normal_m3xn27_T_1_full_normal_3.wav|ˌɪts mˈʌndˌA ˌɔlɹˈɛdi?!|0
+normal_m3xn27_T_1_full_normal_3.wav|ˌɪts mˈʌndˌA ˌɔlɹˈɛdi?!|0
+normal_m3xn27_T_1_full_normal_3.wav|ˌɪts mˈʌndˌA ˌɔlɹˈɛdi?!|0
+normal_m3xn28_T_2_normal_fill_2.wav|jˌuv nˈɛvəɹ hæd kˈOtu?|0
+normal_m3xn28_T_3_normal_fill_3.wav|jˌuv nˈɛvəɹ hæd kˈOtu?|0
+normal_m3xn30_T_3_normal_fill_2.wav|fˈɔɹTi mˈɪnəts fɔɹ wˈʌn bˈʌs?|0
+normal_m3xn30_T_2_full_normal_3.wav|fˈɔɹTi mˈɪnəts fɔɹ wˈʌn bˈʌs?!|0
+normal_m3xn30_T_2_full_normal_3.wav|fˈɔɹTi mˈɪnəts fɔɹ wˈʌn bˈʌs?!|0
+normal_m3xn30_T_2_full_normal_3.wav|fˈɔɹTi mˈɪnəts fɔɹ wˈʌn bˈʌs?!|0
+normal_m3xn32_T_2_normal_fill_2.wav|wˌi hæv ɐ tˈɛst təmˈɑɹO?|0
+normal_m3xn32_T_0_normal_fill_2.wav|wˌi hæv ɐ tˈɛst təmˈɑɹO?|0
+normal_m3xn33_T_2_full_normal_3.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+normal_m3xn33_T_2_full_normal_3.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+normal_m3xn33_T_2_full_normal_3.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+normal_m3xn33_T_0_full_normal_3.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+normal_m3xn33_T_0_full_normal_3.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+normal_m3xn33_T_0_full_normal_3.wav|jˌu nˈO mI kˈʌzᵊn?!|0
+normal_m3xn34_T_3_full_normal_3.wav|ˌɪz ðæt ðə tˈIm?!|0
+normal_m3xn34_T_3_full_normal_3.wav|ˌɪz ðæt ðə tˈIm?!|0
+normal_m3xn34_T_3_full_normal_3.wav|ˌɪz ðæt ðə tˈIm?!|0
+normal_m3xn36_T_1_normal_fill_3.wav|ˌI mˈɛnt ðə blˈu bˈæɡ, nˌɑt ðə blˈæk wˈʌn.|0
+normal_m3xn36_T_0_normal_fill_2.wav|ˌI mˈɛnt ðə blˈu bˈæɡ, nˌɑt ðə blˈæk wˈʌn.|0
+normal_m3xn38_T_2_normal_fill_2.wav|pˌʊt ðə kˈʌps ˌɔn ðə tˈɑp ʃˈɛlf.|0
+normal_m3xn38_T_1_normal_fill_2.wav|pˌʊt ðə kˈʌps ˌɔn ðə tˈɑp ʃˈɛlf.|0
+normal_m3xn43_T_1_full_normal_3.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+normal_m3xn43_T_1_full_normal_3.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+normal_m3xn43_T_1_full_normal_3.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+normal_m3xn43_T_3_full_normal_3.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+normal_m3xn43_T_3_full_normal_3.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+normal_m3xn43_T_3_full_normal_3.wav|ði  ˈOpᵊnz æt ↗sˈɛvən.|0
+normal_m3xn44_T_0_normal_fill_2.wav|jˈuz jʊɹ ˈOn wˈɜɹdz.|0
+normal_m3xn44_T_2_normal_fill_2.wav|jˈuz jʊɹ ˈOn wˈɜɹdz.|0
+normal_m3xn47_T_2_full_normal_3.wav|ˌɪts dˈʌn.|0
+normal_m3xn50_T_1_normal_fill_2.wav|nˈO mˈɔɹ klˈæsᵻz.|0
+normal_m3xn50_T_3_normal_fill_2.wav|nˈO mˈɔɹ klˈæsᵻz.|0
+normal_m3xn53_T_3_normal_fill_2.wav|sˈi ju ˌɔn mˈʌndˌA.|0
+normal_m3xn53_T_3_normal_fill_3.wav|sˈi ju ˌɔn mˈʌndˌA.|0
+normal_m3xn56_T_2_normal_fill_2.wav|θˈæŋks fɔɹ kˈʌmɪŋ.|0
+normal_m3xn56_T_1_normal_fill_2.wav|θˈæŋks fɔɹ kˈʌmɪŋ.|0
+normal_m3xn60_T_3_normal_fill_2.wav|kˈɛɹfᵊl, ðə flˈɔɹz wˈɛt.|0
+normal_m3xn61_T_2_normal_fill_2.wav|lˈæst kwˈɛsʧᵊn.|0
+normal_m3xn62_T_1_normal_fill_2.wav|ɹˈɛdi wˌɛn ju ɑɹ.|0
+normal_m3xn62_T_0_normal_fill_2.wav|ɹˈɛdi wˌɛn ju ɑɹ.|0
+normal_m3xn66_T_1_normal_fill_2.wav|bˈæk tə pˈAʤ tˈɛn.|0
+normal_m3xn67_T_0_normal_fill_2.wav|mˈɔɹnɪŋ, sˈæm.|0
+normal_m3xn67_T_3_normal_fill_2.wav|mˈɔɹnɪŋ, sˈæm.|0
+normal_m3xn70_T_1_normal_fill_2.wav|ðə bˈʌs lˈivz æt, sˈɛvən, ˌI θˈɪŋk.|0
+normal_m3xn70_T_0_normal_fill_2.wav|ðə bˈʌs lˈivz æt, sˈɛvən, ˌI θˈɪŋk.|0
+normal_m3xn72_T_3_normal_fill_2.wav|hmm, mˈAbi ˈæftəɹ lˈʌnʧ.|0
+normal_m3xn72_T_1_normal_fill_2.wav|hmm, mˈAbi ˈæftəɹ lˈʌnʧ.|0
+normal_m3xn74_T_3_normal_fill_2.wav|sˌO ðə plˈæn ɪz, wi mˈit æt ðə stˈAʃən.|0
+normal_m3xn74_T_2_normal_fill_2.wav|sˌO ðə plˈæn ɪz, wi mˈit æt ðə stˈAʃən.|0
+normal_m3xn75_T_3_normal_fill_2.wav|ˌænd ðˈɛn, wi tˈAk ðə tɹˈAn.|0
+normal_m3xn75_T_2_normal_fill_2.wav|ˌænd ðˈɛn, wi tˈAk ðə tɹˈAn.|0
+normal_m3xn76_T_0_normal_fill_2.wav|jˌʊɹ ˈænsəɹ wʌz, ˈɔlmOst ɹˈIt.|0
+normal_m3xn76_T_2_normal_fill_2.wav|jˌʊɹ ˈænsəɹ wʌz, ˈɔlmOst ɹˈIt.|0
+normal_m3xn77_T_0_normal_fill_2.wav|wˈʌn, tˈu, θɹˈi.|0
+normal_m3xn78_T_0_normal_fill_2.wav|tˈu ʃˈʊɡəɹz, nˈO, ʤˈʌst wˈʌn.|0
+normal_m3xn78_T_2_normal_fill_3.wav|tˈu ʃˈʊɡəɹz, nˈO, ʤˈʌst wˈʌn.|0
+normal_m3xn79_T_3_normal_fill_2.wav|tˈɜɹn ɹˈIt æt ðə tˈɛmpᵊl.|0
+normal_m3xn79_T_2_normal_fill_2.wav|tˈɜɹn ɹˈIt æt ðə tˈɛmpᵊl.|0
+normal_m3xt02_K_2_tense_scene_1.wav|dˈu ju nˈO wˌʌt tˈIm ɪt ɪz?|0
+normal_m3xt02_K_1_tense_scene_1.wav|dˈu ju nˈO wˌʌt tˈIm ɪt ɪz?|0
+normal_m3xt48_T_0_full_tense_3.wav|wˌɪɹ mˈuvɪŋ?!|0
+normal_m3xt48_T_0_full_tense_3.wav|wˌɪɹ mˈuvɪŋ?!|0
+normal_m3xt48_T_0_full_tense_3.wav|wˌɪɹ mˈuvɪŋ?!|0
+normal_m3xt48_T_3_full_tense_3.wav|wˌɪɹ mˈuvɪŋ?!|0
+normal_m3xt48_T_3_full_tense_3.wav|wˌɪɹ mˈuvɪŋ?!|0
+normal_m3xt48_T_3_full_tense_3.wav|wˌɪɹ mˈuvɪŋ?!|0
+normal_m4g11n_T_3_normal_fill_2.wav|hˌi kˈɔld mˌi lˈæst nˈIt.|0
+normal_m4g11n_T_1_normal_fill_2.wav|hˌi kˈɔld mˌi lˈæst nˈIt.|0
+normal_m4g11t_T_1_tense_rx2.wav|hˌi kˈɔld mˌi lˈæst nˈIt.|0
+normal_m4g11t_T_0_tense_rx2.wav|hˌi kˈɔld mˌi lˈæst nˈIt.|0
+normal_m4g12t_K_2_tense_scene_2.wav|ðˌA ʧˈAnʤd ðə plˈæn.|0
+normal_m4g12t_K_1_tense_scene_2.wav|ðˌA ʧˈAnʤd ðə plˈæn.|0
+normal_m4g13n_T_1_normal_fill_2.wav|wˌi ɡɑt ðə ɹəzˈʌlts.|0
+normal_m4g13n_T_2_normal_fill_2.wav|wˌi ɡɑt ðə ɹəzˈʌlts.|0
+normal_m4g15n_T_2_normal_fill_3.wav|ðə lˈɛTəɹ kˈAm ðɪs mˈɔɹnɪŋ.|0
+normal_m4g16n_T_0_normal_fill_2.wav|ʃˌi tˈOld mˌi ˈɛvəɹiθˌɪŋ.|0
+normal_m4g16n_T_3_normal_fill_3.wav|ʃˌi tˈOld mˌi ˈɛvəɹiθˌɪŋ.|0
+normal_m4g17n_T_1_normal_fill_2.wav|hˌi fˈInᵊli ˈænsəɹd.|0
+normal_m4g17n_T_2_normal_fill_2.wav|hˌi fˈInᵊli ˈænsəɹd.|0
+normal_m4g18n_T_0_normal_fill_3.wav|mˌI bɹˈʌðəɹ ɪz ɡˈɛTɪŋ mˈɛɹid.|0
+normal_m4g18n_T_2_normal_fill_2.wav|mˌI bɹˈʌðəɹ ɪz ɡˈɛTɪŋ mˈɛɹid.|0
+normal_m4g19t_K_2_tense_scene_2.wav|ˌIm ɡˈOɪŋ hˈOm təmˈɑɹO.|0
+normal_m4g19t_T_2_full_tense_4.wav|ˌIm ɡˈOɪŋ hˈOm təmˈɑɹO.|0
+tense_m3t02_T_3_tense_rx2.wav|ˌI sˈɛd sˈɔɹi twˈIs, ænd hi stˈɪl wˈʊdᵊnt lˈɪsᵊn.|0
+tense_m3t02_T_0_tense_rx2.wav|ˌI sˈɛd sˈɔɹi twˈIs, ænd hi stˈɪl wˈʊdᵊnt lˈɪsᵊn.|0
+tense_m3t02_T_1_tense_rx2.wav|ˌI sˈɛd sˈɔɹi twˈIs, ænd hi stˈɪl wˈʊdᵊnt lˈɪsᵊn.|0
+tense_m3t02_T_1_full_tense_1.wav|ˌI sˈɛd sˈɔɹi twˈIs, ænd hi stˈɪl wˈʊdᵊnt lˈɪsᵊn.|0
+tense_m3t04_T_3_full_tense_1.wav|plˈiz lˈOəɹ jʊɹ vˈYs. ˌIm tɹˈIɪŋ tə hˈɛlp ju.|0
+tense_m3t04_T_2_full_tense_1.wav|plˈiz lˈOəɹ jʊɹ vˈYs. ˌIm tɹˈIɪŋ tə hˈɛlp ju.|0
+tense_m3t04_T_1_full_tense_1.wav|plˈiz lˈOəɹ jʊɹ vˈYs. ˌIm tɹˈIɪŋ tə hˈɛlp ju.|0
+tense_m3t05_T_1_full_tense_1.wav|ˌI ˌʌndəɹstˈænd jʊɹ ˌʌpsˈɛt, bˌʌt ˌI wOnt əksˈɛpt ðˈæt.|0
+tense_m3t05_T_0_full_tense_1.wav|ˌI ˌʌndəɹstˈænd jʊɹ ˌʌpsˈɛt, bˌʌt ˌI wOnt əksˈɛpt ðˈæt.|0
+tense_m3t05_T_3_full_tense_1.wav|ˌI ˌʌndəɹstˈænd jʊɹ ˌʌpsˈɛt, bˌʌt ˌI wOnt əksˈɛpt ðˈæt.|0
+tense_m3t05_T_2_full_tense_1.wav|ˌI ˌʌndəɹstˈænd jʊɹ ˌʌpsˈɛt, bˌʌt ˌI wOnt əksˈɛpt ðˈæt.|0
+tense_m3t07_T_0_full_tense_1.wav|nˈO, θˈæŋk ju. ˌIv ˌɔlɹˈɛdi mˌAd mI dəsˈɪʒᵊn.|0
+tense_m3t08_T_0_full_tense_1.wav|ðə wˈIfˌI ɪz dˌWn əɡˈɛn, ænd ˌI hæv ɐn ɪɡzˈæm təmˈɑɹO.|0
+tense_m3t08_T_3_full_tense_1.wav|ðə wˈIfˌI ɪz dˌWn əɡˈɛn, ænd ˌI hæv ɐn ɪɡzˈæm təmˈɑɹO.|0
+tense_m3t12_T_1_full_tense_1.wav|hˌi wˈɑntᵻd θɹˈi θˈɪŋz, hi ʧˈAnʤd hɪz ˈɔɹdəɹ twˈIs, ænd ðˈɛn hi lˈɛft.|0
+tense_m3t12_T_2_full_tense_1.wav|hˌi wˈɑntᵻd θɹˈi θˈɪŋz, hi ʧˈAnʤd hɪz ˈɔɹdəɹ twˈIs, ænd ðˈɛn hi lˈɛft.|0
+tense_m3t14_T_1_tense_rx2.wav|ˌI kˈænt bəlˈiv ʃi sˈɛd ðˈæt.|0
+tense_m3t17_T_3_full_tense_1.wav|ˌIm nˌɑt ɡˈOɪŋ tə sˈA sˈɔɹi fɔɹ sˈʌmθˌɪŋ ˌI dˈɪdᵊnt dˈu.|0
+tense_m3t17_T_2_full_tense_1.wav|ˌIm nˌɑt ɡˈOɪŋ tə sˈA sˈɔɹi fɔɹ sˈʌmθˌɪŋ ˌI dˈɪdᵊnt dˈu.|0
+tense_m3t18_K_0_tense_scene_1.wav|ˌI tˈOld mI mˈænɪʤəɹ ˈɛvəɹiθˌɪŋ, ænd ʃi sˈɛd, “ʤˈʌst smˈIl.” smˈIl?|0
+tense_m3t18_K_0_tense_scene_1.wav|ˌI tˈOld mI mˈænɪʤəɹ ˈɛvəɹiθˌɪŋ, ænd ʃi sˈɛd, “ʤˈʌst smˈIl.” smˈIl?|0
+tense_m3t18_T_3_full_tense_1.wav|ˌI tˈOld mI mˈænɪʤəɹ ˈɛvəɹiθˌɪŋ, ænd ʃi sˈɛd, “ʤˈʌst smˈIl.” smˈIl?|0
+tense_m3t18_T_3_full_tense_1.wav|ˌI tˈOld mI mˈænɪʤəɹ ˈɛvəɹiθˌɪŋ, ænd ʃi sˈɛd, “ʤˈʌst smˈIl.” smˈIl?|0
+tense_m3t20_T_0_full_tense_1.wav|hˌi dˈɪdᵊnt ˈivən lˈʊk æt mˌi wˌɛn hi sˈɛd ɪt.|0
+tense_m3t20_K_0_tense_scene_1.wav|hˌi dˈɪdᵊnt ˈivən lˈʊk æt mˌi wˌɛn hi sˈɛd ɪt.|0
+tense_m3t21_T_3_full_tense_1.wav|bˈiɪŋ ʃˈɪft lˈidəɹ dˈʌzᵊnt mˈin ˌI hæv tʊ əksˈɛpt ɹˈud pˈipᵊl.|0
+tense_m3t21_T_0_full_tense_1.wav|bˈiɪŋ ʃˈɪft lˈidəɹ dˈʌzᵊnt mˈin ˌI hæv tʊ əksˈɛpt ɹˈud pˈipᵊl.|0
+tense_m3t21_T_1_full_tense_1.wav|bˈiɪŋ ʃˈɪft lˈidəɹ dˈʌzᵊnt mˈin ˌI hæv tʊ əksˈɛpt ɹˈud pˈipᵊl.|0
+tense_m3t22_T_2_full_tense_hot_1.wav|θɹˈi pˈipᵊl sˈɔ wˌʌt hˈæpənd, ænd nˈObˌɑdi sˈɛd ɐ wˈɜɹd.|0
+tense_m3t22_T_3_full_tense_hot_1.wav|θɹˈi pˈipᵊl sˈɔ wˌʌt hˈæpənd, ænd nˈObˌɑdi sˈɛd ɐ wˈɜɹd.|0
+tense_m3t22_T_2_full_tense_1.wav|θɹˈi pˈipᵊl sˈɔ wˌʌt hˈæpənd, ænd nˈObˌɑdi sˈɛd ɐ wˈɜɹd.|0
+tense_m3t22_T_0_full_tense_1.wav|θɹˈi pˈipᵊl sˈɔ wˌʌt hˈæpənd, ænd nˈObˌɑdi sˈɛd ɐ wˈɜɹd.|0
+tense_m3t23_T_1_full_tense_1.wav|ˌIm tˈIəɹd ʌv bˈiɪŋ pəlˈIt tə pˈipᵊl hˌu ɑɹ nˈɛvəɹ pəlˈIt tə mˌi.|0
+tense_m3t23_T_0_full_tense_1.wav|ˌIm tˈIəɹd ʌv bˈiɪŋ pəlˈIt tə pˈipᵊl hˌu ɑɹ nˈɛvəɹ pəlˈIt tə mˌi.|0
+tense_m3t23_T_3_full_tense_1.wav|ˌIm tˈIəɹd ʌv bˈiɪŋ pəlˈIt tə pˈipᵊl hˌu ɑɹ nˈɛvəɹ pəlˈIt tə mˌi.|0
+tense_m3t24_T_2_full_tense_1.wav|hˌi ˈOz ðə  tˈu θˈWzᵊnd ɹupˈiz, ænd hiz nˈɛvəɹ kˈʌmɪŋ bˈæk.|0
+tense_m3t24_T_3_full_tense_hot_1.wav|hˌi ˈOz ðə  tˈu θˈWzᵊnd ɹupˈiz, ænd hiz nˈɛvəɹ kˈʌmɪŋ bˈæk.|0
+tense_m3t24_T_3_full_tense_1.wav|hˌi ˈOz ðə  tˈu θˈWzᵊnd ɹupˈiz, ænd hiz nˈɛvəɹ kˈʌmɪŋ bˈæk.|0
+tense_m3t24_T_0_full_tense_1.wav|hˌi ˈOz ðə  tˈu θˈWzᵊnd ɹupˈiz, ænd hiz nˈɛvəɹ kˈʌmɪŋ bˈæk.|0
+tense_m3t25_T_0_full_tense_1.wav|ˌI dˈɪdᵊnt kɹˈI bəkˈʌz ʌv hˌɪm. ˌI kɹˈId bəkˈʌz ˌI wʌz tˈIəɹd.|0
+tense_m3t25_T_2_full_tense_1.wav|ˌI dˈɪdᵊnt kɹˈI bəkˈʌz ʌv hˌɪm. ˌI kɹˈId bəkˈʌz ˌI wʌz tˈIəɹd.|0
+tense_m3t26_T_1_full_tense_1.wav|plˈiz dˈOnt ˌɪntəɹˈʌpt mˌi. lˈɛt mˌi fˈɪnəʃ.|0
+tense_m3t26_T_2_full_tense_1.wav|plˈiz dˈOnt ˌɪntəɹˈʌpt mˌi. lˈɛt mˌi fˈɪnəʃ.|0
+tense_m3t26_T_0_full_tense_1.wav|plˈiz dˈOnt ˌɪntəɹˈʌpt mˌi. lˈɛt mˌi fˈɪnəʃ.|0
+tense_m3t28_T_3_full_tense_1.wav|ðˈæts nˌɑt wˌʌt wi əɡɹˈid. wˌi sˈɛd fɹˈIdˌA.|0
+tense_m3t28_T_0_full_tense_1.wav|ðˈæts nˌɑt wˌʌt wi əɡɹˈid. wˌi sˈɛd fɹˈIdˌA.|0
+tense_m3t33_T_3_full_tense_1.wav|plˈiz pˌʊt jʊɹ fˈOn dˌWn wˌɛn ˌIm tˈɔkɪŋ tə ju.|0
+tense_m3t33_T_1_full_tense_1.wav|plˈiz pˌʊt jʊɹ fˈOn dˌWn wˌɛn ˌIm tˈɔkɪŋ tə ju.|0
+tense_m3t33_T_0_full_tense_1.wav|plˈiz pˌʊt jʊɹ fˈOn dˌWn wˌɛn ˌIm tˈɔkɪŋ tə ju.|0
+tense_m3t33_T_2_full_tense_1.wav|plˈiz pˌʊt jʊɹ fˈOn dˌWn wˌɛn ˌIm tˈɔkɪŋ tə ju.|0
+tense_m3t35_T_0_full_tense_1.wav|θˈæŋk ju, bˌʌt ˌI dˈOnt nˈid jʊɹ ədvˈIs.|0
+tense_m3t35_T_1_full_tense_1.wav|θˈæŋk ju, bˌʌt ˌI dˈOnt nˈid jʊɹ ədvˈIs.|0
+tense_m3t36_T_0_full_tense_1.wav|ɪkskjˈuz mˌi, ðˈæts mI bˈæɡ. plˈiz dˈOnt tˈʌʧ ɪt.|0
+tense_m3t36_T_2_full_tense_1.wav|ɪkskjˈuz mˌi, ðˈæts mI bˈæɡ. plˈiz dˈOnt tˈʌʧ ɪt.|0
+tense_m3t36_T_1_full_tense_1.wav|ɪkskjˈuz mˌi, ðˈæts mI bˈæɡ. plˈiz dˈOnt tˈʌʧ ɪt.|0
+tense_m3t36_T_3_full_tense_1.wav|ɪkskjˈuz mˌi, ðˈæts mI bˈæɡ. plˈiz dˈOnt tˈʌʧ ɪt.|0
+tense_m3t37_T_3_full_tense_1.wav|ˌId lˈIk ɐ ɹˈifˌʌnd, plˈiz. ðˌɪs ɪz ðə sˈɛkənd tˈIm ɪts bɹˈOkən.|0
+tense_m3t37_T_2_full_tense_1.wav|ˌId lˈIk ɐ ɹˈifˌʌnd, plˈiz. ðˌɪs ɪz ðə sˈɛkənd tˈIm ɪts bɹˈOkən.|0
+tense_m3t39_T_0_full_tense_1.wav|ˌIm nˌɑt ˈæŋɡɹi. ˌIm dˌɪsəpˈYntᵻd.|0
+tense_m3t39_T_1_full_tense_1.wav|ˌIm nˌɑt ˈæŋɡɹi. ˌIm dˌɪsəpˈYntᵻd.|0
+tense_m3t40_T_3_full_tense_1.wav|nˈɛkst tˈIm, ˈæsk bəfˈɔɹ ju tˈAk sˈʌmθˌɪŋ.|0
+tense_m3t40_T_1_full_tense_1.wav|nˈɛkst tˈIm, ˈæsk bəfˈɔɹ ju tˈAk sˈʌmθˌɪŋ.|0
+tense_m3t41_T_1_full_tense_1.wav|ðə lˈændlˌɔɹd wˈɑnts mˈɔɹ ɹˈɛnt. əɡˈɛn. fˌɔɹ ðə sˈAm tˈIni flˈæt.|0
+tense_m3t41_T_2_full_tense_1.wav|ðə lˈændlˌɔɹd wˈɑnts mˈɔɹ ɹˈɛnt. əɡˈɛn. fˌɔɹ ðə sˈAm tˈIni flˈæt.|0
+tense_m3t41_T_2_full_tense_hot_1.wav|ðə lˈændlˌɔɹd wˈɑnts mˈɔɹ ɹˈɛnt. əɡˈɛn. fˌɔɹ ðə sˈAm tˈIni flˈæt.|0
+tense_m3t42_T_1_full_tense_1.wav|ðə bˈʌs dɹˈIvəɹ dˈɪdᵊnt stˈɑp. ˌI wʌz stˈændɪŋ ɹˈIt ðˈɛɹ.|0
+tense_m3t42_T_3_full_tense_1.wav|ðə bˈʌs dɹˈIvəɹ dˈɪdᵊnt stˈɑp. ˌI wʌz stˈændɪŋ ɹˈIt ðˈɛɹ.|0
+tense_m3t42_T_3_full_tense_hot_1.wav|ðə bˈʌs dɹˈIvəɹ dˈɪdᵊnt stˈɑp. ˌI wʌz stˈændɪŋ ɹˈIt ðˈɛɹ.|0
+tense_m3t42_T_0_full_tense_1.wav|ðə bˈʌs dɹˈIvəɹ dˈɪdᵊnt stˈɑp. ˌI wʌz stˈændɪŋ ɹˈIt ðˈɛɹ.|0
+tense_m3t43_T_0_full_tense_hot_1.wav|sˈʌmbədi pˈɑɹkt ɪn fɹˈʌnt ʌv ˌWəɹ ɡˈAt, sˌO wi kˌʊdᵊnt ɡɛt ˈWt.|0
+tense_m3t43_T_3_full_tense_hot_1.wav|sˈʌmbədi pˈɑɹkt ɪn fɹˈʌnt ʌv ˌWəɹ ɡˈAt, sˌO wi kˌʊdᵊnt ɡɛt ˈWt.|0
+tense_m3t43_T_2_full_tense_1.wav|sˈʌmbədi pˈɑɹkt ɪn fɹˈʌnt ʌv ˌWəɹ ɡˈAt, sˌO wi kˌʊdᵊnt ɡɛt ˈWt.|0
+tense_m3t43_T_2_full_tense_hot_1.wav|sˈʌmbədi pˈɑɹkt ɪn fɹˈʌnt ʌv ˌWəɹ ɡˈAt, sˌO wi kˌʊdᵊnt ɡɛt ˈWt.|0
+tense_m3t44_T_3_full_tense_hot_1.wav|ðə ʃˈɑp ɡˈAv mˌi ðə ɹˈɔŋ ʧˈAnʤ, ænd ðˈɛn ðA sˈɛd ɪt wʌz mI məstˈAk.|0
+tense_m3t44_T_2_full_tense_2.wav|ðə ʃˈɑp ɡˈAv mˌi ðə ɹˈɔŋ ʧˈAnʤ, ænd ðˈɛn ðA sˈɛd ɪt wʌz mI məstˈAk.|0
+tense_m3t45_T_0_full_tense_hot_1.wav|mˌI nˈAbəɹ plˈAz lˈWd mjˈuzɪk ˈɛvəɹi nˈIt ˌʌntˈɪl tˈu.|0
+tense_m3t45_T_3_full_tense_hot_1.wav|mˌI nˈAbəɹ plˈAz lˈWd mjˈuzɪk ˈɛvəɹi nˈIt ˌʌntˈɪl tˈu.|0
+tense_m3t48_T_3_full_tense_2.wav|ði ˈɪntəɹnˌɛts bɪn dˌWn sˈɪns mˈɔɹnɪŋ, ænd nˈObˌɑdiz ˈænsəɹɪŋ ðə fˈOn.|0
+tense_m3t48_T_2_full_tense_2.wav|ði ˈɪntəɹnˌɛts bɪn dˌWn sˈɪns mˈɔɹnɪŋ, ænd nˈObˌɑdiz ˈænsəɹɪŋ ðə fˈOn.|0
+tense_m3t49_T_0_full_tense_hot_1.wav|ðə mˈæn nˈɛkst tə mˌi tˈɔkt ˌɔn ðə fˈOn ðə hˈOl ʤˈɜɹni. lˈWdli.|0
+tense_m3t49_T_1_full_tense_2.wav|ðə mˈæn nˈɛkst tə mˌi tˈɔkt ˌɔn ðə fˈOn ðə hˈOl ʤˈɜɹni. lˈWdli.|0
+tense_m3t49_T_3_full_tense_hot_1.wav|ðə mˈæn nˈɛkst tə mˌi tˈɔkt ˌɔn ðə fˈOn ðə hˈOl ʤˈɜɹni. lˈWdli.|0
+tense_m3t49_T_2_full_tense_2.wav|ðə mˈæn nˈɛkst tə mˌi tˈɔkt ˌɔn ðə fˈOn ðə hˈOl ʤˈɜɹni. lˈWdli.|0
+tense_m3t50_T_3_full_tense_2.wav|sˈʌmwˌʌn tˈʊk mI ˌʌmbɹˈɛlə fɹʌm ðə . mˌI nˈu wˈʌn.|0
+tense_m3t52_T_1_full_tense_2.wav|ðˌA ʧˈAnʤd ðə klˈæs tˈIm əɡˈɛn, ænd nˈObˌɑdi tˈOld ˌʌs.|0
+tense_m3t52_T_0_full_tense_2.wav|ðˌA ʧˈAnʤd ðə klˈæs tˈIm əɡˈɛn, ænd nˈObˌɑdi tˈOld ˌʌs.|0
+tense_m3t52_T_1_full_tense_hot_1.wav|ðˌA ʧˈAnʤd ðə klˈæs tˈIm əɡˈɛn, ænd nˈObˌɑdi tˈOld ˌʌs.|0
+tense_m3t52_T_0_full_tense_hot_1.wav|ðˌA ʧˈAnʤd ðə klˈæs tˈIm əɡˈɛn, ænd nˈObˌɑdi tˈOld ˌʌs.|0
+tense_m3t55_T_3_full_tense_2.wav|nˈO. ðˈæts nˌɑt fˈɛɹ, ænd ju nˈO ɪt.|0
+tense_m3t55_T_2_full_tense_2.wav|nˈO. ðˈæts nˌɑt fˈɛɹ, ænd ju nˈO ɪt.|0
+tense_m3t55_T_1_full_tense_2.wav|nˈO. ðˈæts nˌɑt fˈɛɹ, ænd ju nˈO ɪt.|0
+tense_m3t55_T_0_full_tense_2.wav|nˈO. ðˈæts nˌɑt fˈɛɹ, ænd ju nˈO ɪt.|0
+tense_m3t56_T_2_full_tense_2.wav|hmm. ˌI dˈOnt bəlˈiv ðæt fɔɹ ɐ sˈɛkənd.|0
+tense_m3t56_T_1_full_tense_2.wav|hmm. ˌI dˈOnt bəlˈiv ðæt fɔɹ ɐ sˈɛkənd.|0
+tense_m3t57_T_0_full_tense_2.wav|ðˈɛn wˌI dˈɪdᵊnt hi ʤˈʌst tˈɛl ju?|0
+tense_m3t57_T_0_full_tense_2.wav|ðˈɛn wˌI dˈɪdᵊnt hi ʤˈʌst tˈɛl ju?|0
+tense_m3t57_T_0_full_tense_hot_1.wav|ðˈɛn wˌI dˈɪdᵊnt hi ʤˈʌst tˈɛl ju?|0
+tense_m3t57_T_0_full_tense_hot_1.wav|ðˈɛn wˌI dˈɪdᵊnt hi ʤˈʌst tˈɛl ju?|0
+tense_m3t57_T_3_full_tense_2.wav|ðˈɛn wˌI dˈɪdᵊnt hi ʤˈʌst tˈɛl ju?|0
+tense_m3t57_T_3_full_tense_2.wav|ðˈɛn wˌI dˈɪdᵊnt hi ʤˈʌst tˈɛl ju?|0
+tense_m3t58_T_3_full_tense_2.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+tense_m3t58_T_3_full_tense_2.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+tense_m3t58_T_0_full_tense_2.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+tense_m3t58_T_0_full_tense_2.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+tense_m3t58_T_2_full_tense_2.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+tense_m3t58_T_2_full_tense_2.wav|ˌænd ju ʤˈʌst lˈɛt hˌɪm sˈA ðˈæt?|0
+tense_m3t59_T_0_full_tense_2.wav|nˈO, lˈɪsᵊn əɡˈɛn. ðə kwˈɛsʧᵊn wʌz “wˌɛɹ”, nˌɑt “wˌɛn”.|0
+tense_m3t59_T_3_full_tense_2.wav|nˈO, lˈɪsᵊn əɡˈɛn. ðə kwˈɛsʧᵊn wʌz “wˌɛɹ”, nˌɑt “wˌɛn”.|0
+tense_m3t59_T_2_full_tense_2.wav|nˈO, lˈɪsᵊn əɡˈɛn. ðə kwˈɛsʧᵊn wʌz “wˌɛɹ”, nˌɑt “wˌɛn”.|0
+tense_m3t60_T_2_full_tense_2.wav|stˈɑp ɡˈɛsɪŋ. θˈɪŋk fˈɜɹst, ænd ðˈɛn ˈænsəɹ.|0
+tense_m3t60_T_3_full_tense_2.wav|stˈɑp ɡˈɛsɪŋ. θˈɪŋk fˈɜɹst, ænd ðˈɛn ˈænsəɹ.|0
+tense_m3t60_T_1_full_tense_2.wav|stˈɑp ɡˈɛsɪŋ. θˈɪŋk fˈɜɹst, ænd ðˈɛn ˈænsəɹ.|0
+tense_m3t60_T_0_full_tense_2.wav|stˈɑp ɡˈɛsɪŋ. θˈɪŋk fˈɜɹst, ænd ðˈɛn ˈænsəɹ.|0
+tense_m3t61_T_0_full_tense_2.wav|jˌu sˈɛd “ɡˌO” əɡˈɛn. ˌɪts “wˈɛnt”. tɹˈI ɪt wˈʌns mˈɔɹ.|0
+tense_m3t61_T_3_full_tense_2.wav|jˌu sˈɛd “ɡˌO” əɡˈɛn. ˌɪts “wˈɛnt”. tɹˈI ɪt wˈʌns mˈɔɹ.|0
+tense_m3t61_T_2_full_tense_2.wav|jˌu sˈɛd “ɡˌO” əɡˈɛn. ˌɪts “wˈɛnt”. tɹˈI ɪt wˈʌns mˈɔɹ.|0
+tense_m3t61_T_1_full_tense_2.wav|jˌu sˈɛd “ɡˌO” əɡˈɛn. ˌɪts “wˈɛnt”. tɹˈI ɪt wˈʌns mˈɔɹ.|0
+tense_m3t62_T_0_full_tense_2.wav|lˈʊk æt mˌi, nˌɑt æt ðə skɹˈin. nˈW sˈA ɪt.|0
+tense_m3t62_T_1_full_tense_2.wav|lˈʊk æt mˌi, nˌɑt æt ðə skɹˈin. nˈW sˈA ɪt.|0
+tense_m3t62_T_2_full_tense_2.wav|lˈʊk æt mˌi, nˌɑt æt ðə skɹˈin. nˈW sˈA ɪt.|0
+tense_m3t63_T_3_full_tense_2.wav|ðˈæts ðə θˈɜɹd tˈIm. slˈO dˌWn, plˈiz.|0
+tense_m3t63_T_1_full_tense_2.wav|ðˈæts ðə θˈɜɹd tˈIm. slˈO dˌWn, plˈiz.|0
+tense_m3t63_T_0_full_tense_2.wav|ðˈæts ðə θˈɜɹd tˈIm. slˈO dˌWn, plˈiz.|0
+tense_m3t63_T_2_full_tense_2.wav|ðˈæts ðə θˈɜɹd tˈIm. slˈO dˌWn, plˈiz.|0
+tense_m3t64_T_2_full_tense_2.wav|nˈO fˈOnz ɪn klˈæs, plˈiz. pˌʊt ɪt əwˈA.|0
+tense_m3t64_T_1_full_tense_2.wav|nˈO fˈOnz ɪn klˈæs, plˈiz. pˌʊt ɪt əwˈA.|0
+tense_m3t64_T_3_full_tense_2.wav|nˈO fˈOnz ɪn klˈæs, plˈiz. pˌʊt ɪt əwˈA.|0
+tense_m3t64_T_0_full_tense_2.wav|nˈO fˈOnz ɪn klˈæs, plˈiz. pˌʊt ɪt əwˈA.|0
+tense_m3t66_T_3_full_tense_2.wav|dˈOnt tˈɛl mˌi ði ˈɛndɪŋ. ˌI hˈævᵊnt sˈin ɪt jˈɛt.|0
+tense_m3t66_T_2_full_tense_2.wav|dˈOnt tˈɛl mˌi ði ˈɛndɪŋ. ˌI hˈævᵊnt sˈin ɪt jˈɛt.|0
+tense_m3t66_T_0_full_tense_2.wav|dˈOnt tˈɛl mˌi ði ˈɛndɪŋ. ˌI hˈævᵊnt sˈin ɪt jˈɛt.|0
+tense_m3t66_T_1_full_tense_2.wav|dˈOnt tˈɛl mˌi ði ˈɛndɪŋ. ˌI hˈævᵊnt sˈin ɪt jˈɛt.|0
+tense_m3t67_T_2_full_tense_2.wav|sˈæm tˈɔkt ˈɔl θɹu ðə fˈɪlm. ˌI mˈɪst ðə bˈɛst pˈɑɹt.|0
+tense_m3t67_T_0_full_tense_2.wav|sˈæm tˈɔkt ˈɔl θɹu ðə fˈɪlm. ˌI mˈɪst ðə bˈɛst pˈɑɹt.|0
+tense_m3t68_T_3_full_tense_hot_2.wav|sˈʌmwˌʌn dəlˈiTᵻd mI fˈOTOz fɹʌm ðə ʃˈɛɹd fˈOldəɹ. wɪðˈWt ˈæskɪŋ.|0
+tense_m3t68_T_0_full_tense_2.wav|sˈʌmwˌʌn dəlˈiTᵻd mI fˈOTOz fɹʌm ðə ʃˈɛɹd fˈOldəɹ. wɪðˈWt ˈæskɪŋ.|0
+tense_m3t68_T_0_full_tense_hot_2.wav|sˈʌmwˌʌn dəlˈiTᵻd mI fˈOTOz fɹʌm ðə ʃˈɛɹd fˈOldəɹ. wɪðˈWt ˈæskɪŋ.|0
+tense_m3t69_T_3_full_tense_hot_2.wav|ðˌA kˈænsəld ðə tɹˈAn tə mˈɑdʊɹI. tˈu dˈAz bəfˈɔɹ.|0
+tense_m3t69_T_3_full_tense_2.wav|ðˌA kˈænsəld ðə tɹˈAn tə mˈɑdʊɹI. tˈu dˈAz bəfˈɔɹ.|0
+tense_m3t69_T_0_full_tense_hot_2.wav|ðˌA kˈænsəld ðə tɹˈAn tə mˈɑdʊɹI. tˈu dˈAz bəfˈɔɹ.|0
+tense_m3t69_T_1_full_tense_hot_2.wav|ðˌA kˈænsəld ðə tɹˈAn tə mˈɑdʊɹI. tˈu dˈAz bəfˈɔɹ.|0
+tense_m3t70_T_3_full_tense_hot_2.wav|fˈɜɹst hi kəmplˈAnd əbˈWt ðə tˈi, ðˈɛn əbˈWt ðə kˈAk, ænd ðˈɛn hi wˈɑntᵻd ɐ dˈɪskˌWnt.|0
+tense_m3t70_T_2_full_tense_hot_2.wav|fˈɜɹst hi kəmplˈAnd əbˈWt ðə tˈi, ðˈɛn əbˈWt ðə kˈAk, ænd ðˈɛn hi wˈɑntᵻd ɐ dˈɪskˌWnt.|0
+tense_m3t70_T_3_full_tense_2.wav|fˈɜɹst hi kəmplˈAnd əbˈWt ðə tˈi, ðˈɛn əbˈWt ðə kˈAk, ænd ðˈɛn hi wˈɑntᵻd ɐ dˈɪskˌWnt.|0
+tense_m3t70_T_0_full_tense_hot_2.wav|fˈɜɹst hi kəmplˈAnd əbˈWt ðə tˈi, ðˈɛn əbˈWt ðə kˈAk, ænd ðˈɛn hi wˈɑntᵻd ɐ dˈɪskˌWnt.|0
+tense_m3t71_T_0_full_tense_2.wav|sˌO ˌI ɪksplˈAnd ɪt twˈIs, ænd hi stˈɪl sˈɛd ˌI wʌz ɹˈɔŋ.|0
+tense_m3t71_T_3_full_tense_2.wav|sˌO ˌI ɪksplˈAnd ɪt twˈIs, ænd hi stˈɪl sˈɛd ˌI wʌz ɹˈɔŋ.|0
+tense_m3t72_T_3_full_tense_2.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+tense_m3t72_T_3_full_tense_2.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+tense_m3t72_T_2_full_tense_hot_2.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+tense_m3t72_T_2_full_tense_hot_2.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+tense_m3t72_T_3_full_tense_hot_2.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+tense_m3t72_T_3_full_tense_hot_2.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+tense_m3t72_T_1_full_tense_hot_2.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+tense_m3t72_T_1_full_tense_hot_2.wav|ˈæftəɹ ðˈæt, hi tˈʊk ɐ fˈOTO ʌv mI nˈAm bˈæʤ. kˌæn ju bəlˈiv ɪt?|0
+tense_m3t74_T_0_full_tense_hot_2.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+tense_m3t74_T_0_full_tense_hot_2.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+tense_m3t74_T_2_full_tense_2.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+tense_m3t74_T_2_full_tense_2.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+tense_m3t74_T_3_full_tense_hot_2.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+tense_m3t74_T_3_full_tense_hot_2.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+tense_m3t74_T_1_full_tense_2.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+tense_m3t74_T_1_full_tense_2.wav|θˈɜɹTiθɹˌi ɹupˈiz fɔɹ ɐ bˈɑTəl ʌv wˈɔTəɹ? ðˈæts tˈu mˈʌʧ.|0
+tense_m3t75_T_2_full_tense_2.wav|θɹˈi ˈWəɹz lˈAt. bəkˈʌz ʌv fˈɔɡ. əɡˈɛn.|0
+tense_m3t75_T_1_full_tense_2.wav|θɹˈi ˈWəɹz lˈAt. bəkˈʌz ʌv fˈɔɡ. əɡˈɛn.|0
+tense_m3t75_T_3_full_tense_2.wav|θɹˈi ˈWəɹz lˈAt. bəkˈʌz ʌv fˈɔɡ. əɡˈɛn.|0
+tense_m3xl26_K_1_low_fill_3.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+tense_m3xl26_K_1_low_fill_3.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+tense_m3xl26_T_3_full_low_3.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+tense_m3xl26_T_3_full_low_3.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+tense_m3xl26_T_2_full_low_3.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+tense_m3xl26_T_2_full_low_3.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+tense_m3xl26_K_3_low_fill_3.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+tense_m3xl26_K_3_low_fill_3.wav|ʃˌi dˈɪdᵊnt ˈivən sˈA ɡˌʊdbˈI?!|0
+tense_m3xt01_T_1_full_tense_hot_2.wav|hˌu tˈOld ju ðæt ju kʊd tˈAk ɪt?|0
+tense_m3xt01_T_1_full_tense_hot_2.wav|hˌu tˈOld ju ðæt ju kʊd tˈAk ɪt?|0
+tense_m3xt01_T_1_full_tense_2.wav|hˌu tˈOld ju ðæt ju kʊd tˈAk ɪt?|0
+tense_m3xt01_T_1_full_tense_2.wav|hˌu tˈOld ju ðæt ju kʊd tˈAk ɪt?|0
+tense_m3xt03_T_2_full_tense_2.wav|stˈɑp ɪt. ɹˈIt nˈW!|0
+tense_m3xt10_T_2_full_tense_2.wav|lˈiv hɜɹ əlˈOn!|0
+tense_m3xt11_T_3_full_tense_3.wav|fˈIn… kˈip ɪt, ðˈɛn.|0
+tense_m3xt11_T_2_full_tense_3.wav|fˈIn… kˈip ɪt, ðˈɛn.|0
+tense_m3xt11_T_0_full_tense_3.wav|fˈIn… kˈip ɪt, ðˈɛn.|0
+tense_m3xt12_T_3_tense_rx2.wav|ˌIm wˈATɪŋ… stˈɪl wˈATɪŋ.|0
+tense_m3xt12_T_0_tense_rx2.wav|ˌIm wˈATɪŋ… stˈɪl wˈATɪŋ.|0
+tense_m3xt12_T_2_full_tense_3.wav|ˌIm wˈATɪŋ… stˈɪl wˈATɪŋ.|0
+tense_m3xt15_T_3_full_tense_3.wav|dˈOnt… ʤˈʌst dˈOnt.|0
+tense_m3xt15_T_0_full_tense_3.wav|dˈOnt… ʤˈʌst dˈOnt.|0
+tense_m3xt16_T_1_full_tense_3.wav|sˌO ðˈæts hˌW ɪt ɪz… ˌOkˈA.|0
+tense_m3xt16_T_2_full_tense_3.wav|sˌO ðˈæts hˌW ɪt ɪz… ˌOkˈA.|0
+tense_m3xt17_T_3_full_tense_3.wav|jˌu pɹˈɑməst… ænd ju dˈɪdᵊnt kˈʌm.|0
+tense_m3xt17_T_0_full_tense_3.wav|jˌu pɹˈɑməst… ænd ju dˈɪdᵊnt kˈʌm.|0
+tense_m3xt17_T_1_full_tense_3.wav|jˌu pɹˈɑməst… ænd ju dˈɪdᵊnt kˈʌm.|0
+tense_m3xt18_T_1_full_tense_3.wav|ˌIm nˌɑt ˈæŋɡɹi… ˌIm ʤˈʌst dˈʌn.|0
+tense_m3xt18_T_0_full_tense_3.wav|ˌIm nˌɑt ˈæŋɡɹi… ˌIm ʤˈʌst dˈʌn.|0
+tense_m3xt18_T_2_full_tense_3.wav|ˌIm nˌɑt ˈæŋɡɹi… ˌIm ʤˈʌst dˈʌn.|0
+tense_m3xt18_T_3_full_tense_3.wav|ˌIm nˌɑt ˈæŋɡɹi… ˌIm ʤˈʌst dˈʌn.|0
+tense_m3xt19_T_0_full_tense_3.wav|lˈɪsᵊn tə mˌi — nˌɑt tə hˌɪm.|0
+tense_m3xt19_T_3_full_tense_3.wav|lˈɪsᵊn tə mˌi — nˌɑt tə hˌɪm.|0
+tense_m3xt19_T_2_full_tense_3.wav|lˈɪsᵊn tə mˌi — nˌɑt tə hˌɪm.|0
+tense_m3xt19_T_1_full_tense_3.wav|lˈɪsᵊn tə mˌi — nˌɑt tə hˌɪm.|0
+tense_m3xt20_T_2_full_tense_3.wav|ˌIl sˈA ɪt wˈʌns — dˈOnt tˈʌʧ mI θˈɪŋz.|0
+tense_m3xt20_T_0_full_tense_3.wav|ˌIl sˈA ɪt wˈʌns — dˈOnt tˈʌʧ mI θˈɪŋz.|0
+tense_m3xt20_T_3_full_tense_3.wav|ˌIl sˈA ɪt wˈʌns — dˈOnt tˈʌʧ mI θˈɪŋz.|0
+tense_m3xt23_T_2_full_tense_3.wav|nˈO — ðˈæts nˌɑt wˌʌt hˈæpənd.|0
+tense_m3xt23_T_1_full_tense_3.wav|nˈO — ðˈæts nˌɑt wˌʌt hˈæpənd.|0
+tense_m3xt23_T_0_full_tense_3.wav|nˈO — ðˈæts nˌɑt wˌʌt hˈæpənd.|0
+tense_m3xt24_T_3_full_tense_3.wav|ˌIv hæd ɪnˈʌf — ˌIm lˈivɪŋ.|0
+tense_m3xt24_T_0_full_tense_3.wav|ˌIv hæd ɪnˈʌf — ˌIm lˈivɪŋ.|0
+tense_m3xt24_T_2_full_tense_3.wav|ˌIv hæd ɪnˈʌf — ˌIm lˈivɪŋ.|0
+tense_m3xt25_T_1_full_tense_3.wav|ˈæsk mˌi fˈɜɹst — ˈɛvəɹi tˈIm.|0
+tense_m3xt25_T_0_full_tense_3.wav|ˈæsk mˌi fˈɜɹst — ˈɛvəɹi tˈIm.|0
+tense_m3xt25_T_2_full_tense_3.wav|ˈæsk mˌi fˈɜɹst — ˈɛvəɹi tˈIm.|0
+tense_m3xt25_T_3_full_tense_3.wav|ˈæsk mˌi fˈɜɹst — ˈɛvəɹi tˈIm.|0
+tense_m3xt27_T_1_full_tense_3.wav|nˌɑt nˈW — ˌIm wˈɜɹkɪŋ.|0
+tense_m3xt27_T_3_full_tense_3.wav|nˌɑt nˈW — ˌIm wˈɜɹkɪŋ.|0
+tense_m3xt27_T_2_full_tense_3.wav|nˌɑt nˈW — ˌIm wˈɜɹkɪŋ.|0
+tense_m3xt27_T_0_full_tense_3.wav|nˌɑt nˈW — ˌIm wˈɜɹkɪŋ.|0
+tense_m3xt29_T_1_tense_rx2.wav|jˌu ɹˈɛd mI mˈɛsɪʤᵻz?!|0
+tense_m3xt29_T_1_tense_rx2.wav|jˌu ɹˈɛd mI mˈɛsɪʤᵻz?!|0
+tense_m3xt30_T_1_full_tense_hot_2.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+tense_m3xt30_T_1_full_tense_hot_2.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+tense_m3xt30_T_2_full_tense_3.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+tense_m3xt30_T_2_full_tense_3.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+tense_m3xt30_T_2_full_tense_hot_2.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+tense_m3xt30_T_2_full_tense_hot_2.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+tense_m3xt30_T_3_full_tense_hot_2.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+tense_m3xt30_T_3_full_tense_hot_2.wav|jˌu tˈʊk mI bˈæɡ wɪðˈWt ˈæskɪŋ?!|0
+tense_m3xt31_T_2_full_tense_3.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+tense_m3xt31_T_2_full_tense_3.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+tense_m3xt31_T_3_full_tense_hot_2.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+tense_m3xt31_T_3_full_tense_hot_2.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+tense_m3xt31_T_2_full_tense_hot_2.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+tense_m3xt31_T_2_full_tense_hot_2.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+tense_m3xt31_T_1_full_tense_3.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+tense_m3xt31_T_1_full_tense_3.wav|hˌi ʃˈWTᵻd æt ju tˈu?!|0
+tense_m3xt37_T_3_full_tense_3.wav|hˌiz lˈAt əɡˈɛn?!|0
+tense_m3xt37_T_3_full_tense_3.wav|hˌiz lˈAt əɡˈɛn?!|0
+tense_m3xt37_T_0_full_tense_hot_2.wav|hˌiz lˈAt əɡˈɛn?!|0
+tense_m3xt37_T_0_full_tense_hot_2.wav|hˌiz lˈAt əɡˈɛn?!|0
+tense_m3xt38_T_0_tense_rx2.wav|jˌu sˈɛd ðæt tə hˌɜɹ?!|0
+tense_m3xt38_T_0_tense_rx2.wav|jˌu sˈɛd ðæt tə hˌɜɹ?!|0
+tense_m3xt38_T_3_tense_rx2.wav|jˌu sˈɛd ðæt tə hˌɜɹ?!|0
+tense_m3xt38_T_3_tense_rx2.wav|jˌu sˈɛd ðæt tə hˌɜɹ?!|0
+tense_m3xt39_T_0_full_tense_3.wav|ˌI sˈɛd ↗nˈO.|0
+tense_m3xt39_T_2_full_tense_3.wav|ˌI sˈɛd ↗nˈO.|0
+tense_m3xt40_T_3_full_tense_3.wav|ðˈæt ɪz ↗nˈɑt ˌOkˈA.|0
+tense_m3xt40_T_1_full_tense_3.wav|ðˈæt ɪz ↗nˈɑt ˌOkˈA.|0
+tense_m3xt40_T_0_full_tense_3.wav|ðˈæt ɪz ↗nˈɑt ˌOkˈA.|0
+tense_m3xt40_T_2_full_tense_3.wav|ðˈæt ɪz ↗nˈɑt ˌOkˈA.|0
+tense_m3xt41_T_0_full_tense_3.wav|ˈæsk ↗bəfˈɔɹ ju tˈAk ɪt.|0
+tense_m3xt41_T_1_full_tense_3.wav|ˈæsk ↗bəfˈɔɹ ju tˈAk ɪt.|0
+tense_m3xt41_T_3_full_tense_3.wav|ˈæsk ↗bəfˈɔɹ ju tˈAk ɪt.|0
+tense_m3xt43_T_3_full_tense_3.wav|ˌɪts ↗mˈI ʤˈɑb, nˌɑt jˈɔɹz.|0
+tense_m3xt43_T_1_full_tense_3.wav|ˌɪts ↗mˈI ʤˈɑb, nˌɑt jˈɔɹz.|0
+tense_m3xt43_T_0_full_tense_3.wav|ˌɪts ↗mˈI ʤˈɑb, nˌɑt jˈɔɹz.|0
+tense_m3xt44_T_1_full_tense_3.wav|jˌu pɹˈɑməst. ↗twˈIs.|0
+tense_m3xt44_T_3_full_tense_3.wav|jˌu pɹˈɑməst. ↗twˈIs.|0
+tense_m3xt44_T_0_full_tense_3.wav|jˌu pɹˈɑməst. ↗twˈIs.|0
+tense_m3xt44_T_2_full_tense_3.wav|jˌu pɹˈɑməst. ↗twˈIs.|0
+tense_m3xt45_T_3_full_tense_3.wav|dˈOnt ↗ˈɛvəɹ dˈu ðˈæt əɡˈɛn.|0
+tense_m3xt45_T_2_full_tense_3.wav|dˈOnt ↗ˈɛvəɹ dˈu ðˈæt əɡˈɛn.|0
+tense_m3xt45_T_1_full_tense_3.wav|dˈOnt ↗ˈɛvəɹ dˈu ðˈæt əɡˈɛn.|0
+tense_m3xt45_T_0_full_tense_3.wav|dˈOnt ↗ˈɛvəɹ dˈu ðˈæt əɡˈɛn.|0
+tense_m3xt51_K_2_tense_scene_2.wav|təmˈɑɹO. ðˈɛn.|0
+tense_m3xt51_K_1_tense_scene_2.wav|təmˈɑɹO. ðˈɛn.|0
+tense_m3xt53_T_1_full_tense_4.wav|pˌʊt ðæt dˌWn!|0
+tense_m3xt55_T_1_full_tense_4.wav|dˈOnt spˈik tə mˌi lˈIk ðˈæt!|0
+tense_m3xt55_T_3_full_tense_4.wav|dˈOnt spˈik tə mˌi lˈIk ðˈæt!|0
+tense_m3xt56_T_0_full_tense_4.wav|ɪnˈʌf ɪkskjˈuzᵻz!|0
+tense_m3xt56_T_3_full_tense_4.wav|ɪnˈʌf ɪkskjˈuzᵻz!|0
+tense_m3xt56_T_2_full_tense_4.wav|ɪnˈʌf ɪkskjˈuzᵻz!|0
+tense_m3xt57_T_1_full_tense_4.wav|klˈOz ðə dˈɔɹ!|0
+tense_m3xt58_T_3_full_tense_4.wav|lˈʊk æt mˌi wˌɛn ˌIm tˈɔkɪŋ!|0
+tense_m3xt58_T_1_full_tense_4.wav|lˈʊk æt mˌi wˌɛn ˌIm tˈɔkɪŋ!|0
+tense_m3xt58_T_2_full_tense_4.wav|lˈʊk æt mˌi wˌɛn ˌIm tˈɔkɪŋ!|0
+tense_m3xt58_T_0_full_tense_4.wav|lˈʊk æt mˌi wˌɛn ˌIm tˈɔkɪŋ!|0
+tense_m3xt59_T_1_full_tense_4.wav|mˈuv jʊɹ bˈIk!|0
+tense_m3xt60_T_1_full_tense_4.wav|ðˈæts nˌɑt jˈɔɹz!|0
+tense_m3xt61_T_2_full_tense_4.wav|kˈip jʊɹ vˈYs dˌWn!|0
+tense_m3xt62_T_1_full_tense_4.wav|nˌɑt ɪn mˈI !|0
+tense_m3xt63_T_3_full_tense_4.wav|ˈænsəɹ ðə kwˈɛsʧᵊn!|0
+tense_m3xt63_T_1_tense_rx2.wav|ˈænsəɹ ðə kwˈɛsʧᵊn!|0
+tense_m3xt64_T_2_full_tense_4.wav|stˈɑp ˌɪntəɹˈʌptɪŋ!|0
+tense_m3xt64_T_3_full_tense_4.wav|stˈɑp ˌɪntəɹˈʌptɪŋ!|0
+tense_m3xt64_T_0_full_tense_4.wav|stˈɑp ˌɪntəɹˈʌptɪŋ!|0
+tense_m3xt64_T_1_full_tense_4.wav|stˈɑp ˌɪntəɹˈʌptɪŋ!|0
+tense_m3xt65_T_2_full_tense_4.wav|ɡˌɛt jʊɹ fˈit ˈɔf ðə tˈAbᵊl!|0
+tense_m3xt65_T_1_full_tense_4.wav|ɡˌɛt jʊɹ fˈit ˈɔf ðə tˈAbᵊl!|0
+tense_m3xt65_T_3_full_tense_4.wav|ɡˌɛt jʊɹ fˈit ˈɔf ðə tˈAbᵊl!|0
+tense_m3xt67_T_0_full_tense_4.wav|ˌIm stˈɪl tˈɔkɪŋ!|0
+tense_m3xt68_T_3_full_tense_4.wav|jˌul pˈA fɔɹ ðˈæt kˈʌp!|0
+tense_m3xt69_T_0_full_tense_4.wav|ˌIm kˈWntɪŋ… wˈʌn mˈɔɹ tˈIm.|0
+tense_m3xt69_T_3_full_tense_4.wav|ˌIm kˈWntɪŋ… wˈʌn mˈɔɹ tˈIm.|0
+tense_m3xt72_T_1_full_tense_4.wav|ˌIl wˈAt… bˌʌt nˌɑt fɔɹ lˈɔŋ.|0
+tense_m3xt72_T_2_full_tense_4.wav|ˌIl wˈAt… bˌʌt nˌɑt fɔɹ lˈɔŋ.|0
+tense_m3xt72_T_0_full_tense_4.wav|ˌIl wˈAt… bˌʌt nˌɑt fɔɹ lˈɔŋ.|0
+tense_m3xt74_T_1_full_tense_4.wav|dˈOnt… tˈʌʧ ðˈæt.|0
+tense_m3xt74_T_0_full_tense_4.wav|dˈOnt… tˈʌʧ ðˈæt.|0
+tense_m3xt74_T_3_full_tense_4.wav|dˈOnt… tˈʌʧ ðˈæt.|0
+tense_m3xt75_T_0_full_tense_4.wav|sˌO… ju lˈId tə mˌi.|0
+tense_m3xt75_T_2_full_tense_4.wav|sˌO… ju lˈId tə mˌi.|0
+tense_m3xt75_T_3_full_tense_4.wav|sˌO… ju lˈId tə mˌi.|0
+tense_m3xt75_T_1_full_tense_4.wav|sˌO… ju lˈId tə mˌi.|0
+tense_m3xt76_T_2_full_tense_4.wav|ˌIm lˈɪsənɪŋ… ɡˌO ˌɔn, ɪksplˈAn.|0
+tense_m3xt76_K_0_tense_scene_2.wav|ˌIm lˈɪsənɪŋ. ɡˌO ˌɔn, ɪksplˈAn.|0
+tense_m3xt78_T_3_full_tense_4.wav|θˈæŋks… fɔɹ nˈʌθɪŋ.|0
+tense_m3xt78_T_2_full_tense_4.wav|θˈæŋks… fɔɹ nˈʌθɪŋ.|0
+tense_m3xt78_T_0_full_tense_4.wav|θˈæŋks… fɔɹ nˈʌθɪŋ.|0
+tense_m3xt78_T_1_full_tense_4.wav|θˈæŋks… fɔɹ nˈʌθɪŋ.|0
+tense_m3xt79_T_2_full_tense_4.wav|dˈOnt — ˌI mˈin ɪt.|0
+tense_m3xt79_T_1_full_tense_4.wav|dˈOnt — ˌI mˈin ɪt.|0
+tense_m3xt79_T_0_full_tense_4.wav|dˈOnt — ˌI mˈin ɪt.|0
+tense_m3xt80_T_1_full_tense_4.wav|ˌI tˈOld ju ↗jˈɛstəɹdˌA.|0
+tense_m3xt80_T_0_full_tense_4.wav|ˌI tˈOld ju ↗jˈɛstəɹdˌA.|0
+tense_m3xt80_T_3_full_tense_4.wav|ˌI tˈOld ju ↗jˈɛstəɹdˌA.|0
+tense_m4g13t_T_1_full_tense_4.wav|wˌi ɡɑt ðə ɹəzˈʌlts.|0
+tense_m4g13t_T_0_full_tense_4.wav|wˌi ɡɑt ðə ɹəzˈʌlts.|0
+tense_m4g13t_T_3_full_tense_4.wav|wˌi ɡɑt ðə ɹəzˈʌlts.|0
+tense_m4g13t_T_2_full_tense_4.wav|wˌi ɡɑt ðə ɹəzˈʌlts.|0
+tense_m4g17t_T_0_full_tense_4.wav|hˌi fˈInᵊli ˈænsəɹd.|0
+tense_m4g20t_T_3_full_tense_4.wav|ðˈæt wʌz mI lˈæst ɪɡzˈæm.|0
