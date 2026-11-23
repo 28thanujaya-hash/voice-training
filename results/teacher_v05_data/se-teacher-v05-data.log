@@ -1,0 +1,15 @@
+[{"stream_name":"stdout","time":266.572311232,"data":"# teacher_v05_data\n"}
+,{"stream_name":"stdout","time":266.572352502,"data":"\n"}
+,{"stream_name":"stdout","time":266.572358051,"data":"979/979 clips in 4.4 min\n"}
+,{"stream_name":"stdout","time":266.572361877,"data":"\n"}
+,{"stream_name":"stdout","time":266.572365516,"data":"{('bright', 'train'): 236, ('bright', 'val'): 30, ('low', 'train'): 191, ('low', 'val'): 24, ('normal', 'train'): 190, ('normal', 'val'): 9, ('tense', 'train'): 287, ('tense', 'val'): 12}\n"}
+,{"stream_name":"stdout","time":266.572375666,"data":"\n"}
+,{"stream_name":"stdout","time":266.572379161,"data":"RESULT: DONE\n"}
+,{"stream_name":"stdout","time":266.572382575,"data":"\n"}
+,{"stream_name":"stderr","time":269.292453665,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":269.29250197,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":269.6278929,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":269.627918838,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":271.526611821,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":272.728617596,"data":"[NbConvertApp] Writing 280877 bytes to __results__.html\n"}
+]

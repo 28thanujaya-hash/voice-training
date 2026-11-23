@@ -1,0 +1,980 @@
+file,row,text_b,text,split,id
+final/bright_m3b02_T_3_full_bright_1.wav,bright,"Paati's home! She called me, and she sounds so strong again!","Paati's home! She called me, and she sounds so strong again!",train,m3b02
+final/bright_m3b02_T_1_full_bright_1.wav,bright,"Paati's home! She called me, and she sounds so strong again!","Paati's home! She called me, and she sounds so strong again!",train,m3b02
+final/bright_m3b02_T_0_full_bright_1.wav,bright,"Paati's home! She called me, and she sounds so strong again!","Paati's home! She called me, and she sounds so strong again!",train,m3b02
+final/bright_m3b04_T_1_full_bright_1.wav,bright,"Chennai, Madurai, and maybe the beach too! I can't wait!","Chennai, Madurai, and maybe the beach too! I can't wait!",train,m3b04
+final/bright_m3b04_T_2_full_bright_1.wav,bright,"Chennai, Madurai, and maybe the beach too! I can't wait!","Chennai, Madurai, and maybe the beach too! I can't wait!",train,m3b04
+final/bright_m3b04_T_3_full_bright_1.wav,bright,"Chennai, Madurai, and maybe the beach too! I can't wait!","Chennai, Madurai, and maybe the beach too! I can't wait!",train,m3b04
+final/bright_m3b05_T_1_full_bright_1.wav,bright,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea!",train,m3b05
+final/bright_m3b05_T_3_full_bright_1.wav,bright,"Ella with the whole class? Okay, that's a brilliant idea!","Ella with the whole class? Okay, that's a brilliant idea!",train,m3b05
+final/bright_m3b06_T_3_full_bright_1.wav,bright,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam? Thenuka's first smile? That's so sweet!,train,m3b06
+final/bright_m3b06_T_0_full_bright_1.wav,bright,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam? Thenuka's first smile? That's so sweet!,train,m3b06
+final/bright_m3b06_T_1_full_bright_1.wav,bright,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam? Thenuka's first smile? That's so sweet!,train,m3b06
+final/bright_m3b06_T_2_full_bright_1.wav,bright,He smiled at Sam? Thenuka's first smile? That's so sweet!,He smiled at Sam? Thenuka's first smile? That's so sweet!,train,m3b06
+final/bright_m3b07_T_1_full_bright_1.wav,bright,"Wait, really? That's amazing news!","Wait, really? That's amazing news!",train,m3b07
+final/bright_m3b08_T_1_full_bright_1.wav,bright,"Oh, congratulations! You must be so happy!","Oh, congratulations! You must be so happy!",train,m3b08
+final/bright_m3b08_T_2_full_bright_1.wav,bright,"Oh, congratulations! You must be so happy!","Oh, congratulations! You must be so happy!",train,m3b08
+final/bright_m3b08_T_3_full_bright_1.wav,bright,"Oh, congratulations! You must be so happy!","Oh, congratulations! You must be so happy!",train,m3b08
+final/bright_m3b09_T_1_full_bright_1.wav,bright,You finally did it! I knew you could!,You finally did it! I knew you could!,train,m3b09
+final/bright_m3b10_T_1_full_bright_1.wav,bright,I can't believe it! You actually called him?!,I can't believe it! You actually called him?!,train,m3b10
+final/bright_m3b12_C_1_run32_bright_calm.wav,bright,Much better. I understood every word that time.,Much better. I understood every word that time.,val,m3b12
+final/bright_m3b12_K_1_run31_bright_1.wav,bright,Much better! I understood every word that time!,Much better! I understood every word that time!,val,m3b12
+final/bright_m3b15_T_3_full_bright_1.wav,bright,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket! Only the hotel left now!,train,m3b15
+final/bright_m3b15_T_1_full_bright_1.wav,bright,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket! Only the hotel left now!,train,m3b15
+final/bright_m3b15_T_0_full_bright_1.wav,bright,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket! Only the hotel left now!,train,m3b15
+final/bright_m3b15_T_2_full_bright_1.wav,bright,I saved enough for the train ticket! Only the hotel left now!,I saved enough for the train ticket! Only the hotel left now!,train,m3b15
+final/bright_m3b18_T_2_full_bright_1.wav,bright,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that!",train,m3b18
+final/bright_m3b18_T_0_full_bright_1.wav,bright,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that!",train,m3b18
+final/bright_m3b18_T_1_full_bright_1.wav,bright,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that!",train,m3b18
+final/bright_m3b18_T_3_full_bright_1.wav,bright,"Okay, Marvel wasn't bad. Don't tell Sam I said that!","Okay, Marvel wasn't bad. Don't tell Sam I said that!",train,m3b18
+final/bright_m3b19_T_0_full_bright_1.wav,bright,Thank you so much! That's really kind of you!,Thank you so much! That's really kind of you!,val,m3b19
+final/bright_m3b19_T_1_full_bright_1.wav,bright,Thank you so much! That's really kind of you!,Thank you so much! That's really kind of you!,val,m3b19
+final/bright_m3b19_T_3_full_bright_1.wav,bright,Thank you so much! That's really kind of you!,Thank you so much! That's really kind of you!,val,m3b19
+final/bright_m3b19_T_2_full_bright_1.wav,bright,Thank you so much! That's really kind of you!,Thank you so much! That's really kind of you!,val,m3b19
+final/bright_m3b20_T_2_full_bright_1.wav,bright,"And then, suddenly, the whole café started singing for her birthday!","And then, suddenly, the whole café started singing for her birthday!",train,m3b20
+final/bright_m3b20_T_1_full_bright_1.wav,bright,"And then, suddenly, the whole café started singing for her birthday!","And then, suddenly, the whole café started singing for her birthday!",train,m3b20
+final/bright_m3b20_T_0_full_bright_1.wav,bright,"And then, suddenly, the whole café started singing for her birthday!","And then, suddenly, the whole café started singing for her birthday!",train,m3b20
+final/bright_m3b20_T_3_full_bright_1.wav,bright,"And then, suddenly, the whole café started singing for her birthday!","And then, suddenly, the whole café started singing for her birthday!",train,m3b20
+final/bright_m3b25_T_2_full_bright_1.wav,bright,"Okay, tell me EVERYTHING!","Okay, tell me EVERYTHING!",train,m3b25
+final/bright_m3b26_T_3_full_bright_1.wav,bright,They said yes! I can take the whole of next month off for India!,They said yes! I can take the whole of next month off for India!,train,m3b26
+final/bright_m3b26_T_2_full_bright_1.wav,bright,They said yes! I can take the whole of next month off for India!,They said yes! I can take the whole of next month off for India!,train,m3b26
+final/bright_m3b27_T_1_full_bright_1.wav,bright,Paati walked to the gate by herself today! Arun sent me a video!,Paati walked to the gate by herself today! Arun sent me a video!,train,m3b27
+final/bright_m3b27_T_0_full_bright_1.wav,bright,Paati walked to the gate by herself today! Arun sent me a video!,Paati walked to the gate by herself today! Arun sent me a video!,train,m3b27
+final/bright_m3b27_T_2_full_bright_1.wav,bright,Paati walked to the gate by herself today! Arun sent me a video!,Paati walked to the gate by herself today! Arun sent me a video!,train,m3b27
+final/bright_m3b28_T_2_full_bright_1.wav,bright,"My first week as shift leader, and nothing went wrong!","My first week as shift leader, and nothing went wrong!",val,m3b28
+final/bright_m3b28_K_1_bright_calm_fill.wav,bright,"My first week as shift leader, and nothing went wrong.","My first week as shift leader, and nothing went wrong.",val,m3b28
+final/bright_m3b28_K_2_bright_calm_fill.wav,bright,"My first week as shift leader, and nothing went wrong.","My first week as shift leader, and nothing went wrong.",val,m3b28
+final/bright_m3b29_T_0_full_bright_1.wav,bright,I booked the train to Madurai! It's really happening!,I booked the train to Madurai! It's really happening!,train,m3b29
+final/bright_m3b29_T_2_full_bright_1.wav,bright,I booked the train to Madurai! It's really happening!,I booked the train to Madurai! It's really happening!,train,m3b29
+final/bright_m3b29_T_3_full_bright_1.wav,bright,I booked the train to Madurai! It's really happening!,I booked the train to Madurai! It's really happening!,train,m3b29
+final/bright_m3b31_L_2_bright_fill_4.wav,bright,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test! He called me the moment he got out!,train,m3b31
+final/bright_m3b31_L_1_bright_fill_4.wav,bright,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test! He called me the moment he got out!,train,m3b31
+final/bright_m3b31_L_3_bright_fill_4.wav,bright,Sam passed his driving test! He called me the moment he got out!,Sam passed his driving test! He called me the moment he got out!,train,m3b31
+final/bright_m3b32_T_3_full_bright_1.wav,bright,We're going to Ella! The whole class said yes!,We're going to Ella! The whole class said yes!,train,m3b32
+final/bright_m3b33_T_1_full_bright_1.wav,bright,"Paati made crab curry for the whole street, and everyone loved it!","Paati made crab curry for the whole street, and everyone loved it!",train,m3b33
+final/bright_m3b33_T_0_full_bright_1.wav,bright,"Paati made crab curry for the whole street, and everyone loved it!","Paati made crab curry for the whole street, and everyone loved it!",train,m3b33
+final/bright_m3b33_T_3_full_bright_1.wav,bright,"Paati made crab curry for the whole street, and everyone loved it!","Paati made crab curry for the whole street, and everyone loved it!",train,m3b33
+final/bright_m3b33_T_2_full_bright_1.wav,bright,"Paati made crab curry for the whole street, and everyone loved it!","Paati made crab curry for the whole street, and everyone loved it!",train,m3b33
+final/bright_m3b34_T_0_full_bright_1.wav,bright,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had!,train,m3b34
+final/bright_m3b34_T_2_full_bright_1.wav,bright,My manager said I'm the best shift leader they've had!,My manager said I'm the best shift leader they've had!,train,m3b34
+final/bright_m3b35_T_0_full_bright_1.wav,bright,Paati's coming to Colombo! She said yes!,Paati's coming to Colombo! She said yes!,train,m3b35
+final/bright_m3b36_T_3_full_bright_2.wav,bright,"Oh, that's lovely! Tell me more!","Oh, that's lovely! Tell me more!",train,m3b36
+final/bright_m3b36_T_0_full_bright_2.wav,bright,"Oh, that's lovely! Tell me more!","Oh, that's lovely! Tell me more!",train,m3b36
+final/bright_m3b36_T_2_full_bright_2.wav,bright,"Oh, that's lovely! Tell me more!","Oh, that's lovely! Tell me more!",train,m3b36
+final/bright_m3b37_K_1_bright_calm_fill.wav,bright,"No way, you met him? What was he like.","No way, you met him? What was he like.",train,m3b37
+final/bright_m3b37_K_2_bright_calm_fill.wav,bright,"No way, you met him? What was he like.","No way, you met him? What was he like.",train,m3b37
+final/bright_m3b38_K_2_bright_calm_fill.wav,bright,"Wow, you remembered. Thank you.","Wow, you remembered. Thank you.",train,m3b38
+final/bright_m3b39_T_2_full_bright_2.wav,bright,That's so good to hear! I'm really happy for you!,That's so good to hear! I'm really happy for you!,train,m3b39
+final/bright_m3b39_T_0_full_bright_2.wav,bright,That's so good to hear! I'm really happy for you!,That's so good to hear! I'm really happy for you!,train,m3b39
+final/bright_m3b39_T_1_full_bright_2.wav,bright,That's so good to hear! I'm really happy for you!,That's so good to hear! I'm really happy for you!,train,m3b39
+final/bright_m3b39_T_3_full_bright_2.wav,bright,That's so good to hear! I'm really happy for you!,That's so good to hear! I'm really happy for you!,train,m3b39
+final/bright_m3b41_K_0_run32_bright_calm.wav,bright,Seriously? That's the best news this week.,Seriously? That's the best news this week.,train,m3b41
+final/bright_m3b41_K_0_run31_bright_2.wav,bright,Seriously? That's the best news this week!,Seriously? That's the best news this week!,train,m3b41
+final/bright_m3b41_K_0_run31_bright_1.wav,bright,Seriously? That's the best news this week!,Seriously? That's the best news this week!,train,m3b41
+final/bright_m3b41_K_1_run32_bright_calm.wav,bright,Seriously? That's the best news this week.,Seriously? That's the best news this week.,train,m3b41
+final/bright_m3b45_T_2_full_bright_2.wav,bright,That was brilliant! You didn't stop once!,That was brilliant! You didn't stop once!,train,m3b45
+final/bright_m3b46_K_2_bright_calm_fill.wav,bright,"Yes. You used ""then"" and ""after that"", perfect.","Yes. You used ""then"" and ""after that"", perfect.",train,m3b46
+final/bright_m3b46_T_1_full_bright_2.wav,bright,"Yes! You used ""then"" and ""after that"" — perfect!","Yes! You used ""then"" and ""after that"" — perfect!",train,m3b46
+final/bright_m3b47_T_2_full_bright_2.wav,bright,"Great question! Okay, let me think!","Great question! Okay, let me think!",train,m3b47
+final/bright_m3b47_T_0_full_bright_2.wav,bright,"Great question! Okay, let me think!","Great question! Okay, let me think!",train,m3b47
+final/bright_m3b49_T_3_full_bright_2.wav,bright,Good job! You're getting faster every day!,Good job! You're getting faster every day!,train,m3b49
+final/bright_m3b49_T_0_full_bright_2.wav,bright,Good job! You're getting faster every day!,Good job! You're getting faster every day!,train,m3b49
+final/bright_m3b50_T_0_full_bright_2.wav,bright,Perfect! I understood every single word!,Perfect! I understood every single word!,train,m3b50
+final/bright_m3b50_T_3_full_bright_2.wav,bright,Perfect! I understood every single word!,Perfect! I understood every single word!,train,m3b50
+final/bright_m3b50_T_1_full_bright_2.wav,bright,Perfect! I understood every single word!,Perfect! I understood every single word!,train,m3b50
+final/bright_m3b50_T_2_full_bright_2.wav,bright,Perfect! I understood every single word!,Perfect! I understood every single word!,train,m3b50
+final/bright_m3b52_T_2_full_bright_2.wav,bright,"The café gave everyone free cake today, because it's the owner's birthday!","The café gave everyone free cake today, because it's the owner's birthday!",train,m3b52
+final/bright_m3b52_T_0_full_bright_2.wav,bright,"The café gave everyone free cake today, because it's the owner's birthday!","The café gave everyone free cake today, because it's the owner's birthday!",train,m3b52
+final/bright_m3b52_T_3_full_bright_2.wav,bright,"The café gave everyone free cake today, because it's the owner's birthday!","The café gave everyone free cake today, because it's the owner's birthday!",train,m3b52
+final/bright_m3b53_T_2_full_bright_2.wav,bright,Priya cleaned the whole flat! I don't even know what happened!,Priya cleaned the whole flat! I don't even know what happened!,train,m3b53
+final/bright_m3b53_T_0_full_bright_2.wav,bright,Priya cleaned the whole flat! I don't even know what happened!,Priya cleaned the whole flat! I don't even know what happened!,train,m3b53
+final/bright_m3b53_T_1_full_bright_2.wav,bright,Priya cleaned the whole flat! I don't even know what happened!,Priya cleaned the whole flat! I don't even know what happened!,train,m3b53
+final/bright_m3b55_T_0_full_bright_2.wav,bright,I found my umbrella! It was in my bag the whole time!,I found my umbrella! It was in my bag the whole time!,val,m3b55
+final/bright_m3b55_T_3_full_bright_2.wav,bright,I found my umbrella! It was in my bag the whole time!,I found my umbrella! It was in my bag the whole time!,val,m3b55
+final/bright_m3b57_T_0_full_bright_2.wav,bright,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm going to sleep for two days!",train,m3b57
+final/bright_m3b57_T_1_full_bright_2.wav,bright,"It's a long weekend, so I'm going to sleep for two days!","It's a long weekend, so I'm going to sleep for two days!",train,m3b57
+final/bright_m3b58_T_0_full_bright_2.wav,bright,Arun got the top mark in his class! My little brother!,Arun got the top mark in his class! My little brother!,train,m3b58
+final/bright_m3b58_T_1_full_bright_2.wav,bright,Arun got the top mark in his class! My little brother!,Arun got the top mark in his class! My little brother!,train,m3b58
+final/bright_m3b58_T_3_full_bright_2.wav,bright,Arun got the top mark in his class! My little brother!,Arun got the top mark in his class! My little brother!,train,m3b58
+final/bright_m3b60_T_3_full_bright_2.wav,bright,"The new bakery opened near the station, and the bread is amazing!","The new bakery opened near the station, and the bread is amazing!",train,m3b60
+final/bright_m3b60_T_2_full_bright_2.wav,bright,"The new bakery opened near the station, and the bread is amazing!","The new bakery opened near the station, and the bread is amazing!",train,m3b60
+final/bright_m3b60_T_1_full_bright_2.wav,bright,"The new bakery opened near the station, and the bread is amazing!","The new bakery opened near the station, and the bread is amazing!",train,m3b60
+final/bright_m3b60_T_0_full_bright_2.wav,bright,"The new bakery opened near the station, and the bread is amazing!","The new bakery opened near the station, and the bread is amazing!",train,m3b60
+final/bright_m3b61_T_1_full_bright_2.wav,bright,"Finally, a day off! No work, no class, nothing!","Finally, a day off! No work, no class, nothing!",train,m3b61
+final/bright_m3b61_T_3_full_bright_2.wav,bright,"Finally, a day off! No work, no class, nothing!","Finally, a day off! No work, no class, nothing!",train,m3b61
+final/bright_m3b62_K_2_bright_calm_fill.wav,bright,I took the best photo of my life today. A fisherman and his boat at sunset.,I took the best photo of my life today. A fisherman and his boat at sunset.,train,m3b62
+final/bright_m3b62_T_1_full_bright_2.wav,bright,I took the best photo of my life today! A fisherman and his boat at sunset!,I took the best photo of my life today! A fisherman and his boat at sunset!,train,m3b62
+final/bright_m3b63_K_0_bright_calm_fill.wav,bright,There's a new Batman film coming out. I'm going on the first day.,There's a new Batman film coming out. I'm going on the first day.,train,m3b63
+final/bright_m3b63_T_2_full_bright_2.wav,bright,There's a new Batman film coming out! I'm going on the first day!,There's a new Batman film coming out! I'm going on the first day!,train,m3b63
+final/bright_m3b64_T_2_full_bright_2.wav,bright,"I finally made Paati's crab curry, and it actually tasted like hers!","I finally made Paati's crab curry, and it actually tasted like hers!",train,m3b64
+final/bright_m3b64_T_3_full_bright_2.wav,bright,"I finally made Paati's crab curry, and it actually tasted like hers!","I finally made Paati's crab curry, and it actually tasted like hers!",train,m3b64
+final/bright_m3b64_T_0_full_bright_2.wav,bright,"I finally made Paati's crab curry, and it actually tasted like hers!","I finally made Paati's crab curry, and it actually tasted like hers!",train,m3b64
+final/bright_m3b66_T_0_full_bright_2.wav,bright,"Look, the hotel in Chennai has a pool!","Look, the hotel in Chennai has a pool!",train,m3b66
+final/bright_m3b66_T_3_full_bright_2.wav,bright,"Look, the hotel in Chennai has a pool!","Look, the hotel in Chennai has a pool!",train,m3b66
+final/bright_m3b66_T_2_full_bright_2.wav,bright,"Look, the hotel in Chennai has a pool!","Look, the hotel in Chennai has a pool!",train,m3b66
+final/bright_m3b67_T_3_full_bright_2.wav,bright,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it: that film was actually really good!",val,m3b67
+final/bright_m3b67_T_0_full_bright_2.wav,bright,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it: that film was actually really good!",val,m3b67
+final/bright_m3b67_T_1_full_bright_2.wav,bright,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it: that film was actually really good!",val,m3b67
+final/bright_m3b67_T_2_full_bright_2.wav,bright,"Okay, I'll say it: that film was actually really good!","Okay, I'll say it: that film was actually really good!",val,m3b67
+final/bright_m3b68_T_2_full_bright_2.wav,bright,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window! It's beautiful!,train,m3b68
+final/bright_m3b68_T_1_full_bright_2.wav,bright,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window! It's beautiful!,train,m3b68
+final/bright_m3b68_T_3_full_bright_2.wav,bright,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window! It's beautiful!,train,m3b68
+final/bright_m3b68_T_0_full_bright_2.wav,bright,I can see the temple from the train window! It's beautiful!,I can see the temple from the train window! It's beautiful!,train,m3b68
+final/bright_m3b69_T_3_full_bright_2.wav,bright,"Yes, of course! I'd love to help!","Yes, of course! I'd love to help!",train,m3b69
+final/bright_m3b69_T_0_full_bright_2.wav,bright,"Yes, of course! I'd love to help!","Yes, of course! I'd love to help!",train,m3b69
+final/bright_m3b69_T_1_full_bright_2.wav,bright,"Yes, of course! I'd love to help!","Yes, of course! I'd love to help!",train,m3b69
+final/bright_m3b69_T_2_full_bright_2.wav,bright,"Yes, of course! I'd love to help!","Yes, of course! I'd love to help!",train,m3b69
+final/bright_m3b70_T_3_full_bright_3.wav,bright,Thank you! You really didn't have to do that!,Thank you! You really didn't have to do that!,train,m3b70
+final/bright_m3b70_T_0_full_bright_3.wav,bright,Thank you! You really didn't have to do that!,Thank you! You really didn't have to do that!,train,m3b70
+final/bright_m3b71_T_2_full_bright_3.wav,bright,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened, and we saw everything!",train,m3b71
+final/bright_m3b71_T_1_full_bright_3.wav,bright,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened, and we saw everything!",train,m3b71
+final/bright_m3b71_T_3_full_bright_3.wav,bright,"Then, just as we reached the top, the clouds opened, and we saw everything!","Then, just as we reached the top, the clouds opened, and we saw everything!",train,m3b71
+final/bright_m3b73_T_2_full_bright_3.wav,bright,"And after all that, the bus came early for once!","And after all that, the bus came early for once!",val,m3b73
+final/bright_m3b73_T_1_full_bright_3.wav,bright,"And after all that, the bus came early for once!","And after all that, the bus came early for once!",val,m3b73
+final/bright_m3b73_T_0_full_bright_3.wav,bright,"And after all that, the bus came early for once!","And after all that, the bus came early for once!",val,m3b73
+final/bright_m3b73_T_3_full_bright_3.wav,bright,"And after all that, the bus came early for once!","And after all that, the bus came early for once!",val,m3b73
+final/bright_m3b74_K_0_run31_bright_2.wav,bright,Twenty-two thousand rupees! That's exactly what I needed for the trip!,Twenty-two thousand rupees! That's exactly what I needed for the trip!,train,m3b74
+final/bright_m3b74_K_0_run32_bright_calm_2.wav,bright,Twenty-two thousand rupees. That's exactly what I needed for the trip.,Twenty-two thousand rupees. That's exactly what I needed for the trip.,train,m3b74
+final/bright_m3b75_T_3_full_bright_3.wav,bright,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally, there it was — the sea!",train,m3b75
+final/bright_m3b75_T_2_full_bright_3.wav,bright,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally, there it was — the sea!",train,m3b75
+final/bright_m3b75_T_0_full_bright_3.wav,bright,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally, there it was — the sea!",train,m3b75
+final/bright_m3b75_T_1_full_bright_3.wav,bright,"Three trains, two buses, and finally, there it was — the sea!","Three trains, two buses, and finally, there it was — the sea!",train,m3b75
+final/bright_m3xb02_T_0_full_bright_3.wav,bright,And the winner is… you!,And the winner is… you!,train,m3xb02
+final/bright_m3xb02_T_1_full_bright_3.wav,bright,And the winner is… you!,And the winner is… you!,train,m3xb02
+final/bright_m3xb03_T_2_full_bright_3.wav,bright,Guess what… I got the tickets!,Guess what… I got the tickets!,train,m3xb03
+final/bright_m3xb03_T_3_full_bright_3.wav,bright,Guess what… I got the tickets!,Guess what… I got the tickets!,train,m3xb03
+final/bright_m3xb03_T_0_full_bright_3.wav,bright,Guess what… I got the tickets!,Guess what… I got the tickets!,train,m3xb03
+final/bright_m3xb04_T_2_full_bright_3.wav,bright,Oh… look at all the lights!,Oh… look at all the lights!,train,m3xb04
+final/bright_m3xb04_T_1_full_bright_3.wav,bright,Oh… look at all the lights!,Oh… look at all the lights!,train,m3xb04
+final/bright_m3xb05_T_2_full_bright_3.wav,bright,So… I have some good news!,So… I have some good news!,train,m3xb05
+final/bright_m3xb05_T_3_full_bright_3.wav,bright,So… I have some good news!,So… I have some good news!,train,m3xb05
+final/bright_m3xb05_T_1_full_bright_3.wav,bright,So… I have some good news!,So… I have some good news!,train,m3xb05
+final/bright_m3xb05_T_0_full_bright_3.wav,bright,So… I have some good news!,So… I have some good news!,train,m3xb05
+final/bright_m3xb06_T_0_full_bright_3.wav,bright,Look… the sun's coming out!,Look… the sun's coming out!,train,m3xb06
+final/bright_m3xb07_T_3_full_bright_3.wav,bright,"Close your eyes… okay, now open them!","Close your eyes… okay, now open them!",train,m3xb07
+final/bright_m3xb07_T_0_full_bright_3.wav,bright,"Close your eyes… okay, now open them!","Close your eyes… okay, now open them!",train,m3xb07
+final/bright_m3xb07_T_1_full_bright_3.wav,bright,"Close your eyes… okay, now open them!","Close your eyes… okay, now open them!",train,m3xb07
+final/bright_m3xb07_T_2_full_bright_3.wav,bright,"Close your eyes… okay, now open them!","Close your eyes… okay, now open them!",train,m3xb07
+final/bright_m3xb08_T_1_full_bright_3.wav,bright,We won — we actually won!,We won — we actually won!,train,m3xb08
+final/bright_m3xb08_T_0_full_bright_3.wav,bright,We won — we actually won!,We won — we actually won!,train,m3xb08
+final/bright_m3xb08_T_2_full_bright_3.wav,bright,We won — we actually won!,We won — we actually won!,train,m3xb08
+final/bright_m3xb08_T_3_full_bright_3.wav,bright,We won — we actually won!,We won — we actually won!,train,m3xb08
+final/bright_m3xb09_T_1_full_bright_3.wav,bright,Look at this — it's perfect!,Look at this — it's perfect!,train,m3xb09
+final/bright_m3xb09_T_0_full_bright_3.wav,bright,Look at this — it's perfect!,Look at this — it's perfect!,train,m3xb09
+final/bright_m3xb09_T_3_full_bright_3.wav,bright,Look at this — it's perfect!,Look at this — it's perfect!,train,m3xb09
+final/bright_m3xb10_K_0_run32_bright_calm.wav,bright,"I know what we'll do, let's go to the beach.","I know what we'll do, let's go to the beach.",train,m3xb10
+final/bright_m3xb10_K_1_run32_bright_calm_2.wav,bright,"I know what we'll do, let's go to the beach.","I know what we'll do, let's go to the beach.",train,m3xb10
+final/bright_m3xb12_T_0_full_bright_3.wav,bright,The best part — no work tomorrow!,The best part — no work tomorrow!,train,m3xb12
+final/bright_m3xb12_T_2_full_bright_3.wav,bright,The best part — no work tomorrow!,The best part — no work tomorrow!,train,m3xb12
+final/bright_m3xb13_T_2_full_bright_3.wav,bright,Oh — you're here already!,Oh — you're here already!,train,m3xb13
+final/bright_m3xb13_T_0_full_bright_3.wav,bright,Oh — you're here already!,Oh — you're here already!,train,m3xb13
+final/bright_m3xb16_L_2_bright_fill_4.wav,bright,You got the job?!,You got the job?!,train,m3xb16
+final/bright_m3xb16_L_1_bright_fill_4.wav,bright,You got the job?!,You got the job?!,train,m3xb16
+final/bright_m3xb16_L_0_bright_fill_4.wav,bright,You got the job?!,You got the job?!,train,m3xb16
+final/bright_m3xb17_T_0_full_bright_3.wav,bright,Paati's really coming?!,Paati's really coming?!,train,m3xb17
+final/bright_m3xb17_T_3_full_bright_3.wav,bright,Paati's really coming?!,Paati's really coming?!,train,m3xb17
+final/bright_m3xb19_T_1_full_bright_3.wav,bright,We're going to Ella this weekend?!,We're going to Ella this weekend?!,train,m3xb19
+final/bright_m3xb19_T_0_full_bright_3.wav,bright,We're going to Ella this weekend?!,We're going to Ella this weekend?!,train,m3xb19
+final/bright_m3xb19_T_3_full_bright_3.wav,bright,We're going to Ella this weekend?!,We're going to Ella this weekend?!,train,m3xb19
+final/bright_m3xb19_T_2_full_bright_3.wav,bright,We're going to Ella this weekend?!,We're going to Ella this weekend?!,train,m3xb19
+final/bright_m3xb20_T_1_full_bright_3.wav,bright,You finally passed?!,You finally passed?!,train,m3xb20
+final/bright_m3xb20_T_0_full_bright_3.wav,bright,You finally passed?!,You finally passed?!,train,m3xb20
+final/bright_m3xb20_T_2_full_bright_3.wav,bright,You finally passed?!,You finally passed?!,train,m3xb20
+final/bright_m3xb21_L_1_bright_fill_4.wav,bright,That's for me?!,That's for me?!,train,m3xb21
+final/bright_m3xb21_L_0_bright_fill_4.wav,bright,That's for me?!,That's for me?!,train,m3xb21
+final/bright_m3xb21_L_2_bright_fill_4.wav,bright,That's for me?!,That's for me?!,train,m3xb21
+final/bright_m3xb24_L_2_bright_fill_4.wav,bright,Sam actually cooked?!,Sam actually cooked?!,val,m3xb24
+final/bright_m3xb24_L_0_bright_fill_4.wav,bright,Sam actually cooked?!,Sam actually cooked?!,val,m3xb24
+final/bright_m3xb24_L_3_bright_fill_4.wav,bright,Sam actually cooked?!,Sam actually cooked?!,val,m3xb24
+final/bright_m3xb24_L_1_bright_fill_4.wav,bright,Sam actually cooked?!,Sam actually cooked?!,val,m3xb24
+final/bright_m3xb25_T_2_full_bright_3.wav,bright,That was the BEST day!,That was the BEST day!,train,m3xb25
+final/bright_m3xb25_T_1_full_bright_3.wav,bright,That was the BEST day!,That was the BEST day!,train,m3xb25
+final/bright_m3xb25_T_3_full_bright_3.wav,bright,That was the BEST day!,That was the BEST day!,train,m3xb25
+final/bright_m3xb25_T_0_full_bright_3.wav,bright,That was the BEST day!,That was the BEST day!,train,m3xb25
+final/bright_m3xb26_T_3_full_bright_3.wav,bright,I LOVE this place!,I LOVE this place!,train,m3xb26
+final/bright_m3xb27_T_0_full_bright_3.wav,bright,You were AMAZING today!,You were AMAZING today!,train,m3xb27
+final/bright_m3xb27_T_2_full_bright_3.wav,bright,You were AMAZING today!,You were AMAZING today!,train,m3xb27
+final/bright_m3xb27_T_3_full_bright_3.wav,bright,You were AMAZING today!,You were AMAZING today!,train,m3xb27
+final/bright_m3xb27_T_1_full_bright_3.wav,bright,You were AMAZING today!,You were AMAZING today!,train,m3xb27
+final/bright_m3xb29_T_2_full_bright_4.wav,bright,This is SO good!,This is SO good!,train,m3xb29
+final/bright_m3xb30_T_2_full_bright_4.wav,bright,We did it TOGETHER!,We did it TOGETHER!,val,m3xb30
+final/bright_m3xb30_K_0_bright_fill_3.wav,bright,We did it TOGETHER!,We did it TOGETHER!,val,m3xb30
+final/bright_m3xb31_T_1_full_bright_4.wav,bright,Look how BIG he's grown!,Look how BIG he's grown!,val,m3xb31
+final/bright_m3xb31_T_3_full_bright_4.wav,bright,Look how BIG he's grown!,Look how BIG he's grown!,val,m3xb31
+final/bright_m3xb33_K_0_run32_bright_calm_2.wav,bright,That's exactly what I wanted.,That's exactly what I wanted.,train,m3xb33
+final/bright_m3xb33_K_1_run32_bright_calm_2.wav,bright,That's exactly what I wanted.,That's exactly what I wanted.,train,m3xb33
+final/bright_m3xb34_L_1_bright_fill_4.wav,bright,We're moving!,We're moving!,train,m3xb34
+final/bright_m3xb34_L_2_bright_fill_4.wav,bright,We're moving!,We're moving!,train,m3xb34
+final/bright_m3xb34_L_3_bright_fill_4.wav,bright,We're moving!,We're moving!,train,m3xb34
+final/bright_m3xb35_T_0_full_bright_4.wav,bright,It's done!,It's done!,train,m3xb35
+final/bright_m3xb35_K_2_bright_fill_3.wav,bright,It's done!,It's done!,train,m3xb35
+final/bright_m3xb37_T_2_full_bright_4.wav,bright,"See you tomorrow, then!","See you tomorrow, then!",train,m3xb37
+final/bright_m3xb37_T_0_full_bright_4.wav,bright,"See you tomorrow, then!","See you tomorrow, then!",train,m3xb37
+final/bright_m3xb37_T_3_full_bright_4.wav,bright,"See you tomorrow, then!","See you tomorrow, then!",train,m3xb37
+final/bright_m3xb37_T_1_full_bright_4.wav,bright,"See you tomorrow, then!","See you tomorrow, then!",train,m3xb37
+final/bright_m3xb38_T_1_full_bright_4.wav,bright,No more classes!,No more classes!,train,m3xb38
+final/bright_m3xb39_K_1_bright_calm_fill.wav,bright,"Wait, you're here.","Wait, you're here.",train,m3xb39
+final/bright_m3xb39_K_2_bright_calm_fill.wav,bright,"Wait, you're here.","Wait, you're here.",train,m3xb39
+final/bright_m3xb40_K_3_bright_fill_3.wav,bright,Is that… a puppy?!,Is that… a puppy?!,train,m3xb40
+final/bright_m3xb41_T_3_full_bright_4.wav,bright,Oh… you remembered!,Oh… you remembered!,train,m3xb41
+final/bright_m3xb41_T_2_full_bright_4.wav,bright,Oh… you remembered!,Oh… you remembered!,train,m3xb41
+final/bright_m3xb42_T_1_full_bright_4.wav,bright,And now… the best part!,And now… the best part!,train,m3xb42
+final/bright_m3xb42_T_3_full_bright_4.wav,bright,And now… the best part!,And now… the best part!,train,m3xb42
+final/bright_m3xb42_T_2_full_bright_4.wav,bright,And now… the best part!,And now… the best part!,train,m3xb42
+final/bright_m3xb42_T_0_full_bright_4.wav,bright,And now… the best part!,And now… the best part!,train,m3xb42
+final/bright_m3xb43_T_2_full_bright_4.wav,bright,Ready… set… go!,Ready… set… go!,val,m3xb43
+final/bright_m3xb43_T_3_full_bright_4.wav,bright,Ready… set… go!,Ready… set… go!,val,m3xb43
+final/bright_m3xb43_T_1_full_bright_4.wav,bright,Ready… set… go!,Ready… set… go!,val,m3xb43
+final/bright_m3xb44_T_3_full_bright_4.wav,bright,Look who's back… Arun!,Look who's back… Arun!,train,m3xb44
+final/bright_m3xb44_T_1_full_bright_4.wav,bright,Look who's back… Arun!,Look who's back… Arun!,train,m3xb44
+final/bright_m3xb45_T_0_full_bright_4.wav,bright,Guess where we're going… Ella!,Guess where we're going… Ella!,train,m3xb45
+final/bright_m3xb45_T_2_full_bright_4.wav,bright,Guess where we're going… Ella!,Guess where we're going… Ella!,train,m3xb45
+final/bright_m3xb45_T_3_full_bright_4.wav,bright,Guess where we're going… Ella!,Guess where we're going… Ella!,train,m3xb45
+final/bright_m3xb45_T_1_full_bright_4.wav,bright,Guess where we're going… Ella!,Guess where we're going… Ella!,train,m3xb45
+final/bright_m3xb46_T_1_full_bright_4.wav,bright,Three… two… one… happy new year!,Three… two… one… happy new year!,train,m3xb46
+final/bright_m3xb46_T_3_full_bright_4.wav,bright,Three… two… one… happy new year!,Three… two… one… happy new year!,train,m3xb46
+final/bright_m3xb46_T_0_full_bright_4.wav,bright,Three… two… one… happy new year!,Three… two… one… happy new year!,train,m3xb46
+final/bright_m3xb46_T_2_full_bright_4.wav,bright,Three… two… one… happy new year!,Three… two… one… happy new year!,train,m3xb46
+final/bright_m3xb47_T_0_full_bright_4.wav,bright,It's… perfect!,It's… perfect!,train,m3xb47
+final/bright_m3xb47_T_1_full_bright_4.wav,bright,It's… perfect!,It's… perfect!,train,m3xb47
+final/bright_m3xb48_T_1_full_bright_4.wav,bright,You did… all of this?!,You did… all of this?!,train,m3xb48
+final/bright_m3xb49_T_0_full_bright_4.wav,bright,Look — a rainbow!,Look — a rainbow!,train,m3xb49
+final/bright_m3xb49_T_2_full_bright_4.wav,bright,Look — a rainbow!,Look — a rainbow!,train,m3xb49
+final/bright_m3xb49_T_3_full_bright_4.wav,bright,Look — a rainbow!,Look — a rainbow!,train,m3xb49
+final/bright_m3xb49_T_1_full_bright_4.wav,bright,Look — a rainbow!,Look — a rainbow!,train,m3xb49
+final/bright_m4g11b_T_3_full_bright_4.wav,bright,He called me last night!,He called me last night!,train,m4g11b
+final/bright_m4g11b_T_1_full_bright_4.wav,bright,He called me last night!,He called me last night!,train,m4g11b
+final/bright_m4g12b_T_1_full_bright_4.wav,bright,They changed the plan!,They changed the plan!,train,m4g12b
+final/bright_m4g12b_T_2_full_bright_4.wav,bright,They changed the plan!,They changed the plan!,train,m4g12b
+final/bright_m4g14b_T_2_full_bright_4.wav,bright,I saw him at the market!,I saw him at the market!,train,m4g14b
+final/bright_m4g14b_T_1_full_bright_4.wav,bright,I saw him at the market!,I saw him at the market!,train,m4g14b
+final/bright_m4g14b_T_3_full_bright_4.wav,bright,I saw him at the market!,I saw him at the market!,train,m4g14b
+final/bright_m4g15b_T_3_full_bright_4.wav,bright,The letter came this morning!,The letter came this morning!,train,m4g15b
+final/bright_m4g15b_T_0_full_bright_4.wav,bright,The letter came this morning!,The letter came this morning!,train,m4g15b
+final/bright_m4g15b_T_1_full_bright_4.wav,bright,The letter came this morning!,The letter came this morning!,train,m4g15b
+final/bright_m4g15t_T_2_full_tense_4.wav,bright,The letter came this morning.,The letter came this morning.,train,m4g15t
+final/bright_m4g15t_T_1_tense_rx2.wav,bright,The letter came this morning.,The letter came this morning.,train,m4g15t
+final/bright_m4g15t_T_1_full_tense_4.wav,bright,The letter came this morning.,The letter came this morning.,train,m4g15t
+final/bright_m4g15t_T_0_tense_rx2.wav,bright,The letter came this morning.,The letter came this morning.,train,m4g15t
+final/bright_m4g16b_T_1_full_bright_4.wav,bright,She told me everything!,She told me everything!,train,m4g16b
+final/bright_m4g16b_T_3_full_bright_4.wav,bright,She told me everything!,She told me everything!,train,m4g16b
+final/bright_m4g17b_L_1_bright_fill_4.wav,bright,He finally answered!,He finally answered!,train,m4g17b
+final/bright_m4g17b_L_2_bright_fill_4.wav,bright,He finally answered!,He finally answered!,train,m4g17b
+final/bright_m4g17b_L_3_bright_fill_4.wav,bright,He finally answered!,He finally answered!,train,m4g17b
+final/bright_m4g17b_L_0_bright_fill_4.wav,bright,He finally answered!,He finally answered!,train,m4g17b
+final/bright_m4g18b_T_0_full_bright_4.wav,bright,My brother is getting married!,My brother is getting married!,train,m4g18b
+final/bright_m4g18b_T_2_full_bright_4.wav,bright,My brother is getting married!,My brother is getting married!,train,m4g18b
+final/bright_m4g18b_T_3_full_bright_4.wav,bright,My brother is getting married!,My brother is getting married!,train,m4g18b
+final/low_m3l01_T_0_full_low_1.wav,low,"Paati's in hospital again, and I'm so far away…","Paati's in hospital again, and I'm so far away…",train,m3l01
+final/low_m3l01_T_2_full_low_1.wav,low,"Paati's in hospital again, and I'm so far away…","Paati's in hospital again, and I'm so far away…",train,m3l01
+final/low_m3l02_K_1_low_scene_1.wav,low,"Amma says she's okay, but I can hear it in her voice…","Amma says she's okay, but I can hear it in her voice…",train,m3l02
+final/low_m3l02_K_0_low_scene_1.wav,low,"Amma says she's okay, but I can hear it in her voice…","Amma says she's okay, but I can hear it in her voice…",train,m3l02
+final/low_m3l03_T_0_full_low_1.wav,low,I just want to sit next to her and hold her hand.,I just want to sit next to her and hold her hand.,train,m3l03
+final/low_m3l03_T_1_full_low_1.wav,low,I just want to sit next to her and hold her hand.,I just want to sit next to her and hold her hand.,train,m3l03
+final/low_m3l04_K_2_low_fill_2.wav,low,He shouted at me in front of everyone… and I didn't say anything.,He shouted at me in front of everyone… and I didn't say anything.,train,m3l04
+final/low_m3l04_K_0_low_fill_2.wav,low,He shouted at me in front of everyone… and I didn't say anything.,He shouted at me in front of everyone… and I didn't say anything.,train,m3l04
+final/low_m3l05_K_0_low_fill_2.wav,low,I went to the back room and cried. I felt so small.,I went to the back room and cried. I felt so small.,val,m3l05
+final/low_m3l05_K_1_low_fill_2.wav,low,I went to the back room and cried. I felt so small.,I went to the back room and cried. I felt so small.,val,m3l05
+final/low_m3l06_T_3_full_low_1.wav,low,"Oh, Sam… I'm so sorry about Bruno. He was family.","Oh, Sam… I'm so sorry about Bruno. He was family.",train,m3l06
+final/low_m3l06_T_0_full_low_1.wav,low,"Oh, Sam… I'm so sorry about Bruno. He was family.","Oh, Sam… I'm so sorry about Bruno. He was family.",train,m3l06
+final/low_m3l09_K_1_low_fill_2.wav,low,I'm sorry. Do you want to talk about it?,I'm sorry. Do you want to talk about it?,train,m3l09
+final/low_m3l10_K_1_run28b_longscene.wav,low,Some nights the flat feels very quiet… and I miss Jaffna.,Some nights the flat feels very quiet… and I miss Jaffna.,train,m3l10
+final/low_m3l10_K_2_run28b_longscene.wav,low,Some nights the flat feels very quiet… and I miss Jaffna.,Some nights the flat feels very quiet… and I miss Jaffna.,train,m3l10
+final/low_m3l11_T_3_full_low_1.wav,low,"I'm tired today. I worked late, and I didn't sleep well.","I'm tired today. I worked late, and I didn't sleep well.",train,m3l11
+final/low_m3l11_T_1_full_low_1.wav,low,"I'm tired today. I worked late, and I didn't sleep well.","I'm tired today. I worked late, and I didn't sleep well.",train,m3l11
+final/low_m3l14_T_1_full_low_1.wav,low,I'm really sorry. I didn't mean to hurt you.,I'm really sorry. I didn't mean to hurt you.,train,m3l14
+final/low_m3l14_T_3_full_low_1.wav,low,I'm really sorry. I didn't mean to hurt you.,I'm really sorry. I didn't mean to hurt you.,train,m3l14
+final/low_m3l15_T_3_full_low_1.wav,low,"After that, I walked home in the rain, and I didn't even notice I was wet.","After that, I walked home in the rain, and I didn't even notice I was wet.",val,m3l15
+final/low_m3l15_T_0_full_low_1.wav,low,"After that, I walked home in the rain, and I didn't even notice I was wet.","After that, I walked home in the rain, and I didn't even notice I was wet.",val,m3l15
+final/low_m3l20_K_0_low_fill_2.wav,low,Okay… tell me everything.,Okay… tell me everything.,train,m3l20
+final/low_m3l20_K_1_low_fill_2.wav,low,Okay… tell me everything.,Okay… tell me everything.,train,m3l20
+final/low_m3l21_T_3_full_low_1.wav,low,"They took her to the hospital at night, and nobody called me until morning…","They took her to the hospital at night, and nobody called me until morning…",train,m3l21
+final/low_m3l21_T_2_full_low_1.wav,low,"They took her to the hospital at night, and nobody called me until morning…","They took her to the hospital at night, and nobody called me until morning…",train,m3l21
+final/low_m3l22_F_0_run28b_longscene.wav,low,Appa says she's sleeping a lot… and she's not eating much.,Appa says she's sleeping a lot… and she's not eating much.,train,m3l22
+final/low_m3l22_K_3_run28b_longscene.wav,low,Appa says she's sleeping a lot… and she's not eating much.,Appa says she's sleeping a lot… and she's not eating much.,train,m3l22
+final/low_m3l23_K_3_run28b_longscene.wav,low,I looked at the bus times to Jaffna three times today.,I looked at the bus times to Jaffna three times today.,train,m3l23
+final/low_m3l23_F_1_run28b_longscene.wav,low,I looked at the bus times to Jaffna three times today.,I looked at the bus times to Jaffna three times today.,train,m3l23
+final/low_m3l24_T_1_full_low_1.wav,low,I can't go home this week. The café needs me… and I hate it.,I can't go home this week. The café needs me… and I hate it.,train,m3l24
+final/low_m3l24_T_2_full_low_1.wav,low,I can't go home this week. The café needs me… and I hate it.,I can't go home this week. The café needs me… and I hate it.,train,m3l24
+final/low_m3l26_K_1_low_fill_2.wav,low,I keep saying sorry to customers… even when it's not my fault.,I keep saying sorry to customers… even when it's not my fault.,val,m3l26
+final/low_m3l26_K_2_low_fill_2.wav,low,I keep saying sorry to customers… even when it's not my fault.,I keep saying sorry to customers… even when it's not my fault.,val,m3l26
+final/low_m3l27_T_3_full_low_1.wav,low,I didn't want anyone to see me cry… but they all did.,I didn't want anyone to see me cry… but they all did.,train,m3l27
+final/low_m3l27_T_0_full_low_1.wav,low,I didn't want anyone to see me cry… but they all did.,I didn't want anyone to see me cry… but they all did.,train,m3l27
+final/low_m3l28_T_1_full_low_1.wav,low,Sam's been so quiet since Bruno died… I don't know what to say to him.,Sam's been so quiet since Bruno died… I don't know what to say to him.,train,m3l28
+final/low_m3l28_T_3_full_low_1.wav,low,Sam's been so quiet since Bruno died… I don't know what to say to him.,Sam's been so quiet since Bruno died… I don't know what to say to him.,train,m3l28
+final/low_m3l29_K_1_low_scene_1.wav,low,I miss Paati's voice. She used to sing in the kitchen.,I miss Paati's voice. She used to sing in the kitchen.,val,m3l29
+final/low_m3l29_K_0_low_scene_1.wav,low,I miss Paati's voice. She used to sing in the kitchen.,I miss Paati's voice. She used to sing in the kitchen.,val,m3l29
+final/low_m3l30_K_1_low_scene_1.wav,low,Maybe I should have stayed in Jaffna… near my family.,Maybe I should have stayed in Jaffna… near my family.,train,m3l30
+final/low_m3l30_K_0_low_scene_1.wav,low,Maybe I should have stayed in Jaffna… near my family.,Maybe I should have stayed in Jaffna… near my family.,train,m3l30
+final/low_m3l31_T_3_full_low_1.wav,low,"When I left Jaffna, Paati held my hand at the bus stand… and didn't let go.","When I left Jaffna, Paati held my hand at the bus stand… and didn't let go.",train,m3l31
+final/low_m3l31_T_0_full_low_1.wav,low,"When I left Jaffna, Paati held my hand at the bus stand… and didn't let go.","When I left Jaffna, Paati held my hand at the bus stand… and didn't let go.",train,m3l31
+final/low_m3l32_F_3_run28b_longscene.wav,low,Arun asked when I'm coming home… and I didn't have an answer.,Arun asked when I'm coming home… and I didn't have an answer.,train,m3l32
+final/low_m3l32_K_0_run28b_longscene.wav,low,Arun asked when I'm coming home… and I didn't have an answer.,Arun asked when I'm coming home… and I didn't have an answer.,train,m3l32
+final/low_m3l34_K_1_low_fill_2.wav,low,Even the sea looks grey to me today…,Even the sea looks grey to me today…,train,m3l34
+final/low_m3l34_K_0_low_fill_2.wav,low,Even the sea looks grey to me today…,Even the sea looks grey to me today…,train,m3l34
+final/low_m3l35_T_2_full_low_1.wav,low,I just want to hear her say my name again.,I just want to hear her say my name again.,train,m3l35
+final/low_m3l36_T_2_full_low_1.wav,low,Oh… I didn't know that. I'm so sorry.,Oh… I didn't know that. I'm so sorry.,val,m3l36
+final/low_m3l36_T_3_full_low_1.wav,low,Oh… I didn't know that. I'm so sorry.,Oh… I didn't know that. I'm so sorry.,val,m3l36
+final/low_m3l37_K_1_low_scene_1.wav,low,That sounds really lonely…,That sounds really lonely…,val,m3l37
+final/low_m3l37_K_0_low_scene_1.wav,low,That sounds really lonely…,That sounds really lonely…,val,m3l37
+final/low_m3l38_K_2_low_fill_2.wav,low,Oh no. Are you okay?,Oh no. Are you okay?,train,m3l38
+final/low_m3l40_K_1_low_fill_2.wav,low,Hmm… that's sad. I'm sorry it happened.,Hmm… that's sad. I'm sorry it happened.,train,m3l40
+final/low_m3l40_K_0_low_fill_2.wav,low,Hmm… that's sad. I'm sorry it happened.,Hmm… that's sad. I'm sorry it happened.,train,m3l40
+final/low_m3l41_K_1_low_fill_2.wav,low,Take all the time you need. I'm here.,Take all the time you need. I'm here.,train,m3l41
+final/low_m3l50_K_1_run28b_longscene.wav,low,"Priya's gone home for the weekend, so the flat's empty.","Priya's gone home for the weekend, so the flat's empty.",train,m3l50
+final/low_m3l50_F_1_run28b_longscene.wav,low,"Priya's gone home for the weekend, so the flat's empty.","Priya's gone home for the weekend, so the flat's empty.",train,m3l50
+final/low_m3l51_T_3_full_low_2.wav,low,I'm too tired to cook tonight… I'll just have some bread.,I'm too tired to cook tonight… I'll just have some bread.,train,m3l51
+final/low_m3l51_T_2_full_low_2.wav,low,I'm too tired to cook tonight… I'll just have some bread.,I'm too tired to cook tonight… I'll just have some bread.,train,m3l51
+final/low_m3l53_K_0_low_fill_2.wav,low,"Sometimes I eat lunch alone in the park, and I watch the families.","Sometimes I eat lunch alone in the park, and I watch the families.",train,m3l53
+final/low_m3l53_K_1_low_fill_2.wav,low,"Sometimes I eat lunch alone in the park, and I watch the families.","Sometimes I eat lunch alone in the park, and I watch the families.",train,m3l53
+final/low_m3l54_K_1_low_scene_1.wav,low,My feet hurt so much after work tonight…,My feet hurt so much after work tonight…,train,m3l54
+final/low_m3l54_K_0_low_scene_1.wav,low,My feet hurt so much after work tonight…,My feet hurt so much after work tonight…,train,m3l54
+final/low_m3l55_T_0_full_low_2.wav,low,"I wanted to call home, but it was too late… they were already asleep.","I wanted to call home, but it was too late… they were already asleep.",train,m3l55
+final/low_m3l55_T_2_full_low_2.wav,low,"I wanted to call home, but it was too late… they were already asleep.","I wanted to call home, but it was too late… they were already asleep.",train,m3l55
+final/low_m3l56_K_3_run28b_longscene.wav,low,Nobody remembered my birthday this year… except Priya.,Nobody remembered my birthday this year… except Priya.,train,m3l56
+final/low_m3l56_K_1_run28b_longscene.wav,low,Nobody remembered my birthday this year… except Priya.,Nobody remembered my birthday this year… except Priya.,train,m3l56
+final/low_m3l57_T_3_full_low_2.wav,low,I don't feel like talking today… sorry.,I don't feel like talking today… sorry.,train,m3l57
+final/low_m3l57_T_2_full_low_2.wav,low,I don't feel like talking today… sorry.,I don't feel like talking today… sorry.,train,m3l57
+final/low_m3l59_T_2_full_low_2.wav,low,I think I'm getting a cold… my head's so heavy.,I think I'm getting a cold… my head's so heavy.,train,m3l59
+final/low_m3l59_T_0_full_low_2.wav,low,I think I'm getting a cold… my head's so heavy.,I think I'm getting a cold… my head's so heavy.,train,m3l59
+final/low_m3l60_K_1_low_fill.wav,low,I lost my purse on the bus… with all my savings inside.,I lost my purse on the bus… with all my savings inside.,train,m3l60
+final/low_m3l60_T_1_full_low_2.wav,low,I lost my purse on the bus… with all my savings inside.,I lost my purse on the bus… with all my savings inside.,train,m3l60
+final/low_m3l61_T_3_full_low_2.wav,low,I'm sorry. I should have told you earlier.,I'm sorry. I should have told you earlier.,train,m3l61
+final/low_m3l61_T_1_full_low_2.wav,low,I'm sorry. I should have told you earlier.,I'm sorry. I should have told you earlier.,train,m3l61
+final/low_m3l63_K_2_low_fill_2.wav,low,Maybe you're right. I don't really know anymore.,Maybe you're right. I don't really know anymore.,train,m3l63
+final/low_m3l63_K_1_low_fill_2.wav,low,Maybe you're right. I don't really know anymore.,Maybe you're right. I don't really know anymore.,train,m3l63
+final/low_m3l64_T_2_full_low_2.wav,low,Please don't be angry with me… I'm trying my best.,Please don't be angry with me… I'm trying my best.,val,m3l64
+final/low_m3l64_T_3_full_low_2.wav,low,Please don't be angry with me… I'm trying my best.,Please don't be angry with me… I'm trying my best.,val,m3l64
+final/low_m3l65_T_2_full_low_2.wav,low,I haven't listened to music for days… it just doesn't feel the same.,I haven't listened to music for days… it just doesn't feel the same.,train,m3l65
+final/low_m3l65_T_0_full_low_2.wav,low,I haven't listened to music for days… it just doesn't feel the same.,I haven't listened to music for days… it just doesn't feel the same.,train,m3l65
+final/low_m3l66_K_3_run28b_longscene.wav,low,I watched an old film tonight… the one Paati liked.,I watched an old film tonight… the one Paati liked.,train,m3l66
+final/low_m3l66_K_1_run28b_longscene.wav,low,I watched an old film tonight… the one Paati liked.,I watched an old film tonight… the one Paati liked.,train,m3l66
+final/low_m3l67_T_3_full_low_2.wav,low,I deleted all the photos by mistake… a whole year of photos.,I deleted all the photos by mistake… a whole year of photos.,train,m3l67
+final/low_m3l67_T_2_full_low_2.wav,low,I deleted all the photos by mistake… a whole year of photos.,I deleted all the photos by mistake… a whole year of photos.,train,m3l67
+final/low_m3l68_T_1_full_low_2.wav,low,Sam's team lost the final… he didn't say a word all evening.,Sam's team lost the final… he didn't say a word all evening.,train,m3l68
+final/low_m3l68_T_0_full_low_2.wav,low,Sam's team lost the final… he didn't say a word all evening.,Sam's team lost the final… he didn't say a word all evening.,train,m3l68
+final/low_m3l69_T_1_full_low_2.wav,low,"I tried to cook her curry tonight, but it didn't taste the same…","I tried to cook her curry tonight, but it didn't taste the same…",train,m3l69
+final/low_m3l69_T_3_full_low_2.wav,low,"I tried to cook her curry tonight, but it didn't taste the same…","I tried to cook her curry tonight, but it didn't taste the same…",train,m3l69
+final/low_m3l70_K_1_low_scene_1.wav,low,"First the bus didn't come, then it started raining, and then my phone died.","First the bus didn't come, then it started raining, and then my phone died.",train,m3l70
+final/low_m3l70_K_0_low_scene_1.wav,low,"First the bus didn't come, then it started raining, and then my phone died.","First the bus didn't come, then it started raining, and then my phone died.",train,m3l70
+final/low_m3l72_K_0_low_fill_2.wav,low,"After the call, I just sat there… for a long time.","After the call, I just sat there… for a long time.",train,m3l72
+final/low_m3l72_K_1_low_fill_2.wav,low,"After the call, I just sat there… for a long time.","After the call, I just sat there… for a long time.",train,m3l72
+final/low_m3l73_T_3_full_low_2.wav,low,"So in the end, I walked home alone… and it was dark.","So in the end, I walked home alone… and it was dark.",train,m3l73
+final/low_m3l73_T_0_full_low_2.wav,low,"So in the end, I walked home alone… and it was dark.","So in the end, I walked home alone… and it was dark.",train,m3l73
+final/low_m3l74_T_3_full_low_2.wav,low,Three weeks… thirty-three days… I'm counting every day.,Three weeks… thirty-three days… I'm counting every day.,train,m3l74
+final/low_m3l74_T_0_full_low_2.wav,low,Three weeks… thirty-three days… I'm counting every day.,Three weeks… thirty-three days… I'm counting every day.,train,m3l74
+final/low_m3l75_K_0_low_fill_2.wav,low,"The thick, grey clouds stayed there the whole weekend.","The thick, grey clouds stayed there the whole weekend.",train,m3l75
+final/low_m3l75_K_1_low_fill_2.wav,low,"The thick, grey clouds stayed there the whole weekend.","The thick, grey clouds stayed there the whole weekend.",train,m3l75
+final/low_m3xl01_K_0_low_scene_1.wav,low,Do you think she's okay?,Do you think she's okay?,train,m3xl01
+final/low_m3xl01_K_1_low_scene_1.wav,low,Do you think she's okay?,Do you think she's okay?,train,m3xl01
+final/low_m3xl02_K_0_low_fill_2.wav,low,Why didn't you tell me sooner?,Why didn't you tell me sooner?,train,m3xl02
+final/low_m3xl02_K_0_low_scene_1.wav,low,Why didn't you tell me sooner?,Why didn't you tell me sooner?,train,m3xl02
+final/low_m3xl05_T_1_full_low_2.wav,low,Can we talk tomorrow instead?,Can we talk tomorrow instead?,train,m3xl05
+final/low_m3xl06_K_1_low_scene_1.wav,low,Did he ask about me?,Did he ask about me?,train,m3xl06
+final/low_m3xl06_K_0_low_scene_1.wav,low,Did he ask about me?,Did he ask about me?,train,m3xl06
+final/low_m3xl07_K_0_low_scene_1.wav,low,I miss her so much!,I miss her so much!,train,m3xl07
+final/low_m3xl07_K_1_low_scene_1.wav,low,I miss her so much!,I miss her so much!,train,m3xl07
+final/low_m3xl08_K_1_low_scene_1.wav,low,I just wanted one good day!,I just wanted one good day!,train,m3xl08
+final/low_m3xl08_K_0_low_scene_1.wav,low,I just wanted one good day!,I just wanted one good day!,train,m3xl08
+final/low_m3xl10_K_1_low_scene_1.wav,low,I tried so hard!,I tried so hard!,train,m3xl10
+final/low_m3xl10_K_0_low_scene_1.wav,low,I tried so hard!,I tried so hard!,train,m3xl10
+final/low_m3xl11_K_2_low_fill_2.wav,low,I wish I was home!,I wish I was home!,train,m3xl11
+final/low_m3xl11_K_1_low_fill_2.wav,low,I wish I was home!,I wish I was home!,train,m3xl11
+final/low_m3xl12_T_3_full_low_3.wav,low,I'm so tired of being alone!,I'm so tired of being alone!,train,m3xl12
+final/low_m3xl12_T_0_full_low_3.wav,low,I'm so tired of being alone!,I'm so tired of being alone!,train,m3xl12
+final/low_m3xl14_K_2_low_fill_2.wav,low,I should have been there!,I should have been there!,train,m3xl14
+final/low_m3xl14_K_0_low_fill_2.wav,low,I should have been there!,I should have been there!,train,m3xl14
+final/low_m3xl15_T_3_full_low_3.wav,low,I wanted to say — never mind.,I wanted to say — never mind.,train,m3xl15
+final/low_m3xl15_T_1_full_low_3.wav,low,I wanted to say — never mind.,I wanted to say — never mind.,train,m3xl15
+final/low_m3xl16_K_1_low_fill_2.wav,low,She was fine yesterday — and now this.,She was fine yesterday — and now this.,train,m3xl16
+final/low_m3xl16_K_0_low_fill_2.wav,low,She was fine yesterday — and now this.,She was fine yesterday — and now this.,train,m3xl16
+final/low_m3xl17_T_1_full_low_3.wav,low,I tried to call — but nobody answered.,I tried to call — but nobody answered.,train,m3xl17
+final/low_m3xl17_T_2_full_low_3.wav,low,I tried to call — but nobody answered.,I tried to call — but nobody answered.,train,m3xl17
+final/low_m3xl18_K_2_low_fill_2.wav,low,It's just — I really miss them.,It's just — I really miss them.,train,m3xl18
+final/low_m3xl18_T_3_full_low_3.wav,low,It's just — I really miss them.,It's just — I really miss them.,train,m3xl18
+final/low_m3xl19_K_1_low_scene_1.wav,low,We had plans — big plans.,We had plans — big plans.,train,m3xl19
+final/low_m3xl19_K_0_low_scene_1.wav,low,We had plans — big plans.,We had plans — big plans.,train,m3xl19
+final/low_m3xl21_K_0_low_scene_1.wav,low,He used to sing — every morning.,He used to sing — every morning.,train,m3xl21
+final/low_m3xl21_K_1_low_scene_1.wav,low,He used to sing — every morning.,He used to sing — every morning.,train,m3xl21
+final/low_m3xl22_K_0_low_scene_1.wav,low,I didn't mean it — I'm sorry.,I didn't mean it — I'm sorry.,train,m3xl22
+final/low_m3xl22_K_1_low_scene_1.wav,low,I didn't mean it — I'm sorry.,I didn't mean it — I'm sorry.,train,m3xl22
+final/low_m3xl23_T_0_full_low_3.wav,low,One more week — then I can go home.,One more week — then I can go home.,val,m3xl23
+final/low_m3xl23_T_2_full_low_3.wav,low,One more week — then I can go home.,One more week — then I can go home.,val,m3xl23
+final/low_m3xl35_K_0_low_scene_2.wav,low,I really TRIED.,I really TRIED.,train,m3xl35
+final/low_m3xl35_K_1_low_scene_2.wav,low,I really TRIED.,I really TRIED.,train,m3xl35
+final/low_m3xl36_K_0_low_scene_2.wav,low,Nobody ASKED me.,Nobody ASKED me.,train,m3xl36
+final/low_m3xl36_K_1_low_scene_2.wav,low,Nobody ASKED me.,Nobody ASKED me.,train,m3xl36
+final/low_m3xl37_T_1_full_low_3.wav,low,I just wanted to say GOODBYE.,I just wanted to say GOODBYE.,val,m3xl37
+final/low_m3xl37_T_0_full_low_3.wav,low,I just wanted to say GOODBYE.,I just wanted to say GOODBYE.,val,m3xl37
+final/low_m3xl38_K_1_low_scene_2.wav,low,It was MY fault.,It was MY fault.,train,m3xl38
+final/low_m3xl38_K_0_low_scene_2.wav,low,It was MY fault.,It was MY fault.,train,m3xl38
+final/low_m3xl39_K_2_low_fill_2.wav,low,I miss her EVERY day.,I miss her EVERY day.,train,m3xl39
+final/low_m3xl39_K_1_low_fill_2.wav,low,I miss her EVERY day.,I miss her EVERY day.,train,m3xl39
+final/low_m3xl41_K_0_low_scene_2.wav,low,I didn't even get to SEE her.,I didn't even get to SEE her.,train,m3xl41
+final/low_m3xl41_K_1_low_scene_2.wav,low,I didn't even get to SEE her.,I didn't even get to SEE her.,train,m3xl41
+final/low_m3xl42_K_1_low_scene_2.wav,low,It's been SO long.,It's been SO long.,train,m3xl42
+final/low_m3xl42_K_0_low_scene_2.wav,low,It's been SO long.,It's been SO long.,train,m3xl42
+final/low_m3xl43_T_0_full_low_3.wav,low,I should have STAYED.,I should have STAYED.,train,m3xl43
+final/low_m3xl43_T_1_full_low_3.wav,low,I should have STAYED.,I should have STAYED.,train,m3xl43
+final/low_m3xl44_K_1_low_fill_2.wav,low,NOBODY called.,NOBODY called.,train,m3xl44
+final/low_m3xl44_K_0_low_fill_2.wav,low,NOBODY called.,NOBODY called.,train,m3xl44
+final/low_m3xl45_K_0_low_scene_2.wav,low,We're moving…,We're moving…,train,m3xl45
+final/low_m3xl45_K_1_low_scene_2.wav,low,We're moving…,We're moving…,train,m3xl45
+final/low_m3xl46_K_0_low_scene_2.wav,low,It's done…,It's done…,train,m3xl46
+final/low_m3xl46_K_1_low_scene_2.wav,low,It's done…,It's done…,train,m3xl46
+final/low_m3xl47_K_2_low_fill_2.wav,low,Oh… you're back.,Oh… you're back.,train,m3xl47
+final/low_m3xl47_K_1_low_scene_2.wav,low,Oh… you're back.,Oh… you're back.,train,m3xl47
+final/low_m3xl48_K_0_low_scene_2.wav,low,"Tomorrow, then…","Tomorrow, then…",train,m3xl48
+final/low_m3xl48_K_1_low_scene_2.wav,low,"Tomorrow, then…","Tomorrow, then…",train,m3xl48
+final/low_m3xl49_K_2_low_fill_2.wav,low,No more classes…,No more classes…,train,m3xl49
+final/low_m3xl49_K_1_low_scene_2.wav,low,No more classes…,No more classes…,train,m3xl49
+final/low_m3xl52_K_1_low_scene_2.wav,low,Nobody listens to me!,Nobody listens to me!,train,m3xl52
+final/low_m3xl52_K_0_low_scene_2.wav,low,Nobody listens to me!,Nobody listens to me!,train,m3xl52
+final/low_m3xl53_K_0_low_scene_2.wav,low,I miss Jaffna so much!,I miss Jaffna so much!,train,m3xl53
+final/low_m3xl53_K_1_low_scene_2.wav,low,I miss Jaffna so much!,I miss Jaffna so much!,train,m3xl53
+final/low_m3xl54_K_0_low_scene_2.wav,low,"I'm so sorry, Paati!","I'm so sorry, Paati!",train,m3xl54
+final/low_m3xl54_K_1_low_scene_2.wav,low,"I'm so sorry, Paati!","I'm so sorry, Paati!",train,m3xl54
+final/low_m3xl55_K_0_low_fill.wav,low,I wanted to be there for her.,I wanted to be there for her.,train,m3xl55
+final/low_m3xl55_T_3_full_low_4.wav,low,I wanted to be there for her!,I wanted to be there for her!,train,m3xl55
+final/low_m3xl56_K_0_low_fill_2.wav,low,Everything went wrong!,Everything went wrong!,train,m3xl56
+final/low_m3xl56_K_2_low_fill_2.wav,low,Everything went wrong!,Everything went wrong!,train,m3xl56
+final/low_m3xl57_T_1_full_low_4.wav,low,I'm tired of saying goodbye!,I'm tired of saying goodbye!,train,m3xl57
+final/low_m3xl57_T_2_full_low_4.wav,low,I'm tired of saying goodbye!,I'm tired of saying goodbye!,train,m3xl57
+final/low_m3xl59_K_0_low_scene_2.wav,low,I should never have left!,I should never have left!,train,m3xl59
+final/low_m3xl59_K_1_low_scene_2.wav,low,I should never have left!,I should never have left!,train,m3xl59
+final/low_m3xl61_K_1_low_scene_2.wav,low,I lost everything!,I lost everything!,train,m3xl61
+final/low_m3xl61_K_0_low_scene_2.wav,low,I lost everything!,I lost everything!,train,m3xl61
+final/low_m3xl62_K_1_low_scene_2.wav,low,I really thought he cared!,I really thought he cared!,train,m3xl62
+final/low_m3xl62_K_0_low_scene_2.wav,low,I really thought he cared!,I really thought he cared!,train,m3xl62
+final/low_m3xl64_K_0_low_scene_2.wav,low,I just needed a hug!,I just needed a hug!,train,m3xl64
+final/low_m3xl64_K_1_low_scene_2.wav,low,I just needed a hug!,I just needed a hug!,train,m3xl64
+final/low_m3xl65_K_0_low_fill_2.wav,low,It hurts so much!,It hurts so much!,val,m3xl65
+final/low_m3xl65_K_1_low_fill_2.wav,low,It hurts so much!,It hurts so much!,val,m3xl65
+final/low_m3xl66_K_1_low_scene_2.wav,low,I waited all day for nothing!,I waited all day for nothing!,train,m3xl66
+final/low_m3xl66_K_0_low_scene_2.wav,low,I waited all day for nothing!,I waited all day for nothing!,train,m3xl66
+final/low_m3xl69_T_0_full_low_4.wav,low,I almost called you — but I couldn't.,I almost called you — but I couldn't.,train,m3xl69
+final/low_m3xl69_T_3_full_low_4.wav,low,I almost called you — but I couldn't.,I almost called you — but I couldn't.,train,m3xl69
+final/low_m4g12l_K_1_low_scene_2.wav,low,They changed the plan…,They changed the plan…,train,m4g12l
+final/low_m4g12l_K_0_low_fill_2.wav,low,They changed the plan…,They changed the plan…,train,m4g12l
+final/low_m4g14l_K_0_low_scene_2.wav,low,I saw him at the market…,I saw him at the market…,train,m4g14l
+final/low_m4g14l_K_1_low_scene_2.wav,low,I saw him at the market…,I saw him at the market…,train,m4g14l
+final/low_m4g15l_K_1_low_scene_2.wav,low,The letter came this morning…,The letter came this morning…,train,m4g15l
+final/low_m4g15l_K_0_low_scene_2.wav,low,The letter came this morning…,The letter came this morning…,train,m4g15l
+final/low_m4g16l_T_0_full_low_4.wav,low,She told me everything…,She told me everything…,train,m4g16l
+final/low_m4g16l_T_3_full_low_4.wav,low,She told me everything…,She told me everything…,train,m4g16l
+final/low_m4g17l_K_1_low_scene_2.wav,low,He finally answered…,He finally answered…,val,m4g17l
+final/low_m4g17l_K_0_low_fill_2.wav,low,He finally answered…,He finally answered…,val,m4g17l
+final/low_m4g20l_K_0_low_fill_2.wav,low,That was my last exam…,That was my last exam…,train,m4g20l
+final/low_m4g20l_K_0_low_scene_2.wav,low,That was my last exam…,That was my last exam…,train,m4g20l
+final/low_m4l01_K_1_low_scene_2.wav,low,It's Monday again…,It's Monday again…,train,m4l01
+final/low_m4l01_K_0_low_scene_2.wav,low,It's Monday again…,It's Monday again…,train,m4l01
+final/low_m4l02_K_1_low_fill_2.wav,low,I keep reading her old messages…,I keep reading her old messages…,val,m4l02
+final/low_m4l02_K_2_low_fill_2.wav,low,I keep reading her old messages…,I keep reading her old messages…,val,m4l02
+final/low_m4l03_T_3_full_low_4.wav,low,The house feels so empty without him.,The house feels so empty without him.,train,m4l03
+final/low_m4l03_T_1_full_low_4.wav,low,The house feels so empty without him.,The house feels so empty without him.,train,m4l03
+final/low_m4l04_T_0_full_low_4.wav,low,"I wanted to tell her, but it was too late.","I wanted to tell her, but it was too late.",train,m4l04
+final/low_m4l04_T_2_full_low_4.wav,low,"I wanted to tell her, but it was too late.","I wanted to tell her, but it was too late.",train,m4l04
+final/low_m4l05_T_1_full_low_4.wav,low,Nobody even noticed I was gone.,Nobody even noticed I was gone.,train,m4l05
+final/low_m4l05_T_0_full_low_4.wav,low,Nobody even noticed I was gone.,Nobody even noticed I was gone.,train,m4l05
+final/low_m4l06_T_2_full_low_4.wav,low,I'm just so tired of waiting.,I'm just so tired of waiting.,train,m4l06
+final/low_m4l06_T_0_full_low_4.wav,low,I'm just so tired of waiting.,I'm just so tired of waiting.,train,m4l06
+final/low_m4l07_T_1_full_low_4.wav,low,I don't think she's coming back…,I don't think she's coming back…,train,m4l07
+final/low_m4l07_T_2_full_low_4.wav,low,I don't think she's coming back…,I don't think she's coming back…,train,m4l07
+final/normal_m3l13_T_0_full_normal_2.wav,normal,Don't worry about mistakes. Everyone makes them.,Don't worry about mistakes. Everyone makes them.,train,m3l13
+final/normal_m3l13_T_1_full_normal_2.wav,normal,Don't worry about mistakes. Everyone makes them.,Don't worry about mistakes. Everyone makes them.,train,m3l13
+final/normal_m3l44_T_2_full_normal_2.wav,normal,It's okay if you don't know the word. Just say what you can.,It's okay if you don't know the word. Just say what you can.,train,m3l44
+final/normal_m3l44_T_0_full_normal_2.wav,normal,It's okay if you don't know the word. Just say what you can.,It's okay if you don't know the word. Just say what you can.,train,m3l44
+final/normal_m3l45_T_3_normal_fill_1.wav,normal,"That's alright, we can come back to this one later.","That's alright, we can come back to this one later.",train,m3l45
+final/normal_m3l45_T_0_normal_fill_1.wav,normal,"That's alright, we can come back to this one later.","That's alright, we can come back to this one later.",train,m3l45
+final/normal_m3n04_T_1_full_normal_1.wav,normal,"It's been raining all week, and my shoes are still wet.","It's been raining all week, and my shoes are still wet.",train,m3n04
+final/normal_m3n04_T_3_normal_fill_1.wav,normal,"It's been raining all week, and my shoes are still wet.","It's been raining all week, and my shoes are still wet.",train,m3n04
+final/normal_m3n05_T_2_full_normal_1.wav,normal,"Do you usually study at home, or do you go to the library?","Do you usually study at home, or do you go to the library?",train,m3n05
+final/normal_m3n05_T_0_full_normal_1.wav,normal,"Do you usually study at home, or do you go to the library?","Do you usually study at home, or do you go to the library?",train,m3n05
+final/normal_m3n08_T_3_normal_fill_1.wav,normal,"My cousin Priya and I share a small flat, and it's always a bit messy.","My cousin Priya and I share a small flat, and it's always a bit messy.",train,m3n08
+final/normal_m3n09_T_0_full_normal_1.wav,normal,Where do you usually go on weekends?,Where do you usually go on weekends?,train,m3n09
+final/normal_m3n12_T_0_normal_fill_1.wav,normal,"Hmm, interesting. And then what did you say?","Hmm, interesting. And then what did you say?",train,m3n12
+final/normal_m3n12_T_1_normal_fill_1.wav,normal,"Hmm, interesting. And then what did you say?","Hmm, interesting. And then what did you say?",train,m3n12
+final/normal_m3n14_T_1_full_normal_1.wav,normal,Fair enough. I think I'd do the same.,Fair enough. I think I'd do the same.,train,m3n14
+final/normal_m3n16_T_3_full_normal_1.wav,normal,"Listen first, and then say it back to me.","Listen first, and then say it back to me.",train,m3n16
+final/normal_m3n16_T_0_full_normal_1.wav,normal,"Listen first, and then say it back to me.","Listen first, and then say it back to me.",train,m3n16
+final/normal_m3n20_T_3_normal_fill_3.wav,normal,"Can you say that again, a little slower?","Can you say that again, a little slower?",train,m3n20
+final/normal_m3n20_T_3_normal_fill_1.wav,normal,"Can you say that again, a little slower?","Can you say that again, a little slower?",train,m3n20
+final/normal_m3n21_T_3_normal_fill_1.wav,normal,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""","Here's one way to say it: ""Usually I get up at six, but today I slept late.""",train,m3n21
+final/normal_m3n21_T_3_normal_fill_3.wav,normal,"Here's one way to say it: ""Usually I get up at six, but today I slept late.""","Here's one way to say it: ""Usually I get up at six, but today I slept late.""",train,m3n21
+final/normal_m3n22_T_1_full_normal_1.wav,normal,"Let's try a longer answer this time. Use ""and"" or ""but"".","Let's try a longer answer this time. Use ""and"" or ""but"".",train,m3n22
+final/normal_m3n22_T_0_full_normal_1.wav,normal,"Let's try a longer answer this time. Use ""and"" or ""but"".","Let's try a longer answer this time. Use ""and"" or ""but"".",train,m3n22
+final/normal_m3n23_T_1_full_normal_1.wav,normal,"I start as shift leader on Monday, so I need to learn the schedule.","I start as shift leader on Monday, so I need to learn the schedule.",val,m3n23
+final/normal_m3n23_T_3_normal_fill_3.wav,normal,"I start as shift leader on Monday, so I need to learn the schedule.","I start as shift leader on Monday, so I need to learn the schedule.",val,m3n23
+final/normal_m3n24_T_0_full_normal_1.wav,normal,"Sam's mum is home with the baby now, and everyone's helping.","Sam's mum is home with the baby now, and everyone's helping.",train,m3n24
+final/normal_m3n24_T_1_full_normal_1.wav,normal,"Sam's mum is home with the baby now, and everyone's helping.","Sam's mum is home with the baby now, and everyone's helping.",train,m3n24
+final/normal_m3n26_T_2_full_normal_1.wav,normal,"Would you mind moving your bag, please? I'd like to sit down.","Would you mind moving your bag, please? I'd like to sit down.",train,m3n26
+final/normal_m3n26_T_1_full_normal_1.wav,normal,"Would you mind moving your bag, please? I'd like to sit down.","Would you mind moving your bag, please? I'd like to sit down.",train,m3n26
+final/normal_m3n27_T_1_full_normal_1.wav,normal,"I'm sorry, but I think you're next in the queue, not me.","I'm sorry, but I think you're next in the queue, not me.",train,m3n27
+final/normal_m3n27_T_2_full_normal_1.wav,normal,"I'm sorry, but I think you're next in the queue, not me.","I'm sorry, but I think you're next in the queue, not me.",train,m3n27
+final/normal_m3n31_T_2_full_normal_1.wav,normal,"First I made the tea, then I cleaned the tables, and after that I finally sat down.","First I made the tea, then I cleaned the tables, and after that I finally sat down.",train,m3n31
+final/normal_m3n31_T_0_full_normal_1.wav,normal,"First I made the tea, then I cleaned the tables, and after that I finally sat down.","First I made the tea, then I cleaned the tables, and after that I finally sat down.",train,m3n31
+final/normal_m3n32_T_0_full_normal_1.wav,normal,"Meanwhile, Priya was on the phone with her mum, so I cooked dinner.","Meanwhile, Priya was on the phone with her mum, so I cooked dinner.",train,m3n32
+final/normal_m3n32_T_2_full_normal_1.wav,normal,"Meanwhile, Priya was on the phone with her mum, so I cooked dinner.","Meanwhile, Priya was on the phone with her mum, so I cooked dinner.",train,m3n32
+final/normal_m3n33_T_0_full_normal_1.wav,normal,"There are three things on the list: rice, vegetables, and the thick yellow dal.","There are three things on the list: rice, vegetables, and the thick yellow dal.",train,m3n33
+final/normal_m3n33_T_3_full_normal_1.wav,normal,"There are three things on the list: rice, vegetables, and the thick yellow dal.","There are three things on the list: rice, vegetables, and the thick yellow dal.",train,m3n33
+final/normal_m3n34_T_3_full_normal_1.wav,normal,"The train leaves at seven thirty, and the ticket is four hundred and fifty rupees.","The train leaves at seven thirty, and the ticket is four hundred and fifty rupees.",train,m3n34
+final/normal_m3n34_T_2_full_normal_1.wav,normal,"The train leaves at seven thirty, and the ticket is four hundred and fifty rupees.","The train leaves at seven thirty, and the ticket is four hundred and fifty rupees.",train,m3n34
+final/normal_m3n36_T_2_full_normal_1.wav,normal,"Thenuka, Kavi and Nimal: three brothers in one small house.","Thenuka, Kavi and Nimal: three brothers in one small house.",train,m3n36
+final/normal_m3n36_T_1_normal_fill_1.wav,normal,"Thenuka, Kavi and Nimal: three brothers in one small house.","Thenuka, Kavi and Nimal: three brothers in one small house.",train,m3n36
+final/normal_m3n40_T_2_normal_fill_1.wav,normal,"Okay, tell me everything.","Okay, tell me everything.",train,m3n40
+final/normal_m3n40_T_0_full_normal_1.wav,normal,"Okay, tell me everything.","Okay, tell me everything.",train,m3n40
+final/normal_m3n41_T_0_full_normal_1.wav,normal,"My shift starts at five, so I usually eat something light before work.","My shift starts at five, so I usually eat something light before work.",train,m3n41
+final/normal_m3n41_T_3_full_normal_1.wav,normal,"My shift starts at five, so I usually eat something light before work.","My shift starts at five, so I usually eat something light before work.",train,m3n41
+final/normal_m3n42_T_2_full_normal_1.wav,normal,"Priya and I take turns cooking, but she always forgets to buy onions.","Priya and I take turns cooking, but she always forgets to buy onions.",train,m3n42
+final/normal_m3n42_T_3_full_normal_1.wav,normal,"Priya and I take turns cooking, but she always forgets to buy onions.","Priya and I take turns cooking, but she always forgets to buy onions.",train,m3n42
+final/normal_m3n44_T_2_normal_fill_1.wav,normal,"I like the bus when it's empty, because I can look at the sea.","I like the bus when it's empty, because I can look at the sea.",train,m3n44
+final/normal_m3n45_T_0_full_normal_2.wav,normal,"We have a small balcony, and I keep two plants there.","We have a small balcony, and I keep two plants there.",train,m3n45
+final/normal_m3n45_T_1_normal_fill_1.wav,normal,"We have a small balcony, and I keep two plants there.","We have a small balcony, and I keep two plants there.",train,m3n45
+final/normal_m3n46_T_1_normal_fill_1.wav,normal,Do you prefer tea or coffee in the morning?,Do you prefer tea or coffee in the morning?,train,m3n46
+final/normal_m3n46_T_0_normal_fill_1.wav,normal,Do you prefer tea or coffee in the morning?,Do you prefer tea or coffee in the morning?,train,m3n46
+final/normal_m3n47_T_2_full_normal_2.wav,normal,"Our teacher gave us a lot of homework, so I'll be up late tonight.","Our teacher gave us a lot of homework, so I'll be up late tonight.",train,m3n47
+final/normal_m3n47_T_1_full_normal_2.wav,normal,"Our teacher gave us a lot of homework, so I'll be up late tonight.","Our teacher gave us a lot of homework, so I'll be up late tonight.",train,m3n47
+final/normal_m3n48_T_3_full_normal_2.wav,normal,"I bought a new umbrella last week, and I've already lost it.","I bought a new umbrella last week, and I've already lost it.",train,m3n48
+final/normal_m3n48_T_0_normal_fill_1.wav,normal,"I bought a new umbrella last week, and I've already lost it.","I bought a new umbrella last week, and I've already lost it.",train,m3n48
+final/normal_m3n49_T_2_full_normal_2.wav,normal,"Is your college far from your house, or can you walk there?","Is your college far from your house, or can you walk there?",train,m3n49
+final/normal_m3n49_T_0_full_normal_2.wav,normal,"Is your college far from your house, or can you walk there?","Is your college far from your house, or can you walk there?",train,m3n49
+final/normal_m3n50_T_1_full_normal_2.wav,normal,"The shop near the station sells the best mangoes, but it closes early.","The shop near the station sells the best mangoes, but it closes early.",train,m3n50
+final/normal_m3n50_T_2_normal_fill_1.wav,normal,"The shop near the station sells the best mangoes, but it closes early.","The shop near the station sells the best mangoes, but it closes early.",train,m3n50
+final/normal_m3n51_T_2_full_normal_2.wav,normal,Hmm… so what did your mum say about that?,Hmm… so what did your mum say about that?,train,m3n51
+final/normal_m3n53_T_1_normal_fill_1.wav,normal,That sounds nice. How long did it take to get there?,That sounds nice. How long did it take to get there?,train,m3n53
+final/normal_m3n53_T_3_normal_fill_1.wav,normal,That sounds nice. How long did it take to get there?,That sounds nice. How long did it take to get there?,train,m3n53
+final/normal_m3n55_T_1_full_normal_2.wav,normal,"Right, I understand. And how do you feel about it now?","Right, I understand. And how do you feel about it now?",train,m3n55
+final/normal_m3n55_T_3_full_normal_2.wav,normal,"Right, I understand. And how do you feel about it now?","Right, I understand. And how do you feel about it now?",train,m3n55
+final/normal_m3n56_T_2_full_normal_2.wav,normal,"Good. Now tell me about your morning, using ""first"" and ""then"".","Good. Now tell me about your morning, using ""first"" and ""then"".",train,m3n56
+final/normal_m3n56_T_1_full_normal_2.wav,normal,"Good. Now tell me about your morning, using ""first"" and ""then"".","Good. Now tell me about your morning, using ""first"" and ""then"".",train,m3n56
+final/normal_m3n57_T_1_full_normal_2.wav,normal,"Let's practise this one together. I'll say it, and you repeat it.","Let's practise this one together. I'll say it, and you repeat it.",train,m3n57
+final/normal_m3n57_T_2_full_normal_2.wav,normal,"Let's practise this one together. I'll say it, and you repeat it.","Let's practise this one together. I'll say it, and you repeat it.",train,m3n57
+final/normal_m3n58_T_0_full_normal_2.wav,normal,Try to answer with two sentences this time.,Try to answer with two sentences this time.,train,m3n58
+final/normal_m3n61_T_1_full_normal_2.wav,normal,Here's a question for you: what's the best thing about your town?,Here's a question for you: what's the best thing about your town?,train,m3n61
+final/normal_m3n61_T_0_full_normal_2.wav,normal,Here's a question for you: what's the best thing about your town?,Here's a question for you: what's the best thing about your town?,train,m3n61
+final/normal_m3n62_T_0_full_normal_2.wav,normal,Sam says the baby sleeps all day and cries all night.,Sam says the baby sleeps all day and cries all night.,train,m3n62
+final/normal_m3n62_T_2_normal_fill_1.wav,normal,Sam says the baby sleeps all day and cries all night.,Sam says the baby sleeps all day and cries all night.,train,m3n62
+final/normal_m3n63_T_1_full_normal_2.wav,normal,Being shift leader means I have to count the money at the end of the day.,Being shift leader means I have to count the money at the end of the day.,train,m3n63
+final/normal_m3n63_T_2_full_normal_2.wav,normal,Being shift leader means I have to count the money at the end of the day.,Being shift leader means I have to count the money at the end of the day.,train,m3n63
+final/normal_m3n64_T_0_normal_fill_1.wav,normal,"I'm saving a little every week for the trip, so I don't eat out much.","I'm saving a little every week for the trip, so I don't eat out much.",train,m3n64
+final/normal_m3n64_T_1_normal_fill_1.wav,normal,"I'm saving a little every week for the trip, so I don't eat out much.","I'm saving a little every week for the trip, so I don't eat out much.",train,m3n64
+final/normal_m3n65_T_3_normal_fill_1.wav,normal,"Could you send me the notes from today's class, please?","Could you send me the notes from today's class, please?",train,m3n65
+final/normal_m3n65_T_2_full_normal_2.wav,normal,"Could you send me the notes from today's class, please?","Could you send me the notes from today's class, please?",train,m3n65
+final/normal_m3n66_T_2_full_normal_2.wav,normal,"I don't agree, but I understand why you think that.","I don't agree, but I understand why you think that.",train,m3n66
+final/normal_m3n66_T_0_full_normal_2.wav,normal,"I don't agree, but I understand why you think that.","I don't agree, but I understand why you think that.",train,m3n66
+final/normal_m3n67_T_3_full_normal_2.wav,normal,"Let's wait for the others, and then we can decide together.","Let's wait for the others, and then we can decide together.",train,m3n67
+final/normal_m3n67_T_0_full_normal_2.wav,normal,"Let's wait for the others, and then we can decide together.","Let's wait for the others, and then we can decide together.",train,m3n67
+final/normal_m3n68_T_3_normal_fill_1.wav,normal,"I like old Tamil songs, especially when it's raining outside.","I like old Tamil songs, especially when it's raining outside.",train,m3n68
+final/normal_m3n68_T_1_full_normal_2.wav,normal,"I like old Tamil songs, especially when it's raining outside.","I like old Tamil songs, especially when it's raining outside.",train,m3n68
+final/normal_m3n69_T_1_normal_fill_3.wav,normal,"Sam thinks every film needs a big fight at the end, but I don't.","Sam thinks every film needs a big fight at the end, but I don't.",train,m3n69
+final/normal_m3n69_T_2_normal_fill_3.wav,normal,"Sam thinks every film needs a big fight at the end, but I don't.","Sam thinks every film needs a big fight at the end, but I don't.",train,m3n69
+final/normal_m3n70_T_3_full_normal_2.wav,normal,I usually take photos of people's hands when they're cooking.,I usually take photos of people's hands when they're cooking.,train,m3n70
+final/normal_m3n70_T_1_full_normal_2.wav,normal,I usually take photos of people's hands when they're cooking.,I usually take photos of people's hands when they're cooking.,train,m3n70
+final/normal_m3n71_T_2_full_normal_2.wav,normal,"Yesterday I missed the bus, so I took a tuk-tuk, but then we got stuck in traffic.","Yesterday I missed the bus, so I took a tuk-tuk, but then we got stuck in traffic.",train,m3n71
+final/normal_m3n71_T_1_full_normal_2.wav,normal,"Yesterday I missed the bus, so I took a tuk-tuk, but then we got stuck in traffic.","Yesterday I missed the bus, so I took a tuk-tuk, but then we got stuck in traffic.",train,m3n71
+final/normal_m3n73_T_0_normal_fill_1.wav,normal,"She thinks the third Thursday is free, but I'm not sure.","She thinks the third Thursday is free, but I'm not sure.",train,m3n73
+final/normal_m3n73_T_2_normal_fill_1.wav,normal,"She thinks the third Thursday is free, but I'm not sure.","She thinks the third Thursday is free, but I'm not sure.",train,m3n73
+final/normal_m3xl67_K_0_low_fill_3.wav,normal,Are you still awake?,Are you still awake?,train,m3xl67
+final/normal_m3xl67_K_1_low_fill_2.wav,normal,Are you still awake?,Are you still awake?,train,m3xl67
+final/normal_m3xl68_K_2_low_fill.wav,normal,Did you eat anything today?,Did you eat anything today?,train,m3xl68
+final/normal_m3xl68_K_0_low_fill_3.wav,normal,Did you eat anything today?,Did you eat anything today?,train,m3xl68
+final/normal_m3xn06_T_3_full_normal_3.wav,normal,Your turn!,Your turn!,train,m3xn06
+final/normal_m3xn07_T_1_full_normal_3.wav,normal,Don't forget your umbrella!,Don't forget your umbrella!,train,m3xn07
+final/normal_m3xn07_T_3_full_normal_3.wav,normal,Don't forget your umbrella!,Don't forget your umbrella!,train,m3xn07
+final/normal_m3xn08_T_1_full_normal_3.wav,normal,Lunch is ready!,Lunch is ready!,train,m3xn08
+final/normal_m3xn08_T_0_full_normal_3.wav,normal,Lunch is ready!,Lunch is ready!,train,m3xn08
+final/normal_m3xn09_T_1_normal_fill_1.wav,normal,"Let me think, maybe Thursday.","Let me think, maybe Thursday.",train,m3xn09
+final/normal_m3xn09_T_0_normal_fill_1.wav,normal,"Let me think, maybe Thursday.","Let me think, maybe Thursday.",train,m3xn09
+final/normal_m3xn12_T_3_full_normal_3.wav,normal,The bus is usually here by now… let's wait a bit.,The bus is usually here by now… let's wait a bit.,train,m3xn12
+final/normal_m3xn12_T_0_full_normal_3.wav,normal,The bus is usually here by now… let's wait a bit.,The bus is usually here by now… let's wait a bit.,train,m3xn12
+final/normal_m3xn15_T_2_full_normal_3.wav,normal,One more thing… bring your notes tomorrow.,One more thing… bring your notes tomorrow.,train,m3xn15
+final/normal_m3xn15_T_1_full_normal_3.wav,normal,One more thing… bring your notes tomorrow.,One more thing… bring your notes tomorrow.,train,m3xn15
+final/normal_m3xn16_T_3_normal_fill_3.wav,normal,"I was going to call, sorry, I forgot.","I was going to call, sorry, I forgot.",train,m3xn16
+final/normal_m3xn17_T_1_normal_fill_1.wav,normal,"Take the bus, it's faster than walking.","Take the bus, it's faster than walking.",train,m3xn17
+final/normal_m3xn17_T_1_full_normal_3.wav,normal,Take the bus — it's faster than walking.,Take the bus — it's faster than walking.,train,m3xn17
+final/normal_m3xn19_T_3_normal_fill_1.wav,normal,"We need three things, milk, bread and eggs.","We need three things, milk, bread and eggs.",train,m3xn19
+final/normal_m3xn19_T_1_normal_fill_1.wav,normal,"We need three things, milk, bread and eggs.","We need three things, milk, bread and eggs.",train,m3xn19
+final/normal_m3xn20_T_0_normal_fill_3.wav,normal,"My cousin, the one in Wellawatte, is coming over.","My cousin, the one in Wellawatte, is coming over.",train,m3xn20
+final/normal_m3xn20_T_1_full_normal_3.wav,normal,My cousin — the one in Wellawatte — is coming over.,My cousin — the one in Wellawatte — is coming over.,train,m3xn20
+final/normal_m3xn22_T_1_full_normal_3.wav,normal,The answer is simple — practise every day.,The answer is simple — practise every day.,train,m3xn22
+final/normal_m3xn22_T_2_full_normal_3.wav,normal,The answer is simple — practise every day.,The answer is simple — practise every day.,train,m3xn22
+final/normal_m3xn23_T_1_full_normal_3.wav,normal,I'll be there at six — maybe a bit later.,I'll be there at six — maybe a bit later.,train,m3xn23
+final/normal_m3xn23_T_3_full_normal_3.wav,normal,I'll be there at six — maybe a bit later.,I'll be there at six — maybe a bit later.,train,m3xn23
+final/normal_m3xn24_T_3_normal_fill_2.wav,normal,"Wait, which page are we on?","Wait, which page are we on?",train,m3xn24
+final/normal_m3xn25_T_3_normal_fill_2.wav,normal,"It's not far, about ten minutes on foot.","It's not far, about ten minutes on foot.",train,m3xn25
+final/normal_m3xn25_T_1_normal_fill_2.wav,normal,"It's not far, about ten minutes on foot.","It's not far, about ten minutes on foot.",train,m3xn25
+final/normal_m3xn26_T_2_normal_fill_3.wav,normal,You walked all the way here?,You walked all the way here?,train,m3xn26
+final/normal_m3xn27_T_1_full_normal_3.wav,normal,It's Monday already?!,It's Monday already?!,train,m3xn27
+final/normal_m3xn28_T_2_normal_fill_2.wav,normal,You've never had kottu?,You've never had kottu?,train,m3xn28
+final/normal_m3xn28_T_3_normal_fill_3.wav,normal,You've never had kottu?,You've never had kottu?,train,m3xn28
+final/normal_m3xn30_T_3_normal_fill_2.wav,normal,Forty minutes for one bus?,Forty minutes for one bus?,train,m3xn30
+final/normal_m3xn30_T_2_full_normal_3.wav,normal,Forty minutes for one bus?!,Forty minutes for one bus?!,train,m3xn30
+final/normal_m3xn32_T_2_normal_fill_2.wav,normal,We have a test tomorrow?,We have a test tomorrow?,train,m3xn32
+final/normal_m3xn32_T_0_normal_fill_2.wav,normal,We have a test tomorrow?,We have a test tomorrow?,train,m3xn32
+final/normal_m3xn33_T_2_full_normal_3.wav,normal,You know my cousin?!,You know my cousin?!,train,m3xn33
+final/normal_m3xn33_T_0_full_normal_3.wav,normal,You know my cousin?!,You know my cousin?!,train,m3xn33
+final/normal_m3xn34_T_3_full_normal_3.wav,normal,Is that the time?!,Is that the time?!,train,m3xn34
+final/normal_m3xn36_T_1_normal_fill_3.wav,normal,"I meant the blue bag, not the black one.","I meant the blue bag, not the black one.",train,m3xn36
+final/normal_m3xn36_T_0_normal_fill_2.wav,normal,"I meant the blue bag, not the black one.","I meant the blue bag, not the black one.",train,m3xn36
+final/normal_m3xn38_T_2_normal_fill_2.wav,normal,Put the cups on the top shelf.,Put the cups on the top shelf.,train,m3xn38
+final/normal_m3xn38_T_1_normal_fill_2.wav,normal,Put the cups on the top shelf.,Put the cups on the top shelf.,train,m3xn38
+final/normal_m3xn42_T_1_full_normal_3.wav,normal,Read the question FIRST.,Read the question FIRST.,val,m3xn42
+final/normal_m3xn42_T_2_full_normal_3.wav,normal,Read the question FIRST.,Read the question FIRST.,val,m3xn42
+final/normal_m3xn43_T_1_full_normal_3.wav,normal,The café opens at SEVEN.,The café opens at SEVEN.,train,m3xn43
+final/normal_m3xn43_T_3_full_normal_3.wav,normal,The café opens at SEVEN.,The café opens at SEVEN.,train,m3xn43
+final/normal_m3xn44_T_0_normal_fill_2.wav,normal,Use your own words.,Use your own words.,train,m3xn44
+final/normal_m3xn44_T_2_normal_fill_2.wav,normal,Use your own words.,Use your own words.,train,m3xn44
+final/normal_m3xn47_T_2_full_normal_3.wav,normal,It's done.,It's done.,train,m3xn47
+final/normal_m3xn50_T_1_normal_fill_2.wav,normal,No more classes.,No more classes.,train,m3xn50
+final/normal_m3xn50_T_3_normal_fill_2.wav,normal,No more classes.,No more classes.,train,m3xn50
+final/normal_m3xn51_T_0_normal_fill_2.wav,normal,"Welcome back, everyone.","Welcome back, everyone.",val,m3xn51
+final/normal_m3xn51_T_1_normal_fill_2.wav,normal,"Welcome back, everyone.","Welcome back, everyone.",val,m3xn51
+final/normal_m3xn53_T_3_normal_fill_2.wav,normal,See you on Monday.,See you on Monday.,train,m3xn53
+final/normal_m3xn53_T_3_normal_fill_3.wav,normal,See you on Monday.,See you on Monday.,train,m3xn53
+final/normal_m3xn56_T_2_normal_fill_2.wav,normal,Thanks for coming.,Thanks for coming.,train,m3xn56
+final/normal_m3xn56_T_1_normal_fill_2.wav,normal,Thanks for coming.,Thanks for coming.,train,m3xn56
+final/normal_m3xn60_T_3_normal_fill_2.wav,normal,"Careful, the floor's wet.","Careful, the floor's wet.",train,m3xn60
+final/normal_m3xn61_T_2_normal_fill_2.wav,normal,Last question.,Last question.,train,m3xn61
+final/normal_m3xn62_T_1_normal_fill_2.wav,normal,Ready when you are.,Ready when you are.,train,m3xn62
+final/normal_m3xn62_T_0_normal_fill_2.wav,normal,Ready when you are.,Ready when you are.,train,m3xn62
+final/normal_m3xn66_T_1_normal_fill_2.wav,normal,Back to page ten.,Back to page ten.,train,m3xn66
+final/normal_m3xn67_T_0_normal_fill_2.wav,normal,"Morning, Sam.","Morning, Sam.",train,m3xn67
+final/normal_m3xn67_T_3_normal_fill_2.wav,normal,"Morning, Sam.","Morning, Sam.",train,m3xn67
+final/normal_m3xn70_T_1_normal_fill_2.wav,normal,"The bus leaves at, seven, I think.","The bus leaves at, seven, I think.",train,m3xn70
+final/normal_m3xn70_T_0_normal_fill_2.wav,normal,"The bus leaves at, seven, I think.","The bus leaves at, seven, I think.",train,m3xn70
+final/normal_m3xn72_T_3_normal_fill_2.wav,normal,"Hmm, maybe after lunch.","Hmm, maybe after lunch.",train,m3xn72
+final/normal_m3xn72_T_1_normal_fill_2.wav,normal,"Hmm, maybe after lunch.","Hmm, maybe after lunch.",train,m3xn72
+final/normal_m3xn74_T_3_normal_fill_2.wav,normal,"So the plan is, we meet at the station.","So the plan is, we meet at the station.",train,m3xn74
+final/normal_m3xn74_T_2_normal_fill_2.wav,normal,"So the plan is, we meet at the station.","So the plan is, we meet at the station.",train,m3xn74
+final/normal_m3xn75_T_3_normal_fill_2.wav,normal,"And then, we take the train.","And then, we take the train.",train,m3xn75
+final/normal_m3xn75_T_2_normal_fill_2.wav,normal,"And then, we take the train.","And then, we take the train.",train,m3xn75
+final/normal_m3xn76_T_0_normal_fill_2.wav,normal,"Your answer was, almost right.","Your answer was, almost right.",train,m3xn76
+final/normal_m3xn76_T_2_normal_fill_2.wav,normal,"Your answer was, almost right.","Your answer was, almost right.",train,m3xn76
+final/normal_m3xn77_T_0_normal_fill_2.wav,normal,"One, two, three.","One, two, three.",train,m3xn77
+final/normal_m3xn78_T_0_normal_fill_2.wav,normal,"Two sugars, no, just one.","Two sugars, no, just one.",train,m3xn78
+final/normal_m3xn78_T_2_normal_fill_3.wav,normal,"Two sugars, no, just one.","Two sugars, no, just one.",train,m3xn78
+final/normal_m3xn79_T_3_normal_fill_2.wav,normal,Turn right at the temple.,Turn right at the temple.,train,m3xn79
+final/normal_m3xn79_T_2_normal_fill_2.wav,normal,Turn right at the temple.,Turn right at the temple.,train,m3xn79
+final/normal_m3xt02_K_2_tense_scene_1.wav,normal,Do you know what time it is?,Do you know what time it is?,train,m3xt02
+final/normal_m3xt02_K_1_tense_scene_1.wav,normal,Do you know what time it is?,Do you know what time it is?,train,m3xt02
+final/normal_m3xt48_T_0_full_tense_3.wav,normal,We're moving?!,We're moving?!,train,m3xt48
+final/normal_m3xt48_T_3_full_tense_3.wav,normal,We're moving?!,We're moving?!,train,m3xt48
+final/normal_m4g11n_T_3_normal_fill_2.wav,normal,He called me last night.,He called me last night.,train,m4g11n
+final/normal_m4g11n_T_1_normal_fill_2.wav,normal,He called me last night.,He called me last night.,train,m4g11n
+final/normal_m4g11t_T_1_tense_rx2.wav,normal,He called me last night.,He called me last night.,train,m4g11t
+final/normal_m4g11t_T_0_tense_rx2.wav,normal,He called me last night.,He called me last night.,train,m4g11t
+final/normal_m4g12n_T_1_normal_fill_2.wav,normal,They changed the plan.,They changed the plan.,val,m4g12n
+final/normal_m4g12t_K_2_tense_scene_2.wav,normal,They changed the plan.,They changed the plan.,train,m4g12t
+final/normal_m4g12t_K_1_tense_scene_2.wav,normal,They changed the plan.,They changed the plan.,train,m4g12t
+final/normal_m4g13n_T_1_normal_fill_2.wav,normal,We got the results.,We got the results.,train,m4g13n
+final/normal_m4g13n_T_2_normal_fill_2.wav,normal,We got the results.,We got the results.,train,m4g13n
+final/normal_m4g15n_T_2_normal_fill_3.wav,normal,The letter came this morning.,The letter came this morning.,train,m4g15n
+final/normal_m4g16n_T_0_normal_fill_2.wav,normal,She told me everything.,She told me everything.,train,m4g16n
+final/normal_m4g16n_T_3_normal_fill_3.wav,normal,She told me everything.,She told me everything.,train,m4g16n
+final/normal_m4g16t_K_1_tense_scene_2.wav,normal,She told me everything.,She told me everything.,val,m4g16t
+final/normal_m4g16t_T_3_tense_rx2.wav,normal,She told me everything.,She told me everything.,val,m4g16t
+final/normal_m4g17n_T_1_normal_fill_2.wav,normal,He finally answered.,He finally answered.,train,m4g17n
+final/normal_m4g17n_T_2_normal_fill_2.wav,normal,He finally answered.,He finally answered.,train,m4g17n
+final/normal_m4g18n_T_0_normal_fill_3.wav,normal,My brother is getting married.,My brother is getting married.,train,m4g18n
+final/normal_m4g18n_T_2_normal_fill_2.wav,normal,My brother is getting married.,My brother is getting married.,train,m4g18n
+final/normal_m4g19t_K_2_tense_scene_2.wav,normal,I'm going home tomorrow.,I'm going home tomorrow.,train,m4g19t
+final/normal_m4g19t_T_2_full_tense_4.wav,normal,I'm going home tomorrow.,I'm going home tomorrow.,train,m4g19t
+final/tense_m3t02_T_3_tense_rx2.wav,tense,"I said sorry twice, and he still wouldn't listen.","I said sorry twice, and he still wouldn't listen.",train,m3t02
+final/tense_m3t02_T_0_tense_rx2.wav,tense,"I said sorry twice, and he still wouldn't listen.","I said sorry twice, and he still wouldn't listen.",train,m3t02
+final/tense_m3t02_T_1_tense_rx2.wav,tense,"I said sorry twice, and he still wouldn't listen.","I said sorry twice, and he still wouldn't listen.",train,m3t02
+final/tense_m3t02_T_1_full_tense_1.wav,tense,"I said sorry twice, and he still wouldn't listen.","I said sorry twice, and he still wouldn't listen.",train,m3t02
+final/tense_m3t04_T_3_full_tense_1.wav,tense,Please lower your voice. I'm trying to help you.,Please lower your voice. I'm trying to help you.,train,m3t04
+final/tense_m3t04_T_2_full_tense_1.wav,tense,Please lower your voice. I'm trying to help you.,Please lower your voice. I'm trying to help you.,train,m3t04
+final/tense_m3t04_T_1_full_tense_1.wav,tense,Please lower your voice. I'm trying to help you.,Please lower your voice. I'm trying to help you.,train,m3t04
+final/tense_m3t05_T_1_full_tense_1.wav,tense,"I understand you're upset, but I won't accept that.","I understand you're upset, but I won't accept that.",train,m3t05
+final/tense_m3t05_T_0_full_tense_1.wav,tense,"I understand you're upset, but I won't accept that.","I understand you're upset, but I won't accept that.",train,m3t05
+final/tense_m3t05_T_3_full_tense_1.wav,tense,"I understand you're upset, but I won't accept that.","I understand you're upset, but I won't accept that.",train,m3t05
+final/tense_m3t05_T_2_full_tense_1.wav,tense,"I understand you're upset, but I won't accept that.","I understand you're upset, but I won't accept that.",train,m3t05
+final/tense_m3t07_T_0_full_tense_1.wav,tense,"No, thank you. I've already made my decision.","No, thank you. I've already made my decision.",train,m3t07
+final/tense_m3t08_T_0_full_tense_1.wav,tense,"The Wi-Fi is down again, and I have an exam tomorrow.","The Wi-Fi is down again, and I have an exam tomorrow.",train,m3t08
+final/tense_m3t08_T_3_full_tense_1.wav,tense,"The Wi-Fi is down again, and I have an exam tomorrow.","The Wi-Fi is down again, and I have an exam tomorrow.",train,m3t08
+final/tense_m3t11_T_2_full_tense_1.wav,tense,Then he threw the menu on the table and walked out without paying.,Then he threw the menu on the table and walked out without paying.,val,m3t11
+final/tense_m3t11_T_1_full_tense_hot_1.wav,tense,Then he threw the menu on the table and walked out without paying.,Then he threw the menu on the table and walked out without paying.,val,m3t11
+final/tense_m3t11_T_1_full_tense_1.wav,tense,Then he threw the menu on the table and walked out without paying.,Then he threw the menu on the table and walked out without paying.,val,m3t11
+final/tense_m3t11_T_0_full_tense_hot_1.wav,tense,Then he threw the menu on the table and walked out without paying.,Then he threw the menu on the table and walked out without paying.,val,m3t11
+final/tense_m3t12_T_1_full_tense_1.wav,tense,"He wanted three things, he changed his order twice, and then he left.","He wanted three things, he changed his order twice, and then he left.",train,m3t12
+final/tense_m3t12_T_2_full_tense_1.wav,tense,"He wanted three things, he changed his order twice, and then he left.","He wanted three things, he changed his order twice, and then he left.",train,m3t12
+final/tense_m3t14_T_1_tense_rx2.wav,tense,I can't believe she said that.,I can't believe she said that.,train,m3t14
+final/tense_m3t17_T_3_full_tense_1.wav,tense,I'm not going to say sorry for something I didn't do.,I'm not going to say sorry for something I didn't do.,train,m3t17
+final/tense_m3t17_T_2_full_tense_1.wav,tense,I'm not going to say sorry for something I didn't do.,I'm not going to say sorry for something I didn't do.,train,m3t17
+final/tense_m3t18_K_0_tense_scene_1.wav,tense,"I told my manager everything, and she said, ""Just smile."" Smile?","I told my manager everything, and she said, ""Just smile."" Smile?",train,m3t18
+final/tense_m3t18_T_3_full_tense_1.wav,tense,"I told my manager everything, and she said, ""Just smile."" Smile?","I told my manager everything, and she said, ""Just smile."" Smile?",train,m3t18
+final/tense_m3t20_T_0_full_tense_1.wav,tense,He didn't even look at me when he said it.,He didn't even look at me when he said it.,train,m3t20
+final/tense_m3t20_K_0_tense_scene_1.wav,tense,He didn't even look at me when he said it.,He didn't even look at me when he said it.,train,m3t20
+final/tense_m3t21_T_3_full_tense_1.wav,tense,Being shift leader doesn't mean I have to accept rude people.,Being shift leader doesn't mean I have to accept rude people.,train,m3t21
+final/tense_m3t21_T_0_full_tense_1.wav,tense,Being shift leader doesn't mean I have to accept rude people.,Being shift leader doesn't mean I have to accept rude people.,train,m3t21
+final/tense_m3t21_T_1_full_tense_1.wav,tense,Being shift leader doesn't mean I have to accept rude people.,Being shift leader doesn't mean I have to accept rude people.,train,m3t21
+final/tense_m3t22_T_2_full_tense_hot_1.wav,tense,"Three people saw what happened, and nobody said a word.","Three people saw what happened, and nobody said a word.",train,m3t22
+final/tense_m3t22_T_3_full_tense_hot_1.wav,tense,"Three people saw what happened, and nobody said a word.","Three people saw what happened, and nobody said a word.",train,m3t22
+final/tense_m3t22_T_2_full_tense_1.wav,tense,"Three people saw what happened, and nobody said a word.","Three people saw what happened, and nobody said a word.",train,m3t22
+final/tense_m3t22_T_0_full_tense_1.wav,tense,"Three people saw what happened, and nobody said a word.","Three people saw what happened, and nobody said a word.",train,m3t22
+final/tense_m3t23_T_1_full_tense_1.wav,tense,I'm tired of being polite to people who are never polite to me.,I'm tired of being polite to people who are never polite to me.,train,m3t23
+final/tense_m3t23_T_0_full_tense_1.wav,tense,I'm tired of being polite to people who are never polite to me.,I'm tired of being polite to people who are never polite to me.,train,m3t23
+final/tense_m3t23_T_3_full_tense_1.wav,tense,I'm tired of being polite to people who are never polite to me.,I'm tired of being polite to people who are never polite to me.,train,m3t23
+final/tense_m3t24_T_2_full_tense_1.wav,tense,"He owes the café two thousand rupees, and he's never coming back.","He owes the café two thousand rupees, and he's never coming back.",train,m3t24
+final/tense_m3t24_T_3_full_tense_hot_1.wav,tense,"He owes the café two thousand rupees, and he's never coming back.","He owes the café two thousand rupees, and he's never coming back.",train,m3t24
+final/tense_m3t24_T_3_full_tense_1.wav,tense,"He owes the café two thousand rupees, and he's never coming back.","He owes the café two thousand rupees, and he's never coming back.",train,m3t24
+final/tense_m3t24_T_0_full_tense_1.wav,tense,"He owes the café two thousand rupees, and he's never coming back.","He owes the café two thousand rupees, and he's never coming back.",train,m3t24
+final/tense_m3t25_T_0_full_tense_1.wav,tense,I didn't cry because of him. I cried because I was tired.,I didn't cry because of him. I cried because I was tired.,train,m3t25
+final/tense_m3t25_T_2_full_tense_1.wav,tense,I didn't cry because of him. I cried because I was tired.,I didn't cry because of him. I cried because I was tired.,train,m3t25
+final/tense_m3t26_T_1_full_tense_1.wav,tense,Please don't interrupt me. Let me finish.,Please don't interrupt me. Let me finish.,train,m3t26
+final/tense_m3t26_T_2_full_tense_1.wav,tense,Please don't interrupt me. Let me finish.,Please don't interrupt me. Let me finish.,train,m3t26
+final/tense_m3t26_T_0_full_tense_1.wav,tense,Please don't interrupt me. Let me finish.,Please don't interrupt me. Let me finish.,train,m3t26
+final/tense_m3t28_T_3_full_tense_1.wav,tense,That's not what we agreed. We said Friday.,That's not what we agreed. We said Friday.,train,m3t28
+final/tense_m3t28_T_0_full_tense_1.wav,tense,That's not what we agreed. We said Friday.,That's not what we agreed. We said Friday.,train,m3t28
+final/tense_m3t30_T_2_full_tense_1.wav,tense,"No. I won't do it, and that's final.","No. I won't do it, and that's final.",val,m3t30
+final/tense_m3t31_K_0_tense_scene_1.wav,tense,You can wait in the queue like everyone else.,You can wait in the queue like everyone else.,val,m3t31
+final/tense_m3t33_T_3_full_tense_1.wav,tense,Please put your phone down when I'm talking to you.,Please put your phone down when I'm talking to you.,train,m3t33
+final/tense_m3t33_T_1_full_tense_1.wav,tense,Please put your phone down when I'm talking to you.,Please put your phone down when I'm talking to you.,train,m3t33
+final/tense_m3t33_T_0_full_tense_1.wav,tense,Please put your phone down when I'm talking to you.,Please put your phone down when I'm talking to you.,train,m3t33
+final/tense_m3t33_T_2_full_tense_1.wav,tense,Please put your phone down when I'm talking to you.,Please put your phone down when I'm talking to you.,train,m3t33
+final/tense_m3t35_T_0_full_tense_1.wav,tense,"Thank you, but I don't need your advice.","Thank you, but I don't need your advice.",train,m3t35
+final/tense_m3t35_T_1_full_tense_1.wav,tense,"Thank you, but I don't need your advice.","Thank you, but I don't need your advice.",train,m3t35
+final/tense_m3t36_T_0_full_tense_1.wav,tense,"Excuse me, that's my bag. Please don't touch it.","Excuse me, that's my bag. Please don't touch it.",train,m3t36
+final/tense_m3t36_T_2_full_tense_1.wav,tense,"Excuse me, that's my bag. Please don't touch it.","Excuse me, that's my bag. Please don't touch it.",train,m3t36
+final/tense_m3t36_T_1_full_tense_1.wav,tense,"Excuse me, that's my bag. Please don't touch it.","Excuse me, that's my bag. Please don't touch it.",train,m3t36
+final/tense_m3t36_T_3_full_tense_1.wav,tense,"Excuse me, that's my bag. Please don't touch it.","Excuse me, that's my bag. Please don't touch it.",train,m3t36
+final/tense_m3t37_T_3_full_tense_1.wav,tense,"I'd like a refund, please. This is the second time it's broken.","I'd like a refund, please. This is the second time it's broken.",train,m3t37
+final/tense_m3t37_T_2_full_tense_1.wav,tense,"I'd like a refund, please. This is the second time it's broken.","I'd like a refund, please. This is the second time it's broken.",train,m3t37
+final/tense_m3t39_T_0_full_tense_1.wav,tense,I'm not angry. I'm disappointed.,I'm not angry. I'm disappointed.,train,m3t39
+final/tense_m3t39_T_1_full_tense_1.wav,tense,I'm not angry. I'm disappointed.,I'm not angry. I'm disappointed.,train,m3t39
+final/tense_m3t40_T_3_full_tense_1.wav,tense,"Next time, ask before you take something.","Next time, ask before you take something.",train,m3t40
+final/tense_m3t40_T_1_full_tense_1.wav,tense,"Next time, ask before you take something.","Next time, ask before you take something.",train,m3t40
+final/tense_m3t41_T_1_full_tense_1.wav,tense,The landlord wants more rent. Again. For the same tiny flat.,The landlord wants more rent. Again. For the same tiny flat.,train,m3t41
+final/tense_m3t41_T_2_full_tense_1.wav,tense,The landlord wants more rent. Again. For the same tiny flat.,The landlord wants more rent. Again. For the same tiny flat.,train,m3t41
+final/tense_m3t41_T_2_full_tense_hot_1.wav,tense,The landlord wants more rent. Again. For the same tiny flat.,The landlord wants more rent. Again. For the same tiny flat.,train,m3t41
+final/tense_m3t42_T_1_full_tense_1.wav,tense,The bus driver didn't stop. I was standing right there.,The bus driver didn't stop. I was standing right there.,train,m3t42
+final/tense_m3t42_T_3_full_tense_1.wav,tense,The bus driver didn't stop. I was standing right there.,The bus driver didn't stop. I was standing right there.,train,m3t42
+final/tense_m3t42_T_3_full_tense_hot_1.wav,tense,The bus driver didn't stop. I was standing right there.,The bus driver didn't stop. I was standing right there.,train,m3t42
+final/tense_m3t42_T_0_full_tense_1.wav,tense,The bus driver didn't stop. I was standing right there.,The bus driver didn't stop. I was standing right there.,train,m3t42
+final/tense_m3t43_T_0_full_tense_hot_1.wav,tense,"Somebody parked in front of our gate, so we couldn't get out.","Somebody parked in front of our gate, so we couldn't get out.",train,m3t43
+final/tense_m3t43_T_3_full_tense_hot_1.wav,tense,"Somebody parked in front of our gate, so we couldn't get out.","Somebody parked in front of our gate, so we couldn't get out.",train,m3t43
+final/tense_m3t43_T_2_full_tense_1.wav,tense,"Somebody parked in front of our gate, so we couldn't get out.","Somebody parked in front of our gate, so we couldn't get out.",train,m3t43
+final/tense_m3t43_T_2_full_tense_hot_1.wav,tense,"Somebody parked in front of our gate, so we couldn't get out.","Somebody parked in front of our gate, so we couldn't get out.",train,m3t43
+final/tense_m3t44_T_3_full_tense_hot_1.wav,tense,"The shop gave me the wrong change, and then they said it was my mistake.","The shop gave me the wrong change, and then they said it was my mistake.",train,m3t44
+final/tense_m3t44_T_2_full_tense_2.wav,tense,"The shop gave me the wrong change, and then they said it was my mistake.","The shop gave me the wrong change, and then they said it was my mistake.",train,m3t44
+final/tense_m3t45_T_0_full_tense_hot_1.wav,tense,My neighbour plays loud music every night until two.,My neighbour plays loud music every night until two.,train,m3t45
+final/tense_m3t45_T_3_full_tense_hot_1.wav,tense,My neighbour plays loud music every night until two.,My neighbour plays loud music every night until two.,train,m3t45
+final/tense_m3t48_T_3_full_tense_2.wav,tense,"The internet's been down since morning, and nobody's answering the phone.","The internet's been down since morning, and nobody's answering the phone.",train,m3t48
+final/tense_m3t48_T_2_full_tense_2.wav,tense,"The internet's been down since morning, and nobody's answering the phone.","The internet's been down since morning, and nobody's answering the phone.",train,m3t48
+final/tense_m3t49_T_0_full_tense_hot_1.wav,tense,The man next to me talked on the phone the whole journey. Loudly.,The man next to me talked on the phone the whole journey. Loudly.,train,m3t49
+final/tense_m3t49_T_1_full_tense_2.wav,tense,The man next to me talked on the phone the whole journey. Loudly.,The man next to me talked on the phone the whole journey. Loudly.,train,m3t49
+final/tense_m3t49_T_3_full_tense_hot_1.wav,tense,The man next to me talked on the phone the whole journey. Loudly.,The man next to me talked on the phone the whole journey. Loudly.,train,m3t49
+final/tense_m3t49_T_2_full_tense_2.wav,tense,The man next to me talked on the phone the whole journey. Loudly.,The man next to me talked on the phone the whole journey. Loudly.,train,m3t49
+final/tense_m3t50_T_3_full_tense_2.wav,tense,Someone took my umbrella from the café. My new one.,Someone took my umbrella from the café. My new one.,train,m3t50
+final/tense_m3t52_T_1_full_tense_2.wav,tense,"They changed the class time again, and nobody told us.","They changed the class time again, and nobody told us.",train,m3t52
+final/tense_m3t52_T_0_full_tense_2.wav,tense,"They changed the class time again, and nobody told us.","They changed the class time again, and nobody told us.",train,m3t52
+final/tense_m3t52_T_1_full_tense_hot_1.wav,tense,"They changed the class time again, and nobody told us.","They changed the class time again, and nobody told us.",train,m3t52
+final/tense_m3t52_T_0_full_tense_hot_1.wav,tense,"They changed the class time again, and nobody told us.","They changed the class time again, and nobody told us.",train,m3t52
+final/tense_m3t54_T_3_full_tense_hot_1.wav,tense,Seriously? After everything you did for him?,Seriously? After everything you did for him?,val,m3t54
+final/tense_m3t54_T_3_full_tense_2.wav,tense,Seriously? After everything you did for him?,Seriously? After everything you did for him?,val,m3t54
+final/tense_m3t55_T_3_full_tense_2.wav,tense,"No. That's not fair, and you know it.","No. That's not fair, and you know it.",train,m3t55
+final/tense_m3t55_T_2_full_tense_2.wav,tense,"No. That's not fair, and you know it.","No. That's not fair, and you know it.",train,m3t55
+final/tense_m3t55_T_1_full_tense_2.wav,tense,"No. That's not fair, and you know it.","No. That's not fair, and you know it.",train,m3t55
+final/tense_m3t55_T_0_full_tense_2.wav,tense,"No. That's not fair, and you know it.","No. That's not fair, and you know it.",train,m3t55
+final/tense_m3t56_T_2_full_tense_2.wav,tense,Hmm. I don't believe that for a second.,Hmm. I don't believe that for a second.,train,m3t56
+final/tense_m3t56_T_1_full_tense_2.wav,tense,Hmm. I don't believe that for a second.,Hmm. I don't believe that for a second.,train,m3t56
+final/tense_m3t57_T_0_full_tense_2.wav,tense,Then why didn't he just tell you?,Then why didn't he just tell you?,train,m3t57
+final/tense_m3t57_T_0_full_tense_hot_1.wav,tense,Then why didn't he just tell you?,Then why didn't he just tell you?,train,m3t57
+final/tense_m3t57_T_3_full_tense_2.wav,tense,Then why didn't he just tell you?,Then why didn't he just tell you?,train,m3t57
+final/tense_m3t58_T_3_full_tense_2.wav,tense,And you just let him say that?,And you just let him say that?,train,m3t58
+final/tense_m3t58_T_0_full_tense_2.wav,tense,And you just let him say that?,And you just let him say that?,train,m3t58
+final/tense_m3t58_T_2_full_tense_2.wav,tense,And you just let him say that?,And you just let him say that?,train,m3t58
+final/tense_m3t59_T_0_full_tense_2.wav,tense,"No, listen again. The question was ""where"", not ""when"".","No, listen again. The question was ""where"", not ""when"".",train,m3t59
+final/tense_m3t59_T_3_full_tense_2.wav,tense,"No, listen again. The question was ""where"", not ""when"".","No, listen again. The question was ""where"", not ""when"".",train,m3t59
+final/tense_m3t59_T_2_full_tense_2.wav,tense,"No, listen again. The question was ""where"", not ""when"".","No, listen again. The question was ""where"", not ""when"".",train,m3t59
+final/tense_m3t60_T_2_full_tense_2.wav,tense,"Stop guessing. Think first, and then answer.","Stop guessing. Think first, and then answer.",train,m3t60
+final/tense_m3t60_T_3_full_tense_2.wav,tense,"Stop guessing. Think first, and then answer.","Stop guessing. Think first, and then answer.",train,m3t60
+final/tense_m3t60_T_1_full_tense_2.wav,tense,"Stop guessing. Think first, and then answer.","Stop guessing. Think first, and then answer.",train,m3t60
+final/tense_m3t60_T_0_full_tense_2.wav,tense,"Stop guessing. Think first, and then answer.","Stop guessing. Think first, and then answer.",train,m3t60
+final/tense_m3t61_T_0_full_tense_2.wav,tense,"You said ""go"" again. It's ""went"". Try it once more.","You said ""go"" again. It's ""went"". Try it once more.",train,m3t61
+final/tense_m3t61_T_3_full_tense_2.wav,tense,"You said ""go"" again. It's ""went"". Try it once more.","You said ""go"" again. It's ""went"". Try it once more.",train,m3t61
+final/tense_m3t61_T_2_full_tense_2.wav,tense,"You said ""go"" again. It's ""went"". Try it once more.","You said ""go"" again. It's ""went"". Try it once more.",train,m3t61
+final/tense_m3t61_T_1_full_tense_2.wav,tense,"You said ""go"" again. It's ""went"". Try it once more.","You said ""go"" again. It's ""went"". Try it once more.",train,m3t61
+final/tense_m3t62_T_0_full_tense_2.wav,tense,"Look at me, not at the screen. Now say it.","Look at me, not at the screen. Now say it.",train,m3t62
+final/tense_m3t62_T_1_full_tense_2.wav,tense,"Look at me, not at the screen. Now say it.","Look at me, not at the screen. Now say it.",train,m3t62
+final/tense_m3t62_T_2_full_tense_2.wav,tense,"Look at me, not at the screen. Now say it.","Look at me, not at the screen. Now say it.",train,m3t62
+final/tense_m3t63_T_3_full_tense_2.wav,tense,"That's the third time. Slow down, please.","That's the third time. Slow down, please.",train,m3t63
+final/tense_m3t63_T_1_full_tense_2.wav,tense,"That's the third time. Slow down, please.","That's the third time. Slow down, please.",train,m3t63
+final/tense_m3t63_T_0_full_tense_2.wav,tense,"That's the third time. Slow down, please.","That's the third time. Slow down, please.",train,m3t63
+final/tense_m3t63_T_2_full_tense_2.wav,tense,"That's the third time. Slow down, please.","That's the third time. Slow down, please.",train,m3t63
+final/tense_m3t64_T_2_full_tense_2.wav,tense,"No phones in class, please. Put it away.","No phones in class, please. Put it away.",train,m3t64
+final/tense_m3t64_T_1_full_tense_2.wav,tense,"No phones in class, please. Put it away.","No phones in class, please. Put it away.",train,m3t64
+final/tense_m3t64_T_3_full_tense_2.wav,tense,"No phones in class, please. Put it away.","No phones in class, please. Put it away.",train,m3t64
+final/tense_m3t64_T_0_full_tense_2.wav,tense,"No phones in class, please. Put it away.","No phones in class, please. Put it away.",train,m3t64
+final/tense_m3t66_T_3_full_tense_2.wav,tense,Don't tell me the ending. I haven't seen it yet.,Don't tell me the ending. I haven't seen it yet.,train,m3t66
+final/tense_m3t66_T_2_full_tense_2.wav,tense,Don't tell me the ending. I haven't seen it yet.,Don't tell me the ending. I haven't seen it yet.,train,m3t66
+final/tense_m3t66_T_0_full_tense_2.wav,tense,Don't tell me the ending. I haven't seen it yet.,Don't tell me the ending. I haven't seen it yet.,train,m3t66
+final/tense_m3t66_T_1_full_tense_2.wav,tense,Don't tell me the ending. I haven't seen it yet.,Don't tell me the ending. I haven't seen it yet.,train,m3t66
+final/tense_m3t67_T_2_full_tense_2.wav,tense,Sam talked all through the film. I missed the best part.,Sam talked all through the film. I missed the best part.,train,m3t67
+final/tense_m3t67_T_0_full_tense_2.wav,tense,Sam talked all through the film. I missed the best part.,Sam talked all through the film. I missed the best part.,train,m3t67
+final/tense_m3t68_T_3_full_tense_hot_2.wav,tense,Someone deleted my photos from the shared folder. Without asking.,Someone deleted my photos from the shared folder. Without asking.,train,m3t68
+final/tense_m3t68_T_0_full_tense_2.wav,tense,Someone deleted my photos from the shared folder. Without asking.,Someone deleted my photos from the shared folder. Without asking.,train,m3t68
+final/tense_m3t68_T_0_full_tense_hot_2.wav,tense,Someone deleted my photos from the shared folder. Without asking.,Someone deleted my photos from the shared folder. Without asking.,train,m3t68
+final/tense_m3t69_T_3_full_tense_hot_2.wav,tense,They cancelled the train to Madurai. Two days before.,They cancelled the train to Madurai. Two days before.,train,m3t69
+final/tense_m3t69_T_3_full_tense_2.wav,tense,They cancelled the train to Madurai. Two days before.,They cancelled the train to Madurai. Two days before.,train,m3t69
+final/tense_m3t69_T_0_full_tense_hot_2.wav,tense,They cancelled the train to Madurai. Two days before.,They cancelled the train to Madurai. Two days before.,train,m3t69
+final/tense_m3t69_T_1_full_tense_hot_2.wav,tense,They cancelled the train to Madurai. Two days before.,They cancelled the train to Madurai. Two days before.,train,m3t69
+final/tense_m3t70_T_3_full_tense_hot_2.wav,tense,"First he complained about the tea, then about the cake, and then he wanted a discount.","First he complained about the tea, then about the cake, and then he wanted a discount.",train,m3t70
+final/tense_m3t70_T_2_full_tense_hot_2.wav,tense,"First he complained about the tea, then about the cake, and then he wanted a discount.","First he complained about the tea, then about the cake, and then he wanted a discount.",train,m3t70
+final/tense_m3t70_T_3_full_tense_2.wav,tense,"First he complained about the tea, then about the cake, and then he wanted a discount.","First he complained about the tea, then about the cake, and then he wanted a discount.",train,m3t70
+final/tense_m3t70_T_0_full_tense_hot_2.wav,tense,"First he complained about the tea, then about the cake, and then he wanted a discount.","First he complained about the tea, then about the cake, and then he wanted a discount.",train,m3t70
+final/tense_m3t71_T_0_full_tense_2.wav,tense,"So I explained it twice, and he still said I was wrong.","So I explained it twice, and he still said I was wrong.",train,m3t71
+final/tense_m3t71_T_3_full_tense_2.wav,tense,"So I explained it twice, and he still said I was wrong.","So I explained it twice, and he still said I was wrong.",train,m3t71
+final/tense_m3t72_T_3_full_tense_2.wav,tense,"After that, he took a photo of my name badge. Can you believe it?","After that, he took a photo of my name badge. Can you believe it?",train,m3t72
+final/tense_m3t72_T_2_full_tense_hot_2.wav,tense,"After that, he took a photo of my name badge. Can you believe it?","After that, he took a photo of my name badge. Can you believe it?",train,m3t72
+final/tense_m3t72_T_3_full_tense_hot_2.wav,tense,"After that, he took a photo of my name badge. Can you believe it?","After that, he took a photo of my name badge. Can you believe it?",train,m3t72
+final/tense_m3t72_T_1_full_tense_hot_2.wav,tense,"After that, he took a photo of my name badge. Can you believe it?","After that, he took a photo of my name badge. Can you believe it?",train,m3t72
+final/tense_m3t74_T_0_full_tense_hot_2.wav,tense,Thirty-three rupees for a bottle of water? That's too much.,Thirty-three rupees for a bottle of water? That's too much.,train,m3t74
+final/tense_m3t74_T_2_full_tense_2.wav,tense,Thirty-three rupees for a bottle of water? That's too much.,Thirty-three rupees for a bottle of water? That's too much.,train,m3t74
+final/tense_m3t74_T_3_full_tense_hot_2.wav,tense,Thirty-three rupees for a bottle of water? That's too much.,Thirty-three rupees for a bottle of water? That's too much.,train,m3t74
+final/tense_m3t74_T_1_full_tense_2.wav,tense,Thirty-three rupees for a bottle of water? That's too much.,Thirty-three rupees for a bottle of water? That's too much.,train,m3t74
+final/tense_m3t75_T_2_full_tense_2.wav,tense,Three hours late. Because of fog. Again.,Three hours late. Because of fog. Again.,train,m3t75
+final/tense_m3t75_T_1_full_tense_2.wav,tense,Three hours late. Because of fog. Again.,Three hours late. Because of fog. Again.,train,m3t75
+final/tense_m3t75_T_3_full_tense_2.wav,tense,Three hours late. Because of fog. Again.,Three hours late. Because of fog. Again.,train,m3t75
+final/tense_m3xl26_K_1_low_fill_3.wav,tense,She didn't even say goodbye?!,She didn't even say goodbye?!,train,m3xl26
+final/tense_m3xl26_T_3_full_low_3.wav,tense,She didn't even say goodbye?!,She didn't even say goodbye?!,train,m3xl26
+final/tense_m3xl26_T_2_full_low_3.wav,tense,She didn't even say goodbye?!,She didn't even say goodbye?!,train,m3xl26
+final/tense_m3xl26_K_3_low_fill_3.wav,tense,She didn't even say goodbye?!,She didn't even say goodbye?!,train,m3xl26
+final/tense_m3xt01_T_1_full_tense_hot_2.wav,tense,Who told you that you could take it?,Who told you that you could take it?,train,m3xt01
+final/tense_m3xt01_T_1_full_tense_2.wav,tense,Who told you that you could take it?,Who told you that you could take it?,train,m3xt01
+final/tense_m3xt03_T_2_full_tense_2.wav,tense,Stop it. Right now!,Stop it. Right now!,train,m3xt03
+final/tense_m3xt10_T_2_full_tense_2.wav,tense,Leave her alone!,Leave her alone!,train,m3xt10
+final/tense_m3xt11_T_3_full_tense_3.wav,tense,"Fine… keep it, then.","Fine… keep it, then.",train,m3xt11
+final/tense_m3xt11_T_2_full_tense_3.wav,tense,"Fine… keep it, then.","Fine… keep it, then.",train,m3xt11
+final/tense_m3xt11_T_0_full_tense_3.wav,tense,"Fine… keep it, then.","Fine… keep it, then.",train,m3xt11
+final/tense_m3xt12_T_3_tense_rx2.wav,tense,I'm waiting… still waiting.,I'm waiting… still waiting.,train,m3xt12
+final/tense_m3xt12_T_0_tense_rx2.wav,tense,I'm waiting… still waiting.,I'm waiting… still waiting.,train,m3xt12
+final/tense_m3xt12_T_2_full_tense_3.wav,tense,I'm waiting… still waiting.,I'm waiting… still waiting.,train,m3xt12
+final/tense_m3xt15_T_3_full_tense_3.wav,tense,Don't… just don't.,Don't… just don't.,train,m3xt15
+final/tense_m3xt15_T_0_full_tense_3.wav,tense,Don't… just don't.,Don't… just don't.,train,m3xt15
+final/tense_m3xt16_T_1_full_tense_3.wav,tense,So that's how it is… okay.,So that's how it is… okay.,train,m3xt16
+final/tense_m3xt16_T_2_full_tense_3.wav,tense,So that's how it is… okay.,So that's how it is… okay.,train,m3xt16
+final/tense_m3xt17_T_3_full_tense_3.wav,tense,You promised… and you didn't come.,You promised… and you didn't come.,train,m3xt17
+final/tense_m3xt17_T_0_full_tense_3.wav,tense,You promised… and you didn't come.,You promised… and you didn't come.,train,m3xt17
+final/tense_m3xt17_T_1_full_tense_3.wav,tense,You promised… and you didn't come.,You promised… and you didn't come.,train,m3xt17
+final/tense_m3xt18_T_1_full_tense_3.wav,tense,I'm not angry… I'm just done.,I'm not angry… I'm just done.,train,m3xt18
+final/tense_m3xt18_T_0_full_tense_3.wav,tense,I'm not angry… I'm just done.,I'm not angry… I'm just done.,train,m3xt18
+final/tense_m3xt18_T_2_full_tense_3.wav,tense,I'm not angry… I'm just done.,I'm not angry… I'm just done.,train,m3xt18
+final/tense_m3xt18_T_3_full_tense_3.wav,tense,I'm not angry… I'm just done.,I'm not angry… I'm just done.,train,m3xt18
+final/tense_m3xt19_T_0_full_tense_3.wav,tense,Listen to me — not to him.,Listen to me — not to him.,train,m3xt19
+final/tense_m3xt19_T_3_full_tense_3.wav,tense,Listen to me — not to him.,Listen to me — not to him.,train,m3xt19
+final/tense_m3xt19_T_2_full_tense_3.wav,tense,Listen to me — not to him.,Listen to me — not to him.,train,m3xt19
+final/tense_m3xt19_T_1_full_tense_3.wav,tense,Listen to me — not to him.,Listen to me — not to him.,train,m3xt19
+final/tense_m3xt20_T_2_full_tense_3.wav,tense,I'll say it once — don't touch my things.,I'll say it once — don't touch my things.,train,m3xt20
+final/tense_m3xt20_T_0_full_tense_3.wav,tense,I'll say it once — don't touch my things.,I'll say it once — don't touch my things.,train,m3xt20
+final/tense_m3xt20_T_3_full_tense_3.wav,tense,I'll say it once — don't touch my things.,I'll say it once — don't touch my things.,train,m3xt20
+final/tense_m3xt23_T_2_full_tense_3.wav,tense,No — that's not what happened.,No — that's not what happened.,train,m3xt23
+final/tense_m3xt23_T_1_full_tense_3.wav,tense,No — that's not what happened.,No — that's not what happened.,train,m3xt23
+final/tense_m3xt23_T_0_full_tense_3.wav,tense,No — that's not what happened.,No — that's not what happened.,train,m3xt23
+final/tense_m3xt24_T_3_full_tense_3.wav,tense,I've had enough — I'm leaving.,I've had enough — I'm leaving.,train,m3xt24
+final/tense_m3xt24_T_0_full_tense_3.wav,tense,I've had enough — I'm leaving.,I've had enough — I'm leaving.,train,m3xt24
+final/tense_m3xt24_T_2_full_tense_3.wav,tense,I've had enough — I'm leaving.,I've had enough — I'm leaving.,train,m3xt24
+final/tense_m3xt25_T_1_full_tense_3.wav,tense,Ask me first — every time.,Ask me first — every time.,train,m3xt25
+final/tense_m3xt25_T_0_full_tense_3.wav,tense,Ask me first — every time.,Ask me first — every time.,train,m3xt25
+final/tense_m3xt25_T_2_full_tense_3.wav,tense,Ask me first — every time.,Ask me first — every time.,train,m3xt25
+final/tense_m3xt25_T_3_full_tense_3.wav,tense,Ask me first — every time.,Ask me first — every time.,train,m3xt25
+final/tense_m3xt27_T_1_full_tense_3.wav,tense,Not now — I'm working.,Not now — I'm working.,train,m3xt27
+final/tense_m3xt27_T_3_full_tense_3.wav,tense,Not now — I'm working.,Not now — I'm working.,train,m3xt27
+final/tense_m3xt27_T_2_full_tense_3.wav,tense,Not now — I'm working.,Not now — I'm working.,train,m3xt27
+final/tense_m3xt27_T_0_full_tense_3.wav,tense,Not now — I'm working.,Not now — I'm working.,train,m3xt27
+final/tense_m3xt29_T_1_tense_rx2.wav,tense,You read my messages?!,You read my messages?!,train,m3xt29
+final/tense_m3xt30_T_1_full_tense_hot_2.wav,tense,You took my bag without asking?!,You took my bag without asking?!,train,m3xt30
+final/tense_m3xt30_T_2_full_tense_3.wav,tense,You took my bag without asking?!,You took my bag without asking?!,train,m3xt30
+final/tense_m3xt30_T_2_full_tense_hot_2.wav,tense,You took my bag without asking?!,You took my bag without asking?!,train,m3xt30
+final/tense_m3xt30_T_3_full_tense_hot_2.wav,tense,You took my bag without asking?!,You took my bag without asking?!,train,m3xt30
+final/tense_m3xt31_T_2_full_tense_3.wav,tense,He shouted at you too?!,He shouted at you too?!,train,m3xt31
+final/tense_m3xt31_T_3_full_tense_hot_2.wav,tense,He shouted at you too?!,He shouted at you too?!,train,m3xt31
+final/tense_m3xt31_T_2_full_tense_hot_2.wav,tense,He shouted at you too?!,He shouted at you too?!,train,m3xt31
+final/tense_m3xt31_T_1_full_tense_3.wav,tense,He shouted at you too?!,He shouted at you too?!,train,m3xt31
+final/tense_m3xt37_T_3_full_tense_3.wav,tense,He's late again?!,He's late again?!,train,m3xt37
+final/tense_m3xt37_T_0_full_tense_hot_2.wav,tense,He's late again?!,He's late again?!,train,m3xt37
+final/tense_m3xt38_T_0_tense_rx2.wav,tense,You said that to her?!,You said that to her?!,train,m3xt38
+final/tense_m3xt38_T_3_tense_rx2.wav,tense,You said that to her?!,You said that to her?!,train,m3xt38
+final/tense_m3xt39_T_0_full_tense_3.wav,tense,I said NO.,I said NO.,train,m3xt39
+final/tense_m3xt39_T_2_full_tense_3.wav,tense,I said NO.,I said NO.,train,m3xt39
+final/tense_m3xt40_T_3_full_tense_3.wav,tense,That is NOT okay.,That is NOT okay.,train,m3xt40
+final/tense_m3xt40_T_1_full_tense_3.wav,tense,That is NOT okay.,That is NOT okay.,train,m3xt40
+final/tense_m3xt40_T_0_full_tense_3.wav,tense,That is NOT okay.,That is NOT okay.,train,m3xt40
+final/tense_m3xt40_T_2_full_tense_3.wav,tense,That is NOT okay.,That is NOT okay.,train,m3xt40
+final/tense_m3xt41_T_0_full_tense_3.wav,tense,Ask BEFORE you take it.,Ask BEFORE you take it.,train,m3xt41
+final/tense_m3xt41_T_1_full_tense_3.wav,tense,Ask BEFORE you take it.,Ask BEFORE you take it.,train,m3xt41
+final/tense_m3xt41_T_3_full_tense_3.wav,tense,Ask BEFORE you take it.,Ask BEFORE you take it.,train,m3xt41
+final/tense_m3xt43_T_3_full_tense_3.wav,tense,"It's MY job, not yours.","It's MY job, not yours.",train,m3xt43
+final/tense_m3xt43_T_1_full_tense_3.wav,tense,"It's MY job, not yours.","It's MY job, not yours.",train,m3xt43
+final/tense_m3xt43_T_0_full_tense_3.wav,tense,"It's MY job, not yours.","It's MY job, not yours.",train,m3xt43
+final/tense_m3xt44_T_1_full_tense_3.wav,tense,You promised. TWICE.,You promised. TWICE.,train,m3xt44
+final/tense_m3xt44_T_3_full_tense_3.wav,tense,You promised. TWICE.,You promised. TWICE.,train,m3xt44
+final/tense_m3xt44_T_0_full_tense_3.wav,tense,You promised. TWICE.,You promised. TWICE.,train,m3xt44
+final/tense_m3xt44_T_2_full_tense_3.wav,tense,You promised. TWICE.,You promised. TWICE.,train,m3xt44
+final/tense_m3xt45_T_3_full_tense_3.wav,tense,Don't EVER do that again.,Don't EVER do that again.,train,m3xt45
+final/tense_m3xt45_T_2_full_tense_3.wav,tense,Don't EVER do that again.,Don't EVER do that again.,train,m3xt45
+final/tense_m3xt45_T_1_full_tense_3.wav,tense,Don't EVER do that again.,Don't EVER do that again.,train,m3xt45
+final/tense_m3xt45_T_0_full_tense_3.wav,tense,Don't EVER do that again.,Don't EVER do that again.,train,m3xt45
+final/tense_m3xt51_K_2_tense_scene_2.wav,tense,Tomorrow. then.,Tomorrow. then.,train,m3xt51
+final/tense_m3xt51_K_1_tense_scene_2.wav,tense,Tomorrow. then.,Tomorrow. then.,train,m3xt51
+final/tense_m3xt53_T_1_full_tense_4.wav,tense,Put that down!,Put that down!,train,m3xt53
+final/tense_m3xt55_T_1_full_tense_4.wav,tense,Don't speak to me like that!,Don't speak to me like that!,train,m3xt55
+final/tense_m3xt55_T_3_full_tense_4.wav,tense,Don't speak to me like that!,Don't speak to me like that!,train,m3xt55
+final/tense_m3xt56_T_0_full_tense_4.wav,tense,Enough excuses!,Enough excuses!,train,m3xt56
+final/tense_m3xt56_T_3_full_tense_4.wav,tense,Enough excuses!,Enough excuses!,train,m3xt56
+final/tense_m3xt56_T_2_full_tense_4.wav,tense,Enough excuses!,Enough excuses!,train,m3xt56
+final/tense_m3xt57_T_1_full_tense_4.wav,tense,Close the door!,Close the door!,train,m3xt57
+final/tense_m3xt58_T_3_full_tense_4.wav,tense,Look at me when I'm talking!,Look at me when I'm talking!,train,m3xt58
+final/tense_m3xt58_T_1_full_tense_4.wav,tense,Look at me when I'm talking!,Look at me when I'm talking!,train,m3xt58
+final/tense_m3xt58_T_2_full_tense_4.wav,tense,Look at me when I'm talking!,Look at me when I'm talking!,train,m3xt58
+final/tense_m3xt58_T_0_full_tense_4.wav,tense,Look at me when I'm talking!,Look at me when I'm talking!,train,m3xt58
+final/tense_m3xt59_T_1_full_tense_4.wav,tense,Move your bike!,Move your bike!,train,m3xt59
+final/tense_m3xt60_T_1_full_tense_4.wav,tense,That's not yours!,That's not yours!,train,m3xt60
+final/tense_m3xt61_T_2_full_tense_4.wav,tense,Keep your voice down!,Keep your voice down!,train,m3xt61
+final/tense_m3xt62_T_1_full_tense_4.wav,tense,Not in my café!,Not in my café!,train,m3xt62
+final/tense_m3xt63_T_3_full_tense_4.wav,tense,Answer the question!,Answer the question!,train,m3xt63
+final/tense_m3xt63_T_1_tense_rx2.wav,tense,Answer the question!,Answer the question!,train,m3xt63
+final/tense_m3xt64_T_2_full_tense_4.wav,tense,Stop interrupting!,Stop interrupting!,train,m3xt64
+final/tense_m3xt64_T_3_full_tense_4.wav,tense,Stop interrupting!,Stop interrupting!,train,m3xt64
+final/tense_m3xt64_T_0_full_tense_4.wav,tense,Stop interrupting!,Stop interrupting!,train,m3xt64
+final/tense_m3xt64_T_1_full_tense_4.wav,tense,Stop interrupting!,Stop interrupting!,train,m3xt64
+final/tense_m3xt65_T_2_full_tense_4.wav,tense,Get your feet off the table!,Get your feet off the table!,train,m3xt65
+final/tense_m3xt65_T_1_full_tense_4.wav,tense,Get your feet off the table!,Get your feet off the table!,train,m3xt65
+final/tense_m3xt65_T_3_full_tense_4.wav,tense,Get your feet off the table!,Get your feet off the table!,train,m3xt65
+final/tense_m3xt67_T_0_full_tense_4.wav,tense,I'm still talking!,I'm still talking!,train,m3xt67
+final/tense_m3xt68_T_3_full_tense_4.wav,tense,You'll pay for that cup!,You'll pay for that cup!,train,m3xt68
+final/tense_m3xt69_T_0_full_tense_4.wav,tense,I'm counting… one more time.,I'm counting… one more time.,train,m3xt69
+final/tense_m3xt69_T_3_full_tense_4.wav,tense,I'm counting… one more time.,I'm counting… one more time.,train,m3xt69
+final/tense_m3xt70_T_0_full_tense_4.wav,tense,Sure… whatever you say.,Sure… whatever you say.,val,m3xt70
+final/tense_m3xt70_K_0_tense_scene_2.wav,tense,Sure. whatever you say.,Sure. whatever you say.,val,m3xt70
+final/tense_m3xt72_T_1_full_tense_4.wav,tense,I'll wait… but not for long.,I'll wait… but not for long.,train,m3xt72
+final/tense_m3xt72_T_2_full_tense_4.wav,tense,I'll wait… but not for long.,I'll wait… but not for long.,train,m3xt72
+final/tense_m3xt72_T_0_full_tense_4.wav,tense,I'll wait… but not for long.,I'll wait… but not for long.,train,m3xt72
+final/tense_m3xt74_T_1_full_tense_4.wav,tense,Don't… touch that.,Don't… touch that.,train,m3xt74
+final/tense_m3xt74_T_0_full_tense_4.wav,tense,Don't… touch that.,Don't… touch that.,train,m3xt74
+final/tense_m3xt74_T_3_full_tense_4.wav,tense,Don't… touch that.,Don't… touch that.,train,m3xt74
+final/tense_m3xt75_T_0_full_tense_4.wav,tense,So… you lied to me.,So… you lied to me.,train,m3xt75
+final/tense_m3xt75_T_2_full_tense_4.wav,tense,So… you lied to me.,So… you lied to me.,train,m3xt75
+final/tense_m3xt75_T_3_full_tense_4.wav,tense,So… you lied to me.,So… you lied to me.,train,m3xt75
+final/tense_m3xt75_T_1_full_tense_4.wav,tense,So… you lied to me.,So… you lied to me.,train,m3xt75
+final/tense_m3xt76_T_2_full_tense_4.wav,tense,"I'm listening… go on, explain.","I'm listening… go on, explain.",train,m3xt76
+final/tense_m3xt76_K_0_tense_scene_2.wav,tense,"I'm listening. go on, explain.","I'm listening. go on, explain.",train,m3xt76
+final/tense_m3xt77_T_2_full_tense_4.wav,tense,Right… and whose fault is that?,Right… and whose fault is that?,val,m3xt77
+final/tense_m3xt77_T_0_full_tense_4.wav,tense,Right… and whose fault is that?,Right… and whose fault is that?,val,m3xt77
+final/tense_m3xt78_T_3_full_tense_4.wav,tense,Thanks… for nothing.,Thanks… for nothing.,train,m3xt78
+final/tense_m3xt78_T_2_full_tense_4.wav,tense,Thanks… for nothing.,Thanks… for nothing.,train,m3xt78
+final/tense_m3xt78_T_0_full_tense_4.wav,tense,Thanks… for nothing.,Thanks… for nothing.,train,m3xt78
+final/tense_m3xt78_T_1_full_tense_4.wav,tense,Thanks… for nothing.,Thanks… for nothing.,train,m3xt78
+final/tense_m3xt79_T_2_full_tense_4.wav,tense,Don't — I mean it.,Don't — I mean it.,train,m3xt79
+final/tense_m3xt79_T_1_full_tense_4.wav,tense,Don't — I mean it.,Don't — I mean it.,train,m3xt79
+final/tense_m3xt79_T_0_full_tense_4.wav,tense,Don't — I mean it.,Don't — I mean it.,train,m3xt79
+final/tense_m3xt80_T_1_full_tense_4.wav,tense,I told you YESTERDAY.,I told you YESTERDAY.,train,m3xt80
+final/tense_m3xt80_T_0_full_tense_4.wav,tense,I told you YESTERDAY.,I told you YESTERDAY.,train,m3xt80
+final/tense_m3xt80_T_3_full_tense_4.wav,tense,I told you YESTERDAY.,I told you YESTERDAY.,train,m3xt80
+final/tense_m4g13t_T_1_full_tense_4.wav,tense,We got the results.,We got the results.,train,m4g13t
+final/tense_m4g13t_T_0_full_tense_4.wav,tense,We got the results.,We got the results.,train,m4g13t
+final/tense_m4g13t_T_3_full_tense_4.wav,tense,We got the results.,We got the results.,train,m4g13t
+final/tense_m4g13t_T_2_full_tense_4.wav,tense,We got the results.,We got the results.,train,m4g13t
+final/tense_m4g17t_T_0_full_tense_4.wav,tense,He finally answered.,He finally answered.,train,m4g17t
+final/tense_m4g20t_T_3_full_tense_4.wav,tense,That was my last exam.,That was my last exam.,train,m4g20t
