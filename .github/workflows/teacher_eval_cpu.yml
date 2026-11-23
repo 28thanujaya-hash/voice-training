@@ -1,0 +1,64 @@
+name: Teacher eval on CPU (style exaggeration)
+# Downloads a teacher's stage-2 outputs from Kaggle and runs tools/teacher/eval_cpu.py on free GitHub CPU machines.
+on:
+  workflow_dispatch:
+    inputs:
+      kernels: { description: 'tag=kaggle-slug list, space-separated', required: true, default: 'v04=se-teacher-v04-t2 v05=se-teacher-v05-t2' }
+      arms: { description: 'arms (base, P1.5, W1.5 …)', required: true, default: 'base,P1.5,P2,W1.5' }
+      lines: { description: 'held-out lines (multiple of 4)', required: true, default: '48' }
+      out: { description: 'results folder name', required: true, default: 'teacher_eval_cpu' }
+permissions: { contents: write }
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs: { m: '${{ steps.m.outputs.m }}' }
+    steps:
+      - id: m
+        run: echo "m=$(python3 -c "import json,sys; print(json.dumps(sys.argv[1].split()))" '${{ inputs.kernels }}')" >> $GITHUB_OUTPUT
+  eval:
+    needs: setup
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy: { fail-fast: false, matrix: { k: '${{ fromJson(needs.setup.outputs.m) }}' } }
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+      KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+      TMP_DIR: /tmp/ev
+      KT: /tmp/ev/kt
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Tools
+        run: |
+          mkdir -p /tmp/ev && cd /tmp/ev
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q 'transformers==4.57.6' soundfile librosa loguru munch einops einops-exts nltk huggingface_hub kaggle six
+          git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm && (cd llm && git sparse-checkout set tools/misaki-g2p)
+          M=/tmp/ev/llm/tools/misaki-g2p
+          cmake -S $M -B /tmp/ev/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' && cmake --build /tmp/ev/mb -j4
+          python $M/convert_misaki_lexicon.py --fetch /tmp/ev/lexc -o /tmp/ev/misaki-en-us.lex
+          git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt
+          pip install -q --no-deps -e /tmp/ev/kt/kokoro
+      - name: Model from Kaggle
+        run: |
+          [ -z "$KAGGLE_KEY" ] && unset KAGGLE_KEY; [ -z "$KAGGLE_API_TOKEN" ] && unset KAGGLE_API_TOKEN
+          U="$KAGGLE_USERNAME"; [ -z "$U" ] && U=$(python -c "from kaggle.api.kaggle_api_extended import KaggleApi;a=KaggleApi();a.authenticate();print(a.get_config_value('username') or '')")
+          [ -z "$U" ] && U=thusharajayawardane
+          SLUG="${{ matrix.k }}"; SLUG="${SLUG#*=}"
+          mkdir -p /tmp/m && kaggle kernels output "$U/$SLUG" -p /tmp/m
+          ls -la /tmp/m
+      - name: Eval
+        working-directory: kaggle/jobs/teacher_v05_eval
+        run: |
+          TAG="${{ matrix.k }}"; TAG="${TAG%%=*}"
+          MP=$(ls /tmp/m/kokoro_f_v0*_*.pth | head -1)
+          python ${{ github.workspace }}/tools/teacher/eval_cpu.py "$MP" /tmp/m "$TAG" "${{ inputs.arms }}" ${{ inputs.lines }}
+          mkdir -p ${{ github.workspace }}/results/${{ inputs.out }} && cp out/* ${{ github.workspace }}/results/${{ inputs.out }}/
+      - name: Commit
+        run: |
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add results/${{ inputs.out }}
+          git commit -q -m "Teacher CPU eval: ${{ matrix.k }} [skip ci]" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((RANDOM % 20 + 5)); done
