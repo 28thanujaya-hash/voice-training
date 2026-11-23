@@ -1,0 +1,46 @@
+[{"stream_name":"stdout","time":1.223717004,"data":"[  0.0 min] $ pip install -q 'transformers==4.57.6'\n"}
+,{"stream_name":"stdout","time":20.469083563,"data":"   gradio 6.30.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stdout","time":20.469111723,"data":"   diffusers 0.42.0 requires huggingface-hub\u003c3.0,\u003e=1.32.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":20.998476035,"data":"[  0.3 min] $ git clone -q --recurse-submodules --shallow-submodules --depth 1 https://github.com/semidark/kikiri-tts kt\n"}
+,{"stream_name":"stdout","time":28.404935978,"data":"[  0.5 min] $ pip install -q munch einops einops-exts nltk pydub click tensorboard accelerate Cython loguru soundfile\n"}
+,{"stream_name":"stdout","time":30.968118601,"data":"[  0.5 min] $ git clone -q https://github.com/resemble-ai/monotonic_align.git \u0026\u0026 cd monotonic_align \u0026\u0026 pip install -q .\n"}
+,{"stream_name":"stdout","time":78.749677982,"data":"[  1.3 min] $ pip install -q 'torchaudio==2.11.0' 2\u003e\u00261 | tail -1 || true\n"}
+,{"stream_name":"stdout","time":136.715837595,"data":"[  2.3 min] $ python train_second_part.py --config_path /kaggle/tmp/kt/configs/s2.yml  (log: train_second_log.txt)\n"}
+,{"stream_name":"stdout","time":5480.26856113,"data":"   Time elasped: 4573.907052516937\n"}
+,{"stream_name":"stdout","time":5480.268610983,"data":"   Time elasped: 4666.622741222382\n"}
+,{"stream_name":"stdout","time":5480.268615065,"data":"   Time elasped: 4759.802873373032\n"}
+,{"stream_name":"stdout","time":5480.268618082,"data":"   Time elasped: 4851.5082886219025\n"}
+,{"stream_name":"stdout","time":5480.268620933,"data":"   Time elasped: 4944.631108045578\n"}
+,{"stream_name":"stdout","time":5480.268623852,"data":"   Time elasped: 5037.074065685272\n"}
+,{"stream_name":"stdout","time":5480.268626595,"data":"   Time elasped: 5128.63685631752\n"}
+,{"stream_name":"stdout","time":5480.268629289,"data":"   Time elasped: 5221.492136001587\n"}
+,{"stream_name":"stdout","time":5480.268632021,"data":"   Epochs: 1\n"}
+,{"stream_name":"stdout","time":5480.268634861,"data":"   \n"}
+,{"stream_name":"stdout","time":5480.268637544,"data":"   \n"}
+,{"stream_name":"stdout","time":5480.268640176,"data":"   \n"}
+,{"stream_name":"stdout","time":5480.268642793,"data":"   \n"}
+,{"stream_name":"stdout","time":5480.268645496,"data":"   Saving..\n"}
+,{"stream_name":"stdout","time":5480.26864824,"data":"   PEAK_GB [9.99, 6.56] saved /kaggle/tmp/logs/s2/epoch_2nd_00000.pth\n"}
+,{"stream_name":"stdout","time":5480.270202526,"data":"[ 91.3 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00000.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-teacher\n"}
+,{"stream_name":"stdout","time":5497.353236218,"data":"     Prosodic style norm: 2.0334\n"}
+,{"stream_name":"stdout","time":5497.353275199,"data":"   \n"}
+,{"stream_name":"stdout","time":5497.353281328,"data":"   Saved voicepack: /kaggle/working/f_normal_voicepack.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":5497.35328615,"data":"[ 91.6 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00000.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-teacher\n"}
+,{"stream_name":"stdout","time":5508.817901727,"data":"     Prosodic style norm: 2.1182\n"}
+,{"stream_name":"stdout","time":5508.817953637,"data":"   \n"}
+,{"stream_name":"stdout","time":5508.817959167,"data":"   Saved voicepack: /kaggle/working/f_bright_voicepack.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":5508.817963772,"data":"[ 91.8 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00000.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-teacher\n"}
+,{"stream_name":"stdout","time":5525.114307733,"data":"     Prosodic style norm: 2.2989\n"}
+,{"stream_name":"stdout","time":5525.114333391,"data":"   \n"}
+,{"stream_name":"stdout","time":5525.114352005,"data":"   Saved voicepack: /kaggle/working/f_low_voicepack.pt (511.6 KB)\n"}
+,{"stream_name":"stdout","time":5525.114357563,"data":"[ 92.1 min] $ python scripts/extract_voicepack.py --model /kaggle/tmp/logs/s2/epoch_2nd_00000.pth --style-encoder-model /kaggle/input/notebooks/thusharajayawardane/se-teacher\n"}
+,{"stream_name":"stdout","time":5535.240789414,"data":"     Prosodic style norm: 1.8450\n"}
+,{"stream_name":"stdout","time":5535.240875352,"data":"   \n"}
+,{"stream_name":"stdout","time":5535.240883196,"data":"   Saved voicepack: /kaggle/working/f_tense_voicepack.pt (511.6 KB)\n"}
+,{"stream_name":"stderr","time":5542.128976618,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":5542.12900833,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":5542.383981576,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":5542.384009069,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":5543.201411703,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":5543.71874646,"data":"[NbConvertApp] Writing 319555 bytes to __results__.html\n"}
+]
