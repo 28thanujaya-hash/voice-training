@@ -34,7 +34,7 @@ jobs:
         run: |
           mkdir -p /tmp/ev && cd /tmp/ev
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu
-          pip install -q 'transformers==4.57.6' soundfile librosa loguru munch einops einops-exts nltk huggingface_hub kaggle six
+          pip install -q 'transformers==4.57.6' soundfile librosa loguru munch einops einops-exts nltk huggingface_hub kaggle six jiwer
           git clone -q --depth 1 --filter=blob:none --sparse https://github.com/elizaOS/llama.cpp -b eliza/develop-pin-ea8b3f2 llm && (cd llm && git sparse-checkout set tools/misaki-g2p)
           M=/tmp/ev/llm/tools/misaki-g2p
           cmake -S $M -B /tmp/ev/mb -DMISAKI_G2P_ESPEAK=OFF -DMISAKI_G2P_BUILD_TESTS=OFF -DCMAKE_BUILD_TYPE=Release -G 'Unix Makefiles' && cmake --build /tmp/ev/mb -j4

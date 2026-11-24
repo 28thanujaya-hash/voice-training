@@ -43,6 +43,10 @@ _, PH = prepare_all([s["text"] for s in pick], f"{TMP}/mb/misaki-g2p-cli", f"{TM
 from transformers import AutoFeatureExtractor, HubertForSequenceClassification
 J = "superb/hubert-large-superb-er"; jfe = AutoFeatureExtractor.from_pretrained(J); jm = HubertForSequenceClassification.from_pretrained(J).eval()
 JL = [{"neu": "neutral", "hap": "happy", "sad": "sad", "ang": "angry"}.get(jm.config.id2label[i], jm.config.id2label[i]) for i in range(len(jm.config.id2label))]
+import jiwer
+from transformers import pipeline as hfp
+asr = hfp("automatic-speech-recognition", "openai/whisper-small.en", device="cpu")
+norm = lambda t: re.sub(r"[^a-z0-9' ]", " ", t.lower().replace("…", " ").replace("—", " ")).split()
 rows = []; T0 = time.time()
 for arm in ARMS:
     for s, p in zip(pick, PH):
@@ -54,14 +58,15 @@ for arm in ARMS:
             with torch.no_grad(): pr = torch.softmax(jm(**jfe(z, sampling_rate=16000, return_tensors="pt")).logits[0], -1).tolist()
             P = dict(zip(JL, pr)); judged = max(P, key=P.get)
             ok = (judged == "neutral" or max(P["happy"], P["sad"], P["angry"]) <= .5) if row == "normal" else (judged == KEY[row] and P[KEY[row]] > .5)
-            rows.append(dict(model=TAG, arm=arm, id=s["id"], line_mood=s["mood"], row=row, judged=judged, ok=int(ok), secs=round(len(a) / 24000, 2), **{"p_" + k: round(v, 3) for k, v in P.items()}))
+            heard = asr(librosa.resample(a, orig_sr=24000, target_sr=16000))["text"]; wer = jiwer.wer(" ".join(norm(s["text"])), " ".join(norm(heard)) or "x")
+            rows.append(dict(model=TAG, arm=arm, id=s["id"], line_mood=s["mood"], row=row, judged=judged, ok=int(ok), wer=round(wer, 3), secs=round(len(a) / 24000, 2), **{"p_" + k: round(v, 3) for k, v in P.items()}))
     print(f"{arm} done {(time.time()-T0)/60:.1f} min", flush=True)
 os.makedirs("out", exist_ok=True)
 with open(f"out/eval_{TAG}.csv", "w", newline="") as fh: w = csv.DictWriter(fh, list(rows[0])); w.writeheader(); w.writerows(rows)
-rep = [f"## {TAG} ({len(pick)} held-out lines, CPU)", "", "| arm | row | pass | judged neutral / happy / sad / angry | mean length s |", "|---|---|---|---|---|"]
+rep = [f"## {TAG} ({len(pick)} held-out lines, CPU)", "", "| arm | row | pass | judged neutral / happy / sad / angry | mean length s | word error |", "|---|---|---|---|---|---|"]
 for arm in ARMS:
     for row in ROWS:
         x = [r for r in rows if r["arm"] == arm and r["row"] == row]; c = {k: sum(r["judged"] == k for r in x) for k in ("neutral", "happy", "sad", "angry")}
-        rep.append(f"| {arm} | {row} | {sum(r['ok'] for r in x)}/{len(x)} | {c['neutral']} / {c['happy']} / {c['sad']} / {c['angry']} | {np.mean([r['secs'] for r in x]):.2f} |")
-    rep.append(f"| {arm} | **all** | **{sum(r['ok'] for r in rows if r['arm']==arm)}/{sum(1 for r in rows if r['arm']==arm)}** | | |")
+        rep.append(f"| {arm} | {row} | {sum(r['ok'] for r in x)}/{len(x)} | {c['neutral']} / {c['happy']} / {c['sad']} / {c['angry']} | {np.mean([r['secs'] for r in x]):.2f} | {np.mean([r['wer'] for r in x]):.2f} |")
+    rep.append(f"| {arm} | **all** | **{sum(r['ok'] for r in rows if r['arm']==arm)}/{sum(1 for r in rows if r['arm']==arm)}** | | | {np.mean([r['wer'] for r in rows if r['arm']==arm]):.2f} |")
 open(f"out/report_{TAG}.md", "w").write("\n".join(rep) + "\n"); print("\n".join(rep))
