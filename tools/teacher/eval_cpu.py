@@ -1,6 +1,6 @@
 """Teacher eval on CPU (GitHub Actions, free) with style-row exaggeration (chat 8, 23 Nov).
 Rows are pushed away from the mean of the 4 rows: row' = mean + a * (row - mean).
-Arms: 'P<a>' = only the prosody half (dims 128:256, read by the duration/pitch predictor), 'W<a>' = the whole 256-dim style.
+Arms: 'X<a>' = W<a> + normal pushed away from bright, bright away from low; 'P<a>' = only the prosody half (dims 128:256, read by the duration/pitch predictor), 'W<a>' = the whole 256-dim style.
 Usage: python eval_cpu.py <model.pth> <voicepack dir> <tag> <arms comma list> <n lines>   (run from kaggle/jobs/teacher_v05_eval)
 Judge: Meta superb, same pass rule as the Kaggle eval. No Whisper (CPU time)."""
 import csv, os, re, sys, time, types
@@ -28,6 +28,11 @@ def arm_vp(arm, row):
     if arm == 'base': return VP[row]
     a = float(arm[1:]); v = VP[row].clone(); d = MEAN + a * (VP[row] - MEAN)
     if arm[0] == 'W': return d
+    if arm[0] == 'X':   # W<a>, plus normal pushed away from bright and bright pushed away from low (both 0.5)
+        D = {r: MEAN + a * (VP[r] - MEAN) for r in ROWS}
+        if row == 'normal': return D['normal'] - 0.5 * (D['bright'] - D['normal'])
+        if row == 'bright': return D['bright'] + 0.5 * (D['bright'] - D['low'])
+        return D[row]
     v[..., 128:] = d[..., 128:]; return v
 # fixed, balanced subset of held-out lines (every mood), the same for every model and arm
 S = sorted(STUDENT, key=lambda s: (s['id']))
